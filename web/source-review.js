@@ -2,6 +2,7 @@ const els = {
   chapterFilter: document.querySelector("#chapterFilter"),
   priorityFilter: document.querySelector("#priorityFilter"),
   decisionFilter: document.querySelector("#decisionFilter"),
+  sceneFilter: document.querySelector("#sceneFilter"),
   searchInput: document.querySelector("#searchInput"),
   summary: document.querySelector("#summary"),
   itemList: document.querySelector("#itemList"),
@@ -25,6 +26,7 @@ const els = {
 
 const state = {
   payload: null,
+  scenePayload: null,
   items: [],
   filtered: [],
   selectedId: "",
@@ -50,6 +52,8 @@ async function init() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.payload = await response.json();
     state.items = (state.payload.decisions || []).map((item) => ({ ...item }));
+    await loadScenePacket();
+    applySceneMetadata();
     state.selectedId = itemKey(state.items[0] || {});
     populateFilters();
     bindEvents();
@@ -63,6 +67,7 @@ async function init() {
 function populateFilters() {
   fillSelect(els.priorityFilter, unique(state.items.map((item) => item.priority_group)));
   fillSelect(els.decisionFilter, unique(state.items.map((item) => item.suggested_decision)), decisionLabels);
+  fillSelect(els.sceneFilter, unique(state.items.map((item) => item.scene_title)));
 }
 
 function fillSelect(select, values, labels = {}) {
@@ -75,7 +80,7 @@ function fillSelect(select, values, labels = {}) {
 }
 
 function bindEvents() {
-  [els.chapterFilter, els.priorityFilter, els.decisionFilter, els.searchInput].forEach((control) => {
+  [els.chapterFilter, els.priorityFilter, els.decisionFilter, els.sceneFilter, els.searchInput].forEach((control) => {
     control.addEventListener("input", render);
   });
   els.decisionInput.addEventListener("input", updateCurrentEdit);
@@ -96,8 +101,9 @@ function render() {
     if (els.chapterFilter.value && item.chapter_id !== els.chapterFilter.value) return false;
     if (els.priorityFilter.value && item.priority_group !== els.priorityFilter.value) return false;
     if (els.decisionFilter.value && item.suggested_decision !== els.decisionFilter.value) return false;
+    if (els.sceneFilter.value && item.scene_title !== els.sceneFilter.value) return false;
     if (!query) return true;
-    return [item.chunk_id, item.source_excerpt, item.candidate_text, item.priority_group, item.review_status]
+    return [item.chunk_id, item.source_excerpt, item.candidate_text, item.priority_group, item.review_status, item.scene_title]
       .join("\n")
       .toLowerCase()
       .includes(query);
@@ -118,7 +124,8 @@ function renderSummary() {
     ["已填写 decision", Array.from(state.edits.values()).filter((item) => item.decision).length],
     ["P1", state.filtered.filter((item) => String(item.priority_group).startsWith("P1")).length],
     ["P2", state.filtered.filter((item) => String(item.priority_group).startsWith("P2")).length],
-    ["P3/P4", state.filtered.filter((item) => /^P[34]/.test(String(item.priority_group))).length]
+    ["P3/P4", state.filtered.filter((item) => /^P[34]/.test(String(item.priority_group))).length],
+    ["应用场景", unique(state.filtered.map((item) => item.scene_title)).length]
   ];
   els.summary.innerHTML = rows.map(([label, value]) => `<div class="summary-row"><span>${escapeHtml(label)}</span><strong>${value}</strong></div>`).join("");
 }
@@ -139,6 +146,7 @@ function renderList() {
         <small>${escapeHtml(item.priority_group)}</small>
         <span class="badge-row">
           <span class="badge">${escapeHtml(item.review_status)}</span>
+          ${item.scene_title ? `<span class="badge scene">${escapeHtml(item.scene_title)}</span>` : ""}
           <span class="badge ${escapeHtml(decision)}">${escapeHtml(decisionLabels[decision] || decision || "待填写")}</span>
         </span>
       </button>`;
@@ -165,7 +173,12 @@ function renderDetail() {
   const key = itemKey(item);
   const edit = state.edits.get(key) || {};
   els.detailTitle.textContent = `${item.chapter_id} / ${item.chunk_id}`;
-  els.detailMeta.textContent = `${item.priority_group} · ${item.review_status} · 建议：${decisionLabels[item.suggested_decision] || item.suggested_decision}`;
+  els.detailMeta.textContent = [
+    item.priority_group,
+    item.review_status,
+    item.scene_title,
+    `建议：${decisionLabels[item.suggested_decision] || item.suggested_decision}`
+  ].filter(Boolean).join(" · ");
   els.sourceText.textContent = item.source_excerpt || "";
   els.candidateText.textContent = item.candidate_text || "";
   els.decisionInput.value = edit.decision ?? item.decision ?? "";
@@ -175,6 +188,8 @@ function renderDetail() {
 
 function factsHtml(item) {
   const pairs = [
+    ["应用场景", item.scene_title || ""],
+    ["场景命中词", (item.scene_terms || []).join("; ")],
     ["候选段落", `${item.approved_paragraph_start || ""}-${item.approved_paragraph_end || ""}`],
     ["候选得分", item.candidate_score],
     ["分数差", item.score_margin],
@@ -183,6 +198,34 @@ function factsHtml(item) {
     ["匹配术语", (item.matched_terms || []).join("; ")]
   ];
   return pairs.map(([key, value]) => `<dt>${escapeHtml(key)}</dt><dd>${escapeHtml(value ?? "")}</dd>`).join("");
+}
+
+async function loadScenePacket() {
+  try {
+    const response = await fetch("../output/ch11_application_scene_review_packet_2026-06-05.json");
+    if (!response.ok) return;
+    state.scenePayload = await response.json();
+  } catch (_error) {
+    state.scenePayload = null;
+  }
+}
+
+function applySceneMetadata() {
+  const index = new Map();
+  for (const group of state.scenePayload?.groups || []) {
+    for (const item of group.items || []) {
+      index.set(itemKey(item), {
+        scene_id: item.scene_id || group.scene_id || "",
+        scene_title: item.scene_title || group.scene_title || "",
+        scene_terms: item.scene_terms || []
+      });
+    }
+  }
+  if (!index.size) return;
+  state.items = state.items.map((item) => {
+    const scene = index.get(itemKey(item));
+    return scene ? { ...item, ...scene } : item;
+  });
 }
 
 function updateCurrentEdit() {

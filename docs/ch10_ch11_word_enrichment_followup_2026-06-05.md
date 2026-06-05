@@ -334,3 +334,26 @@ P1 专项包统计：
 | 脚本编译 | `py -m py_compile scripts/build_ch11_application_scene_review_packet.py` 通过 |
 | 包生成 | 29 条 P3 ch11 应用场景复核项全部进入分组包 |
 | 场景抽查 | 视距/车辆动力学归入设计仿真；压实/摊铺/预制构件归入施工控制；降阶模型/损伤识别归入预测性养护；车道级数字车流归入交通治理 |
+
+## 复核工作台场景筛选
+
+本轮将第11章应用场景分组包接入 `web/source-review.html`。工作台启动后会尝试读取 `output/ch11_application_scene_review_packet_2026-06-05.json`，并为对应的 29 条 `P3_ch11_application_scene_manual` 条目补充 `scene_id`、`scene_title` 和 `scene_terms`。如果分组包不存在，页面仍按原有方式加载，不影响基础复核。
+
+新增能力：
+
+| 功能 | 说明 |
+|---|---|
+| 应用场景筛选 | 可按设计仿真、施工控制、数字化交付、预测性养护、资产管理、智慧交通治理筛选 |
+| 场景 badge | 条目卡片显示对应应用场景 |
+| 详情补充 | 审批详情中显示应用场景和命中词 |
+| 关键词检索 | 搜索范围扩展到场景标题 |
+
+验证结果：
+
+| 检查项 | 结果 |
+|---|---|
+| 静态 HTML | `source-review.html?fresh=20260605d` 含 `sceneFilter` 和新版缓存号 |
+| 静态 JS | `source-review.js?v=20260605d` 含场景包加载、筛选和 badge 逻辑 |
+| 场景包访问 | `http://127.0.0.1:5174/output/ch11_application_scene_review_packet_2026-06-05.json` 返回 200 |
+| 场景索引 | 29 条 ch11 应用场景条目完成索引，`ch11_src_160` 归入“智慧交通治理与韧性服务” |
+| JS 初始化 | 在最小 DOM/fetch stub 下动态导入执行通过 |

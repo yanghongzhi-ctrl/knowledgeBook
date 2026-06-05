@@ -193,6 +193,11 @@ textarea {
   color: var(--amber);
 }
 
+.badge.scene {
+  background: #e8eef8;
+  color: var(--blue);
+}
+
 .detail {
   display: flex;
   min-height: 0;
