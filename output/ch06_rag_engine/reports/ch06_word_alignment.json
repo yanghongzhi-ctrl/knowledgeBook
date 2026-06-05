@@ -1,0 +1,3798 @@
+{
+  "chapter_id": "ch06",
+  "title": "AutoCAD绘图基础与应用技巧",
+  "raw_package": "D:\\knowledgebase\\data\\raw\\ch06\\第6章_AutoCAD平台功能与使用方法_知识库_v1.0操作完备版.json",
+  "word_range": {
+    "start_paragraph": 2496,
+    "end_paragraph": 3439,
+    "paragraphs": 943
+  },
+  "word_characters": 31579,
+  "kb_counts": {
+    "Knowledge_Points": 81,
+    "Answer_Cards": 180,
+    "Source_Chunks": 150,
+    "Operation_Tasks": 30,
+    "Operation_Steps": 150,
+    "Common_Errors": 90
+  },
+  "source_chunk_alignment": {
+    "partial": 24,
+    "missing": 28,
+    "concept_supported": 4,
+    "exact": 94,
+    "total": 150
+  },
+  "knowledge_point_alignment": {
+    "hit": 81,
+    "miss": 0,
+    "total": 81
+  },
+  "operation_task_alignment": {
+    "hit": 30,
+    "miss": 0,
+    "total": 30
+  },
+  "answer_card_alignment": {
+    "hit": 94,
+    "miss": 86,
+    "total": 180
+  },
+  "heading_coverage": {
+    "hit": 45,
+    "miss": 29,
+    "total": 74
+  },
+  "samples": {
+    "missing_source_chunks": [
+      {
+        "chunk_id": "ch06_src_004",
+        "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能",
+        "status": "missing",
+        "support_terms": [
+          "AutoCAD"
+        ],
+        "excerpt_preview": "AutoCAD 的核心能力覆盖“绘图—编辑—组织—表达—输出—扩展”的完整流程，主要包括以下几个方面："
+      },
+      {
+        "chunk_id": "ch06_src_007",
+        "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化",
+        "status": "missing",
+        "support_terms": [
+          "AutoCAD"
+        ],
+        "excerpt_preview": "AutoCAD的图形编辑以“几何修改—由简成繁—属性调整”为核心，既支持对既有对象的形状与尺寸进行快速修正，也能基于简单图形高效构建复杂图形，并通过颜色、线型、图层、坐标等属性的变更实现灵活控制。结合几何/尺寸/动态约束建立参数关系，并借助"
+      },
+      {
+        "chunk_id": "ch06_src_008",
+        "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化 / 4.对象插入与外部参照",
+        "status": "missing",
+        "support_terms": [
+          "Xref"
+        ],
+        "excerpt_preview": "支持块与动态块的定义、属性赋值与复用；可插入栅格图像与数据链接，将多源资料统一至当前图形。外部参照 Xref 用于管理跨图纸与跨专业资源，可统一控制插入基点、比例、方向与路径，实现组件化复用与协同更新。"
+      },
+      {
+        "chunk_id": "ch06_src_009",
+        "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化 / 4.对象插入与外部参照 / 5.注释与标注",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "面向工程表达的规范化，提供文字、引线、符号及多类型尺寸标注（长度、水平/垂直距离、角度、直径、半径、坐标等）。通过标注样式管理实现批量一致性，支持基线标注与连续标注，有效传达尺寸、材料、工艺与施工信息，服务审图、校核与交付。 6．视图与视口"
+      },
+      {
+        "chunk_id": "ch06_src_018",
+        "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS） / 1.坐标表示方式",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "直角坐标 ：以 (0,0) 为原点， 水平、 垂直。 极坐标 ：以与 轴正向的夹角与到参考点的距离表示；角度逆时针为正。"
+      },
+      {
+        "chunk_id": "ch06_src_026",
+        "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "<w"
+      },
+      {
+        "chunk_id": "ch06_src_027",
+        "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "<w"
+      },
+      {
+        "chunk_id": "ch06_src_028",
+        "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "<w"
+      },
+      {
+        "chunk_id": "ch06_src_029",
+        "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "<w"
+      },
+      {
+        "chunk_id": "ch06_src_030",
+        "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "<w"
+      },
+      {
+        "chunk_id": "ch06_src_031",
+        "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "<w"
+      },
+      {
+        "chunk_id": "ch06_src_032",
+        "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "<w"
+      }
+    ],
+    "kp_not_in_word": [],
+    "tasks_not_in_word": [],
+    "answers_not_in_word": [
+      {
+        "answer_id": "ans_ch06_concept_001",
+        "canonical_question": "AutoCAD功能体系是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_002",
+        "canonical_question": "AutoCAD功能体系在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_003",
+        "canonical_question": "绘图环境与界面是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_004",
+        "canonical_question": "绘图环境与界面在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_005",
+        "canonical_question": "坐标系统与坐标输入是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_006",
+        "canonical_question": "坐标系统与坐标输入在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_007",
+        "canonical_question": "模型空间与图纸空间是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_008",
+        "canonical_question": "模型空间与图纸空间在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_009",
+        "canonical_question": "命令机制与基本绘图是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_010",
+        "canonical_question": "命令机制与基本绘图在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_011",
+        "canonical_question": "基本绘图命令是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_012",
+        "canonical_question": "基本绘图命令在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_013",
+        "canonical_question": "图形编辑与修改是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_014",
+        "canonical_question": "图形编辑与修改在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_015",
+        "canonical_question": "精确定位工具是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_016",
+        "canonical_question": "精确定位工具在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_017",
+        "canonical_question": "文字标注是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_018",
+        "canonical_question": "文字标注在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_019",
+        "canonical_question": "尺寸标注是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch06_concept_020",
+        "canonical_question": "尺寸标注在道路制图中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      }
+    ],
+    "headings_not_in_kb": [
+      {
+        "paragraph": 2496,
+        "style": "ab",
+        "heading": "AutoCAD绘图基础与应用技巧",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 2646,
+        "style": "ab",
+        "heading": "样条曲线示意图",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 2688,
+        "style": "ab",
+        "heading": "矩形选择方法示意图",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 2691,
+        "style": "ab",
+        "heading": "不规则形状选择示意图",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 2749,
+        "style": "ab",
+        "heading": "按相对角度旋转示意图",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 2849,
+        "style": "ab",
+        "heading": "偏移对象示意图",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3064,
+        "style": "ab",
+        "heading": "角度标注示意图",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3242,
+        "style": "ab",
+        "heading": "“属性定义”对话框",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3249,
+        "style": "ab",
+        "heading": "“编辑属性”对话框",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3260,
+        "style": "",
+        "heading": "一、设置三维绘图环境",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3267,
+        "style": "ab",
+        "heading": "UCS操作栏",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3268,
+        "style": "",
+        "heading": "二、三维对象的显示模式",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3274,
+        "style": "ab",
+        "heading": "视觉样式管理器",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3279,
+        "style": "",
+        "heading": "三、在三维空间查看模型",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3287,
+        "style": "ab",
+        "heading": "视点预设",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3293,
+        "style": "",
+        "heading": "四、创建表面模型",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3313,
+        "style": "ab",
+        "heading": "连续绘制空间平面",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3316,
+        "style": "ab",
+        "heading": "创建平移曲面网格命令",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3326,
+        "style": "ab",
+        "heading": "绘制旋转曲面",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3339,
+        "style": "ab",
+        "heading": "绘制边界定义曲面",
+        "kb_hit": false
+      }
+    ],
+    "candidate_supplement_terms": [
+      {
+        "term": "SURFTAB2",
+        "word_count": 3,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "ISOLINES",
+        "word_count": 3,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "REGEN",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "SURFTAB1",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      }
+    ]
+  },
+  "source_rows": [
+    {
+      "chunk_id": "ch06_src_001",
+      "heading_path": "第6章 AutoCAD平台功能与使用方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "AutoCAD平台功能与使用方法 【学习目标】 1.掌握AutoCAD的核心功能与工作界面，理解坐标系统（UCS与WCS）。熟练运用绝对直角坐标、相对直角坐标、绝对极坐标和相对极坐标进行精确绘图。区分模型空间（设计与建模）与图纸空间（布局与"
+    },
+    {
+      "chunk_id": "ch06_src_002",
+      "heading_path": "第6章 AutoCAD平台功能与使用方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "4.精通图层管理：学会创建新图层并设置颜色、线型、线宽等属性。掌握图层状态控制：开/关、冻结/解冻、锁定/解锁的区别与应用。掌握图块（Block）的应用：掌握定义块的方法，学会插入块并调整比例/旋转，掌握“写块”命令将块导出为独立文件以实现"
+    },
+    {
+      "chunk_id": "ch06_src_003",
+      "heading_path": "第一节 AutoCAD的基础知识",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "作为道路数字化设计的基础工具，理解AutoCAD的绘图逻辑与表达方式至关重要。本节将围绕AutoCAD的基本功能展开，介绍其绘图界面与工具体系，剖析坐标系统与图形表达的内在逻辑，并说明模型空间与图纸空间的作用与转换机制。"
+    },
+    {
+      "chunk_id": "ch06_src_004",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能",
+      "status": "missing",
+      "support_terms": [
+        "AutoCAD"
+      ],
+      "excerpt_preview": "AutoCAD 的核心能力覆盖“绘图—编辑—组织—表达—输出—扩展”的完整流程，主要包括以下几个方面："
+    },
+    {
+      "chunk_id": "ch06_src_005",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置",
+      "status": "concept_supported",
+      "support_terms": [
+        "DWG",
+        "DXF",
+        "DWT"
+      ],
+      "excerpt_preview": "支持图形文件的新建、打开、保存与备份；兼容 DWG、DXF 等格式及多版本转换，保障资料在不同软件与历史版本间的流转。环境设置包括图形单位与界限、图层/线型/线宽、文字与标注样式、捕捉与栅格（OSNAP/GRID）、极轴与对象追踪等；通过模"
+    },
+    {
+      "chunk_id": "ch06_src_006",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模",
+      "status": "concept_supported",
+      "support_terms": [
+        "line",
+        "polyline",
+        "circle",
+        "arc",
+        "polygon",
+        "spline",
+        "2D",
+        "3D"
+      ],
+      "excerpt_preview": "二维阶段提供基本图元与命令如：直线（line）、多段线（polyline）、圆（circle）、圆弧（arc）、矩形（rectangle）、多边形（polygon）、样条曲线（spline）、图案填充（hatch）、面域（region）等，"
+    },
+    {
+      "chunk_id": "ch06_src_007",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化",
+      "status": "missing",
+      "support_terms": [
+        "AutoCAD"
+      ],
+      "excerpt_preview": "AutoCAD的图形编辑以“几何修改—由简成繁—属性调整”为核心，既支持对既有对象的形状与尺寸进行快速修正，也能基于简单图形高效构建复杂图形，并通过颜色、线型、图层、坐标等属性的变更实现灵活控制。结合几何/尺寸/动态约束建立参数关系，并借助"
+    },
+    {
+      "chunk_id": "ch06_src_008",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化 / 4.对象插入与外部参照",
+      "status": "missing",
+      "support_terms": [
+        "Xref"
+      ],
+      "excerpt_preview": "支持块与动态块的定义、属性赋值与复用；可插入栅格图像与数据链接，将多源资料统一至当前图形。外部参照 Xref 用于管理跨图纸与跨专业资源，可统一控制插入基点、比例、方向与路径，实现组件化复用与协同更新。"
+    },
+    {
+      "chunk_id": "ch06_src_009",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化 / 4.对象插入与外部参照 / 5.注释与标注",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "面向工程表达的规范化，提供文字、引线、符号及多类型尺寸标注（长度、水平/垂直距离、角度、直径、半径、坐标等）。通过标注样式管理实现批量一致性，支持基线标注与连续标注，有效传达尺寸、材料、工艺与施工信息，服务审图、校核与交付。 6．视图与视口"
+    },
+    {
+      "chunk_id": "ch06_src_010",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化 / 4.对象插入与外部参照 / 5.注释与标注 / 8.界面定制与二次开发",
+      "status": "concept_supported",
+      "support_terms": [
+        "DXF",
+        "AutoLISP",
+        "C++",
+        "net"
+      ],
+      "excerpt_preview": "提供动作录制、工具选项板与工作空间定制，结合快捷方式与菜单/面板管理，构建贴合任务场景的高效界面。扩展方面，支持脚本（SCR）、数据交换（如 DXF）以及与 AutoLISP、VBA/ActiveX、ObjectARX（C++）、.net等"
+    },
+    {
+      "chunk_id": "ch06_src_011",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化 / 4.对象插入与外部参照 / 5.注释与标注 / 8.界面定制与二次开发 / 二、AutoCAD的绘图环境",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "每次启动 AutoCAD，用户将进入其设计工作空间，界面包含多个基本组件。图 6-1展示了AutoCAD窗口主要部分。 AutoCAD界面 1．标题栏与快速访问工具栏 标题栏显示 AutoCAD 程序图标及当前操作文件的名称（如 Drawi"
+    },
+    {
+      "chunk_id": "ch06_src_012",
+      "heading_path": "第一节 AutoCAD的基础知识 / 一、AutoCAD的功能 / 1.文件管理与环境设置 / 2.绘图与建模 / 3.编辑与参数化 / 4.对象插入与外部参照 / 5.注释与标注 / 8.界面定制与二次开发 / 二、AutoCAD的绘图环境",
+      "status": "concept_supported",
+      "support_terms": [
+        "OPTIONS",
+        "ViewCube"
+      ],
+      "excerpt_preview": "绘图区域显示绘制的图形，用户可以根据需要调整背景颜色（默认黑色背景、白色线条）。若需修改背景颜色，可在命令行输入 OPTIONS 打开“选项”对话框（图 6-2）。在“窗口元素”页的“颜色主题”中选择“明”或“暗”以切换界面明暗。另外，在此"
+    },
+    {
+      "chunk_id": "ch06_src_013",
+      "heading_path": "5.坐标与视图管理",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "十字光标用于标识拾取点和绘图点，帮助定位、选择和绘制对象。 导航栏提供平移、缩放等基本视图操作，增强对绘图区域的控制。 用户坐标系（UCS）图标显示图形的坐标方向，支持在用户坐标系（UCS）和世界坐标系（WCS）之间切换。 6．布局管理与命"
+    },
+    {
+      "chunk_id": "ch06_src_014",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "状态栏显示当前绘图状态，包含常用绘图辅助工具的开关按钮，如捕捉、栅格、正交、极轴等，用户可快速调整绘图环境。"
+    },
+    {
+      "chunk_id": "ch06_src_015",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（一）AutoCAD的坐标系 AutoCAD 通过世界坐标系（WCS）与用户坐标系（UCS）进行空间定位，是构建图形与精确绘制的基础。"
+    },
+    {
+      "chunk_id": "ch06_src_016",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS）",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "WCS 为全局固定坐标：X 轴向右为正，Y 轴向上为正，Z 轴自 XY 平面向外为正。首次启动默认处于 WCS，整个设计过程中始终存在。"
+    },
+    {
+      "chunk_id": "ch06_src_017",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS）",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "UCS 为可自定义的本地坐标，可根据任务重设原点与轴向，以获得与构件或工作平面一致的绘图方向，比较适用于三维建模场景。 常用设置：命令行输入 UCS 回车，或在“工具 → UCS → 三点”按提示依次指定原点、X 轴方向点、Y 轴方向点，即"
+    },
+    {
+      "chunk_id": "ch06_src_018",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS） / 1.坐标表示方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "直角坐标 ：以 (0,0) 为原点， 水平、 垂直。 极坐标 ：以与 轴正向的夹角与到参考点的距离表示；角度逆时针为正。"
+    },
+    {
+      "chunk_id": "ch06_src_019",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS） / 1.坐标表示方式 / 2.坐标输入方式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "在 AutoCAD 中，坐标输入根据设计需求，可采用多种方式精准定点位，包括绝对直角坐标、绝对极坐标、相对直角坐标与相对极坐标四种输入形式。 （1）直角坐标输入 以(0,0)为参照原点，直接输入目标点的 X、Y 坐标值。格式为 ，坐标间用英"
+    },
+    {
+      "chunk_id": "ch06_src_020",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS） / 1.坐标表示方式 / 2.坐标输入方式 / 四、模型空间与图纸空间",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（一）模型空间与图纸空间的概念 在 AutoCAD 中，绘图环境分为模型空间（Model Space）与图纸空间（Paper Space）两种，它们分别承担建模与出图的不同任务，是实现从设计到图纸表达的重要组织机制。"
+    },
+    {
+      "chunk_id": "ch06_src_021",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS） / 1.坐标表示方式 / 2.坐标输入方式 / 四、模型空间与图纸空间 / 1.模型空间",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "模型空间是用于创建设计模型的工作区域，其绘图范围理论上无限大，适合进行精确的二维绘图或三维建模操作。用户通常以 1:1 的比例在模型空间中绘制图形，所用单位可以根据工程需求设定为毫米、英寸或其他实际单位。在该空间内，设计者可以专注于图形内容"
+    },
+    {
+      "chunk_id": "ch06_src_022",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS） / 1.坐标表示方式 / 2.坐标输入方式 / 四、模型空间与图纸空间 / 1.模型空间 / 2.图纸空间",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "图纸空间则用于图形的组织与排版，类似于一张“虚拟图纸”。在图纸空间中，用户可以插入一个或多个视口（Viewport），每个视口可以显示模型空间中的不同区域，并为其单独设置显示比例、图层状态和可见范围。这使得设计者能够在同一张图纸上同时展示不"
+    },
+    {
+      "chunk_id": "ch06_src_023",
+      "heading_path": "5.坐标与视图管理 / 7.状态栏与辅助工具 / 三、坐标系统与图形表达 / 1.世界坐标系（WCS） / 2.用户坐标系（UCS） / 1.坐标表示方式 / 2.坐标输入方式 / 四、模型空间与图纸空间 / 1.模型空间 / 2.图纸空间",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "此外，在图纸空间中，常需要进行页面设置与图纸布局操作。以“布局1”为例，用户可右键点击该标签，选择“页面设置管理器”，并进入“页面设置-布局1”对话框（如图 6-4所示），设置打印设备、图纸幅面、出图比例、打印范围等参数。设置完成后，即可开"
+    },
+    {
+      "chunk_id": "ch06_src_024",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "图形是由一些基本的元素组成的，如圆、直线和多边形等，这是绘制复杂图形的基础，AutoCAD提供了大量的绘图工具，既可直接绘制新图形，也可在既有图形基础上通过编辑得到新图形。常用的绘图方式包括： （1）利用AutoCAD绘图命令绘图。 （2）"
+    },
+    {
+      "chunk_id": "ch06_src_025",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（一）AutoCAD的命令机制 在 AutoCAD 中，“命令”是实现绘图、编辑、环境设置等操作的基本方式。AutoCAD的绘图过程就是用户发出命令→AutoCAD执行→等待提供附加信息或新命令这样一个无限循环过程，直至用户退出AutoCA"
+    },
+    {
+      "chunk_id": "ch06_src_026",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_027",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_028",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_029",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_030",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_031",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_032",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_033",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_034",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_035",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_036",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_037",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_038",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: LINE（或L）或点击“绘图”工具栏的工具 指定第一点: 指定下一点或 [放弃(U)]: 指定下一点或 [闭合(C)/放弃(U)]:"
+    },
+    {
+      "chunk_id": "ch06_src_039",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续输入 U 可逐段逆序撤销至起点。 （三）绘制多段线 多段线（Polyline，P"
+    },
+    {
+      "chunk_id": "ch06_src_040",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: PLINE或点击“绘图”工具栏的工具 指定起点: 当前线宽为 0.0000 指定下一个点或 [圆弧(A)/半宽(H)/长度(L)/放弃(U)/宽度(W)]: 指定下一点或 [圆弧(A)/闭合(C)/半宽(H)/长度(L)/放弃(U)"
+    },
+    {
+      "chunk_id": "ch06_src_041",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: ARC或点击“绘图”工具栏的工具 指定圆弧的起点或 [圆心(C)]: 指定圆弧的第二个点或 [圆心(C)/端点(E)]: 指定圆弧的端点: ARC命令将根据用户的输入继续提示用户输入圆弧的圆心、起点、端点、角度、方向、半径、弦长等信"
+    },
+    {
+      "chunk_id": "ch06_src_042",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）ARC 是 AutoCAD 中输入方式最灵活的绘图命令之一，提供十余种组合，包括三点法、起点–圆心–终点、起点–圆心–角度/长度、起点–终点–角度/半径/方向等。"
+    },
+    {
+      "chunk_id": "ch06_src_043",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "<w"
+    },
+    {
+      "chunk_id": "ch06_src_044",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（五）绘制圆 AutoCAD提供了多种方式圆。默认方法是指定圆心和半径，另外还提供其他三种绘制圆的方法，如图 6-5示。"
+    },
+    {
+      "chunk_id": "ch06_src_045",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_046",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "圆的绘制方式"
+    },
+    {
+      "chunk_id": "ch06_src_047",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "命令: CIRCLE（或C）或点击“绘图”工具栏的工具 指定圆的圆心或 [三点(3P)/两点(2P)/切点、切点、半径(T)]: 指定圆的半径或 [直径(D)]: 若第一步选择“3P”选项，AutoCAD将提示输入三个点： 指定圆上的第一个"
+    },
+    {
+      "chunk_id": "ch06_src_048",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "（1）3P选项通过依次指定圆周上的三个点创建圆。三点不得共线，否则系统报错。输入前两点后，视图中会出现预览圆并随鼠标移动，便于在确定第三点前直观判断圆的大小与位置。 （2）2P选项以两点确定圆的直径，圆心位于两点连线的中点。适用于已知直径端"
+    },
+    {
+      "chunk_id": "ch06_src_049",
+      "heading_path": "第二节 AutoCAD基本作图工具及使用技巧 / 一、基本绘图命令 / 1.命令执行过程 / 2.命令的启动方式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: SPLINE下拉“绘图”工具栏点击工具 当前设置: 方式=拟合 节点=弦 指定第一个点或 [方式(M)/阶数(K)/对象(O)]: 输入下一个点或 [起点切向(T)/公差(L)]: 输入下一个点或 [端点相切(T)/公差(L)/放弃"
+    },
+    {
+      "chunk_id": "ch06_src_050",
+      "heading_path": "2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）在指定样条曲线的第一个点后，系统会依次提示输入更多点以确定曲线形状。用户可连续添加多个点，也可用Undo撤销最后输入的点。若选择闭合选项，首尾点将重合并在连接处保持相切，系统还会提示设定该连接点的切线方向。通过拟合公差选项，可调整曲线"
+    },
+    {
+      "chunk_id": "ch06_src_051",
+      "heading_path": "2.选项说明",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_052",
+      "heading_path": "2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "绘制正多边形的方法示意图"
+    },
+    {
+      "chunk_id": "ch06_src_053",
+      "heading_path": "2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: POLYGON或先点击“绘图”工具栏矩形工具旁的倒三角，再选择多边形工具 输入侧面数 <4>: （输入一个3～1024范围内的整数或按ENTER键） 指定正多边形的中心点或 [边(E)]: （指定点1或输入E选项） 输入选项 [内接"
+    },
+    {
+      "chunk_id": "ch06_src_054",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "（1）polygon命令绘制的正多边形是多义线图元，而不是由line图元组成的，该多义线宽度为0，且不合切线信息，但可用pedit命令修改。 （2）如果使用E（边）选项，用户需指定该边的两个端点，AutoCAD将根据边的起点（第一点）和端点"
+    },
+    {
+      "chunk_id": "ch06_src_055",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（一）选择对象 选择要编辑的对象时，系统提供了多种功能和选项：逐个地选择对象、选择多个对象、过滤选择集等。"
+    },
+    {
+      "chunk_id": "ch06_src_056",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在出现“选择对象”提示时，可用鼠标逐个单击将对象加入当前选择集；拾取框需与对象任一部分相交方可选中。对于彼此接近或重叠的对象，可按住 Ctrl 反复单击在候选对象间循环切换，直至目标对象高亮，按 Esc 退出循环；若需从当前选择集中移除某对"
+    },
+    {
+      "chunk_id": "ch06_src_057",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在“选择对象”提示下可一次性选取多对象，常用方式包括： （1）矩形选择区域：指定两相对角点。左→右拖动为窗口（Window），仅选中完全包含于矩形内的对象；右→"
+    },
+    {
+      "chunk_id": "ch06_src_058",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_059",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（3）选择栏（Fence）：键入 F，依次指点形成“栏选”路径，仅选取被路径穿过的对象，非封闭（见图 6-10）。"
+    },
+    {
+      "chunk_id": "ch06_src_060",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_061",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "栏选示意图 （4）从选择集中删除/添加：在选择过程中可键入 R（Remove）并配合上述方式移除对象；需恢复添加时键入 A（Add）。也可按住 Shift 单击移除个别对象。 （二）移动对象 AutoCAD 提供多种移动方式（两点定位、位移"
+    },
+    {
+      "chunk_id": "ch06_src_062",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: MOVE或点击“修改”工具栏的工具 选择对象: （选择要移动的物体） 选择对象: （也可继续选择物体） 指定基点或 [位移(D)] <位移>: （选取基点或输入移动距离） 指定第二个点或 <使用第一个点作为位移>:（选取另一点或直接"
+    },
+    {
+      "chunk_id": "ch06_src_063",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "（1）两点移动：以“基点 → 第二点”确定方向与距离，对象整体按该向量平移。位移向量（D）：选择 D 后直接输入位移量，如 @dx,dy（二维）或 @dx,dy,dz（三维），适合精确数值移动。 （2）在“指定第二个点”提示下按 Enter"
+    },
+    {
+      "chunk_id": "ch06_src_064",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "（1）可一次性复制一个或多个对象。在提示“指定第二个点或 [阵列(A)] <使用第一个点作为位移>:”时，指定第二点即可完成一次复制；继续指定新的第二点，可连续生成多份副本。需要规则分布时可选用 [阵列(A)]。 （2）在同一提示下直接回车"
+    },
+    {
+      "chunk_id": "ch06_src_065",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_066",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "拉伸示意图"
+    },
+    {
+      "chunk_id": "ch06_src_067",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: STRETCH或点击“修改”工具栏的工具 以交叉窗口或交叉多边形选择要拉伸的对象... 选择对象: 选择对象: （使用交叉矩形或多边形选择方式并在完成选择时按回车键） 指定基点或 [位移(D)] <位移>: （确定位移的基点） 指定"
+    },
+    {
+      "chunk_id": "ch06_src_068",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在目标选择时，对由 LINE/ARC/PLINE 等命令生成的线段类对象，依据其与选择窗口（或交叉窗口）的关系，移动或拉伸规则如下： （1）完全位于窗口内：对象整体移动。 （2）仅一端位于窗口内（另一端在外）：触发拉伸。直线对象窗口外端点固"
+    },
+    {
+      "chunk_id": "ch06_src_069",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: ROTATE或点击“修改”工具栏的工具 UCS 当前的正角方向: ANGDIR=逆时针 ANGBASE=0 选择对象: （选择要旋转的物体） 选择对象: （也可继续选择物体） 指定基点: （指定旋转的基点） 指定旋转角度，或 [复制"
+    },
+    {
+      "chunk_id": "ch06_src_070",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）可以在“指定旋转角度，或 [复制(C)/参照(R)]”提示下输入角度，一般情况下，输入正值逆时针旋转，反之顺时针旋转。也可绕基点拖动对象并指定旋转对象的终止位置点。 （2）在同一提示下输入“R”，则可以按相对角度旋转，如图 6-12所"
+    },
+    {
+      "chunk_id": "ch06_src_071",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "missing",
+      "support_terms": [
+        "AutoCAD"
+      ],
+      "excerpt_preview": "围绕捕捉、对象捕捉等内容说明AutoCAD操作要点。"
+    },
+    {
+      "chunk_id": "ch06_src_072",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 二、编辑及图形修改 / 1.逐个选择对象 / 2.选择多个对象 / 1.命令格式 / 2.选项说明 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "②输入end（端点对象捕捉），选择被旋转的对象的端点3，完成参考角的定义； ③再次输入end，选择与之对齐的对象的端点4，即完成旋转。 （六）镜像对象 镜像可以创建对象的轴对称映像，适合绘制对称图形。"
+    },
+    {
+      "chunk_id": "ch06_src_073",
+      "heading_path": "1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: MIRROR或点击“修改”工具栏的工具 选择对象:（选择要镜像的对象） 选择对象: 指定镜像线的第一点: 指定镜像线的第二点: 要删除源对象吗？[是(Y)/否(N)]:"
+    },
+    {
+      "chunk_id": "ch06_src_074",
+      "heading_path": "1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关）。 （七）缩放对象 缩放命令在保持对象形状比例不变的前提下成比例放大或缩小，可"
+    },
+    {
+      "chunk_id": "ch06_src_075",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: SCALE或点击“修改”工具栏的工具 选择对象:（选择要缩放的对象） 选择对象: 指定基点:（确定基点） 指定比例因子或 [复制(C)/参照(R)]: （确定缩放比例或按参照长度缩放）"
+    },
+    {
+      "chunk_id": "ch06_src_076",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）输入缩放比例因子时，大于1的比例因子为放大，而小于1的比例因子为缩小。 （2）在“指定比例因子或 [复制(C)/参照(R)]:”提示下输入“R”，则AutoCAD提示： 指定参照长度 <1.0000>: （输入参照长度） 指定新的长度"
+    },
+    {
+      "chunk_id": "ch06_src_077",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: TRIM或点击“修改”工具栏的工具 当前设置:投影=UCS，边=无 选择要修剪的对象，或按住Shift键选择要延伸的对象 [剪切边(T)/窗交(C)/模式(0)/投影(P)/删除(R)] 选择剪切边选择对象，或按住Shift键选择要"
+    },
+    {
+      "chunk_id": "ch06_src_078",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "（1）剪切边(T)指定/添加作为修剪边界的对象，用于限定修剪或延伸的范围。 （2）窗交（C）修剪时可从右→左拖拽框选（窗交），一次选中窗口内及与窗口相交的对象；也可逐点单击。 （3）投影（P）选项确定修剪所在平面。 （4）边（E）控制是否将"
+    },
+    {
+      "chunk_id": "ch06_src_079",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: EXTEND或先点击“修改”工具栏修剪工具旁的倒三角，再选择延伸工具 当前设置:投影=UCS，边=无，模式=快速 选择要延伸的对象，或按住Shift键选择要修剪的对象，或 [边界边（B）/窗交（C）/模式（O）/投影（P）]"
+    },
+    {
+      "chunk_id": "ch06_src_080",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）“边界边（B）”选项用于指定其他选定对象来定义对象延伸到的边界。其他命令选项的含义参见剪切命令。 （2）对于多段线，只有不封闭的多段线可以延长。对有宽度的直线段与圆弧，按原倾斜度延长，如果延长后其末端的宽度要出现负值，该端的宽度改为零"
+    },
+    {
+      "chunk_id": "ch06_src_081",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_082",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "圆角示意图"
+    },
+    {
+      "chunk_id": "ch06_src_083",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: FILLET或点击“修改”工具栏的工具 当前设置: 模式 = 修剪，半径 = 0.0000 选择第一个对象或 [放弃(U)/多段线(P)/半径(R)/修剪(T)/多个(M)]: 选择第二个对象，或按住 Shift 键选择对象以应用角"
+    },
+    {
+      "chunk_id": "ch06_src_084",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）半径（R）用来确定圆角的圆角半径。执行该选项，AutoCAD提示： 指定圆角半径 <0.0000>: 即要求用户输入圆角的圆角半径值。响应后AutoCAD结束该命令的执行，返回到“命令:”状态。若进行圆角操作，则需再次执行FILLET"
+    },
+    {
+      "chunk_id": "ch06_src_085",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: ARRAY或点击“修改”工具栏的工具 选择对象: 选择对象: 输入阵列类型 [矩形(R)/路径(PA)/极轴(PO)]: 输入命令后就会出现阵列命令选项，详细的设置可以参考有关书籍。"
+    },
+    {
+      "chunk_id": "ch06_src_086",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_087",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "阵列示意图 （十二）删除对象 AutoCAD提供了几种方法从图形中删除对象，包括：删除、剪切到剪贴板、按DELETE键。"
+    },
+    {
+      "chunk_id": "ch06_src_088",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: ERASE（或E）或点击“修改”工具栏的工具 选择对象: （选取要删除的实体） 选择对象: （也可继续选择实体）"
+    },
+    {
+      "chunk_id": "ch06_src_089",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）在“选择对象”提示下，若输入L删除绘制的上一个对象；输入p删除前一个选择集；输入ALL删除所有对象。 （2）可以使用undo命令恢复意外删除的对象。 （十三）分解对象 分解对象是将复合对象分解为其部件对象。在希望单独修改复合对象的部件"
+    },
+    {
+      "chunk_id": "ch06_src_090",
+      "heading_path": "1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: EXPLODE或点击“修改”工具栏的工具 选择对象: 选择对象:"
+    },
+    {
+      "chunk_id": "ch06_src_091",
+      "heading_path": "2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "任何分解对象的颜色、线型和线宽都可能会改变。其他结果将根据分解的复合对象类型的不同而有所不同。可以分解的对象包括块、多段线及面域。 （十四）偏移对象 偏移对象可创建其形状与选定对象形状平行的新对象。偏移圆或圆弧可创建更大或更小的圆或圆弧，大"
+    },
+    {
+      "chunk_id": "ch06_src_092",
+      "heading_path": "2.选项说明",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_093",
+      "heading_path": "2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: OFFSET或点击“修改”工具栏的工具 当前设置: 删除源=否 图层=源 OFFSETGAPTYPE=0 指定偏移距离或 [通过(T)/删除(E)/图层(L)] <通过>: 选择要偏移的对象，或 [退出(E)/放弃(U)] <退出>"
+    },
+    {
+      "chunk_id": "ch06_src_094",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）在“指定偏移距离或 [通过(T)/删除(E)/图层(L)] <通过>:”提示下输入“T”，则系统会提示“指定通过点或 [退出(E)/多个(M)/放弃(U)] <退出>:”，提示选择偏移通过的点。 （2）偏移圆或圆弧时，向外侧偏移对象增"
+    },
+    {
+      "chunk_id": "ch06_src_095",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: BREAK或下拉“修改”工具栏点击工具 选择对象: 指定第二个打断点 或 [第一点(F)]: （确定第二点或输入选项）"
+    },
+    {
+      "chunk_id": "ch06_src_096",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在选取点处一分为二。 （2）如果第二个点不在对象上，则AutoCAD选择对象上与之"
+    },
+    {
+      "chunk_id": "ch06_src_097",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "AutoCAD提供了MEASURE命令以指定的间距标记对象（如图 6-17所示），可以使用点或块标记间距，等分对象的最后一段可能要比指定的间距短。"
+    },
+    {
+      "chunk_id": "ch06_src_098",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+    },
+    {
+      "chunk_id": "ch06_src_099",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "定距等分对象示意图 （1）命令格式 命令: MEASURE 选择要定距等分的对象: （使用鼠标直接点取方式选择一个对象） 指定线段长度或 [块(B)]: （输入等分距或输入B选项） 如果输入B（块）选项，AutoCAD将继续提示： 输入要插"
+    },
+    {
+      "chunk_id": "ch06_src_100",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象 / 2.定数等分对象",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在对象上按指定数目等间距创建点或插入块，这个操作并不将对象实际等分为单独对象。AutoCAD提供了DIVIDE命令定数等分对象。 （1）命令格式 命令: DIVIDE 选择要定数等分的对象: （使用鼠标直接点取方式选择一个对象） 输入线段数"
+    },
+    {
+      "chunk_id": "ch06_src_101",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象 / 2.定数等分对象 / 三、精确绘图工具",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在绘图过程中，精确定位点位或方向非常重要，依赖目测或手动操作的精度较低。为了解决这一问题，AutoCAD 提供了多种精确定位工具，集中在界面底部的状态栏中，帮助用户快速、准确地确定点位和方向（如图 6-18所示）。 状态栏"
+    },
+    {
+      "chunk_id": "ch06_src_102",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象 / 2.定数等分对象 / 三、精确绘图工具 / 1.栅格设置",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "通过启用栅格工具，绘图区域将显示网格作为参考，类似于传统坐标纸绘图。栅格只作为视觉辅助，不会影响打印输出，可以有效提升绘图的精度。 （1）命令格式 命令：DSETTINGS，或打开“草图设置”对话框，选择“捕捉和栅格”选项卡，如图 6-19"
+    },
+    {
+      "chunk_id": "ch06_src_103",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象 / 2.定数等分对象 / 三、精确绘图工具 / 1.栅格设置 / 2.捕捉工具",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "AutoCAD 的捕捉工具通过生成隐形捕捉栅格，限制光标移动至栅格节点，从而精确地选择点位并进行绘制操作。 （1）命令格式 命令：DSETTINGS，或打开“草图设置”对话框，选择“捕捉和栅格”选项卡，如错误!未找到引用源。所示。 （2）选"
+    },
+    {
+      "chunk_id": "ch06_src_104",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象 / 2.定数等分对象 / 三、精确绘图工具 / 1.栅格设置 / 2.捕捉工具 / 3.正交模式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "只能将光标限制在水平或垂直方向上移动，以便于精确地创建和修改对象，适用于绘制⽔平直线和垂直直线。可以通过输入命令ORTHO，点击状态栏“正交模式”图标或使用快捷键F8，打开正交模式。"
+    },
+    {
+      "chunk_id": "ch06_src_105",
+      "heading_path": "2.选项说明 / 1.命令格式 / 2.选项说明 / 1.命令格式 / 2.选项说明 / 1.定距等分对象 / 2.定数等分对象 / 三、精确绘图工具 / 1.栅格设置 / 2.捕捉工具 / 3.正交模式 / 4.对象捕捉",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "对象捕捉是 AutoCAD 的精确定位工具，用于在绘图过程中自动识别并对齐已有对象的特定几何特征点，如端点、中点、圆心、交点、切点等。启用后，光标接近这些特征点时会自动锁定，确保新绘制的元素准确对齐或连接至目标位置。 要启用或禁用对象捕捉功"
+    },
+    {
+      "chunk_id": "ch06_src_106",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（一）设置文字样式 “文字样式”是字体、行距、对正、颜色等参数的命名集合，用于统一文字外观并满足行业/工程标准。可使用默认样式，也可自定义。单击“注释”选项卡——“文字”面板右下角按钮，或在命令行输入 STYLE 回车，打开“文字样式”对话"
+    },
+    {
+      "chunk_id": "ch06_src_107",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "显示已定义的样式名（当前样式默认高亮），样式名前的图标指示是否为注释性。可新建或删除未使用的样式。 （1）新建（N）：打开“新建文字样式”对话框，系统按当前设置给出“样式n”默认名（n 为编号），可以采用默认值或在该框中输入名称，然后选择“"
+    },
+    {
+      "chunk_id": "ch06_src_108",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "用于更改样式的字体文件与样式。修改后，采用该样式的文字在重生成时应用新值。 （1）字体名（F）：列出已注册的 TrueType 字体与 AutoCAD Fonts 文件夹内编译的 SHX 字体。选择后自动加载，同一字体可被多个样式引用。 （"
+    },
+    {
+      "chunk_id": "ch06_src_109",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）注释性（I）：将样式设为注释性。注释性对象会随注释比例自动缩放，输入的“高度”为图纸高度，确保模型空间与布局中的显示与打印尺寸一致。 （2）高度（T）：设定文字高度。为 0.0 时采用上次使用值或样板文件中的默认值；大于 0.0 时为"
+    },
+    {
+      "chunk_id": "ch06_src_110",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组 / 4.“效果”选项组",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "对字体显示进行细化控制： （1）颠倒（E）：字符倒置显示。 （2）反向（K）：字符镜像反向显示。 （3）垂直（V）：竖排显示（仅在字体支持双向显示时可用）。 （4）宽度因子（W）：设置字宽比例（<1 压缩，>1 拉伸）。 （5）倾斜角度（O"
+    },
+    {
+      "chunk_id": "ch06_src_111",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组 / 4.“效果”选项组 / 1.命令格式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "命令: TEXT或点击菜单栏的注释工具栏，在多行文字工具的下拉工具栏里选择单行文字。 当前文字样式: “Standard” 文字高度: 2.5000 注释性: 否 指定文字的起点或 [对正(J)/样式(S)]: 指定高度 <2.5000>:"
+    },
+    {
+      "chunk_id": "ch06_src_112",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组 / 4.“效果”选项组 / 1.命令格式 / 2.命令说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）如果按 ENTER 键，程序将紧接着最后创建的文字对象（如果有）插入新的文字。 （2）在“指定高度 <2.5000>:”提示下，如输入一点A，则文本高度为文本起点与A点之间的距离。如果当前文字样式中已设置了特定的文字高度，将跳过此提示"
+    },
+    {
+      "chunk_id": "ch06_src_113",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组 / 4.“效果”选项组 / 1.命令格式 / 2.命令说明 / 1.命令格式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "命令: MTEXT或点击菜单栏的注释工具栏，选择多行文字工具。 当前文字样式: “Standard” 文字高度: 2.5000 注释性: 否 指定第一角点 指定对角点或[高度(H)对正(J)行距(L)旋转(R)样式(S)宽度(W)栏(C)]"
+    },
+    {
+      "chunk_id": "ch06_src_114",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组 / 4.“效果”选项组 / 1.命令格式 / 2.命令说明 / 1.命令格式 / 2.命令说明",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "指定两个角点后，会出现文本输入框，如错误!未找到引用源。所示。 文本输入框示意图 （1）指定初始格式 要对每个段落的首行缩进，拖动标尺上的第一行缩进滑块。要对每个段落的其他行缩进，请拖动悬挂缩进滑块。要设定制表符，在标尺上单击所需的制表位位"
+    },
+    {
+      "chunk_id": "ch06_src_115",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组 / 4.“效果”选项组 / 1.命令格式 / 2.命令说明 / 1.命令格式 / 2.命令说明 / 二、尺寸标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（一）标注的基本概念"
+    },
+    {
+      "chunk_id": "ch06_src_116",
+      "heading_path": "第三节 文字标注与尺寸标注 / 一、文字标注 / 1.“样式”选项组 / 2.“字体”选项组 / 3.“大小”选项组 / 4.“效果”选项组 / 1.命令格式 / 2.命令说明 / 1.命令格式 / 2.命令说明 / 二、尺寸标注 / 1. 标注概述",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "标注用于在图形中表达尺寸、距离/角度、坐标等测量信息。AutoCAD 支持按行业/项目规范生成标准化标注，常见类型包括：线性（水平、垂直、对齐、旋转）、半径/直径、角度、坐标，以及基线、连续等派生形式（见图 6-24）。 标注放置在当前图层"
+    },
+    {
+      "chunk_id": "ch06_src_117",
+      "heading_path": "2. 标注组成",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "标注通常由标注文字、尺寸线、箭头（终止符号）、尺寸界线构成（见图 6-25）。常用辅助要素还包含中心标记/中心线（用于圆/圆弧）。 标注组成示意图"
+    },
+    {
+      "chunk_id": "ch06_src_118",
+      "heading_path": "2. 标注组成 / 3. 关联标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "标注可与被测对象建立关联，几何变化时自动更新。AutoCAD中支持三种标注关联性类型，可通过系统变量 DIMASSOC 进行控制： （1）关联标注（DIMASSOC = 2）：标注与所测量的几何对象建立动态关联。当图形对象发生变更时，标注将"
+    },
+    {
+      "chunk_id": "ch06_src_119",
+      "heading_path": "2. 标注组成 / 3. 关联标注",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "在AutoCAD中，标注样式（Dimension Style）是用于统一控制标注外观的设置集合，包括尺寸线、尺寸界线、箭头、文字、单位等内容。合理设置标注样式不仅可以提升图纸的整洁性和可读性，还能确保符合行业标准或项目规范。用户可通过“注释"
+    },
+    {
+      "chunk_id": "ch06_src_120",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "该对话框支持用户对已有样式进行新建、修改、设置为当前或删除操作。点击图中“新建”可创建一个新的样式，AutoCAD将默认命名为“样式n”，用户可自定义命名；点击“设置当前”将所选样式设为当前使用；仅未被图形引用的样式可删除。"
+    },
+    {
+      "chunk_id": "ch06_src_121",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在“标注样式管理器”对话框点击“修改（M）…”按钮、“替代（O）…”按钮、“新建（N）…”按钮最终都会出现一个“修改标注样式”对话框，如图 6-27所示。标注样式的设置内容分布于多个选项卡中，简介如下： “修改标注样式”对话框 （1）线 用"
+    },
+    {
+      "chunk_id": "ch06_src_122",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在“公差”和“换算单位”选项卡中分别设定。 （三）创建线性标注 线性标注可以水平、"
+    },
+    {
+      "chunk_id": "ch06_src_123",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "a）水平"
+    },
+    {
+      "chunk_id": "ch06_src_124",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "线性标注"
+    },
+    {
+      "chunk_id": "ch06_src_125",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "AutoCAD根据所指定的尺寸界线原点或选定对象的位置自动应用水平或垂直标注。水平和垂直标注的创建步骤如下： （1）从“标注”菜单中选择“线性”图标。 （2）在命令行中，系统提示： 指定第一条尺寸界线原点或 <选择对象>:（在确定了尺寸界线"
+    },
+    {
+      "chunk_id": "ch06_src_126",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在对齐标注中，尺寸线平行于尺寸界线原点连成的直线。对齐标注的创建步骤如下： （1）从“标注”菜单中选择“对齐”图标。 （2）在命令行中，系统提示： 指定第一个尺寸界线原点或 <选择对象>: （在确定了尺寸界线或选择对象后，系统提示） 指定尺"
+    },
+    {
+      "chunk_id": "ch06_src_127",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注 / 3.创建基线标注和连续标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "基线标注是自同一基线处测量的多个标注，连续标注是首尾相连的多个标注，如图 6-29所示。在创建基线或连续标注之前，必须创建线性、对齐或角度标注。基线标注和连续标注都是从上一个尺寸界线处测量的，除非指定另一点作为原点。 基线标注和连续标注 基"
+    },
+    {
+      "chunk_id": "ch06_src_128",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注 / 3.创建基线标注和连续标注",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "指定第二条尺寸界线原点或 [放弃(U)/选择(S)] <选择>:（指定点、输入选项或按ENTER键选择基准标注）。 （4）如果基准标注是坐标标注，将显示以下提示： 指定点坐标或 [放弃(U)/选择(S)] <选择>: （5）要结束此命令，按"
+    },
+    {
+      "chunk_id": "ch06_src_129",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注 / 3.创建基线标注和连续标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）从“标注”菜单中选择“角度”图标，或在命令行中输入 DIMANGULAR 命令。 （2）在命令行中，系统提示： 选择圆弧、圆、直线或 <指定顶点>: （选择圆弧、圆或直线，或按Enter键，通过指定三点创建角度标注） （3）若直接回车"
+    },
+    {
+      "chunk_id": "ch06_src_130",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注 / 3.创建基线标注和连续标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "指定标注弧线位置或 [多行文字(M)/文字(T)/角度(A)/象限点(Q)]: （六）修改现有标注"
+    },
+    {
+      "chunk_id": "ch06_src_131",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注 / 3.创建基线标注和连续标注 / 1.将新标注样式应用到现有标注",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在创建标注时，系统会自动应用当前设置的标注样式。若需更改已有标注的样式，可通过“更新”操作将新的标注样式应用到选定对象。此方式适用于统一图纸标注风格，或更新已修改的样式设置。操作步骤如下： （1）在“注释”选项卡中，点击“标注”面板的“更新"
+    },
+    {
+      "chunk_id": "ch06_src_132",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注 / 3.创建基线标注和连续标注 / 1.将新标注样式应用到现有标注 / 2.修改标注文字",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "AutoCAD允许在标注创建后，对标注文字进行旋转、移动或直接修改内容，以提升图面清晰度或满足制图规范。 （1） 旋转标注文字 用于调整文字的朝向，适应特殊标注场景（如斜向尺寸）。步骤如下： ①点击“标注”面板的“文字角度”图标； ②选择需"
+    },
+    {
+      "chunk_id": "ch06_src_133",
+      "heading_path": "2. 标注组成 / 3. 关联标注 / 1. 标注样式管理器 / 2. 常用设置选项卡说明 / 1.创建水平和垂直标注 / 2.对齐标注 / 3.创建基线标注和连续标注 / 1.将新标注样式应用到现有标注 / 2.修改标注文字 / 3. 修改文字内容",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "若需更改标注值、添加符号或文字说明，可直接编辑标注内容。步骤如下： ①双击需编辑的标注文字； ②在“多行文字编辑器”中输入新文字内容并确认。"
+    },
+    {
+      "chunk_id": "ch06_src_134",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "图层在 AutoCAD 中如同多张透明覆盖图，用于按类别组织与管理图形信息。对象具有颜色、线型、线宽等特性：颜色用于区分元素，线型标识中心线/隐藏线等类型，线宽通过粗细体现对象的重要性与类别，提升图形的表达力与可读性。为便于统一控制与批量修"
+    },
+    {
+      "chunk_id": "ch06_src_135",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "依次点击“常用”选项卡 → “图层”面板 → “图层特性”按钮，即可打开图层特性管理器，如图 6-31。在此界面中可对图层进行创建、重命名、删除、设置当前图层及调整图层特性等操作。 图层管理器"
+    },
+    {
+      "chunk_id": "ch06_src_136",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器 / 2. 创建新图层",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）点击“新建图层”图标，在图层列表中生成一个默认命名的图层； （2）输入新的图层名称，并在“描述”栏中填写图层用途（可选）； （3）通过点击各列图标，分别设置图层的颜色、线型、线宽等特性。"
+    },
+    {
+      "chunk_id": "ch06_src_137",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器 / 2. 创建新图层 / 3. 设置当前图层",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在图层特性管理器中，选中目标图层后点击“置为当前”按钮，使其成为当前绘图对象的归属图层。"
+    },
+    {
+      "chunk_id": "ch06_src_138",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器 / 2. 创建新图层 / 3. 设置当前图层 / 4. 删除图层",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）选中不再使用的图层，点击“删除图层”按钮； （2）若需一次性清除所有未使用图层，可使用 PURGE 命令； （3）注意：系统保留图层（如图层 0、Defpoints、当前图层或被外部参照引用的图层）无法删除。 （二）图层的设置 在 A"
+    },
+    {
+      "chunk_id": "ch06_src_139",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器 / 2. 创建新图层 / 3. 设置当前图层 / 4. 删除图层 / 1. 设置图层颜色",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "为便于区分不同图层，可为各图层分配不同的颜色。支持多图层批量修改： （1）打开“图层特性管理器”，在目标图层对应的“颜色”列中单击颜色图标； （2）在弹出的“选择颜色”对话框中选取所需颜色，或输入颜色编号/名称，点击“确定”； （3）若对象"
+    },
+    {
+      "chunk_id": "ch06_src_140",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器 / 2. 创建新图层 / 3. 设置当前图层 / 4. 删除图层 / 1. 设置图层颜色 / 2. 设置图层线型",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "线型控制对象的显示样式，如实线、虚线、点划线等。默认线型为 Continuous（连续线）；建议对象线型设为“ByLayer”，使其随图层统一管理；若需设置其他线型，在“图层特性管理器”中点击线型栏 → “加载”，从库中选择或导入 .lin"
+    },
+    {
+      "chunk_id": "ch06_src_141",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器 / 2. 创建新图层 / 3. 设置当前图层 / 4. 删除图层 / 1. 设置图层颜色 / 2. 设置图层线型 / 3. 设置图层线宽",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "线宽表示对象轮廓的粗细，通常用于区分构造层级或表达工程重要性： 常用设置方式包括：ByLayer（随层），对象线宽继承图层设置；ByBlock（随块）：块插入后采用当前线宽；指定数值（如 0.25mm）； AutoCAD 默认不在屏幕显示线"
+    },
+    {
+      "chunk_id": "ch06_src_142",
+      "heading_path": "第四节 图层管理与图块 / 一、图层的建立与属性控制 / 1. 打开图层特性管理器 / 2. 创建新图层 / 3. 设置当前图层 / 4. 删除图层 / 1. 设置图层颜色 / 2. 设置图层线型 / 3. 设置图层线宽 / 4. 设置图层线型比例",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "若设置了虚线或点划线，但显示效果不明显，可通过调整线型比例改善显示。线型比例用于控制图案的缩放和重复间距，适当调整后可使线型在不同图幅、不同尺度下保持清晰一致。 （三）图层的管理 在绘制和编辑图形时，合理管理图层能保持图形的清晰有序，常见的"
+    },
+    {
+      "chunk_id": "ch06_src_143",
+      "heading_path": "1.更改图层的可见性",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "更改图层可见性的方法是打开或关闭图层、冻结或解冻图层，或隔离特定图层。 （1）打开或关闭图层 ①依次单击“常用”选项卡、“图层”面板、“图层特性”。 ②选择要打开或关闭的图层。 ③单击“打开”列的图标来设置选定图层的状态，= 打开、= 关闭"
+    },
+    {
+      "chunk_id": "ch06_src_144",
+      "heading_path": "1.更改图层的可见性 / 2. 锁定或解锁图层",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "锁定图层后，该图层上的对象将变淡，并显示小锁图标，方便区分。锁定或解锁可通过以下两种方式操作： （1）在图层特性管理器中操作 ①打开图层特性管理器依次单击“常用”选项卡、“图层”面板、“图层特性”。 单击目标图层的挂锁图标即可切换锁定/解锁"
+    },
+    {
+      "chunk_id": "ch06_src_145",
+      "heading_path": "1.更改图层的可见性 / 2. 锁定或解锁图层 / 二、图块的创建与使用",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "（一）块的概念及特点 在 AutoCAD 中，块（Block）是将一组图形对象组合为一个整体的方式，常用于创建复杂构件、提升绘图效率与管理性。定义块后，用户可通过块名多次插入，并可在插入时设置比例和旋转角度，如图 6-32所示。AutoCA"
+    },
+    {
+      "chunk_id": "ch06_src_146",
+      "heading_path": "1.更改图层的可见性 / 2. 锁定或解锁图层 / 二、图块的创建与使用",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "当图纸中存在多个相同构件时，若使用块定义，只需修改一次块定义，所有引用该块的实例将自动更新，避免重复修改、保证图纸一致性。 （4）附加属性信息，实现信息表达 AutoCAD允许为块添加属性，例如设备编号、规格参数等。在插入块时可为每个实例填"
+    },
+    {
+      "chunk_id": "ch06_src_147",
+      "heading_path": "1.更改图层的可见性 / 2. 锁定或解锁图层 / 二、图块的创建与使用 / 1. 块名称（Name）",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在“名称”下拉框中输入或选择图块的名称。在 AutoCAD 中，块名可包含字母、数字、空格及部分特殊字符，且所有块定义将保存在当前图形文件中。"
+    },
+    {
+      "chunk_id": "ch06_src_148",
+      "heading_path": "1.更改图层的可见性 / 2. 锁定或解锁图层 / 二、图块的创建与使用 / 1. 块名称（Name） / 2. 基点设置",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "图块的基点是插入时的定位参照点，可通过以下方式设置： （1）拾取点（Pick point）：单击后切换至绘图区，直接点击图形中某点作为基点，选定后返回对话框； （2）X/Y/Z坐标框：可手动输入基点的 X、Y、Z 坐标数值，精确设定其位置；"
+    },
+    {
+      "chunk_id": "ch06_src_149",
+      "heading_path": "1.更改图层的可见性 / 2. 锁定或解锁图层 / 二、图块的创建与使用 / 1. 块名称（Name） / 2. 基点设置 / 3. 对象设置",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "用于选择构成图块的图形对象，并指定块定义后这些对象的处理方式。 点击“选择对象”，后进入绘图区，用鼠标框选或点选所需图形，使之高亮；返回对话框后，可选择保留、删除或将原对象转换为块插入实例。 （三）块插入 AutoCAD 允许用户将已定义的"
+    },
+    {
+      "chunk_id": "ch06_src_150",
+      "heading_path": "1.更改图层的可见性 / 2. 锁定或解锁图层 / 二、图块的创建与使用 / 1. 块名称（Name） / 2. 基点设置 / 3. 对象设置 / 1. 图块名称与路径设置",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "名称下拉列表：用于选择当前图形文件中已有的图块名称。点击右侧下拉箭头可浏览所有已定义块。 浏览按钮：若要插入外部图形文件（.dwg），可点击此按钮，打开“选择图形文件”对话框，从磁盘中选择目标文件。"
+    }
+  ],
+  "knowledge_point_rows": [
+    {
+      "id": "kp_ch06_001",
+      "title": "AutoCAD功能体系",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_002",
+      "title": "绘图环境与界面",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_003",
+      "title": "坐标系统与坐标输入",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_004",
+      "title": "模型空间与图纸空间",
+      "word_hit": true,
+      "matched_term": "模型空间与图纸空间",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_005",
+      "title": "命令机制与基本绘图",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_006",
+      "title": "基本绘图命令",
+      "word_hit": true,
+      "matched_term": "基本绘图命令",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_007",
+      "title": "图形编辑与修改",
+      "word_hit": true,
+      "matched_term": "图形编辑与修改",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_008",
+      "title": "精确定位工具",
+      "word_hit": true,
+      "matched_term": "精确定位工具",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_009",
+      "title": "文字标注",
+      "word_hit": true,
+      "matched_term": "文字标注",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_010",
+      "title": "尺寸标注",
+      "word_hit": true,
+      "matched_term": "尺寸标注",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_011",
+      "title": "图层管理",
+      "word_hit": true,
+      "matched_term": "图层管理",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_012",
+      "title": "图块与属性块",
+      "word_hit": true,
+      "matched_term": "BLOCK",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_013",
+      "title": "三维绘图环境与观察",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_014",
+      "title": "曲面模型创建",
+      "word_hit": true,
+      "matched_term": "SURF",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_015",
+      "title": "实体模型创建与布尔运算",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_016",
+      "title": "道路横断面综合绘图实训",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_017",
+      "title": "绘制直线（LINE）",
+      "word_hit": true,
+      "matched_term": "绘制直线（LINE）",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_018",
+      "title": "绘制多段线（PLINE）",
+      "word_hit": true,
+      "matched_term": "PLINE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_019",
+      "title": "绘制圆弧（ARC）",
+      "word_hit": true,
+      "matched_term": "ARC",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_020",
+      "title": "绘制圆（CIRCLE）",
+      "word_hit": true,
+      "matched_term": "CIRCLE",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_021",
+      "title": "绘制样条曲线（SPLINE）",
+      "word_hit": true,
+      "matched_term": "SPLINE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_022",
+      "title": "绘制正多边形（POLYGON）",
+      "word_hit": true,
+      "matched_term": "POLYGON",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_023",
+      "title": "绘制矩形（RECTANGLE）",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_024",
+      "title": "图案填充（HATCH）",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_025",
+      "title": "偏移对象（OFFSET）",
+      "word_hit": true,
+      "matched_term": "OFFSET",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_026",
+      "title": "移动对象（MOVE）",
+      "word_hit": true,
+      "matched_term": "MOVE",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_027",
+      "title": "复制对象（COPY）",
+      "word_hit": true,
+      "matched_term": "COPY",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_028",
+      "title": "拉伸对象（STRETCH）",
+      "word_hit": true,
+      "matched_term": "STRETCH",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_029",
+      "title": "旋转对象（ROTATE）",
+      "word_hit": true,
+      "matched_term": "ROTATE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_030",
+      "title": "镜像对象（MIRROR）",
+      "word_hit": true,
+      "matched_term": "MIRROR",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_031",
+      "title": "缩放对象（SCALE）",
+      "word_hit": true,
+      "matched_term": "SCALE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_032",
+      "title": "修剪对象（TRIM）",
+      "word_hit": true,
+      "matched_term": "TRIM",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_033",
+      "title": "延伸对象（EXTEND）",
+      "word_hit": true,
+      "matched_term": "EXTEND",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_034",
+      "title": "圆角连接（FILLET）",
+      "word_hit": true,
+      "matched_term": "FILLET",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_035",
+      "title": "阵列对象（ARRAY）",
+      "word_hit": true,
+      "matched_term": "ARRAY",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_036",
+      "title": "删除对象（ERASE）",
+      "word_hit": true,
+      "matched_term": "ERASE",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_037",
+      "title": "分解对象（EXPLODE）",
+      "word_hit": true,
+      "matched_term": "EXPLODE",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_038",
+      "title": "定距等分对象（MEASURE）",
+      "word_hit": true,
+      "matched_term": "MEASURE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_039",
+      "title": "定数等分对象（DIVIDE）",
+      "word_hit": true,
+      "matched_term": "DIVIDE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_040",
+      "title": "单行文字（TEXT）",
+      "word_hit": true,
+      "matched_term": "TEXT",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_041",
+      "title": "多行文字（MTEXT）",
+      "word_hit": true,
+      "matched_term": "MTEXT",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_042",
+      "title": "标注样式管理（DIMSTYLE）",
+      "word_hit": true,
+      "matched_term": "DIMSTYLE",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_043",
+      "title": "线性标注（DIMLINEAR）",
+      "word_hit": true,
+      "matched_term": "线性标注",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_044",
+      "title": "对齐标注（DIMALIGNED）",
+      "word_hit": true,
+      "matched_term": "对齐标注",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_045",
+      "title": "半径标注（DIMRADIUS）",
+      "word_hit": true,
+      "matched_term": "DRA",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_046",
+      "title": "直径标注（DIMDIAMETER）",
+      "word_hit": true,
+      "matched_term": "DDI",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_047",
+      "title": "角度标注（DIMANGULAR）",
+      "word_hit": true,
+      "matched_term": "DIMANGULAR",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_048",
+      "title": "图层管理（LAYER）",
+      "word_hit": true,
+      "matched_term": "LAYER",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_049",
+      "title": "清理未使用项目（PURGE）",
+      "word_hit": true,
+      "matched_term": "PURGE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_050",
+      "title": "定义块（BLOCK）",
+      "word_hit": true,
+      "matched_term": "BLOCK",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_051",
+      "title": "插入块（INSERT）",
+      "word_hit": true,
+      "matched_term": "INSERT",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_052",
+      "title": "写块（WBLOCK）",
+      "word_hit": true,
+      "matched_term": "WBLOCK",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_053",
+      "title": "属性定义（ATTDEF）",
+      "word_hit": true,
+      "matched_term": "属性定义",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_054",
+      "title": "块属性管理（BATTMAN）",
+      "word_hit": true,
+      "matched_term": "块属性管理",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_055",
+      "title": "用户坐标系（UCS）",
+      "word_hit": true,
+      "matched_term": "用户坐标系（UCS）",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_056",
+      "title": "视觉样式（SHADEMODE）",
+      "word_hit": true,
+      "matched_term": "SHADEMODE",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_057",
+      "title": "三维动态观察（3DORBIT）",
+      "word_hit": true,
+      "matched_term": "3DORBIT",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_058",
+      "title": "设置视点（VPOINT）",
+      "word_hit": true,
+      "matched_term": "VPOINT",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_059",
+      "title": "创建多边形网格（3DMESH）",
+      "word_hit": true,
+      "matched_term": "3DMESH",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_060",
+      "title": "创建空间平面（3DFACE）",
+      "word_hit": true,
+      "matched_term": "3DFACE",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_061",
+      "title": "平移曲面（TABSURF）",
+      "word_hit": true,
+      "matched_term": "TABSURF",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_062",
+      "title": "旋转曲面（REVSURF）",
+      "word_hit": true,
+      "matched_term": "REVSURF",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_063",
+      "title": "边界曲面（EDGESURF）",
+      "word_hit": true,
+      "matched_term": "EDGESURF",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_064",
+      "title": "设置标高和厚度（ELEV）",
+      "word_hit": true,
+      "matched_term": "ELEV",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_065",
+      "title": "创建长方体（BOX）",
+      "word_hit": true,
+      "matched_term": "BOX",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_066",
+      "title": "创建圆柱体（CYLINDER）",
+      "word_hit": true,
+      "matched_term": "CYLINDER",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_067",
+      "title": "拉伸实体（EXTRUDE）",
+      "word_hit": true,
+      "matched_term": "EXTRUDE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_068",
+      "title": "旋转实体（REVOLVE）",
+      "word_hit": true,
+      "matched_term": "REVOLVE",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_069",
+      "title": "并集（UNION）",
+      "word_hit": true,
+      "matched_term": "UNION",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_070",
+      "title": "差集（SUBTRACT）",
+      "word_hit": true,
+      "matched_term": "SUBTRACT",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_071",
+      "title": "交集（INTERSECT）",
+      "word_hit": true,
+      "matched_term": "INTERSECT",
+      "kb_hit_count": 11
+    },
+    {
+      "id": "kp_ch06_072",
+      "title": "世界坐标系（WCS）",
+      "word_hit": true,
+      "matched_term": "世界坐标系（WCS）",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_073",
+      "title": "用户坐标系（UCS）",
+      "word_hit": true,
+      "matched_term": "用户坐标系（UCS）",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_074",
+      "title": "模型空间（Model Space）",
+      "word_hit": true,
+      "matched_term": "模型空间（Model Space）",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_075",
+      "title": "图纸空间（Paper Space）",
+      "word_hit": true,
+      "matched_term": "图纸空间（Paper Space）",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_076",
+      "title": "图层（Layer）",
+      "word_hit": true,
+      "matched_term": "Layer",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_077",
+      "title": "视口（Viewport）",
+      "word_hit": true,
+      "matched_term": "视口",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_078",
+      "title": "图块（Block）",
+      "word_hit": true,
+      "matched_term": "Block",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_079",
+      "title": "带属性块（Attribute Block）",
+      "word_hit": true,
+      "matched_term": "带属性块",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_080",
+      "title": "随层（ByLayer）",
+      "word_hit": true,
+      "matched_term": "随层（ByLayer）",
+      "kb_hit_count": 10
+    },
+    {
+      "id": "kp_ch06_081",
+      "title": "对象捕捉（OSNAP）",
+      "word_hit": true,
+      "matched_term": "OSNAP",
+      "kb_hit_count": 10
+    }
+  ],
+  "operation_task_rows": [
+    {
+      "id": "ch06_task_001",
+      "title": "设置AutoCAD绘图环境",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_002",
+      "title": "使用坐标精确绘制线段",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_003",
+      "title": "完成模型空间与图纸空间布局",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_004",
+      "title": "绘制道路横断面基本线形",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_005",
+      "title": "绘制圆及内接/外切正多边形",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_006",
+      "title": "绘制圆弧与样条曲线",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_007",
+      "title": "移动与复制图形对象",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_008",
+      "title": "拉伸与缩放图形对象",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_009",
+      "title": "旋转与镜像对象",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_010",
+      "title": "修剪、延伸与圆角处理",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_011",
+      "title": "阵列、定距与定数分布",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_012",
+      "title": "设置并使用精确定位工具",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_013",
+      "title": "创建文字样式并输入单行文字",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_014",
+      "title": "创建多行文字说明",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_015",
+      "title": "创建道路设计标注样式",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_016",
+      "title": "创建线性、半径、直径与角度标注",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_017",
+      "title": "修改标注样式与标注文字",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_018",
+      "title": "创建图层并设置颜色线型线宽",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_019",
+      "title": "管理图层开关、冻结、隔离和锁定",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_020",
+      "title": "定义并插入图块",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_021",
+      "title": "使用WBLOCK输出共享块",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_022",
+      "title": "定义和管理带属性块",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_023",
+      "title": "设置三维工作空间与视觉样式",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_024",
+      "title": "创建网格或空间平面",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_025",
+      "title": "创建平移曲面与旋转曲面",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_026",
+      "title": "创建边界曲面并设置标高厚度",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_027",
+      "title": "创建长方体与圆柱体",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_028",
+      "title": "拉伸或旋转二维轮廓生成实体",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_029",
+      "title": "使用并集、差集、交集构建组合实体",
+      "word_hit": true,
+      "matched_term": "AutoCAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch06_task_030",
+      "title": "绘制简易道路标准横断面图",
+      "word_hit": true,
+      "matched_term": "绘制简易道路标准横断面图",
+      "kb_hit_count": 2
+    }
+  ],
+  "answer_card_rows": [
+    {
+      "answer_id": "ans_ch06_task_001_howto",
+      "canonical_question": "AutoCAD如何设置AutoCAD绘图环境？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_001_error",
+      "canonical_question": "设置AutoCAD绘图环境失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_002_howto",
+      "canonical_question": "AutoCAD如何使用坐标精确绘制线段？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_002_error",
+      "canonical_question": "使用坐标精确绘制线段失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_003_howto",
+      "canonical_question": "AutoCAD如何完成模型空间与图纸空间布局？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_003_error",
+      "canonical_question": "完成模型空间与图纸空间布局失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_004_howto",
+      "canonical_question": "AutoCAD如何绘制道路横断面基本线形？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_004_error",
+      "canonical_question": "绘制道路横断面基本线形失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_005_howto",
+      "canonical_question": "AutoCAD如何绘制圆及内接/外切正多边形？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_005_error",
+      "canonical_question": "绘制圆及内接/外切正多边形失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_006_howto",
+      "canonical_question": "AutoCAD如何绘制圆弧与样条曲线？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_006_error",
+      "canonical_question": "绘制圆弧与样条曲线失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_007_howto",
+      "canonical_question": "AutoCAD如何移动与复制图形对象？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_007_error",
+      "canonical_question": "移动与复制图形对象失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_008_howto",
+      "canonical_question": "AutoCAD如何拉伸与缩放图形对象？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_008_error",
+      "canonical_question": "拉伸与缩放图形对象失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_009_howto",
+      "canonical_question": "AutoCAD如何旋转与镜像对象？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_009_error",
+      "canonical_question": "旋转与镜像对象失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_010_howto",
+      "canonical_question": "AutoCAD如何修剪、延伸与圆角处理？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_010_error",
+      "canonical_question": "修剪、延伸与圆角处理失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_011_howto",
+      "canonical_question": "AutoCAD如何阵列、定距与定数分布？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_011_error",
+      "canonical_question": "阵列、定距与定数分布失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_012_howto",
+      "canonical_question": "AutoCAD如何设置并使用精确定位工具？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_012_error",
+      "canonical_question": "设置并使用精确定位工具失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_013_howto",
+      "canonical_question": "AutoCAD如何创建文字样式并输入单行文字？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_013_error",
+      "canonical_question": "创建文字样式并输入单行文字失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_014_howto",
+      "canonical_question": "AutoCAD如何创建多行文字说明？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_014_error",
+      "canonical_question": "创建多行文字说明失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_015_howto",
+      "canonical_question": "AutoCAD如何创建道路设计标注样式？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_015_error",
+      "canonical_question": "创建道路设计标注样式失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_016_howto",
+      "canonical_question": "AutoCAD如何创建线性、半径、直径与角度标注？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_016_error",
+      "canonical_question": "创建线性、半径、直径与角度标注失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_017_howto",
+      "canonical_question": "AutoCAD如何修改标注样式与标注文字？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_017_error",
+      "canonical_question": "修改标注样式与标注文字失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_018_howto",
+      "canonical_question": "AutoCAD如何创建图层并设置颜色线型线宽？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_018_error",
+      "canonical_question": "创建图层并设置颜色线型线宽失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_019_howto",
+      "canonical_question": "AutoCAD如何管理图层开关、冻结、隔离和锁定？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_019_error",
+      "canonical_question": "管理图层开关、冻结、隔离和锁定失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_020_howto",
+      "canonical_question": "AutoCAD如何定义并插入图块？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_020_error",
+      "canonical_question": "定义并插入图块失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_021_howto",
+      "canonical_question": "AutoCAD如何使用WBLOCK输出共享块？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_021_error",
+      "canonical_question": "使用WBLOCK输出共享块失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_022_howto",
+      "canonical_question": "AutoCAD如何定义和管理带属性块？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_022_error",
+      "canonical_question": "定义和管理带属性块失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_023_howto",
+      "canonical_question": "AutoCAD如何设置三维工作空间与视觉样式？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_023_error",
+      "canonical_question": "设置三维工作空间与视觉样式失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_024_howto",
+      "canonical_question": "AutoCAD如何创建网格或空间平面？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_024_error",
+      "canonical_question": "创建网格或空间平面失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_025_howto",
+      "canonical_question": "AutoCAD如何创建平移曲面与旋转曲面？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_025_error",
+      "canonical_question": "创建平移曲面与旋转曲面失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_026_howto",
+      "canonical_question": "AutoCAD如何创建边界曲面并设置标高厚度？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_026_error",
+      "canonical_question": "创建边界曲面并设置标高厚度失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_027_howto",
+      "canonical_question": "AutoCAD如何创建长方体与圆柱体？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_027_error",
+      "canonical_question": "创建长方体与圆柱体失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_028_howto",
+      "canonical_question": "AutoCAD如何拉伸或旋转二维轮廓生成实体？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_028_error",
+      "canonical_question": "拉伸或旋转二维轮廓生成实体失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_029_howto",
+      "canonical_question": "AutoCAD如何使用并集、差集、交集构建组合实体？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_029_error",
+      "canonical_question": "使用并集、差集、交集构建组合实体失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_task_030_howto",
+      "canonical_question": "AutoCAD如何绘制简易道路标准横断面图？",
+      "word_hit": true,
+      "matched_term": "当前图层"
+    },
+    {
+      "answer_id": "ans_ch06_task_030_error",
+      "canonical_question": "绘制简易道路标准横断面图失败或结果不对怎么办？",
+      "word_hit": true,
+      "matched_term": "对象类型"
+    },
+    {
+      "answer_id": "ans_ch06_concept_001",
+      "canonical_question": "AutoCAD功能体系是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_002",
+      "canonical_question": "AutoCAD功能体系在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_003",
+      "canonical_question": "绘图环境与界面是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_004",
+      "canonical_question": "绘图环境与界面在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_005",
+      "canonical_question": "坐标系统与坐标输入是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_006",
+      "canonical_question": "坐标系统与坐标输入在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_007",
+      "canonical_question": "模型空间与图纸空间是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_008",
+      "canonical_question": "模型空间与图纸空间在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_009",
+      "canonical_question": "命令机制与基本绘图是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_010",
+      "canonical_question": "命令机制与基本绘图在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_011",
+      "canonical_question": "基本绘图命令是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_012",
+      "canonical_question": "基本绘图命令在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_013",
+      "canonical_question": "图形编辑与修改是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_014",
+      "canonical_question": "图形编辑与修改在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_015",
+      "canonical_question": "精确定位工具是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_016",
+      "canonical_question": "精确定位工具在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_017",
+      "canonical_question": "文字标注是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_018",
+      "canonical_question": "文字标注在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_019",
+      "canonical_question": "尺寸标注是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_020",
+      "canonical_question": "尺寸标注在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_021",
+      "canonical_question": "图层管理是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_022",
+      "canonical_question": "图层管理在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_023",
+      "canonical_question": "图块与属性块是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_024",
+      "canonical_question": "图块与属性块在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_025",
+      "canonical_question": "三维绘图环境与观察是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_026",
+      "canonical_question": "三维绘图环境与观察在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_027",
+      "canonical_question": "曲面模型创建是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_028",
+      "canonical_question": "曲面模型创建在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_029",
+      "canonical_question": "实体模型创建与布尔运算是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_030",
+      "canonical_question": "实体模型创建与布尔运算在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_031",
+      "canonical_question": "道路横断面综合绘图实训是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_032",
+      "canonical_question": "道路横断面综合绘图实训在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_033",
+      "canonical_question": "绘制直线（LINE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_034",
+      "canonical_question": "绘制直线（LINE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_035",
+      "canonical_question": "绘制多段线（PLINE）是什么？",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续"
+    },
+    {
+      "answer_id": "ans_ch06_concept_036",
+      "canonical_question": "绘制多段线（PLINE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续"
+    },
+    {
+      "answer_id": "ans_ch06_concept_037",
+      "canonical_question": "绘制圆弧（ARC）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_038",
+      "canonical_question": "绘制圆弧（ARC）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_039",
+      "canonical_question": "绘制圆（CIRCLE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_040",
+      "canonical_question": "绘制圆（CIRCLE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_041",
+      "canonical_question": "绘制样条曲线（SPLINE）是什么？",
+      "word_hit": true,
+      "matched_term": "命令: SPLINE下拉“绘图”工具栏点击工具 当前设置: 方式=拟合 节点=弦 指定第一个点或 [方式(M)/阶数(K)/对象(O)]: 输入下一个点或 [起"
+    },
+    {
+      "answer_id": "ans_ch06_concept_042",
+      "canonical_question": "绘制样条曲线（SPLINE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "命令: SPLINE下拉“绘图”工具栏点击工具 当前设置: 方式=拟合 节点=弦 指定第一个点或 [方式(M)/阶数(K)/对象(O)]: 输入下一个点或 [起"
+    },
+    {
+      "answer_id": "ans_ch06_concept_043",
+      "canonical_question": "绘制正多边形（POLYGON）是什么？",
+      "word_hit": true,
+      "matched_term": "（1）在指定样条曲线的第一个点后，系统会依次提示输入更多点以确定曲线形状。用户可连续添加多个点，也可用Undo撤销最后输入的点。若选择闭合选项，首尾点将重合并在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_044",
+      "canonical_question": "绘制正多边形（POLYGON）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "（1）在指定样条曲线的第一个点后，系统会依次提示输入更多点以确定曲线形状。用户可连续添加多个点，也可用Undo撤销最后输入的点。若选择闭合选项，首尾点将重合并在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_045",
+      "canonical_question": "绘制矩形（RECTANGLE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_046",
+      "canonical_question": "绘制矩形（RECTANGLE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_047",
+      "canonical_question": "图案填充（HATCH）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_048",
+      "canonical_question": "图案填充（HATCH）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_049",
+      "canonical_question": "偏移对象（OFFSET）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_050",
+      "canonical_question": "偏移对象（OFFSET）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_051",
+      "canonical_question": "移动对象（MOVE）是什么？",
+      "word_hit": true,
+      "matched_term": "（一）模型空间与图纸空间的概念 在 AutoCAD 中，绘图环境分为模型空间（Model Space）与图纸空间（Paper Space）两种，它们分别承担建模"
+    },
+    {
+      "answer_id": "ans_ch06_concept_052",
+      "canonical_question": "移动对象（MOVE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "（一）模型空间与图纸空间的概念 在 AutoCAD 中，绘图环境分为模型空间（Model Space）与图纸空间（Paper Space）两种，它们分别承担建模"
+    },
+    {
+      "answer_id": "ans_ch06_concept_053",
+      "canonical_question": "复制对象（COPY）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_054",
+      "canonical_question": "复制对象（COPY）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_055",
+      "canonical_question": "拉伸对象（STRETCH）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_056",
+      "canonical_question": "拉伸对象（STRETCH）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_057",
+      "canonical_question": "旋转对象（ROTATE）是什么？",
+      "word_hit": true,
+      "matched_term": "命令: ROTATE或点击“修改”工具栏的工具 UCS 当前的正角方向: ANGDIR=逆时针 ANGBASE=0 选择对象: （选择要旋转的物体） 选择对象:"
+    },
+    {
+      "answer_id": "ans_ch06_concept_058",
+      "canonical_question": "旋转对象（ROTATE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "命令: ROTATE或点击“修改”工具栏的工具 UCS 当前的正角方向: ANGDIR=逆时针 ANGBASE=0 选择对象: （选择要旋转的物体） 选择对象:"
+    },
+    {
+      "answer_id": "ans_ch06_concept_059",
+      "canonical_question": "镜像对象（MIRROR）是什么？",
+      "word_hit": true,
+      "matched_term": "②输入end（端点对象捕捉），选择被旋转的对象的端点3，完成参考角的定义； ③再次输入end，选择与之对齐的对象的端点4，即完成旋转。 （六）镜像对象 镜像可以"
+    },
+    {
+      "answer_id": "ans_ch06_concept_060",
+      "canonical_question": "镜像对象（MIRROR）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "②输入end（端点对象捕捉），选择被旋转的对象的端点3，完成参考角的定义； ③再次输入end，选择与之对齐的对象的端点4，即完成旋转。 （六）镜像对象 镜像可以"
+    },
+    {
+      "answer_id": "ans_ch06_concept_061",
+      "canonical_question": "缩放对象（SCALE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_062",
+      "canonical_question": "缩放对象（SCALE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_063",
+      "canonical_question": "修剪对象（TRIM）是什么？",
+      "word_hit": true,
+      "matched_term": "（1）3P选项通过依次指定圆周上的三个点创建圆。三点不得共线，否则系统报错。输入前两点后，视图中会出现预览圆并随鼠标移动，便于在确定第三点前直观判断圆的大小与位"
+    },
+    {
+      "answer_id": "ans_ch06_concept_064",
+      "canonical_question": "修剪对象（TRIM）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "（1）3P选项通过依次指定圆周上的三个点创建圆。三点不得共线，否则系统报错。输入前两点后，视图中会出现预览圆并随鼠标移动，便于在确定第三点前直观判断圆的大小与位"
+    },
+    {
+      "answer_id": "ans_ch06_concept_065",
+      "canonical_question": "延伸对象（EXTEND）是什么？",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续"
+    },
+    {
+      "answer_id": "ans_ch06_concept_066",
+      "canonical_question": "延伸对象（EXTEND）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续"
+    },
+    {
+      "answer_id": "ans_ch06_concept_067",
+      "canonical_question": "圆角连接（FILLET）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_068",
+      "canonical_question": "圆角连接（FILLET）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_069",
+      "canonical_question": "阵列对象（ARRAY）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_070",
+      "canonical_question": "阵列对象（ARRAY）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_071",
+      "canonical_question": "删除对象（ERASE）是什么？",
+      "word_hit": true,
+      "matched_term": "命令: LINE（或L）或点击“绘图”工具栏的工具 指定第一点: 指定下一点或 [放弃(U)]: 指定下一点或 [闭合(C)/放弃(U)]:"
+    },
+    {
+      "answer_id": "ans_ch06_concept_072",
+      "canonical_question": "删除对象（ERASE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "命令: LINE（或L）或点击“绘图”工具栏的工具 指定第一点: 指定下一点或 [放弃(U)]: 指定下一点或 [闭合(C)/放弃(U)]:"
+    },
+    {
+      "answer_id": "ans_ch06_concept_073",
+      "canonical_question": "分解对象（EXPLODE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_074",
+      "canonical_question": "分解对象（EXPLODE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_075",
+      "canonical_question": "定距等分对象（MEASURE）是什么？",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_076",
+      "canonical_question": "定距等分对象（MEASURE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_077",
+      "canonical_question": "定数等分对象（DIVIDE）是什么？",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_078",
+      "canonical_question": "定数等分对象（DIVIDE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_079",
+      "canonical_question": "单行文字（TEXT）是什么？",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关"
+    },
+    {
+      "answer_id": "ans_ch06_concept_080",
+      "canonical_question": "单行文字（TEXT）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关"
+    },
+    {
+      "answer_id": "ans_ch06_concept_081",
+      "canonical_question": "多行文字（MTEXT）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_082",
+      "canonical_question": "多行文字（MTEXT）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_083",
+      "canonical_question": "标注样式管理（DIMSTYLE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_084",
+      "canonical_question": "标注样式管理（DIMSTYLE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_085",
+      "canonical_question": "线性标注（DIMLINEAR）是什么？",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_086",
+      "canonical_question": "线性标注（DIMLINEAR）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_087",
+      "canonical_question": "对齐标注（DIMALIGNED）是什么？",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_088",
+      "canonical_question": "对齐标注（DIMALIGNED）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在"
+    },
+    {
+      "answer_id": "ans_ch06_concept_089",
+      "canonical_question": "半径标注（DIMRADIUS）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_090",
+      "canonical_question": "半径标注（DIMRADIUS）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_091",
+      "canonical_question": "直径标注（DIMDIAMETER）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_092",
+      "canonical_question": "直径标注（DIMDIAMETER）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_093",
+      "canonical_question": "角度标注（DIMANGULAR）是什么？",
+      "word_hit": true,
+      "matched_term": "基线标注是自同一基线处测量的多个标注，连续标注是首尾相连的多个标注，如图 6-29所示。在创建基线或连续标注之前，必须创建线性、对齐或角度标注。基线标注和连续标"
+    },
+    {
+      "answer_id": "ans_ch06_concept_094",
+      "canonical_question": "角度标注（DIMANGULAR）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "基线标注是自同一基线处测量的多个标注，连续标注是首尾相连的多个标注，如图 6-29所示。在创建基线或连续标注之前，必须创建线性、对齐或角度标注。基线标注和连续标"
+    },
+    {
+      "answer_id": "ans_ch06_concept_095",
+      "canonical_question": "图层管理（LAYER）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_096",
+      "canonical_question": "图层管理（LAYER）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_097",
+      "canonical_question": "清理未使用项目（PURGE）是什么？",
+      "word_hit": true,
+      "matched_term": "（1）选中不再使用的图层，点击“删除图层”按钮； （2）若需一次性清除所有未使用图层，可使用 PURGE 命令； （3）注意：系统保留图层（如图层 0、Defp"
+    },
+    {
+      "answer_id": "ans_ch06_concept_098",
+      "canonical_question": "清理未使用项目（PURGE）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "（1）选中不再使用的图层，点击“删除图层”按钮； （2）若需一次性清除所有未使用图层，可使用 PURGE 命令； （3）注意：系统保留图层（如图层 0、Defp"
+    },
+    {
+      "answer_id": "ans_ch06_concept_099",
+      "canonical_question": "定义块（BLOCK）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_100",
+      "canonical_question": "定义块（BLOCK）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_101",
+      "canonical_question": "插入块（INSERT）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_102",
+      "canonical_question": "插入块（INSERT）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_103",
+      "canonical_question": "写块（WBLOCK）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_104",
+      "canonical_question": "写块（WBLOCK）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_105",
+      "canonical_question": "属性定义（ATTDEF）是什么？",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关"
+    },
+    {
+      "answer_id": "ans_ch06_concept_106",
+      "canonical_question": "属性定义（ATTDEF）在道路制图中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关"
+    },
+    {
+      "answer_id": "ans_ch06_concept_107",
+      "canonical_question": "块属性管理（BATTMAN）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_108",
+      "canonical_question": "块属性管理（BATTMAN）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_109",
+      "canonical_question": "用户坐标系（UCS）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_110",
+      "canonical_question": "用户坐标系（UCS）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_111",
+      "canonical_question": "视觉样式（SHADEMODE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_112",
+      "canonical_question": "视觉样式（SHADEMODE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_113",
+      "canonical_question": "三维动态观察（3DORBIT）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_114",
+      "canonical_question": "三维动态观察（3DORBIT）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_115",
+      "canonical_question": "设置视点（VPOINT）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_116",
+      "canonical_question": "设置视点（VPOINT）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_117",
+      "canonical_question": "创建多边形网格（3DMESH）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_118",
+      "canonical_question": "创建多边形网格（3DMESH）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_119",
+      "canonical_question": "创建空间平面（3DFACE）是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch06_concept_120",
+      "canonical_question": "创建空间平面（3DFACE）在道路制图中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    }
+  ],
+  "heading_rows": [
+    {
+      "paragraph": 2496,
+      "style": "ab",
+      "heading": "AutoCAD绘图基础与应用技巧",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 2503,
+      "style": "",
+      "heading": "第一节 AutoCAD的基础知识",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2505,
+      "style": "",
+      "heading": "一、AutoCAD的功能",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2522,
+      "style": "",
+      "heading": "二、AutoCAD的绘图环境",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2524,
+      "style": "ab",
+      "heading": "AutoCAD界面",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2533,
+      "style": "ab",
+      "heading": "“选项”对话框",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2540,
+      "style": "",
+      "heading": "三、坐标系统与图形表达",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2566,
+      "style": "ab",
+      "heading": "相对坐标输入",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2569,
+      "style": "",
+      "heading": "四、模型空间与图纸空间",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2580,
+      "style": "ab",
+      "heading": "图纸空间的页面设置",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2581,
+      "style": "",
+      "heading": "第二节 AutoCAD基本作图工具及使用技巧",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2586,
+      "style": "",
+      "heading": "一、基本绘图命令",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2635,
+      "style": "ab",
+      "heading": "圆的绘制方式",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2646,
+      "style": "ab",
+      "heading": "样条曲线示意图",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 2665,
+      "style": "ab",
+      "heading": "绘制正多边形的方法示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2678,
+      "style": "",
+      "heading": "二、编辑及图形修改",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2688,
+      "style": "ab",
+      "heading": "矩形选择方法示意图",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 2691,
+      "style": "ab",
+      "heading": "不规则形状选择示意图",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 2694,
+      "style": "ab",
+      "heading": "栏选示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2723,
+      "style": "ab",
+      "heading": "拉伸示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2749,
+      "style": "ab",
+      "heading": "按相对角度旋转示意图",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 2780,
+      "style": "ab",
+      "heading": "修剪对象示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2805,
+      "style": "ab",
+      "heading": "圆角示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2828,
+      "style": "ab",
+      "heading": "阵列示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2849,
+      "style": "ab",
+      "heading": "偏移对象示意图",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 2878,
+      "style": "ab",
+      "heading": "定距等分对象示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2902,
+      "style": "",
+      "heading": "三、精确绘图工具",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2904,
+      "style": "ab",
+      "heading": "状态栏",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2912,
+      "style": "ab",
+      "heading": "“草图设置”对话框",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2928,
+      "style": "ab",
+      "heading": "“对象捕捉”选项卡",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2929,
+      "style": "",
+      "heading": "第三节 文字标注与尺寸标注",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2930,
+      "style": "",
+      "heading": "一、文字标注",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2933,
+      "style": "ab",
+      "heading": "“文字样式”对话框",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2956,
+      "style": "ab",
+      "heading": "文字对齐方式示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2981,
+      "style": "ab",
+      "heading": "文本输入框示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2987,
+      "style": "",
+      "heading": "二、尺寸标注",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2992,
+      "style": "ab",
+      "heading": "标注示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 2995,
+      "style": "ab",
+      "heading": "标注组成示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3004,
+      "style": "ab",
+      "heading": "“标注样式管理器”对话框",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3009,
+      "style": "ab",
+      "heading": "“修改标注样式”对话框",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3025,
+      "style": "ab",
+      "heading": "线性标注",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3041,
+      "style": "ab",
+      "heading": "基线标注和连续标注",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3064,
+      "style": "ab",
+      "heading": "角度标注示意图",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3106,
+      "style": "",
+      "heading": "第四节 图层管理与图块",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3107,
+      "style": "",
+      "heading": "一、图层的建立与属性控制",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3114,
+      "style": "ab",
+      "heading": "图层管理器",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3169,
+      "style": "",
+      "heading": "二、图块的创建与使用",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3174,
+      "style": "ab",
+      "heading": "将块以不同比例因子和旋转角插入示意图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3186,
+      "style": "ab",
+      "heading": "“块定义”对话框",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3199,
+      "style": "ab",
+      "heading": "“插入”对话框",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3242,
+      "style": "ab",
+      "heading": "“属性定义”对话框",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3247,
+      "style": "ab",
+      "heading": "块属性管理器",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3249,
+      "style": "ab",
+      "heading": "“编辑属性”对话框",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3260,
+      "style": "",
+      "heading": "一、设置三维绘图环境",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3267,
+      "style": "ab",
+      "heading": "UCS操作栏",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3268,
+      "style": "",
+      "heading": "二、三维对象的显示模式",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3274,
+      "style": "ab",
+      "heading": "视觉样式管理器",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3279,
+      "style": "",
+      "heading": "三、在三维空间查看模型",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3287,
+      "style": "ab",
+      "heading": "视点预设",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3293,
+      "style": "",
+      "heading": "四、创建表面模型",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3303,
+      "style": "ab",
+      "heading": "多边形网格",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3313,
+      "style": "ab",
+      "heading": "连续绘制空间平面",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3316,
+      "style": "ab",
+      "heading": "创建平移曲面网格命令",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3326,
+      "style": "ab",
+      "heading": "绘制旋转曲面",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3339,
+      "style": "ab",
+      "heading": "绘制边界定义曲面",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3351,
+      "style": "ab",
+      "heading": "设置高度三维曲面",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3359,
+      "style": "",
+      "heading": "五、创建实体模型",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3366,
+      "style": "ab",
+      "heading": "绘制长方体",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3375,
+      "style": "ab",
+      "heading": "绘制圆柱体",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3388,
+      "style": "ab",
+      "heading": "用拉伸命令生成波形防撞护栏",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3405,
+      "style": "ab",
+      "heading": "用旋转实体命令生成旋转实体",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3416,
+      "style": "ab",
+      "heading": "用并集命令生成组合实体",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3420,
+      "style": "ab",
+      "heading": "用差集命令生成组合实体",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3424,
+      "style": "ab",
+      "heading": "用交集命令生成组合实体",
+      "kb_hit": false
+    }
+  ]
+}

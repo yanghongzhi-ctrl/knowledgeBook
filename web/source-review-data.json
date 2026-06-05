@@ -1,0 +1,1354 @@
+{
+  "generated_at": "2026-06-05T08:43:24",
+  "instructions": [
+    "Copy this file to ch10_ch11_source_boundary_manual_approvals.json before editing decisions.",
+    "Leave decision empty to keep a Source_Chunk in needs_evidence_boundary_review.",
+    "Allowed decisions: confirm_candidate_anchor, confirm_teaching_summary, confirm_boundary_fragment, split_required, reject_candidate, manual_anchor_pending.",
+    "A confirmed candidate anchor means concept correspondence only, not a verbatim textbook quote."
+  ],
+  "summary": {
+    "items": 51,
+    "by_priority": {
+      "P1_ch10_formula_gap": 1,
+      "P1_ch10_quick_confirm": 4,
+      "P2_ch10_boundary_summary": 8,
+      "P2_ch11_quick_confirm": 1,
+      "P3_ch11_application_scene_manual": 29,
+      "P4_ch11_boundary_summary": 8
+    },
+    "by_suggested_decision": {
+      "confirm_boundary_fragment": 7,
+      "confirm_candidate_anchor": 5,
+      "confirm_teaching_summary": 9,
+      "manual_anchor_pending": 30
+    }
+  },
+  "decisions": [
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_135",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "decision": "",
+      "approved_paragraph_start": 4884,
+      "approved_paragraph_end": 4884,
+      "candidate_score": 0.839208,
+      "score_margin": 0.047059,
+      "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+      "source_excerpt": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+      "candidate_text": "通过对专业书籍、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:通过对专业书籍,设计规范和专家经验的系统,性梳理,提炼出经典的,被广泛接受的设计原则"
+      ],
+      "matched_terms": [
+        "通过对专业书籍",
+        "设计规范和专家经验的系统",
+        "性梳理",
+        "提炼出经典的",
+        "被广泛接受的设计原则"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_144",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "decision": "",
+      "approved_paragraph_start": 4920,
+      "approved_paragraph_end": 4920,
+      "candidate_score": 0.909516,
+      "score_margin": 0.31171,
+      "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+      "source_excerpt": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+      "candidate_text": "（1）相似点分析：当前情境与历史实例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+      "candidate_reasons": [
+        "excerpt:0.91",
+        "summary:0.91",
+        "terms:相似点分析,关键维度,如地貌类型,滑动方向,滑坡规模等,表现出高度一致"
+      ],
+      "matched_terms": [
+        "相似点分析",
+        "关键维度",
+        "如地貌类型",
+        "滑动方向",
+        "滑坡规模等",
+        "表现出高度一致"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_146",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "decision": "",
+      "approved_paragraph_start": 4922,
+      "approved_paragraph_end": 4922,
+      "candidate_score": 0.782241,
+      "score_margin": 0.372277,
+      "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+      "source_excerpt": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；",
+      "candidate_text": "（3）参考方案：历史实例中采用的设计策略是否具备迁移价值；",
+      "candidate_reasons": [
+        "excerpt:0.86",
+        "summary:0.86",
+        "terms:参考方案,是否具备迁移价值"
+      ],
+      "matched_terms": [
+        "参考方案",
+        "是否具备迁移价值"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_148",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "decision": "",
+      "approved_paragraph_start": 4927,
+      "approved_paragraph_end": 4927,
+      "candidate_score": 0.918546,
+      "score_margin": 0.080771,
+      "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+      "source_excerpt": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。",
+      "candidate_text": "为保证与知识库中实例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与实例库的属性结构一一对应。",
+      "candidate_reasons": [
+        "excerpt:0.91",
+        "summary:0.91",
+        "terms:构一致,当前设计情境首先通过语义,关系重构,统一转化为属性向量,该向量包含地质地貌类型,滑坡空间位置,破坏机制,构造背景等多个字段"
+      ],
+      "matched_terms": [
+        "构一致",
+        "当前设计情境首先通过语义",
+        "关系重构",
+        "统一转化为属性向量",
+        "该向量包含地质地貌类型",
+        "滑坡空间位置",
+        "破坏机制",
+        "构造背景等多个字段",
+        "一对应"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_140",
+      "priority_group": "P1_ch10_formula_gap",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 4913,
+      "approved_paragraph_end": 4913,
+      "candidate_score": 0.263417,
+      "score_margin": 0.068917,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "当 且 ,则生成工程语义事实：，。",
+      "candidate_text": "当TA,B=Intersects 且 A∩lk≠ϕ,则生成工程语义事实：fk:分区=pk，pkϵ前缘、后缘、形成区-流通区-堆积扇。",
+      "candidate_reasons": [
+        "excerpt:0.30",
+        "summary:0.30",
+        "terms:则生成工程语义事实"
+      ],
+      "matched_terms": [
+        "则生成工程语义事实"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_018",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "decision": "",
+      "approved_paragraph_start": 4815,
+      "approved_paragraph_end": 4815,
+      "candidate_score": 0.871452,
+      "score_margin": 0.091051,
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）：",
+      "candidate_text": "知识驱动型设计系统可分为如下三个核心功能模块（如图 10-2所示）：",
+      "candidate_reasons": [
+        "excerpt:0.85",
+        "summary:0.85",
+        "terms:知识驱动型设计系统可分为,如下三个核心功能模块,如图,所示"
+      ],
+      "matched_terms": [
+        "知识驱动型设计系统可分为",
+        "如下三个核心功能模块",
+        "如图",
+        "所示"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_034",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "decision": "",
+      "approved_paragraph_start": 4926,
+      "approved_paragraph_end": 4926,
+      "candidate_score": 0.715594,
+      "score_margin": 0.360888,
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "（1）目标案例构建：语义一致的属性向量表示",
+      "candidate_text": "（1）目标实例构建：语义一致的属性向量表示",
+      "candidate_reasons": [
+        "excerpt:0.80",
+        "summary:0.80",
+        "terms:语义一致的属性向量表示"
+      ],
+      "matched_terms": [
+        "语义一致的属性向量表示"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_060",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "decision": "",
+      "approved_paragraph_start": 5024,
+      "approved_paragraph_end": 5026,
+      "candidate_score": 0.963469,
+      "score_margin": 8e-06,
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于：",
+      "candidate_text": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。 1.帕累托支配与帕累托前沿 在多目标优化中，解xa支配解xb表示xa在所有目标上都不劣于xb，并且在至少一个目标上优于xb：",
+      "candidate_reasons": [
+        "excerpt:1.00",
+        "summary:1.00",
+        "terms:在多目标优化中,解支配解表示在所有目标上,都不劣于,并且在至少一个目标上优于"
+      ],
+      "matched_terms": [
+        "在多目标优化中",
+        "解支配解表示在所有目标上",
+        "都不劣于",
+        "并且在至少一个目标上优于"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_075",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "decision": "",
+      "approved_paragraph_start": 5081,
+      "approved_paragraph_end": 5083,
+      "candidate_score": 0.896091,
+      "score_margin": 0.00012,
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "从时刻  起的折扣回报与优化目标为：",
+      "candidate_text": "（4）奖励函数 r(s,a)：对动作即时“好/坏”的量化反馈； （5）折扣因子 γ∈(0,1]：平衡近/远期收益。值越大，智能体越看重长期回报；值越小，智能体越看重当前的即时奖励。 从时刻 t 起的折扣回报与优化目标为：",
+      "candidate_reasons": [
+        "excerpt:1.00",
+        "summary:1.00",
+        "terms:从时刻,起的折扣回报与优化目标为"
+      ],
+      "matched_terms": [
+        "从时刻",
+        "起的折扣回报与优化目标为"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_087",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "decision": "",
+      "approved_paragraph_start": 5133,
+      "approved_paragraph_end": 5133,
+      "candidate_score": 0.920224,
+      "score_margin": 0.117956,
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+      "candidate_text": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前Q网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+      "candidate_reasons": [
+        "excerpt:0.94",
+        "summary:0.94",
+        "terms:计算梯度并更新,网络参数,每隔固定步数,贝至目标网络,以保持训练稳定"
+      ],
+      "matched_terms": [
+        "计算梯度并更新",
+        "网络参数",
+        "每隔固定步数",
+        "贝至目标网络",
+        "以保持训练稳定"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_002",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 4781,
+      "approved_paragraph_end": 4781,
+      "candidate_score": 0.517533,
+      "score_margin": 0.02063,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以辅助选线 。理解协同过滤与基于内容的推荐原理及其应用。",
+      "candidate_text": "4.了解监督学习、无监督学习及深度学习在处理多源异构道路数据中的作用。了解利用遥感与历史数据，通过机器学习模型进行模式识别，自动生成地质灾害风险地图以辅助选线。了解推荐系统在路线设计中的应用模式。",
+      "candidate_reasons": [
+        "excerpt:0.53",
+        "summary:0.54",
+        "terms:了解监督学习,无监督学习,及深度学习,在处理多源异构道路数据,遥感,中的作用,通过机器学习模型,进行模式识别"
+      ],
+      "matched_terms": [
+        "了解监督学习",
+        "无监督学习",
+        "及深度学习",
+        "在处理多源异构道路数据",
+        "遥感",
+        "中的作用",
+        "通过机器学习模型",
+        "进行模式识别",
+        "自动生成地质灾害风险地图",
+        "以辅助选线"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_031",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 4912,
+      "approved_paragraph_end": 4912,
+      "candidate_score": 0.885056,
+      "score_margin": 0.126749,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+      "candidate_text": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词TA,B∈{Intersects,Contains,Touches,Disjoint,⋯}。在“坐标分区”模型下，令地质体内部关键分区边界集合为L=lkk=1m(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:设路线为线要素,地质体为面要素,DEM-9IM,拓扑谓词,坐标分区,模型下,令地质体内部关键分区边界,集合为"
+      ],
+      "matched_terms": [
+        "设路线为线要素",
+        "地质体为面要素",
+        "DEM-9IM",
+        "拓扑谓词",
+        "坐标分区",
+        "模型下",
+        "令地质体内部关键分区边界",
+        "集合为",
+        "如滑坡前缘",
+        "后缘"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_096",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 4794,
+      "approved_paragraph_end": 4794,
+      "candidate_score": 0.852805,
+      "score_margin": 0.340618,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；",
+      "candidate_text": "（2）执行：跨平台调用GIS分析、优化库、BIM建模与模拟评估工具，自动传递数据与参数；",
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:执行,跨平台调用,GIS,分析,优化库,建模与模拟评估工具,自动传递数据与参数"
+      ],
+      "matched_terms": [
+        "执行",
+        "跨平台调用",
+        "GIS",
+        "分析",
+        "优化库",
+        "建模与模拟评估工具",
+        "自动传递数据与参数"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_046",
+      "priority_group": "P2_ch11_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "decision": "",
+      "approved_paragraph_start": 5362,
+      "approved_paragraph_end": 5364,
+      "candidate_score": 0.88717,
+      "score_margin": 0.058418,
+      "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+      "source_excerpt": "3.环境边界与路面效应感知 环境边界条件是评价道路运行安全与环境效应的重要依据。 （1）路面状态感知",
+      "candidate_text": "3.环境边界与路面状态感知 环境边界条件是评价道路运行安全与环境效应的重要依据。 （1）路面状态感知",
+      "candidate_reasons": [
+        "excerpt:0.92",
+        "summary:0.92",
+        "terms:环境边界条件是评价道路运,行安全与环境效应的重要依,路面状态感知"
+      ],
+      "matched_terms": [
+        "环境边界条件是评价道路运",
+        "行安全与环境效应的重要依",
+        "路面状态感知"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_117",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5568,
+      "approved_paragraph_end": 5568,
+      "candidate_score": 0.422103,
+      "score_margin": 0.022034,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "对于山区高墩桥梁或跨海大桥，数字孪生设计场景引入了风场仿真，这是跨桥梁、交通与气象多专业的综合协同体现。 （1）风致振动响应推演 结合区域气象站的长期观测数据，模拟峡谷风、强侧风或台风等典型风场条件，分析结构在不同工况下的动力响应特性，评估桥梁的抗风稳定性。",
+      "candidate_text": "对于山区高墩桥梁或跨海大桥，数字孪生设计场景引入了风场仿真，，模拟峡谷风、强侧风或台风等典型风场条件，评估桥梁的抗风稳定性，评价横风环境下车辆的行驶稳定性，为挡风屏的设计提供科学依据。",
+      "candidate_reasons": [
+        "excerpt:0.44",
+        "summary:0.40",
+        "terms:对于山区高墩桥梁或跨海大,数字孪生设计场景引入了风,场仿真,模拟峡谷风,强侧风或台风等典型风场条,评估桥梁的抗风稳定性"
+      ],
+      "matched_terms": [
+        "对于山区高墩桥梁或跨海大",
+        "数字孪生设计场景引入了风",
+        "场仿真",
+        "模拟峡谷风",
+        "强侧风或台风等典型风场条",
+        "评估桥梁的抗风稳定性"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_119",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5556,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.148453,
+      "score_margin": 0.001469,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "传统道路设计通常采用人工主导的“试错式”方案比选方式，设计空间有限且依赖经验判断。数字孪生融合算法驱动、知识驱动与数据驱动等人工智能范式，推动道路设计从“辅助绘图”向“生成式设计”转变。 1.算法驱动的参数化自动布局 设计人员根据设计规范（如设计速度、半径、纵坡等）定义约束参数，由系统在虚拟空间内探索设计空间。",
+      "candidate_text": "决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:转变"
+      ],
+      "matched_terms": [
+        "转变"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_121",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5559,
+      "candidate_score": 0.165384,
+      "score_margin": 0.004536,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "依托第二节所述的数字主线机制，路线位置或控制参数的调整将自动触发桥梁、隧道等相关构件模型的同步更新，确保整体设计方案的一致性与完整性。 2.数据与知识驱动的辅助决策 在方案生成与筛选过程中，系统综合运用数据挖掘与知识推理技术，提升设计决策的科学性和规范符合性。",
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。 一、数字化设计与多物理场仿真",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_122",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5556,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.155989,
+      "score_margin": 0.001184,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（1）参数智能推荐（数据驱动） 基于历史项目数据，系统可采用协同过滤或基于内容的推荐方法，为当前项目提供曲线半径、缓和曲线长度等参数建议，有效缓解设计初期的信息不足问题。 （2）规范符合性自动核查（知识驱动）",
+      "candidate_text": "决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_124",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.174229,
+      "score_margin": 0.002882,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "虚拟驾驶仿真与安全评价 为系统评估设计方案的行车安全性与舒适性，数字孪生支持在高保真虚拟环境中开展虚拟试驾，实现安全风险的前置识别与验证。 1.三维视距连续性检验",
+      "candidate_text": "第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_125",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5556,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.161527,
+      "score_margin": 0.001225,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "基于高精度语义模型，系统可从驾驶员视角对行车轨迹进行连续扫描。 （1）动态视距核查 系统能够识别边坡、植被及交通设施对视线的遮挡情况，连续检测停车视距与超车视距，并自动标注潜在视距受限路段。",
+      "candidate_text": "决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_126",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5555,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.173507,
+      "score_margin": 0.004834,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（2）视觉诱导性评价 从驾驶心理与视觉感知角度，对线形组合的平顺性及交通标志布设效果进行评价，为优化行车诱导条件提供依据。 2.复杂工况下的车辆动力学仿真",
+      "candidate_text": "（2）全生命周期价值评估 决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_127",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5556,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.145929,
+      "score_margin": 0.000278,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "引入车辆动力学模型，在虚拟数字路面上模拟车辆在不同工况下的运行状态，以较低的仿真成本开展多轮安全性验证。 （1）侧滑与侧翻风险分析 模拟重载车辆或危化品运输车辆在大坡度、急弯或恶劣气象条件下的行驶性能，计算侧向加速度与轮胎附着需求，评估潜在风险。",
+      "candidate_text": "决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_128",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.174588,
+      "score_margin": 0.006932,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（2）主动安全策略验证 通过在设计阶段反复仿真与调整，提前识别线形设计的薄弱环节，并在方案形成前予以优化，从源头上降低现实交通运行中的安全隐患。 传统设计模式与数字孪生设计模式的对比",
+      "candidate_text": "第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_134",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5575,
+      "approved_paragraph_end": 5576,
+      "candidate_score": 0.233217,
+      "score_margin": 0.030226,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（2）动态调整与路径优化 当关键工序出现偏差时，系统可基于关键路径法对后续施工方案进行情景推演，模拟不同资源配置条件下的进度恢复效果，为施工组织调整提供定量化参考。 智能化施工与质量闭环控制",
+      "candidate_text": "4D/5D 动态推演与进度纠偏：集成BIM、进度（4D）与成本（5D）维度 。通过无人机等实测数据进行虚实进度对比，快速定位偏差区域 ；基于关键路径法开展情景推演，为资源配置与方案调整提供定量参考 。 2.智能化施工与质量闭环控制",
+      "candidate_reasons": [
+        "excerpt:0.28",
+        "summary:0.28",
+        "terms:参考,智能化施工与质量闭环控制"
+      ],
+      "matched_terms": [
+        "参考",
+        "智能化施工与质量闭环控制"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_135",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5577,
+      "approved_paragraph_end": 5578,
+      "candidate_score": 0.336348,
+      "score_margin": 0.003951,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "施工阶段数字孪生的重要价值，在于将传统以“事后检测”为主的质量管理模式前移为以“事中控制”为核心的闭环控制体系，通过实时数据驱动施工行为，提升工程质量的可控性与一致性。 1.路基路面智能压实与摊铺控制 在压路机与摊铺机上集成高精度定位与无损检测传感器，实现施工质量的连续感知与实时反馈。",
+      "candidate_text": "将质量管理前移至“事中控制”，通过实时数据驱动施工行为，提升工程一致性。 路基路面智能压实与摊铺控制：集成高精度定位与无损检测传感器 。通过压实状态实时可视化引导针对性补压 ；利用红外热成像开展温度场与离析监控，预防早期病害，提升路面耐久性。",
+      "candidate_reasons": [
+        "excerpt:0.36",
+        "summary:0.29",
+        "terms:事中控制,通过实时数据驱动施工行为,致性,路基路面智能压实与摊铺控,精度定位与无损检测传感器"
+      ],
+      "matched_terms": [
+        "事中控制",
+        "通过实时数据驱动施工行为",
+        "致性",
+        "路基路面智能压实与摊铺控",
+        "精度定位与无损检测传感器"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_136",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5558,
+      "candidate_score": 0.16093,
+      "score_margin": 0.000245,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（1）压实状态实时可视化 压路机通过采集振动响应数据，结合空间位置信息计算压实状态指标（如 CMV），并在数字路面模型中形成连续分布的可视化结果。施工人员可依据该结果对欠压区域进行针对性补压，减少传统点位抽检方式带来的不确定性。 （2）温度场与离析监控",
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_137",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5558,
+      "candidate_score": 0.167455,
+      "score_margin": 0.002544,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "利用红外热成像技术监测沥青混合料摊铺过程中的温度分布情况，数字孪生系统可分析温度异常区域与潜在早期病害之间的关联，为施工参数调整提供依据，从而提升路面结构的整体均匀性与耐久性。 2.预制构件的数字孪生追溯管理 针对桥梁梁板、隧道管片等预制构件，施工阶段可建立覆盖制造、运输与安装全过程的数字孪生档案。",
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_139",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5579,
+      "approved_paragraph_end": 5581,
+      "candidate_score": 0.281628,
+      "score_margin": 0.059818,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "在构件吊装前，通过高精度测量获取已建结构的实测数据，并在数字孪生环境中开展虚拟预拼装分析，提前识别支座位置或高程偏差，为现场调整提供依据，提升一次安装成功率。 基于数字主线的数字化交付 施工完成不仅意味着物理工程实体的竣工，更意味着与之对应的高保真数字孪生体的同步交付。这是实现从“交付工程成果”向“交付数字资产与服务能力”转变的关键环节。",
+      "candidate_text": "预制构件数字孪生追溯管理：以 GUID 为核心实现全流程数据绑定，形成可追溯的构件数字档案 。在吊装前通过虚拟预拼装与安装校核识别空间偏差，提升一次安装成功率 。 3.基于数字主线的数字化交付 推动从交付“工程成果”向交付“数字资产与服务能力”转型，实现“竣工即孪生” 。",
+      "candidate_reasons": [
+        "excerpt:0.30",
+        "summary:0.24",
+        "terms:提升一次安装成功率,基于数字主线的数字化交付,交付工程成果,交付数字资产与服务能力"
+      ],
+      "matched_terms": [
+        "提升一次安装成功率",
+        "基于数字主线的数字化交付",
+        "交付工程成果",
+        "交付数字资产与服务能力"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_140",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5559,
+      "candidate_score": 0.236164,
+      "score_margin": 0.003309,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "1.从文档交付向数据交付转型 传统竣工交付以图纸与文本资料为主，难以直接支撑运维阶段的信息化应用。数字孪生交付依托数字主线技术，实现施工数据的结构化组织与标准化移交。 （1）结构化资产数据组织",
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。 一、数字化设计与多物理场仿真",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:技术,第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "技术",
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_142",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5583,
+      "approved_paragraph_end": 5583,
+      "candidate_score": 0.223217,
+      "score_margin": 0.001843,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "2.“竣工即孪生”的动态台账 在工程验收阶段，基于竣工测量与实测数据对设计模型进行修正，形成与物理实体一致的数字孪生底座。 （1）几何与属性一致性维护",
+      "candidate_text": "竣工即孪生动态台账：利用竣工实测数据修正模型，确保数字孪生底座在几何与属性层面与实体工程保持高度一致 。可结合区块链技术开展关键数据的可信存证，为运维阶段提供责任追溯保障",
+      "candidate_reasons": [
+        "excerpt:0.25",
+        "summary:0.25",
+        "terms:竣工即孪生,孪生底座"
+      ],
+      "matched_terms": [
+        "竣工即孪生",
+        "孪生底座"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_143",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5583,
+      "approved_paragraph_end": 5583,
+      "candidate_score": 0.246544,
+      "score_margin": 0.019888,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "通过动态更新机制，确保数字孪生体在几何精度与关键属性层面与实体工程保持一致，满足后续运维管理的使用需求。 （2）可信存证与责任追溯（可选） 对关键质量数据和隐蔽工程记录，可结合区块链等技术进行可信存证，为运维阶段的责任界定与质量追溯提供技术保障。",
+      "candidate_text": "竣工即孪生动态台账：利用竣工实测数据修正模型，确保数字孪生底座在几何与属性层面与实体工程保持高度一致 。可结合区块链技术开展关键数据的可信存证，为运维阶段提供责任追溯保障",
+      "candidate_reasons": [
+        "excerpt:0.32",
+        "summary:0.32",
+        "terms:信存证"
+      ],
+      "matched_terms": [
+        "信存证"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_144",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5584,
+      "approved_paragraph_end": 5585,
+      "candidate_score": 0.33879,
+      "score_margin": 0.023467,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "传统施工管理与数字孪生施工管控对比 三、预测性养护与全生命周期资产管理 道路工程数字孪生通过融合多源感知数据与物理—数据混合驱动模型，推动道路养护模式由传统的“被动响应式养护”向“主动预测性养护”转型升级。其核心在于依托数字孪生体对物理资产状态的实时映射与前瞻性推演能力，系统性回答“设施当前状态如何”“未来性能将如何演化”以及“何时、以何种方式实施养护最为合",
+      "candidate_text": "三、预测性养护与全生命周期资产管理 道路数字孪生通过物理—数据混合驱动模型，推动养护模式由“被动响应”向“主动预测”转型，科学支撑养护时机与方案决策，如图 11-10。",
+      "candidate_reasons": [
+        "excerpt:0.32",
+        "summary:0.43",
+        "terms:预测性养护与全生命周期资,产管理,数据混合驱动模型"
+      ],
+      "matched_terms": [
+        "预测性养护与全生命周期资",
+        "产管理",
+        "数据混合驱动模型"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_145",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5586,
+      "approved_paragraph_end": 5587,
+      "candidate_score": 0.277581,
+      "score_margin": 0.053339,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "预防性养护与全生命周期资产管理 多维感知驱动的结构健康监测 依托动态感知网络，数字孪生系统可持续采集并整合多尺度、多类型的监测信息，捕捉肉眼难以察觉的结构微小变化，逐步形成覆盖设施全寿命周期的结构健康档案。",
+      "candidate_text": "1.多维感知驱动的结构健康监测 依托动态感知网络形成全寿命周期结构健康档案，捕捉微小结构变化 。",
+      "candidate_reasons": [
+        "excerpt:0.35",
+        "summary:0.35",
+        "terms:多维感知驱动的结构健康监,依托动态感知网络"
+      ],
+      "matched_terms": [
+        "多维感知驱动的结构健康监",
+        "依托动态感知网络"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_146",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5588,
+      "approved_paragraph_end": 5588,
+      "candidate_score": 0.254313,
+      "score_margin": 0.024869,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "1. 力学与动力特性监测 （1）应力—应变状态感知 在桥梁跨中、支座及关键受力构件等部位布设光纤光栅传感器，实时采集应力—应变响应。结合降阶模型，系统可在有限测点数据基础上推算结构整体的等效受力分布状态，为结构受力评估与异常识别提供依据。",
+      "candidate_text": "力学与动力特性监测：利用光纤光栅传感器实时感知应力—应变状态，结合降阶模型推算整体受力 ；通过加速度计提取自振频率等参数识别“结构指纹”，对性能退化实现分级预警。",
+      "candidate_reasons": [
+        "excerpt:0.25",
+        "summary:0.26",
+        "terms:力学与动力特性监测,应力,结合降阶模型"
+      ],
+      "matched_terms": [
+        "力学与动力特性监测",
+        "应力",
+        "结合降阶模型"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_147",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5354,
+      "approved_paragraph_end": 5355,
+      "candidate_score": 0.205877,
+      "score_margin": 0.009029,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（2）动力特性与“结构指纹”识别 通过加速度计采集结构在交通荷载、风荷载等环境激励下的振动响应，利用快速傅里叶变换信号处理方法提取自振频率、阻尼比等动力特性参数，形成反映结构整体刚度与损伤状态的“动力指纹”。当关键特征参数出现持续性或显著偏移时，系统可判定结构性能发生退化，并按预设阈值触发分级预警。 2. 隐蔽工程与表观病害识别",
+      "candidate_text": "（2）动力特性感知 利用加速度传感器可采集结构在车辆荷载、风荷载等动力作用下的振动响应。通过快速傅里叶变换及模态分析，识别结构的固有频率、阻尼比及振型等动力特性参数。上述参数应与结构性能模型和历史基准状态进行对比分析，用于评估结构刚度退化及病害发展对承载能力的影响。",
+      "candidate_reasons": [
+        "excerpt:0.25",
+        "summary:0.28",
+        "terms:识别,响应"
+      ],
+      "matched_terms": [
+        "识别",
+        "响应"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_148",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5589,
+      "approved_paragraph_end": 5589,
+      "candidate_score": 0.164247,
+      "score_margin": 0.000498,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（1）内部结构状态探测 采用探地雷达等无损检测手段，对路面结构进行周期性扫描，构建结构内部介质的三维解释模型，用于识别基层脱空、含水异常及结构层厚度不足等隐蔽病害。 （2）表观病害智能识别与映射",
+      "candidate_text": "隐蔽工程与表观病害识别：通过探地雷达扫描路面内部介质，识别基层脱空等隐蔽病害 ；利用车载机器视觉系统与深度学习算法自动识别表观病害，并精确映射至LOD 3级模型。",
+      "candidate_reasons": [
+        "excerpt:0.20",
+        "summary:0.20",
+        "terms:等隐蔽病害"
+      ],
+      "matched_terms": [
+        "等隐蔽病害"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_150",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5592,
+      "approved_paragraph_end": 5592,
+      "candidate_score": 0.180744,
+      "score_margin": 0.000531,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "1. 降阶模型与实测数据协同校准 基于降阶模型技术，系统将传感器实测数据与有限元理论计算结果进行持续比对与校准。 （1）模型更新",
+      "candidate_text": "降阶模型与实测数据协同校准：通过实测数据反向修正物理模型参数，使虚拟模型逼近真实状态 ；利用时序变化特征进行损伤定位，辅助缩小排查范围 。",
+      "candidate_reasons": [
+        "excerpt:0.21",
+        "summary:0.21",
+        "terms:降阶模型与实测数据协同校"
+      ],
+      "matched_terms": [
+        "降阶模型与实测数据协同校"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_151",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5592,
+      "approved_paragraph_end": 5592,
+      "candidate_score": 0.229444,
+      "score_margin": 0.0252,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "当实测响应与理论计算结果的偏差超过设定阈值时，系统通过优化算法对物理模型参数（如弹性模量、边界刚度等）进行反向修正，使虚拟模型逐步逼近真实结构状态。 （2）损伤定位与趋势识别 通过分析模型参数的时序变化特征，系统可识别结构刚度下降的潜在区域，辅助工程技术人员缩小排查范围，实现由“经验判断”向“模型支撑”的诊断转变。",
+      "candidate_text": "降阶模型与实测数据协同校准：通过实测数据反向修正物理模型参数，使虚拟模型逼近真实状态 ；利用时序变化特征进行损伤定位，辅助缩小排查范围 。",
+      "candidate_reasons": [
+        "excerpt:0.22",
+        "summary:0.22",
+        "terms:型参数,化特征,范围"
+      ],
+      "matched_terms": [
+        "型参数",
+        "化特征",
+        "范围"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_152",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5555,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.21569,
+      "score_margin": 0.002966,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "2. 中长期性能退化预测 在长期运行数据积累的基础上，结合人工智能预测方法，对设施未来性能演化趋势进行推演。 （1）路面性能衰变预测",
+      "candidate_text": "（2）全生命周期价值评估 决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_155",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5558,
+      "candidate_score": 0.178638,
+      "score_margin": 0.000959,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "在数字孪生环境中，系统可模拟不同养护方案（如预防性养护、局部修补、结构性重建）在未来时段内的实施效果。 （1）全生命周期成本（LCC）分析 综合计算各方案在规划期内的检测费用、维修费用及用户延误成本，形成完整的成本评估结果。",
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_156",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5596,
+      "approved_paragraph_end": 5597,
+      "candidate_score": 0.29673,
+      "score_margin": 0.010382,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（2）效能与性价比比选 评估不同方案对路面性能提升幅度（Performance Jump）及使用寿命延长年限的影响，辅助决策者确定技术效果与经济投入之间的合理平衡，避免“过度养护”或“失养”风险。 2. 数字化台账与资产价值动态评估",
+      "candidate_text": "养护策略多目标优化决策：在数字孪生环境中开展全生命周期成本分析 ；通过比选路面性能提升幅度与性价比，辅助决策者确定最优养护时机，规避“过度养护”或“失养”风险 。 数字化台账与资产价值动态评估：依托GUID与数字主线形成可追溯的全历程履历管理（“电子病历”） ；系统根据健康状态动态评估资产折旧与剩余价值，支撑更新改造及特许经营决策 。",
+      "candidate_reasons": [
+        "excerpt:0.25",
+        "summary:0.21",
+        "terms:升幅度,过度养护,失养,风险,数字化台账与资产价值动态,评估,数字化台账与资产"
+      ],
+      "matched_terms": [
+        "升幅度",
+        "过度养护",
+        "失养",
+        "风险",
+        "数字化台账与资产价值动态",
+        "评估",
+        "数字化台账与资产"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_158",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5597,
+      "approved_paragraph_end": 5599,
+      "candidate_score": 0.26512,
+      "score_margin": 0.062451,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "（2）资产价值评估与决策支撑 基于设施当前健康状态与剩余使用寿命，系统动态评估资产折旧水平与剩余价值，为交通主管部门在资产盘点、更新改造及特许经营管理等方面提供可靠的数据支持。 四、智慧交通治理与韧性服务",
+      "candidate_text": "数字化台账与资产价值动态评估：依托GUID与数字主线形成可追溯的全历程履历管理（“电子病历”） ；系统根据健康状态动态评估资产折旧与剩余价值，支撑更新改造及特许经营决策 。 预防性养护与全生命周期资产管理 四、智慧交通治理与韧性服务",
+      "candidate_reasons": [
+        "excerpt:0.32",
+        "summary:0.32",
+        "terms:与剩余价值,智慧交通治理与韧性服务"
+      ],
+      "matched_terms": [
+        "与剩余价值",
+        "智慧交通治理与韧性服务"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_160",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "decision": "",
+      "approved_paragraph_start": 5603,
+      "approved_paragraph_end": 5604,
+      "candidate_score": 0.258201,
+      "score_margin": 1.2e-05,
+      "source_excerpt_role": "manual_textbook_anchor_required",
+      "source_excerpt": "传统交通管理多依赖断面检测器（如线圈、微波雷达）获取的宏观统计指标，难以刻画微观交通行为及其演化机理。数字孪生通过多源感知融合，构建面向全路网的精细化交通认知体系。 1.车道级轨迹还原与“数字车流”构建 依托雷视融合等高精度感知技术，系统能够实时获取路网上车辆的空间位置、速度、航向角及车型属性。",
+      "candidate_text": "构建精细化交通认知体系，实现从宏观统计向微观行为刻画的转变。 车道级轨迹还原与“数字车流”构建：依托雷视融合技术实时映射车辆属性与空间位置，构建同步运行的“数字车流”。支持对频繁变道、违规占用应急车道等行为的监测，将研判粒度提升至车道级。",
+      "candidate_reasons": [
+        "excerpt:0.24",
+        "summary:0.23",
+        "terms:通认知体系,车道级轨迹还原与,数字车流,构建,技术"
+      ],
+      "matched_terms": [
+        "通认知体系",
+        "车道级轨迹还原与",
+        "数字车流",
+        "构建",
+        "技术"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_123",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "decision": "",
+      "approved_paragraph_start": 5555,
+      "approved_paragraph_end": 5557,
+      "candidate_score": 0.208095,
+      "score_margin": 0.000915,
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "通过基于规则的推理（RBR）机制，系统可自动对生成方案进行规范条文比对，及时识别不符合强制性标准的设计要素。 （3）多目标帕累托决策支持 综合工程造价、碳排放及土地占用等多维指标，系统向设计人员提供一组在经济性、环保性与工程性能之间达到平衡的帕累托最优解集，辅助设计决策由经验主导向“数据—知识协同驱动”转变。",
+      "candidate_text": "（2）全生命周期价值评估 决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:转变,第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "转变",
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_154",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "decision": "",
+      "approved_paragraph_start": 5594,
+      "approved_paragraph_end": 5595,
+      "candidate_score": 0.411253,
+      "score_margin": 0.051755,
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "面向全生命周期的资产价值管理 数字孪生不仅关注设施的结构安全与使用性能，还将经济性与服务水平纳入统一分析框架，推动道路养护由单纯的“技术管养”向“资产全生命周期管理”升级。 1. 养护策略的多目标优化决策",
+      "candidate_text": "3.面向全生命周期的资产价值管理 将经济性与服务水平纳入分析框架，实现资产全生命周期管理升级。",
+      "candidate_reasons": [
+        "excerpt:0.44",
+        "summary:0.44",
+        "terms:面向全生命周期的资产价值,管理,资产全生命周期管理,升级"
+      ],
+      "matched_terms": [
+        "面向全生命周期的资产价值",
+        "管理",
+        "资产全生命周期管理",
+        "升级"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_118",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 5568,
+      "approved_paragraph_end": 5568,
+      "candidate_score": 0.218318,
+      "score_margin": 0.003617,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "（2）行车安全影响评价 分析横风环境下车辆的行驶稳定性，为挡风屏的设计提供科学依据。这体现了数字孪生“精准映射”的特征——不仅映射几何，更映射物理环境与动力响应。 AI 与数字孪生驱动的生成式设计",
+      "candidate_text": "对于山区高墩桥梁或跨海大桥，数字孪生设计场景引入了风场仿真，，模拟峡谷风、强侧风或台风等典型风场条件，评估桥梁的抗风稳定性，评价横风环境下车辆的行驶稳定性，为挡风屏的设计提供科学依据。",
+      "candidate_reasons": [
+        "excerpt:0.25",
+        "summary:0.25",
+        "terms:稳定性,为挡风屏的设计提供科学依"
+      ],
+      "matched_terms": [
+        "稳定性",
+        "为挡风屏的设计提供科学依"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_120",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5558,
+      "candidate_score": 0.168405,
+      "score_margin": 0.000468,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "（1）智能寻优与方案生成 集成遗传算法、粒子群算法等启发式搜索策略，数字孪生系统在三维地理空间中自动生成成百上千条可行路线。相较于传统人工选线，AI 算法能够遍历更广阔的解空间，发现人类经验可能忽略的更优路径。 （2）构件联动",
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_130",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 5572,
+      "approved_paragraph_end": 5573,
+      "candidate_score": 0.423672,
+      "score_margin": 0.025696,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "施工现场的信息物理系统（CPS）构建 依托物联网、边缘计算与新一代通信技术，将施工现场“人、机、料、法、环”等关键要素进行系统化感知与数字化表达，在数字孪生平台中构建与物理工地同步演化的“数字工地”，是施工阶段数字孪生应用的基础。 1.人机协同与安全主动防御",
+      "candidate_text": "1.施工现场信息物理系统（CPS）构建 依托物联网与新一代通信技术，实现“人、机、料、法、环”关键要素的系统化感知，构建同步演化的“数字工地”。",
+      "candidate_reasons": [
+        "excerpt:0.45",
+        "summary:0.50",
+        "terms:CPS,构建,依托物联网,数字工地"
+      ],
+      "matched_terms": [
+        "CPS",
+        "构建",
+        "依托物联网",
+        "数字工地"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_138",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 5579,
+      "approved_paragraph_end": 5579,
+      "candidate_score": 0.323128,
+      "score_margin": 0.0198,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "（1）全流程数据绑定与追溯 以构件的全局唯一标识符（GUID）为核心，将钢筋加工、混凝土浇筑、张拉养护等关键工艺数据进行结构化关联，形成可追溯的构件数字档案。 （2）虚拟预拼装与安装校核",
+      "candidate_text": "预制构件数字孪生追溯管理：以 GUID 为核心实现全流程数据绑定，形成可追溯的构件数字档案 。在吊装前通过虚拟预拼装与安装校核识别空间偏差，提升一次安装成功率 。",
+      "candidate_reasons": [
+        "excerpt:0.30",
+        "summary:0.30",
+        "terms:GUID,为核心,形成可追溯的构件数字档案,虚拟预拼装与安装校核"
+      ],
+      "matched_terms": [
+        "GUID",
+        "为核心",
+        "形成可追溯的构件数字档案",
+        "虚拟预拼装与安装校核"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_149",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 5589,
+      "approved_paragraph_end": 5590,
+      "candidate_score": 0.269509,
+      "score_margin": 0.010034,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "通过车载机器视觉系统采集高分辨率路面影像，结合深度学习算法自动识别裂缝、坑槽、修补区等典型病害，并将其精确映射至数字孪生模型对应位置（LOD 3 级），形成直观的病害空间分布图，为养护决策提供可视化依据。 物理—数据混合驱动的诊断与性能预测 单纯依赖数据驱动模型在样本规模受限或工况变化较大时易出现泛化能力不足，而纯物理模型则难以满足实时计算需求。为此，道路数",
+      "candidate_text": "隐蔽工程与表观病害识别：通过探地雷达扫描路面内部介质，识别基层脱空等隐蔽病害 ；利用车载机器视觉系统与深度学习算法自动识别表观病害，并精确映射至LOD 3级模型。 2.物理—数据混合驱动的诊断与性能预测",
+      "candidate_reasons": [
+        "excerpt:0.26",
+        "summary:0.27",
+        "terms:LOD,物理,数据混合驱动的诊断与性能,预测"
+      ],
+      "matched_terms": [
+        "LOD",
+        "物理",
+        "数据混合驱动的诊断与性能",
+        "预测"
+      ],
+      "reviewer_notes": ""
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_157",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "decision": "",
+      "approved_paragraph_start": 5557,
+      "approved_paragraph_end": 5558,
+      "candidate_score": 0.20273,
+      "score_margin": 0.001398,
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "在数字孪生体系中，每一项道路设施均对应唯一的数字身份标识（GUID），并通过数字主线实现信息的连续传递。 （1）全历程履历管理 设施的设计参数、施工质量记录、运行监测数据及历次养护信息被系统性关联，形成可追溯的“电子病历”，为后续管理与责任追溯提供依据。",
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "reviewer_notes": ""
+    }
+  ]
+}

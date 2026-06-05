@@ -1,0 +1,219 @@
+[
+  {
+    "comparison_id": "cmp_ch02_001",
+    "title": "DTM与DEM比较",
+    "object_a": "DTM",
+    "object_b": "DEM",
+    "comparison_dimensions": "信息范围；表达对象；应用场景；与高程的关系",
+    "teaching_conclusion": "DEM是DTM的特殊形式，DTM范围更广，DEM以高程为核心。",
+    "related_kps": [
+      "kp_ch02_050",
+      "kp_ch02_051",
+      "kp_ch02_052"
+    ],
+    "qa_trigger": "学生询问DTM和DEM的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_002",
+    "title": "规则格网DEM与TIN比较",
+    "object_a": "规则格网DEM",
+    "object_b": "TIN",
+    "comparison_dimensions": "数据结构；精度适应性；冗余程度；特征线表达；计算复杂度",
+    "teaching_conclusion": "规则格网适合大范围栅格分析，TIN适合复杂地形和特征结构表达。",
+    "related_kps": [
+      "kp_ch02_053",
+      "kp_ch02_054",
+      "kp_ch02_055"
+    ],
+    "qa_trigger": "学生询问规则格网DEM和TIN的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_003",
+    "title": "WCS与UCS比较",
+    "object_a": "WCS",
+    "object_b": "UCS",
+    "comparison_dimensions": "坐标范围；是否可自定义；建模作用；数据交换作用",
+    "teaching_conclusion": "WCS是全局空间基准，UCS是局部建模参考。",
+    "related_kps": [
+      "kp_ch02_008",
+      "kp_ch02_009"
+    ],
+    "qa_trigger": "学生询问WCS和UCS的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_004",
+    "title": "地理坐标系与投影坐标系比较",
+    "object_a": "地理坐标系",
+    "object_b": "投影坐标系",
+    "comparison_dimensions": "坐标形式；应用目的；是否适合工程计算；GIS融合作用",
+    "teaching_conclusion": "地理坐标表达真实地理位置，投影坐标便于工程计算与制图。",
+    "related_kps": [
+      "kp_ch02_005",
+      "kp_ch02_006"
+    ],
+    "qa_trigger": "学生询问地理坐标系和投影坐标系的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_005",
+    "title": "二维图元与三维图元比较",
+    "object_a": "二维图元",
+    "object_b": "三维图元",
+    "comparison_dimensions": "维度；是否有体积；建模阶段；工程作用",
+    "teaching_conclusion": "二维图元常作为轮廓和约束，三维图元表达空间构件形态。",
+    "related_kps": [
+      "kp_ch02_017",
+      "kp_ch02_018"
+    ],
+    "qa_trigger": "学生询问二维图元和三维图元的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_006",
+    "title": "构造图元、控制图元与辅助图元比较",
+    "object_a": "构造图元",
+    "object_b": "控制图元/辅助图元",
+    "comparison_dimensions": "是否直接生成实体；是否控制路径；是否用于定位和参照",
+    "teaching_conclusion": "三类图元分工不同，共同支撑道路构件生成。",
+    "related_kps": [
+      "kp_ch02_019",
+      "kp_ch02_020",
+      "kp_ch02_021"
+    ],
+    "qa_trigger": "学生询问构造图元和控制图元/辅助图元的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_007",
+    "title": "正投影与透视投影比较",
+    "object_a": "正投影",
+    "object_b": "透视投影",
+    "comparison_dimensions": "尺寸真实性；视觉真实感；适用场景；是否适合标注",
+    "teaching_conclusion": "正投影适合工程图纸，透视投影适合三维展示。",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_044"
+    ],
+    "qa_trigger": "学生询问正投影和透视投影的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_008",
+    "title": "拉伸、扫掠与放样比较",
+    "object_a": "拉伸",
+    "object_b": "扫掠/放样",
+    "comparison_dimensions": "生成逻辑；路径要求；截面变化；道路工程适用性",
+    "teaching_conclusion": "拉伸适合固定方向，扫掠适合沿路径，放样适合变截面过渡。",
+    "related_kps": [
+      "kp_ch02_028",
+      "kp_ch02_030",
+      "kp_ch02_031"
+    ],
+    "qa_trigger": "学生询问拉伸和扫掠/放样的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_009",
+    "title": "线框模型、表面模型与实体模型比较",
+    "object_a": "线框模型",
+    "object_b": "表面模型/实体模型",
+    "comparison_dimensions": "数据量；表达能力；体积属性；适用阶段",
+    "teaching_conclusion": "模型表达层级从线框到表面再到实体逐步深化。",
+    "related_kps": [
+      "kp_ch02_094",
+      "kp_ch02_095",
+      "kp_ch02_096"
+    ],
+    "qa_trigger": "学生询问线框模型和表面模型/实体模型的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_010",
+    "title": "Delaunay与约束Delaunay比较",
+    "object_a": "Delaunay三角网",
+    "object_b": "约束Delaunay三角网",
+    "comparison_dimensions": "是否保留约束边；地形特征表达；算法处理；道路适用性",
+    "teaching_conclusion": "工程地形中常需CDT保留道路边线、断裂线和边界。",
+    "related_kps": [
+      "kp_ch02_068",
+      "kp_ch02_074"
+    ],
+    "qa_trigger": "学生询问Delaunay三角网和约束Delaunay三角网的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_011",
+    "title": "三类Delaunay生成算法比较",
+    "object_a": "分而治之",
+    "object_b": "三角网生长/逐点插入",
+    "comparison_dimensions": "数据处理方式；动态更新能力；效率；实现难点",
+    "teaching_conclusion": "不同算法适合不同数据规模和更新需求。",
+    "related_kps": [
+      "kp_ch02_071",
+      "kp_ch02_072",
+      "kp_ch02_073"
+    ],
+    "qa_trigger": "学生询问分而治之和三角网生长/逐点插入的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_012",
+    "title": "路线几何构件与廊道模型构件比较",
+    "object_a": "路线几何构件",
+    "object_b": "廊道模型构件",
+    "comparison_dimensions": "模型角色；控制关系；生成机制；工程对象",
+    "teaching_conclusion": "路线几何构件是控制骨架，廊道模型是模板沿路线生成的道路主体。",
+    "related_kps": [
+      "kp_ch02_089",
+      "kp_ch02_090"
+    ],
+    "qa_trigger": "学生询问路线几何构件和廊道模型构件的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_013",
+    "title": "道路地形模型与道路构件模型比较",
+    "object_a": "道路地形模型",
+    "object_b": "道路构件模型",
+    "comparison_dimensions": "表达对象；数据来源；与路线关系；应用结果",
+    "teaching_conclusion": "地形模型提供环境边界，构件模型表达设计实体。",
+    "related_kps": [
+      "kp_ch02_108",
+      "kp_ch02_090"
+    ],
+    "qa_trigger": "学生询问道路地形模型和道路构件模型的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_014",
+    "title": "结构构建与路径构建比较",
+    "object_a": "结构构建",
+    "object_b": "路径构建",
+    "comparison_dimensions": "生成依据；适用对象；道路工程适用性",
+    "teaching_conclusion": "结构构建适合规则构件，路径构建适合线性道路主体。",
+    "related_kps": [
+      "kp_ch02_098",
+      "kp_ch02_099"
+    ],
+    "qa_trigger": "学生询问结构构建和路径构建的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  },
+  {
+    "comparison_id": "cmp_ch02_015",
+    "title": "图形表达层、拓扑关系层与语义属性层比较",
+    "object_a": "图形表达层",
+    "object_b": "拓扑关系层/语义属性层",
+    "comparison_dimensions": "表达内容；计算能力；BIM价值；信息完整性",
+    "teaching_conclusion": "道路BIM需要从图形形态上升到拓扑和语义一体化。",
+    "related_kps": [
+      "kp_ch02_085",
+      "kp_ch02_086",
+      "kp_ch02_087"
+    ],
+    "qa_trigger": "学生询问图形表达层和拓扑关系层/语义属性层的区别、联系或适用场景时调用。",
+    "chapter_id": "ch02"
+  }
+]

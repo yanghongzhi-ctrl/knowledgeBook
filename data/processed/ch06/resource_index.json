@@ -1,0 +1,1020 @@
+[
+  {
+    "resource_id": "ch06_res_fig_001",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "resource_type": "image",
+    "title": "图6-1 AutoCAD界面",
+    "file_path": "chapter_06/images/ch06_fig_001.png",
+    "description": "图6-1 AutoCAD界面用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-1 AutoCAD界面相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-1 AutoCAD界面"
+    ],
+    "reference_aliases": [
+      "图6-1 AutoCAD界面",
+      "ch06_res_fig_001",
+      "图6-1",
+      "图6.1",
+      "图61"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_002",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "resource_type": "image",
+    "title": "图6-2 选项对话框",
+    "file_path": "chapter_06/images/ch06_fig_002.png",
+    "description": "图6-2 选项对话框用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-2 选项对话框相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-2 选项对话框"
+    ],
+    "reference_aliases": [
+      "图6-2 选项对话框",
+      "ch06_res_fig_002",
+      "图6-2",
+      "图6.2",
+      "图62"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_003",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "resource_type": "image",
+    "title": "图6-3 相对坐标输入",
+    "file_path": "chapter_06/images/ch06_fig_003.png",
+    "description": "图6-3 相对坐标输入用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-3 相对坐标输入相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-3 相对坐标输入"
+    ],
+    "reference_aliases": [
+      "图6-3 相对坐标输入",
+      "ch06_res_fig_003",
+      "图6-3",
+      "图6.3",
+      "图63"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_004",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "resource_type": "image",
+    "title": "图6-4 图纸空间页面设置",
+    "file_path": "chapter_06/images/ch06_fig_004.png",
+    "description": "图6-4 图纸空间页面设置用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-4 图纸空间页面设置相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-4 图纸空间页面设置"
+    ],
+    "reference_aliases": [
+      "图6-4 图纸空间页面设置",
+      "ch06_res_fig_004",
+      "图6-4",
+      "图6.4",
+      "图64"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_005",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-5 圆的绘制方式",
+    "file_path": "chapter_06/images/ch06_fig_005.png",
+    "description": "图6-5 圆的绘制方式用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-5 圆的绘制方式相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-5 圆的绘制方式"
+    ],
+    "reference_aliases": [
+      "图6-5 圆的绘制方式",
+      "ch06_res_fig_005",
+      "图6-5",
+      "图6.5",
+      "图65"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_006",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-6 样条曲线示意图",
+    "file_path": "chapter_06/images/ch06_fig_006.png",
+    "description": "图6-6 样条曲线示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-6 样条曲线示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-6 样条曲线示意图"
+    ],
+    "reference_aliases": [
+      "图6-6 样条曲线示意图",
+      "ch06_res_fig_006",
+      "图6-6",
+      "图6.6",
+      "图66"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_007",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-7 正多边形绘制方法",
+    "file_path": "chapter_06/images/ch06_fig_007.png",
+    "description": "图6-7 正多边形绘制方法用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-7 正多边形绘制方法相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-7 正多边形绘制方法"
+    ],
+    "reference_aliases": [
+      "图6-7 正多边形绘制方法",
+      "ch06_res_fig_007",
+      "图6-7",
+      "图6.7",
+      "图67"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_008",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-8 矩形选择方法",
+    "file_path": "chapter_06/images/ch06_fig_008.png",
+    "description": "图6-8 矩形选择方法用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-8 矩形选择方法相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-8 矩形选择方法"
+    ],
+    "reference_aliases": [
+      "图6-8 矩形选择方法",
+      "ch06_res_fig_008",
+      "图6-8",
+      "图6.8",
+      "图68"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_009",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-9 不规则选择示意图",
+    "file_path": "chapter_06/images/ch06_fig_009.png",
+    "description": "图6-9 不规则选择示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-9 不规则选择示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-9 不规则选择示意图"
+    ],
+    "reference_aliases": [
+      "图6-9 不规则选择示意图",
+      "ch06_res_fig_009",
+      "图6-9",
+      "图6.9",
+      "图69"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_010",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-10 栏选示意图",
+    "file_path": "chapter_06/images/ch06_fig_010.png",
+    "description": "图6-10 栏选示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-10 栏选示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-10 栏选示意图"
+    ],
+    "reference_aliases": [
+      "图6-10 栏选示意图",
+      "ch06_res_fig_010",
+      "图6-10",
+      "图6.10",
+      "图610"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_011",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-11 拉伸示意图",
+    "file_path": "chapter_06/images/ch06_fig_011.png",
+    "description": "图6-11 拉伸示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-11 拉伸示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-11 拉伸示意图"
+    ],
+    "reference_aliases": [
+      "图6-11 拉伸示意图",
+      "ch06_res_fig_011",
+      "图6-11",
+      "图6.11",
+      "图611"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_012",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-12 旋转示意图",
+    "file_path": "chapter_06/images/ch06_fig_012.png",
+    "description": "图6-12 旋转示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-12 旋转示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-12 旋转示意图"
+    ],
+    "reference_aliases": [
+      "图6-12 旋转示意图",
+      "ch06_res_fig_012",
+      "图6-12",
+      "图6.12",
+      "图612"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_013",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-13 修剪对象示意图",
+    "file_path": "chapter_06/images/ch06_fig_013.png",
+    "description": "图6-13 修剪对象示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-13 修剪对象示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-13 修剪对象示意图"
+    ],
+    "reference_aliases": [
+      "图6-13 修剪对象示意图",
+      "ch06_res_fig_013",
+      "图6-13",
+      "图6.13",
+      "图613"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_014",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-14 圆角示意图",
+    "file_path": "chapter_06/images/ch06_fig_014.png",
+    "description": "图6-14 圆角示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-14 圆角示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-14 圆角示意图"
+    ],
+    "reference_aliases": [
+      "图6-14 圆角示意图",
+      "ch06_res_fig_014",
+      "图6-14",
+      "图6.14",
+      "图614"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_015",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-15 阵列示意图",
+    "file_path": "chapter_06/images/ch06_fig_015.png",
+    "description": "图6-15 阵列示意图用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-15 阵列示意图相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-15 阵列示意图"
+    ],
+    "reference_aliases": [
+      "图6-15 阵列示意图",
+      "ch06_res_fig_015",
+      "图6-15",
+      "图6.15",
+      "图615"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_016",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "image",
+    "title": "图6-18 状态栏精确定位工具",
+    "file_path": "chapter_06/images/ch06_fig_016.png",
+    "description": "图6-18 状态栏精确定位工具用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-18 状态栏精确定位工具相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-18 状态栏精确定位工具"
+    ],
+    "reference_aliases": [
+      "图6-18 状态栏精确定位工具",
+      "ch06_res_fig_016",
+      "图6-18",
+      "图6.18",
+      "图618"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_017",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "resource_type": "image",
+    "title": "图6-24 标注类型",
+    "file_path": "chapter_06/images/ch06_fig_017.png",
+    "description": "图6-24 标注类型用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-24 标注类型相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-24 标注类型"
+    ],
+    "reference_aliases": [
+      "图6-24 标注类型",
+      "ch06_res_fig_017",
+      "图6-24",
+      "图6.24",
+      "图624"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_018",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "resource_type": "image",
+    "title": "图6-25 标注组成",
+    "file_path": "chapter_06/images/ch06_fig_018.png",
+    "description": "图6-25 标注组成用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-25 标注组成相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-25 标注组成"
+    ],
+    "reference_aliases": [
+      "图6-25 标注组成",
+      "ch06_res_fig_018",
+      "图6-25",
+      "图6.25",
+      "图625"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_019",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "resource_type": "image",
+    "title": "图6-26 标注样式管理器",
+    "file_path": "chapter_06/images/ch06_fig_019.png",
+    "description": "图6-26 标注样式管理器用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-26 标注样式管理器相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-26 标注样式管理器"
+    ],
+    "reference_aliases": [
+      "图6-26 标注样式管理器",
+      "ch06_res_fig_019",
+      "图6-26",
+      "图6.26",
+      "图626"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_020",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "resource_type": "image",
+    "title": "图6-31 图层管理器",
+    "file_path": "chapter_06/images/ch06_fig_020.png",
+    "description": "图6-31 图层管理器用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-31 图层管理器相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-31 图层管理器"
+    ],
+    "reference_aliases": [
+      "图6-31 图层管理器",
+      "ch06_res_fig_020",
+      "图6-31",
+      "图6.31",
+      "图631"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_021",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "resource_type": "image",
+    "title": "图6-32 图块插入示意",
+    "file_path": "chapter_06/images/ch06_fig_021.png",
+    "description": "图6-32 图块插入示意用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-32 图块插入示意相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-32 图块插入示意"
+    ],
+    "reference_aliases": [
+      "图6-32 图块插入示意",
+      "ch06_res_fig_021",
+      "图6-32",
+      "图6.32",
+      "图632"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_022",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "resource_type": "image",
+    "title": "图6-33 块定义对话框",
+    "file_path": "chapter_06/images/ch06_fig_022.png",
+    "description": "图6-33 块定义对话框用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-33 块定义对话框相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-33 块定义对话框"
+    ],
+    "reference_aliases": [
+      "图6-33 块定义对话框",
+      "ch06_res_fig_022",
+      "图6-33",
+      "图6.33",
+      "图633"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_023",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "resource_type": "image",
+    "title": "图6-34 插入对话框",
+    "file_path": "chapter_06/images/ch06_fig_023.png",
+    "description": "图6-34 插入对话框用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-34 插入对话框相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-34 插入对话框"
+    ],
+    "reference_aliases": [
+      "图6-34 插入对话框",
+      "ch06_res_fig_023",
+      "图6-34",
+      "图6.34",
+      "图634"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_024",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "resource_type": "image",
+    "title": "图6-35 属性定义对话框",
+    "file_path": "chapter_06/images/ch06_fig_024.png",
+    "description": "图6-35 属性定义对话框用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-35 属性定义对话框相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-35 属性定义对话框"
+    ],
+    "reference_aliases": [
+      "图6-35 属性定义对话框",
+      "ch06_res_fig_024",
+      "图6-35",
+      "图6.35",
+      "图635"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_025",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "resource_type": "image",
+    "title": "图6-36 块属性管理器",
+    "file_path": "chapter_06/images/ch06_fig_025.png",
+    "description": "图6-36 块属性管理器用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-36 块属性管理器相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-36 块属性管理器"
+    ],
+    "reference_aliases": [
+      "图6-36 块属性管理器",
+      "ch06_res_fig_025",
+      "图6-36",
+      "图6.36",
+      "图636"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_026",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-40 视觉样式管理器",
+    "file_path": "chapter_06/images/ch06_fig_026.png",
+    "description": "图6-40 视觉样式管理器用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-40 视觉样式管理器相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-40 视觉样式管理器"
+    ],
+    "reference_aliases": [
+      "图6-40 视觉样式管理器",
+      "ch06_res_fig_026",
+      "图6-40",
+      "图6.40",
+      "图640"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_027",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-42 3DFACE空间平面",
+    "file_path": "chapter_06/images/ch06_fig_027.png",
+    "description": "图6-42 3DFACE空间平面用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-42 3DFACE空间平面相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-42 3DFACE空间平面"
+    ],
+    "reference_aliases": [
+      "图6-42 3DFACE空间平面",
+      "ch06_res_fig_027",
+      "图6-42",
+      "图6.42",
+      "图642"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_028",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-43 平移曲面",
+    "file_path": "chapter_06/images/ch06_fig_028.png",
+    "description": "图6-43 平移曲面用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-43 平移曲面相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-43 平移曲面"
+    ],
+    "reference_aliases": [
+      "图6-43 平移曲面",
+      "ch06_res_fig_028",
+      "图6-43",
+      "图6.43",
+      "图643"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_029",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-44 旋转曲面",
+    "file_path": "chapter_06/images/ch06_fig_029.png",
+    "description": "图6-44 旋转曲面用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-44 旋转曲面相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-44 旋转曲面"
+    ],
+    "reference_aliases": [
+      "图6-44 旋转曲面",
+      "ch06_res_fig_029",
+      "图6-44",
+      "图6.44",
+      "图644"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_030",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-47 长方体",
+    "file_path": "chapter_06/images/ch06_fig_030.png",
+    "description": "图6-47 长方体用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-47 长方体相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-47 长方体"
+    ],
+    "reference_aliases": [
+      "图6-47 长方体",
+      "ch06_res_fig_030",
+      "图6-47",
+      "图6.47",
+      "图647"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_031",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-48 圆柱体",
+    "file_path": "chapter_06/images/ch06_fig_031.png",
+    "description": "图6-48 圆柱体用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-48 圆柱体相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-48 圆柱体"
+    ],
+    "reference_aliases": [
+      "图6-48 圆柱体",
+      "ch06_res_fig_031",
+      "图6-48",
+      "图6.48",
+      "图648"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_032",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-49 拉伸实体",
+    "file_path": "chapter_06/images/ch06_fig_032.png",
+    "description": "图6-49 拉伸实体用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-49 拉伸实体相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-49 拉伸实体"
+    ],
+    "reference_aliases": [
+      "图6-49 拉伸实体",
+      "ch06_res_fig_032",
+      "图6-49",
+      "图6.49",
+      "图649"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_033",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-50 旋转实体",
+    "file_path": "chapter_06/images/ch06_fig_033.png",
+    "description": "图6-50 旋转实体用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-50 旋转实体相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-50 旋转实体"
+    ],
+    "reference_aliases": [
+      "图6-50 旋转实体",
+      "ch06_res_fig_033",
+      "图6-50",
+      "图6.50",
+      "图650"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_034",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-51 并集命令",
+    "file_path": "chapter_06/images/ch06_fig_034.png",
+    "description": "图6-51 并集命令用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-51 并集命令相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-51 并集命令"
+    ],
+    "reference_aliases": [
+      "图6-51 并集命令",
+      "ch06_res_fig_034",
+      "图6-51",
+      "图6.51",
+      "图651"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_035",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-52 差集命令",
+    "file_path": "chapter_06/images/ch06_fig_035.png",
+    "description": "图6-52 差集命令用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-52 差集命令相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-52 差集命令"
+    ],
+    "reference_aliases": [
+      "图6-52 差集命令",
+      "ch06_res_fig_035",
+      "图6-52",
+      "图6.52",
+      "图652"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_res_fig_036",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "image",
+    "title": "图6-53 交集命令",
+    "file_path": "chapter_06/images/ch06_fig_036.png",
+    "description": "图6-53 交集命令用于说明AutoCAD第六章相关操作界面、命令或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问图6-53 交集命令相关内容时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "图6-53 交集命令"
+    ],
+    "reference_aliases": [
+      "图6-53 交集命令",
+      "ch06_res_fig_036",
+      "图6-53",
+      "图6.53",
+      "图653"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_001",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "resource_type": "video",
+    "title": "AutoCAD绘图环境与坐标输入演示",
+    "file_path": "chapter_06/videos/ch06_vid_001.mp4",
+    "description": "用于第六章环境与坐标模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问环境与坐标相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "AutoCAD绘图环境与坐标输入演示"
+    ],
+    "reference_aliases": [
+      "AutoCAD绘图环境与坐标输入演示",
+      "ch06_vid_001"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_002",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "video",
+    "title": "AutoCAD基本绘图命令演示",
+    "file_path": "chapter_06/videos/ch06_vid_002.mp4",
+    "description": "用于第六章基本绘图模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问基本绘图相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "AutoCAD基本绘图命令演示"
+    ],
+    "reference_aliases": [
+      "AutoCAD基本绘图命令演示",
+      "ch06_vid_002"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_003",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "video",
+    "title": "AutoCAD图形编辑命令演示",
+    "file_path": "chapter_06/videos/ch06_vid_003.mp4",
+    "description": "用于第六章图形编辑模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问图形编辑相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "AutoCAD图形编辑命令演示"
+    ],
+    "reference_aliases": [
+      "AutoCAD图形编辑命令演示",
+      "ch06_vid_003"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_004",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "resource_type": "video",
+    "title": "AutoCAD精确定位工具演示",
+    "file_path": "chapter_06/videos/ch06_vid_004.mp4",
+    "description": "用于第六章精确定位模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问精确定位相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "AutoCAD精确定位工具演示"
+    ],
+    "reference_aliases": [
+      "AutoCAD精确定位工具演示",
+      "ch06_vid_004"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_005",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "resource_type": "video",
+    "title": "AutoCAD文字与尺寸标注演示",
+    "file_path": "chapter_06/videos/ch06_vid_005.mp4",
+    "description": "用于第六章文字标注模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问文字标注相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "AutoCAD文字与尺寸标注演示"
+    ],
+    "reference_aliases": [
+      "AutoCAD文字与尺寸标注演示",
+      "ch06_vid_005"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_006",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "resource_type": "video",
+    "title": "AutoCAD图层管理与图块应用演示",
+    "file_path": "chapter_06/videos/ch06_vid_006.mp4",
+    "description": "用于第六章图层图块模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问图层图块相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "AutoCAD图层管理与图块应用演示"
+    ],
+    "reference_aliases": [
+      "AutoCAD图层管理与图块应用演示",
+      "ch06_vid_006"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_007",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "resource_type": "video",
+    "title": "AutoCAD三维曲面与实体建模演示",
+    "file_path": "chapter_06/videos/ch06_vid_007.mp4",
+    "description": "用于第六章三维建模模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问三维建模相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "AutoCAD三维曲面与实体建模演示"
+    ],
+    "reference_aliases": [
+      "AutoCAD三维曲面与实体建模演示",
+      "ch06_vid_007"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_vid_008",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "resource_type": "video",
+    "title": "简易道路标准横断面综合绘图演示",
+    "file_path": "chapter_06/videos/ch06_vid_008.mp4",
+    "description": "用于第六章综合实践模块的操作演示。",
+    "related_kps": [],
+    "qa_use": "学生询问综合实践相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "keywords": [
+      "简易道路标准横断面综合绘图演示"
+    ],
+    "reference_aliases": [
+      "简易道路标准横断面综合绘图演示",
+      "ch06_vid_008"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch06_script_autocad_overview",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "resource_type": "interactive_html",
+    "title": "AutoCAD功能全景互动脚本",
+    "file_path": "assets/ch06/interactive_html/6.AutoCAD功能全景互动脚本.html",
+    "description": "用于浏览第六章AutoCAD平台功能、绘图环境、命令体系和典型操作任务。",
+    "related_kps": [
+      "kp_ch06_001",
+      "kp_ch06_002",
+      "kp_ch06_005",
+      "kp_ch06_006"
+    ],
+    "keywords": [
+      "AutoCAD",
+      "功能全景",
+      "互动脚本",
+      "命令",
+      "操作任务"
+    ],
+    "trigger_questions": [
+      "AutoCAD功能全景互动脚本怎么看？",
+      "我想看第六章AutoCAD互动脚本。",
+      "AutoCAD平台功能怎么操作演示？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问第六章AutoCAD功能总览、互动脚本或操作演示时推荐。",
+    "status": "bound"
+  }
+]

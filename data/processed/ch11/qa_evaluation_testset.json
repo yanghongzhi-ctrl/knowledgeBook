@@ -1,0 +1,5018 @@
+[
+  {
+    "test_id": "eval_ch11_001",
+    "chapter_id": "ch11",
+    "question": "什么是道路数字孪生定义？",
+    "expected_answer_card": "ans_ch11_001",
+    "expected_answer_points": [
+      "明确道路数字孪生定义的核心含义：覆盖道路基础设施全生命周期的虚实闭环系统",
+      "以BIM为微观基础、GIS为空间背景",
+      "融合IoT实时感知与AI智能分析",
+      "实现动态同步、状态预测与闭环优化。",
+      "说明其在道路数字孪生中的作用：支撑从静态交付到动态服务的道路基础设施管理转型。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_002",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生定义在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_002",
+    "expected_answer_points": [
+      "明确道路数字孪生定义的核心含义：覆盖道路基础设施全生命周期的虚实闭环系统",
+      "以BIM为微观基础、GIS为空间背景",
+      "融合IoT实时感知与AI智能分析",
+      "实现动态同步、状态预测与闭环优化。",
+      "说明其在道路数字孪生中的作用：支撑从静态交付到动态服务的道路基础设施管理转型。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_003",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要道路数字孪生定义？",
+    "expected_answer_card": "ans_ch11_003",
+    "expected_answer_points": [
+      "明确道路数字孪生定义的核心含义：覆盖道路基础设施全生命周期的虚实闭环系统",
+      "以BIM为微观基础、GIS为空间背景",
+      "融合IoT实时感知与AI智能分析",
+      "实现动态同步、状态预测与闭环优化。",
+      "说明其在道路数字孪生中的作用：支撑从静态交付到动态服务的道路基础设施管理转型。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_004",
+    "chapter_id": "ch11",
+    "question": "什么是从CAD到数字孪生的技术演进？",
+    "expected_answer_card": "ans_ch11_004",
+    "expected_answer_points": [
+      "明确从CAD到数字孪生的技术演进的核心含义：道路数字化经历CAD二维制图、BIM语义模型、BIM+GIS跨尺度集成、数字孪生虚实闭环四个阶段。。",
+      "说明其在道路数字孪生中的作用：帮助学生建立第十一章与前面章节之间的纵向联系。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_005",
+    "chapter_id": "ch11",
+    "question": "从CAD到数字孪生的技术演进在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_005",
+    "expected_answer_points": [
+      "明确从CAD到数字孪生的技术演进的核心含义：道路数字化经历CAD二维制图、BIM语义模型、BIM+GIS跨尺度集成、数字孪生虚实闭环四个阶段。。",
+      "说明其在道路数字孪生中的作用：帮助学生建立第十一章与前面章节之间的纵向联系。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_006",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要从CAD到数字孪生的技术演进？",
+    "expected_answer_card": "ans_ch11_006",
+    "expected_answer_points": [
+      "明确从CAD到数字孪生的技术演进的核心含义：道路数字化经历CAD二维制图、BIM语义模型、BIM+GIS跨尺度集成、数字孪生虚实闭环四个阶段。。",
+      "说明其在道路数字孪生中的作用：帮助学生建立第十一章与前面章节之间的纵向联系。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_007",
+    "chapter_id": "ch11",
+    "question": "从CAD到数字孪生的技术演进的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_007",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：从CAD到数字孪生的技术演进。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_008",
+    "chapter_id": "ch11",
+    "question": "什么是道路数字孪生必要性？",
+    "expected_answer_card": "ans_ch11_008",
+    "expected_answer_points": [
+      "明确道路数字孪生必要性的核心含义：道路工程动态环境、空间尺度大、运营周期长",
+      "决定了静态模型难以满足长期管理",
+      "需要数字孪生实现持续感知和动态反馈。。",
+      "说明其在道路数字孪生中的作用：解释为什么BIM+GIS仍不足以支撑长期运营。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_009",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生必要性在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_009",
+    "expected_answer_points": [
+      "明确道路数字孪生必要性的核心含义：道路工程动态环境、空间尺度大、运营周期长",
+      "决定了静态模型难以满足长期管理",
+      "需要数字孪生实现持续感知和动态反馈。。",
+      "说明其在道路数字孪生中的作用：解释为什么BIM+GIS仍不足以支撑长期运营。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_010",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要道路数字孪生必要性？",
+    "expected_answer_card": "ans_ch11_010",
+    "expected_answer_points": [
+      "明确道路数字孪生必要性的核心含义：道路工程动态环境、空间尺度大、运营周期长",
+      "决定了静态模型难以满足长期管理",
+      "需要数字孪生实现持续感知和动态反馈。。",
+      "说明其在道路数字孪生中的作用：解释为什么BIM+GIS仍不足以支撑长期运营。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_011",
+    "chapter_id": "ch11",
+    "question": "什么是精准映射？",
+    "expected_answer_card": "ans_ch11_011",
+    "expected_answer_points": [
+      "明确精准映射的核心含义：以高保真模型全面映射道路几何、材料、结构参数与运行状态",
+      "并通过持续更新保持与物理世界一致。。",
+      "说明其在道路数字孪生中的作用：支撑状态识别、结构分析和可靠决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_012",
+    "chapter_id": "ch11",
+    "question": "精准映射在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_012",
+    "expected_answer_points": [
+      "明确精准映射的核心含义：以高保真模型全面映射道路几何、材料、结构参数与运行状态",
+      "并通过持续更新保持与物理世界一致。。",
+      "说明其在道路数字孪生中的作用：支撑状态识别、结构分析和可靠决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_013",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要精准映射？",
+    "expected_answer_card": "ans_ch11_013",
+    "expected_answer_points": [
+      "明确精准映射的核心含义：以高保真模型全面映射道路几何、材料、结构参数与运行状态",
+      "并通过持续更新保持与物理世界一致。。",
+      "说明其在道路数字孪生中的作用：支撑状态识别、结构分析和可靠决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_014",
+    "chapter_id": "ch11",
+    "question": "什么是虚实交互？",
+    "expected_answer_card": "ans_ch11_014",
+    "expected_answer_points": [
+      "明确虚实交互的核心含义：物理世界数据驱动虚拟模型更新",
+      "虚拟模型的仿真分析结果反向指导物理系统管理。。",
+      "说明其在道路数字孪生中的作用：支撑管控预案、养护建议和设备联动。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_015",
+    "chapter_id": "ch11",
+    "question": "虚实交互在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_015",
+    "expected_answer_points": [
+      "明确虚实交互的核心含义：物理世界数据驱动虚拟模型更新",
+      "虚拟模型的仿真分析结果反向指导物理系统管理。。",
+      "说明其在道路数字孪生中的作用：支撑管控预案、养护建议和设备联动。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_016",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要虚实交互？",
+    "expected_answer_card": "ans_ch11_016",
+    "expected_answer_points": [
+      "明确虚实交互的核心含义：物理世界数据驱动虚拟模型更新",
+      "虚拟模型的仿真分析结果反向指导物理系统管理。。",
+      "说明其在道路数字孪生中的作用：支撑管控预案、养护建议和设备联动。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_017",
+    "chapter_id": "ch11",
+    "question": "什么是智能干预？",
+    "expected_answer_card": "ans_ch11_017",
+    "expected_answer_points": [
+      "明确智能干预的核心含义：依托AI与大数据分析",
+      "对病害、寿命、交通运行等进行预测与优化",
+      "并提供辅助决策或自动/半自动控制建议。。",
+      "说明其在道路数字孪生中的作用：支撑主动养护、主动交通管控和应急决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_018",
+    "chapter_id": "ch11",
+    "question": "智能干预在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_018",
+    "expected_answer_points": [
+      "明确智能干预的核心含义：依托AI与大数据分析",
+      "对病害、寿命、交通运行等进行预测与优化",
+      "并提供辅助决策或自动/半自动控制建议。。",
+      "说明其在道路数字孪生中的作用：支撑主动养护、主动交通管控和应急决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_019",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要智能干预？",
+    "expected_answer_card": "ans_ch11_019",
+    "expected_answer_points": [
+      "明确智能干预的核心含义：依托AI与大数据分析",
+      "对病害、寿命、交通运行等进行预测与优化",
+      "并提供辅助决策或自动/半自动控制建议。。",
+      "说明其在道路数字孪生中的作用：支撑主动养护、主动交通管控和应急决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_020",
+    "chapter_id": "ch11",
+    "question": "什么是全生命周期覆盖？",
+    "expected_answer_card": "ans_ch11_020",
+    "expected_answer_points": [
+      "明确全生命周期覆盖的核心含义：贯通规划、设计、施工、运维数据链路",
+      "使孪生体在全生命周期内持续更新、可追溯、可扩展。。",
+      "说明其在道路数字孪生中的作用：支撑长期资产管理和数字化交付。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_021",
+    "chapter_id": "ch11",
+    "question": "全生命周期覆盖在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_021",
+    "expected_answer_points": [
+      "明确全生命周期覆盖的核心含义：贯通规划、设计、施工、运维数据链路",
+      "使孪生体在全生命周期内持续更新、可追溯、可扩展。。",
+      "说明其在道路数字孪生中的作用：支撑长期资产管理和数字化交付。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_022",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要全生命周期覆盖？",
+    "expected_answer_card": "ans_ch11_022",
+    "expected_answer_points": [
+      "明确全生命周期覆盖的核心含义：贯通规划、设计、施工、运维数据链路",
+      "使孪生体在全生命周期内持续更新、可追溯、可扩展。。",
+      "说明其在道路数字孪生中的作用：支撑长期资产管理和数字化交付。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_023",
+    "chapter_id": "ch11",
+    "question": "什么是多尺度数字孪生？",
+    "expected_answer_card": "ans_ch11_023",
+    "expected_answer_points": [
+      "明确多尺度数字孪生的核心含义：道路数字孪生可划分为零部件级、构件/资产级、系统级、系统之系统级。。",
+      "说明其在道路数字孪生中的作用：支撑从局部设施管理到区域交通治理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_024",
+    "chapter_id": "ch11",
+    "question": "多尺度数字孪生在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_024",
+    "expected_answer_points": [
+      "明确多尺度数字孪生的核心含义：道路数字孪生可划分为零部件级、构件/资产级、系统级、系统之系统级。。",
+      "说明其在道路数字孪生中的作用：支撑从局部设施管理到区域交通治理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_025",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要多尺度数字孪生？",
+    "expected_answer_card": "ans_ch11_025",
+    "expected_answer_points": [
+      "明确多尺度数字孪生的核心含义：道路数字孪生可划分为零部件级、构件/资产级、系统级、系统之系统级。。",
+      "说明其在道路数字孪生中的作用：支撑从局部设施管理到区域交通治理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_026",
+    "chapter_id": "ch11",
+    "question": "多尺度数字孪生的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_026",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：多尺度数字孪生。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_027",
+    "chapter_id": "ch11",
+    "question": "什么是数字主线？",
+    "expected_answer_card": "ans_ch11_027",
+    "expected_answer_points": [
+      "明确数字主线的核心含义：贯穿道路资产全生命周期的可追溯、可交互统一数据流",
+      "连接不同阶段、系统和模型",
+      "保障数据连续性和语义互操作。。",
+      "说明其在道路数字孪生中的作用：解决数据割裂、版本不清和责任追溯问题。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_028",
+    "chapter_id": "ch11",
+    "question": "数字主线在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_028",
+    "expected_answer_points": [
+      "明确数字主线的核心含义：贯穿道路资产全生命周期的可追溯、可交互统一数据流",
+      "连接不同阶段、系统和模型",
+      "保障数据连续性和语义互操作。。",
+      "说明其在道路数字孪生中的作用：解决数据割裂、版本不清和责任追溯问题。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_029",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数字主线？",
+    "expected_answer_card": "ans_ch11_029",
+    "expected_answer_points": [
+      "明确数字主线的核心含义：贯穿道路资产全生命周期的可追溯、可交互统一数据流",
+      "连接不同阶段、系统和模型",
+      "保障数据连续性和语义互操作。。",
+      "说明其在道路数字孪生中的作用：解决数据割裂、版本不清和责任追溯问题。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_030",
+    "chapter_id": "ch11",
+    "question": "数字主线的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_030",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：数字主线。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_031",
+    "chapter_id": "ch11",
+    "question": "什么是数字孪生五维模型？",
+    "expected_answer_card": "ans_ch11_031",
+    "expected_answer_points": [
+      "明确数字孪生五维模型的核心含义：由物理实体、虚拟模型、数据连接、孪生数据、服务与应用构成的核心闭环框架。。",
+      "说明其在道路数字孪生中的作用：用于构建系统架构和功能分层。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_032",
+    "chapter_id": "ch11",
+    "question": "数字孪生五维模型在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_032",
+    "expected_answer_points": [
+      "明确数字孪生五维模型的核心含义：由物理实体、虚拟模型、数据连接、孪生数据、服务与应用构成的核心闭环框架。。",
+      "说明其在道路数字孪生中的作用：用于构建系统架构和功能分层。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_033",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数字孪生五维模型？",
+    "expected_answer_card": "ans_ch11_033",
+    "expected_answer_points": [
+      "明确数字孪生五维模型的核心含义：由物理实体、虚拟模型、数据连接、孪生数据、服务与应用构成的核心闭环框架。。",
+      "说明其在道路数字孪生中的作用：用于构建系统架构和功能分层。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_034",
+    "chapter_id": "ch11",
+    "question": "数字孪生五维模型的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_034",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：数字孪生五维模型。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_035",
+    "chapter_id": "ch11",
+    "question": "什么是典型系统框架？",
+    "expected_answer_card": "ans_ch11_035",
+    "expected_answer_points": [
+      "明确典型系统框架的核心含义：道路数字孪生系统通常由BIM模型、GIS环境、IoT感知、数据中枢与算法、可视化平台五类核心要素构成。。",
+      "说明其在道路数字孪生中的作用：支撑系统设计和平台建设。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_036",
+    "chapter_id": "ch11",
+    "question": "典型系统框架在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_036",
+    "expected_answer_points": [
+      "明确典型系统框架的核心含义：道路数字孪生系统通常由BIM模型、GIS环境、IoT感知、数据中枢与算法、可视化平台五类核心要素构成。。",
+      "说明其在道路数字孪生中的作用：支撑系统设计和平台建设。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_037",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要典型系统框架？",
+    "expected_answer_card": "ans_ch11_037",
+    "expected_answer_points": [
+      "明确典型系统框架的核心含义：道路数字孪生系统通常由BIM模型、GIS环境、IoT感知、数据中枢与算法、可视化平台五类核心要素构成。。",
+      "说明其在道路数字孪生中的作用：支撑系统设计和平台建设。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_038",
+    "chapter_id": "ch11",
+    "question": "典型系统框架的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_038",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：典型系统框架。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_039",
+    "chapter_id": "ch11",
+    "question": "什么是BIM模型在数字孪生中的作用？",
+    "expected_answer_card": "ans_ch11_039",
+    "expected_answer_points": [
+      "明确BIM模型在数字孪生中的作用的核心含义：BIM提供微观几何与语义基础",
+      "表达道路及附属设施的构件级三维信息、属性和工程参数。。",
+      "说明其在道路数字孪生中的作用：支撑结构分析、工程量、资产管理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_040",
+    "chapter_id": "ch11",
+    "question": "BIM模型在数字孪生中的作用在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_040",
+    "expected_answer_points": [
+      "明确BIM模型在数字孪生中的作用的核心含义：BIM提供微观几何与语义基础",
+      "表达道路及附属设施的构件级三维信息、属性和工程参数。。",
+      "说明其在道路数字孪生中的作用：支撑结构分析、工程量、资产管理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_041",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要BIM模型在数字孪生中的作用？",
+    "expected_answer_card": "ans_ch11_041",
+    "expected_answer_points": [
+      "明确BIM模型在数字孪生中的作用的核心含义：BIM提供微观几何与语义基础",
+      "表达道路及附属设施的构件级三维信息、属性和工程参数。。",
+      "说明其在道路数字孪生中的作用：支撑结构分析、工程量、资产管理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_042",
+    "chapter_id": "ch11",
+    "question": "BIM模型在数字孪生中的作用的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_042",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：BIM模型在数字孪生中的作用。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_043",
+    "chapter_id": "ch11",
+    "question": "什么是GIS环境在数字孪生中的作用？",
+    "expected_answer_card": "ans_ch11_043",
+    "expected_answer_points": [
+      "明确GIS环境在数字孪生中的作用的核心含义：GIS提供宏观地理空间背景",
+      "将BIM模型置于真实环境并叠加地形、地质、水文、生态、管网等多维信息。。",
+      "说明其在道路数字孪生中的作用：支撑交通仿真、环境评价和应急疏散。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_044",
+    "chapter_id": "ch11",
+    "question": "GIS环境在数字孪生中的作用在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_044",
+    "expected_answer_points": [
+      "明确GIS环境在数字孪生中的作用的核心含义：GIS提供宏观地理空间背景",
+      "将BIM模型置于真实环境并叠加地形、地质、水文、生态、管网等多维信息。。",
+      "说明其在道路数字孪生中的作用：支撑交通仿真、环境评价和应急疏散。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_045",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要GIS环境在数字孪生中的作用？",
+    "expected_answer_card": "ans_ch11_045",
+    "expected_answer_points": [
+      "明确GIS环境在数字孪生中的作用的核心含义：GIS提供宏观地理空间背景",
+      "将BIM模型置于真实环境并叠加地形、地质、水文、生态、管网等多维信息。。",
+      "说明其在道路数字孪生中的作用：支撑交通仿真、环境评价和应急疏散。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_046",
+    "chapter_id": "ch11",
+    "question": "GIS环境在数字孪生中的作用的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_046",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：GIS环境在数字孪生中的作用。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_047",
+    "chapter_id": "ch11",
+    "question": "什么是IoT感知在数字孪生中的作用？",
+    "expected_answer_card": "ans_ch11_047",
+    "expected_answer_points": [
+      "明确IoT感知在数字孪生中的作用的核心含义：IoT通过传感器、摄像头、雷达、LiDAR等设备获取结构、交通与环境实时状态",
+      "是物理道路与虚拟模型同步的感知基础。。",
+      "说明其在道路数字孪生中的作用：支撑实时监测和动态更新。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_048",
+    "chapter_id": "ch11",
+    "question": "IoT感知在数字孪生中的作用在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_048",
+    "expected_answer_points": [
+      "明确IoT感知在数字孪生中的作用的核心含义：IoT通过传感器、摄像头、雷达、LiDAR等设备获取结构、交通与环境实时状态",
+      "是物理道路与虚拟模型同步的感知基础。。",
+      "说明其在道路数字孪生中的作用：支撑实时监测和动态更新。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_049",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要IoT感知在数字孪生中的作用？",
+    "expected_answer_card": "ans_ch11_049",
+    "expected_answer_points": [
+      "明确IoT感知在数字孪生中的作用的核心含义：IoT通过传感器、摄像头、雷达、LiDAR等设备获取结构、交通与环境实时状态",
+      "是物理道路与虚拟模型同步的感知基础。。",
+      "说明其在道路数字孪生中的作用：支撑实时监测和动态更新。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_050",
+    "chapter_id": "ch11",
+    "question": "IoT感知在数字孪生中的作用的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_050",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：IoT感知在数字孪生中的作用。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_051",
+    "chapter_id": "ch11",
+    "question": "什么是数据中枢与算法？",
+    "expected_answer_card": "ans_ch11_051",
+    "expected_answer_points": [
+      "明确数据中枢与算法的核心含义：数据中枢接收、清洗、存储和管理多源异构数据",
+      "并集成仿真、预测与AI算法",
+      "把原始数据转化为决策洞察。。",
+      "说明其在道路数字孪生中的作用：支撑状态评估、风险预警、决策优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_052",
+    "chapter_id": "ch11",
+    "question": "数据中枢与算法在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_052",
+    "expected_answer_points": [
+      "明确数据中枢与算法的核心含义：数据中枢接收、清洗、存储和管理多源异构数据",
+      "并集成仿真、预测与AI算法",
+      "把原始数据转化为决策洞察。。",
+      "说明其在道路数字孪生中的作用：支撑状态评估、风险预警、决策优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_053",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数据中枢与算法？",
+    "expected_answer_card": "ans_ch11_053",
+    "expected_answer_points": [
+      "明确数据中枢与算法的核心含义：数据中枢接收、清洗、存储和管理多源异构数据",
+      "并集成仿真、预测与AI算法",
+      "把原始数据转化为决策洞察。。",
+      "说明其在道路数字孪生中的作用：支撑状态评估、风险预警、决策优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_054",
+    "chapter_id": "ch11",
+    "question": "数据中枢与算法的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_054",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：数据中枢与算法。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_055",
+    "chapter_id": "ch11",
+    "question": "什么是数字孪生可视化平台？",
+    "expected_answer_card": "ans_ch11_055",
+    "expected_answer_points": [
+      "明确数字孪生可视化平台的核心含义：可视化平台以二维/三维地图、仪表盘、WebGL、AR/VR等方式呈现模型、数据和分析结果",
+      "是人与孪生系统交互的窗口。。",
+      "说明其在道路数字孪生中的作用：支撑监控调度、协同决策和沉浸式交互。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_056",
+    "chapter_id": "ch11",
+    "question": "数字孪生可视化平台在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_056",
+    "expected_answer_points": [
+      "明确数字孪生可视化平台的核心含义：可视化平台以二维/三维地图、仪表盘、WebGL、AR/VR等方式呈现模型、数据和分析结果",
+      "是人与孪生系统交互的窗口。。",
+      "说明其在道路数字孪生中的作用：支撑监控调度、协同决策和沉浸式交互。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_057",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数字孪生可视化平台？",
+    "expected_answer_card": "ans_ch11_057",
+    "expected_answer_points": [
+      "明确数字孪生可视化平台的核心含义：可视化平台以二维/三维地图、仪表盘、WebGL、AR/VR等方式呈现模型、数据和分析结果",
+      "是人与孪生系统交互的窗口。。",
+      "说明其在道路数字孪生中的作用：支撑监控调度、协同决策和沉浸式交互。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_058",
+    "chapter_id": "ch11",
+    "question": "数字孪生可视化平台的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_058",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：数字孪生可视化平台。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_059",
+    "chapter_id": "ch11",
+    "question": "什么是多源异构数据采集？",
+    "expected_answer_card": "ans_ch11_059",
+    "expected_answer_points": [
+      "明确多源异构数据采集的核心含义：通过全方位感知网络获取道路物理实体的几何形态、属性参数和运行状态",
+      "并解决不同来源数据的融合问题。。",
+      "说明其在道路数字孪生中的作用：支撑全域感知、动态映射与状态同步。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_060",
+    "chapter_id": "ch11",
+    "question": "多源异构数据采集在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_060",
+    "expected_answer_points": [
+      "明确多源异构数据采集的核心含义：通过全方位感知网络获取道路物理实体的几何形态、属性参数和运行状态",
+      "并解决不同来源数据的融合问题。。",
+      "说明其在道路数字孪生中的作用：支撑全域感知、动态映射与状态同步。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_061",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要多源异构数据采集？",
+    "expected_answer_card": "ans_ch11_061",
+    "expected_answer_points": [
+      "明确多源异构数据采集的核心含义：通过全方位感知网络获取道路物理实体的几何形态、属性参数和运行状态",
+      "并解决不同来源数据的融合问题。。",
+      "说明其在道路数字孪生中的作用：支撑全域感知、动态映射与状态同步。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_062",
+    "chapter_id": "ch11",
+    "question": "多源异构数据采集的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_062",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：多源异构数据采集。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_063",
+    "chapter_id": "ch11",
+    "question": "什么是时空对齐？",
+    "expected_answer_card": "ans_ch11_063",
+    "expected_answer_points": [
+      "明确时空对齐的核心含义：统一空间参考和时间基准",
+      "使不同设备、平台和阶段的数据能够在同一坐标系和时间轴上正确融合。。",
+      "说明其在道路数字孪生中的作用：保证虚实映射一致性和动态分析可靠性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_064",
+    "chapter_id": "ch11",
+    "question": "时空对齐在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_064",
+    "expected_answer_points": [
+      "明确时空对齐的核心含义：统一空间参考和时间基准",
+      "使不同设备、平台和阶段的数据能够在同一坐标系和时间轴上正确融合。。",
+      "说明其在道路数字孪生中的作用：保证虚实映射一致性和动态分析可靠性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_065",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要时空对齐？",
+    "expected_answer_card": "ans_ch11_065",
+    "expected_answer_points": [
+      "明确时空对齐的核心含义：统一空间参考和时间基准",
+      "使不同设备、平台和阶段的数据能够在同一坐标系和时间轴上正确融合。。",
+      "说明其在道路数字孪生中的作用：保证虚实映射一致性和动态分析可靠性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_066",
+    "chapter_id": "ch11",
+    "question": "时空对齐的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_066",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：时空对齐。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_067",
+    "chapter_id": "ch11",
+    "question": "什么是静态几何与物理属性重构？",
+    "expected_answer_card": "ans_ch11_067",
+    "expected_answer_points": [
+      "明确静态几何与物理属性重构的核心含义：围绕统一时空基准",
+      "重构道路及附属设施的三维几何、物理属性和语义信息",
+      "形成高精度数据底座。。",
+      "说明其在道路数字孪生中的作用：支撑后续监测、分析和预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_068",
+    "chapter_id": "ch11",
+    "question": "静态几何与物理属性重构在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_068",
+    "expected_answer_points": [
+      "明确静态几何与物理属性重构的核心含义：围绕统一时空基准",
+      "重构道路及附属设施的三维几何、物理属性和语义信息",
+      "形成高精度数据底座。。",
+      "说明其在道路数字孪生中的作用：支撑后续监测、分析和预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_069",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要静态几何与物理属性重构？",
+    "expected_answer_card": "ans_ch11_069",
+    "expected_answer_points": [
+      "明确静态几何与物理属性重构的核心含义：围绕统一时空基准",
+      "重构道路及附属设施的三维几何、物理属性和语义信息",
+      "形成高精度数据底座。。",
+      "说明其在道路数字孪生中的作用：支撑后续监测、分析和预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_070",
+    "chapter_id": "ch11",
+    "question": "静态几何与物理属性重构的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_070",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：静态几何与物理属性重构。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_071",
+    "chapter_id": "ch11",
+    "question": "什么是统一空间与高程基准？",
+    "expected_answer_card": "ans_ch11_071",
+    "expected_answer_points": [
+      "明确统一空间与高程基准的核心含义：采用CGCS2000和1985国家高程基准等统一空间标准",
+      "必要时处理长距离道路的投影变形。。",
+      "说明其在道路数字孪生中的作用：支撑跨系统交换和成果交付。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_072",
+    "chapter_id": "ch11",
+    "question": "统一空间与高程基准在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_072",
+    "expected_answer_points": [
+      "明确统一空间与高程基准的核心含义：采用CGCS2000和1985国家高程基准等统一空间标准",
+      "必要时处理长距离道路的投影变形。。",
+      "说明其在道路数字孪生中的作用：支撑跨系统交换和成果交付。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_073",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要统一空间与高程基准？",
+    "expected_answer_card": "ans_ch11_073",
+    "expected_answer_points": [
+      "明确统一空间与高程基准的核心含义：采用CGCS2000和1985国家高程基准等统一空间标准",
+      "必要时处理长距离道路的投影变形。。",
+      "说明其在道路数字孪生中的作用：支撑跨系统交换和成果交付。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_074",
+    "chapter_id": "ch11",
+    "question": "统一空间与高程基准的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_074",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：统一空间与高程基准。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_075",
+    "chapter_id": "ch11",
+    "question": "什么是LiDAR点云融合？",
+    "expected_answer_card": "ans_ch11_075",
+    "expected_answer_points": [
+      "明确LiDAR点云融合的核心含义：综合机载、车载、地面站式激光雷达采集道路走廊、路面设施和复杂结构点云",
+      "并通过配准和语义分割实现融合。。",
+      "说明其在道路数字孪生中的作用：支撑几何重构、设施识别与变形分析。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_076",
+    "chapter_id": "ch11",
+    "question": "LiDAR点云融合在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_076",
+    "expected_answer_points": [
+      "明确LiDAR点云融合的核心含义：综合机载、车载、地面站式激光雷达采集道路走廊、路面设施和复杂结构点云",
+      "并通过配准和语义分割实现融合。。",
+      "说明其在道路数字孪生中的作用：支撑几何重构、设施识别与变形分析。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_077",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要LiDAR点云融合？",
+    "expected_answer_card": "ans_ch11_077",
+    "expected_answer_points": [
+      "明确LiDAR点云融合的核心含义：综合机载、车载、地面站式激光雷达采集道路走廊、路面设施和复杂结构点云",
+      "并通过配准和语义分割实现融合。。",
+      "说明其在道路数字孪生中的作用：支撑几何重构、设施识别与变形分析。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_078",
+    "chapter_id": "ch11",
+    "question": "LiDAR点云融合的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_078",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：LiDAR点云融合。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_079",
+    "chapter_id": "ch11",
+    "question": "什么是实景三维重建？",
+    "expected_answer_card": "ans_ch11_079",
+    "expected_answer_points": [
+      "明确实景三维重建的核心含义：利用倾斜摄影、SfM与MVS生成带真实纹理的实景三维模型",
+      "表达道路周边环境约束。。",
+      "说明其在道路数字孪生中的作用：支撑环境—道路耦合分析。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_080",
+    "chapter_id": "ch11",
+    "question": "实景三维重建在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_080",
+    "expected_answer_points": [
+      "明确实景三维重建的核心含义：利用倾斜摄影、SfM与MVS生成带真实纹理的实景三维模型",
+      "表达道路周边环境约束。。",
+      "说明其在道路数字孪生中的作用：支撑环境—道路耦合分析。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_081",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要实景三维重建？",
+    "expected_answer_card": "ans_ch11_081",
+    "expected_answer_points": [
+      "明确实景三维重建的核心含义：利用倾斜摄影、SfM与MVS生成带真实纹理的实景三维模型",
+      "表达道路周边环境约束。。",
+      "说明其在道路数字孪生中的作用：支撑环境—道路耦合分析。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_082",
+    "chapter_id": "ch11",
+    "question": "实景三维重建的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_082",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：实景三维重建。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_083",
+    "chapter_id": "ch11",
+    "question": "什么是物理属性与语义集成？",
+    "expected_answer_card": "ans_ch11_083",
+    "expected_answer_points": [
+      "明确物理属性与语义集成的核心含义：将结构层厚度、弹性模量、地质属性、资产编码、管养记录等非几何信息绑定至模型构件。。",
+      "说明其在道路数字孪生中的作用：支撑性能预测、资产管理和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_084",
+    "chapter_id": "ch11",
+    "question": "物理属性与语义集成在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_084",
+    "expected_answer_points": [
+      "明确物理属性与语义集成的核心含义：将结构层厚度、弹性模量、地质属性、资产编码、管养记录等非几何信息绑定至模型构件。。",
+      "说明其在道路数字孪生中的作用：支撑性能预测、资产管理和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_085",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要物理属性与语义集成？",
+    "expected_answer_card": "ans_ch11_085",
+    "expected_answer_points": [
+      "明确物理属性与语义集成的核心含义：将结构层厚度、弹性模量、地质属性、资产编码、管养记录等非几何信息绑定至模型构件。。",
+      "说明其在道路数字孪生中的作用：支撑性能预测、资产管理和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_086",
+    "chapter_id": "ch11",
+    "question": "物理属性与语义集成的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_086",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：物理属性与语义集成。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_087",
+    "chapter_id": "ch11",
+    "question": "什么是动态运行数据全息感知网络？",
+    "expected_answer_card": "ans_ch11_087",
+    "expected_answer_points": [
+      "明确动态运行数据全息感知网络的核心含义：持续采集结构健康、交通流、环境边界等动态状态因子",
+      "使孪生体能够实时表征物理道路运行逻辑。。",
+      "说明其在道路数字孪生中的作用：支撑实时监测、风险预警和虚实交互。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_088",
+    "chapter_id": "ch11",
+    "question": "动态运行数据全息感知网络在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_088",
+    "expected_answer_points": [
+      "明确动态运行数据全息感知网络的核心含义：持续采集结构健康、交通流、环境边界等动态状态因子",
+      "使孪生体能够实时表征物理道路运行逻辑。。",
+      "说明其在道路数字孪生中的作用：支撑实时监测、风险预警和虚实交互。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_089",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要动态运行数据全息感知网络？",
+    "expected_answer_card": "ans_ch11_089",
+    "expected_answer_points": [
+      "明确动态运行数据全息感知网络的核心含义：持续采集结构健康、交通流、环境边界等动态状态因子",
+      "使孪生体能够实时表征物理道路运行逻辑。。",
+      "说明其在道路数字孪生中的作用：支撑实时监测、风险预警和虚实交互。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_090",
+    "chapter_id": "ch11",
+    "question": "动态运行数据全息感知网络的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_090",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：动态运行数据全息感知网络。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_091",
+    "chapter_id": "ch11",
+    "question": "什么是结构状态感知？",
+    "expected_answer_card": "ans_ch11_091",
+    "expected_answer_points": [
+      "明确结构状态感知的核心含义：通过光纤光栅、应变计、加速度计、静力水准仪等监测桥隧边坡等关键设施的力学响应和变形状态。。",
+      "说明其在道路数字孪生中的作用：支撑结构健康评估和疲劳预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_092",
+    "chapter_id": "ch11",
+    "question": "结构状态感知在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_092",
+    "expected_answer_points": [
+      "明确结构状态感知的核心含义：通过光纤光栅、应变计、加速度计、静力水准仪等监测桥隧边坡等关键设施的力学响应和变形状态。。",
+      "说明其在道路数字孪生中的作用：支撑结构健康评估和疲劳预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_093",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要结构状态感知？",
+    "expected_answer_card": "ans_ch11_093",
+    "expected_answer_points": [
+      "明确结构状态感知的核心含义：通过光纤光栅、应变计、加速度计、静力水准仪等监测桥隧边坡等关键设施的力学响应和变形状态。。",
+      "说明其在道路数字孪生中的作用：支撑结构健康评估和疲劳预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_094",
+    "chapter_id": "ch11",
+    "question": "结构状态感知的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_094",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：结构状态感知。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_095",
+    "chapter_id": "ch11",
+    "question": "什么是交通流与行为感知？",
+    "expected_answer_card": "ans_ch11_095",
+    "expected_answer_points": [
+      "明确交通流与行为感知的核心含义：通过雷视融合、V2X和连续跟踪获取车辆位置、速度、车型、轨迹等微观交通数据。。",
+      "说明其在道路数字孪生中的作用：支撑微观仿真、冲突识别和主动管控。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_096",
+    "chapter_id": "ch11",
+    "question": "交通流与行为感知在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_096",
+    "expected_answer_points": [
+      "明确交通流与行为感知的核心含义：通过雷视融合、V2X和连续跟踪获取车辆位置、速度、车型、轨迹等微观交通数据。。",
+      "说明其在道路数字孪生中的作用：支撑微观仿真、冲突识别和主动管控。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_097",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要交通流与行为感知？",
+    "expected_answer_card": "ans_ch11_097",
+    "expected_answer_points": [
+      "明确交通流与行为感知的核心含义：通过雷视融合、V2X和连续跟踪获取车辆位置、速度、车型、轨迹等微观交通数据。。",
+      "说明其在道路数字孪生中的作用：支撑微观仿真、冲突识别和主动管控。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_098",
+    "chapter_id": "ch11",
+    "question": "交通流与行为感知的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_098",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：交通流与行为感知。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_099",
+    "chapter_id": "ch11",
+    "question": "什么是环境边界与路面状态感知？",
+    "expected_answer_card": "ans_ch11_099",
+    "expected_answer_points": [
+      "明确环境边界与路面状态感知的核心含义：监测水膜、积雪、结冰温度、摩擦系数、能见度、风速等环境因子",
+      "驱动道路运行风险分析。。",
+      "说明其在道路数字孪生中的作用：支撑气象应急和运行风险预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_100",
+    "chapter_id": "ch11",
+    "question": "环境边界与路面状态感知在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_100",
+    "expected_answer_points": [
+      "明确环境边界与路面状态感知的核心含义：监测水膜、积雪、结冰温度、摩擦系数、能见度、风速等环境因子",
+      "驱动道路运行风险分析。。",
+      "说明其在道路数字孪生中的作用：支撑气象应急和运行风险预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_101",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要环境边界与路面状态感知？",
+    "expected_answer_card": "ans_ch11_101",
+    "expected_answer_points": [
+      "明确环境边界与路面状态感知的核心含义：监测水膜、积雪、结冰温度、摩擦系数、能见度、风速等环境因子",
+      "驱动道路运行风险分析。。",
+      "说明其在道路数字孪生中的作用：支撑气象应急和运行风险预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_102",
+    "chapter_id": "ch11",
+    "question": "环境边界与路面状态感知的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_102",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：环境边界与路面状态感知。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_103",
+    "chapter_id": "ch11",
+    "question": "什么是边缘预处理？",
+    "expected_answer_card": "ans_ch11_103",
+    "expected_answer_points": [
+      "明确边缘预处理的核心含义：在路侧或前端节点对视频、雷达、点云数据进行清洗、检测和特征提取",
+      "只上传关键结构化数据。。",
+      "说明其在道路数字孪生中的作用：降低通信负载并提高实时性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_104",
+    "chapter_id": "ch11",
+    "question": "边缘预处理在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_104",
+    "expected_answer_points": [
+      "明确边缘预处理的核心含义：在路侧或前端节点对视频、雷达、点云数据进行清洗、检测和特征提取",
+      "只上传关键结构化数据。。",
+      "说明其在道路数字孪生中的作用：降低通信负载并提高实时性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_105",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要边缘预处理？",
+    "expected_answer_card": "ans_ch11_105",
+    "expected_answer_points": [
+      "明确边缘预处理的核心含义：在路侧或前端节点对视频、雷达、点云数据进行清洗、检测和特征提取",
+      "只上传关键结构化数据。。",
+      "说明其在道路数字孪生中的作用：降低通信负载并提高实时性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_106",
+    "chapter_id": "ch11",
+    "question": "边缘预处理的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_106",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：边缘预处理。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_107",
+    "chapter_id": "ch11",
+    "question": "什么是多尺度高保真建模？",
+    "expected_answer_card": "ans_ch11_107",
+    "expected_answer_points": [
+      "明确多尺度高保真建模的核心含义：在保证整体交互效率的基础上",
+      "按业务场景动态调度模型精度",
+      "实现从路网到构件内部的按需高保真表达。。",
+      "说明其在道路数字孪生中的作用：支撑宏观调度与精细分析统一。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_108",
+    "chapter_id": "ch11",
+    "question": "多尺度高保真建模在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_108",
+    "expected_answer_points": [
+      "明确多尺度高保真建模的核心含义：在保证整体交互效率的基础上",
+      "按业务场景动态调度模型精度",
+      "实现从路网到构件内部的按需高保真表达。。",
+      "说明其在道路数字孪生中的作用：支撑宏观调度与精细分析统一。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_109",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要多尺度高保真建模？",
+    "expected_answer_card": "ans_ch11_109",
+    "expected_answer_points": [
+      "明确多尺度高保真建模的核心含义：在保证整体交互效率的基础上",
+      "按业务场景动态调度模型精度",
+      "实现从路网到构件内部的按需高保真表达。。",
+      "说明其在道路数字孪生中的作用：支撑宏观调度与精细分析统一。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_110",
+    "chapter_id": "ch11",
+    "question": "多尺度高保真建模的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_110",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：多尺度高保真建模。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_111",
+    "chapter_id": "ch11",
+    "question": "什么是BIM与GIS深度语义集成？",
+    "expected_answer_card": "ans_ch11_111",
+    "expected_answer_points": [
+      "明确BIM与GIS深度语义集成的核心含义：通过IFC、CityGML等标准及语义映射",
+      "实现BIM构件级信息与GIS空间对象的互操作和统一调用。。",
+      "说明其在道路数字孪生中的作用：支撑资产检索、空间分析和状态追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_112",
+    "chapter_id": "ch11",
+    "question": "BIM与GIS深度语义集成在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_112",
+    "expected_answer_points": [
+      "明确BIM与GIS深度语义集成的核心含义：通过IFC、CityGML等标准及语义映射",
+      "实现BIM构件级信息与GIS空间对象的互操作和统一调用。。",
+      "说明其在道路数字孪生中的作用：支撑资产检索、空间分析和状态追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_113",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要BIM与GIS深度语义集成？",
+    "expected_answer_card": "ans_ch11_113",
+    "expected_answer_points": [
+      "明确BIM与GIS深度语义集成的核心含义：通过IFC、CityGML等标准及语义映射",
+      "实现BIM构件级信息与GIS空间对象的互操作和统一调用。。",
+      "说明其在道路数字孪生中的作用：支撑资产检索、空间分析和状态追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_114",
+    "chapter_id": "ch11",
+    "question": "BIM与GIS深度语义集成的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_114",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：BIM与GIS深度语义集成。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_115",
+    "chapter_id": "ch11",
+    "question": "什么是GUID与空间索引关联？",
+    "expected_answer_card": "ans_ch11_115",
+    "expected_answer_points": [
+      "明确GUID与空间索引关联的核心含义：保持构件GUID连续性",
+      "并在GIS环境中将其作为空间对象核心索引键",
+      "实现空间位置—资产编码—管理属性关联。。",
+      "说明其在道路数字孪生中的作用：支撑运维查询和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_116",
+    "chapter_id": "ch11",
+    "question": "GUID与空间索引关联在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_116",
+    "expected_answer_points": [
+      "明确GUID与空间索引关联的核心含义：保持构件GUID连续性",
+      "并在GIS环境中将其作为空间对象核心索引键",
+      "实现空间位置—资产编码—管理属性关联。。",
+      "说明其在道路数字孪生中的作用：支撑运维查询和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_117",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要GUID与空间索引关联？",
+    "expected_answer_card": "ans_ch11_117",
+    "expected_answer_points": [
+      "明确GUID与空间索引关联的核心含义：保持构件GUID连续性",
+      "并在GIS环境中将其作为空间对象核心索引键",
+      "实现空间位置—资产编码—管理属性关联。。",
+      "说明其在道路数字孪生中的作用：支撑运维查询和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_118",
+    "chapter_id": "ch11",
+    "question": "GUID与空间索引关联的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_118",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：GUID与空间索引关联。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_119",
+    "chapter_id": "ch11",
+    "question": "什么是Web端轻量化融合？",
+    "expected_answer_card": "ans_ch11_119",
+    "expected_answer_points": [
+      "明确Web端轻量化融合的核心含义：通过3D Tiles、I3S、HLOD、空间分块、流式传输和渲染优化",
+      "实现大规模模型在线加载与交互。。",
+      "说明其在道路数字孪生中的作用：支撑网页端大场景浏览。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_120",
+    "chapter_id": "ch11",
+    "question": "Web端轻量化融合在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_120",
+    "expected_answer_points": [
+      "明确Web端轻量化融合的核心含义：通过3D Tiles、I3S、HLOD、空间分块、流式传输和渲染优化",
+      "实现大规模模型在线加载与交互。。",
+      "说明其在道路数字孪生中的作用：支撑网页端大场景浏览。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_121",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要Web端轻量化融合？",
+    "expected_answer_card": "ans_ch11_121",
+    "expected_answer_points": [
+      "明确Web端轻量化融合的核心含义：通过3D Tiles、I3S、HLOD、空间分块、流式传输和渲染优化",
+      "实现大规模模型在线加载与交互。。",
+      "说明其在道路数字孪生中的作用：支撑网页端大场景浏览。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_122",
+    "chapter_id": "ch11",
+    "question": "Web端轻量化融合的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_122",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：Web端轻量化融合。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_123",
+    "chapter_id": "ch11",
+    "question": "什么是LOD动态加载机制？",
+    "expected_answer_card": "ans_ch11_123",
+    "expected_answer_points": [
+      "明确LOD动态加载机制的核心含义：根据业务场景和视角动态选择模型精细度",
+      "宏观视角加载低精度",
+      "局部关注加载高精度。。",
+      "说明其在道路数字孪生中的作用：兼顾显示性能与局部分析精度。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_124",
+    "chapter_id": "ch11",
+    "question": "LOD动态加载机制在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_124",
+    "expected_answer_points": [
+      "明确LOD动态加载机制的核心含义：根据业务场景和视角动态选择模型精细度",
+      "宏观视角加载低精度",
+      "局部关注加载高精度。。",
+      "说明其在道路数字孪生中的作用：兼顾显示性能与局部分析精度。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_125",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要LOD动态加载机制？",
+    "expected_answer_card": "ans_ch11_125",
+    "expected_answer_points": [
+      "明确LOD动态加载机制的核心含义：根据业务场景和视角动态选择模型精细度",
+      "宏观视角加载低精度",
+      "局部关注加载高精度。。",
+      "说明其在道路数字孪生中的作用：兼顾显示性能与局部分析精度。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_126",
+    "chapter_id": "ch11",
+    "question": "LOD动态加载机制的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_126",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：LOD动态加载机制。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_127",
+    "chapter_id": "ch11",
+    "question": "什么是SSE动态调度策略？",
+    "expected_answer_card": "ans_ch11_127",
+    "expected_answer_points": [
+      "明确SSE动态调度策略的核心含义：根据模型在屏幕中所占像素误差动态切换LOD",
+      "并结合道路中心线预加载前方区域数据。。",
+      "说明其在道路数字孪生中的作用：提升漫游和巡检过程的稳定性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_128",
+    "chapter_id": "ch11",
+    "question": "SSE动态调度策略在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_128",
+    "expected_answer_points": [
+      "明确SSE动态调度策略的核心含义：根据模型在屏幕中所占像素误差动态切换LOD",
+      "并结合道路中心线预加载前方区域数据。。",
+      "说明其在道路数字孪生中的作用：提升漫游和巡检过程的稳定性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_129",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要SSE动态调度策略？",
+    "expected_answer_card": "ans_ch11_129",
+    "expected_answer_points": [
+      "明确SSE动态调度策略的核心含义：根据模型在屏幕中所占像素误差动态切换LOD",
+      "并结合道路中心线预加载前方区域数据。。",
+      "说明其在道路数字孪生中的作用：提升漫游和巡检过程的稳定性。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_130",
+    "chapter_id": "ch11",
+    "question": "SSE动态调度策略的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_130",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：SSE动态调度策略。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_131",
+    "chapter_id": "ch11",
+    "question": "什么是物理机理—数据驱动混合建模？",
+    "expected_answer_card": "ans_ch11_131",
+    "expected_answer_points": [
+      "明确物理机理—数据驱动混合建模的核心含义：将物理机理模型与数据驱动模型结合",
+      "在保持工程机理合理性的同时提高实时预测和诊断能力。。",
+      "说明其在道路数字孪生中的作用：支撑性能预测、状态诊断和决策优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_132",
+    "chapter_id": "ch11",
+    "question": "物理机理—数据驱动混合建模在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_132",
+    "expected_answer_points": [
+      "明确物理机理—数据驱动混合建模的核心含义：将物理机理模型与数据驱动模型结合",
+      "在保持工程机理合理性的同时提高实时预测和诊断能力。。",
+      "说明其在道路数字孪生中的作用：支撑性能预测、状态诊断和决策优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_133",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要物理机理—数据驱动混合建模？",
+    "expected_answer_card": "ans_ch11_133",
+    "expected_answer_points": [
+      "明确物理机理—数据驱动混合建模的核心含义：将物理机理模型与数据驱动模型结合",
+      "在保持工程机理合理性的同时提高实时预测和诊断能力。。",
+      "说明其在道路数字孪生中的作用：支撑性能预测、状态诊断和决策优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_134",
+    "chapter_id": "ch11",
+    "question": "物理机理—数据驱动混合建模的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_134",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：物理机理—数据驱动混合建模。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_135",
+    "chapter_id": "ch11",
+    "question": "什么是降阶模型在线计算？",
+    "expected_answer_card": "ans_ch11_135",
+    "expected_answer_points": [
+      "明确降阶模型在线计算的核心含义：将高维有限元等物理模型转化为低维代理模型",
+      "在保留关键力学特征的前提下提高计算效率。。",
+      "说明其在道路数字孪生中的作用：支撑桥隧结构近实时状态解算。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_136",
+    "chapter_id": "ch11",
+    "question": "降阶模型在线计算在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_136",
+    "expected_answer_points": [
+      "明确降阶模型在线计算的核心含义：将高维有限元等物理模型转化为低维代理模型",
+      "在保留关键力学特征的前提下提高计算效率。。",
+      "说明其在道路数字孪生中的作用：支撑桥隧结构近实时状态解算。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_137",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要降阶模型在线计算？",
+    "expected_answer_card": "ans_ch11_137",
+    "expected_answer_points": [
+      "明确降阶模型在线计算的核心含义：将高维有限元等物理模型转化为低维代理模型",
+      "在保留关键力学特征的前提下提高计算效率。。",
+      "说明其在道路数字孪生中的作用：支撑桥隧结构近实时状态解算。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_138",
+    "chapter_id": "ch11",
+    "question": "降阶模型在线计算的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_138",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：降阶模型在线计算。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_139",
+    "chapter_id": "ch11",
+    "question": "什么是模型更新与实测校准？",
+    "expected_answer_card": "ans_ch11_139",
+    "expected_answer_points": [
+      "明确模型更新与实测校准的核心含义：利用传感器实测数据持续校准物理模型参数",
+      "使虚拟模型逐步逼近真实结构状态。。",
+      "说明其在道路数字孪生中的作用：支撑损伤定位和趋势识别。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_140",
+    "chapter_id": "ch11",
+    "question": "模型更新与实测校准在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_140",
+    "expected_answer_points": [
+      "明确模型更新与实测校准的核心含义：利用传感器实测数据持续校准物理模型参数",
+      "使虚拟模型逐步逼近真实结构状态。。",
+      "说明其在道路数字孪生中的作用：支撑损伤定位和趋势识别。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_141",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要模型更新与实测校准？",
+    "expected_answer_card": "ans_ch11_141",
+    "expected_answer_points": [
+      "明确模型更新与实测校准的核心含义：利用传感器实测数据持续校准物理模型参数",
+      "使虚拟模型逐步逼近真实结构状态。。",
+      "说明其在道路数字孪生中的作用：支撑损伤定位和趋势识别。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_142",
+    "chapter_id": "ch11",
+    "question": "模型更新与实测校准的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_142",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：模型更新与实测校准。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_143",
+    "chapter_id": "ch11",
+    "question": "什么是数字资产唯一身份？",
+    "expected_answer_card": "ans_ch11_143",
+    "expected_answer_points": [
+      "明确数字资产唯一身份的核心含义：通过GUID、资产分类编码、时空定位和信息深度映射",
+      "为每个道路设施建立可追踪的数字身份。。",
+      "说明其在道路数字孪生中的作用：支撑台账管理、信息继承和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_144",
+    "chapter_id": "ch11",
+    "question": "数字资产唯一身份在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_144",
+    "expected_answer_points": [
+      "明确数字资产唯一身份的核心含义：通过GUID、资产分类编码、时空定位和信息深度映射",
+      "为每个道路设施建立可追踪的数字身份。。",
+      "说明其在道路数字孪生中的作用：支撑台账管理、信息继承和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_145",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数字资产唯一身份？",
+    "expected_answer_card": "ans_ch11_145",
+    "expected_answer_points": [
+      "明确数字资产唯一身份的核心含义：通过GUID、资产分类编码、时空定位和信息深度映射",
+      "为每个道路设施建立可追踪的数字身份。。",
+      "说明其在道路数字孪生中的作用：支撑台账管理、信息继承和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_146",
+    "chapter_id": "ch11",
+    "question": "数字资产唯一身份的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_146",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：数字资产唯一身份。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_147",
+    "chapter_id": "ch11",
+    "question": "什么是CDE向数字孪生数据底座演进？",
+    "expected_answer_card": "ans_ch11_147",
+    "expected_answer_points": [
+      "明确CDE向数字孪生数据底座演进的核心含义：协同数据环境由成果交付平台演进为支持感知数据、运维记录和模型状态持续更新的综合数据底座。。",
+      "说明其在道路数字孪生中的作用：支撑版本管理、安全审计和长期维护。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_148",
+    "chapter_id": "ch11",
+    "question": "CDE向数字孪生数据底座演进在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_148",
+    "expected_answer_points": [
+      "明确CDE向数字孪生数据底座演进的核心含义：协同数据环境由成果交付平台演进为支持感知数据、运维记录和模型状态持续更新的综合数据底座。。",
+      "说明其在道路数字孪生中的作用：支撑版本管理、安全审计和长期维护。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_149",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要CDE向数字孪生数据底座演进？",
+    "expected_answer_card": "ans_ch11_149",
+    "expected_answer_points": [
+      "明确CDE向数字孪生数据底座演进的核心含义：协同数据环境由成果交付平台演进为支持感知数据、运维记录和模型状态持续更新的综合数据底座。。",
+      "说明其在道路数字孪生中的作用：支撑版本管理、安全审计和长期维护。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_150",
+    "chapter_id": "ch11",
+    "question": "CDE向数字孪生数据底座演进的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_150",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：CDE向数字孪生数据底座演进。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_151",
+    "chapter_id": "ch11",
+    "question": "什么是数字孪生数据安全与审计？",
+    "expected_answer_card": "ans_ch11_151",
+    "expected_answer_points": [
+      "明确数字孪生数据安全与审计的核心含义：通过权限分级、访问审计、可信存证和责任追溯",
+      "保护关键基础设施空间数据与交通运行数据。。",
+      "说明其在道路数字孪生中的作用：支撑合规管理与平台可信运行。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_152",
+    "chapter_id": "ch11",
+    "question": "数字孪生数据安全与审计在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_152",
+    "expected_answer_points": [
+      "明确数字孪生数据安全与审计的核心含义：通过权限分级、访问审计、可信存证和责任追溯",
+      "保护关键基础设施空间数据与交通运行数据。。",
+      "说明其在道路数字孪生中的作用：支撑合规管理与平台可信运行。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_153",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数字孪生数据安全与审计？",
+    "expected_answer_card": "ans_ch11_153",
+    "expected_answer_points": [
+      "明确数字孪生数据安全与审计的核心含义：通过权限分级、访问审计、可信存证和责任追溯",
+      "保护关键基础设施空间数据与交通运行数据。。",
+      "说明其在道路数字孪生中的作用：支撑合规管理与平台可信运行。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_154",
+    "chapter_id": "ch11",
+    "question": "什么是智能化仿真分析与预测？",
+    "expected_answer_card": "ans_ch11_154",
+    "expected_answer_points": [
+      "明确智能化仿真分析与预测的核心含义：综合物理机理模型与数据驱动方法",
+      "在虚拟空间中对结构响应、交通态势和环境影响进行动态仿真与前瞻推演。。",
+      "说明其在道路数字孪生中的作用：支撑主动预测和前瞻干预。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_155",
+    "chapter_id": "ch11",
+    "question": "智能化仿真分析与预测在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_155",
+    "expected_answer_points": [
+      "明确智能化仿真分析与预测的核心含义：综合物理机理模型与数据驱动方法",
+      "在虚拟空间中对结构响应、交通态势和环境影响进行动态仿真与前瞻推演。。",
+      "说明其在道路数字孪生中的作用：支撑主动预测和前瞻干预。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_156",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要智能化仿真分析与预测？",
+    "expected_answer_card": "ans_ch11_156",
+    "expected_answer_points": [
+      "明确智能化仿真分析与预测的核心含义：综合物理机理模型与数据驱动方法",
+      "在虚拟空间中对结构响应、交通态势和环境影响进行动态仿真与前瞻推演。。",
+      "说明其在道路数字孪生中的作用：支撑主动预测和前瞻干预。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_157",
+    "chapter_id": "ch11",
+    "question": "智能化仿真分析与预测的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_157",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：智能化仿真分析与预测。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_158",
+    "chapter_id": "ch11",
+    "question": "什么是路面性能衰变预测？",
+    "expected_answer_card": "ans_ch11_158",
+    "expected_answer_points": [
+      "明确路面性能衰变预测的核心含义：基于平整度、车辙、结构强度等长期监测数据",
+      "结合交通荷载和气候条件预测路面性能演变。。",
+      "说明其在道路数字孪生中的作用：支撑养护时机与方案优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_159",
+    "chapter_id": "ch11",
+    "question": "路面性能衰变预测在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_159",
+    "expected_answer_points": [
+      "明确路面性能衰变预测的核心含义：基于平整度、车辙、结构强度等长期监测数据",
+      "结合交通荷载和气候条件预测路面性能演变。。",
+      "说明其在道路数字孪生中的作用：支撑养护时机与方案优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_160",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要路面性能衰变预测？",
+    "expected_answer_card": "ans_ch11_160",
+    "expected_answer_points": [
+      "明确路面性能衰变预测的核心含义：基于平整度、车辙、结构强度等长期监测数据",
+      "结合交通荷载和气候条件预测路面性能演变。。",
+      "说明其在道路数字孪生中的作用：支撑养护时机与方案优化。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_161",
+    "chapter_id": "ch11",
+    "question": "路面性能衰变预测的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_161",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：路面性能衰变预测。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_162",
+    "chapter_id": "ch11",
+    "question": "什么是桥隧疲劳与寿命预测？",
+    "expected_answer_card": "ans_ch11_162",
+    "expected_answer_points": [
+      "明确桥隧疲劳与寿命预测的核心含义：结合实测轴载、应力谱、材料疲劳特性和降阶模型",
+      "对关键构件受力状态和剩余寿命进行预测。。",
+      "说明其在道路数字孪生中的作用：支撑大中修计划和安全预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_163",
+    "chapter_id": "ch11",
+    "question": "桥隧疲劳与寿命预测在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_163",
+    "expected_answer_points": [
+      "明确桥隧疲劳与寿命预测的核心含义：结合实测轴载、应力谱、材料疲劳特性和降阶模型",
+      "对关键构件受力状态和剩余寿命进行预测。。",
+      "说明其在道路数字孪生中的作用：支撑大中修计划和安全预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_164",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要桥隧疲劳与寿命预测？",
+    "expected_answer_card": "ans_ch11_164",
+    "expected_answer_points": [
+      "明确桥隧疲劳与寿命预测的核心含义：结合实测轴载、应力谱、材料疲劳特性和降阶模型",
+      "对关键构件受力状态和剩余寿命进行预测。。",
+      "说明其在道路数字孪生中的作用：支撑大中修计划和安全预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_165",
+    "chapter_id": "ch11",
+    "question": "桥隧疲劳与寿命预测的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_165",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：桥隧疲劳与寿命预测。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_166",
+    "chapter_id": "ch11",
+    "question": "什么是实时交通流仿真？",
+    "expected_answer_card": "ans_ch11_166",
+    "expected_answer_points": [
+      "明确实时交通流仿真的核心含义：将车辆轨迹等实时数据注入仿真引擎",
+      "使虚拟交通流与现实运行状态同步演化。。",
+      "说明其在道路数字孪生中的作用：支撑拥堵预测和管控方案比选。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_167",
+    "chapter_id": "ch11",
+    "question": "实时交通流仿真在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_167",
+    "expected_answer_points": [
+      "明确实时交通流仿真的核心含义：将车辆轨迹等实时数据注入仿真引擎",
+      "使虚拟交通流与现实运行状态同步演化。。",
+      "说明其在道路数字孪生中的作用：支撑拥堵预测和管控方案比选。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_168",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要实时交通流仿真？",
+    "expected_answer_card": "ans_ch11_168",
+    "expected_answer_points": [
+      "明确实时交通流仿真的核心含义：将车辆轨迹等实时数据注入仿真引擎",
+      "使虚拟交通流与现实运行状态同步演化。。",
+      "说明其在道路数字孪生中的作用：支撑拥堵预测和管控方案比选。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_169",
+    "chapter_id": "ch11",
+    "question": "实时交通流仿真的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_169",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：实时交通流仿真。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_170",
+    "chapter_id": "ch11",
+    "question": "什么是交通安全风险动态评价？",
+    "expected_answer_card": "ans_ch11_170",
+    "expected_answer_points": [
+      "明确交通安全风险动态评价的核心含义：结合线形设施几何、车辆轨迹和气象条件识别冲突点与高风险路段",
+      "评估风险演化趋势。。",
+      "说明其在道路数字孪生中的作用：支撑限速、分流和临时封闭策略。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_171",
+    "chapter_id": "ch11",
+    "question": "交通安全风险动态评价在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_171",
+    "expected_answer_points": [
+      "明确交通安全风险动态评价的核心含义：结合线形设施几何、车辆轨迹和气象条件识别冲突点与高风险路段",
+      "评估风险演化趋势。。",
+      "说明其在道路数字孪生中的作用：支撑限速、分流和临时封闭策略。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_172",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要交通安全风险动态评价？",
+    "expected_answer_card": "ans_ch11_172",
+    "expected_answer_points": [
+      "明确交通安全风险动态评价的核心含义：结合线形设施几何、车辆轨迹和气象条件识别冲突点与高风险路段",
+      "评估风险演化趋势。。",
+      "说明其在道路数字孪生中的作用：支撑限速、分流和临时封闭策略。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_173",
+    "chapter_id": "ch11",
+    "question": "交通安全风险动态评价的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_173",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：交通安全风险动态评价。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_174",
+    "chapter_id": "ch11",
+    "question": "什么是应急推演与韧性评价？",
+    "expected_answer_card": "ans_ch11_174",
+    "expected_answer_points": [
+      "明确应急推演与韧性评价的核心含义：在事故、灾害或极端气候条件下开展应急情景模拟、资源调度仿真和系统恢复能力评估。。",
+      "说明其在道路数字孪生中的作用：支撑应急处置和恢复重建规划。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_175",
+    "chapter_id": "ch11",
+    "question": "应急推演与韧性评价在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_175",
+    "expected_answer_points": [
+      "明确应急推演与韧性评价的核心含义：在事故、灾害或极端气候条件下开展应急情景模拟、资源调度仿真和系统恢复能力评估。。",
+      "说明其在道路数字孪生中的作用：支撑应急处置和恢复重建规划。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_176",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要应急推演与韧性评价？",
+    "expected_answer_card": "ans_ch11_176",
+    "expected_answer_points": [
+      "明确应急推演与韧性评价的核心含义：在事故、灾害或极端气候条件下开展应急情景模拟、资源调度仿真和系统恢复能力评估。。",
+      "说明其在道路数字孪生中的作用：支撑应急处置和恢复重建规划。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_177",
+    "chapter_id": "ch11",
+    "question": "应急推演与韧性评价的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_177",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：应急推演与韧性评价。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_178",
+    "chapter_id": "ch11",
+    "question": "什么是虚实映射与闭环控制？",
+    "expected_answer_card": "ans_ch11_178",
+    "expected_answer_points": [
+      "明确虚实映射与闭环控制的核心含义：建立从虚拟模型、分析决策、物理执行、状态反馈到模型更新的闭环控制链路。。",
+      "说明其在道路数字孪生中的作用：支撑精准管控与可验证执行。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_179",
+    "chapter_id": "ch11",
+    "question": "虚实映射与闭环控制在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_179",
+    "expected_answer_points": [
+      "明确虚实映射与闭环控制的核心含义：建立从虚拟模型、分析决策、物理执行、状态反馈到模型更新的闭环控制链路。。",
+      "说明其在道路数字孪生中的作用：支撑精准管控与可验证执行。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_180",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要虚实映射与闭环控制？",
+    "expected_answer_card": "ans_ch11_180",
+    "expected_answer_points": [
+      "明确虚实映射与闭环控制的核心含义：建立从虚拟模型、分析决策、物理执行、状态反馈到模型更新的闭环控制链路。。",
+      "说明其在道路数字孪生中的作用：支撑精准管控与可验证执行。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_181",
+    "chapter_id": "ch11",
+    "question": "虚实映射与闭环控制的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_181",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：虚实映射与闭环控制。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_182",
+    "chapter_id": "ch11",
+    "question": "什么是人机协同与安全第一？",
+    "expected_answer_card": "ans_ch11_182",
+    "expected_answer_points": [
+      "明确人机协同与安全第一的核心含义：涉及行车安全和公众出行秩序的控制措施应以半自动模式为主",
+      "经人工确认后执行。。",
+      "说明其在道路数字孪生中的作用：避免模型误差或异常工况造成风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_183",
+    "chapter_id": "ch11",
+    "question": "人机协同与安全第一在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_183",
+    "expected_answer_points": [
+      "明确人机协同与安全第一的核心含义：涉及行车安全和公众出行秩序的控制措施应以半自动模式为主",
+      "经人工确认后执行。。",
+      "说明其在道路数字孪生中的作用：避免模型误差或异常工况造成风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_184",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要人机协同与安全第一？",
+    "expected_answer_card": "ans_ch11_184",
+    "expected_answer_points": [
+      "明确人机协同与安全第一的核心含义：涉及行车安全和公众出行秩序的控制措施应以半自动模式为主",
+      "经人工确认后执行。。",
+      "说明其在道路数字孪生中的作用：避免模型误差或异常工况造成风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_185",
+    "chapter_id": "ch11",
+    "question": "什么是AR/VR增强呈现与远程协同？",
+    "expected_answer_card": "ans_ch11_185",
+    "expected_answer_points": [
+      "明确AR/VR增强呈现与远程协同的核心含义：将模型、感知数据和现场影像叠加展示",
+      "支持隐蔽工程呈现、远程标注和多方协同决策。。",
+      "说明其在道路数字孪生中的作用：支撑远程巡检与专家协同。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_186",
+    "chapter_id": "ch11",
+    "question": "AR/VR增强呈现与远程协同在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_186",
+    "expected_answer_points": [
+      "明确AR/VR增强呈现与远程协同的核心含义：将模型、感知数据和现场影像叠加展示",
+      "支持隐蔽工程呈现、远程标注和多方协同决策。。",
+      "说明其在道路数字孪生中的作用：支撑远程巡检与专家协同。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_187",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要AR/VR增强呈现与远程协同？",
+    "expected_answer_card": "ans_ch11_187",
+    "expected_answer_points": [
+      "明确AR/VR增强呈现与远程协同的核心含义：将模型、感知数据和现场影像叠加展示",
+      "支持隐蔽工程呈现、远程标注和多方协同决策。。",
+      "说明其在道路数字孪生中的作用：支撑远程巡检与专家协同。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_188",
+    "chapter_id": "ch11",
+    "question": "AR/VR增强呈现与远程协同的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_188",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：AR/VR增强呈现与远程协同。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_189",
+    "chapter_id": "ch11",
+    "question": "什么是协同治理决策支持？",
+    "expected_answer_card": "ans_ch11_189",
+    "expected_answer_points": [
+      "明确协同治理决策支持的核心含义：基于统一时空基准、权威主数据和数字主线",
+      "为多部门共享同一模型语境下的方案比选与应急演练提供支持。。",
+      "说明其在道路数字孪生中的作用：支撑跨部门治理和长期价值评估。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_190",
+    "chapter_id": "ch11",
+    "question": "协同治理决策支持在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_190",
+    "expected_answer_points": [
+      "明确协同治理决策支持的核心含义：基于统一时空基准、权威主数据和数字主线",
+      "为多部门共享同一模型语境下的方案比选与应急演练提供支持。。",
+      "说明其在道路数字孪生中的作用：支撑跨部门治理和长期价值评估。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_191",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要协同治理决策支持？",
+    "expected_answer_card": "ans_ch11_191",
+    "expected_answer_points": [
+      "明确协同治理决策支持的核心含义：基于统一时空基准、权威主数据和数字主线",
+      "为多部门共享同一模型语境下的方案比选与应急演练提供支持。。",
+      "说明其在道路数字孪生中的作用：支撑跨部门治理和长期价值评估。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_192",
+    "chapter_id": "ch11",
+    "question": "协同治理决策支持的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_192",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：协同治理决策支持。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_193",
+    "chapter_id": "ch11",
+    "question": "什么是环境—道路耦合设计？",
+    "expected_answer_card": "ans_ch11_193",
+    "expected_answer_points": [
+      "明确环境—道路耦合设计的核心含义：在BIM+GIS基础上引入时间维度和物理约束",
+      "在真实三维环境中推演地形、地质、水文、气象对道路方案的影响。。",
+      "说明其在道路数字孪生中的作用：支撑设计即验证、优化前置。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_194",
+    "chapter_id": "ch11",
+    "question": "环境—道路耦合设计在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_194",
+    "expected_answer_points": [
+      "明确环境—道路耦合设计的核心含义：在BIM+GIS基础上引入时间维度和物理约束",
+      "在真实三维环境中推演地形、地质、水文、气象对道路方案的影响。。",
+      "说明其在道路数字孪生中的作用：支撑设计即验证、优化前置。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_195",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要环境—道路耦合设计？",
+    "expected_answer_card": "ans_ch11_195",
+    "expected_answer_points": [
+      "明确环境—道路耦合设计的核心含义：在BIM+GIS基础上引入时间维度和物理约束",
+      "在真实三维环境中推演地形、地质、水文、气象对道路方案的影响。。",
+      "说明其在道路数字孪生中的作用：支撑设计即验证、优化前置。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_196",
+    "chapter_id": "ch11",
+    "question": "什么是透明地质表达？",
+    "expected_answer_card": "ans_ch11_196",
+    "expected_answer_points": [
+      "明确透明地质表达的核心含义：集成钻孔、物探等数据构建地下三维地质解释模型",
+      "但其精度受数据密度和模型假设限制。。",
+      "说明其在道路数字孪生中的作用：用于识别断层、滑坡体等风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_197",
+    "chapter_id": "ch11",
+    "question": "透明地质表达在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_197",
+    "expected_answer_points": [
+      "明确透明地质表达的核心含义：集成钻孔、物探等数据构建地下三维地质解释模型",
+      "但其精度受数据密度和模型假设限制。。",
+      "说明其在道路数字孪生中的作用：用于识别断层、滑坡体等风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_198",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要透明地质表达？",
+    "expected_answer_card": "ans_ch11_198",
+    "expected_answer_points": [
+      "明确透明地质表达的核心含义：集成钻孔、物探等数据构建地下三维地质解释模型",
+      "但其精度受数据密度和模型假设限制。。",
+      "说明其在道路数字孪生中的作用：用于识别断层、滑坡体等风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_199",
+    "chapter_id": "ch11",
+    "question": "什么是水文模拟与排水优化？",
+    "expected_answer_card": "ans_ch11_199",
+    "expected_answer_points": [
+      "明确水文模拟与排水优化的核心含义：基于高精度地表模型和CFD等方法推演极端降雨下径流路径、流速、积水点和冲刷风险",
+      "优化边沟、涵洞与泵站。。",
+      "说明其在道路数字孪生中的作用：支撑极端天气下防灾抗灾设计。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_200",
+    "chapter_id": "ch11",
+    "question": "水文模拟与排水优化在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_200",
+    "expected_answer_points": [
+      "明确水文模拟与排水优化的核心含义：基于高精度地表模型和CFD等方法推演极端降雨下径流路径、流速、积水点和冲刷风险",
+      "优化边沟、涵洞与泵站。。",
+      "说明其在道路数字孪生中的作用：支撑极端天气下防灾抗灾设计。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_201",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要水文模拟与排水优化？",
+    "expected_answer_card": "ans_ch11_201",
+    "expected_answer_points": [
+      "明确水文模拟与排水优化的核心含义：基于高精度地表模型和CFD等方法推演极端降雨下径流路径、流速、积水点和冲刷风险",
+      "优化边沟、涵洞与泵站。。",
+      "说明其在道路数字孪生中的作用：支撑极端天气下防灾抗灾设计。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_202",
+    "chapter_id": "ch11",
+    "question": "什么是风场与结构动力稳定性分析？",
+    "expected_answer_card": "ans_ch11_202",
+    "expected_answer_points": [
+      "明确风场与结构动力稳定性分析的核心含义：模拟峡谷风、强侧风或台风对桥梁结构和车辆行驶稳定性的影响",
+      "评估抗风与安全设施需求。。",
+      "说明其在道路数字孪生中的作用：支撑挡风屏和结构抗风设计。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_203",
+    "chapter_id": "ch11",
+    "question": "风场与结构动力稳定性分析在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_203",
+    "expected_answer_points": [
+      "明确风场与结构动力稳定性分析的核心含义：模拟峡谷风、强侧风或台风对桥梁结构和车辆行驶稳定性的影响",
+      "评估抗风与安全设施需求。。",
+      "说明其在道路数字孪生中的作用：支撑挡风屏和结构抗风设计。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_204",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要风场与结构动力稳定性分析？",
+    "expected_answer_card": "ans_ch11_204",
+    "expected_answer_points": [
+      "明确风场与结构动力稳定性分析的核心含义：模拟峡谷风、强侧风或台风对桥梁结构和车辆行驶稳定性的影响",
+      "评估抗风与安全设施需求。。",
+      "说明其在道路数字孪生中的作用：支撑挡风屏和结构抗风设计。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_205",
+    "chapter_id": "ch11",
+    "question": "什么是AI与数字孪生驱动生成式设计？",
+    "expected_answer_card": "ans_ch11_205",
+    "expected_answer_points": [
+      "明确AI与数字孪生驱动生成式设计的核心含义：融合算法驱动、知识驱动与数据驱动方法",
+      "在三维环境中自动生成、筛选和优化道路方案。。",
+      "说明其在道路数字孪生中的作用：支撑多目标方案生成与决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_206",
+    "chapter_id": "ch11",
+    "question": "AI与数字孪生驱动生成式设计在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_206",
+    "expected_answer_points": [
+      "明确AI与数字孪生驱动生成式设计的核心含义：融合算法驱动、知识驱动与数据驱动方法",
+      "在三维环境中自动生成、筛选和优化道路方案。。",
+      "说明其在道路数字孪生中的作用：支撑多目标方案生成与决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_207",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要AI与数字孪生驱动生成式设计？",
+    "expected_answer_card": "ans_ch11_207",
+    "expected_answer_points": [
+      "明确AI与数字孪生驱动生成式设计的核心含义：融合算法驱动、知识驱动与数据驱动方法",
+      "在三维环境中自动生成、筛选和优化道路方案。。",
+      "说明其在道路数字孪生中的作用：支撑多目标方案生成与决策。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_208",
+    "chapter_id": "ch11",
+    "question": "什么是算法驱动参数化自动布局？",
+    "expected_answer_card": "ans_ch11_208",
+    "expected_answer_points": [
+      "明确算法驱动参数化自动布局的核心含义：根据设计速度、半径、纵坡等约束参数",
+      "利用遗传算法、粒子群等启发式方法自动搜索可行方案。。",
+      "说明其在道路数字孪生中的作用：提升方案搜索范围和效率。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_209",
+    "chapter_id": "ch11",
+    "question": "算法驱动参数化自动布局在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_209",
+    "expected_answer_points": [
+      "明确算法驱动参数化自动布局的核心含义：根据设计速度、半径、纵坡等约束参数",
+      "利用遗传算法、粒子群等启发式方法自动搜索可行方案。。",
+      "说明其在道路数字孪生中的作用：提升方案搜索范围和效率。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_210",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要算法驱动参数化自动布局？",
+    "expected_answer_card": "ans_ch11_210",
+    "expected_answer_points": [
+      "明确算法驱动参数化自动布局的核心含义：根据设计速度、半径、纵坡等约束参数",
+      "利用遗传算法、粒子群等启发式方法自动搜索可行方案。。",
+      "说明其在道路数字孪生中的作用：提升方案搜索范围和效率。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_211",
+    "chapter_id": "ch11",
+    "question": "算法驱动参数化自动布局的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_211",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：算法驱动参数化自动布局。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_212",
+    "chapter_id": "ch11",
+    "question": "什么是多目标帕累托决策支持？",
+    "expected_answer_card": "ans_ch11_212",
+    "expected_answer_points": [
+      "明确多目标帕累托决策支持的核心含义：综合造价、碳排放、土地占用、工程性能等指标生成帕累托解集",
+      "辅助方案平衡决策。。",
+      "说明其在道路数字孪生中的作用：支撑经济、环保和工程性能综合比选。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_213",
+    "chapter_id": "ch11",
+    "question": "多目标帕累托决策支持在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_213",
+    "expected_answer_points": [
+      "明确多目标帕累托决策支持的核心含义：综合造价、碳排放、土地占用、工程性能等指标生成帕累托解集",
+      "辅助方案平衡决策。。",
+      "说明其在道路数字孪生中的作用：支撑经济、环保和工程性能综合比选。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_214",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要多目标帕累托决策支持？",
+    "expected_answer_card": "ans_ch11_214",
+    "expected_answer_points": [
+      "明确多目标帕累托决策支持的核心含义：综合造价、碳排放、土地占用、工程性能等指标生成帕累托解集",
+      "辅助方案平衡决策。。",
+      "说明其在道路数字孪生中的作用：支撑经济、环保和工程性能综合比选。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_215",
+    "chapter_id": "ch11",
+    "question": "多目标帕累托决策支持的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_215",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：多目标帕累托决策支持。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_216",
+    "chapter_id": "ch11",
+    "question": "什么是虚拟驾驶仿真与安全评价？",
+    "expected_answer_card": "ans_ch11_216",
+    "expected_answer_points": [
+      "明确虚拟驾驶仿真与安全评价的核心含义：在高保真虚拟环境中开展驾驶员视角视距核查、视觉诱导评价和车辆动力学仿真",
+      "前置识别安全风险。。",
+      "说明其在道路数字孪生中的作用：支撑线形优化和主动安全验证。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_217",
+    "chapter_id": "ch11",
+    "question": "虚拟驾驶仿真与安全评价在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_217",
+    "expected_answer_points": [
+      "明确虚拟驾驶仿真与安全评价的核心含义：在高保真虚拟环境中开展驾驶员视角视距核查、视觉诱导评价和车辆动力学仿真",
+      "前置识别安全风险。。",
+      "说明其在道路数字孪生中的作用：支撑线形优化和主动安全验证。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_218",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要虚拟驾驶仿真与安全评价？",
+    "expected_answer_card": "ans_ch11_218",
+    "expected_answer_points": [
+      "明确虚拟驾驶仿真与安全评价的核心含义：在高保真虚拟环境中开展驾驶员视角视距核查、视觉诱导评价和车辆动力学仿真",
+      "前置识别安全风险。。",
+      "说明其在道路数字孪生中的作用：支撑线形优化和主动安全验证。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_219",
+    "chapter_id": "ch11",
+    "question": "什么是三维视距连续性检验？",
+    "expected_answer_card": "ans_ch11_219",
+    "expected_answer_points": [
+      "明确三维视距连续性检验的核心含义：从驾驶员视角沿行车轨迹连续扫描",
+      "识别边坡、植被、交通设施等遮挡造成的视距受限。。",
+      "说明其在道路数字孪生中的作用：支撑停车视距、超车视距和视觉诱导评价。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_220",
+    "chapter_id": "ch11",
+    "question": "三维视距连续性检验在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_220",
+    "expected_answer_points": [
+      "明确三维视距连续性检验的核心含义：从驾驶员视角沿行车轨迹连续扫描",
+      "识别边坡、植被、交通设施等遮挡造成的视距受限。。",
+      "说明其在道路数字孪生中的作用：支撑停车视距、超车视距和视觉诱导评价。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_221",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要三维视距连续性检验？",
+    "expected_answer_card": "ans_ch11_221",
+    "expected_answer_points": [
+      "明确三维视距连续性检验的核心含义：从驾驶员视角沿行车轨迹连续扫描",
+      "识别边坡、植被、交通设施等遮挡造成的视距受限。。",
+      "说明其在道路数字孪生中的作用：支撑停车视距、超车视距和视觉诱导评价。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_222",
+    "chapter_id": "ch11",
+    "question": "三维视距连续性检验的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_222",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：三维视距连续性检验。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_223",
+    "chapter_id": "ch11",
+    "question": "什么是施工现场信息物理系统CPS？",
+    "expected_answer_card": "ans_ch11_223",
+    "expected_answer_points": [
+      "明确施工现场信息物理系统CPS的核心含义：将施工现场人、机、料、法、环等要素感知并映射到数字工地",
+      "实现施工过程实时同步和反馈。。",
+      "说明其在道路数字孪生中的作用：支撑施工安全、进度和质量管控。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_224",
+    "chapter_id": "ch11",
+    "question": "施工现场信息物理系统CPS在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_224",
+    "expected_answer_points": [
+      "明确施工现场信息物理系统CPS的核心含义：将施工现场人、机、料、法、环等要素感知并映射到数字工地",
+      "实现施工过程实时同步和反馈。。",
+      "说明其在道路数字孪生中的作用：支撑施工安全、进度和质量管控。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_225",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要施工现场信息物理系统CPS？",
+    "expected_answer_card": "ans_ch11_225",
+    "expected_answer_points": [
+      "明确施工现场信息物理系统CPS的核心含义：将施工现场人、机、料、法、环等要素感知并映射到数字工地",
+      "实现施工过程实时同步和反馈。。",
+      "说明其在道路数字孪生中的作用：支撑施工安全、进度和质量管控。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_226",
+    "chapter_id": "ch11",
+    "question": "什么是基于数字主线的数字化交付？",
+    "expected_answer_card": "ans_ch11_226",
+    "expected_answer_points": [
+      "明确基于数字主线的数字化交付的核心含义：将竣工图纸与文本交付转向结构化资产数据交付",
+      "形成与实体一致的动态孪生底座。。",
+      "说明其在道路数字孪生中的作用：支撑运维继承和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_227",
+    "chapter_id": "ch11",
+    "question": "基于数字主线的数字化交付在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_227",
+    "expected_answer_points": [
+      "明确基于数字主线的数字化交付的核心含义：将竣工图纸与文本交付转向结构化资产数据交付",
+      "形成与实体一致的动态孪生底座。。",
+      "说明其在道路数字孪生中的作用：支撑运维继承和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_228",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要基于数字主线的数字化交付？",
+    "expected_answer_card": "ans_ch11_228",
+    "expected_answer_points": [
+      "明确基于数字主线的数字化交付的核心含义：将竣工图纸与文本交付转向结构化资产数据交付",
+      "形成与实体一致的动态孪生底座。。",
+      "说明其在道路数字孪生中的作用：支撑运维继承和责任追溯。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_229",
+    "chapter_id": "ch11",
+    "question": "什么是预测性养护？",
+    "expected_answer_card": "ans_ch11_229",
+    "expected_answer_points": [
+      "明确预测性养护的核心含义：利用多源感知和混合模型预测设施性能演化",
+      "提前确定养护时机与方案",
+      "实现由被动响应向主动预测转型。",
+      "说明其在道路数字孪生中的作用：降低全生命周期成本并提升服务水平。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_230",
+    "chapter_id": "ch11",
+    "question": "预测性养护在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_230",
+    "expected_answer_points": [
+      "明确预测性养护的核心含义：利用多源感知和混合模型预测设施性能演化",
+      "提前确定养护时机与方案",
+      "实现由被动响应向主动预测转型。",
+      "说明其在道路数字孪生中的作用：降低全生命周期成本并提升服务水平。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_231",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要预测性养护？",
+    "expected_answer_card": "ans_ch11_231",
+    "expected_answer_points": [
+      "明确预测性养护的核心含义：利用多源感知和混合模型预测设施性能演化",
+      "提前确定养护时机与方案",
+      "实现由被动响应向主动预测转型。",
+      "说明其在道路数字孪生中的作用：降低全生命周期成本并提升服务水平。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_232",
+    "chapter_id": "ch11",
+    "question": "什么是结构健康监测？",
+    "expected_answer_card": "ans_ch11_232",
+    "expected_answer_points": [
+      "明确结构健康监测的核心含义：持续采集力学、动力、隐蔽工程和表观病害信息",
+      "形成设施全寿命周期健康档案。。",
+      "说明其在道路数字孪生中的作用：支撑病害定位和分级预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_233",
+    "chapter_id": "ch11",
+    "question": "结构健康监测在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_233",
+    "expected_answer_points": [
+      "明确结构健康监测的核心含义：持续采集力学、动力、隐蔽工程和表观病害信息",
+      "形成设施全寿命周期健康档案。。",
+      "说明其在道路数字孪生中的作用：支撑病害定位和分级预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_234",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要结构健康监测？",
+    "expected_answer_card": "ans_ch11_234",
+    "expected_answer_points": [
+      "明确结构健康监测的核心含义：持续采集力学、动力、隐蔽工程和表观病害信息",
+      "形成设施全寿命周期健康档案。。",
+      "说明其在道路数字孪生中的作用：支撑病害定位和分级预警。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_235",
+    "chapter_id": "ch11",
+    "question": "什么是全生命周期资产管理？",
+    "expected_answer_card": "ans_ch11_235",
+    "expected_answer_points": [
+      "明确全生命周期资产管理的核心含义：综合设施健康状态、剩余寿命、维护成本和服务水平",
+      "对资产价值、更新改造和养护策略进行动态评估。。",
+      "说明其在道路数字孪生中的作用：支撑投资决策和运营绩效评价。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_236",
+    "chapter_id": "ch11",
+    "question": "全生命周期资产管理在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_236",
+    "expected_answer_points": [
+      "明确全生命周期资产管理的核心含义：综合设施健康状态、剩余寿命、维护成本和服务水平",
+      "对资产价值、更新改造和养护策略进行动态评估。。",
+      "说明其在道路数字孪生中的作用：支撑投资决策和运营绩效评价。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_237",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要全生命周期资产管理？",
+    "expected_answer_card": "ans_ch11_237",
+    "expected_answer_points": [
+      "明确全生命周期资产管理的核心含义：综合设施健康状态、剩余寿命、维护成本和服务水平",
+      "对资产价值、更新改造和养护策略进行动态评估。。",
+      "说明其在道路数字孪生中的作用：支撑投资决策和运营绩效评价。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_238",
+    "chapter_id": "ch11",
+    "question": "什么是智慧交通治理？",
+    "expected_answer_card": "ans_ch11_238",
+    "expected_answer_points": [
+      "明确智慧交通治理的核心含义：将道路数字孪生扩展为覆盖车—路—环境的系统之系统",
+      "实现全息态势感知、在线推演和主动管控。。",
+      "说明其在道路数字孪生中的作用：支撑主动治理和应急响应。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_239",
+    "chapter_id": "ch11",
+    "question": "智慧交通治理在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_239",
+    "expected_answer_points": [
+      "明确智慧交通治理的核心含义：将道路数字孪生扩展为覆盖车—路—环境的系统之系统",
+      "实现全息态势感知、在线推演和主动管控。。",
+      "说明其在道路数字孪生中的作用：支撑主动治理和应急响应。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_240",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要智慧交通治理？",
+    "expected_answer_card": "ans_ch11_240",
+    "expected_answer_points": [
+      "明确智慧交通治理的核心含义：将道路数字孪生扩展为覆盖车—路—环境的系统之系统",
+      "实现全息态势感知、在线推演和主动管控。。",
+      "说明其在道路数字孪生中的作用：支撑主动治理和应急响应。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_241",
+    "chapter_id": "ch11",
+    "question": "什么是数字车流？",
+    "expected_answer_card": "ans_ch11_241",
+    "expected_answer_points": [
+      "明确数字车流的核心含义：将真实车辆的位置、速度、车型和轨迹同步映射到虚拟空间形成连续运行的交通流数字镜像。。",
+      "说明其在道路数字孪生中的作用：支撑微观行为分析和短时预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_242",
+    "chapter_id": "ch11",
+    "question": "数字车流在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_242",
+    "expected_answer_points": [
+      "明确数字车流的核心含义：将真实车辆的位置、速度、车型和轨迹同步映射到虚拟空间形成连续运行的交通流数字镜像。。",
+      "说明其在道路数字孪生中的作用：支撑微观行为分析和短时预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_243",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数字车流？",
+    "expected_answer_card": "ans_ch11_243",
+    "expected_answer_points": [
+      "明确数字车流的核心含义：将真实车辆的位置、速度、车型和轨迹同步映射到虚拟空间形成连续运行的交通流数字镜像。。",
+      "说明其在道路数字孪生中的作用：支撑微观行为分析和短时预测。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_244",
+    "chapter_id": "ch11",
+    "question": "什么是V2X主动安全干预？",
+    "expected_answer_card": "ans_ch11_244",
+    "expected_answer_points": [
+      "明确V2X主动安全干预的核心含义：数字孪生作为超视距感知层",
+      "通过V2X向车辆推送事故、抛洒物、低能见度等风险预警和数字引导。。",
+      "说明其在道路数字孪生中的作用：支撑复杂环境下通行安全。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_245",
+    "chapter_id": "ch11",
+    "question": "V2X主动安全干预在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_245",
+    "expected_answer_points": [
+      "明确V2X主动安全干预的核心含义：数字孪生作为超视距感知层",
+      "通过V2X向车辆推送事故、抛洒物、低能见度等风险预警和数字引导。。",
+      "说明其在道路数字孪生中的作用：支撑复杂环境下通行安全。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_246",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要V2X主动安全干预？",
+    "expected_answer_card": "ans_ch11_246",
+    "expected_answer_points": [
+      "明确V2X主动安全干预的核心含义：数字孪生作为超视距感知层",
+      "通过V2X向车辆推送事故、抛洒物、低能见度等风险预警和数字引导。。",
+      "说明其在道路数字孪生中的作用：支撑复杂环境下通行安全。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_247",
+    "chapter_id": "ch11",
+    "question": "什么是道路系统韧性服务？",
+    "expected_answer_card": "ans_ch11_247",
+    "expected_answer_points": [
+      "明确道路系统韧性服务的核心含义：通过可预演、可联动、可评估技术体系提升道路系统在突发事件后的维持核心功能与快速恢复能力。。",
+      "说明其在道路数字孪生中的作用：支撑灾害预演、应急调度和快速恢复。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_248",
+    "chapter_id": "ch11",
+    "question": "道路系统韧性服务在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_248",
+    "expected_answer_points": [
+      "明确道路系统韧性服务的核心含义：通过可预演、可联动、可评估技术体系提升道路系统在突发事件后的维持核心功能与快速恢复能力。。",
+      "说明其在道路数字孪生中的作用：支撑灾害预演、应急调度和快速恢复。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_249",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要道路系统韧性服务？",
+    "expected_answer_card": "ans_ch11_249",
+    "expected_answer_points": [
+      "明确道路系统韧性服务的核心含义：通过可预演、可联动、可评估技术体系提升道路系统在突发事件后的维持核心功能与快速恢复能力。。",
+      "说明其在道路数字孪生中的作用：支撑灾害预演、应急调度和快速恢复。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_250",
+    "chapter_id": "ch11",
+    "question": "什么是数据连接？",
+    "expected_answer_card": "ans_ch11_250",
+    "expected_answer_points": [
+      "明确数据连接的核心含义：连接物理实体与虚拟模型的双向实时传输机制",
+      "是五维模型中保障虚实闭环运行的关键环节。。",
+      "说明其在道路数字孪生中的作用：保证动态同步、实时反馈和闭环控制。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_251",
+    "chapter_id": "ch11",
+    "question": "数据连接在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_251",
+    "expected_answer_points": [
+      "明确数据连接的核心含义：连接物理实体与虚拟模型的双向实时传输机制",
+      "是五维模型中保障虚实闭环运行的关键环节。。",
+      "说明其在道路数字孪生中的作用：保证动态同步、实时反馈和闭环控制。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_252",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要数据连接？",
+    "expected_answer_card": "ans_ch11_252",
+    "expected_answer_points": [
+      "明确数据连接的核心含义：连接物理实体与虚拟模型的双向实时传输机制",
+      "是五维模型中保障虚实闭环运行的关键环节。。",
+      "说明其在道路数字孪生中的作用：保证动态同步、实时反馈和闭环控制。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_253",
+    "chapter_id": "ch11",
+    "question": "数据连接的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_253",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：数据连接。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_254",
+    "chapter_id": "ch11",
+    "question": "什么是孪生数据？",
+    "expected_answer_card": "ans_ch11_254",
+    "expected_answer_points": [
+      "明确孪生数据的核心含义：整合静态设计数据、历史数据、动态感知数据、仿真数据和衍生分析数据的综合数据资产。。",
+      "说明其在道路数字孪生中的作用：支撑预测、预警和长期资产管理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_255",
+    "chapter_id": "ch11",
+    "question": "孪生数据在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_255",
+    "expected_answer_points": [
+      "明确孪生数据的核心含义：整合静态设计数据、历史数据、动态感知数据、仿真数据和衍生分析数据的综合数据资产。。",
+      "说明其在道路数字孪生中的作用：支撑预测、预警和长期资产管理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_256",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要孪生数据？",
+    "expected_answer_card": "ans_ch11_256",
+    "expected_answer_points": [
+      "明确孪生数据的核心含义：整合静态设计数据、历史数据、动态感知数据、仿真数据和衍生分析数据的综合数据资产。。",
+      "说明其在道路数字孪生中的作用：支撑预测、预警和长期资产管理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_257",
+    "chapter_id": "ch11",
+    "question": "什么是服务与应用？",
+    "expected_answer_card": "ans_ch11_257",
+    "expected_answer_points": [
+      "明确服务与应用的核心含义：基于虚拟模型和孪生数据提供状态监测、性能预测、风险预警、决策优化等上层服务。。",
+      "说明其在道路数字孪生中的作用：体现系统业务价值。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_258",
+    "chapter_id": "ch11",
+    "question": "服务与应用在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_258",
+    "expected_answer_points": [
+      "明确服务与应用的核心含义：基于虚拟模型和孪生数据提供状态监测、性能预测、风险预警、决策优化等上层服务。。",
+      "说明其在道路数字孪生中的作用：体现系统业务价值。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_259",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要服务与应用？",
+    "expected_answer_card": "ans_ch11_259",
+    "expected_answer_points": [
+      "明确服务与应用的核心含义：基于虚拟模型和孪生数据提供状态监测、性能预测、风险预警、决策优化等上层服务。。",
+      "说明其在道路数字孪生中的作用：体现系统业务价值。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_260",
+    "chapter_id": "ch11",
+    "question": "服务与应用的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_260",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：服务与应用。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_261",
+    "chapter_id": "ch11",
+    "question": "什么是联邦式架构？",
+    "expected_answer_card": "ans_ch11_261",
+    "expected_answer_points": [
+      "明确联邦式架构的核心含义：通过开放标准与统一接口将分散的模型和数据协同起来",
+      "而不是建立一个庞大单体模型。。",
+      "说明其在道路数字孪生中的作用：支撑分阶段建设和跨系统协同。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_262",
+    "chapter_id": "ch11",
+    "question": "联邦式架构在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_262",
+    "expected_answer_points": [
+      "明确联邦式架构的核心含义：通过开放标准与统一接口将分散的模型和数据协同起来",
+      "而不是建立一个庞大单体模型。。",
+      "说明其在道路数字孪生中的作用：支撑分阶段建设和跨系统协同。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_263",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要联邦式架构？",
+    "expected_answer_card": "ans_ch11_263",
+    "expected_answer_points": [
+      "明确联邦式架构的核心含义：通过开放标准与统一接口将分散的模型和数据协同起来",
+      "而不是建立一个庞大单体模型。。",
+      "说明其在道路数字孪生中的作用：支撑分阶段建设和跨系统协同。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_264",
+    "chapter_id": "ch11",
+    "question": "联邦式架构的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_264",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：联邦式架构。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_265",
+    "chapter_id": "ch11",
+    "question": "什么是语义映射？",
+    "expected_answer_card": "ans_ch11_265",
+    "expected_answer_points": [
+      "明确语义映射的核心含义：建立不同模型之间对象、属性和关系的对应规则",
+      "保证跨格式数据迁移时核心语义不丢失。。",
+      "说明其在道路数字孪生中的作用：支撑资产级追溯和跨平台互操作。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_266",
+    "chapter_id": "ch11",
+    "question": "语义映射在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_266",
+    "expected_answer_points": [
+      "明确语义映射的核心含义：建立不同模型之间对象、属性和关系的对应规则",
+      "保证跨格式数据迁移时核心语义不丢失。。",
+      "说明其在道路数字孪生中的作用：支撑资产级追溯和跨平台互操作。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_267",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要语义映射？",
+    "expected_answer_card": "ans_ch11_267",
+    "expected_answer_points": [
+      "明确语义映射的核心含义：建立不同模型之间对象、属性和关系的对应规则",
+      "保证跨格式数据迁移时核心语义不丢失。。",
+      "说明其在道路数字孪生中的作用：支撑资产级追溯和跨平台互操作。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_268",
+    "chapter_id": "ch11",
+    "question": "语义映射的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_268",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：语义映射。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_269",
+    "chapter_id": "ch11",
+    "question": "什么是全息交通态势感知？",
+    "expected_answer_card": "ans_ch11_269",
+    "expected_answer_points": [
+      "明确全息交通态势感知的核心含义：通过多源感知融合形成全路网、连续、细粒度交通状态认知",
+      "突破传统断面统计的限制。。",
+      "说明其在道路数字孪生中的作用：支撑拥堵预测和主动治理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_270",
+    "chapter_id": "ch11",
+    "question": "全息交通态势感知在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_270",
+    "expected_answer_points": [
+      "明确全息交通态势感知的核心含义：通过多源感知融合形成全路网、连续、细粒度交通状态认知",
+      "突破传统断面统计的限制。。",
+      "说明其在道路数字孪生中的作用：支撑拥堵预测和主动治理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_271",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要全息交通态势感知？",
+    "expected_answer_card": "ans_ch11_271",
+    "expected_answer_points": [
+      "明确全息交通态势感知的核心含义：通过多源感知融合形成全路网、连续、细粒度交通状态认知",
+      "突破传统断面统计的限制。。",
+      "说明其在道路数字孪生中的作用：支撑拥堵预测和主动治理。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_272",
+    "chapter_id": "ch11",
+    "question": "什么是What-if情景推演？",
+    "expected_answer_card": "ans_ch11_272",
+    "expected_answer_points": [
+      "明确What-if情景推演的核心含义：在虚拟环境中并行模拟多种管控或处置方案",
+      "评估其可能效果后再辅助现实决策。。",
+      "说明其在道路数字孪生中的作用：降低试错成本和运行风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_273",
+    "chapter_id": "ch11",
+    "question": "What-if情景推演在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_273",
+    "expected_answer_points": [
+      "明确What-if情景推演的核心含义：在虚拟环境中并行模拟多种管控或处置方案",
+      "评估其可能效果后再辅助现实决策。。",
+      "说明其在道路数字孪生中的作用：降低试错成本和运行风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_274",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要What-if情景推演？",
+    "expected_answer_card": "ans_ch11_274",
+    "expected_answer_points": [
+      "明确What-if情景推演的核心含义：在虚拟环境中并行模拟多种管控或处置方案",
+      "评估其可能效果后再辅助现实决策。。",
+      "说明其在道路数字孪生中的作用：降低试错成本和运行风险。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_275",
+    "chapter_id": "ch11",
+    "question": "What-if情景推演的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_275",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：What-if情景推演。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_276",
+    "chapter_id": "ch11",
+    "question": "什么是竣工即孪生？",
+    "expected_answer_card": "ans_ch11_276",
+    "expected_answer_points": [
+      "明确竣工即孪生的核心含义：在工程验收阶段基于竣工测量和实测数据修正模型",
+      "形成与物理实体一致、可直接进入运维的数字孪生底座。。",
+      "说明其在道路数字孪生中的作用：支撑设计施工运维无缝衔接。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_277",
+    "chapter_id": "ch11",
+    "question": "竣工即孪生在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_277",
+    "expected_answer_points": [
+      "明确竣工即孪生的核心含义：在工程验收阶段基于竣工测量和实测数据修正模型",
+      "形成与物理实体一致、可直接进入运维的数字孪生底座。。",
+      "说明其在道路数字孪生中的作用：支撑设计施工运维无缝衔接。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_278",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要竣工即孪生？",
+    "expected_answer_card": "ans_ch11_278",
+    "expected_answer_points": [
+      "明确竣工即孪生的核心含义：在工程验收阶段基于竣工测量和实测数据修正模型",
+      "形成与物理实体一致、可直接进入运维的数字孪生底座。。",
+      "说明其在道路数字孪生中的作用：支撑设计施工运维无缝衔接。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_279",
+    "chapter_id": "ch11",
+    "question": "什么是闭环有效性验证？",
+    "expected_answer_card": "ans_ch11_279",
+    "expected_answer_points": [
+      "明确闭环有效性验证的核心含义：控制建议或指令下发后",
+      "系统通过感知数据验证物理执行结果",
+      "并同步更新模型。。",
+      "说明其在道路数字孪生中的作用：支撑可验证、可审计的管理行为。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_280",
+    "chapter_id": "ch11",
+    "question": "闭环有效性验证在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_280",
+    "expected_answer_points": [
+      "明确闭环有效性验证的核心含义：控制建议或指令下发后",
+      "系统通过感知数据验证物理执行结果",
+      "并同步更新模型。。",
+      "说明其在道路数字孪生中的作用：支撑可验证、可审计的管理行为。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_281",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要闭环有效性验证？",
+    "expected_answer_card": "ans_ch11_281",
+    "expected_answer_points": [
+      "明确闭环有效性验证的核心含义：控制建议或指令下发后",
+      "系统通过感知数据验证物理执行结果",
+      "并同步更新模型。。",
+      "说明其在道路数字孪生中的作用：支撑可验证、可审计的管理行为。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_282",
+    "chapter_id": "ch11",
+    "question": "闭环有效性验证的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_282",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：闭环有效性验证。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_283",
+    "chapter_id": "ch11",
+    "question": "什么是知识驱动辅助决策？",
+    "expected_answer_card": "ans_ch11_283",
+    "expected_answer_points": [
+      "明确知识驱动辅助决策的核心含义：融合专家规则、历史案例和实时仿真结果",
+      "为养护、交通组织和事故处置提供可解释的辅助方案。。",
+      "说明其在道路数字孪生中的作用：支撑科学治理和长期价值评估。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_284",
+    "chapter_id": "ch11",
+    "question": "知识驱动辅助决策在道路数字孪生中有什么作用？",
+    "expected_answer_card": "ans_ch11_284",
+    "expected_answer_points": [
+      "明确知识驱动辅助决策的核心含义：融合专家规则、历史案例和实时仿真结果",
+      "为养护、交通组织和事故处置提供可解释的辅助方案。。",
+      "说明其在道路数字孪生中的作用：支撑科学治理和长期价值评估。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_285",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生需要知识驱动辅助决策？",
+    "expected_answer_card": "ans_ch11_285",
+    "expected_answer_points": [
+      "明确知识驱动辅助决策的核心含义：融合专家规则、历史案例和实时仿真结果",
+      "为养护、交通组织和事故处置提供可解释的辅助方案。。",
+      "说明其在道路数字孪生中的作用：支撑科学治理和长期价值评估。。",
+      "强调该内容应服务于虚实同步、状态预测或闭环优化。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_286",
+    "chapter_id": "ch11",
+    "question": "知识驱动辅助决策的基本逻辑或流程是什么？",
+    "expected_answer_card": "ans_ch11_286",
+    "expected_answer_points": [
+      "识别业务目标与适用对象：知识驱动辅助决策。",
+      "准备相应模型、数据或分析条件。",
+      "按虚实映射、分析决策、反馈验证的逻辑组织实施。",
+      "通过质量检查和结果验证形成闭环。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_287",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生与CAD、BIM、BIM+GIS相比最根本的区别是什么？",
+    "expected_answer_card": "ans_ch11_287",
+    "expected_answer_points": [
+      "CAD侧重二维图形表达。",
+      "BIM侧重静态构件模型与信息集成。",
+      "BIM+GIS实现构件模型与宏观地理环境融合。",
+      "数字孪生进一步引入IoT实时感知与AI预测推理",
+      "形成虚实闭环和全生命周期动态服务。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_288",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生的四大核心特征包括哪些？",
+    "expected_answer_card": "ans_ch11_288",
+    "expected_answer_points": [
+      "精准映射：高保真反映道路结构、属性与运行状态。",
+      "虚实交互：物理数据驱动模型更新",
+      "模型结果反馈现实管理。",
+      "智能干预：利用AI和仿真预测支持主动治理。",
+      "全生命周期覆盖：贯通设计、施工、运维的数据链路。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_289",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生五维模型包括哪些组成部分？",
+    "expected_answer_card": "ans_ch11_289",
+    "expected_answer_points": [
+      "物理实体：道路、桥梁、隧道及沿线设施。",
+      "虚拟模型：BIM、GIS和仿真模型组成的数字镜像。",
+      "数据连接：IoT、通信与V2X等双向传输机制。",
+      "孪生数据：静态、动态、仿真和衍生数据集合。",
+      "服务与应用：状态监测、预测预警、决策优化等业务能力。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_290",
+    "chapter_id": "ch11",
+    "question": "数字主线如何解决道路工程全生命周期数据割裂问题？",
+    "expected_answer_card": "ans_ch11_290",
+    "expected_answer_points": [
+      "统一连接规划、设计、施工、运维各阶段数据。",
+      "保持模型、构件、资产编码和状态信息的连续性。",
+      "通过版本管理和语义互操作保障可追溯。",
+      "使交付成果从静态文件转为可运营的数据资产。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_291",
+    "chapter_id": "ch11",
+    "question": "为什么道路数字孪生不能只依赖物理模型或数据驱动模型？",
+    "expected_answer_card": "ans_ch11_291",
+    "expected_answer_points": [
+      "单纯物理模型机理清晰但计算量大",
+      "难以满足实时需求。",
+      "单纯数据模型依赖样本质量",
+      "在工况变化下泛化能力不足。",
+      "混合建模可兼顾工程机理合理性和在线计算效率。",
+      "实测数据可持续校准模型",
+      "提高预测可靠性。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_292",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生在设计阶段有哪些典型应用？",
+    "expected_answer_card": "ans_ch11_292",
+    "expected_answer_points": [
+      "环境—道路耦合设计与透明地质表达。",
+      "水文、风场、结构动力等多物理场仿真。",
+      "AI与数字孪生驱动的生成式路线方案优化。",
+      "虚拟驾驶仿真、三维视距和车辆动力学安全评价。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_293",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生在施工阶段有哪些典型应用？",
+    "expected_answer_card": "ans_ch11_293",
+    "expected_answer_points": [
+      "构建施工现场信息物理系统CPS。",
+      "人机协同定位与高风险区域主动预警。",
+      "4D/5D进度成本动态推演与偏差纠正。",
+      "智能压实、摊铺控制与构件追溯。",
+      "基于数字主线实现竣工即孪生。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_294",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生在养护阶段如何实现预测性养护？",
+    "expected_answer_card": "ans_ch11_294",
+    "expected_answer_points": [
+      "通过结构健康监测采集力学、动力和病害数据。",
+      "采用混合模型诊断结构状态并预测性能退化趋势。",
+      "模拟不同养护方案的效果与成本。",
+      "基于LCC和服务水平选择最优养护时机与策略。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  },
+  {
+    "test_id": "eval_ch11_295",
+    "chapter_id": "ch11",
+    "question": "道路数字孪生如何支撑智慧交通治理与韧性服务？",
+    "expected_answer_card": "ans_ch11_295",
+    "expected_answer_points": [
+      "构建车道级数字车流与全息交通态势感知。",
+      "开展短时交通预测和What-if管控方案推演。",
+      "通过V2X提供超视距安全预警和主动管控。",
+      "在突发事件中支持协同处置、灾害预演和恢复决策。"
+    ],
+    "expected_kps": [],
+    "should_not_include": [],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制Source_Chunks。"
+  }
+]

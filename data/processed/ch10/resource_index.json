@@ -1,0 +1,624 @@
+[
+  {
+    "resource_id": "res_ch10_fig_01",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "resource_type": "figure",
+    "title": "AI驱动道路设计三类范式图",
+    "description": "展示知识驱动、算法驱动、数据驱动及其融合关系。",
+    "file_path": "chapter_10/resources/res_ch10_fig_01",
+    "related_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_003_algorithm_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "teaching_use": "展示知识驱动、算法驱动、数据驱动及其融合关系。",
+    "qa_use": "当学生询问AI驱动道路设计三类范式相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "AI驱动道路设计三类范式图",
+      "res_ch10_fig_01"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_02",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "figure",
+    "title": "知识驱动系统功能模块图",
+    "description": "展示知识管理、知识获取与挖掘、设计推理之间的关系。",
+    "file_path": "chapter_10/resources/res_ch10_fig_02",
+    "related_kps": [
+      "kp_ch10_009_knowledge_system_structure",
+      "kp_ch10_010_knowledge_management_module",
+      "kp_ch10_012_design_reasoning_module"
+    ],
+    "teaching_use": "展示知识管理、知识获取与挖掘、设计推理之间的关系。",
+    "qa_use": "当学生询问知识驱动系统功能模块相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "知识驱动系统功能模块图",
+      "res_ch10_fig_02",
+      "知识驱动系统的功能模块"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_03",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "figure",
+    "title": "滑坡地区选线知识图谱示例",
+    "description": "展示滑坡、地质灾害、路线等术语节点与关系。",
+    "file_path": "chapter_10/resources/res_ch10_fig_03",
+    "related_kps": [
+      "kp_ch10_013_ontology_graph",
+      "kp_ch10_014_term_node"
+    ],
+    "teaching_use": "展示滑坡、地质灾害、路线等术语节点与关系。",
+    "qa_use": "当学生询问滑坡地区选线知识谱示例相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "滑坡地区选线知识图谱示例",
+      "res_ch10_fig_03",
+      "滑坡地区选线知识图谱"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_04",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "figure",
+    "title": "九交模型示例",
+    "description": "展示空间拓扑关系判断方法。",
+    "file_path": "chapter_10/resources/res_ch10_fig_04",
+    "related_kps": [
+      "kp_ch10_018_nine_intersection_model",
+      "kp_ch10_025_spatial_relation_reasoning"
+    ],
+    "teaching_use": "展示空间拓扑关系判断方法。",
+    "qa_use": "当学生询问九交模型示例相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "九交模型示例",
+      "res_ch10_fig_04"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_05",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "figure",
+    "title": "路线与泥石流轴线分区关系图",
+    "description": "用于解释空间关系到工程语义的转换。",
+    "file_path": "chapter_10/resources/res_ch10_fig_05",
+    "related_kps": [
+      "kp_ch10_025_spatial_relation_reasoning"
+    ],
+    "teaching_use": "用于解释空间关系到工程语义的转换。",
+    "qa_use": "当学生询问路线与泥石流轴线分区关系相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "路线与泥石流轴线分区关系图",
+      "res_ch10_fig_05"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_06",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "figure",
+    "title": "实例推理流程示例",
+    "description": "展示目标案例构建、权重计算、相似度计算、K近邻检索等环节。",
+    "file_path": "chapter_10/resources/res_ch10_fig_06",
+    "related_kps": [
+      "kp_ch10_026_case_based_reasoning",
+      "kp_ch10_028_cbr_similarity",
+      "kp_ch10_030_knn_case_retrieval"
+    ],
+    "teaching_use": "展示目标案例构建、权重计算、相似度计算、K近邻检索等环节。",
+    "qa_use": "当学生询问实例推理流程示例相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "实例推理流程示例",
+      "res_ch10_fig_06",
+      "实例推理示例"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_07",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "figure",
+    "title": "规则推理示例",
+    "description": "展示产生式规则、置信度和链式推理。",
+    "file_path": "chapter_10/resources/res_ch10_fig_07",
+    "related_kps": [
+      "kp_ch10_027_rule_based_reasoning",
+      "kp_ch10_031_rbr_cf_model"
+    ],
+    "teaching_use": "展示产生式规则、置信度和链式推理。",
+    "qa_use": "当学生询问规则推理示例相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "规则推理示例",
+      "res_ch10_fig_07"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_formula_01",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "formula",
+    "title": "CF模型证据合并公式",
+    "description": "用于表达规则推理中的不确定性处理。",
+    "file_path": "chapter_10/resources/res_ch10_formula_01",
+    "related_kps": [
+      "kp_ch10_031_rbr_cf_model"
+    ],
+    "teaching_use": "用于表达规则推理中的不确定性处理。",
+    "qa_use": "当学生询问CF模型证据合并公式相关问题时推荐。",
+    "priority": 2,
+    "status": "placeholder",
+    "reference_aliases": [
+      "CF模型证据合并公式",
+      "res_ch10_formula_01"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_08",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "figure",
+    "title": "遗传算法优化流程图",
+    "description": "展示GA编码、适应度、选择、交叉变异与进化流程。",
+    "file_path": "chapter_10/resources/res_ch10_fig_08",
+    "related_kps": [
+      "kp_ch10_043_genetic_algorithm"
+    ],
+    "teaching_use": "展示GA编码、适应度、选择、交叉变异与进化流程。",
+    "qa_use": "当学生询问遗传算法优化流程相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "遗传算法优化流程图",
+      "res_ch10_fig_08"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_09",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "figure",
+    "title": "基于GA的平面方案优化流程",
+    "description": "展示平面路线方案的GA优化应用。",
+    "file_path": "chapter_10/resources/res_ch10_fig_09",
+    "related_kps": [
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_044_chromosome_encoding"
+    ],
+    "teaching_use": "展示平面路线方案的GA优化应用。",
+    "qa_use": "当学生询问基于GA的平面方案优化流程相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "基于GA的平面方案优化流程",
+      "res_ch10_fig_09"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_10",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "figure",
+    "title": "变异算子示意图",
+    "description": "说明改进均匀变异、直线变异等遗传算子。",
+    "file_path": "chapter_10/resources/res_ch10_fig_10",
+    "related_kps": [
+      "kp_ch10_047_crossover_mutation"
+    ],
+    "teaching_use": "说明改进均匀变异、直线变异等遗传算子。",
+    "qa_use": "当学生询问变异算子示意相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "变异算子示意图",
+      "res_ch10_fig_10"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_11",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "figure",
+    "title": "帕累托支配与帕累托前沿图",
+    "description": "展示多目标解之间的支配关系和前沿。",
+    "file_path": "chapter_10/resources/res_ch10_fig_11",
+    "related_kps": [
+      "kp_ch10_049_pareto_optimality",
+      "kp_ch10_050_pareto_front"
+    ],
+    "teaching_use": "展示多目标解之间的支配关系和前沿。",
+    "qa_use": "当学生询问帕累托支配与帕累托前沿相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "帕累托支配与帕累托前沿图",
+      "res_ch10_fig_11",
+      "帕累托支配与帕累托前沿"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_12",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "figure",
+    "title": "多目标进化算法流程图",
+    "description": "展示NSGA-II非支配排序、拥挤度和精英选择流程。",
+    "file_path": "chapter_10/resources/res_ch10_fig_12",
+    "related_kps": [
+      "kp_ch10_051_nsga2"
+    ],
+    "teaching_use": "展示NSGA-II非支配排序、拥挤度和精英选择流程。",
+    "qa_use": "当学生询问多目标进化算法流程相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "多目标进化算法流程图",
+      "res_ch10_fig_12"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_13",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "figure",
+    "title": "强化学习理论框架",
+    "description": "展示状态、动作、奖励、策略和价值函数的关系。",
+    "file_path": "chapter_10/resources/res_ch10_fig_13",
+    "related_kps": [
+      "kp_ch10_059_reinforcement_learning",
+      "kp_ch10_060_mdp"
+    ],
+    "teaching_use": "展示状态、动作、奖励、策略和价值函数的关系。",
+    "qa_use": "当学生询问强化学习理论框架相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "强化学习理论框架",
+      "res_ch10_fig_13",
+      "强化学习的理论框架"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_formula_02",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "formula",
+    "title": "MDP折扣回报公式",
+    "description": "表示强化学习从某时刻起的累计回报。",
+    "file_path": "chapter_10/resources/res_ch10_formula_02",
+    "related_kps": [
+      "kp_ch10_060_mdp",
+      "kp_ch10_063_reward_function"
+    ],
+    "teaching_use": "表示强化学习从某时刻起的累计回报。",
+    "qa_use": "当学生询问MDP折扣回报公式相关问题时推荐。",
+    "priority": 2,
+    "status": "placeholder",
+    "reference_aliases": [
+      "MDP折扣回报公式",
+      "res_ch10_formula_02"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_formula_03",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "formula",
+    "title": "DQN损失函数",
+    "description": "用于强化学习训练中的动作价值函数更新。",
+    "file_path": "chapter_10/resources/res_ch10_formula_03",
+    "related_kps": [
+      "kp_ch10_066_dqn"
+    ],
+    "teaching_use": "用于强化学习训练中的动作价值函数更新。",
+    "qa_use": "当学生询问DQN损失函数相关问题时推荐。",
+    "priority": 2,
+    "status": "placeholder",
+    "reference_aliases": [
+      "DQN损失函数",
+      "res_ch10_formula_03"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_14",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "figure",
+    "title": "纵断面强化学习求解流程",
+    "description": "展示纵断面RL环境、交互、经验回放和策略更新。",
+    "file_path": "chapter_10/resources/res_ch10_fig_14",
+    "related_kps": [
+      "kp_ch10_067_vertical_profile_rl",
+      "kp_ch10_066_dqn"
+    ],
+    "teaching_use": "展示纵断面RL环境、交互、经验回放和策略更新。",
+    "qa_use": "当学生询问纵断面强化学习求解流程相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "纵断面强化学习求解流程",
+      "res_ch10_fig_14"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_fig_15",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04",
+    "resource_type": "figure",
+    "title": "基于地质风险评估的选线模式",
+    "description": "展示风险数据、模型预测和选线决策之间的关系。",
+    "file_path": "chapter_10/resources/res_ch10_fig_15",
+    "related_kps": [
+      "kp_ch10_083_geological_risk_assessment",
+      "kp_ch10_088_risk_map_generation"
+    ],
+    "teaching_use": "展示风险数据、模型预测和选线决策之间的关系。",
+    "qa_use": "当学生询问基于地质风险评估的选线模式相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "基于地质风险评估的选线模式",
+      "res_ch10_fig_15"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_table_01",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "table",
+    "title": "公路地质选线规则示例",
+    "description": "列举地质选线中的规则知识。",
+    "file_path": "chapter_10/resources/res_ch10_table_01",
+    "related_kps": [
+      "kp_ch10_016_rule_base",
+      "kp_ch10_022_rule_knowledge_acquisition"
+    ],
+    "teaching_use": "列举地质选线中的规则知识。",
+    "qa_use": "当学生询问公路地质选线规则示例相关问题时推荐。",
+    "priority": 2,
+    "status": "placeholder",
+    "reference_aliases": [
+      "公路地质选线规则示例",
+      "res_ch10_table_01"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_table_02",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "table",
+    "title": "遗传算法与多目标进化算法区别表",
+    "description": "比较GA与MOEA在目标处理、输出和决策角色上的差异。",
+    "file_path": "chapter_10/resources/res_ch10_table_02",
+    "related_kps": [
+      "kp_ch10_058_ga_vs_moea"
+    ],
+    "teaching_use": "比较GA与MOEA在目标处理、输出和决策角色上的差异。",
+    "qa_use": "当学生询问遗传算法与多目标进化算法区别相关问题时推荐。",
+    "priority": 2,
+    "status": "placeholder",
+    "reference_aliases": [
+      "遗传算法与多目标进化算法区别表",
+      "res_ch10_table_02"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_table_03",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04",
+    "resource_type": "table",
+    "title": "平面设计指标推荐模型表",
+    "description": "列举线形组合、基本型曲线、S形与反向曲线推荐模型。",
+    "file_path": "chapter_10/resources/res_ch10_table_03",
+    "related_kps": [
+      "kp_ch10_092_alignment_indicator_recommendation"
+    ],
+    "teaching_use": "列举线形组合、基本型曲线、S形与反向曲线推荐模型。",
+    "qa_use": "当学生询问平面设计指标推荐模型相关问题时推荐。",
+    "priority": 2,
+    "status": "placeholder",
+    "reference_aliases": [
+      "平面设计指标推荐模型表",
+      "res_ch10_table_03"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_script_01",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "resource_type": "interactive_html",
+    "title": "AI驱动道路设计范式互动脚本",
+    "description": "通过三类范式卡片帮助学生理解AI设计方法体系。",
+    "file_path": "chapter_10/resources/res_ch10_script_01",
+    "related_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_003_algorithm_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "teaching_use": "通过三类范式卡片帮助学生理解AI设计方法体系。",
+    "qa_use": "当学生询问AI驱动道路设计范式互动脚本相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "AI驱动道路设计范式互动脚本",
+      "res_ch10_script_01"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_script_02",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "resource_type": "interactive_html",
+    "title": "知识驱动推理机制互动脚本",
+    "description": "展示SRR、CBR、RBR三类推理机制。",
+    "file_path": "chapter_10/resources/res_ch10_script_02",
+    "related_kps": [
+      "kp_ch10_025_spatial_relation_reasoning",
+      "kp_ch10_026_case_based_reasoning",
+      "kp_ch10_027_rule_based_reasoning"
+    ],
+    "teaching_use": "展示SRR、CBR、RBR三类推理机制。",
+    "qa_use": "当学生询问知识驱动推理机制互动脚本相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "知识驱动推理机制互动脚本",
+      "res_ch10_script_02"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_script_03",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "resource_type": "interactive_html",
+    "title": "智能选线算法流程互动脚本",
+    "description": "展示GA、NSGA-II和RL的适用问题和流程。",
+    "file_path": "chapter_10/resources/res_ch10_script_03",
+    "related_kps": [
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_051_nsga2",
+      "kp_ch10_059_reinforcement_learning"
+    ],
+    "teaching_use": "展示GA、NSGA-II和RL的适用问题和流程。",
+    "qa_use": "当学生询问智能选线算法流程互动脚本相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "智能选线算法流程互动脚本",
+      "res_ch10_script_03"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_script_04",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04",
+    "resource_type": "interactive_html",
+    "title": "数据驱动风险评估互动脚本",
+    "description": "展示数据采集、特征提取、模型训练和风险图生成流程。",
+    "file_path": "chapter_10/resources/res_ch10_script_04",
+    "related_kps": [
+      "kp_ch10_083_geological_risk_assessment",
+      "kp_ch10_088_risk_map_generation"
+    ],
+    "teaching_use": "展示数据采集、特征提取、模型训练和风险图生成流程。",
+    "qa_use": "当学生询问数据驱动风险评估互动脚本相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "数据驱动风险评估互动脚本",
+      "res_ch10_script_04"
+    ]
+  },
+  {
+    "resource_id": "res_ch10_script_05",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04",
+    "resource_type": "interactive_html",
+    "title": "路线指标推荐模型互动脚本",
+    "description": "展示线形组合、基本型曲线和S形/反向曲线推荐逻辑。",
+    "file_path": "chapter_10/resources/res_ch10_script_05",
+    "related_kps": [
+      "kp_ch10_092_alignment_indicator_recommendation"
+    ],
+    "teaching_use": "展示线形组合、基本型曲线和S形/反向曲线推荐逻辑。",
+    "qa_use": "当学生询问路线指标推荐模型互动脚本相关问题时推荐。",
+    "priority": 1,
+    "status": "placeholder",
+    "reference_aliases": [
+      "路线指标推荐模型互动脚本",
+      "res_ch10_script_05"
+    ]
+  },
+  {
+    "resource_id": "ch10_script_01",
+    "chapter_id": "ch10",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "10.1_AI驱动道路设计范式",
+    "description": "AI驱动的道路设计方法互动脚本：10.1_AI驱动道路设计范式",
+    "file_path": "assets/ch10/interactive_html/10.1_AI驱动道路设计范式.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "10.1_AI驱动道路设计范式",
+      "ch10_script_01"
+    ]
+  },
+  {
+    "resource_id": "ch10_script_02",
+    "chapter_id": "ch10",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "10.2_知识驱动道路智能设计方法",
+    "description": "AI驱动的道路设计方法互动脚本：10.2_知识驱动道路智能设计方法",
+    "file_path": "assets/ch10/interactive_html/10.2_知识驱动道路智能设计方法.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "10.2_知识驱动道路智能设计方法",
+      "ch10_script_02"
+    ]
+  },
+  {
+    "resource_id": "ch10_script_03",
+    "chapter_id": "ch10",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "10.3_算法驱动的智能选线",
+    "description": "AI驱动的道路设计方法互动脚本：10.3_算法驱动的智能选线",
+    "file_path": "assets/ch10/interactive_html/10.3_算法驱动的智能选线.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "10.3_算法驱动的智能选线",
+      "ch10_script_03"
+    ]
+  },
+  {
+    "resource_id": "ch10_script_04",
+    "chapter_id": "ch10",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "10.4_数据驱动的路线设计",
+    "description": "AI驱动的道路设计方法互动脚本：10.4_数据驱动的路线设计",
+    "file_path": "assets/ch10/interactive_html/10.4_数据驱动的路线设计.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "10.4_数据驱动的路线设计",
+      "ch10_script_04"
+    ]
+  }
+]

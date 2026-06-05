@@ -1,0 +1,62 @@
+[
+  {
+    "script_id": "ch08_script_01",
+    "resource_id": "ch08_script_01",
+    "chapter_id": "ch08",
+    "title": "8.1OpenRoads Designer参数化架构",
+    "file_path": "assets/ch08/interactive_html/8.1OpenRoads Designer参数化架构.html",
+    "interaction_theme": "8.1OpenRoads Designer参数化架构",
+    "display_objects": [
+      "实践流程",
+      "软件对象",
+      "操作任务",
+      "常见错误"
+    ],
+    "operation_steps": [
+      "打开脚本",
+      "按模块查看功能",
+      "结合操作任务定位步骤和检查项"
+    ],
+    "trigger_questions": [
+      "8.1OpenRoads Designer参数化架构怎么看？",
+      "我想看8.1OpenRoads Designer参数化架构。"
+    ],
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "extracted_labels": [],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch08_script_02",
+    "resource_id": "ch08_script_02",
+    "chapter_id": "ch08",
+    "title": "8.2ORD软件功能总览与道路设计流程",
+    "file_path": "assets/ch08/interactive_html/8.2ORD软件功能总览与道路设计流程.html",
+    "interaction_theme": "8.2ORD软件功能总览与道路设计流程",
+    "display_objects": [
+      "实践流程",
+      "软件对象",
+      "操作任务",
+      "常见错误"
+    ],
+    "operation_steps": [
+      "打开脚本",
+      "按模块查看功能",
+      "结合操作任务定位步骤和检查项"
+    ],
+    "trigger_questions": [
+      "8.2ORD软件功能总览与道路设计流程怎么看？",
+      "我想看8.2ORD软件功能总览与道路设计流程。"
+    ],
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "extracted_labels": [],
+    "status": "bound"
+  }
+]

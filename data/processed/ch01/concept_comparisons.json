@@ -1,0 +1,38 @@
+[
+  {
+    "comparison_id": "cmp_ch01_001",
+    "title": "CAD与BIM",
+    "chapter_id": "ch01",
+    "dimensions": "表达对象|CAD:二维图元、标注、图纸;BIM:构件模型、属性、语义; 数据组织|CAD:分散图纸文件;BIM:模型对象和属性数据库; 变更方式|CAD:人工同步;BIM:参数和规则联动; 交付形态|CAD:DWG/DXF图纸;BIM:模型+图纸+清单+接口",
+    "answer_use": "适用于“区别是什么”“如何比较”类问题",
+    "related_answer_cards": "按标题检索Answer_Cards",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch01_002",
+    "title": "BIM与数字孪生",
+    "chapter_id": "ch01",
+    "dimensions": "时间维度|BIM:偏静态模型;数字孪生:动态状态和运行数据; 数据来源|BIM:设计与构件属性;数字孪生:设计+施工+运维+实时感知; 核心机制|BIM:信息集成;数字孪生:虚实闭环; 应用重点|BIM:设计建模和交付;数字孪生:监测、预测和管控",
+    "answer_use": "适用于“区别是什么”“如何比较”类问题",
+    "related_answer_cards": "按标题检索Answer_Cards",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch01_003",
+    "title": "BIM与GIS",
+    "chapter_id": "ch01",
+    "dimensions": "空间尺度|BIM:构件与工程对象;GIS:区域与地理空间; 数据特点|BIM:几何和属性精细;GIS:环境和空间关系丰富; 典型用途|BIM:建模、出图、工程量;GIS:选线、评价、敏感区分析; 融合价值|形成空间—构件协同",
+    "answer_use": "适用于“区别是什么”“如何比较”类问题",
+    "related_answer_cards": "按标题检索Answer_Cards",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch01_004",
+    "title": "图纸交付与模型交付",
+    "chapter_id": "ch01",
+    "dimensions": "核心成果|图纸:二维表达;模型:构件和属性数据; 可复用性|图纸:弱;模型:强; 联动能力|图纸:人工维护;模型:规则驱动; 后续价值|模型更适合施工、运维和数字孪生",
+    "answer_use": "适用于“区别是什么”“如何比较”类问题",
+    "related_answer_cards": "按标题检索Answer_Cards",
+    "status": "checked"
+  }
+]

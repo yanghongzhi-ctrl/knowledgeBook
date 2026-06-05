@@ -1,0 +1,766 @@
+[
+  {
+    "resource_id": "res_ch04_001",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "resource_type": "table",
+    "title": "表4-1 BIM的关键技术与基本特征",
+    "file_path": "",
+    "description": "表4-1 BIM的关键技术与基本特征用于支撑第四章相关知识点的图表化理解。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图表主题时推荐作为辅助资源。",
+    "status": "structured",
+    "keywords": [
+      "表4",
+      "1",
+      "BIM的关键技术与基本特征",
+      "BIM"
+    ],
+    "reference_aliases": [
+      "表4-1",
+      "表4.1",
+      "表 4-1"
+    ],
+    "table_detail": {
+      "label": "表4-1",
+      "label_key": "4-1",
+      "title": "表4-1 BIM的关键技术与基本特征",
+      "columns": [
+        "特征名称",
+        "英文术语",
+        "特征解释与意义"
+      ],
+      "rows": [
+        {
+          "特征名称": "构件与参数化建模",
+          "英文术语": "Component & Parametric Modeling",
+          "特征解释与意义": "BIM模型由具有语义的构件组成，参数控制模型行为，几何与信息高度集成，实现动态更新与模型驱动设计。"
+        },
+        {
+          "特征名称": "信息集成与互操作",
+          "英文术语": "Information Integration & Interoperability",
+          "特征解释与意义": "结合几何、材料、工程量、运维等多维信息，基于IFC、LandXML等标准格式实现跨平台数据交互与语义一致性。"
+        },
+        {
+          "特征名称": "协同与跨专业流程",
+          "英文术语": "Collaborative& Interdisciplinary Workflow",
+          "特征解释与意义": "各专业基于统一平台协同建模，实现模型在规划、设计、施工、运维各阶段的数据连续性与逻辑一致性。"
+        },
+        {
+          "特征名称": "4D/5D集成",
+          "英文术语": "4D/5D Integration",
+          "特征解释与意义": "支持施工进度模拟（4D）与工程造价分析（5D），提升项目计划管理能力，促进资源优化配置。"
+        },
+        {
+          "特征名称": "可视化与仿真",
+          "英文术语": "Visualization & Simulation",
+          "特征解释与意义": "提供三维表达、安全评价、交通仿真等功能，增强沟通、决策与优化方案设计的技术支持。"
+        },
+        {
+          "特征名称": "平台化集成",
+          "英文术语": "Platform-based Integration",
+          "特征解释与意义": "可与GIS、CIM、运维管理系统等集成，构建数字孪生道路和全生命周期管理体系，支持多源信息的融合与调度。"
+        },
+        {
+          "特征名称": "全生命周期理念",
+          "英文术语": "Lifecycle-oriented Philosophy",
+          "特征解释与意义": "BIM强调从设计初期即构建可传承的信息资产，支持道路基础设施的全生命周期管理。"
+        }
+      ],
+      "context_before": "BIM作为工程信息化的核心体系，其关键技术与基本特征见表 4-1。",
+      "source": "output/ch04_rag_engine/reports/ch04_word_extract.txt",
+      "source_document": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "res_ch04_002",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "resource_type": "image",
+    "title": "图4-1 BIM内涵与基本特征",
+    "file_path": "assets/ch04/images/res_ch04_002.png",
+    "description": "展示BIM构件与参数化建模、信息集成、协同流程、4D/5D集成、可视化仿真、平台集成和全生命周期理念。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图表主题时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "图4",
+      "1",
+      "BIM内涵与基本特征",
+      "BIM",
+      "图4-1 BIM内涵与基本特征"
+    ],
+    "reference_aliases": [
+      "图4-1",
+      "图4.1",
+      "图 4-1"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图4-1及邻近正文人工确认绑定。"
+  },
+  {
+    "resource_id": "res_ch04_003",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "resource_type": "image",
+    "title": "图4-2 设计范式的四要素",
+    "file_path": "assets/ch04/images/res_ch04_003.png",
+    "description": "用于说明设计范式在设计思维、建模对象、协作方式和成果形态四个层面的构成。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "图4",
+      "2",
+      "设计范式的四要素",
+      "图4-2",
+      "设计范式",
+      "四要素",
+      "正向设计理念"
+    ],
+    "reference_aliases": [
+      "图4-2",
+      "图4.2",
+      "图 4-2"
+    ],
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch04/interactive_html/4.4道路BIM正向设计理念.html",
+    "source_label": "DATA.tab1.image",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "4-2"
+    },
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "formal_figure_no": "4-2"
+  },
+  {
+    "resource_id": "res_ch04_004",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "resource_type": "image",
+    "title": "图4-3 设计范式的演变过程",
+    "file_path": "assets/ch04/images/res_ch04_004.png",
+    "description": "用于说明道路设计从图纸表达、CAD辅助到BIM正向设计的范式演变。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "图4",
+      "3",
+      "设计范式的演变过程",
+      "图4-3",
+      "设计范式",
+      "演变过程",
+      "正向设计"
+    ],
+    "reference_aliases": [
+      "图4-3",
+      "图4.3",
+      "图 4-3"
+    ],
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch04/interactive_html/4.4道路BIM正向设计理念.html",
+    "source_label": "DATA.tab2.image",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "4-3"
+    },
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "formal_figure_no": "4-3"
+  },
+  {
+    "resource_id": "res_ch04_005",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "resource_type": "image",
+    "title": "图4-4 道路BIM正向设计流程",
+    "file_path": "assets/ch04/images/res_ch04_005.png",
+    "description": "用于说明道路BIM正向设计中模型驱动、规则约束、参数联动和成果交付的流程关系。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "图4",
+      "4",
+      "道路BIM正向设计流程",
+      "BIM",
+      "图4-4",
+      "道路BIM",
+      "正向设计流程",
+      "模型驱动"
+    ],
+    "reference_aliases": [
+      "图4-4",
+      "图4.4",
+      "图 4-4"
+    ],
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch04/interactive_html/4.4道路BIM正向设计理念.html",
+    "source_label": "DATA.tab3.image",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "4-4"
+    },
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "formal_figure_no": "4-4"
+  },
+  {
+    "resource_id": "res_ch04_006",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "resource_type": "image",
+    "title": "图4-5 构件层级体系及信息构成模型",
+    "file_path": "assets/ch04/images/res_ch04_006.png",
+    "description": "用于说明道路BIM构件体系的设施、子设施、构件层级组织及其信息构成。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "图4",
+      "5",
+      "构件层级体系及信息构成模型",
+      "图4-5",
+      "构件体系",
+      "层级组织",
+      "信息构成模型"
+    ],
+    "reference_aliases": [
+      "图4-5",
+      "图4.5",
+      "图 4-5"
+    ],
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch04/interactive_html/4.5道路BIM构件体系.html",
+    "source_label": "slides[1].image",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "4-5"
+    },
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "formal_figure_no": "4-5"
+  },
+  {
+    "resource_id": "res_ch04_007",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "resource_type": "table",
+    "title": "表4-2 道路工程构件分类体系",
+    "file_path": "",
+    "description": "表4-2 道路工程构件分类体系用于支撑第四章相关知识点的图表化理解。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图表主题时推荐作为辅助资源。",
+    "status": "structured",
+    "keywords": [
+      "表4",
+      "2",
+      "道路工程构件分类体系"
+    ],
+    "reference_aliases": [
+      "表4-2",
+      "表4.2",
+      "表 4-2"
+    ],
+    "table_detail": {
+      "label": "表4-2",
+      "label_key": "4-2",
+      "title": "表4-2 道路工程构件分类体系",
+      "columns": [
+        "设施",
+        "子设施",
+        "构件示例"
+      ],
+      "rows": [
+        {
+          "设施": "路线",
+          "子设施": "—",
+          "构件示例": "平面圆曲线、纵断面竖曲线"
+        },
+        {
+          "设施": "路基",
+          "子设施": "路基土石方、排水、支挡防护",
+          "构件示例": "路床、路堤 、路堑、挡土墙 、排水沟、抗滑桩、特殊路基处置构件"
+        },
+        {
+          "设施": "路面",
+          "子设施": "路面",
+          "构件示例": "面层 、基层、底基层、垫层、路缘石、中央分隔带填土"
+        },
+        {
+          "设施": "桥梁",
+          "子设施": "上部结构、下部结构、桥面系和附属工程",
+          "构件示例": "梁、梁段、桥墩、桥台、基础、支座、伸缩装置、护栏"
+        },
+        {
+          "设施": "涵洞",
+          "子设施": "洞口、洞身",
+          "构件示例": "箱节（箱涵）、混凝土管节、端墙 、翼墙、盖板 、基础"
+        },
+        {
+          "设施": "隧道",
+          "子设施": "洞口、洞身、辅助通道、防排水",
+          "构件示例": "环框、二次衬砌构件、仰拱、系统锚杆、钢架、防水板"
+        },
+        {
+          "设施": "路线交叉",
+          "子设施": "立体交叉、平面交叉",
+          "构件示例": "主线、匝道、被交道路在交叉范围内的路基、路面、桥梁、交通工程等各类构件"
+        },
+        {
+          "设施": "交通工程及沿线设施",
+          "子设施": "交通安全设施、管理设施、服务设施",
+          "构件示例": "交通标志 、交通标线 、护栏和栏杆、摄像机 、ETC门架系统 、照明灯具"
+        }
+      ],
+      "context_before": "道路工程构件分类体系通常按照工程对象的专业划分与建模需求，归纳为八大类，涵盖路线、路基、路面、桥梁、隧道、涵洞、交通工程与沿线设施构件，如表 4-2所示。",
+      "source": "output/ch04_rag_engine/reports/ch04_word_extract.txt",
+      "source_document": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "res_ch04_008",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "resource_type": "image",
+    "title": "图4-6 PRR动态驱动机制",
+    "file_path": "assets/ch04/images/res_ch04_008.png",
+    "description": "用于说明参数、规则、结果之间的动态驱动关系及道路BIM参数化设计逻辑。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "图4",
+      "6",
+      "PRR动态驱动机制",
+      "PRR",
+      "图4-6",
+      "参数",
+      "规则",
+      "结果",
+      "动态驱动机制"
+    ],
+    "reference_aliases": [
+      "图4-6",
+      "图4.6",
+      "图 4-6"
+    ],
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch04/interactive_html/4.6BIM中的参数-规则-结果机制_PPR.html",
+    "source_label": "img[alt=PRR main]",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "4-6"
+    },
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "formal_figure_no": "4-6"
+  },
+  {
+    "resource_id": "res_ch04_009",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "resource_type": "image",
+    "title": "图4-8 参数化建模的应用模式",
+    "file_path": "assets/ch04/images/res_ch04_009.png",
+    "description": "用于说明道路BIM参数化建模在模板驱动、约束驱动、规则驱动和自动化生成中的应用模式。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "图4-8",
+      "参数化建模",
+      "应用模式",
+      "模板驱动",
+      "规则驱动"
+    ],
+    "reference_aliases": [
+      "图4-8",
+      "图4.8",
+      "图 4-8"
+    ],
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch04/interactive_html/4.7道路BIM参数化建模应用模式.html",
+    "source_label": "img[alt=parameterized mode]",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "4-8"
+    },
+    "formal_figure_no": "4-8"
+  },
+  {
+    "resource_id": "res_ch04_010",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "resource_type": "image",
+    "title": "成果交付流程示意",
+    "file_path": "assets/ch04/images/res_ch04_010.png",
+    "description": "用于说明道路BIM正向设计成果表达与交付的综合流程。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "成果交付流程示意",
+      "成果交付",
+      "成果表达",
+      "交付流程",
+      "道路BIM"
+    ],
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch04/interactive_html/4.8道路BIM正向设计成果表达与交付.html",
+    "source_label": "img[alt=delivery main]",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": ""
+    },
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "reference_aliases": [
+      "成果交付流程示意",
+      "道路BIM正向设计成果表达与交付"
+    ]
+  },
+  {
+    "resource_id": "res_ch04_011",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "resource_type": "image",
+    "title": "CDE协同交付示意",
+    "file_path": "assets/ch04/images/res_ch04_011.svg",
+    "description": "展示设计单位、审查单位、施工单位与业主/运维围绕共同数据环境进行模型提交、版本校核、协同审查、批准发布和归档移交的交付闭环。",
+    "related_kps": [
+      "kp_ch04_124",
+      "kp_ch04_128",
+      "kp_ch04_129"
+    ],
+    "qa_use": "当学生问题涉及CDE、共同数据环境、协同交付、成果归档或交付闭环时推荐作为教学示意图。",
+    "status": "bound",
+    "keywords": [
+      "CDE协同交付示意",
+      "CDE",
+      "共同数据环境",
+      "协同交付",
+      "版本校核",
+      "成果归档",
+      "交付闭环"
+    ],
+    "binding_source": "generated_teaching_diagram",
+    "verification_note": "本资源为项目内补绘教学示意图，用于辅助理解CDE协同交付流程；不是正式稿原始配图，后续如取得正式素材可替换。",
+    "image_detail": {
+      "format": "svg",
+      "width": 1672,
+      "height": 941,
+      "source": "project_generated_teaching_diagram"
+    },
+    "reference_aliases": [
+      "CDE协同交付示意",
+      "共同数据环境交付示意",
+      "CDE交付流程图"
+    ]
+  },
+  {
+    "resource_id": "res_ch04_012",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "resource_type": "image",
+    "title": "LOD与LOI阶段适配示意",
+    "file_path": "assets/ch04/images/res_ch04_012.svg",
+    "description": "展示LOD几何精度与LOI信息完整度随方案、初设、施工图、施工和运维阶段逐步提高的适配关系。",
+    "related_kps": [
+      "kp_ch04_117",
+      "kp_ch04_118",
+      "kp_ch04_119"
+    ],
+    "qa_use": "当学生问题涉及LOD、LOI、模型精细度、信息深度或不同阶段模型要求时推荐作为教学示意图。",
+    "status": "bound",
+    "keywords": [
+      "LOD与LOI阶段适配示意",
+      "LOD",
+      "LOI",
+      "模型精细度",
+      "信息深度",
+      "阶段适配",
+      "几何精度"
+    ],
+    "binding_source": "generated_teaching_diagram",
+    "verification_note": "本资源为项目内补绘教学示意图，用于辅助理解LOD与LOI阶段适配关系；不是正式稿原始配图，后续如取得正式素材可替换。",
+    "image_detail": {
+      "format": "svg",
+      "width": 1672,
+      "height": 941,
+      "source": "project_generated_teaching_diagram"
+    },
+    "reference_aliases": [
+      "LOD与LOI阶段适配示意",
+      "LOD/LOI阶段适配图",
+      "模型精细度与信息深度示意"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_1",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "resource_type": "interactive_html",
+    "title": "BIM模型的概念与内涵",
+    "description": "用于辅助理解BIM模型的概念与内涵相关知识点。",
+    "related_kps": [
+      "kp_ch04_001",
+      "kp_ch04_002",
+      "kp_ch04_003",
+      "kp_ch04_004",
+      "kp_ch04_005",
+      "kp_ch04_006",
+      "kp_ch04_007",
+      "kp_ch04_008"
+    ],
+    "keywords": [
+      "BIM模型的概念与内涵",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.1BIM模型的概念与内涵.html",
+    "trigger_questions": [
+      "BIM模型的概念与内涵怎么看？",
+      "BIM模型的概念与内涵怎么操作？",
+      "我想看BIM模型的概念与内涵。"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_2",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "resource_type": "interactive_html",
+    "title": "道路BIM与建筑BIM",
+    "description": "用于辅助理解道路BIM与建筑BIM相关知识点。",
+    "related_kps": [
+      "kp_ch04_021",
+      "kp_ch04_022",
+      "kp_ch04_023",
+      "kp_ch04_024",
+      "kp_ch04_025",
+      "kp_ch04_026",
+      "kp_ch04_027",
+      "kp_ch04_028"
+    ],
+    "keywords": [
+      "道路BIM与建筑BIM",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.2道路BIM与建筑BIM.html",
+    "trigger_questions": [
+      "道路BIM与建筑BIM怎么看？",
+      "道路BIM与建筑BIM怎么操作？",
+      "我想看道路BIM与建筑BIM。"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_3",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "resource_type": "interactive_html",
+    "title": "道路BIM的协同机制与数据流转",
+    "description": "用于辅助理解道路BIM的协同机制与数据流转相关知识点。",
+    "related_kps": [
+      "kp_ch04_047",
+      "kp_ch04_048",
+      "kp_ch04_049",
+      "kp_ch04_050",
+      "kp_ch04_051",
+      "kp_ch04_052",
+      "kp_ch04_053",
+      "kp_ch04_054"
+    ],
+    "keywords": [
+      "道路BIM的协同机制与数据流转",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.3道路BIM的协同机制与数据流转.html",
+    "trigger_questions": [
+      "道路BIM的协同机制与数据流转怎么看？",
+      "道路BIM的协同机制与数据流转怎么操作？",
+      "我想看道路BIM的协同机制与数据流转。"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_4",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "resource_type": "interactive_html",
+    "title": "道路BIM正向设计理念",
+    "description": "用于辅助理解道路BIM正向设计理念相关知识点。",
+    "related_kps": [
+      "kp_ch04_066",
+      "kp_ch04_067",
+      "kp_ch04_068",
+      "kp_ch04_069",
+      "kp_ch04_070",
+      "kp_ch04_071",
+      "kp_ch04_072",
+      "kp_ch04_073"
+    ],
+    "keywords": [
+      "道路BIM正向设计理念",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.4道路BIM正向设计理念.html",
+    "trigger_questions": [
+      "道路BIM正向设计理念怎么看？",
+      "道路BIM正向设计理念怎么操作？",
+      "我想看道路BIM正向设计理念。"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_5",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "resource_type": "interactive_html",
+    "title": "道路BIM构件体系",
+    "description": "用于辅助理解道路BIM构件体系相关知识点。",
+    "related_kps": [
+      "kp_ch04_104",
+      "kp_ch04_105",
+      "kp_ch04_106",
+      "kp_ch04_107",
+      "kp_ch04_108",
+      "kp_ch04_109",
+      "kp_ch04_110",
+      "kp_ch04_111"
+    ],
+    "keywords": [
+      "道路BIM构件体系",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.5道路BIM构件体系.html",
+    "trigger_questions": [
+      "道路BIM构件体系怎么看？",
+      "道路BIM构件体系怎么操作？",
+      "我想看道路BIM构件体系。"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_6",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec06",
+    "resource_type": "interactive_html",
+    "title": "BIM中的参数-规则-结果机制_PPR",
+    "description": "用于辅助理解BIM中的参数-规则-结果机制_PPR相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "BIM中的参数",
+      "规则",
+      "结果机制",
+      "PPR",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.6BIM中的参数-规则-结果机制_PPR.html",
+    "trigger_questions": [
+      "BIM中的参数-规则-结果机制_PPR怎么看？",
+      "BIM中的参数-规则-结果机制_PPR怎么操作？",
+      "我想看BIM中的参数-规则-结果机制_PPR。"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_7",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec07",
+    "resource_type": "interactive_html",
+    "title": "道路BIM参数化建模应用模式",
+    "description": "用于辅助理解道路BIM参数化建模应用模式相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "道路BIM参数化建模应用模式",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.7道路BIM参数化建模应用模式.html",
+    "trigger_questions": [
+      "道路BIM参数化建模应用模式怎么看？",
+      "道路BIM参数化建模应用模式怎么操作？",
+      "我想看道路BIM参数化建模应用模式。"
+    ]
+  },
+  {
+    "resource_id": "ch04_script_4_8",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec08",
+    "resource_type": "interactive_html",
+    "title": "道路BIM正向设计成果表达与交付",
+    "description": "用于辅助理解道路BIM正向设计成果表达与交付相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "道路BIM正向设计成果表达与交付",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch04/interactive_html/4.8道路BIM正向设计成果表达与交付.html",
+    "trigger_questions": [
+      "道路BIM正向设计成果表达与交付怎么看？",
+      "道路BIM正向设计成果表达与交付怎么操作？",
+      "我想看道路BIM正向设计成果表达与交付。"
+    ]
+  },
+  {
+    "resource_id": "res_ch04_013",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "resource_type": "image",
+    "title": "图4-7 道路BIM参数类型及控制逻辑",
+    "file_path": "assets/ch04/images/res_ch04_013.png",
+    "description": "展示道路BIM参数类型、属性继承和联动控制逻辑。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "图4-7 道路BIM参数类型及控制逻辑",
+      "道路BIM参数类型及控制逻辑"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图4-7及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图4-7",
+      "图4.7",
+      "图 4-7"
+    ]
+  }
+]

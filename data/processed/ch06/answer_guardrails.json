@@ -1,0 +1,56 @@
+[
+  {
+    "policy_id": "ap_ch06_001",
+    "policy": "Source_Chunks 只能作为证据层，不作为主回答层。",
+    "implementation": "RAG检索优先级必须为 Operation_Tasks/Answer_Cards/Command_Cards 高于 Source_Chunks。",
+    "guardrail_id": "ap_ch06_001",
+    "title": "第六章回答约束1",
+    "rule": "Source_Chunks 只能作为证据层，不作为主回答层。",
+    "severity": "medium"
+  },
+  {
+    "policy_id": "ap_ch06_002",
+    "policy": "操作类问题必须用步骤化结构回答。",
+    "implementation": "输出必须包含操作目标、前置条件、操作步骤、结果检查。",
+    "guardrail_id": "ap_ch06_002",
+    "title": "第六章回答约束2",
+    "rule": "操作类问题必须用步骤化结构回答。",
+    "severity": "medium"
+  },
+  {
+    "policy_id": "ap_ch06_003",
+    "policy": "错误排查类问题必须给出检查顺序。",
+    "implementation": "必须包含可能原因和逐项检查流程，不得只说“重新操作”。",
+    "guardrail_id": "ap_ch06_003",
+    "title": "第六章回答约束3",
+    "rule": "错误排查类问题必须给出检查顺序。",
+    "severity": "medium"
+  },
+  {
+    "policy_id": "ap_ch06_004",
+    "policy": "视频资源按片段推荐，而不是只推荐整段视频。",
+    "implementation": "优先使用 Video_Segments 表中的 segment_id、start_time、end_time。",
+    "guardrail_id": "ap_ch06_004",
+    "title": "第六章回答约束4",
+    "rule": "视频资源按片段推荐，而不是只推荐整段视频。",
+    "severity": "medium"
+  },
+  {
+    "policy_id": "ap_ch06_005",
+    "policy": "命令行提示不直接整段输出。",
+    "implementation": "将命令提示压缩为用途、输入对象、关键选项和检查结果。",
+    "guardrail_id": "ap_ch06_005",
+    "title": "第六章回答约束5",
+    "rule": "命令行提示不直接整段输出。",
+    "severity": "medium"
+  },
+  {
+    "policy_id": "ap_ch06_006",
+    "policy": "不扩展到教材未讲授的高级插件、商业功能或版本差异。",
+    "implementation": "answer_boundary 设置为 limited，若确需补充应标注为扩展说明。",
+    "guardrail_id": "ap_ch06_006",
+    "title": "第六章回答约束6",
+    "rule": "不扩展到教材未讲授的高级插件、商业功能或版本差异。",
+    "severity": "medium"
+  }
+]

@@ -1,0 +1,5684 @@
+[
+  {
+    "test_id": "eval_ans_ch08_0001",
+    "chapter_id": "ch08",
+    "question": "ORD参数化架构是什么？",
+    "expected_answer_card": "ans_ch08_0001",
+    "expected_kps": [
+      "kp_ch08_architecture"
+    ],
+    "expected_answer_points": [
+      "ORD参数化架构是第8章道路BIM软件使用中的重要概念。",
+      "ORD以Geometry、Template、Feature为核心，把空间位置、横断面构造和对象语义组织为规则驱动的道路BIM模型。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0002",
+    "chapter_id": "ch08",
+    "question": "规则驱动几何是什么？",
+    "expected_answer_card": "ans_ch08_0002",
+    "expected_kps": [
+      "kp_ch08_geometry_rules"
+    ],
+    "expected_answer_points": [
+      "规则驱动几何是第8章道路BIM软件使用中的重要概念。",
+      "ORD几何对象不仅记录坐标，还记录创建方式、约束关系和父子依赖，从而体现设计意图。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0003",
+    "chapter_id": "ch08",
+    "question": "模板驱动建模是什么？",
+    "expected_answer_card": "ans_ch08_0003",
+    "expected_kps": [
+      "kp_ch08_template_logic"
+    ],
+    "expected_answer_points": [
+      "模板驱动建模是第8章道路BIM软件使用中的重要概念。",
+      "横断面模板通过点、组件、约束和末端条件定义断面构造，沿路线投放后生成三维廊道。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0004",
+    "chapter_id": "ch08",
+    "question": "特征语义机制是什么？",
+    "expected_answer_card": "ans_ch08_0004",
+    "expected_kps": [
+      "kp_ch08_feature_semantics"
+    ],
+    "expected_answer_points": [
+      "特征语义机制是第8章道路BIM软件使用中的重要概念。",
+      "Feature Definition把几何对象与显示样式、属性分类和成果输出规则绑定，使模型具备工程身份。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0005",
+    "chapter_id": "ch08",
+    "question": "DTM建立流程是什么？",
+    "expected_answer_card": "ans_ch08_0005",
+    "expected_kps": [
+      "kp_ch08_dtm_workflow"
+    ],
+    "expected_answer_points": [
+      "DTM建立流程是第8章道路BIM软件使用中的重要概念。",
+      "通过DWG地形图、图形过滤器和Terrain Model工具建立数字地形，作为纵断面和廊道放坡依据。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0006",
+    "chapter_id": "ch08",
+    "question": "交点法与积木法是什么？",
+    "expected_answer_card": "ans_ch08_0006",
+    "expected_kps": [
+      "kp_ch08_alignment_methods"
+    ],
+    "expected_answer_points": [
+      "交点法与积木法是第8章道路BIM软件使用中的重要概念。",
+      "交点法适合常规平面线形控制，积木法适合复杂曲线组合和局部线元拼接。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0007",
+    "chapter_id": "ch08",
+    "question": "纵断面拉坡设计是什么？",
+    "expected_answer_card": "ans_ch08_0007",
+    "expected_kps": [
+      "kp_ch08_profile_design"
+    ],
+    "expected_answer_points": [
+      "纵断面拉坡设计是第8章道路BIM软件使用中的重要概念。",
+      "纵断面设计通过Profile View、变坡点、竖曲线和控制点投影形成与路线关联的竖向设计线。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0008",
+    "chapter_id": "ch08",
+    "question": "末端条件优先级是什么？",
+    "expected_answer_card": "ans_ch08_0008",
+    "expected_kps": [
+      "kp_ch08_end_condition_priority"
+    ],
+    "expected_answer_points": [
+      "末端条件优先级是第8章道路BIM软件使用中的重要概念。",
+      "多个末端条件同时可选时，ORD按Priority顺序尝试目标连接，实现挖填方、挡墙与自然边坡的自动选择。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0009",
+    "chapter_id": "ch08",
+    "question": "廊道是平面线形、纵断面、横断面模板和地形目标的集合体，是道路BIM建模的核心成果。:廊道模型是什么？",
+    "expected_answer_card": "ans_ch08_0009",
+    "expected_kps": [
+      "kp_ch08_corridor_model"
+    ],
+    "expected_answer_points": [
+      "廊道模型是第8章道路BIM软件使用中的重要概念。",
+      "廊道是平面线形、纵断面、横断面模板和地形目标的集合体，是道路BIM建模的核心成果。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0010",
+    "chapter_id": "ch08",
+    "question": "超高关联廊道是什么？",
+    "expected_answer_card": "ans_ch08_0010",
+    "expected_kps": [
+      "kp_ch08_superelevation"
+    ],
+    "expected_answer_points": [
+      "超高关联廊道是第8章道路BIM软件使用中的重要概念。",
+      "通过超高区间、超高车道和规范文件生成超高数据，并将其关联到廊道以驱动横坡变化。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0011",
+    "chapter_id": "ch08",
+    "question": "加宽表驱动局部宽度变化是什么？",
+    "expected_answer_card": "ans_ch08_0011",
+    "expected_kps": [
+      "kp_ch08_widening"
+    ],
+    "expected_answer_points": [
+      "加宽表驱动局部宽度变化是第8章道路BIM软件使用中的重要概念。",
+      "加宽表记录曲线加宽值和渐变规则，结合点控制或廊道规则驱动道路边缘变化。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0012",
+    "chapter_id": "ch08",
+    "question": "组件数量报表是什么？",
+    "expected_answer_card": "ans_ch08_0012",
+    "expected_kps": [
+      "kp_ch08_quantity"
+    ],
+    "expected_answer_points": [
+      "组件数量报表是第8章道路BIM软件使用中的重要概念。",
+      "廊道组件可直接统计材料体积、面积和长度，体现BIM模型从几何向工程量数据的转化。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0013",
+    "chapter_id": "ch08",
+    "question": "标注样式与特征关联是什么？",
+    "expected_answer_card": "ans_ch08_0013",
+    "expected_kps": [
+      "kp_ch08_annotation"
+    ],
+    "expected_answer_points": [
+      "标注样式与特征关联是第8章道路BIM软件使用中的重要概念。",
+      "平面和纵断面标注不应手工零散绘制，而应通过Annotation Group与Feature Element关联生成。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0014",
+    "chapter_id": "ch08",
+    "question": "命名边界自动出图是什么？",
+    "expected_answer_card": "ans_ch08_0014",
+    "expected_kps": [
+      "kp_ch08_named_boundary"
+    ],
+    "expected_answer_points": [
+      "命名边界自动出图是第8章道路BIM软件使用中的重要概念。",
+      "命名边界通过绘图种子、比例和图纸选项自动切分图幅并生成平纵断面成果。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0015",
+    "chapter_id": "ch08",
+    "question": "山区二级公路ORD综合流程是什么？",
+    "expected_answer_card": "ans_ch08_0015",
+    "expected_kps": [
+      "kp_ch08_integrated_workflow"
+    ],
+    "expected_answer_points": [
+      "山区二级公路ORD综合流程是第8章道路BIM软件使用中的重要概念。",
+      "综合流程包括数模建立、平面设计、纵断面设计、模板廊道、超高加宽、工程量与成果输出。",
+      "在ORD工作流中，它用于支撑用于OpenRoads Designer道路BIM正向设计教学、操作指导和RAG。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0016",
+    "chapter_id": "ch08",
+    "question": "道路BIM设计平台是什么？",
+    "expected_answer_card": "ans_ch08_0016",
+    "expected_kps": [
+      "kp_ch08_ord"
+    ],
+    "expected_answer_points": [
+      "道路BIM设计平台是第8章道路BIM软件使用中的重要概念。",
+      "集地形、线形、模板、廊道、工程量与出图于一体的道路BIM正向设计平台。 作为本章主要软件环境，承载道路三维参数化建模和成果交付流程。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0017",
+    "chapter_id": "ch08",
+    "question": "几何是什么？",
+    "expected_answer_card": "ans_ch08_0017",
+    "expected_kps": [
+      "kp_ch08_geometry"
+    ],
+    "expected_answer_points": [
+      "几何是第8章道路BIM软件使用中的重要概念。",
+      "记录空间位置、创建方法、父子依赖与参数规则的土木几何对象。 提供路线平面、纵断面和控制线的空间骨架。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0018",
+    "chapter_id": "ch08",
+    "question": "横断面模板是什么？",
+    "expected_answer_card": "ans_ch08_0018",
+    "expected_kps": [
+      "kp_ch08_template"
+    ],
+    "expected_answer_points": [
+      "横断面模板是第8章道路BIM软件使用中的重要概念。",
+      "以点、组件、约束和末端条件组织横断面构造的参数化断面定义。 驱动廊道模型沿路线批量生成道路横断面构件。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0019",
+    "chapter_id": "ch08",
+    "question": "特征/特征定义是什么？",
+    "expected_answer_card": "ans_ch08_0019",
+    "expected_kps": [
+      "kp_ch08_feature"
+    ],
+    "expected_answer_points": [
+      "特征/特征定义是第8章道路BIM软件使用中的重要概念。",
+      "用于描述对象语义、显示样式、属性分类和建模行为的规则集合。 保证线形、组件和成果在模型、图纸与报表中的一致表达。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0020",
+    "chapter_id": "ch08",
+    "question": "规则是什么？",
+    "expected_answer_card": "ans_ch08_0020",
+    "expected_kps": [
+      "kp_ch08_rules"
+    ],
+    "expected_answer_points": [
+      "规则是第8章道路BIM软件使用中的重要概念。",
+      "ORD在几何和模板创建时保存的约束、依赖和更新逻辑。 使对象能够记忆设计意图并在上游变化时自动更新。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0021",
+    "chapter_id": "ch08",
+    "question": "父子依赖关系是什么？",
+    "expected_answer_card": "ans_ch08_0021",
+    "expected_kps": [
+      "kp_ch08_parent_child"
+    ],
+    "expected_answer_points": [
+      "父子依赖关系是第8章道路BIM软件使用中的重要概念。",
+      "父对象改变时子对象依据约束同步变化的拓扑更新机制。 用于解释ORD几何和模板点具备动态更新能力的原因。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0022",
+    "chapter_id": "ch08",
+    "question": "数字地形模型是什么？",
+    "expected_answer_card": "ans_ch08_0022",
+    "expected_kps": [
+      "kp_ch08_terrain"
+    ],
+    "expected_answer_points": [
+      "数字地形模型是第8章道路BIM软件使用中的重要概念。",
+      "由等高线、点、边界和过滤器生成的三维地形表面模型。 作为路线选线、纵断面地面线、廊道放坡和土方计算的基础。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0023",
+    "chapter_id": "ch08",
+    "question": "图形过滤器是什么？",
+    "expected_answer_card": "ans_ch08_0023",
+    "expected_kps": [
+      "kp_ch08_graphic_filter"
+    ],
+    "expected_answer_points": [
+      "图形过滤器是第8章道路BIM软件使用中的重要概念。",
+      "根据图层、颜色、线型等条件筛选地形图形并生成Terrain Model的规则。 用于从DWG地形图中提取等高线和高程点。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0024",
+    "chapter_id": "ch08",
+    "question": "平面线形/路线是什么？",
+    "expected_answer_card": "ans_ch08_0024",
+    "expected_kps": [
+      "kp_ch08_alignment"
+    ],
+    "expected_answer_points": [
+      "平面线形/路线是第8章道路BIM软件使用中的重要概念。",
+      "道路中线的平面几何对象，可包含直线、圆曲线、缓和曲线等元素。 控制道路在平面上的位置，是后续纵断面和廊道的基线。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0025",
+    "chapter_id": "ch08",
+    "question": "纵断面线形是什么？",
+    "expected_answer_card": "ans_ch08_0025",
+    "expected_kps": [
+      "kp_ch08_profile"
+    ],
+    "expected_answer_points": [
+      "纵断面线形是第8章道路BIM软件使用中的重要概念。",
+      "与路线关联的竖向设计线，包括纵坡和竖曲线。 控制廊道模型的高程变化。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0026",
+    "chapter_id": "ch08",
+    "question": "纵断面视图是什么？",
+    "expected_answer_card": "ans_ch08_0026",
+    "expected_kps": [
+      "kp_ch08_profile_view"
+    ],
+    "expected_answer_points": [
+      "纵断面视图是第8章道路BIM软件使用中的重要概念。",
+      "展示地面线、设计线和控制点的纵断面编辑环境。 用于拉坡、标注和检查纵断面设计。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0027",
+    "chapter_id": "ch08",
+    "question": "模板编辑器是什么？",
+    "expected_answer_card": "ans_ch08_0027",
+    "expected_kps": [
+      "kp_ch08_template_editor"
+    ],
+    "expected_answer_points": [
+      "模板编辑器是第8章道路BIM软件使用中的重要概念。",
+      "用于创建和测试道路横断面模板的ORD工具。 定义点、组件、约束和末端条件。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0028",
+    "chapter_id": "ch08",
+    "question": "模板点是什么？",
+    "expected_answer_card": "ans_ch08_0028",
+    "expected_kps": [
+      "kp_ch08_point"
+    ],
+    "expected_answer_points": [
+      "模板点是第8章道路BIM软件使用中的重要概念。",
+      "模板中的几何控制节点，可承载约束和名称。 控制路面边缘、边坡、边沟、结构层边界等位置。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0029",
+    "chapter_id": "ch08",
+    "question": "空点是什么？",
+    "expected_answer_card": "ans_ch08_0029",
+    "expected_kps": [
+      "kp_ch08_null_point"
+    ],
+    "expected_answer_points": [
+      "空点是第8章道路BIM软件使用中的重要概念。",
+      "不生成实体组件但用于控制几何关系和约束传递的辅助点。 用于构造复杂模板逻辑和控制末端条件。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0030",
+    "chapter_id": "ch08",
+    "question": "组件是什么？",
+    "expected_answer_card": "ans_ch08_0030",
+    "expected_kps": [
+      "kp_ch08_component"
+    ],
+    "expected_answer_points": [
+      "组件是第8章道路BIM软件使用中的重要概念。",
+      "由点和边界构成的模板实体部分，可代表路面、基层、边坡等构件。 生成廊道中的三维构件并参与工程量统计。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0031",
+    "chapter_id": "ch08",
+    "question": "末端条件是什么？",
+    "expected_answer_card": "ans_ch08_0031",
+    "expected_kps": [
+      "kp_ch08_end_condition"
+    ],
+    "expected_answer_points": [
+      "末端条件是第8章道路BIM软件使用中的重要概念。",
+      "用于使模板向目标地形或对象延伸的条件点与构造规则。 自动处理挖方、填方、挡墙、边沟等地形适配问题。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0032",
+    "chapter_id": "ch08",
+    "question": "优先级是什么？",
+    "expected_answer_card": "ans_ch08_0032",
+    "expected_kps": [
+      "kp_ch08_priority"
+    ],
+    "expected_answer_points": [
+      "优先级是第8章道路BIM软件使用中的重要概念。",
+      "多个末端条件同时可行时决定先后尝试顺序的规则。 在复杂地形中自动选择合理放坡或挡墙方案。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0033",
+    "chapter_id": "ch08",
+    "question": "约束是什么？",
+    "expected_answer_card": "ans_ch08_0033",
+    "expected_kps": [
+      "kp_ch08_constraint"
+    ],
+    "expected_answer_points": [
+      "约束是第8章道路BIM软件使用中的重要概念。",
+      "点与点之间的水平、垂直、坡度、矢量偏移等参数关系。 保证模板在不同地形和桩号条件下按规则变形。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0034",
+    "chapter_id": "ch08",
+    "question": "由平面线形、纵断面、横断面模板和地形目标共同生成的三维道路模型。 ORD道路BIM正向设计的核心成果。:廊道模型是什么？",
+    "expected_answer_card": "ans_ch08_0034",
+    "expected_kps": [
+      "kp_ch08_corridor"
+    ],
+    "expected_answer_points": [
+      "廊道模型是第8章道路BIM软件使用中的重要概念。",
+      "由平面线形、纵断面、横断面模板和地形目标共同生成的三维道路模型。 ORD道路BIM正向设计的核心成果。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0035",
+    "chapter_id": "ch08",
+    "question": "廊道基线是什么？",
+    "expected_answer_card": "ans_ch08_0035",
+    "expected_kps": [
+      "kp_ch08_baseline"
+    ],
+    "expected_answer_points": [
+      "廊道基线是第8章道路BIM软件使用中的重要概念。",
+      "廊道建模所依附的Alignment与Profile组合。 决定模板沿哪条路线和高程线生成。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0036",
+    "chapter_id": "ch08",
+    "question": "模板投放是什么？",
+    "expected_answer_card": "ans_ch08_0036",
+    "expected_kps": [
+      "kp_ch08_template_drop"
+    ],
+    "expected_answer_points": [
+      "模板投放是第8章道路BIM软件使用中的重要概念。",
+      "将某个模板按桩号范围和间距施加到廊道中的过程。 用于生成不同路段的断面结构。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0037",
+    "chapter_id": "ch08",
+    "question": "目标映射是什么？",
+    "expected_answer_card": "ans_ch08_0037",
+    "expected_kps": [
+      "kp_ch08_target_aliasing"
+    ],
+    "expected_answer_points": [
+      "目标映射是第8章道路BIM软件使用中的重要概念。",
+      "将模板末端条件或点控制目标指向地形、特征线或对象。 确保放坡、边沟、挡墙等能够正确连接目标。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0038",
+    "chapter_id": "ch08",
+    "question": "廊道过渡段是什么？",
+    "expected_answer_card": "ans_ch08_0038",
+    "expected_kps": [
+      "kp_ch08_transition"
+    ],
+    "expected_answer_points": [
+      "廊道过渡段是第8章道路BIM软件使用中的重要概念。",
+      "不同模板或宽度参数之间渐变过渡的廊道区段。 处理渐变加宽、路基宽度变化和特殊路段。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0039",
+    "chapter_id": "ch08",
+    "question": "点控制是什么？",
+    "expected_answer_card": "ans_ch08_0039",
+    "expected_kps": [
+      "kp_ch08_point_control"
+    ],
+    "expected_answer_points": [
+      "点控制是第8章道路BIM软件使用中的重要概念。",
+      "用外部几何线或特征线控制模板点位置的机制。 实现局部加宽、匝道连接或边缘控制。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0040",
+    "chapter_id": "ch08",
+    "question": "加宽表是什么？",
+    "expected_answer_card": "ans_ch08_0040",
+    "expected_kps": [
+      "kp_ch08_widening"
+    ],
+    "expected_answer_points": [
+      "加宽表是第8章道路BIM软件使用中的重要概念。",
+      "记录曲线段加宽值和渐变规则的数据表。 驱动曲线路段的自动加宽。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0041",
+    "chapter_id": "ch08",
+    "question": "超高是什么？",
+    "expected_answer_card": "ans_ch08_0041",
+    "expected_kps": [
+      "kp_ch08_superelevation"
+    ],
+    "expected_answer_points": [
+      "超高是第8章道路BIM软件使用中的重要概念。",
+      "道路横坡随曲线半径和设计速度变化的横向坡度控制。 通过超高区间、车道和规范文件关联廊道。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0042",
+    "chapter_id": "ch08",
+    "question": "超高区间是什么？",
+    "expected_answer_card": "ans_ch08_0042",
+    "expected_kps": [
+      "kp_ch08_se_section"
+    ],
+    "expected_answer_points": [
+      "超高区间是第8章道路BIM软件使用中的重要概念。",
+      "在路线范围内定义超高计算和车道组织的区段。 用于生成和管理超高数据。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0043",
+    "chapter_id": "ch08",
+    "question": "超高车道是什么？",
+    "expected_answer_card": "ans_ch08_0043",
+    "expected_kps": [
+      "kp_ch08_se_lane"
+    ],
+    "expected_answer_points": [
+      "超高车道是第8章道路BIM软件使用中的重要概念。",
+      "参与超高计算的车道对象或横向控制线。 决定每条车道的超高旋转和横坡变化。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0044",
+    "chapter_id": "ch08",
+    "question": "规范边线规则是什么？",
+    "expected_answer_card": "ans_ch08_0044",
+    "expected_kps": [
+      "kp_ch08_jtg_edge"
+    ],
+    "expected_answer_points": [
+      "规范边线规则是第8章道路BIM软件使用中的重要概念。",
+      "用于按照中国规范控制超高边线和计算规则的规则文件或配置。 支撑本地化超高计算。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0045",
+    "chapter_id": "ch08",
+    "question": "三维漫游是什么？",
+    "expected_answer_card": "ans_ch08_0045",
+    "expected_kps": [
+      "kp_ch08_drive_through"
+    ],
+    "expected_answer_points": [
+      "三维漫游是第8章道路BIM软件使用中的重要概念。",
+      "沿路线或视角检查三维模型的动态浏览工具。 用于检查廊道连续性、挡墙、边坡和空间效果。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0046",
+    "chapter_id": "ch08",
+    "question": "组件数量是什么？",
+    "expected_answer_card": "ans_ch08_0046",
+    "expected_kps": [
+      "kp_ch08_quantity"
+    ],
+    "expected_answer_points": [
+      "组件数量是第8章道路BIM软件使用中的重要概念。",
+      "根据廊道组件自动统计材料体积、面积或长度的报表。 用于输出工程量统计。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0047",
+    "chapter_id": "ch08",
+    "question": "标注样式是什么？",
+    "expected_answer_card": "ans_ch08_0047",
+    "expected_kps": [
+      "kp_ch08_annotation_style"
+    ],
+    "expected_answer_points": [
+      "标注样式是第8章道路BIM软件使用中的重要概念。",
+      "控制文字、尺寸、标签和注记外观及内容来源的规则。 用于规范平纵断面图标注。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0048",
+    "chapter_id": "ch08",
+    "question": "标注组是什么？",
+    "expected_answer_card": "ans_ch08_0048",
+    "expected_kps": [
+      "kp_ch08_annotation_group"
+    ],
+    "expected_answer_points": [
+      "标注组是第8章道路BIM软件使用中的重要概念。",
+      "一组与平面或纵断面对象关联的标注规则集合。 用于批量生成符合要求的标注。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0049",
+    "chapter_id": "ch08",
+    "question": "命名边界是什么？",
+    "expected_answer_card": "ans_ch08_0049",
+    "expected_kps": [
+      "kp_ch08_named_boundary"
+    ],
+    "expected_answer_points": [
+      "命名边界是第8章道路BIM软件使用中的重要概念。",
+      "用于自动切分图纸范围和生成图纸的边界对象。 支撑平面图和纵断面图批量出图。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0050",
+    "chapter_id": "ch08",
+    "question": "绘图种子是什么？",
+    "expected_answer_card": "ans_ch08_0050",
+    "expected_kps": [
+      "kp_ch08_drawing_seed"
+    ],
+    "expected_answer_points": [
+      "绘图种子是第8章道路BIM软件使用中的重要概念。",
+      "定义图纸类型、比例、边框、标注和视口设置的模板配置。 控制自动出图格式。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0051",
+    "chapter_id": "ch08",
+    "question": "图纸模型是什么？",
+    "expected_answer_card": "ans_ch08_0051",
+    "expected_kps": [
+      "kp_ch08_sheet"
+    ],
+    "expected_answer_points": [
+      "图纸模型是第8章道路BIM软件使用中的重要概念。",
+      "用于保存出图成果的图纸空间或图纸模型。 承接自动生成的平面图、纵断面图和横断面图。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0052",
+    "chapter_id": "ch08",
+    "question": "本地化出图工具是什么？",
+    "expected_answer_card": "ans_ch08_0052",
+    "expected_kps": [
+      "kp_ch08_cnccbim"
+    ],
+    "expected_answer_points": [
+      "本地化出图工具是第8章道路BIM软件使用中的重要概念。",
+      "中交第一公路勘察设计院研发的道路BIM本地化工具。 补充ORD在中国习惯出图方面的不足。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0053",
+    "chapter_id": "ch08",
+    "question": "DGN工程文件是什么？",
+    "expected_answer_card": "ans_ch08_0053",
+    "expected_kps": [
+      "kp_ch08_dgn"
+    ],
+    "expected_answer_points": [
+      "DGN工程文件是第8章道路BIM软件使用中的重要概念。",
+      "承载ORD模型、视图、图纸和参考文件的项目文件 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0054",
+    "chapter_id": "ch08",
+    "question": "工作空间是什么？",
+    "expected_answer_card": "ans_ch08_0054",
+    "expected_kps": [
+      "kp_ch08_workspace"
+    ],
+    "expected_answer_points": [
+      "工作空间是第8章道路BIM软件使用中的重要概念。",
+      "组织软件标准、配置、特征定义和资源库 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0055",
+    "chapter_id": "ch08",
+    "question": "工作集是什么？",
+    "expected_answer_card": "ans_ch08_0055",
+    "expected_kps": [
+      "kp_ch08_workset"
+    ],
+    "expected_answer_points": [
+      "工作集是第8章道路BIM软件使用中的重要概念。",
+      "组织具体项目文件、标准和数据路径 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0056",
+    "chapter_id": "ch08",
+    "question": "参考文件是什么？",
+    "expected_answer_card": "ans_ch08_0056",
+    "expected_kps": [
+      "kp_ch08_reference"
+    ],
+    "expected_answer_points": [
+      "参考文件是第8章道路BIM软件使用中的重要概念。",
+      "将地形、路线或外部模型引用到当前设计文件 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0057",
+    "chapter_id": "ch08",
+    "question": "设计规范是什么？",
+    "expected_answer_card": "ans_ch08_0057",
+    "expected_kps": [
+      "kp_ch08_design_standard"
+    ],
+    "expected_answer_points": [
+      "设计规范是第8章道路BIM软件使用中的重要概念。",
+      "用于检核平面和纵断面几何是否满足规范 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0058",
+    "chapter_id": "ch08",
+    "question": "特征符号是什么？",
+    "expected_answer_card": "ans_ch08_0058",
+    "expected_kps": [
+      "kp_ch08_feature_symbology"
+    ],
+    "expected_answer_points": [
+      "特征符号是第8章道路BIM软件使用中的重要概念。",
+      "控制特征对象显示方式 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0059",
+    "chapter_id": "ch08",
+    "question": "层是什么？",
+    "expected_answer_card": "ans_ch08_0059",
+    "expected_kps": [
+      "kp_ch08_level"
+    ],
+    "expected_answer_points": [
+      "层是第8章道路BIM软件使用中的重要概念。",
+      "控制图形对象分类和显示 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0060",
+    "chapter_id": "ch08",
+    "question": "影像覆盖是什么？",
+    "expected_answer_card": "ans_ch08_0060",
+    "expected_kps": [
+      "kp_ch08_drape"
+    ],
+    "expected_answer_points": [
+      "影像覆盖是第8章道路BIM软件使用中的重要概念。",
+      "将影像或纹理贴附到Terrain上 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0061",
+    "chapter_id": "ch08",
+    "question": "坡度分析是什么？",
+    "expected_answer_card": "ans_ch08_0061",
+    "expected_kps": [
+      "kp_ch08_slope_analysis"
+    ],
+    "expected_answer_points": [
+      "坡度分析是第8章道路BIM软件使用中的重要概念。",
+      "基于Terrain计算坡度分布 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0062",
+    "chapter_id": "ch08",
+    "question": "可视性分析是什么？",
+    "expected_answer_card": "ans_ch08_0062",
+    "expected_kps": [
+      "kp_ch08_visibility_analysis"
+    ],
+    "expected_answer_points": [
+      "可视性分析是第8章道路BIM软件使用中的重要概念。",
+      "检查地形和模型遮挡下的可见范围 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0063",
+    "chapter_id": "ch08",
+    "question": "平面交点是什么？",
+    "expected_answer_card": "ans_ch08_0063",
+    "expected_kps": [
+      "kp_ch08_horizontal_pi"
+    ],
+    "expected_answer_points": [
+      "平面交点是第8章道路BIM软件使用中的重要概念。",
+      "平面线形控制点 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0064",
+    "chapter_id": "ch08",
+    "question": "纵断面变坡点是什么？",
+    "expected_answer_card": "ans_ch08_0064",
+    "expected_kps": [
+      "kp_ch08_vertical_pi"
+    ],
+    "expected_answer_points": [
+      "纵断面变坡点是第8章道路BIM软件使用中的重要概念。",
+      "纵断面拉坡控制点 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0065",
+    "chapter_id": "ch08",
+    "question": "土木辅助绘图是什么？",
+    "expected_answer_card": "ans_ch08_0065",
+    "expected_kps": [
+      "kp_ch08_civil_accudraw"
+    ],
+    "expected_answer_points": [
+      "土木辅助绘图是第8章道路BIM软件使用中的重要概念。",
+      "辅助按方向、距离、偏移等创建土木几何 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0066",
+    "chapter_id": "ch08",
+    "question": "廊道参考是什么？",
+    "expected_answer_card": "ans_ch08_0066",
+    "expected_kps": [
+      "kp_ch08_corridor_reference"
+    ],
+    "expected_answer_points": [
+      "廊道参考是第8章道路BIM软件使用中的重要概念。",
+      "廊道建模所引用的外部对象 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0067",
+    "chapter_id": "ch08",
+    "question": "设计阶段是什么？",
+    "expected_answer_card": "ans_ch08_0067",
+    "expected_kps": [
+      "kp_ch08_design_stage"
+    ],
+    "expected_answer_points": [
+      "设计阶段是第8章道路BIM软件使用中的重要概念。",
+      "控制廊道处理精度和计算粒度 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0068",
+    "chapter_id": "ch08",
+    "question": "裁剪参考是什么？",
+    "expected_answer_card": "ans_ch08_0068",
+    "expected_kps": [
+      "kp_ch08_clipping_reference"
+    ],
+    "expected_answer_points": [
+      "裁剪参考是第8章道路BIM软件使用中的重要概念。",
+      "控制廊道或模型显示范围 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0069",
+    "chapter_id": "ch08",
+    "question": "横断面视图是什么？",
+    "expected_answer_card": "ans_ch08_0069",
+    "expected_kps": [
+      "kp_ch08_cross_section_view"
+    ],
+    "expected_answer_points": [
+      "横断面视图是第8章道路BIM软件使用中的重要概念。",
+      "查看廊道任意桩号横断面 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0070",
+    "chapter_id": "ch08",
+    "question": "横断面图纸是什么？",
+    "expected_answer_card": "ans_ch08_0070",
+    "expected_kps": [
+      "kp_ch08_cross_section_sheet"
+    ],
+    "expected_answer_points": [
+      "横断面图纸是第8章道路BIM软件使用中的重要概念。",
+      "输出横断面成果图 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0071",
+    "chapter_id": "ch08",
+    "question": "报表是什么？",
+    "expected_answer_card": "ans_ch08_0071",
+    "expected_kps": [
+      "kp_ch08_reports"
+    ],
+    "expected_answer_points": [
+      "报表是第8章道路BIM软件使用中的重要概念。",
+      "导出线形、廊道和工程量数据 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0072",
+    "chapter_id": "ch08",
+    "question": "PDF成果是什么？",
+    "expected_answer_card": "ans_ch08_0072",
+    "expected_kps": [
+      "kp_ch08_pdf_output"
+    ],
+    "expected_answer_points": [
+      "PDF成果是第8章道路BIM软件使用中的重要概念。",
+      "设计图纸发布格式 在相关操作任务中提供对象、参数或成果支撑。",
+      "在ORD工作流中，它用于支撑软件对象解释、参数设置、操作步骤提示、错误排查。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0073",
+    "chapter_id": "ch08",
+    "question": "创建或检查ORD项目工作环境是什么？",
+    "expected_answer_card": "ans_ch08_0073",
+    "expected_kps": [
+      "kp_ch08_task_001_workspace_setup"
+    ],
+    "expected_answer_points": [
+      "创建或检查ORD项目工作环境是第8章道路BIM软件使用中的重要概念。",
+      "建立DGN文件、工作空间、工作集、单位和规范配置，为后续BIM建模提供统一环境。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“创建或检查ORD项目工作环境怎么做”“创建或检查ORD项目工作环境步骤。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0074",
+    "chapter_id": "ch08",
+    "question": "设置ChinaCivil Metric工作空间是什么？",
+    "expected_answer_card": "ans_ch08_0074",
+    "expected_kps": [
+      "kp_ch08_task_002_set_chinacivil_metric"
+    ],
+    "expected_answer_points": [
+      "设置ChinaCivil Metric工作空间是第8章道路BIM软件使用中的重要概念。",
+      "保证单位、特征定义、图纸标准和本地化配置符合中国道路工程教学要求。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“设置ChinaCivil Metric工作空间怎么做”“设置China。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0075",
+    "chapter_id": "ch08",
+    "question": "参考地形或外部设计文件是什么？",
+    "expected_answer_card": "ans_ch08_0075",
+    "expected_kps": [
+      "kp_ch08_task_003_attach_reference"
+    ],
+    "expected_answer_points": [
+      "参考地形或外部设计文件是第8章道路BIM软件使用中的重要概念。",
+      "将地形、线形或其他专业模型作为Reference引入当前设计文件。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“参考地形或外部设计文件怎么做”“参考地形或外部设计文件步骤是什么”时优。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0076",
+    "chapter_id": "ch08",
+    "question": "为路线或模型对象分配Feature Definition是什么？",
+    "expected_answer_card": "ans_ch08_0076",
+    "expected_kps": [
+      "kp_ch08_task_004_assign_feature_definition"
+    ],
+    "expected_answer_points": [
+      "为路线或模型对象分配Feature Definition是第8章道路BIM软件使用中的重要概念。",
+      "使对象具备正确显示样式、属性分类和成果输出身份。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“为路线或模型对象分配Feature Definition怎么做”“为路。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0077",
+    "chapter_id": "ch08",
+    "question": "检查Civil Rules和依赖关系是什么？",
+    "expected_answer_card": "ans_ch08_0077",
+    "expected_kps": [
+      "kp_ch08_task_005_review_civil_rules"
+    ],
+    "expected_answer_points": [
+      "检查Civil Rules和依赖关系是第8章道路BIM软件使用中的重要概念。",
+      "查看几何对象规则、父子依赖和设计意图是否保存。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“检查Civil Rules和依赖关系怎么做”“检查Civil Rule。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0078",
+    "chapter_id": "ch08",
+    "question": "导入DWG地形图是什么？",
+    "expected_answer_card": "ans_ch08_0078",
+    "expected_kps": [
+      "kp_ch08_task_006_import_dwg_terrain"
+    ],
+    "expected_answer_points": [
+      "导入DWG地形图是第8章道路BIM软件使用中的重要概念。",
+      "将等高线、高程点、边界线等基础地形资料引入ORD。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“导入DWG地形图怎么做”“导入DWG地形图步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0079",
+    "chapter_id": "ch08",
+    "question": "创建图形过滤器是什么？",
+    "expected_answer_card": "ans_ch08_0079",
+    "expected_kps": [
+      "kp_ch08_task_007_create_graphic_filter"
+    ],
+    "expected_answer_points": [
+      "创建图形过滤器是第8章道路BIM软件使用中的重要概念。",
+      "按图层、颜色、线型等条件筛选等高线和高程点。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“创建图形过滤器怎么做”“创建图形过滤器步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0080",
+    "chapter_id": "ch08",
+    "question": "建立Terrain Model数字地形是什么？",
+    "expected_answer_card": "ans_ch08_0080",
+    "expected_kps": [
+      "kp_ch08_task_008_create_terrain_model"
+    ],
+    "expected_answer_points": [
+      "建立Terrain Model数字地形是第8章道路BIM软件使用中的重要概念。",
+      "由过滤后的地形要素生成三维数字地形模型。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“建立Terrain Model数字地形怎么做”“建立Terrain M。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0081",
+    "chapter_id": "ch08",
+    "question": "编辑地形边界是什么？",
+    "expected_answer_card": "ans_ch08_0081",
+    "expected_kps": [
+      "kp_ch08_task_009_edit_terrain_boundary"
+    ],
+    "expected_answer_points": [
+      "编辑地形边界是第8章道路BIM软件使用中的重要概念。",
+      "通过边界控制Terrain范围，避免无效地形参与计算。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“编辑地形边界怎么做”“编辑地形边界步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0082",
+    "chapter_id": "ch08",
+    "question": "进行影像覆盖显示是什么？",
+    "expected_answer_card": "ans_ch08_0082",
+    "expected_kps": [
+      "kp_ch08_task_010_drape_imagery"
+    ],
+    "expected_answer_points": [
+      "进行影像覆盖显示是第8章道路BIM软件使用中的重要概念。",
+      "将影像贴附到地形表面，提高空间认知和方案展示效果。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“进行影像覆盖显示怎么做”“进行影像覆盖显示步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0083",
+    "chapter_id": "ch08",
+    "question": "进行坡度分析是什么？",
+    "expected_answer_card": "ans_ch08_0083",
+    "expected_kps": [
+      "kp_ch08_task_011_terrain_slope_analysis"
+    ],
+    "expected_answer_points": [
+      "进行坡度分析是第8章道路BIM软件使用中的重要概念。",
+      "基于Terrain Model生成坡度分级，用于地形理解和路线判断。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“进行坡度分析怎么做”“进行坡度分析步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0084",
+    "chapter_id": "ch08",
+    "question": "进行可视性分析是什么？",
+    "expected_answer_card": "ans_ch08_0084",
+    "expected_kps": [
+      "kp_ch08_task_012_terrain_visibility_analysis"
+    ],
+    "expected_answer_points": [
+      "进行可视性分析是第8章道路BIM软件使用中的重要概念。",
+      "分析视点和地形遮挡关系，为路线或景观分析提供参考。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“进行可视性分析怎么做”“进行可视性分析步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0085",
+    "chapter_id": "ch08",
+    "question": "检查地形模型质量是什么？",
+    "expected_answer_card": "ans_ch08_0085",
+    "expected_kps": [
+      "kp_ch08_task_013_terrain_quality_check"
+    ],
+    "expected_answer_points": [
+      "检查地形模型质量是第8章道路BIM软件使用中的重要概念。",
+      "检查高程异常、孔洞、边界错误和三角网异常。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“检查地形模型质量怎么做”“检查地形模型质量步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0086",
+    "chapter_id": "ch08",
+    "question": "使用交点法创建平面线形是什么？",
+    "expected_answer_card": "ans_ch08_0086",
+    "expected_kps": [
+      "kp_ch08_task_014_create_alignment_pi"
+    ],
+    "expected_answer_points": [
+      "使用交点法创建平面线形是第8章道路BIM软件使用中的重要概念。",
+      "通过起终点、交点、曲线参数构建常规道路平面线形。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“使用交点法创建平面线形怎么做”“使用交点法创建平面线形步骤是什么”时优。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0087",
+    "chapter_id": "ch08",
+    "question": "使用积木法创建平面线形是什么？",
+    "expected_answer_card": "ans_ch08_0087",
+    "expected_kps": [
+      "kp_ch08_task_015_create_alignment_element"
+    ],
+    "expected_answer_points": [
+      "使用积木法创建平面线形是第8章道路BIM软件使用中的重要概念。",
+      "以直线、圆曲线、缓和曲线等线元拼接复杂线形。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“使用积木法创建平面线形怎么做”“使用积木法创建平面线形步骤是什么”时优。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0088",
+    "chapter_id": "ch08",
+    "question": "创建缓和曲线-圆曲线-缓和曲线组合是什么？",
+    "expected_answer_card": "ans_ch08_0088",
+    "expected_kps": [
+      "kp_ch08_task_016_create_scs_curve"
+    ],
+    "expected_answer_points": [
+      "创建缓和曲线-圆曲线-缓和曲线组合是第8章道路BIM软件使用中的重要概念。",
+      "构造符合道路设计逻辑的基本平曲线组合。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“创建缓和曲线-圆曲线-缓和曲线组合怎么做”“创建缓和曲线-圆曲线-缓和。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0089",
+    "chapter_id": "ch08",
+    "question": "创建S型曲线是什么？",
+    "expected_answer_card": "ans_ch08_0089",
+    "expected_kps": [
+      "kp_ch08_task_017_create_s_curve"
+    ],
+    "expected_answer_points": [
+      "创建S型曲线是第8章道路BIM软件使用中的重要概念。",
+      "处理反向曲线连接关系，保证线形连续性。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“创建S型曲线怎么做”“创建S型曲线步骤是什么”时优先调用。。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0090",
+    "chapter_id": "ch08",
+    "question": "创建卵形曲线或复杂曲线组合是什么？",
+    "expected_answer_card": "ans_ch08_0090",
+    "expected_kps": [
+      "kp_ch08_task_018_create_oval_curve"
+    ],
+    "expected_answer_points": [
+      "创建卵形曲线或复杂曲线组合是第8章道路BIM软件使用中的重要概念。",
+      "使用积木法或组合工具处理复杂曲线。 该任务需要结合前置数据、关键参数、检查方法和常见错误进行学习。",
+      "在ORD工作流中，它用于支撑学生询问“创建卵形曲线或复杂曲线组合怎么做”“创建卵形曲线或复杂曲线组合步骤是什。",
+      "学习时应注意"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0091",
+    "chapter_id": "ch08",
+    "question": "创建或检查ORD项目工作环境如何操作？",
+    "expected_answer_card": "ans_ch08_0091",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0092",
+    "chapter_id": "ch08",
+    "question": "设置ChinaCivil Metric工作空间如何操作？",
+    "expected_answer_card": "ans_ch08_0092",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0093",
+    "chapter_id": "ch08",
+    "question": "参考地形或外部设计文件如何操作？",
+    "expected_answer_card": "ans_ch08_0093",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0094",
+    "chapter_id": "ch08",
+    "question": "为路线或模型对象分配Feature Definition如何操作？",
+    "expected_answer_card": "ans_ch08_0094",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0095",
+    "chapter_id": "ch08",
+    "question": "检查Civil Rules和依赖关系如何操作？",
+    "expected_answer_card": "ans_ch08_0095",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0096",
+    "chapter_id": "ch08",
+    "question": "导入DWG地形图如何操作？",
+    "expected_answer_card": "ans_ch08_0096",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0097",
+    "chapter_id": "ch08",
+    "question": "创建图形过滤器如何操作？",
+    "expected_answer_card": "ans_ch08_0097",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0098",
+    "chapter_id": "ch08",
+    "question": "建立Terrain Model数字地形如何操作？",
+    "expected_answer_card": "ans_ch08_0098",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0099",
+    "chapter_id": "ch08",
+    "question": "编辑地形边界如何操作？",
+    "expected_answer_card": "ans_ch08_0099",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0100",
+    "chapter_id": "ch08",
+    "question": "进行影像覆盖显示如何操作？",
+    "expected_answer_card": "ans_ch08_0100",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0101",
+    "chapter_id": "ch08",
+    "question": "进行坡度分析如何操作？",
+    "expected_answer_card": "ans_ch08_0101",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0102",
+    "chapter_id": "ch08",
+    "question": "进行可视性分析如何操作？",
+    "expected_answer_card": "ans_ch08_0102",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0103",
+    "chapter_id": "ch08",
+    "question": "检查地形模型质量如何操作？",
+    "expected_answer_card": "ans_ch08_0103",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0104",
+    "chapter_id": "ch08",
+    "question": "使用交点法创建平面线形如何操作？",
+    "expected_answer_card": "ans_ch08_0104",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0105",
+    "chapter_id": "ch08",
+    "question": "使用积木法创建平面线形如何操作？",
+    "expected_answer_card": "ans_ch08_0105",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0106",
+    "chapter_id": "ch08",
+    "question": "创建缓和曲线-圆曲线-缓和曲线组合如何操作？",
+    "expected_answer_card": "ans_ch08_0106",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0107",
+    "chapter_id": "ch08",
+    "question": "创建S型曲线如何操作？",
+    "expected_answer_card": "ans_ch08_0107",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0108",
+    "chapter_id": "ch08",
+    "question": "创建卵形曲线或复杂曲线组合如何操作？",
+    "expected_answer_card": "ans_ch08_0108",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0109",
+    "chapter_id": "ch08",
+    "question": "编辑平面线形如何操作？",
+    "expected_answer_card": "ans_ch08_0109",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0110",
+    "chapter_id": "ch08",
+    "question": "加载与应用设计标准如何操作？",
+    "expected_answer_card": "ans_ch08_0110",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0111",
+    "chapter_id": "ch08",
+    "question": "设置路线桩号如何操作？",
+    "expected_answer_card": "ans_ch08_0111",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0112",
+    "chapter_id": "ch08",
+    "question": "输出平面线形报表如何操作？",
+    "expected_answer_card": "ans_ch08_0112",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0113",
+    "chapter_id": "ch08",
+    "question": "创建纵断面视图如何操作？",
+    "expected_answer_card": "ans_ch08_0113",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0114",
+    "chapter_id": "ch08",
+    "question": "投影高程控制点到纵断面如何操作？",
+    "expected_answer_card": "ans_ch08_0114",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0115",
+    "chapter_id": "ch08",
+    "question": "使用交点法进行纵断面拉坡如何操作？",
+    "expected_answer_card": "ans_ch08_0115",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0116",
+    "chapter_id": "ch08",
+    "question": "使用积木法创建纵断面线形如何操作？",
+    "expected_answer_card": "ans_ch08_0116",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0117",
+    "chapter_id": "ch08",
+    "question": "设置竖曲线参数如何操作？",
+    "expected_answer_card": "ans_ch08_0117",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0118",
+    "chapter_id": "ch08",
+    "question": "编辑纵断面线形如何操作？",
+    "expected_answer_card": "ans_ch08_0118",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0119",
+    "chapter_id": "ch08",
+    "question": "将纵断面设置为Active Profile如何操作？",
+    "expected_answer_card": "ans_ch08_0119",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0120",
+    "chapter_id": "ch08",
+    "question": "输出纵断面报表如何操作？",
+    "expected_answer_card": "ans_ch08_0120",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0121",
+    "chapter_id": "ch08",
+    "question": "打开模板编辑器如何操作？",
+    "expected_answer_card": "ans_ch08_0121",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0122",
+    "chapter_id": "ch08",
+    "question": "创建标准路基横断面模板如何操作？",
+    "expected_answer_card": "ans_ch08_0122",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0123",
+    "chapter_id": "ch08",
+    "question": "创建路面结构层组件如何操作？",
+    "expected_answer_card": "ans_ch08_0123",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0124",
+    "chapter_id": "ch08",
+    "question": "创建常规点与控制点如何操作？",
+    "expected_answer_card": "ans_ch08_0124",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0125",
+    "chapter_id": "ch08",
+    "question": "创建空点控制逻辑如何操作？",
+    "expected_answer_card": "ans_ch08_0125",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0126",
+    "chapter_id": "ch08",
+    "question": "设置水平、垂直、坡度和矢量偏移约束如何操作？",
+    "expected_answer_card": "ans_ch08_0126",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0127",
+    "chapter_id": "ch08",
+    "question": "创建挖方末端条件如何操作？",
+    "expected_answer_card": "ans_ch08_0127",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0128",
+    "chapter_id": "ch08",
+    "question": "创建填方末端条件如何操作？",
+    "expected_answer_card": "ans_ch08_0128",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0129",
+    "chapter_id": "ch08",
+    "question": "创建挡墙末端条件如何操作？",
+    "expected_answer_card": "ans_ch08_0129",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0130",
+    "chapter_id": "ch08",
+    "question": "设置末端条件优先级如何操作？",
+    "expected_answer_card": "ans_ch08_0130",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0131",
+    "chapter_id": "ch08",
+    "question": "测试横断面模板如何操作？",
+    "expected_answer_card": "ans_ch08_0131",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0132",
+    "chapter_id": "ch08",
+    "question": "创建道路廊道模型如何操作？",
+    "expected_answer_card": "ans_ch08_0132",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0133",
+    "chapter_id": "ch08",
+    "question": "指定廊道基线与纵断面如何操作？",
+    "expected_answer_card": "ans_ch08_0133",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0134",
+    "chapter_id": "ch08",
+    "question": "设置模板投放范围与间距如何操作？",
+    "expected_answer_card": "ans_ch08_0134",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0135",
+    "chapter_id": "ch08",
+    "question": "进行廊道目标映射如何操作？",
+    "expected_answer_card": "ans_ch08_0135",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0136",
+    "chapter_id": "ch08",
+    "question": "检查廊道横断面如何操作？",
+    "expected_answer_card": "ans_ch08_0136",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0137",
+    "chapter_id": "ch08",
+    "question": "创建廊道过渡段如何操作？",
+    "expected_answer_card": "ans_ch08_0137",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0138",
+    "chapter_id": "ch08",
+    "question": "应用点控制如何操作？",
+    "expected_answer_card": "ans_ch08_0138",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0139",
+    "chapter_id": "ch08",
+    "question": "更新廊道模型如何操作？",
+    "expected_answer_card": "ans_ch08_0139",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0140",
+    "chapter_id": "ch08",
+    "question": "编辑加宽表如何操作？",
+    "expected_answer_card": "ans_ch08_0140",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0141",
+    "chapter_id": "ch08",
+    "question": "应用加宽到廊道如何操作？",
+    "expected_answer_card": "ans_ch08_0141",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0142",
+    "chapter_id": "ch08",
+    "question": "创建超高区间如何操作？",
+    "expected_answer_card": "ans_ch08_0142",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0143",
+    "chapter_id": "ch08",
+    "question": "通过廊道法生成超高车道如何操作？",
+    "expected_answer_card": "ans_ch08_0143",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0144",
+    "chapter_id": "ch08",
+    "question": "通过线形法生成超高车道如何操作？",
+    "expected_answer_card": "ans_ch08_0144",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0145",
+    "chapter_id": "ch08",
+    "question": "加载JTG Edge超高规则如何操作？",
+    "expected_answer_card": "ans_ch08_0145",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0146",
+    "chapter_id": "ch08",
+    "question": "将超高关联到廊道如何操作？",
+    "expected_answer_card": "ans_ch08_0146",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0147",
+    "chapter_id": "ch08",
+    "question": "使用三维漫游检查模型如何操作？",
+    "expected_answer_card": "ans_ch08_0147",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0148",
+    "chapter_id": "ch08",
+    "question": "检查挡墙与边坡生成效果如何操作？",
+    "expected_answer_card": "ans_ch08_0148",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0149",
+    "chapter_id": "ch08",
+    "question": "输出组件数量报表如何操作？",
+    "expected_answer_card": "ans_ch08_0149",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0150",
+    "chapter_id": "ch08",
+    "question": "检查土石方与材料数量如何操作？",
+    "expected_answer_card": "ans_ch08_0150",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0151",
+    "chapter_id": "ch08",
+    "question": "定制标注样式如何操作？",
+    "expected_answer_card": "ans_ch08_0151",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0152",
+    "chapter_id": "ch08",
+    "question": "编辑平面标注组如何操作？",
+    "expected_answer_card": "ans_ch08_0152",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0153",
+    "chapter_id": "ch08",
+    "question": "编辑纵断面标注组如何操作？",
+    "expected_answer_card": "ans_ch08_0153",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0154",
+    "chapter_id": "ch08",
+    "question": "将标注与Feature元素关联如何操作？",
+    "expected_answer_card": "ans_ch08_0154",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0155",
+    "chapter_id": "ch08",
+    "question": "放置平面图命名边界如何操作？",
+    "expected_answer_card": "ans_ch08_0155",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0156",
+    "chapter_id": "ch08",
+    "question": "生成平面设计图如何操作？",
+    "expected_answer_card": "ans_ch08_0156",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0157",
+    "chapter_id": "ch08",
+    "question": "放置纵断面图命名边界如何操作？",
+    "expected_answer_card": "ans_ch08_0157",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0158",
+    "chapter_id": "ch08",
+    "question": "生成纵断面设计图如何操作？",
+    "expected_answer_card": "ans_ch08_0158",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0159",
+    "chapter_id": "ch08",
+    "question": "设置绘图种子与比例如何操作？",
+    "expected_answer_card": "ans_ch08_0159",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0160",
+    "chapter_id": "ch08",
+    "question": "导出PDF成果包如何操作？",
+    "expected_answer_card": "ans_ch08_0160",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0161",
+    "chapter_id": "ch08",
+    "question": "完成山区二级公路BIM正向设计如何操作？",
+    "expected_answer_card": "ans_ch08_0161",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0162",
+    "chapter_id": "ch08",
+    "question": "提交模型与成果文件如何操作？",
+    "expected_answer_card": "ans_ch08_0162",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "操作目标",
+      "前置条件",
+      "输入数据",
+      "核心步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0163",
+    "chapter_id": "ch08",
+    "question": "ORD几何与CAD图形有什么区别？",
+    "expected_answer_card": "ans_ch08_0163",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "ORD几何",
+      "CAD图形"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0164",
+    "chapter_id": "ch08",
+    "question": "Geometry、Template与Feature有什么区别？",
+    "expected_answer_card": "ans_ch08_0164",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "Geometry",
+      "Template / Feature"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0165",
+    "chapter_id": "ch08",
+    "question": "交点法与积木法有什么区别？",
+    "expected_answer_card": "ans_ch08_0165",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "交点法",
+      "积木法"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0166",
+    "chapter_id": "ch08",
+    "question": "平面线形与纵断面线形有什么区别？",
+    "expected_answer_card": "ans_ch08_0166",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "Alignment",
+      "Profile"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0167",
+    "chapter_id": "ch08",
+    "question": "常规点与空点有什么区别？",
+    "expected_answer_card": "ans_ch08_0167",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "常规点",
+      "空点"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0168",
+    "chapter_id": "ch08",
+    "question": "约束与末端条件有什么区别？",
+    "expected_answer_card": "ans_ch08_0168",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "Constraint",
+      "End Condition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0169",
+    "chapter_id": "ch08",
+    "question": "自然边坡与挡墙末端条件有什么区别？",
+    "expected_answer_card": "ans_ch08_0169",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "自然边坡",
+      "挡墙"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0170",
+    "chapter_id": "ch08",
+    "question": "模板投放与点控制有什么区别？",
+    "expected_answer_card": "ans_ch08_0170",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "Template Drop",
+      "Point Control"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0171",
+    "chapter_id": "ch08",
+    "question": "廊道法与线形法生成超高车道有什么区别？",
+    "expected_answer_card": "ans_ch08_0171",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "廊道法",
+      "线形法"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0172",
+    "chapter_id": "ch08",
+    "question": "命名边界与普通裁剪框有什么区别？",
+    "expected_answer_card": "ans_ch08_0172",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "比较对象",
+      "比较维度",
+      "Named Boundary",
+      "普通裁剪框"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "table",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0173",
+    "chapter_id": "ch08",
+    "question": "创建或检查ORD项目工作环境:工程量统计不完整怎么办？",
+    "expected_answer_card": "ans_ch08_0173",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0174",
+    "chapter_id": "ch08",
+    "question": "创建或检查ORD项目工作环境:模板结构变形异常怎么办？",
+    "expected_answer_card": "ans_ch08_0174",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0175",
+    "chapter_id": "ch08",
+    "question": "设置ChinaCivil Metric工作空间:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0175",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0176",
+    "chapter_id": "ch08",
+    "question": "设置ChinaCivil Metric工作空间:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0176",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0177",
+    "chapter_id": "ch08",
+    "question": "参考地形或外部设计文件:模板结构变形异常怎么办？",
+    "expected_answer_card": "ans_ch08_0177",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0178",
+    "chapter_id": "ch08",
+    "question": "参考地形或外部设计文件:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0178",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0179",
+    "chapter_id": "ch08",
+    "question": "为路线或模型对象分配Feature Definition:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0179",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0180",
+    "chapter_id": "ch08",
+    "question": "为路线或模型对象分配Feature Definition:模型不显示怎么办？",
+    "expected_answer_card": "ans_ch08_0180",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0181",
+    "chapter_id": "ch08",
+    "question": "检查Civil Rules和依赖关系:模型不显示怎么办？",
+    "expected_answer_card": "ans_ch08_0181",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0182",
+    "chapter_id": "ch08",
+    "question": "检查Civil Rules和依赖关系:平面线形修改后未联动怎么办？",
+    "expected_answer_card": "ans_ch08_0182",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0183",
+    "chapter_id": "ch08",
+    "question": "导入DWG地形图:工程量统计不完整怎么办？",
+    "expected_answer_card": "ans_ch08_0183",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0184",
+    "chapter_id": "ch08",
+    "question": "导入DWG地形图:加宽未应用怎么办？",
+    "expected_answer_card": "ans_ch08_0184",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0185",
+    "chapter_id": "ch08",
+    "question": "创建图形过滤器:模型不显示怎么办？",
+    "expected_answer_card": "ans_ch08_0185",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0186",
+    "chapter_id": "ch08",
+    "question": "创建图形过滤器:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0186",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0187",
+    "chapter_id": "ch08",
+    "question": "建立Terrain Model数字地形:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0187",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0188",
+    "chapter_id": "ch08",
+    "question": "建立Terrain Model数字地形:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0188",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0189",
+    "chapter_id": "ch08",
+    "question": "编辑地形边界:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0189",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0190",
+    "chapter_id": "ch08",
+    "question": "编辑地形边界:模板结构变形异常怎么办？",
+    "expected_answer_card": "ans_ch08_0190",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0191",
+    "chapter_id": "ch08",
+    "question": "进行影像覆盖显示:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0191",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0192",
+    "chapter_id": "ch08",
+    "question": "进行影像覆盖显示:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0192",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0193",
+    "chapter_id": "ch08",
+    "question": "进行坡度分析:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0193",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0194",
+    "chapter_id": "ch08",
+    "question": "进行坡度分析:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0194",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0195",
+    "chapter_id": "ch08",
+    "question": "进行可视性分析:超高横坡不正确怎么办？",
+    "expected_answer_card": "ans_ch08_0195",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0196",
+    "chapter_id": "ch08",
+    "question": "进行可视性分析:加宽未应用怎么办？",
+    "expected_answer_card": "ans_ch08_0196",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0197",
+    "chapter_id": "ch08",
+    "question": "检查地形模型质量:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0197",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0198",
+    "chapter_id": "ch08",
+    "question": "检查地形模型质量:模型不显示怎么办？",
+    "expected_answer_card": "ans_ch08_0198",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0199",
+    "chapter_id": "ch08",
+    "question": "使用交点法创建平面线形:超高横坡不正确怎么办？",
+    "expected_answer_card": "ans_ch08_0199",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0200",
+    "chapter_id": "ch08",
+    "question": "使用交点法创建平面线形:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0200",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0201",
+    "chapter_id": "ch08",
+    "question": "使用积木法创建平面线形:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0201",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0202",
+    "chapter_id": "ch08",
+    "question": "使用积木法创建平面线形:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0202",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0203",
+    "chapter_id": "ch08",
+    "question": "创建缓和曲线-圆曲线-缓和曲线组合:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0203",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0204",
+    "chapter_id": "ch08",
+    "question": "创建缓和曲线-圆曲线-缓和曲线组合:模型不显示怎么办？",
+    "expected_answer_card": "ans_ch08_0204",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0205",
+    "chapter_id": "ch08",
+    "question": "创建S型曲线:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0205",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0206",
+    "chapter_id": "ch08",
+    "question": "创建S型曲线:平面线形修改后未联动怎么办？",
+    "expected_answer_card": "ans_ch08_0206",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0207",
+    "chapter_id": "ch08",
+    "question": "创建卵形曲线或复杂曲线组合:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0207",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0208",
+    "chapter_id": "ch08",
+    "question": "创建卵形曲线或复杂曲线组合:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0208",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0209",
+    "chapter_id": "ch08",
+    "question": "编辑平面线形:工程量统计不完整怎么办？",
+    "expected_answer_card": "ans_ch08_0209",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0210",
+    "chapter_id": "ch08",
+    "question": "编辑平面线形:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0210",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0211",
+    "chapter_id": "ch08",
+    "question": "加载与应用设计标准:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0211",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0212",
+    "chapter_id": "ch08",
+    "question": "加载与应用设计标准:模板结构变形异常怎么办？",
+    "expected_answer_card": "ans_ch08_0212",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0213",
+    "chapter_id": "ch08",
+    "question": "设置路线桩号:超高横坡不正确怎么办？",
+    "expected_answer_card": "ans_ch08_0213",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0214",
+    "chapter_id": "ch08",
+    "question": "设置路线桩号:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0214",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0215",
+    "chapter_id": "ch08",
+    "question": "输出平面线形报表:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0215",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0216",
+    "chapter_id": "ch08",
+    "question": "输出平面线形报表:工程量统计不完整怎么办？",
+    "expected_answer_card": "ans_ch08_0216",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0217",
+    "chapter_id": "ch08",
+    "question": "创建纵断面视图:超高横坡不正确怎么办？",
+    "expected_answer_card": "ans_ch08_0217",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0218",
+    "chapter_id": "ch08",
+    "question": "创建纵断面视图:平面线形修改后未联动怎么办？",
+    "expected_answer_card": "ans_ch08_0218",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0219",
+    "chapter_id": "ch08",
+    "question": "投影高程控制点到纵断面:模型不显示怎么办？",
+    "expected_answer_card": "ans_ch08_0219",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0220",
+    "chapter_id": "ch08",
+    "question": "投影高程控制点到纵断面:超高横坡不正确怎么办？",
+    "expected_answer_card": "ans_ch08_0220",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0221",
+    "chapter_id": "ch08",
+    "question": "使用交点法进行纵断面拉坡:模板结构变形异常怎么办？",
+    "expected_answer_card": "ans_ch08_0221",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0222",
+    "chapter_id": "ch08",
+    "question": "使用交点法进行纵断面拉坡:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0222",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0223",
+    "chapter_id": "ch08",
+    "question": "使用积木法创建纵断面线形:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0223",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0224",
+    "chapter_id": "ch08",
+    "question": "使用积木法创建纵断面线形:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0224",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0225",
+    "chapter_id": "ch08",
+    "question": "设置竖曲线参数:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0225",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0226",
+    "chapter_id": "ch08",
+    "question": "设置竖曲线参数:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0226",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0227",
+    "chapter_id": "ch08",
+    "question": "编辑纵断面线形:超高横坡不正确怎么办？",
+    "expected_answer_card": "ans_ch08_0227",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0228",
+    "chapter_id": "ch08",
+    "question": "编辑纵断面线形:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0228",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0229",
+    "chapter_id": "ch08",
+    "question": "将纵断面设置为Active Profile:模板结构变形异常怎么办？",
+    "expected_answer_card": "ans_ch08_0229",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0230",
+    "chapter_id": "ch08",
+    "question": "将纵断面设置为Active Profile:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0230",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0231",
+    "chapter_id": "ch08",
+    "question": "输出纵断面报表:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0231",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0232",
+    "chapter_id": "ch08",
+    "question": "输出纵断面报表:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0232",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0233",
+    "chapter_id": "ch08",
+    "question": "打开模板编辑器:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0233",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0234",
+    "chapter_id": "ch08",
+    "question": "打开模板编辑器:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0234",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0235",
+    "chapter_id": "ch08",
+    "question": "创建标准路基横断面模板:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0235",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0236",
+    "chapter_id": "ch08",
+    "question": "创建标准路基横断面模板:工程量统计不完整怎么办？",
+    "expected_answer_card": "ans_ch08_0236",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0237",
+    "chapter_id": "ch08",
+    "question": "创建路面结构层组件:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0237",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0238",
+    "chapter_id": "ch08",
+    "question": "创建路面结构层组件:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0238",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0239",
+    "chapter_id": "ch08",
+    "question": "创建常规点与控制点:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0239",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0240",
+    "chapter_id": "ch08",
+    "question": "创建常规点与控制点:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0240",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0241",
+    "chapter_id": "ch08",
+    "question": "创建空点控制逻辑:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0241",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0242",
+    "chapter_id": "ch08",
+    "question": "创建空点控制逻辑:加宽未应用怎么办？",
+    "expected_answer_card": "ans_ch08_0242",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0243",
+    "chapter_id": "ch08",
+    "question": "设置水平、垂直、坡度和矢量偏移约束:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0243",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0244",
+    "chapter_id": "ch08",
+    "question": "设置水平、垂直、坡度和矢量偏移约束:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0244",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0245",
+    "chapter_id": "ch08",
+    "question": "创建挖方末端条件:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0245",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0246",
+    "chapter_id": "ch08",
+    "question": "创建挖方末端条件:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0246",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0247",
+    "chapter_id": "ch08",
+    "question": "创建填方末端条件:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0247",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0248",
+    "chapter_id": "ch08",
+    "question": "创建填方末端条件:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0248",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0249",
+    "chapter_id": "ch08",
+    "question": "创建挡墙末端条件:模板结构变形异常怎么办？",
+    "expected_answer_card": "ans_ch08_0249",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0250",
+    "chapter_id": "ch08",
+    "question": "创建挡墙末端条件:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0250",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0251",
+    "chapter_id": "ch08",
+    "question": "设置末端条件优先级:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0251",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0252",
+    "chapter_id": "ch08",
+    "question": "设置末端条件优先级:PDF输出比例不对怎么办？",
+    "expected_answer_card": "ans_ch08_0252",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0253",
+    "chapter_id": "ch08",
+    "question": "测试横断面模板:工程量统计不完整怎么办？",
+    "expected_answer_card": "ans_ch08_0253",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0254",
+    "chapter_id": "ch08",
+    "question": "测试横断面模板:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0254",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0255",
+    "chapter_id": "ch08",
+    "question": "创建道路廊道模型:纵断面图标注缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0255",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0256",
+    "chapter_id": "ch08",
+    "question": "创建道路廊道模型:廊道没有生成怎么办？",
+    "expected_answer_card": "ans_ch08_0256",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0257",
+    "chapter_id": "ch08",
+    "question": "指定廊道基线与纵断面:加宽未应用怎么办？",
+    "expected_answer_card": "ans_ch08_0257",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0258",
+    "chapter_id": "ch08",
+    "question": "指定廊道基线与纵断面:模型不显示怎么办？",
+    "expected_answer_card": "ans_ch08_0258",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0259",
+    "chapter_id": "ch08",
+    "question": "设置模板投放范围与间距:命名边界出图缺失怎么办？",
+    "expected_answer_card": "ans_ch08_0259",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0260",
+    "chapter_id": "ch08",
+    "question": "设置模板投放范围与间距:边坡不能连接地形怎么办？",
+    "expected_answer_card": "ans_ch08_0260",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0261",
+    "chapter_id": "ch08",
+    "question": "进行廊道目标映射:工程量统计不完整怎么办？",
+    "expected_answer_card": "ans_ch08_0261",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch08_0262",
+    "chapter_id": "ch08",
+    "question": "进行廊道目标映射:纵断面地面线不更新怎么办？",
+    "expected_answer_card": "ans_ch08_0262",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "错误现象",
+      "可能原因",
+      "解决步骤",
+      "对应步骤"
+    ],
+    "should_not_include": [
+      "不要直接复制教材原文",
+      "不要回答成泛泛的软件介绍。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  }
+]

@@ -1,0 +1,220 @@
+{
+  "chapter_id": "ch04",
+  "version_id": "ch04_kb_v1.0",
+  "package_path": "D:\\knowledgebase\\data\\raw\\ch04\\第4章_道路BIM正向设计的原理与方法_知识库_v1.0完备版.json",
+  "source_checksum": "50833de1b9d5c0726da383af50bddc5ea827f618a95d34016db201ff628865ec",
+  "started_at": "2026-06-04T11:41:02",
+  "finished_at": "2026-06-04T11:49:10",
+  "status": "released",
+  "table_counts": {
+    "README": 1,
+    "Chapter_Structure": 8,
+    "Source_Chunks": 130,
+    "Knowledge_Points": 135,
+    "Answer_Cards": 254,
+    "Concept_Comparison": 20,
+    "Synonyms_Questions": 1080,
+    "Knowledge_Relations": 122,
+    "Resources": 21,
+    "Exercises": 10,
+    "QA_Testset": 404,
+    "QA_Evaluation_Testset": 404,
+    "RAG_Config": 389,
+    "Embedding_Corpus": 389,
+    "Question_Routing_Rules": 6,
+    "Answer_Guardrails": 6,
+    "Quality_Checklist": 8,
+    "Interactive_Scripts": 8,
+    "Prompt_Templates": 2,
+    "Resource_Evaluation_Testset": 52,
+    "metadata": 1
+  },
+  "steps": [
+    {
+      "name": "validate",
+      "status": "passed",
+      "summary": "errors=0, warnings=0",
+      "details": {
+        "counts": {
+          "README": 1,
+          "Chapter_Structure": 8,
+          "Source_Chunks": 130,
+          "Knowledge_Points": 135,
+          "Answer_Cards": 254,
+          "Concept_Comparison": 20,
+          "Synonyms_Questions": 1080,
+          "Knowledge_Relations": 122,
+          "Resources": 21,
+          "Exercises": 10,
+          "QA_Testset": 404,
+          "QA_Evaluation_Testset": 404,
+          "RAG_Config": 389,
+          "Embedding_Corpus": 389,
+          "Question_Routing_Rules": 6,
+          "Answer_Guardrails": 6,
+          "Quality_Checklist": 8,
+          "Interactive_Scripts": 8,
+          "Prompt_Templates": 2,
+          "Resource_Evaluation_Testset": 52,
+          "metadata": 1
+        },
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "name": "quality",
+      "status": "passed",
+      "summary": "ambiguous_qa=0, duplicate_canonical=0",
+      "details": {
+        "report": "D:\\knowledgebase\\output\\ch04_rag_engine\\reports\\kb_quality_report_ch04.json",
+        "ambiguous_qa_cases": [],
+        "duplicate_canonical_questions": []
+      }
+    },
+    {
+      "name": "export",
+      "status": "passed",
+      "summary": "exported_files=13",
+      "details": {
+        "output_dir": "D:\\knowledgebase\\data\\processed\\ch04",
+        "counts": {
+          "answer_cards.json": 254,
+          "knowledge_points.json": 135,
+          "source_chunks.json": 130,
+          "qa_evaluation_testset.json": 404,
+          "resource_evaluation_testset.json": 52,
+          "rag_config.json": 389,
+          "resource_index.json": 21,
+          "interactive_scripts.json": 8,
+          "embedding_corpus.json": 389,
+          "synonym_questions.json": 1080,
+          "knowledge_relations.json": 122,
+          "concept_comparisons.json": 20,
+          "exercises.json": 10
+        }
+      }
+    },
+    {
+      "name": "sql_export",
+      "status": "passed",
+      "summary": "seed_sql_bytes=5498478",
+      "details": {
+        "seed_sql": "D:\\knowledgebase\\output\\ch04_rag_engine\\db_load\\ch04_seed.sql"
+      }
+    },
+    {
+      "name": "local_qa_evaluation",
+      "status": "passed",
+      "summary": "passed=404/404 (100.00%)",
+      "details": {
+        "total": 404,
+        "top1_hits": 404,
+        "top3_hits": 404,
+        "passed": 404,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch04_rag_engine\\reports\\eval_report_ch04.md",
+        "failures": "D:\\knowledgebase\\output\\ch04_rag_engine\\reports\\failed_cases_ch04.json"
+      }
+    },
+    {
+      "name": "local_resource_evaluation",
+      "status": "passed",
+      "summary": "passed=52/52 (100.00%)",
+      "details": {
+        "total": 52,
+        "top1_hits": 52,
+        "passed": 52,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch04_rag_engine\\reports\\resource_eval_report_ch04.md",
+        "failures": "D:\\knowledgebase\\output\\ch04_rag_engine\\reports\\resource_failed_cases_ch04.json"
+      }
+    },
+    {
+      "name": "embeddings",
+      "status": "passed",
+      "summary": "generated=389/389, dimensions=[1024]",
+      "details": {
+        "jsonl": "D:\\knowledgebase\\output\\ch04_rag_engine\\embeddings\\ch04_embedding_vectors.jsonl",
+        "sql": "D:\\knowledgebase\\output\\ch04_rag_engine\\db_load\\ch04_embedding_updates.sql",
+        "count": 389,
+        "dimensions": [
+          1024
+        ],
+        "models": [
+          "bge-m3"
+        ],
+        "by_source_type": {
+          "knowledge_point": 135,
+          "answer_card": 254
+        }
+      }
+    },
+    {
+      "name": "db_import",
+      "status": "passed",
+      "summary": "counts_ok=True, embedded_vectors=389",
+      "details": {
+        "version_id": "ch04_kb_v1.0",
+        "counts": {
+          "answer_cards": 254,
+          "knowledge_points": 135,
+          "source_chunks": 130,
+          "qa_evaluation_testset": 404,
+          "resources": 21,
+          "interactive_scripts": 8,
+          "resource_evaluation_testset": 52,
+          "embedding_corpus": 389,
+          "embedded_vectors": 389
+        },
+        "expected_counts": {
+          "answer_cards": 254,
+          "knowledge_points": 135,
+          "source_chunks": 130,
+          "qa_evaluation_testset": 404,
+          "resources": 21,
+          "interactive_scripts": 8,
+          "resource_evaluation_testset": 52,
+          "embedding_corpus": 389
+        },
+        "mismatches": {}
+      }
+    },
+    {
+      "name": "db_keyword_evaluation",
+      "status": "passed",
+      "summary": "passed=404/404 (100.00%)",
+      "details": {
+        "retriever": "keyword",
+        "total": 404,
+        "top1_hits": 404,
+        "top1_rate": 1.0,
+        "top3_hits": 404,
+        "top3_rate": 1.0,
+        "passed": 404,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "db_hybrid_evaluation",
+      "status": "passed",
+      "summary": "passed=30/30 (100.00%)",
+      "details": {
+        "retriever": "db-hybrid",
+        "total": 30,
+        "top1_hits": 30,
+        "top1_rate": 1.0,
+        "top3_hits": 30,
+        "top3_rate": 1.0,
+        "passed": 30,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "mark_released",
+      "status": "passed",
+      "summary": "version_id=ch04_kb_v1.0",
+      "details": {}
+    }
+  ]
+}

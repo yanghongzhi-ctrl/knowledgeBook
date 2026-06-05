@@ -1,0 +1,4243 @@
+{
+  "chapter_id": "ch10",
+  "title": "AI驱动的道路设计方法",
+  "raw_package": "D:\\knowledgebase\\data\\raw\\ch10\\第10章_AI驱动的道路设计方法_知识库_v1.0方法完备版.json",
+  "word_range": {
+    "start_paragraph": 4776,
+    "end_paragraph": 5224,
+    "paragraphs": 448
+  },
+  "word_characters": 24046,
+  "kb_counts": {
+    "Knowledge_Points": 98,
+    "Answer_Cards": 308,
+    "Source_Chunks": 160,
+    "Operation_Tasks": 0,
+    "Operation_Steps": 0,
+    "Common_Errors": 0
+  },
+  "source_chunk_alignment": {
+    "concept_supported": 1,
+    "missing": 13,
+    "partial": 21,
+    "exact": 125,
+    "total": 160
+  },
+  "knowledge_point_alignment": {
+    "hit": 98,
+    "miss": 0,
+    "total": 98
+  },
+  "operation_task_alignment": {
+    "hit": 0,
+    "miss": 0,
+    "total": 0
+  },
+  "answer_card_alignment": {
+    "hit": 168,
+    "miss": 140,
+    "total": 308
+  },
+  "heading_coverage": {
+    "hit": 32,
+    "miss": 0,
+    "total": 32
+  },
+  "samples": {
+    "missing_source_chunks": [
+      {
+        "chunk_id": "ch10_src_002",
+        "heading_path": "第十章 AI驱动的道路设计方法",
+        "status": "missing",
+        "support_terms": [
+          "SVM"
+        ],
+        "excerpt_preview": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以"
+      },
+      {
+        "chunk_id": "ch10_src_018",
+        "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）："
+      },
+      {
+        "chunk_id": "ch10_src_031",
+        "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+        "status": "missing",
+        "support_terms": [
+          "DEM-9IM"
+        ],
+        "excerpt_preview": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。"
+      },
+      {
+        "chunk_id": "ch10_src_034",
+        "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "（1）目标案例构建：语义一致的属性向量表示"
+      },
+      {
+        "chunk_id": "ch10_src_060",
+        "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于："
+      },
+      {
+        "chunk_id": "ch10_src_075",
+        "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "从时刻  起的折扣回报与优化目标为："
+      },
+      {
+        "chunk_id": "ch10_src_087",
+        "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。"
+      },
+      {
+        "chunk_id": "ch10_src_096",
+        "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+        "status": "missing",
+        "support_terms": [
+          "GIS"
+        ],
+        "excerpt_preview": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；"
+      },
+      {
+        "chunk_id": "ch10_src_135",
+        "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。"
+      },
+      {
+        "chunk_id": "ch10_src_140",
+        "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "当 且 ,则生成工程语义事实：，。"
+      },
+      {
+        "chunk_id": "ch10_src_144",
+        "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；"
+      },
+      {
+        "chunk_id": "ch10_src_146",
+        "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；"
+      }
+    ],
+    "kp_not_in_word": [],
+    "tasks_not_in_word": [],
+    "answers_not_in_word": [
+      {
+        "answer_id": "ans_ch10_004",
+        "canonical_question": "为什么AI不能简单理解为替代工程师？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_049",
+        "canonical_question": "监督学习和无监督学习有什么区别？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_050",
+        "canonical_question": "分类和回归分别适合解决什么问题？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_051",
+        "canonical_question": "深度学习在道路工程中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_052",
+        "canonical_question": "CNN、RNN、GAN分别适合什么任务？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_053",
+        "canonical_question": "大模型在道路工程AI中可能发挥什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_054",
+        "canonical_question": "GIS、RS和BIM在数据驱动设计中分别提供什么支持？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_057",
+        "canonical_question": "数据预处理在AI风险评估中为什么重要？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_058",
+        "canonical_question": "特征提取在地质风险预测中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_059",
+        "canonical_question": "机器学习如何生成地质风险图？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_060",
+        "canonical_question": "推荐系统如何用于路线设计？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_061",
+        "canonical_question": "协同过滤、基于内容推荐和混合推荐有什么区别？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_063",
+        "canonical_question": "线形组合类型推荐模型适用于什么场景？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_064",
+        "canonical_question": "基本型曲线推荐模型适用于什么场景？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_065",
+        "canonical_question": "S形和反向曲线指标推荐为什么需要结合工程规则？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_066",
+        "canonical_question": "人机协同设计在AI路线设计中如何体现？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_067",
+        "canonical_question": "AI道路设计系统应注意哪些局限？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_068",
+        "canonical_question": "第十章的学习主线是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_069",
+        "canonical_question": "第十章适合如何复习？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch10_081",
+        "canonical_question": "动态知识网络在道路工程AI设计中有什么作用？",
+        "word_hit": false,
+        "matched_term": ""
+      }
+    ],
+    "headings_not_in_kb": [],
+    "candidate_supplement_terms": [
+      {
+        "term": "xb",
+        "word_count": 4,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Gt",
+        "word_count": 4,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "=E",
+        "word_count": 4,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Eenv",
+        "word_count": 3,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Ssafe",
+        "word_count": 3,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Oops",
+        "word_count": 3,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Episode",
+        "word_count": 3,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Contains",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Disjoint",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "pk",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Xvert",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "xk",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "yk",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "fX",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "=C",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "cost",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "gX",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "a+",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Critic",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "rt+1",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "st+1",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "LSTM",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      }
+    ]
+  },
+  "source_rows": [
+    {
+      "chunk_id": "ch10_src_001",
+      "heading_path": "第十章 AI驱动的道路设计方法",
+      "status": "concept_supported",
+      "support_terms": [
+        "GA",
+        "MOEA/NSGA-II",
+        "MDP",
+        "DQN"
+      ],
+      "excerpt_preview": "3.理解道路选线优化问题的核心要素，包括决策变量、目标函数及约束条件（硬约束/软约束）。理解遗传算法（GA）在单目标优化（如造价最小化）中的编码、选择、交叉与变异流程，了解多目标进化算法（MOEA/NSGA-II）的原理。理解马尔可夫决策过"
+    },
+    {
+      "chunk_id": "ch10_src_002",
+      "heading_path": "第十章 AI驱动的道路设计方法",
+      "status": "missing",
+      "support_terms": [
+        "SVM"
+      ],
+      "excerpt_preview": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以"
+    },
+    {
+      "chunk_id": "ch10_src_003",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具知识化、智能化与数据化特征。其根本贡献在于：把过去高度依赖人工判断、结构化不足的"
+    },
+    {
+      "chunk_id": "ch10_src_004",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "就道路工程设计而言，AI 驱动的三类范式——知识驱动、算法驱动与数据驱动——在功能定位上各有侧重：知识驱动提供规范化、可解释的设计约束与判定依据；算法驱动承担复杂问题的优化求解，探索广阔的解空间；数据驱动依托大规模样本学习，识别潜在模式并形"
+    },
+    {
+      "chunk_id": "ch10_src_005",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "知识驱动将工程师的显性知识形式化为机器可处理的结构，包括规范—规则库、本体与知识图谱以及两类基本推理机制：基于规则的推理（RBR）与基于案例的推理（CBR）。本体与知识图谱用于建立术语—概念—关系的语义网络，例如将“涵洞”定义为“排水构造物"
+    },
+    {
+      "chunk_id": "ch10_src_006",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "传统知识库“静态、难更新”的局限，正通过检索增强生成（RAG）得到突破。RAG 作为“动态知识接入层”，把大语言模型（LLM）的生成能力与外部权威知识源的实时检索结合起来，形成“检索 → 证据拼接 → 生成”的闭环：当设计者提出问题（如“盐"
+    },
+    {
+      "chunk_id": "ch10_src_007",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "二、算法驱动：从“单次求解器”到“可编排的智能求解流程”"
+    },
+    {
+      "chunk_id": "ch10_src_008",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "算法驱动把设计看作优化与推演问题：以目标函数与约束表达工程目标与规范要求，以搜索算法在庞大方案空间中寻找“最优/近优”解。内核方法包括：图论与网络模型（把区域抽象为节点—边网络，采用最短路/最小生成树等算法）、演化与群智能算法（遗传算法、多"
+    },
+    {
+      "chunk_id": "ch10_src_009",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "算法驱动擅长三个方面：其一是大尺度搜索——在人工直觉难以穷尽的可能性空间里高效遍历与筛选；其二是复杂非线性——在地形起伏大、约束耦合强的情境下仍能稳定收敛；其三是多目标权衡——用帕累托前沿给出一组侧重不同的备选方案（如“更经济—更环保—更顺"
+    },
+    {
+      "chunk_id": "ch10_src_010",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "近年来AI算法驱动开始从“分散的算法工具”升级为AI 智能体（Agent）编排的流程。AI Agent 是能感知数字环境、进行规划与推理并调用工具（API）的软件实体。在道路设计中，它承担“算法的组织与执行体”，围绕“规划—执行—反馈”循环"
+    },
+    {
+      "chunk_id": "ch10_src_011",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "1.规划：把“为某高速公路进行线形优化”分解为可执行子任务（获取 GIS 约束、构建多目标模型、运行优化器、三维建模与评价等）；"
+    },
+    {
+      "chunk_id": "ch10_src_012",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "借助 Agent，算法驱动从“单次求解器”转向“可编排、可迭代的智能求解流程”，极大降低跨平台人工操作的冲突，强化“流程级协同”的内在一致性，但更强调由智能体来完成调度与闭环。"
+    },
+    {
+      "chunk_id": "ch10_src_013",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "数据驱动的基本思想是：利用大规模样本学习统计规律与表达模式，并将其用于预测与生成。技术谱系经历了从统计学习到深度学习的演进，当前正迈向基础模型（Foundation Models）与多模态学习。对于道路工程，这意味着模型不仅理解结构化数值（"
+    },
+    {
+      "chunk_id": "ch10_src_014",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）数据 × 知识：用规范/本体对数据模型进行结构化约束（如在损失函数或输出校核中嵌入规则），缓解“仅相关不因果”的盲点，提升结果可解释性与合规性；"
+    },
+    {
+      "chunk_id": "ch10_src_015",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "（2）数据 × 算法：用学习得到的代理模型（surrogate）加速仿真与优化，或通过奖励重构提升如强化学习的收敛效率，使“预测—优化—再预测”的闭环更高效。"
+    },
+    {
+      "chunk_id": "ch10_src_016",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设计—评价”的智能设计流程。本节以山区公路地质选线为例，阐述知识的表达方式、管理机"
+    },
+    {
+      "chunk_id": "ch10_src_017",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "传统的图形与参数模型虽能表达几何形态，但难以涵盖设计背后的规范逻辑与专家经验。因此，需要建立结构化的知识驱动设计系统，把规范条款、设计经验、空间约束与历史案例转化为可用的信息资源，在实际设计中提供及时辅助。系统的主要目标包括："
+    },
+    {
+      "chunk_id": "ch10_src_018",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）："
+    },
+    {
+      "chunk_id": "ch10_src_019",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "该模块承担对“设计知识资产”的统一建模、分类、版本控制与调用权限管理任务。涵盖以下子功能： 统一术语标准，构建多层次知识本体； 定义构件、案例、规则的分类与唯一标识；记录各类知识条目的更新过程，支持不同项目、不同时间版本的并行调用。"
+    },
+    {
+      "chunk_id": "ch10_src_020",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "该模块实现从非结构化文本、专家经验与历史项目中提取设计知识的功能，常用方法包括： 基于自然语言处理（NLP）的规范规则提取、策树与规则学习算法（如ID3/C4.5）生成推理规则、基于图结构的数据挖掘算法等。"
+    },
+    {
+      "chunk_id": "ch10_src_021",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "这是知识驱动体系的核心，支持设计过程中的智能判断与知识调用。推理方式包括："
+    },
+    {
+      "chunk_id": "ch10_src_022",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "空间关系描述设计对象之间的几何语义与拓扑特征，是支持空间推理（SRR）的基础。推荐采用 九交模型（DE-9IM）表达基本空间关系，如表 10-1。"
+    },
+    {
+      "chunk_id": "ch10_src_023",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "当前知识驱动型设计系统多依赖静态知识库，其内容更新、维护及扩展往往存在滞后性与高成本问题，为提升知识的可获取性、时效性与智能响应能力，可探索引入检索增强生成（Retrieval-Augmented Generation, RAG）机制，作为"
+    },
+    {
+      "chunk_id": "ch10_src_024",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "2.证据融合生成（Augmented Generation）：将检索到的证据与问题共同输入大型语言模型，生成回答，实现基于证据的可解释响应。"
+    },
+    {
+      "chunk_id": "ch10_src_025",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在对象内部，每个实例对象都由一系列“属性”及其对应的“值”来定义，例如 属性: 地形地貌, 值: 高原峡谷地貌。这种方式将非结构化的文本描述拆解为结构化的数据字段，为后续的相似度计算和推理奠定了基础。"
+    },
+    {
+      "chunk_id": "ch10_src_026",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "鉴于人工选择属性易受主观偏见影响，利用自然语言处理技术进行特征属性的自动提取。如采用TextRank算法对大量实例文本进行关键词提取，从统计层面归纳行业共识的关键因素。最终确定了包括地貌、岩性、水文、灾害规模等在内的11类地质选线核心属性，"
+    },
+    {
+      "chunk_id": "ch10_src_027",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "大量的实例知识库本身就是一个蕴含着潜在规律的数据资源。通过应用数据挖掘技术，可以从案例中“学习”出新的、甚至是专家未能明确表述的隐含规则。在地质选线知识库中，可以采用经典的C4.5决策树算法来实现这一目标。"
+    },
+    {
+      "chunk_id": "ch10_src_028",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "决策树的构建过程如下：首先，将实例知识库中的数据进行离散化处理（例如，将连续的坡度值划分为“缓、中、陡”等区间）。然后，以实例的特征属性作为决策树的内部节点，以最终的选线方案（如“绕避”、“隧道通过”、“桥梁跨越”）作为叶节点。C4.5算法"
+    },
+    {
+      "chunk_id": "ch10_src_029",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）标准拓扑层（DE-9IM）：基于维度扩展九交模型判定线路与地质体的基本空间关系，可用 FDO 空间过滤器实现。"
+    },
+    {
+      "chunk_id": "ch10_src_030",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（2）领域语义增强层（“坐标分区”）：在通用的拓扑模型之上，构建了一个领域专用的语义层，从而有效地将抽象的空间查询转化为具有明确工程意义的判别。"
+    },
+    {
+      "chunk_id": "ch10_src_031",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [
+        "DEM-9IM"
+      ],
+      "excerpt_preview": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。"
+    },
+    {
+      "chunk_id": "ch10_src_032",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "CBR 的核心目标是在给定设计输入（如地质条件、滑坡类型、空间位置等）的基础上，从知识案例库中检索多个最相似的历史案例，并输出以下可解释内容："
+    },
+    {
+      "chunk_id": "ch10_src_033",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "整个实例推理过程包括以下关键环节（如图 10-5）："
+    },
+    {
+      "chunk_id": "ch10_src_034",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "（1）目标案例构建：语义一致的属性向量表示"
+    },
+    {
+      "chunk_id": "ch10_src_035",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "对于枚举型字段（如滑坡类型、地貌单元），采用层级相似度模型（如树状本体结构下的路径距离或语义余弦），衡量不同枚举值之间的接近程度。"
+    },
+    {
+      "chunk_id": "ch10_src_036",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "对于文本或描述型字段（如“滑坡前缘稳定性说明”），引入基于深度学习的语义匹配模型，将自然语言段落嵌入为向量，再用余弦相似度进行比较。"
+    },
+    {
+      "chunk_id": "ch10_src_037",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "对于所有历史案例，计算目标向量与其在属性空间上的加权距离，并排序返回相似度前 K的实例。同时，输出每个相似度分值的“属性贡献度”，提示用户哪些字段决定了匹配程度。"
+    },
+    {
+      "chunk_id": "ch10_src_038",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "尽管规则推理具备良好的可解释性，但在真实场景中，地质条件与设计情境常存在不确定性，这使得规则推理系统需要具备处理模糊和冲突的能力。在实践中，可以通过CF模型与结构化策略来增强规则推理的适应性与鲁棒性。"
+    },
+    {
+      "chunk_id": "ch10_src_039",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "若存在多个前提，可以取最小值或使用乘积模型，具体策略视语义而定。"
+    },
+    {
+      "chunk_id": "ch10_src_040",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方法，核心在于将传统依赖人工经验的路线设计过程，抽象为可计算的优化问题，通过形式化"
+    },
+    {
+      "chunk_id": "ch10_src_041",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "从道路选线的空间逻辑来看，算法驱动的设计可划分为两个层次："
+    },
+    {
+      "chunk_id": "ch10_src_042",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在算法驱动的道路设计中，优化模型是整个求解过程的核心。该模型主要由四个要素构成："
+    },
+    {
+      "chunk_id": "ch10_src_043",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "目标函数用于量化评价设计方案的优劣，，涵盖工程造价、环境影响、安全性、运维成本等多个目标。为了简化优化过程，通常将环境影响、安全性等目标转化为以工程费用为指标的单目标函数，减少优化的复杂度。多目标函数可表示为："
+    },
+    {
+      "chunk_id": "ch10_src_044",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "约束条件定义了优化问题的可行解边界，确保生成的设计方案符合实际需求与限制。约束条件包括："
+    },
+    {
+      "chunk_id": "ch10_src_045",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（2）软约束：期望满足但具有一定容忍度的条件，通常反映设计中的倾向性或偏好。例如，满足视觉舒适性要求的设计指标，或尽量减少对优质耕地的占用。软约束通常通过罚函数形式整合进目标函数。"
+    },
+    {
+      "chunk_id": "ch10_src_046",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "负责在可行解空间内搜索最优或近优解，常见算法包括遗传算法、粒子群优化、强化学习等。"
+    },
+    {
+      "chunk_id": "ch10_src_047",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "结合上述四个要素，多目标优化模型可表示为："
+    },
+    {
+      "chunk_id": "ch10_src_048",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "遗传算法（Genetic Algorithm, GA）是一种模拟生物进化机制的启发式全局优化方法，适用于解决道路路线设计中高维、复杂、非线性的参数优化问题。其核心优势在于不依赖目标函数的连续性和导数信息，具备较强的全局搜索能力，能在多个可行"
+    },
+    {
+      "chunk_id": "ch10_src_049",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "遗传算法优化流程通常包括五个步骤："
+    },
+    {
+      "chunk_id": "ch10_src_050",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "依据预设的优化目标（如工程造价、综合成本等目标函数），计算每个个体的适应度；"
+    },
+    {
+      "chunk_id": "ch10_src_051",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在基于遗传算法（GA）的平面方案优化中，设计变量采用交点坐标表示。一旦确定了交点坐标，随后使用布设平曲线算法来计算圆曲线半径和缓和曲线长度。适应度函数，即优化的目标函数是综合考虑工程造价、运维费用、交通事故损失等多个因素，力求最小化总费用。"
+    },
+    {
+      "chunk_id": "ch10_src_052",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "选择操作用于确定参与交叉与变异的个体。在平面方案优化中，可采用精英选择策略，能够加快算法收敛速度，并有效避免种群早熟陷入局部最优。基本过程如下："
+    },
+    {
+      "chunk_id": "ch10_src_053",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "遗传算子包括变异算子和交叉算子。在平面方案优化中，变异算子通过调整局部线位来优化路线，而交叉算子则通过组合两个方案中的优质路段，创造出更优的整体路线。"
+    },
+    {
+      "chunk_id": "ch10_src_054",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "根据平面方案的设计特点，变异算子包括改进均匀变异算子、直线变异算子等。改进均匀变异算子通过对选定的两交点之间的基因进行调整，达到避开高费用区的作用，如图 10-8 a）所示。直线变异用于将两任意选择的交点之间的线形取直，如图 10-8 b）"
+    },
+    {
+      "chunk_id": "ch10_src_055",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "交叉算子包括简单交叉、算术交叉、启发式交叉等。简单交叉通过在父个体的随机位置进行交叉，生成的子个体有可能从父个体中继承更优的基因，如图 10-9。算术交叉算子借鉴了凸集的概念，即凸集内两点的线性组合仍然落在凸集内。算术交叉的子个体就是父个体"
+    },
+    {
+      "chunk_id": "ch10_src_056",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "三、基于多目标进化算法的路线方案优化"
+    },
+    {
+      "chunk_id": "ch10_src_057",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在单目标优化框架中，一般将工程造价、运维费用、环境影响与安全风险等多个目标，通过加权或货币化手段聚合为一个综合成本函数，便于直接求解。然而，路线方案设计是一个多目标协调过程，涉及多个相互冲突、难以公度的因素。任何单一目标的最优化，往往以牺牲"
+    },
+    {
+      "chunk_id": "ch10_src_058",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "帕累托最优：多目标问题的工程“解”"
+    },
+    {
+      "chunk_id": "ch10_src_059",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。"
+    },
+    {
+      "chunk_id": "ch10_src_060",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于："
+    },
+    {
+      "chunk_id": "ch10_src_061",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "根据这种支配关系，可以得到帕累托前沿，即一组互不支配的解，这些解代表了不同目标之间的最佳折衷，如图 10-11。通常，通过非支配排序（如 NSGA-II）来获取帕累托前沿，并使用拥挤度距离来维持解集的多样性。"
+    },
+    {
+      "chunk_id": "ch10_src_062",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "帕累托前沿不仅是解集，更是用于支持设计权衡的可视化工具，承载着工程方案多目标权衡的信息，其几何形态本身即构成重要的决策线索。例如：当前沿在某一区段斜率较大时，表示在经济性上作出小幅让步（成本略增），即可显著改善环保指标；该区段可视为“高收益"
+    },
+    {
+      "chunk_id": "ch10_src_063",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "加权和法：通过设置不同目标的权重来平衡目标间的关系；"
+    },
+    {
+      "chunk_id": "ch10_src_064",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "ε-约束法：将一个目标函数作为优化目标，其余目标作为约束；"
+    },
+    {
+      "chunk_id": "ch10_src_065",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "膝点法：选择帕累托前沿上弯曲度最大的点，即代表了最平衡的目标组合。"
+    },
+    {
+      "chunk_id": "ch10_src_066",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "这种偏好嵌入的过程帮助设计人员在多个优化目标中找到最合适的解决方案，并为后续方案评估提供清晰的对比依据。"
+    },
+    {
+      "chunk_id": "ch10_src_067",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在众多多目标进化算法中，带精英策略的非支配排序遗传算法II（Non-dominated Sorting Genetic Algorithm II, NSGA-II）因其高效性和鲁棒性而成为应用最广泛的框架之一。其核心机制可分解为三个相互关联"
+    },
+    {
+      "chunk_id": "ch10_src_068",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）计算方法：对于每个目标维度，首先对当前前沿内的所有个体进行排序。一个个体的拥挤度被定义为包含该个体的、由其在各个目标维度上的前后两个邻居所构成的超立方体的边长之和。直观地说，它衡量了个体周围解的密度。"
+    },
+    {
+      "chunk_id": "ch10_src_069",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（2）作用：位于帕累托前沿上较为稀疏区域的解，其拥挤度值会更高。在选择时，算法会优先保留拥挤度高的个体，从而鼓励种群探索和维持在前沿的各个部分，有效防止算法过早收敛到前沿的某个局部拥挤区域。"
+    },
+    {
+      "chunk_id": "ch10_src_070",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "遗传算法与多目标进化算法的区别"
+    },
+    {
+      "chunk_id": "ch10_src_071",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "多目标进化算法（MOEA）并非单目标遗传算法（GA）的简单扩展，而是在基本理念、算法机制和应用价值上的变革。它更契合道路设计这类复杂系统工程的内在要求，即在多个冲突目标之间寻求最佳平衡。"
+    },
+    {
+      "chunk_id": "ch10_src_072",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "GA（单目标）：将经济、环保、安全等目标预先加权或货币化，聚合为单一目标函数；优化围绕这一“加权和”展开。"
+    },
+    {
+      "chunk_id": "ch10_src_073",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "MOEA（多目标）：各目标作为独立、可能冲突的维度同步优化，无需事先设定权重或统一量纲。"
+    },
+    {
+      "chunk_id": "ch10_src_074",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "GA：以聚合目标的单个标量作为适应度，选择与进化仅依据这一分数排序。"
+    },
+    {
+      "chunk_id": "ch10_src_075",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "从时刻  起的折扣回报与优化目标为："
+    },
+    {
+      "chunk_id": "ch10_src_076",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "价值函数用于评估某个状态或状态-动作对的好坏程度。通过价值函数，智能体能够知道在某一状态下执行某一动作的长期回报。最常用的价值函数是状态价值函数和动作价值函数，分别定义为："
+    },
+    {
+      "chunk_id": "ch10_src_077",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "Bellman 方程为每个状态和动作定义了递推关系。具体而言，状态价值函数和动作价值函数满足以下方程："
+    },
+    {
+      "chunk_id": "ch10_src_078",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在MDP框架下，智能体的目标是找到一个最优的策略来最大化长期回报。强化学习的方法主要包括三类："
+    },
+    {
+      "chunk_id": "ch10_src_079",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在工程化的强化学习应用中，除策略更新本身外，还必须同时处理三类共性问题：其一是探索—利用的平衡，以兼顾搜索广度与学习效率；其二是约束与安全性的落实，确保训练与推理全过程始终位于可行域；其三是多目标权衡，使方案在多个目标中实现合理取舍。"
+    },
+    {
+      "chunk_id": "ch10_src_080",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（3）多目标情形：若同时考虑工程、安全性、运营经济等，可用权重标量化或向量奖励产出一组帕累托可比解，便于设计阶段进行方案抉择。"
+    },
+    {
+      "chunk_id": "ch10_src_081",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）定义环境：明确状态、动作、奖励与终止条件。"
+    },
+    {
+      "chunk_id": "ch10_src_082",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（4）策略与价值更新：依据选择的算法更新策略参数与价值网络；必要时进行目标网络软更新。"
+    },
+    {
+      "chunk_id": "ch10_src_083",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（5）重复与收敛判据：循环执行步骤（2）—（4），直到达到稳定指标（例如平均回报、约束满足率、早停条件）。"
+    },
+    {
+      "chunk_id": "ch10_src_084",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "针对上述强化学习模型，可选用任一主流RL算法进行求解。本节介绍采用DQN （Deep Q Network）算法来实现纵断面优化智能体，以说明模型的训练流程。适用于将坡度/变坡决策进行合理离散、动作空间有限的场景；其值迭代与经验回放机制有利于"
+    },
+    {
+      "chunk_id": "ch10_src_085",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "1.环境与参数初始化：读取地面高程数据，初始化仿真环境。定义状态包含当前里程、当前坡度以及后续高程等信息；动作定义为若干离散坡度调整选项。初始化DQN的价值网络参数，并构建经验回放池。"
+    },
+    {
+      "chunk_id": "ch10_src_086",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "4.决策循环（时序步）：在线路尚未到达终点站之前，反复执行以下步骤："
+    },
+    {
+      "chunk_id": "ch10_src_087",
+      "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。"
+    },
+    {
+      "chunk_id": "ch10_src_088",
+      "heading_path": "第十章 > 第四节 数据驱动的路线设计",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "传统的工程判断根植于个体有限的项目经验，而数据驱动方法则通过训练机器学习模型，将成百上千个历史项目的集体经验进行编码和量化。随着BIM、GIS、遥感与传感网络等技术的发展，路线设计所需的地理环境与工程数据日益丰富，项目全生命周期中积累的大量"
+    },
+    {
+      "chunk_id": "ch10_src_089",
+      "heading_path": "第十章 > 第四节 数据驱动的路线设计",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "监督学习通过学习带有“正确答案”（即标签）的数据集，来构建一个能够对新数据进行预测的模型。其在路线设计中的应用尤为广泛，主要体现在两个方面："
+    },
+    {
+      "chunk_id": "ch10_src_090",
+      "heading_path": "第十章 > 第四节 数据驱动的路线设计",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "当预测目标是离散的类别时，使用分类模型。一个典型的应用案例是高速公路平面线形组合的智能推荐。研究人员通过收集大量已建成高速公路的设计数据，将偏角、交点间距等几何特征作为输入，将实际采用的曲线组合类型（如“S形曲线”或“反向曲线”）作为标签，"
+    },
+    {
+      "chunk_id": "ch10_src_091",
+      "heading_path": "第十章 AI驱动的道路设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "1.理解道路设计如何从传统依赖经验、规范的模式，向知识化、智能化与数据化的AI驱动模式转变。能够区分知识驱动、算法驱动与数据驱动在功能定位上的差异及其相互融合的趋势 。了解检索增强生成（RAG）、AI智能体（Agent）等新技术如何拓展道路"
+    },
+    {
+      "chunk_id": "ch10_src_092",
+      "heading_path": "第十章 AI驱动的道路设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "2.学习如何利用本体与知识图谱构建设计领域的语义网络，以及如何将规范与案例转化为结构化的规则库与案例库。了解三种核心推理方法在选线中的应用以及检索增强生成（RAG）机制如何通过“检索-证据-生成”闭环，实现知识的动态接入 。"
+    },
+    {
+      "chunk_id": "ch10_src_093",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "第一节　AI驱动的道路设计范式"
+    },
+    {
+      "chunk_id": "ch10_src_094",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "一、知识驱动：从“静态规则库”到“动态知识网络”"
+    },
+    {
+      "chunk_id": "ch10_src_095",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "知识驱动最擅长处理强约束、强合规、可解释的判断任务：一是在 CAD/BIM 环境中进行实时规范校核与参数建议，二是在 GIS 环境中对禁限建区进行约束判别与自动避让，三是在“经验主导”的复杂情景（如特殊地质处置）中给出可追溯的专家式建议。其"
+    },
+    {
+      "chunk_id": "ch10_src_096",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "missing",
+      "support_terms": [
+        "GIS"
+      ],
+      "excerpt_preview": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；"
+    },
+    {
+      "chunk_id": "ch10_src_097",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "3.反馈：基于仿真、工程量与环境指标的评价结果，调整约束或优化参数，触发新一轮求解。"
+    },
+    {
+      "chunk_id": "ch10_src_098",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "三、数据驱动：从“相关性学习”到“多模态的预测性认知”"
+    },
+    {
+      "chunk_id": "ch10_src_099",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "数据驱动在三类任务上表现突出：其一是模式识别与风险辨识（如滑坡敏感性、地表破碎度、生态敏感区识别）；其二是参数推荐与性能预测（如线形指标推荐、交通性能指标预测）；其三是不确定性刻画（基于概率输出与置信区间，提示数据稀疏或场景外分布带来的风险"
+    },
+    {
+      "chunk_id": "ch10_src_100",
+      "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "数据驱动与知识、算法驱动存在两条融合方向："
+    },
+    {
+      "chunk_id": "ch10_src_101",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "第二节　知识驱动的道路智能设计方法"
+    },
+    {
+      "chunk_id": "ch10_src_102",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）清晰表达：将分散的设计知识（术语、关系、规则、案例）进行结构化、标准化，便于理解与共享；"
+    },
+    {
+      "chunk_id": "ch10_src_103",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（2）按需调用：通过关键词检索、空间位置关联等方式，使设计人员在需要时快速获取相关知识；"
+    },
+    {
+      "chunk_id": "ch10_src_104",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（3）智能判断：当出现方案选择或冲突时，综合规则、案例与空间信息，给出可执行的建议；"
+    },
+    {
+      "chunk_id": "ch10_src_105",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（4）过程反馈：记录判断结果与设计选择，持续完善与更新知识库。"
+    },
+    {
+      "chunk_id": "ch10_src_106",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（1）空间关系推理（SRR）：通过空间拓扑与几何关系识别设计情境，例如地质要素（滑坡等）与路线的空间关系；"
+    },
+    {
+      "chunk_id": "ch10_src_107",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（2）案例推理（CBR）：基于相似度检索历史工程案例；"
+    },
+    {
+      "chunk_id": "ch10_src_108",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（3）规则推理（RBR）：基于“前提-结论”结构执行逻辑判断。"
+    },
+    {
+      "chunk_id": "ch10_src_109",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在道路设计中，知识不仅包含参数规范和经验逻辑，还涉及空间关系与案例经验。为实现统一建模，系统采用四类知识结构："
+    },
+    {
+      "chunk_id": "ch10_src_110",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "1.本体与知识图谱（Ontology & Graph）"
+    },
+    {
+      "chunk_id": "ch10_src_111",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "该结构用于表达概念术语及其关系，建立统一语义框架，构成知识网络的基础。知识图谱形式为三元组集合："
+    },
+    {
+      "chunk_id": "ch10_src_112",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "术语节点（Term）：如 “滑坡”、“边坡”、“隧道进出口”等；"
+    },
+    {
+      "chunk_id": "ch10_src_113",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "关系边（Relation）：如 “位于（located in）”、“影响（affects）”、“适配（suitable for）”；"
+    },
+    {
+      "chunk_id": "ch10_src_114",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "属性集（Attributes）：如 “坡度=35°”、“活动性=高”；"
+    },
+    {
+      "chunk_id": "ch10_src_115",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "继承结构：如 “滑坡”是“地质灾害”的子类，构成层级语义链。"
+    },
+    {
+      "chunk_id": "ch10_src_116",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "滑坡地区选线的知识图谱示例如图 10-3所示。"
+    },
+    {
+      "chunk_id": "ch10_src_117",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "2.案例库（Case Base）"
+    },
+    {
+      "chunk_id": "ch10_src_118",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "用于存储实际工程经验，支持相似情境下的方案类比。每一案例结构如下三元组："
+    },
+    {
+      "chunk_id": "ch10_src_119",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "情境特征（Situation）：如“土质边坡 + 降雨 > 1000mm + 高填方”；"
+    },
+    {
+      "chunk_id": "ch10_src_120",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "设计方案（Design）：如“桥隧组合 + 护坡墙 + 排导系统”；"
+    },
+    {
+      "chunk_id": "ch10_src_121",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "实施效果（Outcome）：如“滑坡风险降低 + 工期节约20%”。"
+    },
+    {
+      "chunk_id": "ch10_src_122",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "所有案例均绑定空间位置信息与项目阶段、工程类别、数据来源等元属性，用于 CBR 模块的相似性检索与效果预测。"
+    },
+    {
+      "chunk_id": "ch10_src_123",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "3.规则库（Rule Base）"
+    },
+    {
+      "chunk_id": "ch10_src_124",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "规则用于编码设计逻辑与规范约束，采用“前提–结论”结构建模，即："
+    },
+    {
+      "chunk_id": "ch10_src_125",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "其中表示前提条件集合，为推理结果或推荐措施。例如：IF 滑坡活动性 = 强 AND 路线位于 = 滑坡中段 THEN 推荐选线避让 OR 采用隧道穿越。"
+    },
+    {
+      "chunk_id": "ch10_src_126",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "4.空间关系库（Spatial Relation Base）"
+    },
+    {
+      "chunk_id": "ch10_src_127",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "空间关系可存储为独立库结构，或作为规则与案例中的属性字段被引用。采用统一的关系标识符实现可复用引用。"
+    },
+    {
+      "chunk_id": "ch10_src_128",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "1.查询引发检索：面对特定设计场景或问题，系统从外部知识库（如实时更新的数字规范库、案例资料库等）中检索结构化或非结构化文本片段，作为问题  的上下文支持。"
+    },
+    {
+      "chunk_id": "ch10_src_129",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "3.源可追溯与调用管理：系统记录每次生成的证据来源、时间戳与置信度评分，保证设计师可追踪、可验证，有效控制 LLM 的“幻觉”问题。"
+    },
+    {
+      "chunk_id": "ch10_src_130",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "这类机制的引入，为设计知识系统提供了一种“半结构化+可推理”的动态增强路径。"
+    },
+    {
+      "chunk_id": "ch10_src_131",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "知识获取的任务是将规范、经验与历史数据中蕴藏的隐性知识转化为结构化、可推理的信息资源。在以公路选线设计中，知识获取工作主要聚焦于两类核心对象：实例知识与规则知识。前者提供经验类比基础，后者传达因果逻辑与决策依据。在实例知识与规则知识中，诸如"
+    },
+    {
+      "chunk_id": "ch10_src_132",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "实例知识，即源自既往项目的案例经验，实例知识的获取与建模采用了“面向对象 + 属性-值对”的混合表达方式。"
+    },
+    {
+      "chunk_id": "ch10_src_133",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "通过系统汇集既往工程与公开资料，形成面向选线的案例库。在建模上采用面向对象组织层级。例如，以“不良地质实例”为顶层类，派生“滑坡选线实例”“泥石流选线实例”等子类，每个具体项目（对象）挂载于其相应子类之下，清晰呈现知识的分类—继承关系"
+    },
+    {
+      "chunk_id": "ch10_src_134",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "规则知识代表了领域内经过验证的因果关系和处理原则，通常以“如果...那么...” (IF-THEN) 的形式表达。可采用手工获取与自动获取相结合的混合策略来构建规则知识库，以确保其全面性和深度。"
+    },
+    {
+      "chunk_id": "ch10_src_135",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。"
+    },
+    {
+      "chunk_id": "ch10_src_136",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "公路地质选线中，部分规则示例如表 10-2所示。"
+    },
+    {
+      "chunk_id": "ch10_src_137",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "知识推理的任务，是将实例知识与规则知识转化为面向设计的结论与解释，并在建模过程中实时响应。知识驱动的设计方法融合了空间关系推理（SRR）、实例推理（CBR）与规则推理（RBR）。通过对三者的协同调用与整合，最终生成一致且可解释的设计建议。"
+    },
+    {
+      "chunk_id": "ch10_src_138",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "空间关系推理（SRR）：从拓扑判定到工程语义"
+    },
+    {
+      "chunk_id": "ch10_src_139",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "空间关系推理把几何层面的相交/包含等拓扑判定，压缩为可直接参与设计决策的工程语义事实（如相对位置=前缘、高程关系=低于滑动面、分区形态=槽型），为 CBR/RBR 提供高质量输入。为此，SRR可以采用两层方法："
+    },
+    {
+      "chunk_id": "ch10_src_140",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "当 且 ,则生成工程语义事实：，。"
+    },
+    {
+      "chunk_id": "ch10_src_141",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "例如，对于一条泥石流沟，会依次存储其形成区末端、流通区末端和堆积扇外缘的关键点坐标。当SRR引擎检测到路线与该泥石流面要素相交（Intersects）时，会立即启动第二层判断：它会进一步计算路线线段与这些关键点连接而成的“分区线段”的相交关"
+    },
+    {
+      "chunk_id": "ch10_src_142",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "实例推理（CBR）：以相似经验提供可比证据"
+    },
+    {
+      "chunk_id": "ch10_src_143",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "partial",
+      "support_terms": [],
+      "excerpt_preview": "在AI驱动的智能设计体系中，实例推理（Case-Based Reasoning, CBR）是一种基于“经验复用”思路的推理机制。它通过检索与当前问题情境相似的历史案例，为设计者提供具备可比性的设计参考、证据链条与适用建议，从而有效应对“非结"
+    },
+    {
+      "chunk_id": "ch10_src_144",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；"
+    },
+    {
+      "chunk_id": "ch10_src_145",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（2）差异点定位：哪些局部特征（如地层结构、水文条件）存在实质性偏差；"
+    },
+    {
+      "chunk_id": "ch10_src_146",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；"
+    },
+    {
+      "chunk_id": "ch10_src_147",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（4）适用边界：该策略在当前情境下是否仍然有效，是否需要条件修正。"
+    },
+    {
+      "chunk_id": "ch10_src_148",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。"
+    },
+    {
+      "chunk_id": "ch10_src_149",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（2）权重计算：粗糙集驱动的属性重要度挖掘"
+    },
+    {
+      "chunk_id": "ch10_src_150",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "传统基于经验赋权的方式易受主观偏差影响。因此，可采用粗糙集（Rough Set）方法，对“条件属性”与“决策属性”（即推荐设计方案）之间的依赖关系进行建模。通过构建依赖度函数,计算各属性对方案选择的影响力，并归一化得到权重向量，作为相似度匹"
+    },
+    {
+      "chunk_id": "ch10_src_151",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（3）语义相似度计算：结构与语义的深度匹配"
+    },
+    {
+      "chunk_id": "ch10_src_152",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "（4）K-近邻检索与排序：加权综合相似度计算"
+    },
+    {
+      "chunk_id": "ch10_src_153",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "规则推理（RBR）：以产生式规则给出规范性判断"
+    },
+    {
+      "chunk_id": "ch10_src_154",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "规则推理（Rule-Based Reasoning, RBR）是一种基于“条件-动作”结构进行逻辑演绎的方法。其核心思想是：若某些条件被满足，则自动触发与之对应的动作、建议或约束，并根据推理链条中的可信度进行结果置信度评估。规则推理示例如图"
+    },
+    {
+      "chunk_id": "ch10_src_155",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "在智能化道路设计中，规则推理主要用于识别工程设计情境中可能存在的风险、规范性冲突或优化建议，尤其适用于结构清晰、依赖稳定、逻辑清楚的知识。例如："
+    },
+    {
+      "chunk_id": "ch10_src_156",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "IF 滑坡类型 = 推移型 AND 路线穿越滑动面 THEN 输出预警：严禁穿越前缘 + 优化建议（CF = 0.9）"
+    },
+    {
+      "chunk_id": "ch10_src_157",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "其中，CF（Certainty Factor）即置信度，用于表达系统对结论的可信程度。"
+    },
+    {
+      "chunk_id": "ch10_src_158",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "每条规则赋有初始置信度（Prior CF），同时每条事实也可附带来源可信度。推理过程中，系统根据证据合并规则计算结论置信度。形式化表达如下："
+    },
+    {
+      "chunk_id": "ch10_src_159",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "由于智能设计系统大多以设计输入为出发点（如“已知地质参数”），因此采用数据驱动的正向推理更为高效，支持交互式人机设计。"
+    },
+    {
+      "chunk_id": "ch10_src_160",
+      "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+      "status": "exact",
+      "support_terms": [],
+      "excerpt_preview": "优先探索能尽快导出结论的路径，适用于响应速度要求较高的设计决策场景。"
+    }
+  ],
+  "knowledge_point_rows": [
+    {
+      "id": "kp_ch10_001_ai_design_paradigm",
+      "title": "AI驱动道路设计范式",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 5
+    },
+    {
+      "id": "kp_ch10_002_knowledge_driven",
+      "title": "知识驱动设计",
+      "word_hit": true,
+      "matched_term": "知识驱动设计",
+      "kb_hit_count": 5
+    },
+    {
+      "id": "kp_ch10_003_algorithm_driven",
+      "title": "算法驱动设计",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 5
+    },
+    {
+      "id": "kp_ch10_004_data_driven",
+      "title": "数据驱动设计",
+      "word_hit": true,
+      "matched_term": "数据驱动设计",
+      "kb_hit_count": 5
+    },
+    {
+      "id": "kp_ch10_005_rag_ai_agent",
+      "title": "RAG与AI智能体",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_006_knowledge_network",
+      "title": "动态知识网络",
+      "word_hit": true,
+      "matched_term": "动态知识网络",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_007_intelligent_solver_flow",
+      "title": "可编排智能求解流程",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_008_multimodal_prediction",
+      "title": "多模态预测性认知",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_009_knowledge_system_structure",
+      "title": "知识驱动系统结构",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_010_knowledge_management_module",
+      "title": "知识管理模块",
+      "word_hit": true,
+      "matched_term": "知识管理模块",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_011_knowledge_acquisition_module",
+      "title": "知识获取与挖掘模块",
+      "word_hit": true,
+      "matched_term": "知识获取与挖掘模块",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_012_design_reasoning_module",
+      "title": "设计推理模块",
+      "word_hit": true,
+      "matched_term": "设计推理模块",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_013_ontology_graph",
+      "title": "本体与知识图谱",
+      "word_hit": true,
+      "matched_term": "本体与知识图谱",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_014_term_node",
+      "title": "术语节点",
+      "word_hit": true,
+      "matched_term": "术语节点",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_015_case_base",
+      "title": "案例库",
+      "word_hit": true,
+      "matched_term": "案例库",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_016_rule_base",
+      "title": "规则库",
+      "word_hit": true,
+      "matched_term": "规则库",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_017_spatial_relation_base",
+      "title": "空间关系库",
+      "word_hit": true,
+      "matched_term": "空间关系库",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_018_nine_intersection_model",
+      "title": "九交模型",
+      "word_hit": true,
+      "matched_term": "九交模型",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_019_case_knowledge_acquisition",
+      "title": "实例知识获取",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_020_object_oriented_modeling",
+      "title": "面向对象建模",
+      "word_hit": true,
+      "matched_term": "面向对象建模",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_021_attribute_value_representation",
+      "title": "属性—值对表达",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_022_rule_knowledge_acquisition",
+      "title": "规则知识获取",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_023_manual_rule_acquisition",
+      "title": "手工规则获取",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_024_automatic_rule_acquisition",
+      "title": "自动规则获取",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_025_spatial_relation_reasoning",
+      "title": "空间关系推理（SRR）",
+      "word_hit": true,
+      "matched_term": "空间关系推理（SRR）",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_026_case_based_reasoning",
+      "title": "案例推理（CBR）",
+      "word_hit": true,
+      "matched_term": "案例推理（CBR）",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_027_rule_based_reasoning",
+      "title": "规则推理（RBR）",
+      "word_hit": true,
+      "matched_term": "规则推理（RBR）",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_028_cbr_similarity",
+      "title": "CBR相似度计算",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_029_rough_set_weighting",
+      "title": "粗糙集属性权重",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_030_knn_case_retrieval",
+      "title": "K近邻案例检索",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_031_rbr_cf_model",
+      "title": "规则推理CF模型",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_032_forward_chaining",
+      "title": "正向链式推理",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_033_dfs_search_strategy",
+      "title": "深度优先搜索策略",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_034_conflict_resolution",
+      "title": "冲突消解机制",
+      "word_hit": true,
+      "matched_term": "冲突消解机制",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_035_intelligent_route_selection",
+      "title": "智能选线",
+      "word_hit": true,
+      "matched_term": "智能选线",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_036_corridor_level_optimization",
+      "title": "走廊带层次优化",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_037_alignment_level_optimization",
+      "title": "路线方案层次优化",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_038_decision_variables",
+      "title": "决策变量",
+      "word_hit": true,
+      "matched_term": "决策变量",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_039_objective_function",
+      "title": "目标函数",
+      "word_hit": true,
+      "matched_term": "目标函数",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_040_constraints",
+      "title": "约束条件",
+      "word_hit": true,
+      "matched_term": "约束条件",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_041_hard_soft_constraints",
+      "title": "硬约束与软约束",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_042_multi_objective_optimization_model",
+      "title": "多目标优化模型",
+      "word_hit": true,
+      "matched_term": "多目标优化模型",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_043_genetic_algorithm",
+      "title": "遗传算法（GA）",
+      "word_hit": true,
+      "matched_term": "遗传算法（GA）",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_044_chromosome_encoding",
+      "title": "染色体编码",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_045_fitness_evaluation",
+      "title": "适应度评估",
+      "word_hit": true,
+      "matched_term": "适应度评估",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_046_selection_mechanism",
+      "title": "选择机制",
+      "word_hit": true,
+      "matched_term": "选择机制",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_047_crossover_mutation",
+      "title": "交叉与变异",
+      "word_hit": true,
+      "matched_term": "交叉与变异",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_048_ga_stop_rule",
+      "title": "GA停止规则",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_049_pareto_optimality",
+      "title": "帕累托最优",
+      "word_hit": true,
+      "matched_term": "帕累托最优",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_050_pareto_front",
+      "title": "帕累托前沿",
+      "word_hit": true,
+      "matched_term": "帕累托前沿",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_051_nsga2",
+      "title": "NSGA-II",
+      "word_hit": true,
+      "matched_term": "NSGA-II",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_052_non_dominated_sorting",
+      "title": "非支配排序",
+      "word_hit": true,
+      "matched_term": "非支配排序",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_053_crowding_distance",
+      "title": "拥挤度计算",
+      "word_hit": true,
+      "matched_term": "拥挤度计算",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_054_elite_selection",
+      "title": "精英选择策略",
+      "word_hit": true,
+      "matched_term": "精英选择策略",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_055_weighted_sum_method",
+      "title": "加权和法",
+      "word_hit": true,
+      "matched_term": "加权和法",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_056_epsilon_constraint",
+      "title": "ε约束法",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_057_knee_point",
+      "title": "膝点法",
+      "word_hit": true,
+      "matched_term": "膝点法",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_058_ga_vs_moea",
+      "title": "GA与多目标进化算法区别",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_059_reinforcement_learning",
+      "title": "强化学习（RL）",
+      "word_hit": true,
+      "matched_term": "强化学习（RL）",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_060_mdp",
+      "title": "马尔可夫决策过程（MDP）",
+      "word_hit": true,
+      "matched_term": "马尔可夫决策过程（MDP）",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_061_state_space",
+      "title": "状态空间",
+      "word_hit": true,
+      "matched_term": "状态空间",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_062_action_space",
+      "title": "动作空间",
+      "word_hit": true,
+      "matched_term": "动作空间",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_063_reward_function",
+      "title": "奖励函数",
+      "word_hit": true,
+      "matched_term": "奖励函数",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_064_policy_value_function",
+      "title": "策略与价值函数",
+      "word_hit": true,
+      "matched_term": "策略与价值函数",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_065_exploration_exploitation",
+      "title": "探索与利用",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_066_dqn",
+      "title": "DQN算法",
+      "word_hit": true,
+      "matched_term": "DQN算法",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_067_vertical_profile_rl",
+      "title": "纵断面强化学习优化",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_068_machine_learning",
+      "title": "机器学习",
+      "word_hit": true,
+      "matched_term": "机器学习",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_069_supervised_learning",
+      "title": "监督学习",
+      "word_hit": true,
+      "matched_term": "监督学习",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_070_classification",
+      "title": "分类",
+      "word_hit": true,
+      "matched_term": "分类",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_071_regression",
+      "title": "回归",
+      "word_hit": true,
+      "matched_term": "回归",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_072_unsupervised_learning",
+      "title": "无监督学习",
+      "word_hit": true,
+      "matched_term": "无监督学习",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_073_deep_learning",
+      "title": "深度学习",
+      "word_hit": true,
+      "matched_term": "深度学习",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_074_cnn",
+      "title": "卷积神经网络（CNN）",
+      "word_hit": true,
+      "matched_term": "卷积神经网络",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_075_rnn",
+      "title": "循环神经网络（RNN）",
+      "word_hit": true,
+      "matched_term": "循环神经网络",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_076_gan",
+      "title": "生成对抗网络（GAN）",
+      "word_hit": true,
+      "matched_term": "生成对抗网络（GAN）",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_077_foundation_model",
+      "title": "大模型与基础模型",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_078_mult_agent_system",
+      "title": "多智能体系统",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_079_gis_support",
+      "title": "GIS技术支持",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_080_rs_support",
+      "title": "遥感技术支持",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_081_bim_support",
+      "title": "BIM技术支持",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_082_recommendation_system",
+      "title": "推荐系统",
+      "word_hit": true,
+      "matched_term": "推荐系统",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_083_geological_risk_assessment",
+      "title": "地质风险评估",
+      "word_hit": true,
+      "matched_term": "地质风险评估",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_084_risk_data_sources",
+      "title": "风险评估数据源",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_085_data_preprocessing",
+      "title": "数据预处理",
+      "word_hit": true,
+      "matched_term": "数据预处理",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_086_feature_extraction",
+      "title": "特征提取",
+      "word_hit": true,
+      "matched_term": "特征提取",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_087_model_training_prediction",
+      "title": "模型训练与预测",
+      "word_hit": true,
+      "matched_term": "模型训练与预测",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_088_risk_map_generation",
+      "title": "风险图生成",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_089_collaborative_filtering",
+      "title": "协同过滤推荐",
+      "word_hit": true,
+      "matched_term": "协同过滤推荐",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_090_content_based_recommendation",
+      "title": "基于内容推荐",
+      "word_hit": true,
+      "matched_term": "基于内容推荐",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_091_hybrid_recommendation",
+      "title": "混合推荐",
+      "word_hit": true,
+      "matched_term": "混合推荐",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_092_alignment_indicator_recommendation",
+      "title": "路线平面指标推荐模型",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_093_line_combination_recommendation",
+      "title": "线形组合类型推荐",
+      "word_hit": true,
+      "matched_term": "线形组合类型推荐",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_094_basic_curve_recommendation",
+      "title": "基本型曲线推荐",
+      "word_hit": true,
+      "matched_term": "基本型曲线推荐",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_095_s_curve_reverse_curve_recommendation",
+      "title": "S形与反向曲线指标推荐",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_096_human_ai_collaboration",
+      "title": "人机协同设计",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_097_ai_limitations",
+      "title": "AI应用局限性",
+      "word_hit": true,
+      "matched_term": "AI",
+      "kb_hit_count": 4
+    },
+    {
+      "id": "kp_ch10_098_explainability",
+      "title": "可解释性",
+      "word_hit": true,
+      "matched_term": "可解释性",
+      "kb_hit_count": 4
+    }
+  ],
+  "operation_task_rows": [],
+  "answer_card_rows": [
+    {
+      "answer_id": "ans_ch10_001",
+      "canonical_question": "AI驱动的道路设计包含哪三大范式？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_002",
+      "canonical_question": "AI驱动道路设计的根本作用是什么？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_003",
+      "canonical_question": "知识驱动、算法驱动和数据驱动有什么区别？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_004",
+      "canonical_question": "为什么AI不能简单理解为替代工程师？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_005",
+      "canonical_question": "RAG和AI智能体如何拓展道路设计AI系统？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_006",
+      "canonical_question": "知识驱动设计系统由哪些核心模块构成？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_007",
+      "canonical_question": "知识管理模块的作用是什么？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_008",
+      "canonical_question": "知识获取与挖掘模块主要解决什么问题？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_009",
+      "canonical_question": "设计推理模块包括哪些推理方式？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_010",
+      "canonical_question": "知识表达主要包括哪些形式？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_011",
+      "canonical_question": "本体与知识图谱在道路智能设计中的作用是什么？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_012",
+      "canonical_question": "案例库通常如何组织？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_013",
+      "canonical_question": "规则库为什么采用前提—结论结构？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_014",
+      "canonical_question": "空间关系库在选线知识系统中的作用是什么？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_015",
+      "canonical_question": "知识获取可以分为哪些类型？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_016",
+      "canonical_question": "面向对象建模在实例知识获取中有什么作用？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_017",
+      "canonical_question": "属性—值对表达为什么重要？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_018",
+      "canonical_question": "规则知识的手工获取和自动获取有什么区别？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_019",
+      "canonical_question": "空间关系推理的基本思想是什么？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_020",
+      "canonical_question": "案例推理CBR的基本流程是什么？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_021",
+      "canonical_question": "CBR适合解决什么类型的问题？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_022",
+      "canonical_question": "规则推理RBR适合解决什么问题？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_023",
+      "canonical_question": "RBR与CBR的适用场景有什么不同？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_024",
+      "canonical_question": "规则推理中的不确定性如何处理？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_025",
+      "canonical_question": "正向链式推理是什么？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_026",
+      "canonical_question": "冲突消解机制为什么重要？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_027",
+      "canonical_question": "算法驱动智能选线可以分为哪两个层次？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_028",
+      "canonical_question": "算法驱动路线优化模型的核心要素有哪些？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_029",
+      "canonical_question": "路线优化中的决策变量包括哪些？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_030",
+      "canonical_question": "目标函数在智能选线中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_031",
+      "canonical_question": "硬约束和软约束有什么区别？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_032",
+      "canonical_question": "遗传算法优化路线方案的基本流程是什么？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_033",
+      "canonical_question": "遗传算法中编码为什么重要？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_034",
+      "canonical_question": "适应度评估在GA中起什么作用？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_035",
+      "canonical_question": "交叉和变异有什么作用？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_036",
+      "canonical_question": "多目标进化算法为什么适合路线方案优化？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_037",
+      "canonical_question": "什么是帕累托最优？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_038",
+      "canonical_question": "帕累托前沿有什么工程意义？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_039",
+      "canonical_question": "NSGA-II的核心机制包括哪些？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_040",
+      "canonical_question": "GA和多目标进化算法有什么区别？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_041",
+      "canonical_question": "多目标优化结果如何进行方案选择？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_042",
+      "canonical_question": "强化学习为什么适合纵断面优化？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_043",
+      "canonical_question": "MDP由哪些基本要素构成？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_044",
+      "canonical_question": "在纵断面优化中状态、动作和奖励分别对应什么？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_045",
+      "canonical_question": "强化学习的通用流程是什么？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_046",
+      "canonical_question": "DQN在纵断面优化中的作用是什么？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_047",
+      "canonical_question": "奖励函数设计为什么是强化学习纵断面优化的关键？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_048",
+      "canonical_question": "数据驱动路线设计的技术基础包括哪些？",
+      "word_hit": true,
+      "matched_term": "机器学习"
+    },
+    {
+      "answer_id": "ans_ch10_049",
+      "canonical_question": "监督学习和无监督学习有什么区别？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_050",
+      "canonical_question": "分类和回归分别适合解决什么问题？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_051",
+      "canonical_question": "深度学习在道路工程中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_052",
+      "canonical_question": "CNN、RNN、GAN分别适合什么任务？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_053",
+      "canonical_question": "大模型在道路工程AI中可能发挥什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_054",
+      "canonical_question": "GIS、RS和BIM在数据驱动设计中分别提供什么支持？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_055",
+      "canonical_question": "地质灾害风险评估的一般流程是什么？",
+      "word_hit": true,
+      "matched_term": "数据采集"
+    },
+    {
+      "answer_id": "ans_ch10_056",
+      "canonical_question": "地质风险评估主要需要哪些数据源？",
+      "word_hit": true,
+      "matched_term": "地形数据"
+    },
+    {
+      "answer_id": "ans_ch10_057",
+      "canonical_question": "数据预处理在AI风险评估中为什么重要？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_058",
+      "canonical_question": "特征提取在地质风险预测中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_059",
+      "canonical_question": "机器学习如何生成地质风险图？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_060",
+      "canonical_question": "推荐系统如何用于路线设计？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_061",
+      "canonical_question": "协同过滤、基于内容推荐和混合推荐有什么区别？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_062",
+      "canonical_question": "平面线形指标推荐模型可以推荐哪些内容？",
+      "word_hit": true,
+      "matched_term": "线形组合类型"
+    },
+    {
+      "answer_id": "ans_ch10_063",
+      "canonical_question": "线形组合类型推荐模型适用于什么场景？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_064",
+      "canonical_question": "基本型曲线推荐模型适用于什么场景？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_065",
+      "canonical_question": "S形和反向曲线指标推荐为什么需要结合工程规则？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_066",
+      "canonical_question": "人机协同设计在AI路线设计中如何体现？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_067",
+      "canonical_question": "AI道路设计系统应注意哪些局限？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_068",
+      "canonical_question": "第十章的学习主线是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_069",
+      "canonical_question": "第十章适合如何复习？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_070",
+      "canonical_question": "什么是AI驱动道路设计范式？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_071",
+      "canonical_question": "AI驱动道路设计范式在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_072",
+      "canonical_question": "什么是知识驱动设计？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_073",
+      "canonical_question": "知识驱动设计在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_074",
+      "canonical_question": "什么是算法驱动设计？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_075",
+      "canonical_question": "算法驱动设计在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_076",
+      "canonical_question": "什么是数据驱动设计？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_077",
+      "canonical_question": "数据驱动设计在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_078",
+      "canonical_question": "什么是RAG与AI智能体？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_079",
+      "canonical_question": "RAG与AI智能体在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具"
+    },
+    {
+      "answer_id": "ans_ch10_080",
+      "canonical_question": "什么是动态知识网络？",
+      "word_hit": true,
+      "matched_term": "动态知识网络"
+    },
+    {
+      "answer_id": "ans_ch10_081",
+      "canonical_question": "动态知识网络在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_082",
+      "canonical_question": "什么是可编排智能求解流程？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_083",
+      "canonical_question": "可编排智能求解流程在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_084",
+      "canonical_question": "什么是多模态预测性认知？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_085",
+      "canonical_question": "多模态预测性认知在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_086",
+      "canonical_question": "什么是知识驱动系统结构？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_087",
+      "canonical_question": "知识驱动系统结构在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_088",
+      "canonical_question": "什么是知识管理模块？",
+      "word_hit": true,
+      "matched_term": "知识管理模块"
+    },
+    {
+      "answer_id": "ans_ch10_089",
+      "canonical_question": "知识管理模块在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_090",
+      "canonical_question": "什么是知识获取与挖掘模块？",
+      "word_hit": true,
+      "matched_term": "知识获取与挖掘模块"
+    },
+    {
+      "answer_id": "ans_ch10_091",
+      "canonical_question": "知识获取与挖掘模块在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_092",
+      "canonical_question": "什么是设计推理模块？",
+      "word_hit": true,
+      "matched_term": "设计推理模块"
+    },
+    {
+      "answer_id": "ans_ch10_093",
+      "canonical_question": "设计推理模块在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_094",
+      "canonical_question": "什么是本体与知识图谱？",
+      "word_hit": true,
+      "matched_term": "本体与知识图谱"
+    },
+    {
+      "answer_id": "ans_ch10_095",
+      "canonical_question": "本体与知识图谱在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_096",
+      "canonical_question": "什么是术语节点？",
+      "word_hit": true,
+      "matched_term": "术语节点"
+    },
+    {
+      "answer_id": "ans_ch10_097",
+      "canonical_question": "术语节点在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_098",
+      "canonical_question": "什么是案例库？",
+      "word_hit": true,
+      "matched_term": "支持相似情境下的方案类比。"
+    },
+    {
+      "answer_id": "ans_ch10_099",
+      "canonical_question": "案例库在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_100",
+      "canonical_question": "什么是规则库？",
+      "word_hit": true,
+      "matched_term": "规则库"
+    },
+    {
+      "answer_id": "ans_ch10_101",
+      "canonical_question": "规则库在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_102",
+      "canonical_question": "什么是空间关系库？",
+      "word_hit": true,
+      "matched_term": "空间关系库"
+    },
+    {
+      "answer_id": "ans_ch10_103",
+      "canonical_question": "空间关系库在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_104",
+      "canonical_question": "什么是九交模型？",
+      "word_hit": true,
+      "matched_term": "九交模型"
+    },
+    {
+      "answer_id": "ans_ch10_105",
+      "canonical_question": "九交模型在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_106",
+      "canonical_question": "什么是实例知识获取？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_107",
+      "canonical_question": "实例知识获取在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_108",
+      "canonical_question": "什么是面向对象建模？",
+      "word_hit": true,
+      "matched_term": "面向对象建模"
+    },
+    {
+      "answer_id": "ans_ch10_109",
+      "canonical_question": "面向对象建模在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_110",
+      "canonical_question": "什么是属性—值对表达？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_111",
+      "canonical_question": "属性—值对表达在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_112",
+      "canonical_question": "什么是规则知识获取？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_113",
+      "canonical_question": "规则知识获取在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_114",
+      "canonical_question": "什么是手工规则获取？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_115",
+      "canonical_question": "手工规则获取在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_116",
+      "canonical_question": "什么是自动规则获取？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_117",
+      "canonical_question": "自动规则获取在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_118",
+      "canonical_question": "什么是空间关系推理（SRR）？",
+      "word_hit": true,
+      "matched_term": "空间关系推理（SRR）"
+    },
+    {
+      "answer_id": "ans_ch10_119",
+      "canonical_question": "空间关系推理（SRR）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_120",
+      "canonical_question": "什么是案例推理（CBR）？",
+      "word_hit": true,
+      "matched_term": "案例推理（CBR）"
+    },
+    {
+      "answer_id": "ans_ch10_121",
+      "canonical_question": "案例推理（CBR）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_122",
+      "canonical_question": "什么是规则推理（RBR）？",
+      "word_hit": true,
+      "matched_term": "规则推理（RBR）"
+    },
+    {
+      "answer_id": "ans_ch10_123",
+      "canonical_question": "规则推理（RBR）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_124",
+      "canonical_question": "什么是CBR相似度计算？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_125",
+      "canonical_question": "CBR相似度计算在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_126",
+      "canonical_question": "什么是粗糙集属性权重？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_127",
+      "canonical_question": "粗糙集属性权重在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_128",
+      "canonical_question": "什么是K近邻案例检索？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_129",
+      "canonical_question": "K近邻案例检索在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_130",
+      "canonical_question": "什么是规则推理CF模型？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_131",
+      "canonical_question": "规则推理CF模型在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_132",
+      "canonical_question": "什么是正向链式推理？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_133",
+      "canonical_question": "正向链式推理在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_134",
+      "canonical_question": "什么是深度优先搜索策略？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_135",
+      "canonical_question": "深度优先搜索策略在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_136",
+      "canonical_question": "什么是冲突消解机制？",
+      "word_hit": true,
+      "matched_term": "冲突消解机制"
+    },
+    {
+      "answer_id": "ans_ch10_137",
+      "canonical_question": "冲突消解机制在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_138",
+      "canonical_question": "什么是智能选线？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_139",
+      "canonical_question": "智能选线在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_140",
+      "canonical_question": "什么是走廊带层次优化？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_141",
+      "canonical_question": "走廊带层次优化在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_142",
+      "canonical_question": "什么是路线方案层次优化？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_143",
+      "canonical_question": "路线方案层次优化在道路工程AI设计中有什么作用？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_144",
+      "canonical_question": "什么是决策变量？",
+      "word_hit": true,
+      "matched_term": "决策变量"
+    },
+    {
+      "answer_id": "ans_ch10_145",
+      "canonical_question": "决策变量在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_146",
+      "canonical_question": "什么是目标函数？",
+      "word_hit": true,
+      "matched_term": "目标函数"
+    },
+    {
+      "answer_id": "ans_ch10_147",
+      "canonical_question": "目标函数在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_148",
+      "canonical_question": "什么是约束条件？",
+      "word_hit": true,
+      "matched_term": "约束条件"
+    },
+    {
+      "answer_id": "ans_ch10_149",
+      "canonical_question": "约束条件在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_150",
+      "canonical_question": "什么是硬约束与软约束？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_151",
+      "canonical_question": "硬约束与软约束在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_152",
+      "canonical_question": "什么是多目标优化模型？",
+      "word_hit": true,
+      "matched_term": "多目标优化模型"
+    },
+    {
+      "answer_id": "ans_ch10_153",
+      "canonical_question": "多目标优化模型在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_154",
+      "canonical_question": "什么是遗传算法（GA）？",
+      "word_hit": true,
+      "matched_term": "遗传算法（GA）"
+    },
+    {
+      "answer_id": "ans_ch10_155",
+      "canonical_question": "遗传算法（GA）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_156",
+      "canonical_question": "什么是染色体编码？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_157",
+      "canonical_question": "染色体编码在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_158",
+      "canonical_question": "什么是适应度评估？",
+      "word_hit": true,
+      "matched_term": "适应度评估"
+    },
+    {
+      "answer_id": "ans_ch10_159",
+      "canonical_question": "适应度评估在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_160",
+      "canonical_question": "什么是选择机制？",
+      "word_hit": true,
+      "matched_term": "选择机制"
+    },
+    {
+      "answer_id": "ans_ch10_161",
+      "canonical_question": "选择机制在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_162",
+      "canonical_question": "什么是交叉与变异？",
+      "word_hit": true,
+      "matched_term": "交叉与变异"
+    },
+    {
+      "answer_id": "ans_ch10_163",
+      "canonical_question": "交叉与变异在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_164",
+      "canonical_question": "什么是GA停止规则？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_165",
+      "canonical_question": "GA停止规则在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_166",
+      "canonical_question": "帕累托最优在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_167",
+      "canonical_question": "什么是帕累托前沿？",
+      "word_hit": true,
+      "matched_term": "帕累托前沿"
+    },
+    {
+      "answer_id": "ans_ch10_168",
+      "canonical_question": "帕累托前沿在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_169",
+      "canonical_question": "什么是NSGA-II？",
+      "word_hit": true,
+      "matched_term": "NSGA-II"
+    },
+    {
+      "answer_id": "ans_ch10_170",
+      "canonical_question": "NSGA-II在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_171",
+      "canonical_question": "什么是非支配排序？",
+      "word_hit": true,
+      "matched_term": "非支配排序"
+    },
+    {
+      "answer_id": "ans_ch10_172",
+      "canonical_question": "非支配排序在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_173",
+      "canonical_question": "什么是拥挤度计算？",
+      "word_hit": true,
+      "matched_term": "拥挤度计算"
+    },
+    {
+      "answer_id": "ans_ch10_174",
+      "canonical_question": "拥挤度计算在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_175",
+      "canonical_question": "什么是精英选择策略？",
+      "word_hit": true,
+      "matched_term": "精英选择策略"
+    },
+    {
+      "answer_id": "ans_ch10_176",
+      "canonical_question": "精英选择策略在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_177",
+      "canonical_question": "什么是加权和法？",
+      "word_hit": true,
+      "matched_term": "加权和法"
+    },
+    {
+      "answer_id": "ans_ch10_178",
+      "canonical_question": "加权和法在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_179",
+      "canonical_question": "什么是ε约束法？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_180",
+      "canonical_question": "ε约束法在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_181",
+      "canonical_question": "什么是膝点法？",
+      "word_hit": true,
+      "matched_term": "膝点法"
+    },
+    {
+      "answer_id": "ans_ch10_182",
+      "canonical_question": "膝点法在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_183",
+      "canonical_question": "什么是GA与多目标进化算法区别？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_184",
+      "canonical_question": "GA与多目标进化算法区别在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_185",
+      "canonical_question": "什么是强化学习（RL）？",
+      "word_hit": true,
+      "matched_term": "强化学习（RL）"
+    },
+    {
+      "answer_id": "ans_ch10_186",
+      "canonical_question": "强化学习（RL）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_187",
+      "canonical_question": "什么是马尔可夫决策过程（MDP）？",
+      "word_hit": true,
+      "matched_term": "马尔可夫决策过程（MDP）"
+    },
+    {
+      "answer_id": "ans_ch10_188",
+      "canonical_question": "马尔可夫决策过程（MDP）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_189",
+      "canonical_question": "什么是状态空间？",
+      "word_hit": true,
+      "matched_term": "状态空间"
+    },
+    {
+      "answer_id": "ans_ch10_190",
+      "canonical_question": "状态空间在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_191",
+      "canonical_question": "什么是动作空间？",
+      "word_hit": true,
+      "matched_term": "动作空间"
+    },
+    {
+      "answer_id": "ans_ch10_192",
+      "canonical_question": "动作空间在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_193",
+      "canonical_question": "什么是奖励函数？",
+      "word_hit": true,
+      "matched_term": "奖励函数"
+    },
+    {
+      "answer_id": "ans_ch10_194",
+      "canonical_question": "奖励函数在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_195",
+      "canonical_question": "什么是策略与价值函数？",
+      "word_hit": true,
+      "matched_term": "策略与价值函数"
+    },
+    {
+      "answer_id": "ans_ch10_196",
+      "canonical_question": "策略与价值函数在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_197",
+      "canonical_question": "什么是探索与利用？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_198",
+      "canonical_question": "探索与利用在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_199",
+      "canonical_question": "什么是DQN算法？",
+      "word_hit": true,
+      "matched_term": "DQN算法"
+    },
+    {
+      "answer_id": "ans_ch10_200",
+      "canonical_question": "DQN算法在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_201",
+      "canonical_question": "什么是纵断面强化学习优化？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_202",
+      "canonical_question": "纵断面强化学习优化在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_203",
+      "canonical_question": "什么是机器学习？",
+      "word_hit": true,
+      "matched_term": "机器学习"
+    },
+    {
+      "answer_id": "ans_ch10_204",
+      "canonical_question": "机器学习在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_205",
+      "canonical_question": "什么是监督学习？",
+      "word_hit": true,
+      "matched_term": "监督学习"
+    },
+    {
+      "answer_id": "ans_ch10_206",
+      "canonical_question": "监督学习在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_207",
+      "canonical_question": "什么是分类？",
+      "word_hit": true,
+      "matched_term": "分类"
+    },
+    {
+      "answer_id": "ans_ch10_208",
+      "canonical_question": "分类在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_209",
+      "canonical_question": "什么是回归？",
+      "word_hit": true,
+      "matched_term": "回归"
+    },
+    {
+      "answer_id": "ans_ch10_210",
+      "canonical_question": "回归在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_211",
+      "canonical_question": "什么是无监督学习？",
+      "word_hit": true,
+      "matched_term": "无监督学习"
+    },
+    {
+      "answer_id": "ans_ch10_212",
+      "canonical_question": "无监督学习在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_213",
+      "canonical_question": "什么是深度学习？",
+      "word_hit": true,
+      "matched_term": "深度学习"
+    },
+    {
+      "answer_id": "ans_ch10_214",
+      "canonical_question": "深度学习在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_215",
+      "canonical_question": "什么是卷积神经网络（CNN）？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_216",
+      "canonical_question": "卷积神经网络（CNN）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_217",
+      "canonical_question": "什么是循环神经网络（RNN）？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_218",
+      "canonical_question": "循环神经网络（RNN）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_219",
+      "canonical_question": "什么是生成对抗网络（GAN）？",
+      "word_hit": true,
+      "matched_term": "生成对抗网络（GAN）"
+    },
+    {
+      "answer_id": "ans_ch10_220",
+      "canonical_question": "生成对抗网络（GAN）在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_221",
+      "canonical_question": "什么是大模型与基础模型？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_222",
+      "canonical_question": "大模型与基础模型在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_223",
+      "canonical_question": "什么是多智能体系统？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_224",
+      "canonical_question": "多智能体系统在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_225",
+      "canonical_question": "什么是GIS技术支持？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_226",
+      "canonical_question": "GIS技术支持在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_227",
+      "canonical_question": "什么是遥感技术支持？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_228",
+      "canonical_question": "遥感技术支持在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_229",
+      "canonical_question": "什么是BIM技术支持？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_230",
+      "canonical_question": "BIM技术支持在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_231",
+      "canonical_question": "什么是推荐系统？",
+      "word_hit": true,
+      "matched_term": "推荐系统"
+    },
+    {
+      "answer_id": "ans_ch10_232",
+      "canonical_question": "推荐系统在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_233",
+      "canonical_question": "什么是地质风险评估？",
+      "word_hit": true,
+      "matched_term": "地质风险评估"
+    },
+    {
+      "answer_id": "ans_ch10_234",
+      "canonical_question": "地质风险评估在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_235",
+      "canonical_question": "什么是风险评估数据源？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_236",
+      "canonical_question": "风险评估数据源在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_237",
+      "canonical_question": "什么是数据预处理？",
+      "word_hit": true,
+      "matched_term": "数据预处理"
+    },
+    {
+      "answer_id": "ans_ch10_238",
+      "canonical_question": "数据预处理在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_239",
+      "canonical_question": "什么是特征提取？",
+      "word_hit": true,
+      "matched_term": "特征提取"
+    },
+    {
+      "answer_id": "ans_ch10_240",
+      "canonical_question": "特征提取在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_241",
+      "canonical_question": "什么是模型训练与预测？",
+      "word_hit": true,
+      "matched_term": "模型训练与预测"
+    },
+    {
+      "answer_id": "ans_ch10_242",
+      "canonical_question": "模型训练与预测在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_243",
+      "canonical_question": "什么是风险图生成？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_244",
+      "canonical_question": "风险图生成在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_245",
+      "canonical_question": "什么是协同过滤推荐？",
+      "word_hit": true,
+      "matched_term": "协同过滤推荐"
+    },
+    {
+      "answer_id": "ans_ch10_246",
+      "canonical_question": "协同过滤推荐在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_247",
+      "canonical_question": "什么是基于内容推荐？",
+      "word_hit": true,
+      "matched_term": "基于内容推荐"
+    },
+    {
+      "answer_id": "ans_ch10_248",
+      "canonical_question": "基于内容推荐在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_249",
+      "canonical_question": "什么是混合推荐？",
+      "word_hit": true,
+      "matched_term": "混合推荐"
+    },
+    {
+      "answer_id": "ans_ch10_250",
+      "canonical_question": "混合推荐在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_251",
+      "canonical_question": "什么是路线平面指标推荐模型？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_252",
+      "canonical_question": "路线平面指标推荐模型在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_253",
+      "canonical_question": "什么是线形组合类型推荐？",
+      "word_hit": true,
+      "matched_term": "线形组合类型推荐"
+    },
+    {
+      "answer_id": "ans_ch10_254",
+      "canonical_question": "线形组合类型推荐在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_255",
+      "canonical_question": "什么是基本型曲线推荐？",
+      "word_hit": true,
+      "matched_term": "基本型曲线推荐"
+    },
+    {
+      "answer_id": "ans_ch10_256",
+      "canonical_question": "基本型曲线推荐在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_257",
+      "canonical_question": "什么是S形与反向曲线指标推荐？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_258",
+      "canonical_question": "S形与反向曲线指标推荐在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_259",
+      "canonical_question": "什么是人机协同设计？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_260",
+      "canonical_question": "人机协同设计在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_261",
+      "canonical_question": "什么是AI应用局限性？",
+      "word_hit": true,
+      "matched_term": "工程意义"
+    },
+    {
+      "answer_id": "ans_ch10_262",
+      "canonical_question": "AI应用局限性在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_263",
+      "canonical_question": "什么是可解释性？",
+      "word_hit": true,
+      "matched_term": "可解释性"
+    },
+    {
+      "answer_id": "ans_ch10_264",
+      "canonical_question": "可解释性在道路工程AI设计中有什么作用？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_265",
+      "canonical_question": "知识驱动道路智能设计的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_266",
+      "canonical_question": "本体与知识图谱建模的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_267",
+      "canonical_question": "案例库构建与CBR的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_268",
+      "canonical_question": "规则库与RBR的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_269",
+      "canonical_question": "空间关系推理的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_270",
+      "canonical_question": "遗传算法路线优化的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_271",
+      "canonical_question": "多目标进化路线优化的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_272",
+      "canonical_question": "NSGA-II算法框架的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_273",
+      "canonical_question": "强化学习纵断面优化的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_274",
+      "canonical_question": "监督学习地质风险评估的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_275",
+      "canonical_question": "无监督聚类空间分区的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_276",
+      "canonical_question": "CNN遥感识别的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_277",
+      "canonical_question": "路线设计推荐系统的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_278",
+      "canonical_question": "基于内容的设计推荐的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_279",
+      "canonical_question": "混合推荐方法的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_280",
+      "canonical_question": "RAG增强设计知识问答的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_281",
+      "canonical_question": "AI智能体设计流程的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_282",
+      "canonical_question": "帕累托方案筛选的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_283",
+      "canonical_question": "多模态地质风险预测的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_284",
+      "canonical_question": "人机协同智能设计的基本流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_285",
+      "canonical_question": "山区公路地质灾害风险选线应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_286",
+      "canonical_question": "滑坡敏感性评价与选线避让应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_287",
+      "canonical_question": "泥石流沟穿越关系判定应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_288",
+      "canonical_question": "强约束规范校核应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_289",
+      "canonical_question": "历史案例辅助选线应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_290",
+      "canonical_question": "平面线形单目标优化应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_291",
+      "canonical_question": "多目标路线方案比选应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_292",
+      "canonical_question": "纵断面智能优化应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_293",
+      "canonical_question": "平面线形指标推荐应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_294",
+      "canonical_question": "动态参数推荐应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_295",
+      "canonical_question": "线形组合类型推荐应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_296",
+      "canonical_question": "路线方案生成式探索应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_297",
+      "canonical_question": "规范文本智能问答应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_298",
+      "canonical_question": "多源数据融合评价应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_299",
+      "canonical_question": "AI辅助教学问答应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_300",
+      "canonical_question": "工程方案可解释推荐应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_301",
+      "canonical_question": "环境敏感区避让优化应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_302",
+      "canonical_question": "复杂走廊带搜索应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_303",
+      "canonical_question": "BIM/GIS/AI协同设计应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_304",
+      "canonical_question": "设计反馈知识沉淀应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    },
+    {
+      "answer_id": "ans_ch10_305",
+      "canonical_question": "无人区或资料稀缺地区初步选线应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_306",
+      "canonical_question": "设计指标统计规律发现应如何应用AI方法？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch10_307",
+      "canonical_question": "AI辅助多方案审查应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方"
+    },
+    {
+      "answer_id": "ans_ch10_308",
+      "canonical_question": "道路设计知识库持续更新应如何应用AI方法？",
+      "word_hit": true,
+      "matched_term": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设"
+    }
+  ],
+  "heading_rows": [
+    {
+      "paragraph": 4776,
+      "style": "ab",
+      "heading": "AI驱动的道路设计方法",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4782,
+      "style": "",
+      "heading": "第一节 AI驱动的道路设计范式",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4785,
+      "style": "",
+      "heading": "一、知识驱动：从“静态规则库”到“动态知识网络”",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4789,
+      "style": "",
+      "heading": "二、算法驱动：从“单次求解器”到“可编排的智能求解流程”",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4797,
+      "style": "",
+      "heading": "三、数据驱动：从“相关性学习”到“多模态的预测性认知”",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4804,
+      "style": "ab",
+      "heading": "AI驱动的道路设计的范式",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4805,
+      "style": "",
+      "heading": "第二节 知识驱动的道路智能设计方法",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4807,
+      "style": "",
+      "heading": "一、知识驱动设计系统的结构",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4825,
+      "style": "ab",
+      "heading": "知识驱动系统的功能模块",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4826,
+      "style": "",
+      "heading": "二、知识的表达",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4837,
+      "style": "ab",
+      "heading": "滑坡地区选线知识图谱",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4871,
+      "style": "",
+      "heading": "三、知识的获取",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4906,
+      "style": "",
+      "heading": "四、知识的推理",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4915,
+      "style": "ab",
+      "heading": "路线与泥石流轴线分区关系图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4935,
+      "style": "ab",
+      "heading": "实例推理示例",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4954,
+      "style": "ab",
+      "heading": "规则推理示例",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4955,
+      "style": "",
+      "heading": "第三节 算法驱动的智能选线",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4963,
+      "style": "",
+      "heading": "一、算法驱动的基本原理",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4981,
+      "style": "",
+      "heading": "二、基于遗传算法的单目标优化",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 4997,
+      "style": "ab",
+      "heading": "基于GA的平面优化算法流程",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5015,
+      "style": "ab",
+      "heading": "变异算子",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5017,
+      "style": "ab",
+      "heading": "简单交叉",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5018,
+      "style": "ab",
+      "heading": "算术交叉",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5021,
+      "style": "",
+      "heading": "三、基于多目标进化算法的路线方案优化",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5036,
+      "style": "ab",
+      "heading": "帕累托支配与帕累托前沿",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5053,
+      "style": "ab",
+      "heading": "多目标进化算法流程图",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5071,
+      "style": "",
+      "heading": "四、基于强化学习的纵断面优化",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5114,
+      "style": "ab",
+      "heading": "强化学习的理论框架",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5136,
+      "style": "",
+      "heading": "第四节 数据驱动的路线设计",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5139,
+      "style": "",
+      "heading": "一、数据驱动的技术基础",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5173,
+      "style": "",
+      "heading": "二、数据驱动设计的技术应用",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 5196,
+      "style": "ab",
+      "heading": "基于地质风险评估的选线模式",
+      "kb_hit": true
+    }
+  ]
+}

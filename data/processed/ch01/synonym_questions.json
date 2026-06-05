@@ -1,0 +1,7410 @@
+[
+  {
+    "synonym_id": "syn_ch01_0001",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "道路工程数字化设计的发展主线",
+    "type": "alias",
+    "target_id": "kp_ch01_001",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0002",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "道路数字设计的发展主线",
+    "type": "alias",
+    "target_id": "kp_ch01_001",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0003",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "数字化设计",
+    "type": "alias",
+    "target_id": "kp_ch01_001",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0004",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "发展历程",
+    "type": "alias",
+    "target_id": "kp_ch01_001",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0005",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "CAD",
+    "type": "alias",
+    "target_id": "kp_ch01_001",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0006",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_001",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0007",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "道路工程数字化设计的发展主线是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_001",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0008",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "道路工程数字化设计的发展主线有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_001",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0009",
+    "standard_term": "道路工程数字化设计的发展主线",
+    "alias_or_question": "如何理解道路工程数字化设计的发展主线？",
+    "type": "student_question",
+    "target_id": "kp_ch01_001",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0010",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "设计范式转变",
+    "type": "alias",
+    "target_id": "kp_ch01_002",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0011",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "设计范式",
+    "type": "alias",
+    "target_id": "kp_ch01_002",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0012",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "图纸中心",
+    "type": "alias",
+    "target_id": "kp_ch01_002",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0013",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "模型中心",
+    "type": "alias",
+    "target_id": "kp_ch01_002",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0014",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "数据驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_002",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0015",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "设计范式转变是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_002",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0016",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "设计范式转变有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_002",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0017",
+    "standard_term": "设计范式转变",
+    "alias_or_question": "如何理解设计范式转变？",
+    "type": "student_question",
+    "target_id": "kp_ch01_002",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0018",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "CAD辅助设计阶段",
+    "type": "alias",
+    "target_id": "kp_ch01_003",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0019",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "CAD",
+    "type": "alias",
+    "target_id": "kp_ch01_003",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0020",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "电子制图",
+    "type": "alias",
+    "target_id": "kp_ch01_003",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0021",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "DWG",
+    "type": "alias",
+    "target_id": "kp_ch01_003",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0022",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "DXF",
+    "type": "alias",
+    "target_id": "kp_ch01_003",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0023",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "CAD辅助设计阶段是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_003",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0024",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "CAD辅助设计阶段有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_003",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0025",
+    "standard_term": "CAD辅助设计阶段",
+    "alias_or_question": "如何理解CAD辅助设计阶段？",
+    "type": "student_question",
+    "target_id": "kp_ch01_003",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0026",
+    "standard_term": "CAD图纸中心设计",
+    "alias_or_question": "CAD图纸中心设计",
+    "type": "alias",
+    "target_id": "kp_ch01_004",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0027",
+    "standard_term": "CAD图纸中心设计",
+    "alias_or_question": "图纸中心",
+    "type": "alias",
+    "target_id": "kp_ch01_004",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0028",
+    "standard_term": "CAD图纸中心设计",
+    "alias_or_question": "二维图纸",
+    "type": "alias",
+    "target_id": "kp_ch01_004",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0029",
+    "standard_term": "CAD图纸中心设计",
+    "alias_or_question": "CAD图元",
+    "type": "alias",
+    "target_id": "kp_ch01_004",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0030",
+    "standard_term": "CAD图纸中心设计",
+    "alias_or_question": "CAD图纸中心设计是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_004",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0031",
+    "standard_term": "CAD图纸中心设计",
+    "alias_or_question": "CAD图纸中心设计有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_004",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0032",
+    "standard_term": "CAD图纸中心设计",
+    "alias_or_question": "如何理解CAD图纸中心设计？",
+    "type": "student_question",
+    "target_id": "kp_ch01_004",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0033",
+    "standard_term": "CAD图元与工程语义差异",
+    "alias_or_question": "CAD图元与工程语义差异",
+    "type": "alias",
+    "target_id": "kp_ch01_005",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0034",
+    "standard_term": "CAD图元与工程语义差异",
+    "alias_or_question": "CAD图元",
+    "type": "alias",
+    "target_id": "kp_ch01_005",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0035",
+    "standard_term": "CAD图元与工程语义差异",
+    "alias_or_question": "工程语义",
+    "type": "alias",
+    "target_id": "kp_ch01_005",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0036",
+    "standard_term": "CAD图元与工程语义差异",
+    "alias_or_question": "BIM构件",
+    "type": "alias",
+    "target_id": "kp_ch01_005",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0037",
+    "standard_term": "CAD图元与工程语义差异",
+    "alias_or_question": "CAD图元与工程语义差异是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_005",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0038",
+    "standard_term": "CAD图元与工程语义差异",
+    "alias_or_question": "CAD图元与工程语义差异有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_005",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0039",
+    "standard_term": "CAD图元与工程语义差异",
+    "alias_or_question": "如何理解CAD图元与工程语义差异？",
+    "type": "student_question",
+    "target_id": "kp_ch01_005",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0040",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "CAD阶段的主要任务",
+    "type": "alias",
+    "target_id": "kp_ch01_006",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0041",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "CAD任务",
+    "type": "alias",
+    "target_id": "kp_ch01_006",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0042",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "绘图",
+    "type": "alias",
+    "target_id": "kp_ch01_006",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0043",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "参数计算",
+    "type": "alias",
+    "target_id": "kp_ch01_006",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0044",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "图纸输出",
+    "type": "alias",
+    "target_id": "kp_ch01_006",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0045",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "CAD阶段的主要任务是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_006",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0046",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "CAD阶段的主要任务有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_006",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0047",
+    "standard_term": "CAD阶段的主要任务",
+    "alias_or_question": "如何理解CAD阶段的主要任务？",
+    "type": "student_question",
+    "target_id": "kp_ch01_006",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0048",
+    "standard_term": "CAD阶段的局限性",
+    "alias_or_question": "CAD阶段的局限性",
+    "type": "alias",
+    "target_id": "kp_ch01_007",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0049",
+    "standard_term": "CAD阶段的局限性",
+    "alias_or_question": "CAD局限",
+    "type": "alias",
+    "target_id": "kp_ch01_007",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0050",
+    "standard_term": "CAD阶段的局限性",
+    "alias_or_question": "参数联动",
+    "type": "alias",
+    "target_id": "kp_ch01_007",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0051",
+    "standard_term": "CAD阶段的局限性",
+    "alias_or_question": "数据连续性",
+    "type": "alias",
+    "target_id": "kp_ch01_007",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0052",
+    "standard_term": "CAD阶段的局限性",
+    "alias_or_question": "CAD阶段的局限性是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_007",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0053",
+    "standard_term": "CAD阶段的局限性",
+    "alias_or_question": "CAD阶段的局限性有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_007",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0054",
+    "standard_term": "CAD阶段的局限性",
+    "alias_or_question": "如何理解CAD阶段的局限性？",
+    "type": "student_question",
+    "target_id": "kp_ch01_007",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0055",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "专业道路CAD软件",
+    "type": "alias",
+    "target_id": "kp_ch01_008",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0056",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "纬地",
+    "type": "alias",
+    "target_id": "kp_ch01_008",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0057",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "EICAD",
+    "type": "alias",
+    "target_id": "kp_ch01_008",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0058",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "同豪",
+    "type": "alias",
+    "target_id": "kp_ch01_008",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0059",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "道路CAD",
+    "type": "alias",
+    "target_id": "kp_ch01_008",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0060",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "专业道路CAD软件是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_008",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0061",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "专业道路CAD软件有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_008",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0062",
+    "standard_term": "专业道路CAD软件",
+    "alias_or_question": "如何理解专业道路CAD软件？",
+    "type": "student_question",
+    "target_id": "kp_ch01_008",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0063",
+    "standard_term": "智能CAD趋势",
+    "alias_or_question": "智能CAD趋势",
+    "type": "alias",
+    "target_id": "kp_ch01_009",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0064",
+    "standard_term": "智能CAD趋势",
+    "alias_or_question": "智能CAD",
+    "type": "alias",
+    "target_id": "kp_ch01_009",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0065",
+    "standard_term": "智能CAD趋势",
+    "alias_or_question": "规则约束",
+    "type": "alias",
+    "target_id": "kp_ch01_009",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0066",
+    "standard_term": "智能CAD趋势",
+    "alias_or_question": "模板推荐",
+    "type": "alias",
+    "target_id": "kp_ch01_009",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0067",
+    "standard_term": "智能CAD趋势",
+    "alias_or_question": "智能CAD趋势是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_009",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0068",
+    "standard_term": "智能CAD趋势",
+    "alias_or_question": "智能CAD趋势有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_009",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0069",
+    "standard_term": "智能CAD趋势",
+    "alias_or_question": "如何理解智能CAD趋势？",
+    "type": "student_question",
+    "target_id": "kp_ch01_009",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0070",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "BIM正向设计阶段",
+    "type": "alias",
+    "target_id": "kp_ch01_010",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0071",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_010",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0072",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "正向设计",
+    "type": "alias",
+    "target_id": "kp_ch01_010",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0073",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "构件模型",
+    "type": "alias",
+    "target_id": "kp_ch01_010",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0074",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "信息集成",
+    "type": "alias",
+    "target_id": "kp_ch01_010",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0075",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "BIM正向设计阶段是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_010",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0076",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "BIM正向设计阶段有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_010",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0077",
+    "standard_term": "BIM正向设计阶段",
+    "alias_or_question": "如何理解BIM正向设计阶段？",
+    "type": "student_question",
+    "target_id": "kp_ch01_010",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0078",
+    "standard_term": "BIM与三维模型的区别",
+    "alias_or_question": "BIM与三维模型的区别",
+    "type": "alias",
+    "target_id": "kp_ch01_011",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0079",
+    "standard_term": "BIM与三维模型的区别",
+    "alias_or_question": "BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_011",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0080",
+    "standard_term": "BIM与三维模型的区别",
+    "alias_or_question": "三维模型",
+    "type": "alias",
+    "target_id": "kp_ch01_011",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0081",
+    "standard_term": "BIM与三维模型的区别",
+    "alias_or_question": "工程信息模型",
+    "type": "alias",
+    "target_id": "kp_ch01_011",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0082",
+    "standard_term": "BIM与三维模型的区别",
+    "alias_or_question": "BIM与三维模型的区别是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_011",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0083",
+    "standard_term": "BIM与三维模型的区别",
+    "alias_or_question": "BIM与三维模型的区别有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_011",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0084",
+    "standard_term": "BIM与三维模型的区别",
+    "alias_or_question": "如何理解BIM与三维模型的区别？",
+    "type": "student_question",
+    "target_id": "kp_ch01_011",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0085",
+    "standard_term": "道路BIM构件语义",
+    "alias_or_question": "道路BIM构件语义",
+    "type": "alias",
+    "target_id": "kp_ch01_012",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0086",
+    "standard_term": "道路BIM构件语义",
+    "alias_or_question": "构件语义",
+    "type": "alias",
+    "target_id": "kp_ch01_012",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0087",
+    "standard_term": "道路BIM构件语义",
+    "alias_or_question": "道路BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_012",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0088",
+    "standard_term": "道路BIM构件语义",
+    "alias_or_question": "工程对象",
+    "type": "alias",
+    "target_id": "kp_ch01_012",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0089",
+    "standard_term": "道路BIM构件语义",
+    "alias_or_question": "道路BIM构件语义是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_012",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0090",
+    "standard_term": "道路BIM构件语义",
+    "alias_or_question": "道路BIM构件语义有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_012",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0091",
+    "standard_term": "道路BIM构件语义",
+    "alias_or_question": "如何理解道路BIM构件语义？",
+    "type": "student_question",
+    "target_id": "kp_ch01_012",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0092",
+    "standard_term": "道路BIM适应性要求",
+    "alias_or_question": "道路BIM适应性要求",
+    "type": "alias",
+    "target_id": "kp_ch01_013",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0093",
+    "standard_term": "道路BIM适应性要求",
+    "alias_or_question": "道路BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_013",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0094",
+    "standard_term": "道路BIM适应性要求",
+    "alias_or_question": "线性工程",
+    "type": "alias",
+    "target_id": "kp_ch01_013",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0095",
+    "standard_term": "道路BIM适应性要求",
+    "alias_or_question": "地形依附",
+    "type": "alias",
+    "target_id": "kp_ch01_013",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0096",
+    "standard_term": "道路BIM适应性要求",
+    "alias_or_question": "道路BIM适应性要求是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_013",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0097",
+    "standard_term": "道路BIM适应性要求",
+    "alias_or_question": "道路BIM适应性要求有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_013",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0098",
+    "standard_term": "道路BIM适应性要求",
+    "alias_or_question": "如何理解道路BIM适应性要求？",
+    "type": "student_question",
+    "target_id": "kp_ch01_013",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0099",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "OpenRoads与Civil 3D机制",
+    "type": "alias",
+    "target_id": "kp_ch01_014",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0100",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "OpenRoads",
+    "type": "alias",
+    "target_id": "kp_ch01_014",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0101",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "Civil 3D",
+    "type": "alias",
+    "target_id": "kp_ch01_014",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0102",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "廊道",
+    "type": "alias",
+    "target_id": "kp_ch01_014",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0103",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "模板",
+    "type": "alias",
+    "target_id": "kp_ch01_014",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0104",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "OpenRoads与Civil 3D机制是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_014",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0105",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "OpenRoads与Civil 3D机制有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_014",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0106",
+    "standard_term": "OpenRoads与Civil 3D机制",
+    "alias_or_question": "如何理解OpenRoads与Civil 3D机制？",
+    "type": "student_question",
+    "target_id": "kp_ch01_014",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0107",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "BIM阶段的价值",
+    "type": "alias",
+    "target_id": "kp_ch01_015",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0108",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "BIM价值",
+    "type": "alias",
+    "target_id": "kp_ch01_015",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0109",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "信息集成",
+    "type": "alias",
+    "target_id": "kp_ch01_015",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0110",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "协同设计",
+    "type": "alias",
+    "target_id": "kp_ch01_015",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0111",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "参数驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_015",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0112",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "BIM阶段的价值是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_015",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0113",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "BIM阶段的价值有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_015",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0114",
+    "standard_term": "BIM阶段的价值",
+    "alias_or_question": "如何理解BIM阶段的价值？",
+    "type": "student_question",
+    "target_id": "kp_ch01_015",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0115",
+    "standard_term": "BIM推广挑战",
+    "alias_or_question": "BIM推广挑战",
+    "type": "alias",
+    "target_id": "kp_ch01_016",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0116",
+    "standard_term": "BIM推广挑战",
+    "alias_or_question": "BIM挑战",
+    "type": "alias",
+    "target_id": "kp_ch01_016",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0117",
+    "standard_term": "BIM推广挑战",
+    "alias_or_question": "构件标准",
+    "type": "alias",
+    "target_id": "kp_ch01_016",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0118",
+    "standard_term": "BIM推广挑战",
+    "alias_or_question": "平台接口",
+    "type": "alias",
+    "target_id": "kp_ch01_016",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0119",
+    "standard_term": "BIM推广挑战",
+    "alias_or_question": "BIM推广挑战是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_016",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0120",
+    "standard_term": "BIM推广挑战",
+    "alias_or_question": "BIM推广挑战有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_016",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0121",
+    "standard_term": "BIM推广挑战",
+    "alias_or_question": "如何理解BIM推广挑战？",
+    "type": "student_question",
+    "target_id": "kp_ch01_016",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0122",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "GIS融合阶段",
+    "type": "alias",
+    "target_id": "kp_ch01_017",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0123",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "GIS",
+    "type": "alias",
+    "target_id": "kp_ch01_017",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0124",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "空间数据",
+    "type": "alias",
+    "target_id": "kp_ch01_017",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0125",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "路线比选",
+    "type": "alias",
+    "target_id": "kp_ch01_017",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0126",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "环境约束",
+    "type": "alias",
+    "target_id": "kp_ch01_017",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0127",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "GIS融合阶段是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_017",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0128",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "GIS融合阶段有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_017",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0129",
+    "standard_term": "GIS融合阶段",
+    "alias_or_question": "如何理解GIS融合阶段？",
+    "type": "student_question",
+    "target_id": "kp_ch01_017",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0130",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "GIS适宜性分析",
+    "type": "alias",
+    "target_id": "kp_ch01_018",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0131",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "适宜性分析",
+    "type": "alias",
+    "target_id": "kp_ch01_018",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0132",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "DEM",
+    "type": "alias",
+    "target_id": "kp_ch01_018",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0133",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "生态红线",
+    "type": "alias",
+    "target_id": "kp_ch01_018",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0134",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "约束图层",
+    "type": "alias",
+    "target_id": "kp_ch01_018",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0135",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "GIS适宜性分析是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_018",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0136",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "GIS适宜性分析有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_018",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0137",
+    "standard_term": "GIS适宜性分析",
+    "alias_or_question": "如何理解GIS适宜性分析？",
+    "type": "student_question",
+    "target_id": "kp_ch01_018",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0138",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "GIS路径优化",
+    "type": "alias",
+    "target_id": "kp_ch01_019",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0139",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "路径优化",
+    "type": "alias",
+    "target_id": "kp_ch01_019",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0140",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "成本面",
+    "type": "alias",
+    "target_id": "kp_ch01_019",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0141",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "最短路径",
+    "type": "alias",
+    "target_id": "kp_ch01_019",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0142",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "多目标优化",
+    "type": "alias",
+    "target_id": "kp_ch01_019",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0143",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "GIS路径优化是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_019",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0144",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "GIS路径优化有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_019",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0145",
+    "standard_term": "GIS路径优化",
+    "alias_or_question": "如何理解GIS路径优化？",
+    "type": "student_question",
+    "target_id": "kp_ch01_019",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0146",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "敏感区识别与避让",
+    "type": "alias",
+    "target_id": "kp_ch01_020",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0147",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "敏感区",
+    "type": "alias",
+    "target_id": "kp_ch01_020",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0148",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "避让",
+    "type": "alias",
+    "target_id": "kp_ch01_020",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0149",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "叠加分析",
+    "type": "alias",
+    "target_id": "kp_ch01_020",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0150",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "缓冲区",
+    "type": "alias",
+    "target_id": "kp_ch01_020",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0151",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "敏感区识别与避让是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_020",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0152",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "敏感区识别与避让有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_020",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0153",
+    "standard_term": "敏感区识别与避让",
+    "alias_or_question": "如何理解敏感区识别与避让？",
+    "type": "student_question",
+    "target_id": "kp_ch01_020",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0154",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "BIM+GIS融合必要性",
+    "type": "alias",
+    "target_id": "kp_ch01_021",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0155",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "BIM GIS融合",
+    "type": "alias",
+    "target_id": "kp_ch01_021",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0156",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "模型与空间数据融合",
+    "type": "alias",
+    "target_id": "kp_ch01_021",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0157",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "BIM和GIS结合",
+    "type": "alias",
+    "target_id": "kp_ch01_021",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0158",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "BIM+GIS",
+    "type": "alias",
+    "target_id": "kp_ch01_021",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0159",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "空间构件协同",
+    "type": "alias",
+    "target_id": "kp_ch01_021",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0160",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "选线建模",
+    "type": "alias",
+    "target_id": "kp_ch01_021",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0161",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "BIM+GIS融合必要性是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_021",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0162",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "BIM+GIS融合必要性有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_021",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0163",
+    "standard_term": "BIM+GIS融合必要性",
+    "alias_or_question": "如何理解BIM+GIS融合必要性？",
+    "type": "student_question",
+    "target_id": "kp_ch01_021",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0164",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "BIM-GIS数据互通",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0165",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "BIM GIS融合",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0166",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "模型与空间数据融合",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0167",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "BIM和GIS结合",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0168",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "数据互通",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0169",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "LandXML",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0170",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "CityGML",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0171",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "GDAL",
+    "type": "alias",
+    "target_id": "kp_ch01_022",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0172",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "BIM-GIS数据互通是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_022",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0173",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "BIM-GIS数据互通有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_022",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0174",
+    "standard_term": "BIM-GIS数据互通",
+    "alias_or_question": "如何理解BIM-GIS数据互通？",
+    "type": "student_question",
+    "target_id": "kp_ch01_022",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0175",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "BIM-GIS平台集成",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0176",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "BIM GIS融合",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0177",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "模型与空间数据融合",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0178",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "BIM和GIS结合",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0179",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "平台集成",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0180",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "InfraWorks",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0181",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "Map 3D",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0182",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "同豪BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_023",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0183",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "BIM-GIS平台集成是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_023",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0184",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "BIM-GIS平台集成有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_023",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0185",
+    "standard_term": "BIM-GIS平台集成",
+    "alias_or_question": "如何理解BIM-GIS平台集成？",
+    "type": "student_question",
+    "target_id": "kp_ch01_023",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0186",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "BIM-GIS流程协同",
+    "type": "alias",
+    "target_id": "kp_ch01_024",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0187",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "BIM GIS融合",
+    "type": "alias",
+    "target_id": "kp_ch01_024",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0188",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "模型与空间数据融合",
+    "type": "alias",
+    "target_id": "kp_ch01_024",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0189",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "BIM和GIS结合",
+    "type": "alias",
+    "target_id": "kp_ch01_024",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0190",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "流程协同",
+    "type": "alias",
+    "target_id": "kp_ch01_024",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0191",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "选线建模评估优化",
+    "type": "alias",
+    "target_id": "kp_ch01_024",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0192",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "空间分析",
+    "type": "alias",
+    "target_id": "kp_ch01_024",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0193",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "BIM-GIS流程协同是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_024",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0194",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "BIM-GIS流程协同有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_024",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0195",
+    "standard_term": "BIM-GIS流程协同",
+    "alias_or_question": "如何理解BIM-GIS流程协同？",
+    "type": "student_question",
+    "target_id": "kp_ch01_024",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0196",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "数字孪生阶段",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0197",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "虚实闭环",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0198",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "实体道路与虚拟模型",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0199",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "数字道路",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0200",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "数字孪生",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0201",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "虚实映射",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0202",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "实时同步",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0203",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "闭环反馈",
+    "type": "alias",
+    "target_id": "kp_ch01_025",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0204",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "数字孪生阶段是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_025",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0205",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "数字孪生阶段有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_025",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0206",
+    "standard_term": "数字孪生阶段",
+    "alias_or_question": "如何理解数字孪生阶段？",
+    "type": "student_question",
+    "target_id": "kp_ch01_025",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0207",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "数字孪生的本质",
+    "type": "alias",
+    "target_id": "kp_ch01_026",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0208",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "虚实闭环",
+    "type": "alias",
+    "target_id": "kp_ch01_026",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0209",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "实体道路与虚拟模型",
+    "type": "alias",
+    "target_id": "kp_ch01_026",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0210",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "数字道路",
+    "type": "alias",
+    "target_id": "kp_ch01_026",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0211",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "数字孪生本质",
+    "type": "alias",
+    "target_id": "kp_ch01_026",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0212",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "虚拟模型",
+    "type": "alias",
+    "target_id": "kp_ch01_026",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0213",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "实体道路",
+    "type": "alias",
+    "target_id": "kp_ch01_026",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0214",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "数字孪生的本质是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_026",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0215",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "数字孪生的本质有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_026",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0216",
+    "standard_term": "数字孪生的本质",
+    "alias_or_question": "如何理解数字孪生的本质？",
+    "type": "student_question",
+    "target_id": "kp_ch01_026",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0217",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "虚实闭环机制",
+    "type": "alias",
+    "target_id": "kp_ch01_027",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0218",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "虚实闭环",
+    "type": "alias",
+    "target_id": "kp_ch01_027",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0219",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "感知数据",
+    "type": "alias",
+    "target_id": "kp_ch01_027",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0220",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "模型更新",
+    "type": "alias",
+    "target_id": "kp_ch01_027",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0221",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "管控反馈",
+    "type": "alias",
+    "target_id": "kp_ch01_027",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0222",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "虚实闭环机制是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_027",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0223",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "虚实闭环机制有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_027",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0224",
+    "standard_term": "虚实闭环机制",
+    "alias_or_question": "如何理解虚实闭环机制？",
+    "type": "student_question",
+    "target_id": "kp_ch01_027",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0225",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "数字孪生关键技术组成",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0226",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "虚实闭环",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0227",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "实体道路与虚拟模型",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0228",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "数字道路",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0229",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0230",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "GIS",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0231",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "IoT",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0232",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "AI",
+    "type": "alias",
+    "target_id": "kp_ch01_028",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0233",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "数字孪生关键技术组成是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_028",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0234",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "数字孪生关键技术组成有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_028",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0235",
+    "standard_term": "数字孪生关键技术组成",
+    "alias_or_question": "如何理解数字孪生关键技术组成？",
+    "type": "student_question",
+    "target_id": "kp_ch01_028",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0236",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "数字孪生全生命周期应用",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0237",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "虚实闭环",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0238",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "实体道路与虚拟模型",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0239",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "数字道路",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0240",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "全生命周期",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0241",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "施工仿真",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0242",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "运维预警",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0243",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "结构监测",
+    "type": "alias",
+    "target_id": "kp_ch01_029",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0244",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "数字孪生全生命周期应用是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_029",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0245",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "数字孪生全生命周期应用有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_029",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0246",
+    "standard_term": "数字孪生全生命周期应用",
+    "alias_or_question": "如何理解数字孪生全生命周期应用？",
+    "type": "student_question",
+    "target_id": "kp_ch01_029",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0247",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "道路工程数字化设计定义",
+    "type": "alias",
+    "target_id": "kp_ch01_030",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0248",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "道路数字设计定义",
+    "type": "alias",
+    "target_id": "kp_ch01_030",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0249",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "数字化设计定义",
+    "type": "alias",
+    "target_id": "kp_ch01_030",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0250",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "信息模型",
+    "type": "alias",
+    "target_id": "kp_ch01_030",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0251",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "全生命周期",
+    "type": "alias",
+    "target_id": "kp_ch01_030",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0252",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "道路工程数字化设计定义是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_030",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0253",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "道路工程数字化设计定义有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_030",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0254",
+    "standard_term": "道路工程数字化设计定义",
+    "alias_or_question": "如何理解道路工程数字化设计定义？",
+    "type": "student_question",
+    "target_id": "kp_ch01_030",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0255",
+    "standard_term": "出图导向到数据服务导向",
+    "alias_or_question": "出图导向到数据服务导向",
+    "type": "alias",
+    "target_id": "kp_ch01_031",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0256",
+    "standard_term": "出图导向到数据服务导向",
+    "alias_or_question": "出图导向",
+    "type": "alias",
+    "target_id": "kp_ch01_031",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0257",
+    "standard_term": "出图导向到数据服务导向",
+    "alias_or_question": "数据服务",
+    "type": "alias",
+    "target_id": "kp_ch01_031",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0258",
+    "standard_term": "出图导向到数据服务导向",
+    "alias_or_question": "模型交付",
+    "type": "alias",
+    "target_id": "kp_ch01_031",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0259",
+    "standard_term": "出图导向到数据服务导向",
+    "alias_or_question": "出图导向到数据服务导向是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_031",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0260",
+    "standard_term": "出图导向到数据服务导向",
+    "alias_or_question": "出图导向到数据服务导向有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_031",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0261",
+    "standard_term": "出图导向到数据服务导向",
+    "alias_or_question": "如何理解出图导向到数据服务导向？",
+    "type": "student_question",
+    "target_id": "kp_ch01_031",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0262",
+    "standard_term": "构件化理念",
+    "alias_or_question": "构件化理念",
+    "type": "alias",
+    "target_id": "kp_ch01_032",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0263",
+    "standard_term": "构件化理念",
+    "alias_or_question": "构件建模",
+    "type": "alias",
+    "target_id": "kp_ch01_032",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0264",
+    "standard_term": "构件化理念",
+    "alias_or_question": "工程对象语义化",
+    "type": "alias",
+    "target_id": "kp_ch01_032",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0265",
+    "standard_term": "构件化理念",
+    "alias_or_question": "构件化",
+    "type": "alias",
+    "target_id": "kp_ch01_032",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0266",
+    "standard_term": "构件化理念",
+    "alias_or_question": "数字构件",
+    "type": "alias",
+    "target_id": "kp_ch01_032",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0267",
+    "standard_term": "构件化理念",
+    "alias_or_question": "设施-子设施-构件",
+    "type": "alias",
+    "target_id": "kp_ch01_032",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0268",
+    "standard_term": "构件化理念",
+    "alias_or_question": "构件化理念是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_032",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0269",
+    "standard_term": "构件化理念",
+    "alias_or_question": "构件化理念有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_032",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0270",
+    "standard_term": "构件化理念",
+    "alias_or_question": "如何理解构件化理念？",
+    "type": "student_question",
+    "target_id": "kp_ch01_032",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0271",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "设施—子设施—构件体系",
+    "type": "alias",
+    "target_id": "kp_ch01_033",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0272",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "设施",
+    "type": "alias",
+    "target_id": "kp_ch01_033",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0273",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "子设施",
+    "type": "alias",
+    "target_id": "kp_ch01_033",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0274",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "构件",
+    "type": "alias",
+    "target_id": "kp_ch01_033",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0275",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "JTG/T 2421",
+    "type": "alias",
+    "target_id": "kp_ch01_033",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0276",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "设施—子设施—构件体系是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_033",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0277",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "设施—子设施—构件体系有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_033",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0278",
+    "standard_term": "设施—子设施—构件体系",
+    "alias_or_question": "如何理解设施—子设施—构件体系？",
+    "type": "student_question",
+    "target_id": "kp_ch01_033",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0279",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "数字构件属性",
+    "type": "alias",
+    "target_id": "kp_ch01_034",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0280",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "数字构件",
+    "type": "alias",
+    "target_id": "kp_ch01_034",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0281",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "属性信息",
+    "type": "alias",
+    "target_id": "kp_ch01_034",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0282",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "工程量",
+    "type": "alias",
+    "target_id": "kp_ch01_034",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0283",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "编码",
+    "type": "alias",
+    "target_id": "kp_ch01_034",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0284",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "数字构件属性是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_034",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0285",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "数字构件属性有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_034",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0286",
+    "standard_term": "数字构件属性",
+    "alias_or_question": "如何理解数字构件属性？",
+    "type": "student_question",
+    "target_id": "kp_ch01_034",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0287",
+    "standard_term": "参数化理念",
+    "alias_or_question": "参数化理念",
+    "type": "alias",
+    "target_id": "kp_ch01_035",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0288",
+    "standard_term": "参数化理念",
+    "alias_or_question": "参数驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_035",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0289",
+    "standard_term": "参数化理念",
+    "alias_or_question": "规则驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_035",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0290",
+    "standard_term": "参数化理念",
+    "alias_or_question": "参数联动",
+    "type": "alias",
+    "target_id": "kp_ch01_035",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0291",
+    "standard_term": "参数化理念",
+    "alias_or_question": "参数化",
+    "type": "alias",
+    "target_id": "kp_ch01_035",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0292",
+    "standard_term": "参数化理念",
+    "alias_or_question": "变量",
+    "type": "alias",
+    "target_id": "kp_ch01_035",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0293",
+    "standard_term": "参数化理念",
+    "alias_or_question": "约束",
+    "type": "alias",
+    "target_id": "kp_ch01_035",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0294",
+    "standard_term": "参数化理念",
+    "alias_or_question": "参数化理念是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_035",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0295",
+    "standard_term": "参数化理念",
+    "alias_or_question": "参数化理念有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_035",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0296",
+    "standard_term": "参数化理念",
+    "alias_or_question": "如何理解参数化理念？",
+    "type": "student_question",
+    "target_id": "kp_ch01_035",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0297",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "横断面模板机制",
+    "type": "alias",
+    "target_id": "kp_ch01_036",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0298",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "横断面模板",
+    "type": "alias",
+    "target_id": "kp_ch01_036",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0299",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "边坡",
+    "type": "alias",
+    "target_id": "kp_ch01_036",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0300",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "边沟",
+    "type": "alias",
+    "target_id": "kp_ch01_036",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0301",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "路基",
+    "type": "alias",
+    "target_id": "kp_ch01_036",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0302",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "横断面模板机制是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_036",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0303",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "横断面模板机制有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_036",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0304",
+    "standard_term": "横断面模板机制",
+    "alias_or_question": "如何理解横断面模板机制？",
+    "type": "student_question",
+    "target_id": "kp_ch01_036",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0305",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "规则内建机制",
+    "type": "alias",
+    "target_id": "kp_ch01_037",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0306",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "规则内建",
+    "type": "alias",
+    "target_id": "kp_ch01_037",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0307",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "规范校核",
+    "type": "alias",
+    "target_id": "kp_ch01_037",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0308",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "设计标准",
+    "type": "alias",
+    "target_id": "kp_ch01_037",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0309",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "自动校核",
+    "type": "alias",
+    "target_id": "kp_ch01_037",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0310",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "规则内建机制是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_037",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0311",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "规则内建机制有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_037",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0312",
+    "standard_term": "规则内建机制",
+    "alias_or_question": "如何理解规则内建机制？",
+    "type": "student_question",
+    "target_id": "kp_ch01_037",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0313",
+    "standard_term": "协同化理念",
+    "alias_or_question": "协同化理念",
+    "type": "alias",
+    "target_id": "kp_ch01_038",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0314",
+    "standard_term": "协同化理念",
+    "alias_or_question": "协同化",
+    "type": "alias",
+    "target_id": "kp_ch01_038",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0315",
+    "standard_term": "协同化理念",
+    "alias_or_question": "多专业协同",
+    "type": "alias",
+    "target_id": "kp_ch01_038",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0316",
+    "standard_term": "协同化理念",
+    "alias_or_question": "模型共享",
+    "type": "alias",
+    "target_id": "kp_ch01_038",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0317",
+    "standard_term": "协同化理念",
+    "alias_or_question": "协同化理念是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_038",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0318",
+    "standard_term": "协同化理念",
+    "alias_or_question": "协同化理念有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_038",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0319",
+    "standard_term": "协同化理念",
+    "alias_or_question": "如何理解协同化理念？",
+    "type": "student_question",
+    "target_id": "kp_ch01_038",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0320",
+    "standard_term": "统一信息模型",
+    "alias_or_question": "统一信息模型",
+    "type": "alias",
+    "target_id": "kp_ch01_039",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0321",
+    "standard_term": "统一信息模型",
+    "alias_or_question": "模型共享",
+    "type": "alias",
+    "target_id": "kp_ch01_039",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0322",
+    "standard_term": "统一信息模型",
+    "alias_or_question": "版本管理",
+    "type": "alias",
+    "target_id": "kp_ch01_039",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0323",
+    "standard_term": "统一信息模型",
+    "alias_or_question": "统一信息模型是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_039",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0324",
+    "standard_term": "统一信息模型",
+    "alias_or_question": "统一信息模型有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_039",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0325",
+    "standard_term": "统一信息模型",
+    "alias_or_question": "如何理解统一信息模型？",
+    "type": "student_question",
+    "target_id": "kp_ch01_039",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0326",
+    "standard_term": "CDE协同环境",
+    "alias_or_question": "CDE协同环境",
+    "type": "alias",
+    "target_id": "kp_ch01_040",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0327",
+    "standard_term": "CDE协同环境",
+    "alias_or_question": "CDE",
+    "type": "alias",
+    "target_id": "kp_ch01_040",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0328",
+    "standard_term": "CDE协同环境",
+    "alias_or_question": "公共数据环境",
+    "type": "alias",
+    "target_id": "kp_ch01_040",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0329",
+    "standard_term": "CDE协同环境",
+    "alias_or_question": "版本控制",
+    "type": "alias",
+    "target_id": "kp_ch01_040",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0330",
+    "standard_term": "CDE协同环境",
+    "alias_or_question": "CDE协同环境是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_040",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0331",
+    "standard_term": "CDE协同环境",
+    "alias_or_question": "CDE协同环境有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_040",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0332",
+    "standard_term": "CDE协同环境",
+    "alias_or_question": "如何理解CDE协同环境？",
+    "type": "student_question",
+    "target_id": "kp_ch01_040",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0333",
+    "standard_term": "生命周期化理念",
+    "alias_or_question": "生命周期化理念",
+    "type": "alias",
+    "target_id": "kp_ch01_041",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0334",
+    "standard_term": "生命周期化理念",
+    "alias_or_question": "生命周期化",
+    "type": "alias",
+    "target_id": "kp_ch01_041",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0335",
+    "standard_term": "生命周期化理念",
+    "alias_or_question": "设计施工运维",
+    "type": "alias",
+    "target_id": "kp_ch01_041",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0336",
+    "standard_term": "生命周期化理念",
+    "alias_or_question": "信息连续性",
+    "type": "alias",
+    "target_id": "kp_ch01_041",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0337",
+    "standard_term": "生命周期化理念",
+    "alias_or_question": "生命周期化理念是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_041",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0338",
+    "standard_term": "生命周期化理念",
+    "alias_or_question": "生命周期化理念有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_041",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0339",
+    "standard_term": "生命周期化理念",
+    "alias_or_question": "如何理解生命周期化理念？",
+    "type": "student_question",
+    "target_id": "kp_ch01_041",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0340",
+    "standard_term": "构件唯一标识",
+    "alias_or_question": "构件唯一标识",
+    "type": "alias",
+    "target_id": "kp_ch01_042",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0341",
+    "standard_term": "构件唯一标识",
+    "alias_or_question": "唯一标识",
+    "type": "alias",
+    "target_id": "kp_ch01_042",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0342",
+    "standard_term": "构件唯一标识",
+    "alias_or_question": "构件ID",
+    "type": "alias",
+    "target_id": "kp_ch01_042",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0343",
+    "standard_term": "构件唯一标识",
+    "alias_or_question": "资产管理",
+    "type": "alias",
+    "target_id": "kp_ch01_042",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0344",
+    "standard_term": "构件唯一标识",
+    "alias_or_question": "构件唯一标识是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_042",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0345",
+    "standard_term": "构件唯一标识",
+    "alias_or_question": "构件唯一标识有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_042",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0346",
+    "standard_term": "构件唯一标识",
+    "alias_or_question": "如何理解构件唯一标识？",
+    "type": "student_question",
+    "target_id": "kp_ch01_042",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0347",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "四大理念的关系",
+    "type": "alias",
+    "target_id": "kp_ch01_043",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0348",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "四大理念",
+    "type": "alias",
+    "target_id": "kp_ch01_043",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0349",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "构件化",
+    "type": "alias",
+    "target_id": "kp_ch01_043",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0350",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "参数化",
+    "type": "alias",
+    "target_id": "kp_ch01_043",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0351",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "协同化",
+    "type": "alias",
+    "target_id": "kp_ch01_043",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0352",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "四大理念的关系是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_043",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0353",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "四大理念的关系有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_043",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0354",
+    "standard_term": "四大理念的关系",
+    "alias_or_question": "如何理解四大理念的关系？",
+    "type": "student_question",
+    "target_id": "kp_ch01_043",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0355",
+    "standard_term": "CAD平台功能定位",
+    "alias_or_question": "CAD平台功能定位",
+    "type": "alias",
+    "target_id": "kp_ch01_044",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0356",
+    "standard_term": "CAD平台功能定位",
+    "alias_or_question": "CAD定位",
+    "type": "alias",
+    "target_id": "kp_ch01_044",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0357",
+    "standard_term": "CAD平台功能定位",
+    "alias_or_question": "图纸输出",
+    "type": "alias",
+    "target_id": "kp_ch01_044",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0358",
+    "standard_term": "CAD平台功能定位",
+    "alias_or_question": "二维绘图",
+    "type": "alias",
+    "target_id": "kp_ch01_044",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0359",
+    "standard_term": "CAD平台功能定位",
+    "alias_or_question": "CAD平台功能定位是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_044",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0360",
+    "standard_term": "CAD平台功能定位",
+    "alias_or_question": "CAD平台功能定位有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_044",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0361",
+    "standard_term": "CAD平台功能定位",
+    "alias_or_question": "如何理解CAD平台功能定位？",
+    "type": "student_question",
+    "target_id": "kp_ch01_044",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0362",
+    "standard_term": "BIM平台功能定位",
+    "alias_or_question": "BIM平台功能定位",
+    "type": "alias",
+    "target_id": "kp_ch01_045",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0363",
+    "standard_term": "BIM平台功能定位",
+    "alias_or_question": "BIM定位",
+    "type": "alias",
+    "target_id": "kp_ch01_045",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0364",
+    "standard_term": "BIM平台功能定位",
+    "alias_or_question": "三维构件",
+    "type": "alias",
+    "target_id": "kp_ch01_045",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0365",
+    "standard_term": "BIM平台功能定位",
+    "alias_or_question": "信息集成",
+    "type": "alias",
+    "target_id": "kp_ch01_045",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0366",
+    "standard_term": "BIM平台功能定位",
+    "alias_or_question": "BIM平台功能定位是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_045",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0367",
+    "standard_term": "BIM平台功能定位",
+    "alias_or_question": "BIM平台功能定位有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_045",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0368",
+    "standard_term": "BIM平台功能定位",
+    "alias_or_question": "如何理解BIM平台功能定位？",
+    "type": "student_question",
+    "target_id": "kp_ch01_045",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0369",
+    "standard_term": "GIS平台功能定位",
+    "alias_or_question": "GIS平台功能定位",
+    "type": "alias",
+    "target_id": "kp_ch01_046",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0370",
+    "standard_term": "GIS平台功能定位",
+    "alias_or_question": "GIS定位",
+    "type": "alias",
+    "target_id": "kp_ch01_046",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0371",
+    "standard_term": "GIS平台功能定位",
+    "alias_or_question": "空间分析",
+    "type": "alias",
+    "target_id": "kp_ch01_046",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0372",
+    "standard_term": "GIS平台功能定位",
+    "alias_or_question": "环境约束",
+    "type": "alias",
+    "target_id": "kp_ch01_046",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0373",
+    "standard_term": "GIS平台功能定位",
+    "alias_or_question": "GIS平台功能定位是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_046",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0374",
+    "standard_term": "GIS平台功能定位",
+    "alias_or_question": "GIS平台功能定位有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_046",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0375",
+    "standard_term": "GIS平台功能定位",
+    "alias_or_question": "如何理解GIS平台功能定位？",
+    "type": "student_question",
+    "target_id": "kp_ch01_046",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0376",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "数字孪生平台功能定位",
+    "type": "alias",
+    "target_id": "kp_ch01_047",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0377",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "虚实闭环",
+    "type": "alias",
+    "target_id": "kp_ch01_047",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0378",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "实体道路与虚拟模型",
+    "type": "alias",
+    "target_id": "kp_ch01_047",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0379",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "数字道路",
+    "type": "alias",
+    "target_id": "kp_ch01_047",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0380",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "数字孪生定位",
+    "type": "alias",
+    "target_id": "kp_ch01_047",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0381",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "动态反馈",
+    "type": "alias",
+    "target_id": "kp_ch01_047",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0382",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "运维管理",
+    "type": "alias",
+    "target_id": "kp_ch01_047",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0383",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "数字孪生平台功能定位是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_047",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0384",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "数字孪生平台功能定位有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_047",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0385",
+    "standard_term": "数字孪生平台功能定位",
+    "alias_or_question": "如何理解数字孪生平台功能定位？",
+    "type": "student_question",
+    "target_id": "kp_ch01_047",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0386",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "AI在技术体系中的角色",
+    "type": "alias",
+    "target_id": "kp_ch01_048",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0387",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "AI",
+    "type": "alias",
+    "target_id": "kp_ch01_048",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0388",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "算法模块",
+    "type": "alias",
+    "target_id": "kp_ch01_048",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0389",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "智能推荐",
+    "type": "alias",
+    "target_id": "kp_ch01_048",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0390",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "规则校核",
+    "type": "alias",
+    "target_id": "kp_ch01_048",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0391",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "AI在技术体系中的角色是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_048",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0392",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "AI在技术体系中的角色有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_048",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0393",
+    "standard_term": "AI在技术体系中的角色",
+    "alias_or_question": "如何理解AI在技术体系中的角色？",
+    "type": "student_question",
+    "target_id": "kp_ch01_048",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0394",
+    "standard_term": "GIS—BIM—CAD主干流程",
+    "alias_or_question": "GIS—BIM—CAD主干流程",
+    "type": "alias",
+    "target_id": "kp_ch01_049",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0395",
+    "standard_term": "GIS—BIM—CAD主干流程",
+    "alias_or_question": "GIS-BIM-CAD",
+    "type": "alias",
+    "target_id": "kp_ch01_049",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0396",
+    "standard_term": "GIS—BIM—CAD主干流程",
+    "alias_or_question": "主干流程",
+    "type": "alias",
+    "target_id": "kp_ch01_049",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0397",
+    "standard_term": "GIS—BIM—CAD主干流程",
+    "alias_or_question": "平台协同",
+    "type": "alias",
+    "target_id": "kp_ch01_049",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0398",
+    "standard_term": "GIS—BIM—CAD主干流程",
+    "alias_or_question": "GIS—BIM—CAD主干流程是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_049",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0399",
+    "standard_term": "GIS—BIM—CAD主干流程",
+    "alias_or_question": "GIS—BIM—CAD主干流程有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_049",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0400",
+    "standard_term": "GIS—BIM—CAD主干流程",
+    "alias_or_question": "如何理解GIS—BIM—CAD主干流程？",
+    "type": "student_question",
+    "target_id": "kp_ch01_049",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0401",
+    "standard_term": "空间—构件协同机制",
+    "alias_or_question": "空间—构件协同机制",
+    "type": "alias",
+    "target_id": "kp_ch01_050",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0402",
+    "standard_term": "空间—构件协同机制",
+    "alias_or_question": "空间构件协同",
+    "type": "alias",
+    "target_id": "kp_ch01_050",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0403",
+    "standard_term": "空间—构件协同机制",
+    "alias_or_question": "坐标统一",
+    "type": "alias",
+    "target_id": "kp_ch01_050",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0404",
+    "standard_term": "空间—构件协同机制",
+    "alias_or_question": "属性映射",
+    "type": "alias",
+    "target_id": "kp_ch01_050",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0405",
+    "standard_term": "空间—构件协同机制",
+    "alias_or_question": "空间—构件协同机制是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_050",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0406",
+    "standard_term": "空间—构件协同机制",
+    "alias_or_question": "空间—构件协同机制有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_050",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0407",
+    "standard_term": "空间—构件协同机制",
+    "alias_or_question": "如何理解空间—构件协同机制？",
+    "type": "student_question",
+    "target_id": "kp_ch01_050",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0408",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "二维—三维—全息表达联动",
+    "type": "alias",
+    "target_id": "kp_ch01_051",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0409",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "二维三维全息",
+    "type": "alias",
+    "target_id": "kp_ch01_051",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0410",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "CAD",
+    "type": "alias",
+    "target_id": "kp_ch01_051",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0411",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "BIM",
+    "type": "alias",
+    "target_id": "kp_ch01_051",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0412",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "数字孪生",
+    "type": "alias",
+    "target_id": "kp_ch01_051",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0413",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "二维—三维—全息表达联动是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_051",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0414",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "二维—三维—全息表达联动有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_051",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0415",
+    "standard_term": "二维—三维—全息表达联动",
+    "alias_or_question": "如何理解二维—三维—全息表达联动？",
+    "type": "student_question",
+    "target_id": "kp_ch01_051",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0416",
+    "standard_term": "规则—模型—数据路径",
+    "alias_or_question": "规则—模型—数据路径",
+    "type": "alias",
+    "target_id": "kp_ch01_052",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0417",
+    "standard_term": "规则—模型—数据路径",
+    "alias_or_question": "规则模型数据",
+    "type": "alias",
+    "target_id": "kp_ch01_052",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0418",
+    "standard_term": "规则—模型—数据路径",
+    "alias_or_question": "设计规范",
+    "type": "alias",
+    "target_id": "kp_ch01_052",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0419",
+    "standard_term": "规则—模型—数据路径",
+    "alias_or_question": "模型生成",
+    "type": "alias",
+    "target_id": "kp_ch01_052",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0420",
+    "standard_term": "规则—模型—数据路径",
+    "alias_or_question": "规则—模型—数据路径是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_052",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0421",
+    "standard_term": "规则—模型—数据路径",
+    "alias_or_question": "规则—模型—数据路径有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_052",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0422",
+    "standard_term": "规则—模型—数据路径",
+    "alias_or_question": "如何理解规则—模型—数据路径？",
+    "type": "student_question",
+    "target_id": "kp_ch01_052",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0423",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "接口与数据标准体系",
+    "type": "alias",
+    "target_id": "kp_ch01_053",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0424",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "数据标准",
+    "type": "alias",
+    "target_id": "kp_ch01_053",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0425",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "接口",
+    "type": "alias",
+    "target_id": "kp_ch01_053",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0426",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "IFC",
+    "type": "alias",
+    "target_id": "kp_ch01_053",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0427",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "LandXML",
+    "type": "alias",
+    "target_id": "kp_ch01_053",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0428",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "接口与数据标准体系是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_053",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0429",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "接口与数据标准体系有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_053",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0430",
+    "standard_term": "接口与数据标准体系",
+    "alias_or_question": "如何理解接口与数据标准体系？",
+    "type": "student_question",
+    "target_id": "kp_ch01_053",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0431",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "传统道路设计流程短板",
+    "type": "alias",
+    "target_id": "kp_ch01_054",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0432",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "传统流程",
+    "type": "alias",
+    "target_id": "kp_ch01_054",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0433",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "图纸流程",
+    "type": "alias",
+    "target_id": "kp_ch01_054",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0434",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "数据分散",
+    "type": "alias",
+    "target_id": "kp_ch01_054",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0435",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "协同困难",
+    "type": "alias",
+    "target_id": "kp_ch01_054",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0436",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "传统道路设计流程短板是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_054",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0437",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "传统道路设计流程短板有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_054",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0438",
+    "standard_term": "传统道路设计流程短板",
+    "alias_or_question": "如何理解传统道路设计流程短板？",
+    "type": "student_question",
+    "target_id": "kp_ch01_054",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0439",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "以模型为核心的数字化设计流程",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0440",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "以模型为核心的数字设计流程",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0441",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "模型驱动流程",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0442",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "模型中心设计",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0443",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "模型化设计流程",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0444",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "模型核心流程",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0445",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "GIS选线",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0446",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "BIM建模",
+    "type": "alias",
+    "target_id": "kp_ch01_055",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0447",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "以模型为核心的数字化设计流程是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_055",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0448",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "以模型为核心的数字化设计流程有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_055",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0449",
+    "standard_term": "以模型为核心的数字化设计流程",
+    "alias_or_question": "如何理解以模型为核心的数字化设计流程？",
+    "type": "student_question",
+    "target_id": "kp_ch01_055",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0450",
+    "standard_term": "GIS空间选线与数据整合",
+    "alias_or_question": "GIS空间选线与数据整合",
+    "type": "alias",
+    "target_id": "kp_ch01_056",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0451",
+    "standard_term": "GIS空间选线与数据整合",
+    "alias_or_question": "GIS选线",
+    "type": "alias",
+    "target_id": "kp_ch01_056",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0452",
+    "standard_term": "GIS空间选线与数据整合",
+    "alias_or_question": "多源数据",
+    "type": "alias",
+    "target_id": "kp_ch01_056",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0453",
+    "standard_term": "GIS空间选线与数据整合",
+    "alias_or_question": "路线方案",
+    "type": "alias",
+    "target_id": "kp_ch01_056",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0454",
+    "standard_term": "GIS空间选线与数据整合",
+    "alias_or_question": "GIS空间选线与数据整合是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_056",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0455",
+    "standard_term": "GIS空间选线与数据整合",
+    "alias_or_question": "GIS空间选线与数据整合有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_056",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0456",
+    "standard_term": "GIS空间选线与数据整合",
+    "alias_or_question": "如何理解GIS空间选线与数据整合？",
+    "type": "student_question",
+    "target_id": "kp_ch01_056",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0457",
+    "standard_term": "AI/GIS辅助路线选择",
+    "alias_or_question": "AI/GIS辅助路线选择",
+    "type": "alias",
+    "target_id": "kp_ch01_057",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0458",
+    "standard_term": "AI/GIS辅助路线选择",
+    "alias_or_question": "AI选线",
+    "type": "alias",
+    "target_id": "kp_ch01_057",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0459",
+    "standard_term": "AI/GIS辅助路线选择",
+    "alias_or_question": "GIS分析",
+    "type": "alias",
+    "target_id": "kp_ch01_057",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0460",
+    "standard_term": "AI/GIS辅助路线选择",
+    "alias_or_question": "智能选线",
+    "type": "alias",
+    "target_id": "kp_ch01_057",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0461",
+    "standard_term": "AI/GIS辅助路线选择",
+    "alias_or_question": "AI/GIS辅助路线选择是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_057",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0462",
+    "standard_term": "AI/GIS辅助路线选择",
+    "alias_or_question": "AI/GIS辅助路线选择有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_057",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0463",
+    "standard_term": "AI/GIS辅助路线选择",
+    "alias_or_question": "如何理解AI/GIS辅助路线选择？",
+    "type": "student_question",
+    "target_id": "kp_ch01_057",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0464",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "BIM参数化建模与构件表达",
+    "type": "alias",
+    "target_id": "kp_ch01_058",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0465",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "参数驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_058",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0466",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "规则驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_058",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0467",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "参数联动",
+    "type": "alias",
+    "target_id": "kp_ch01_058",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0468",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "BIM建模",
+    "type": "alias",
+    "target_id": "kp_ch01_058",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0469",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "构件表达",
+    "type": "alias",
+    "target_id": "kp_ch01_058",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0470",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "参数化",
+    "type": "alias",
+    "target_id": "kp_ch01_058",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0471",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "BIM参数化建模与构件表达是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_058",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0472",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "BIM参数化建模与构件表达有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_058",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0473",
+    "standard_term": "BIM参数化建模与构件表达",
+    "alias_or_question": "如何理解BIM参数化建模与构件表达？",
+    "type": "student_question",
+    "target_id": "kp_ch01_058",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0474",
+    "standard_term": "路线驱动建模",
+    "alias_or_question": "路线驱动建模",
+    "type": "alias",
+    "target_id": "kp_ch01_059",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0475",
+    "standard_term": "路线驱动建模",
+    "alias_or_question": "路线驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_059",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0476",
+    "standard_term": "路线驱动建模",
+    "alias_or_question": "桩号",
+    "type": "alias",
+    "target_id": "kp_ch01_059",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0477",
+    "standard_term": "路线驱动建模",
+    "alias_or_question": "廊道模型",
+    "type": "alias",
+    "target_id": "kp_ch01_059",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0478",
+    "standard_term": "路线驱动建模",
+    "alias_or_question": "路线驱动建模是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_059",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0479",
+    "standard_term": "路线驱动建模",
+    "alias_or_question": "路线驱动建模有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_059",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0480",
+    "standard_term": "路线驱动建模",
+    "alias_or_question": "如何理解路线驱动建模？",
+    "type": "student_question",
+    "target_id": "kp_ch01_059",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0481",
+    "standard_term": "构件关联逻辑控制",
+    "alias_or_question": "构件关联逻辑控制",
+    "type": "alias",
+    "target_id": "kp_ch01_060",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0482",
+    "standard_term": "构件关联逻辑控制",
+    "alias_or_question": "构件关联",
+    "type": "alias",
+    "target_id": "kp_ch01_060",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0483",
+    "standard_term": "构件关联逻辑控制",
+    "alias_or_question": "参数联动",
+    "type": "alias",
+    "target_id": "kp_ch01_060",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0484",
+    "standard_term": "构件关联逻辑控制",
+    "alias_or_question": "设计变更",
+    "type": "alias",
+    "target_id": "kp_ch01_060",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0485",
+    "standard_term": "构件关联逻辑控制",
+    "alias_or_question": "构件关联逻辑控制是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_060",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0486",
+    "standard_term": "构件关联逻辑控制",
+    "alias_or_question": "构件关联逻辑控制有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_060",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0487",
+    "standard_term": "构件关联逻辑控制",
+    "alias_or_question": "如何理解构件关联逻辑控制？",
+    "type": "student_question",
+    "target_id": "kp_ch01_060",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0488",
+    "standard_term": "模型协同与冲突预警",
+    "alias_or_question": "模型协同与冲突预警",
+    "type": "alias",
+    "target_id": "kp_ch01_061",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0489",
+    "standard_term": "模型协同与冲突预警",
+    "alias_or_question": "模型协同",
+    "type": "alias",
+    "target_id": "kp_ch01_061",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0490",
+    "standard_term": "模型协同与冲突预警",
+    "alias_or_question": "冲突预警",
+    "type": "alias",
+    "target_id": "kp_ch01_061",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0491",
+    "standard_term": "模型协同与冲突预警",
+    "alias_or_question": "专业协调",
+    "type": "alias",
+    "target_id": "kp_ch01_061",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0492",
+    "standard_term": "模型协同与冲突预警",
+    "alias_or_question": "模型协同与冲突预警是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_061",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0493",
+    "standard_term": "模型协同与冲突预警",
+    "alias_or_question": "模型协同与冲突预警有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_061",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0494",
+    "standard_term": "模型协同与冲突预警",
+    "alias_or_question": "如何理解模型协同与冲突预警？",
+    "type": "student_question",
+    "target_id": "kp_ch01_061",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0495",
+    "standard_term": "模型驱动成果输出",
+    "alias_or_question": "模型驱动成果输出",
+    "type": "alias",
+    "target_id": "kp_ch01_062",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0496",
+    "standard_term": "模型驱动成果输出",
+    "alias_or_question": "模型出图",
+    "type": "alias",
+    "target_id": "kp_ch01_062",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0497",
+    "standard_term": "模型驱动成果输出",
+    "alias_or_question": "工程量清单",
+    "type": "alias",
+    "target_id": "kp_ch01_062",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0498",
+    "standard_term": "模型驱动成果输出",
+    "alias_or_question": "成果输出",
+    "type": "alias",
+    "target_id": "kp_ch01_062",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0499",
+    "standard_term": "模型驱动成果输出",
+    "alias_or_question": "模型驱动成果输出是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_062",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0500",
+    "standard_term": "模型驱动成果输出",
+    "alias_or_question": "模型驱动成果输出有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_062",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0501",
+    "standard_term": "模型驱动成果输出",
+    "alias_or_question": "如何理解模型驱动成果输出？",
+    "type": "student_question",
+    "target_id": "kp_ch01_062",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0502",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "标准化模型交付",
+    "type": "alias",
+    "target_id": "kp_ch01_063",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0503",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "标准化交付",
+    "type": "alias",
+    "target_id": "kp_ch01_063",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0504",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "IFC",
+    "type": "alias",
+    "target_id": "kp_ch01_063",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0505",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "LandXML",
+    "type": "alias",
+    "target_id": "kp_ch01_063",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0506",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "CityGML",
+    "type": "alias",
+    "target_id": "kp_ch01_063",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0507",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "标准化模型交付是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_063",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0508",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "标准化模型交付有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_063",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0509",
+    "standard_term": "标准化模型交付",
+    "alias_or_question": "如何理解标准化模型交付？",
+    "type": "student_question",
+    "target_id": "kp_ch01_063",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0510",
+    "standard_term": "模型直通施工与运维",
+    "alias_or_question": "模型直通施工与运维",
+    "type": "alias",
+    "target_id": "kp_ch01_064",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0511",
+    "standard_term": "模型直通施工与运维",
+    "alias_or_question": "施工运维",
+    "type": "alias",
+    "target_id": "kp_ch01_064",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0512",
+    "standard_term": "模型直通施工与运维",
+    "alias_or_question": "模型直通",
+    "type": "alias",
+    "target_id": "kp_ch01_064",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0513",
+    "standard_term": "模型直通施工与运维",
+    "alias_or_question": "生命周期",
+    "type": "alias",
+    "target_id": "kp_ch01_064",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0514",
+    "standard_term": "模型直通施工与运维",
+    "alias_or_question": "模型直通施工与运维是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_064",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0515",
+    "standard_term": "模型直通施工与运维",
+    "alias_or_question": "模型直通施工与运维有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_064",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0516",
+    "standard_term": "模型直通施工与运维",
+    "alias_or_question": "如何理解模型直通施工与运维？",
+    "type": "student_question",
+    "target_id": "kp_ch01_064",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0517",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "数据驱动的设计控制机制",
+    "type": "alias",
+    "target_id": "kp_ch01_065",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0518",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "数据驱动",
+    "type": "alias",
+    "target_id": "kp_ch01_065",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0519",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "规则控制",
+    "type": "alias",
+    "target_id": "kp_ch01_065",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0520",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "构件属性",
+    "type": "alias",
+    "target_id": "kp_ch01_065",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0521",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "过程可视化",
+    "type": "alias",
+    "target_id": "kp_ch01_065",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0522",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "数据驱动的设计控制机制是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_065",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0523",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "数据驱动的设计控制机制有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_065",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0524",
+    "standard_term": "数据驱动的设计控制机制",
+    "alias_or_question": "如何理解数据驱动的设计控制机制？",
+    "type": "student_question",
+    "target_id": "kp_ch01_065",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0525",
+    "standard_term": "标准规范数据化",
+    "alias_or_question": "标准规范数据化",
+    "type": "alias",
+    "target_id": "kp_ch01_066",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0526",
+    "standard_term": "标准规范数据化",
+    "alias_or_question": "规范数据化",
+    "type": "alias",
+    "target_id": "kp_ch01_066",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0527",
+    "standard_term": "标准规范数据化",
+    "alias_or_question": "规则引擎",
+    "type": "alias",
+    "target_id": "kp_ch01_066",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0528",
+    "standard_term": "标准规范数据化",
+    "alias_or_question": "自动校核",
+    "type": "alias",
+    "target_id": "kp_ch01_066",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0529",
+    "standard_term": "标准规范数据化",
+    "alias_or_question": "标准规范数据化是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_066",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0530",
+    "standard_term": "标准规范数据化",
+    "alias_or_question": "标准规范数据化有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_066",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0531",
+    "standard_term": "标准规范数据化",
+    "alias_or_question": "如何理解标准规范数据化？",
+    "type": "student_question",
+    "target_id": "kp_ch01_066",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0532",
+    "standard_term": "构件属性标准化",
+    "alias_or_question": "构件属性标准化",
+    "type": "alias",
+    "target_id": "kp_ch01_067",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0533",
+    "standard_term": "构件属性标准化",
+    "alias_or_question": "属性标准化",
+    "type": "alias",
+    "target_id": "kp_ch01_067",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0534",
+    "standard_term": "构件属性标准化",
+    "alias_or_question": "构件编码",
+    "type": "alias",
+    "target_id": "kp_ch01_067",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0535",
+    "standard_term": "构件属性标准化",
+    "alias_or_question": "字段规范",
+    "type": "alias",
+    "target_id": "kp_ch01_067",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0536",
+    "standard_term": "构件属性标准化",
+    "alias_or_question": "构件属性标准化是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_067",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0537",
+    "standard_term": "构件属性标准化",
+    "alias_or_question": "构件属性标准化有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_067",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0538",
+    "standard_term": "构件属性标准化",
+    "alias_or_question": "如何理解构件属性标准化？",
+    "type": "student_question",
+    "target_id": "kp_ch01_067",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0539",
+    "standard_term": "过程控制可视化",
+    "alias_or_question": "过程控制可视化",
+    "type": "alias",
+    "target_id": "kp_ch01_068",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0540",
+    "standard_term": "过程控制可视化",
+    "alias_or_question": "过程可视化",
+    "type": "alias",
+    "target_id": "kp_ch01_068",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0541",
+    "standard_term": "过程控制可视化",
+    "alias_or_question": "设计审查",
+    "type": "alias",
+    "target_id": "kp_ch01_068",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0542",
+    "standard_term": "过程控制可视化",
+    "alias_or_question": "变更追踪",
+    "type": "alias",
+    "target_id": "kp_ch01_068",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0543",
+    "standard_term": "过程控制可视化",
+    "alias_or_question": "过程控制可视化是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_068",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0544",
+    "standard_term": "过程控制可视化",
+    "alias_or_question": "过程控制可视化有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_068",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0545",
+    "standard_term": "过程控制可视化",
+    "alias_or_question": "如何理解过程控制可视化？",
+    "type": "student_question",
+    "target_id": "kp_ch01_068",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0546",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "前期分析工具组合",
+    "type": "alias",
+    "target_id": "kp_ch01_069",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0547",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "ArcGIS",
+    "type": "alias",
+    "target_id": "kp_ch01_069",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0548",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "QGIS",
+    "type": "alias",
+    "target_id": "kp_ch01_069",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0549",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "SuperMap",
+    "type": "alias",
+    "target_id": "kp_ch01_069",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0550",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "MapGIS",
+    "type": "alias",
+    "target_id": "kp_ch01_069",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0551",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "前期分析工具组合是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_069",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0552",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "前期分析工具组合有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_069",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0553",
+    "standard_term": "前期分析工具组合",
+    "alias_or_question": "如何理解前期分析工具组合？",
+    "type": "student_question",
+    "target_id": "kp_ch01_069",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0554",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "BIM建模平台组合",
+    "type": "alias",
+    "target_id": "kp_ch01_070",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0555",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "OpenRoads",
+    "type": "alias",
+    "target_id": "kp_ch01_070",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0556",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "Civil 3D",
+    "type": "alias",
+    "target_id": "kp_ch01_070",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0557",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "CNCCBIM",
+    "type": "alias",
+    "target_id": "kp_ch01_070",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0558",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "RoadBIM",
+    "type": "alias",
+    "target_id": "kp_ch01_070",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0559",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "BIM建模平台组合是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_070",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0560",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "BIM建模平台组合有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_070",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0561",
+    "standard_term": "BIM建模平台组合",
+    "alias_or_question": "如何理解BIM建模平台组合？",
+    "type": "student_question",
+    "target_id": "kp_ch01_070",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0562",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "CAD出图工具定位",
+    "type": "alias",
+    "target_id": "kp_ch01_071",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0563",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "AutoCAD",
+    "type": "alias",
+    "target_id": "kp_ch01_071",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0564",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "纬地",
+    "type": "alias",
+    "target_id": "kp_ch01_071",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0565",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "EICAD",
+    "type": "alias",
+    "target_id": "kp_ch01_071",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0566",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "出图",
+    "type": "alias",
+    "target_id": "kp_ch01_071",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0567",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "CAD出图工具定位是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_071",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0568",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "CAD出图工具定位有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_071",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0569",
+    "standard_term": "CAD出图工具定位",
+    "alias_or_question": "如何理解CAD出图工具定位？",
+    "type": "student_question",
+    "target_id": "kp_ch01_071",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0570",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "施工协同与运维准备平台",
+    "type": "alias",
+    "target_id": "kp_ch01_072",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0571",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "Navisworks",
+    "type": "alias",
+    "target_id": "kp_ch01_072",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0572",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "Synchro",
+    "type": "alias",
+    "target_id": "kp_ch01_072",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0573",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "iTwin",
+    "type": "alias",
+    "target_id": "kp_ch01_072",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0574",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "运维准备",
+    "type": "alias",
+    "target_id": "kp_ch01_072",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0575",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "施工协同与运维准备平台是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_072",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0576",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "施工协同与运维准备平台有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_072",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0577",
+    "standard_term": "施工协同与运维准备平台",
+    "alias_or_question": "如何理解施工协同与运维准备平台？",
+    "type": "student_question",
+    "target_id": "kp_ch01_072",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0578",
+    "standard_term": "数据资产交付",
+    "alias_or_question": "数据资产交付",
+    "type": "alias",
+    "target_id": "kp_ch01_073",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0579",
+    "standard_term": "数据资产交付",
+    "alias_or_question": "数据资产",
+    "type": "alias",
+    "target_id": "kp_ch01_073",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0580",
+    "standard_term": "数据资产交付",
+    "alias_or_question": "模型交付",
+    "type": "alias",
+    "target_id": "kp_ch01_073",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0581",
+    "standard_term": "数据资产交付",
+    "alias_or_question": "元数据",
+    "type": "alias",
+    "target_id": "kp_ch01_073",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0582",
+    "standard_term": "数据资产交付",
+    "alias_or_question": "数据资产交付是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_073",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0583",
+    "standard_term": "数据资产交付",
+    "alias_or_question": "数据资产交付有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_073",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0584",
+    "standard_term": "数据资产交付",
+    "alias_or_question": "如何理解数据资产交付？",
+    "type": "student_question",
+    "target_id": "kp_ch01_073",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0585",
+    "standard_term": "图纸交付与模型交付区别",
+    "alias_or_question": "图纸交付与模型交付区别",
+    "type": "alias",
+    "target_id": "kp_ch01_074",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0586",
+    "standard_term": "图纸交付与模型交付区别",
+    "alias_or_question": "图纸交付",
+    "type": "alias",
+    "target_id": "kp_ch01_074",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0587",
+    "standard_term": "图纸交付与模型交付区别",
+    "alias_or_question": "模型交付",
+    "type": "alias",
+    "target_id": "kp_ch01_074",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0588",
+    "standard_term": "图纸交付与模型交付区别",
+    "alias_or_question": "成果差异",
+    "type": "alias",
+    "target_id": "kp_ch01_074",
+    "priority": 3
+  },
+  {
+    "synonym_id": "syn_ch01_0589",
+    "standard_term": "图纸交付与模型交付区别",
+    "alias_or_question": "图纸交付与模型交付区别是什么？",
+    "type": "student_question",
+    "target_id": "kp_ch01_074",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0590",
+    "standard_term": "图纸交付与模型交付区别",
+    "alias_or_question": "图纸交付与模型交付区别有哪些要点？",
+    "type": "student_question",
+    "target_id": "kp_ch01_074",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0591",
+    "standard_term": "图纸交付与模型交付区别",
+    "alias_or_question": "如何理解图纸交付与模型交付区别？",
+    "type": "student_question",
+    "target_id": "kp_ch01_074",
+    "priority": 4
+  },
+  {
+    "synonym_id": "syn_ch01_0592",
+    "standard_term": "道路工程数字化设计经历了哪些主要阶段？",
+    "alias_or_question": "道路数字化设计经历了哪些阶段？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_001",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0593",
+    "standard_term": "道路工程数字化设计经历了哪些主要阶段？",
+    "alias_or_question": "CAD到BIM再到数字孪生怎么演进？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_001",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0594",
+    "standard_term": "道路工程数字化设计经历了哪些主要阶段？",
+    "alias_or_question": "第一章讲的数字化发展历程是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_001",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0595",
+    "standard_term": "为什么说道路数字化设计不是简单的软件升级？",
+    "alias_or_question": "为什么说道路数字化设计不是简单的软件升级",
+    "type": "answer_question",
+    "target_id": "ans_ch01_002",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0596",
+    "standard_term": "为什么说道路数字化设计不是简单的软件升级？",
+    "alias_or_question": "为什么说道路数字化设计不是简单的软件升级？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_002",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0597",
+    "standard_term": "为什么说道路数字化设计不是简单的软件升级？",
+    "alias_or_question": "为什么说道路数字设计不是简单的软件升级？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_002",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0598",
+    "standard_term": "CAD阶段的主要技术特征是什么？",
+    "alias_or_question": "CAD阶段的主要技术特征是什么",
+    "type": "answer_question",
+    "target_id": "ans_ch01_003",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0599",
+    "standard_term": "CAD阶段的主要技术特征是什么？",
+    "alias_or_question": "CAD阶段的主要技术特征是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_003",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0600",
+    "standard_term": "CAD阶段的主要技术特征是什么？",
+    "alias_or_question": "CAD阶段的主要技术特征是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_003",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0601",
+    "standard_term": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+    "alias_or_question": "CAD阶段主要解决了什么问题，又存在哪些局限",
+    "type": "answer_question",
+    "target_id": "ans_ch01_004",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0602",
+    "standard_term": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+    "alias_or_question": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_004",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0603",
+    "standard_term": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+    "alias_or_question": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_004",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0604",
+    "standard_term": "CAD图元和BIM构件有什么本质区别？",
+    "alias_or_question": "CAD图元和BIM构件有什么本质区别",
+    "type": "answer_question",
+    "target_id": "ans_ch01_005",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0605",
+    "standard_term": "CAD图元和BIM构件有什么本质区别？",
+    "alias_or_question": "CAD图元和BIM构件有什么本质区别？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_005",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0606",
+    "standard_term": "CAD图元和BIM构件有什么本质区别？",
+    "alias_or_question": "CAD图元和BIM构件有什么本质区别？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_005",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0607",
+    "standard_term": "BIM阶段的核心变化是什么？",
+    "alias_or_question": "BIM阶段的核心变化是什么",
+    "type": "answer_question",
+    "target_id": "ans_ch01_006",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0608",
+    "standard_term": "BIM阶段的核心变化是什么？",
+    "alias_or_question": "BIM阶段的核心变化是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_006",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0609",
+    "standard_term": "BIM阶段的核心变化是什么？",
+    "alias_or_question": "BIM阶段的核心变化是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_006",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0610",
+    "standard_term": "为什么说BIM不是简单的三维模型？",
+    "alias_or_question": "为什么说BIM不是简单的三维模型",
+    "type": "answer_question",
+    "target_id": "ans_ch01_007",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0611",
+    "standard_term": "为什么说BIM不是简单的三维模型？",
+    "alias_or_question": "为什么说BIM不是简单的三维模型？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_007",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0612",
+    "standard_term": "为什么说BIM不是简单的三维模型？",
+    "alias_or_question": "为什么说BIM不是简单的三维模型？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_007",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0613",
+    "standard_term": "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？",
+    "alias_or_question": "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点",
+    "type": "answer_question",
+    "target_id": "ans_ch01_008",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0614",
+    "standard_term": "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？",
+    "alias_or_question": "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_008",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0615",
+    "standard_term": "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？",
+    "alias_or_question": "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_008",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0616",
+    "standard_term": "道路BIM推广面临哪些主要挑战？",
+    "alias_or_question": "道路BIM推广面临哪些主要挑战",
+    "type": "answer_question",
+    "target_id": "ans_ch01_009",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0617",
+    "standard_term": "道路BIM推广面临哪些主要挑战？",
+    "alias_or_question": "道路BIM推广面临哪些主要挑战？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_009",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0618",
+    "standard_term": "道路BIM推广面临哪些主要挑战？",
+    "alias_or_question": "道路BIM推广面临哪些主要挑战？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_009",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0619",
+    "standard_term": "GIS在现代道路设计中的主要作用是什么？",
+    "alias_or_question": "GIS在现代道路设计中的主要作用是什么",
+    "type": "answer_question",
+    "target_id": "ans_ch01_010",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0620",
+    "standard_term": "GIS在现代道路设计中的主要作用是什么？",
+    "alias_or_question": "GIS在现代道路设计中的主要作用是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_010",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0621",
+    "standard_term": "GIS在现代道路设计中的主要作用是什么？",
+    "alias_or_question": "GIS在现代道路设计中的主要作用是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_010",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0622",
+    "standard_term": "BIM+GIS融合主要体现在哪些层次？",
+    "alias_or_question": "BIM+GIS融合主要体现在哪些层次",
+    "type": "answer_question",
+    "target_id": "ans_ch01_011",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0623",
+    "standard_term": "BIM+GIS融合主要体现在哪些层次？",
+    "alias_or_question": "BIM+GIS融合主要体现在哪些层次？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_011",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0624",
+    "standard_term": "BIM+GIS融合主要体现在哪些层次？",
+    "alias_or_question": "BIM+GIS融合主要体现在哪些层次？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_011",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0625",
+    "standard_term": "数字孪生与BIM有什么区别？",
+    "alias_or_question": "数字孪生与BIM有什么区别",
+    "type": "answer_question",
+    "target_id": "ans_ch01_012",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0626",
+    "standard_term": "数字孪生与BIM有什么区别？",
+    "alias_or_question": "数字孪生与BIM有什么区别？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_012",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0627",
+    "standard_term": "数字孪生与BIM有什么区别？",
+    "alias_or_question": "数字孪生与BIM有什么区别？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_012",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0628",
+    "standard_term": "数字孪生的虚实闭环包括哪些环节？",
+    "alias_or_question": "数字孪生的虚实闭环包括哪些环节",
+    "type": "answer_question",
+    "target_id": "ans_ch01_013",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0629",
+    "standard_term": "数字孪生的虚实闭环包括哪些环节？",
+    "alias_or_question": "数字孪生的虚实闭环包括哪些环节？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_013",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0630",
+    "standard_term": "数字孪生的虚实闭环包括哪些环节？",
+    "alias_or_question": "数字孪生的虚实闭环包括哪些环节？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_013",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0631",
+    "standard_term": "什么是道路工程数字化设计？",
+    "alias_or_question": "什么是道路工程数字化设计",
+    "type": "answer_question",
+    "target_id": "ans_ch01_014",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0632",
+    "standard_term": "什么是道路工程数字化设计？",
+    "alias_or_question": "什么是道路数字化设计？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_014",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0633",
+    "standard_term": "什么是道路工程数字化设计？",
+    "alias_or_question": "什么是道路工程数字设计？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_014",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0634",
+    "standard_term": "道路工程数字化设计的四大核心理念包括哪些？",
+    "alias_or_question": "数字化设计理念有哪些？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_015",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0635",
+    "standard_term": "道路工程数字化设计的四大核心理念包括哪些？",
+    "alias_or_question": "构件化参数化协同化生命周期化分别是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_015",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0636",
+    "standard_term": "道路工程数字化设计的四大核心理念包括哪些？",
+    "alias_or_question": "四大理念怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_015",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0637",
+    "standard_term": "如何理解构件化理念？",
+    "alias_or_question": "如何理解构件化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_016",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0638",
+    "standard_term": "如何理解构件化理念？",
+    "alias_or_question": "如何理解构件化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_016",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0639",
+    "standard_term": "如何理解构件化理念？",
+    "alias_or_question": "如何理解构件化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_016",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0640",
+    "standard_term": "如何理解参数化理念？",
+    "alias_or_question": "如何理解参数化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_017",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0641",
+    "standard_term": "如何理解参数化理念？",
+    "alias_or_question": "如何理解参数化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_017",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0642",
+    "standard_term": "如何理解参数化理念？",
+    "alias_or_question": "如何理解参数化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_017",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0643",
+    "standard_term": "如何理解协同化理念？",
+    "alias_or_question": "如何理解协同化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_018",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0644",
+    "standard_term": "如何理解协同化理念？",
+    "alias_or_question": "如何理解协同化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_018",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0645",
+    "standard_term": "如何理解协同化理念？",
+    "alias_or_question": "如何理解协同化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_018",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0646",
+    "standard_term": "如何理解生命周期化理念？",
+    "alias_or_question": "如何理解生命周期化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_019",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0647",
+    "standard_term": "如何理解生命周期化理念？",
+    "alias_or_question": "如何理解生命周期化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_019",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0648",
+    "standard_term": "如何理解生命周期化理念？",
+    "alias_or_question": "如何理解生命周期化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_019",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0649",
+    "standard_term": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
+    "alias_or_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同",
+    "type": "answer_question",
+    "target_id": "ans_ch01_020",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0650",
+    "standard_term": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
+    "alias_or_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_020",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0651",
+    "standard_term": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
+    "alias_or_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_020",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0652",
+    "standard_term": "为什么CAD在数字化设计体系中仍然重要？",
+    "alias_or_question": "为什么CAD在数字化设计体系中仍然重要",
+    "type": "answer_question",
+    "target_id": "ans_ch01_021",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0653",
+    "standard_term": "为什么CAD在数字化设计体系中仍然重要？",
+    "alias_or_question": "为什么CAD在数字化设计体系中仍然重要？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_021",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0654",
+    "standard_term": "为什么CAD在数字化设计体系中仍然重要？",
+    "alias_or_question": "为什么CAD在数字设计体系中仍然重要？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_021",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0655",
+    "standard_term": "AI在道路工程数字化设计体系中的角色是什么？",
+    "alias_or_question": "AI在道路工程数字化设计体系中的角色是什么",
+    "type": "answer_question",
+    "target_id": "ans_ch01_022",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0656",
+    "standard_term": "AI在道路工程数字化设计体系中的角色是什么？",
+    "alias_or_question": "AI在道路数字化设计体系中的角色是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_022",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0657",
+    "standard_term": "AI在道路工程数字化设计体系中的角色是什么？",
+    "alias_or_question": "AI在道路工程数字设计体系中的角色是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_022",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0658",
+    "standard_term": "什么是空间—构件协同？",
+    "alias_or_question": "什么是空间—构件协同",
+    "type": "answer_question",
+    "target_id": "ans_ch01_023",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0659",
+    "standard_term": "什么是空间—构件协同？",
+    "alias_or_question": "什么是空间—构件协同？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_023",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0660",
+    "standard_term": "什么是空间—构件协同？",
+    "alias_or_question": "什么是空间—构件协同？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_023",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0661",
+    "standard_term": "二维、三维和全息表达分别指什么？",
+    "alias_or_question": "二维、三维和全息表达分别指什么",
+    "type": "answer_question",
+    "target_id": "ans_ch01_024",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0662",
+    "standard_term": "二维、三维和全息表达分别指什么？",
+    "alias_or_question": "二维、三维和全息表达分别指什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_024",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0663",
+    "standard_term": "二维、三维和全息表达分别指什么？",
+    "alias_or_question": "二维、三维和全息表达分别指什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_024",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0664",
+    "standard_term": "规则—模型—数据路径如何理解？",
+    "alias_or_question": "规则—模型—数据路径如何理解",
+    "type": "answer_question",
+    "target_id": "ans_ch01_025",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0665",
+    "standard_term": "规则—模型—数据路径如何理解？",
+    "alias_or_question": "规则—模型—数据路径如何理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_025",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0666",
+    "standard_term": "规则—模型—数据路径如何理解？",
+    "alias_or_question": "规则—模型—数据路径如何理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_025",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0667",
+    "standard_term": "传统道路设计流程有哪些短板？",
+    "alias_or_question": "传统道路设计流程有哪些短板",
+    "type": "answer_question",
+    "target_id": "ans_ch01_026",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0668",
+    "standard_term": "传统道路设计流程有哪些短板？",
+    "alias_or_question": "传统道路设计流程有哪些短板？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_026",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0669",
+    "standard_term": "传统道路设计流程有哪些短板？",
+    "alias_or_question": "传统道路设计流程有哪些短板？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_026",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0670",
+    "standard_term": "以模型为核心的数字化设计流程包括哪些步骤？",
+    "alias_or_question": "以模型为核心的数字化设计流程包括哪些步骤",
+    "type": "answer_question",
+    "target_id": "ans_ch01_027",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0671",
+    "standard_term": "以模型为核心的数字化设计流程包括哪些步骤？",
+    "alias_or_question": "以模型为核心的数字化设计流程包括哪些步骤？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_027",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0672",
+    "standard_term": "以模型为核心的数字化设计流程包括哪些步骤？",
+    "alias_or_question": "以模型为核心的数字设计流程包括哪些步骤？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_027",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0673",
+    "standard_term": "GIS空间选线阶段需要整合哪些数据？",
+    "alias_or_question": "GIS空间选线阶段需要整合哪些数据",
+    "type": "answer_question",
+    "target_id": "ans_ch01_028",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0674",
+    "standard_term": "GIS空间选线阶段需要整合哪些数据？",
+    "alias_or_question": "GIS空间选线阶段需要整合哪些数据？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_028",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0675",
+    "standard_term": "GIS空间选线阶段需要整合哪些数据？",
+    "alias_or_question": "GIS空间选线阶段需要整合哪些数据？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_028",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0676",
+    "standard_term": "BIM参数化建模阶段主要做什么？",
+    "alias_or_question": "BIM参数化建模阶段主要做什么",
+    "type": "answer_question",
+    "target_id": "ans_ch01_029",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0677",
+    "standard_term": "BIM参数化建模阶段主要做什么？",
+    "alias_or_question": "BIM参数化建模阶段主要做什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_029",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0678",
+    "standard_term": "BIM参数化建模阶段主要做什么？",
+    "alias_or_question": "BIM参数化建模阶段主要做什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_029",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0679",
+    "standard_term": "为什么模型协同能提高设计质量？",
+    "alias_or_question": "为什么模型协同能提高设计质量",
+    "type": "answer_question",
+    "target_id": "ans_ch01_030",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0680",
+    "standard_term": "为什么模型协同能提高设计质量？",
+    "alias_or_question": "为什么模型协同能提高设计质量？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_030",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0681",
+    "standard_term": "为什么模型协同能提高设计质量？",
+    "alias_or_question": "为什么模型协同能提高设计质量？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_030",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0682",
+    "standard_term": "模型驱动成果输出包括哪些内容？",
+    "alias_or_question": "模型驱动成果输出包括哪些内容",
+    "type": "answer_question",
+    "target_id": "ans_ch01_031",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0683",
+    "standard_term": "模型驱动成果输出包括哪些内容？",
+    "alias_or_question": "模型驱动成果输出包括哪些内容？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_031",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0684",
+    "standard_term": "模型驱动成果输出包括哪些内容？",
+    "alias_or_question": "模型驱动成果输出包括哪些内容？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_031",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0685",
+    "standard_term": "数据驱动的设计控制机制包括哪些方面？",
+    "alias_or_question": "数据驱动的设计控制机制包括哪些方面",
+    "type": "answer_question",
+    "target_id": "ans_ch01_032",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0686",
+    "standard_term": "数据驱动的设计控制机制包括哪些方面？",
+    "alias_or_question": "数据驱动的设计控制机制包括哪些方面？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_032",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0687",
+    "standard_term": "数据驱动的设计控制机制包括哪些方面？",
+    "alias_or_question": "数据驱动的设计控制机制包括哪些方面？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_032",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0688",
+    "standard_term": "第一章中典型软件工具如何分工？",
+    "alias_or_question": "第一章中典型软件工具如何分工",
+    "type": "answer_question",
+    "target_id": "ans_ch01_033",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0689",
+    "standard_term": "第一章中典型软件工具如何分工？",
+    "alias_or_question": "第一章中典型软件工具如何分工？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_033",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0690",
+    "standard_term": "第一章中典型软件工具如何分工？",
+    "alias_or_question": "第一章中典型软件工具如何分工？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_033",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0691",
+    "standard_term": "如何理解道路工程数字化设计的发展主线？",
+    "alias_or_question": "道路工程数字化设计的发展主线是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_034",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0692",
+    "standard_term": "如何理解道路工程数字化设计的发展主线？",
+    "alias_or_question": "道路工程数字化设计的发展主线怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_034",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0693",
+    "standard_term": "如何理解道路工程数字化设计的发展主线？",
+    "alias_or_question": "请解释道路工程数字化设计的发展主线",
+    "type": "answer_question",
+    "target_id": "ans_ch01_034",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0694",
+    "standard_term": "如何理解设计范式转变？",
+    "alias_or_question": "设计范式转变是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_035",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0695",
+    "standard_term": "如何理解设计范式转变？",
+    "alias_or_question": "设计范式转变怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_035",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0696",
+    "standard_term": "如何理解设计范式转变？",
+    "alias_or_question": "请解释设计范式转变",
+    "type": "answer_question",
+    "target_id": "ans_ch01_035",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0697",
+    "standard_term": "如何理解CAD辅助设计阶段？",
+    "alias_or_question": "CAD辅助设计阶段是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_036",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0698",
+    "standard_term": "如何理解CAD辅助设计阶段？",
+    "alias_or_question": "CAD辅助设计阶段怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_036",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0699",
+    "standard_term": "如何理解CAD辅助设计阶段？",
+    "alias_or_question": "请解释CAD辅助设计阶段",
+    "type": "answer_question",
+    "target_id": "ans_ch01_036",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0700",
+    "standard_term": "如何理解CAD图纸中心设计？",
+    "alias_or_question": "CAD图纸中心设计是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_037",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0701",
+    "standard_term": "如何理解CAD图纸中心设计？",
+    "alias_or_question": "CAD图纸中心设计怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_037",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0702",
+    "standard_term": "如何理解CAD图纸中心设计？",
+    "alias_or_question": "请解释CAD图纸中心设计",
+    "type": "answer_question",
+    "target_id": "ans_ch01_037",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0703",
+    "standard_term": "如何理解CAD图元与工程语义差异？",
+    "alias_or_question": "CAD图元与工程语义差异是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_038",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0704",
+    "standard_term": "如何理解CAD图元与工程语义差异？",
+    "alias_or_question": "CAD图元与工程语义差异怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_038",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0705",
+    "standard_term": "如何理解CAD图元与工程语义差异？",
+    "alias_or_question": "请解释CAD图元与工程语义差异",
+    "type": "answer_question",
+    "target_id": "ans_ch01_038",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0706",
+    "standard_term": "如何理解CAD阶段的主要任务？",
+    "alias_or_question": "CAD阶段的主要任务是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_039",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0707",
+    "standard_term": "如何理解CAD阶段的主要任务？",
+    "alias_or_question": "CAD阶段的主要任务怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_039",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0708",
+    "standard_term": "如何理解CAD阶段的主要任务？",
+    "alias_or_question": "请解释CAD阶段的主要任务",
+    "type": "answer_question",
+    "target_id": "ans_ch01_039",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0709",
+    "standard_term": "如何理解CAD阶段的局限性？",
+    "alias_or_question": "CAD阶段的局限性是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_040",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0710",
+    "standard_term": "如何理解CAD阶段的局限性？",
+    "alias_or_question": "CAD阶段的局限性怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_040",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0711",
+    "standard_term": "如何理解CAD阶段的局限性？",
+    "alias_or_question": "请解释CAD阶段的局限性",
+    "type": "answer_question",
+    "target_id": "ans_ch01_040",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0712",
+    "standard_term": "如何理解专业道路CAD软件？",
+    "alias_or_question": "专业道路CAD软件是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_041",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0713",
+    "standard_term": "如何理解专业道路CAD软件？",
+    "alias_or_question": "专业道路CAD软件怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_041",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0714",
+    "standard_term": "如何理解专业道路CAD软件？",
+    "alias_or_question": "请解释专业道路CAD软件",
+    "type": "answer_question",
+    "target_id": "ans_ch01_041",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0715",
+    "standard_term": "如何理解智能CAD趋势？",
+    "alias_or_question": "智能CAD趋势是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_042",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0716",
+    "standard_term": "如何理解智能CAD趋势？",
+    "alias_or_question": "智能CAD趋势怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_042",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0717",
+    "standard_term": "如何理解智能CAD趋势？",
+    "alias_or_question": "请解释智能CAD趋势",
+    "type": "answer_question",
+    "target_id": "ans_ch01_042",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0718",
+    "standard_term": "如何理解BIM正向设计阶段？",
+    "alias_or_question": "BIM正向设计阶段是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_043",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0719",
+    "standard_term": "如何理解BIM正向设计阶段？",
+    "alias_or_question": "BIM正向设计阶段怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_043",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0720",
+    "standard_term": "如何理解BIM正向设计阶段？",
+    "alias_or_question": "请解释BIM正向设计阶段",
+    "type": "answer_question",
+    "target_id": "ans_ch01_043",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0721",
+    "standard_term": "如何理解BIM与三维模型的区别？",
+    "alias_or_question": "BIM与三维模型的区别是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_044",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0722",
+    "standard_term": "如何理解BIM与三维模型的区别？",
+    "alias_or_question": "BIM与三维模型的区别怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_044",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0723",
+    "standard_term": "如何理解BIM与三维模型的区别？",
+    "alias_or_question": "请解释BIM与三维模型的区别",
+    "type": "answer_question",
+    "target_id": "ans_ch01_044",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0724",
+    "standard_term": "如何理解道路BIM构件语义？",
+    "alias_or_question": "道路BIM构件语义是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_045",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0725",
+    "standard_term": "如何理解道路BIM构件语义？",
+    "alias_or_question": "道路BIM构件语义怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_045",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0726",
+    "standard_term": "如何理解道路BIM构件语义？",
+    "alias_or_question": "请解释道路BIM构件语义",
+    "type": "answer_question",
+    "target_id": "ans_ch01_045",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0727",
+    "standard_term": "如何理解道路BIM适应性要求？",
+    "alias_or_question": "道路BIM适应性要求是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_046",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0728",
+    "standard_term": "如何理解道路BIM适应性要求？",
+    "alias_or_question": "道路BIM适应性要求怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_046",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0729",
+    "standard_term": "如何理解道路BIM适应性要求？",
+    "alias_or_question": "请解释道路BIM适应性要求",
+    "type": "answer_question",
+    "target_id": "ans_ch01_046",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0730",
+    "standard_term": "如何理解OpenRoads与Civil 3D机制？",
+    "alias_or_question": "OpenRoads与Civil 3D机制是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_047",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0731",
+    "standard_term": "如何理解OpenRoads与Civil 3D机制？",
+    "alias_or_question": "OpenRoads与Civil 3D机制怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_047",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0732",
+    "standard_term": "如何理解OpenRoads与Civil 3D机制？",
+    "alias_or_question": "请解释OpenRoads与Civil 3D机制",
+    "type": "answer_question",
+    "target_id": "ans_ch01_047",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0733",
+    "standard_term": "如何理解BIM阶段的价值？",
+    "alias_or_question": "BIM阶段的价值是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_048",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0734",
+    "standard_term": "如何理解BIM阶段的价值？",
+    "alias_or_question": "BIM阶段的价值怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_048",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0735",
+    "standard_term": "如何理解BIM阶段的价值？",
+    "alias_or_question": "请解释BIM阶段的价值",
+    "type": "answer_question",
+    "target_id": "ans_ch01_048",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0736",
+    "standard_term": "如何理解BIM推广挑战？",
+    "alias_or_question": "BIM推广挑战是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_049",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0737",
+    "standard_term": "如何理解BIM推广挑战？",
+    "alias_or_question": "BIM推广挑战怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_049",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0738",
+    "standard_term": "如何理解BIM推广挑战？",
+    "alias_or_question": "请解释BIM推广挑战",
+    "type": "answer_question",
+    "target_id": "ans_ch01_049",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0739",
+    "standard_term": "如何理解GIS融合阶段？",
+    "alias_or_question": "GIS融合阶段是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_050",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0740",
+    "standard_term": "如何理解GIS融合阶段？",
+    "alias_or_question": "GIS融合阶段怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_050",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0741",
+    "standard_term": "如何理解GIS融合阶段？",
+    "alias_or_question": "请解释GIS融合阶段",
+    "type": "answer_question",
+    "target_id": "ans_ch01_050",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0742",
+    "standard_term": "如何理解GIS适宜性分析？",
+    "alias_or_question": "GIS适宜性分析是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_051",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0743",
+    "standard_term": "如何理解GIS适宜性分析？",
+    "alias_or_question": "GIS适宜性分析怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_051",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0744",
+    "standard_term": "如何理解GIS适宜性分析？",
+    "alias_or_question": "请解释GIS适宜性分析",
+    "type": "answer_question",
+    "target_id": "ans_ch01_051",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0745",
+    "standard_term": "如何理解GIS路径优化？",
+    "alias_or_question": "GIS路径优化是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_052",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0746",
+    "standard_term": "如何理解GIS路径优化？",
+    "alias_or_question": "GIS路径优化怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_052",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0747",
+    "standard_term": "如何理解GIS路径优化？",
+    "alias_or_question": "请解释GIS路径优化",
+    "type": "answer_question",
+    "target_id": "ans_ch01_052",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0748",
+    "standard_term": "如何理解敏感区识别与避让？",
+    "alias_or_question": "敏感区识别与避让是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_053",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0749",
+    "standard_term": "如何理解敏感区识别与避让？",
+    "alias_or_question": "敏感区识别与避让怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_053",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0750",
+    "standard_term": "如何理解敏感区识别与避让？",
+    "alias_or_question": "请解释敏感区识别与避让",
+    "type": "answer_question",
+    "target_id": "ans_ch01_053",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0751",
+    "standard_term": "如何理解BIM+GIS融合必要性？",
+    "alias_or_question": "BIM+GIS融合必要性是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_054",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0752",
+    "standard_term": "如何理解BIM+GIS融合必要性？",
+    "alias_or_question": "BIM+GIS融合必要性怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_054",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0753",
+    "standard_term": "如何理解BIM+GIS融合必要性？",
+    "alias_or_question": "请解释BIM+GIS融合必要性",
+    "type": "answer_question",
+    "target_id": "ans_ch01_054",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0754",
+    "standard_term": "如何理解BIM-GIS数据互通？",
+    "alias_or_question": "BIM-GIS数据互通是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_055",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0755",
+    "standard_term": "如何理解BIM-GIS数据互通？",
+    "alias_or_question": "BIM-GIS数据互通怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_055",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0756",
+    "standard_term": "如何理解BIM-GIS数据互通？",
+    "alias_or_question": "请解释BIM-GIS数据互通",
+    "type": "answer_question",
+    "target_id": "ans_ch01_055",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0757",
+    "standard_term": "如何理解BIM-GIS平台集成？",
+    "alias_or_question": "BIM-GIS平台集成是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_056",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0758",
+    "standard_term": "如何理解BIM-GIS平台集成？",
+    "alias_or_question": "BIM-GIS平台集成怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_056",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0759",
+    "standard_term": "如何理解BIM-GIS平台集成？",
+    "alias_or_question": "请解释BIM-GIS平台集成",
+    "type": "answer_question",
+    "target_id": "ans_ch01_056",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0760",
+    "standard_term": "如何理解BIM-GIS流程协同？",
+    "alias_or_question": "BIM-GIS流程协同是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_057",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0761",
+    "standard_term": "如何理解BIM-GIS流程协同？",
+    "alias_or_question": "BIM-GIS流程协同怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_057",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0762",
+    "standard_term": "如何理解BIM-GIS流程协同？",
+    "alias_or_question": "请解释BIM-GIS流程协同",
+    "type": "answer_question",
+    "target_id": "ans_ch01_057",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0763",
+    "standard_term": "如何理解数字孪生阶段？",
+    "alias_or_question": "数字孪生阶段是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_058",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0764",
+    "standard_term": "如何理解数字孪生阶段？",
+    "alias_or_question": "数字孪生阶段怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_058",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0765",
+    "standard_term": "如何理解数字孪生阶段？",
+    "alias_or_question": "请解释数字孪生阶段",
+    "type": "answer_question",
+    "target_id": "ans_ch01_058",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0766",
+    "standard_term": "如何理解数字孪生的本质？",
+    "alias_or_question": "数字孪生的本质是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_059",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0767",
+    "standard_term": "如何理解数字孪生的本质？",
+    "alias_or_question": "数字孪生的本质怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_059",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0768",
+    "standard_term": "如何理解数字孪生的本质？",
+    "alias_or_question": "请解释数字孪生的本质",
+    "type": "answer_question",
+    "target_id": "ans_ch01_059",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0769",
+    "standard_term": "如何理解虚实闭环机制？",
+    "alias_or_question": "虚实闭环机制是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_060",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0770",
+    "standard_term": "如何理解虚实闭环机制？",
+    "alias_or_question": "虚实闭环机制怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_060",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0771",
+    "standard_term": "如何理解虚实闭环机制？",
+    "alias_or_question": "请解释虚实闭环机制",
+    "type": "answer_question",
+    "target_id": "ans_ch01_060",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0772",
+    "standard_term": "如何理解数字孪生关键技术组成？",
+    "alias_or_question": "数字孪生关键技术组成是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_061",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0773",
+    "standard_term": "如何理解数字孪生关键技术组成？",
+    "alias_or_question": "数字孪生关键技术组成怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_061",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0774",
+    "standard_term": "如何理解数字孪生关键技术组成？",
+    "alias_or_question": "请解释数字孪生关键技术组成",
+    "type": "answer_question",
+    "target_id": "ans_ch01_061",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0775",
+    "standard_term": "如何理解数字孪生全生命周期应用？",
+    "alias_or_question": "数字孪生全生命周期应用是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_062",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0776",
+    "standard_term": "如何理解数字孪生全生命周期应用？",
+    "alias_or_question": "数字孪生全生命周期应用怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_062",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0777",
+    "standard_term": "如何理解数字孪生全生命周期应用？",
+    "alias_or_question": "请解释数字孪生全生命周期应用",
+    "type": "answer_question",
+    "target_id": "ans_ch01_062",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0778",
+    "standard_term": "如何理解道路工程数字化设计定义？",
+    "alias_or_question": "道路工程数字化设计定义是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_063",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0779",
+    "standard_term": "如何理解道路工程数字化设计定义？",
+    "alias_or_question": "道路工程数字化设计定义怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_063",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0780",
+    "standard_term": "如何理解道路工程数字化设计定义？",
+    "alias_or_question": "请解释道路工程数字化设计定义",
+    "type": "answer_question",
+    "target_id": "ans_ch01_063",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0781",
+    "standard_term": "如何理解出图导向到数据服务导向？",
+    "alias_or_question": "出图导向到数据服务导向是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_064",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0782",
+    "standard_term": "如何理解出图导向到数据服务导向？",
+    "alias_or_question": "出图导向到数据服务导向怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_064",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0783",
+    "standard_term": "如何理解出图导向到数据服务导向？",
+    "alias_or_question": "请解释出图导向到数据服务导向",
+    "type": "answer_question",
+    "target_id": "ans_ch01_064",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0784",
+    "standard_term": "如何理解构件化理念？",
+    "alias_or_question": "构件化理念是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_065",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0785",
+    "standard_term": "如何理解构件化理念？",
+    "alias_or_question": "构件化理念怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_065",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0786",
+    "standard_term": "如何理解构件化理念？",
+    "alias_or_question": "请解释构件化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_065",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0787",
+    "standard_term": "如何理解设施—子设施—构件体系？",
+    "alias_or_question": "设施—子设施—构件体系是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_066",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0788",
+    "standard_term": "如何理解设施—子设施—构件体系？",
+    "alias_or_question": "设施—子设施—构件体系怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_066",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0789",
+    "standard_term": "如何理解设施—子设施—构件体系？",
+    "alias_or_question": "请解释设施—子设施—构件体系",
+    "type": "answer_question",
+    "target_id": "ans_ch01_066",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0790",
+    "standard_term": "如何理解数字构件属性？",
+    "alias_or_question": "数字构件属性是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_067",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0791",
+    "standard_term": "如何理解数字构件属性？",
+    "alias_or_question": "数字构件属性怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_067",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0792",
+    "standard_term": "如何理解数字构件属性？",
+    "alias_or_question": "请解释数字构件属性",
+    "type": "answer_question",
+    "target_id": "ans_ch01_067",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0793",
+    "standard_term": "如何理解参数化理念？",
+    "alias_or_question": "参数化理念是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_068",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0794",
+    "standard_term": "如何理解参数化理念？",
+    "alias_or_question": "参数化理念怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_068",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0795",
+    "standard_term": "如何理解参数化理念？",
+    "alias_or_question": "请解释参数化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_068",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0796",
+    "standard_term": "如何理解横断面模板机制？",
+    "alias_or_question": "横断面模板机制是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_069",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0797",
+    "standard_term": "如何理解横断面模板机制？",
+    "alias_or_question": "横断面模板机制怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_069",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0798",
+    "standard_term": "如何理解横断面模板机制？",
+    "alias_or_question": "请解释横断面模板机制",
+    "type": "answer_question",
+    "target_id": "ans_ch01_069",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0799",
+    "standard_term": "如何理解规则内建机制？",
+    "alias_or_question": "规则内建机制是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_070",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0800",
+    "standard_term": "如何理解规则内建机制？",
+    "alias_or_question": "规则内建机制怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_070",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0801",
+    "standard_term": "如何理解规则内建机制？",
+    "alias_or_question": "请解释规则内建机制",
+    "type": "answer_question",
+    "target_id": "ans_ch01_070",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0802",
+    "standard_term": "如何理解协同化理念？",
+    "alias_or_question": "协同化理念是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_071",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0803",
+    "standard_term": "如何理解协同化理念？",
+    "alias_or_question": "协同化理念怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_071",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0804",
+    "standard_term": "如何理解协同化理念？",
+    "alias_or_question": "请解释协同化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_071",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0805",
+    "standard_term": "如何理解统一信息模型？",
+    "alias_or_question": "统一信息模型是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_072",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0806",
+    "standard_term": "如何理解统一信息模型？",
+    "alias_or_question": "统一信息模型怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_072",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0807",
+    "standard_term": "如何理解统一信息模型？",
+    "alias_or_question": "请解释统一信息模型",
+    "type": "answer_question",
+    "target_id": "ans_ch01_072",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0808",
+    "standard_term": "如何理解CDE协同环境？",
+    "alias_or_question": "CDE协同环境是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_073",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0809",
+    "standard_term": "如何理解CDE协同环境？",
+    "alias_or_question": "CDE协同环境怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_073",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0810",
+    "standard_term": "如何理解CDE协同环境？",
+    "alias_or_question": "请解释CDE协同环境",
+    "type": "answer_question",
+    "target_id": "ans_ch01_073",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0811",
+    "standard_term": "如何理解生命周期化理念？",
+    "alias_or_question": "生命周期化理念是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_074",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0812",
+    "standard_term": "如何理解生命周期化理念？",
+    "alias_or_question": "生命周期化理念怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_074",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0813",
+    "standard_term": "如何理解生命周期化理念？",
+    "alias_or_question": "请解释生命周期化理念",
+    "type": "answer_question",
+    "target_id": "ans_ch01_074",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0814",
+    "standard_term": "如何理解构件唯一标识？",
+    "alias_or_question": "构件唯一标识是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_075",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0815",
+    "standard_term": "如何理解构件唯一标识？",
+    "alias_or_question": "构件唯一标识怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_075",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0816",
+    "standard_term": "如何理解构件唯一标识？",
+    "alias_or_question": "请解释构件唯一标识",
+    "type": "answer_question",
+    "target_id": "ans_ch01_075",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0817",
+    "standard_term": "如何理解四大理念的关系？",
+    "alias_or_question": "四大理念的关系是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_076",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0818",
+    "standard_term": "如何理解四大理念的关系？",
+    "alias_or_question": "四大理念的关系怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_076",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0819",
+    "standard_term": "如何理解四大理念的关系？",
+    "alias_or_question": "请解释四大理念的关系",
+    "type": "answer_question",
+    "target_id": "ans_ch01_076",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0820",
+    "standard_term": "如何理解CAD平台功能定位？",
+    "alias_or_question": "CAD平台功能定位是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_077",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0821",
+    "standard_term": "如何理解CAD平台功能定位？",
+    "alias_or_question": "CAD平台功能定位怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_077",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0822",
+    "standard_term": "如何理解CAD平台功能定位？",
+    "alias_or_question": "请解释CAD平台功能定位",
+    "type": "answer_question",
+    "target_id": "ans_ch01_077",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0823",
+    "standard_term": "如何理解BIM平台功能定位？",
+    "alias_or_question": "BIM平台功能定位是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_078",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0824",
+    "standard_term": "如何理解BIM平台功能定位？",
+    "alias_or_question": "BIM平台功能定位怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_078",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0825",
+    "standard_term": "如何理解BIM平台功能定位？",
+    "alias_or_question": "请解释BIM平台功能定位",
+    "type": "answer_question",
+    "target_id": "ans_ch01_078",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0826",
+    "standard_term": "如何理解GIS平台功能定位？",
+    "alias_or_question": "GIS平台功能定位是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_079",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0827",
+    "standard_term": "如何理解GIS平台功能定位？",
+    "alias_or_question": "GIS平台功能定位怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_079",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0828",
+    "standard_term": "如何理解GIS平台功能定位？",
+    "alias_or_question": "请解释GIS平台功能定位",
+    "type": "answer_question",
+    "target_id": "ans_ch01_079",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0829",
+    "standard_term": "如何理解数字孪生平台功能定位？",
+    "alias_or_question": "数字孪生平台功能定位是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_080",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0830",
+    "standard_term": "如何理解数字孪生平台功能定位？",
+    "alias_or_question": "数字孪生平台功能定位怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_080",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0831",
+    "standard_term": "如何理解数字孪生平台功能定位？",
+    "alias_or_question": "请解释数字孪生平台功能定位",
+    "type": "answer_question",
+    "target_id": "ans_ch01_080",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0832",
+    "standard_term": "如何理解AI在技术体系中的角色？",
+    "alias_or_question": "AI在技术体系中的角色是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_081",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0833",
+    "standard_term": "如何理解AI在技术体系中的角色？",
+    "alias_or_question": "AI在技术体系中的角色怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_081",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0834",
+    "standard_term": "如何理解AI在技术体系中的角色？",
+    "alias_or_question": "请解释AI在技术体系中的角色",
+    "type": "answer_question",
+    "target_id": "ans_ch01_081",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0835",
+    "standard_term": "如何理解GIS—BIM—CAD主干流程？",
+    "alias_or_question": "GIS—BIM—CAD主干流程是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_082",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0836",
+    "standard_term": "如何理解GIS—BIM—CAD主干流程？",
+    "alias_or_question": "GIS—BIM—CAD主干流程怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_082",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0837",
+    "standard_term": "如何理解GIS—BIM—CAD主干流程？",
+    "alias_or_question": "请解释GIS—BIM—CAD主干流程",
+    "type": "answer_question",
+    "target_id": "ans_ch01_082",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0838",
+    "standard_term": "如何理解空间—构件协同机制？",
+    "alias_or_question": "空间—构件协同机制是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_083",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0839",
+    "standard_term": "如何理解空间—构件协同机制？",
+    "alias_or_question": "空间—构件协同机制怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_083",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0840",
+    "standard_term": "如何理解空间—构件协同机制？",
+    "alias_or_question": "请解释空间—构件协同机制",
+    "type": "answer_question",
+    "target_id": "ans_ch01_083",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0841",
+    "standard_term": "如何理解二维—三维—全息表达联动？",
+    "alias_or_question": "二维—三维—全息表达联动是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_084",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0842",
+    "standard_term": "如何理解二维—三维—全息表达联动？",
+    "alias_or_question": "二维—三维—全息表达联动怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_084",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0843",
+    "standard_term": "如何理解二维—三维—全息表达联动？",
+    "alias_or_question": "请解释二维—三维—全息表达联动",
+    "type": "answer_question",
+    "target_id": "ans_ch01_084",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0844",
+    "standard_term": "如何理解规则—模型—数据路径？",
+    "alias_or_question": "规则—模型—数据路径是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_085",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0845",
+    "standard_term": "如何理解规则—模型—数据路径？",
+    "alias_or_question": "规则—模型—数据路径怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_085",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0846",
+    "standard_term": "如何理解规则—模型—数据路径？",
+    "alias_or_question": "请解释规则—模型—数据路径",
+    "type": "answer_question",
+    "target_id": "ans_ch01_085",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0847",
+    "standard_term": "如何理解接口与数据标准体系？",
+    "alias_or_question": "接口与数据标准体系是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_086",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0848",
+    "standard_term": "如何理解接口与数据标准体系？",
+    "alias_or_question": "接口与数据标准体系怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_086",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0849",
+    "standard_term": "如何理解接口与数据标准体系？",
+    "alias_or_question": "请解释接口与数据标准体系",
+    "type": "answer_question",
+    "target_id": "ans_ch01_086",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0850",
+    "standard_term": "如何理解传统道路设计流程短板？",
+    "alias_or_question": "传统道路设计流程短板是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_087",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0851",
+    "standard_term": "如何理解传统道路设计流程短板？",
+    "alias_or_question": "传统道路设计流程短板怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_087",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0852",
+    "standard_term": "如何理解传统道路设计流程短板？",
+    "alias_or_question": "请解释传统道路设计流程短板",
+    "type": "answer_question",
+    "target_id": "ans_ch01_087",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0853",
+    "standard_term": "如何理解以模型为核心的数字化设计流程？",
+    "alias_or_question": "以模型为核心的数字化设计流程是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_088",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0854",
+    "standard_term": "如何理解以模型为核心的数字化设计流程？",
+    "alias_or_question": "以模型为核心的数字化设计流程怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_088",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0855",
+    "standard_term": "如何理解以模型为核心的数字化设计流程？",
+    "alias_or_question": "请解释以模型为核心的数字化设计流程",
+    "type": "answer_question",
+    "target_id": "ans_ch01_088",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0856",
+    "standard_term": "如何理解GIS空间选线与数据整合？",
+    "alias_or_question": "GIS空间选线与数据整合是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_089",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0857",
+    "standard_term": "如何理解GIS空间选线与数据整合？",
+    "alias_or_question": "GIS空间选线与数据整合怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_089",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0858",
+    "standard_term": "如何理解GIS空间选线与数据整合？",
+    "alias_or_question": "请解释GIS空间选线与数据整合",
+    "type": "answer_question",
+    "target_id": "ans_ch01_089",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0859",
+    "standard_term": "如何理解AI/GIS辅助路线选择？",
+    "alias_or_question": "AI/GIS辅助路线选择是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_090",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0860",
+    "standard_term": "如何理解AI/GIS辅助路线选择？",
+    "alias_or_question": "AI/GIS辅助路线选择怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_090",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0861",
+    "standard_term": "如何理解AI/GIS辅助路线选择？",
+    "alias_or_question": "请解释AI/GIS辅助路线选择",
+    "type": "answer_question",
+    "target_id": "ans_ch01_090",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0862",
+    "standard_term": "如何理解BIM参数化建模与构件表达？",
+    "alias_or_question": "BIM参数化建模与构件表达是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_091",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0863",
+    "standard_term": "如何理解BIM参数化建模与构件表达？",
+    "alias_or_question": "BIM参数化建模与构件表达怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_091",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0864",
+    "standard_term": "如何理解BIM参数化建模与构件表达？",
+    "alias_or_question": "请解释BIM参数化建模与构件表达",
+    "type": "answer_question",
+    "target_id": "ans_ch01_091",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0865",
+    "standard_term": "如何理解路线驱动建模？",
+    "alias_or_question": "路线驱动建模是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_092",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0866",
+    "standard_term": "如何理解路线驱动建模？",
+    "alias_or_question": "路线驱动建模怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_092",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0867",
+    "standard_term": "如何理解路线驱动建模？",
+    "alias_or_question": "请解释路线驱动建模",
+    "type": "answer_question",
+    "target_id": "ans_ch01_092",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0868",
+    "standard_term": "如何理解构件关联逻辑控制？",
+    "alias_or_question": "构件关联逻辑控制是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_093",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0869",
+    "standard_term": "如何理解构件关联逻辑控制？",
+    "alias_or_question": "构件关联逻辑控制怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_093",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0870",
+    "standard_term": "如何理解构件关联逻辑控制？",
+    "alias_or_question": "请解释构件关联逻辑控制",
+    "type": "answer_question",
+    "target_id": "ans_ch01_093",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0871",
+    "standard_term": "如何理解模型协同与冲突预警？",
+    "alias_or_question": "模型协同与冲突预警是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_094",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0872",
+    "standard_term": "如何理解模型协同与冲突预警？",
+    "alias_or_question": "模型协同与冲突预警怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_094",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0873",
+    "standard_term": "如何理解模型协同与冲突预警？",
+    "alias_or_question": "请解释模型协同与冲突预警",
+    "type": "answer_question",
+    "target_id": "ans_ch01_094",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0874",
+    "standard_term": "如何理解模型驱动成果输出？",
+    "alias_or_question": "模型驱动成果输出是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_095",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0875",
+    "standard_term": "如何理解模型驱动成果输出？",
+    "alias_or_question": "模型驱动成果输出怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_095",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0876",
+    "standard_term": "如何理解模型驱动成果输出？",
+    "alias_or_question": "请解释模型驱动成果输出",
+    "type": "answer_question",
+    "target_id": "ans_ch01_095",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0877",
+    "standard_term": "如何理解标准化模型交付？",
+    "alias_or_question": "标准化模型交付是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_096",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0878",
+    "standard_term": "如何理解标准化模型交付？",
+    "alias_or_question": "标准化模型交付怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_096",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0879",
+    "standard_term": "如何理解标准化模型交付？",
+    "alias_or_question": "请解释标准化模型交付",
+    "type": "answer_question",
+    "target_id": "ans_ch01_096",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0880",
+    "standard_term": "如何理解模型直通施工与运维？",
+    "alias_or_question": "模型直通施工与运维是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_097",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0881",
+    "standard_term": "如何理解模型直通施工与运维？",
+    "alias_or_question": "模型直通施工与运维怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_097",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0882",
+    "standard_term": "如何理解模型直通施工与运维？",
+    "alias_or_question": "请解释模型直通施工与运维",
+    "type": "answer_question",
+    "target_id": "ans_ch01_097",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0883",
+    "standard_term": "如何理解数据驱动的设计控制机制？",
+    "alias_or_question": "数据驱动的设计控制机制是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_098",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0884",
+    "standard_term": "如何理解数据驱动的设计控制机制？",
+    "alias_or_question": "数据驱动的设计控制机制怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_098",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0885",
+    "standard_term": "如何理解数据驱动的设计控制机制？",
+    "alias_or_question": "请解释数据驱动的设计控制机制",
+    "type": "answer_question",
+    "target_id": "ans_ch01_098",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0886",
+    "standard_term": "如何理解标准规范数据化？",
+    "alias_or_question": "标准规范数据化是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_099",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0887",
+    "standard_term": "如何理解标准规范数据化？",
+    "alias_or_question": "标准规范数据化怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_099",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0888",
+    "standard_term": "如何理解标准规范数据化？",
+    "alias_or_question": "请解释标准规范数据化",
+    "type": "answer_question",
+    "target_id": "ans_ch01_099",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0889",
+    "standard_term": "如何理解构件属性标准化？",
+    "alias_or_question": "构件属性标准化是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_100",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0890",
+    "standard_term": "如何理解构件属性标准化？",
+    "alias_or_question": "构件属性标准化怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_100",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0891",
+    "standard_term": "如何理解构件属性标准化？",
+    "alias_or_question": "请解释构件属性标准化",
+    "type": "answer_question",
+    "target_id": "ans_ch01_100",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0892",
+    "standard_term": "如何理解过程控制可视化？",
+    "alias_or_question": "过程控制可视化是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_101",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0893",
+    "standard_term": "如何理解过程控制可视化？",
+    "alias_or_question": "过程控制可视化怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_101",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0894",
+    "standard_term": "如何理解过程控制可视化？",
+    "alias_or_question": "请解释过程控制可视化",
+    "type": "answer_question",
+    "target_id": "ans_ch01_101",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0895",
+    "standard_term": "如何理解前期分析工具组合？",
+    "alias_or_question": "前期分析工具组合是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_102",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0896",
+    "standard_term": "如何理解前期分析工具组合？",
+    "alias_or_question": "前期分析工具组合怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_102",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0897",
+    "standard_term": "如何理解前期分析工具组合？",
+    "alias_or_question": "请解释前期分析工具组合",
+    "type": "answer_question",
+    "target_id": "ans_ch01_102",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0898",
+    "standard_term": "如何理解BIM建模平台组合？",
+    "alias_or_question": "BIM建模平台组合是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_103",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0899",
+    "standard_term": "如何理解BIM建模平台组合？",
+    "alias_or_question": "BIM建模平台组合怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_103",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0900",
+    "standard_term": "如何理解BIM建模平台组合？",
+    "alias_or_question": "请解释BIM建模平台组合",
+    "type": "answer_question",
+    "target_id": "ans_ch01_103",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0901",
+    "standard_term": "如何理解CAD出图工具定位？",
+    "alias_or_question": "CAD出图工具定位是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_104",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0902",
+    "standard_term": "如何理解CAD出图工具定位？",
+    "alias_or_question": "CAD出图工具定位怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_104",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0903",
+    "standard_term": "如何理解CAD出图工具定位？",
+    "alias_or_question": "请解释CAD出图工具定位",
+    "type": "answer_question",
+    "target_id": "ans_ch01_104",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0904",
+    "standard_term": "如何理解施工协同与运维准备平台？",
+    "alias_or_question": "施工协同与运维准备平台是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_105",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0905",
+    "standard_term": "如何理解施工协同与运维准备平台？",
+    "alias_or_question": "施工协同与运维准备平台怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_105",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0906",
+    "standard_term": "如何理解施工协同与运维准备平台？",
+    "alias_or_question": "请解释施工协同与运维准备平台",
+    "type": "answer_question",
+    "target_id": "ans_ch01_105",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0907",
+    "standard_term": "如何理解数据资产交付？",
+    "alias_or_question": "数据资产交付是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_106",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0908",
+    "standard_term": "如何理解数据资产交付？",
+    "alias_or_question": "数据资产交付怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_106",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0909",
+    "standard_term": "如何理解数据资产交付？",
+    "alias_or_question": "请解释数据资产交付",
+    "type": "answer_question",
+    "target_id": "ans_ch01_106",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0910",
+    "standard_term": "如何理解图纸交付与模型交付区别？",
+    "alias_or_question": "图纸交付与模型交付区别是什么？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_107",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0911",
+    "standard_term": "如何理解图纸交付与模型交付区别？",
+    "alias_or_question": "图纸交付与模型交付区别怎么理解？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_107",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0912",
+    "standard_term": "如何理解图纸交付与模型交付区别？",
+    "alias_or_question": "请解释图纸交付与模型交付区别",
+    "type": "answer_question",
+    "target_id": "ans_ch01_107",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0913",
+    "standard_term": "请简述道路工程数字化设计的发展历程，并指出各阶段的主要技术特征与演进逻辑。",
+    "alias_or_question": "请简述道路工程数字化设计的发展历程，并指出各阶段的主要技术特征与演进逻辑。",
+    "type": "answer_question",
+    "target_id": "ans_ch01_108",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0914",
+    "standard_term": "请简述道路工程数字化设计的发展历程，并指出各阶段的主要技术特征与演进逻辑。",
+    "alias_or_question": "请简述道路工程数字化设计的发展历程，并指怎么答？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_108",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0915",
+    "standard_term": "如何理解“以图纸为中心”与“以模型为核心”的设计范式转变？",
+    "alias_or_question": "如何理解“以图纸为中心”与“以模型为核心”的设计范式转变",
+    "type": "answer_question",
+    "target_id": "ans_ch01_109",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0916",
+    "standard_term": "如何理解“以图纸为中心”与“以模型为核心”的设计范式转变？",
+    "alias_or_question": "如何理解“以图纸为中心”与“以模型为核心怎么答？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_109",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0917",
+    "standard_term": "CAD、BIM、GIS和数字孪生四类技术平台在道路设计中的功能定位有何差异？",
+    "alias_or_question": "CAD、BIM、GIS和数字孪生四类技术平台在道路设计中的功能定位有何差异",
+    "type": "answer_question",
+    "target_id": "ans_ch01_110",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0918",
+    "standard_term": "CAD、BIM、GIS和数字孪生四类技术平台在道路设计中的功能定位有何差异？",
+    "alias_or_question": "CAD、BIM、GIS和数字孪生四类技术怎么答？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_110",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0919",
+    "standard_term": "与传统CAD设计相比，BIM在信息组织和设计表达方面有哪些根本区别？",
+    "alias_or_question": "与传统CAD设计相比，BIM在信息组织和设计表达方面有哪些根本区别",
+    "type": "answer_question",
+    "target_id": "ans_ch01_111",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0920",
+    "standard_term": "与传统CAD设计相比，BIM在信息组织和设计表达方面有哪些根本区别？",
+    "alias_or_question": "与传统CAD设计相比，BIM在信息组织和怎么答？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_111",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0921",
+    "standard_term": "GIS技术在现代道路设计中的主要作用是什么？它与BIM之间的融合体现在哪些方面？",
+    "alias_or_question": "GIS技术在现代道路设计中的主要作用是什么它与BIM之间的融合体现在哪些方面",
+    "type": "answer_question",
+    "target_id": "ans_ch01_112",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_0922",
+    "standard_term": "GIS技术在现代道路设计中的主要作用是什么？它与BIM之间的融合体现在哪些方面？",
+    "alias_or_question": "GIS技术在现代道路设计中的主要作用是什怎么答？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_112",
+    "priority": 5
+  },
+  {
+    "synonym_id": "syn_ch01_fix_0001",
+    "standard_term": "如何理解构件化理念？",
+    "alias_or_question": "从几何模型与工程语义连接角度，如何理解构件化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_065",
+    "priority": 6
+  },
+  {
+    "synonym_id": "syn_ch01_fix_0002",
+    "standard_term": "如何理解参数化理念？",
+    "alias_or_question": "从参数控制与规则嵌入角度，如何理解参数化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_068",
+    "priority": 6
+  },
+  {
+    "synonym_id": "syn_ch01_fix_0003",
+    "standard_term": "如何理解协同化理念？",
+    "alias_or_question": "从多专业共享模型与变更联动角度，如何理解协同化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_071",
+    "priority": 6
+  },
+  {
+    "synonym_id": "syn_ch01_fix_0004",
+    "standard_term": "如何理解生命周期化理念？",
+    "alias_or_question": "从施工运维数据延续角度，如何理解生命周期化理念？",
+    "type": "answer_question",
+    "target_id": "ans_ch01_074",
+    "priority": 6
+  }
+]

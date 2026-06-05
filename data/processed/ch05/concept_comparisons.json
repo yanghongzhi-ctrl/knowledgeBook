@@ -1,0 +1,332 @@
+[
+  {
+    "concept_a": "矢量数据模型",
+    "concept_b": "栅格数据模型",
+    "dimension": "表达对象",
+    "comparison": "矢量表达边界清晰的离散对象，栅格表达连续表面或影像矩阵。",
+    "engineering_application": "道路中线、用地图斑适合矢量；DEM、坡度、成本面适合栅格。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_001",
+    "title": "矢量数据模型与栅格数据模型",
+    "dimensions": [
+      "表达对象"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "对象模型",
+    "concept_b": "场模型",
+    "dimension": "认知逻辑",
+    "comparison": "对象模型把世界看成离散实体，场模型把世界看成连续分布。",
+    "engineering_application": "设施、道路、红线偏对象；高程、坡度、污染浓度偏场。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_002",
+    "title": "对象模型与场模型",
+    "dimensions": [
+      "认知逻辑"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "网络模型",
+    "concept_b": "普通线图层",
+    "dimension": "分析能力",
+    "comparison": "网络模型包含连通、转向、阻抗和通行规则，普通线图层多为几何显示。",
+    "engineering_application": "路径规划应构建网络数据集，不能只用线状图层。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_003",
+    "title": "网络模型与普通线图层",
+    "dimensions": [
+      "分析能力"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "GIS拓扑模型",
+    "concept_b": "BIM构件模型",
+    "dimension": "表达重点",
+    "comparison": "GIS拓扑强调相邻、连通、包含等空间关系；BIM构件强调几何、属性、参数和工程语义。",
+    "engineering_application": "BIM-GIS融合要同时处理空间拓扑和构件语义。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_004",
+    "title": "GIS拓扑模型与BIM构件模型",
+    "dimensions": [
+      "表达重点"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "标准投影",
+    "concept_b": "低失真投影LDP",
+    "dimension": "工程适应性",
+    "comparison": "标准投影服务通用制图，LDP服务长距离线性工程的长度变形控制。",
+    "engineering_application": "道路工程跨带、长线路和高程变化明显时宜考虑LDP。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_005",
+    "title": "标准投影与低失真投影LDP",
+    "dimensions": [
+      "工程适应性"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "空间查询",
+    "concept_b": "叠加分析",
+    "dimension": "输出结果",
+    "comparison": "空间查询筛选已有对象，叠加分析通常生成复合几何和属性的新结果。",
+    "engineering_application": "查询路线500m内居民点；叠加坡度、灾害、用地形成综合图层。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_006",
+    "title": "空间查询与叠加分析",
+    "dimensions": [
+      "输出结果"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "缓冲区分析",
+    "concept_b": "距离分析",
+    "dimension": "分析对象",
+    "comparison": "缓冲区通常用于矢量对象邻近范围，距离分析多用于栅格像元到源的距离或成本。",
+    "engineering_application": "路域噪声带用缓冲区；最小成本路径用成本距离。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_007",
+    "title": "缓冲区分析与距离分析",
+    "dimensions": [
+      "分析对象"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "视觉叠加",
+    "concept_b": "多边形叠加",
+    "dimension": "分析精度",
+    "comparison": "视觉叠加主要辅助判断，不生成新图层；多边形叠加通过几何求交和属性融合生成新图层。",
+    "engineering_application": "汇报展示可视觉叠加，约束定量分析需多边形叠加。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_008",
+    "title": "视觉叠加与多边形叠加",
+    "dimensions": [
+      "分析精度"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "欧氏距离",
+    "concept_b": "成本距离",
+    "dimension": "距离含义",
+    "comparison": "欧氏距离只考虑几何距离，成本距离考虑穿越不同空间单元的阻力。",
+    "engineering_application": "山区选线通常更适合成本距离。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_009",
+    "title": "欧氏距离与成本距离",
+    "dimensions": [
+      "距离含义"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "坡度",
+    "concept_b": "坡向",
+    "dimension": "地形含义",
+    "comparison": "坡度描述倾斜程度，坡向描述倾斜方向。",
+    "engineering_application": "坡度影响纵坡和施工难度，坡向影响日照、积雪、排水和稳定。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_010",
+    "title": "坡度与坡向",
+    "dimensions": [
+      "地形含义"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "剖面曲率",
+    "concept_b": "平面曲率",
+    "dimension": "水流含义",
+    "comparison": "剖面曲率影响坡面水流加减速，平面曲率影响水流汇聚或发散。",
+    "engineering_application": "道路排水和冲刷分析应结合二者。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_011",
+    "title": "剖面曲率与平面曲率",
+    "dimensions": [
+      "水流含义"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "全局莫兰指数",
+    "concept_b": "局部自相关LISA",
+    "dimension": "空间尺度",
+    "comparison": "全局莫兰指数判断整体聚集/离散，LISA识别局部热点、冷点和异常。",
+    "engineering_application": "判断全区灾害是否聚集用Moran I，定位热点区用LISA或Gi*。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_012",
+    "title": "全局莫兰指数与局部自相关LISA",
+    "dimensions": [
+      "空间尺度"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "IDW",
+    "concept_b": "克里金插值",
+    "dimension": "理论基础",
+    "comparison": "IDW基于距离衰减，克里金基于空间自相关与变异函数。",
+    "engineering_application": "需要预测误差评价时优先考虑克里金。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_013",
+    "title": "IDW与克里金插值",
+    "dimensions": [
+      "理论基础"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "确定性插值",
+    "concept_b": "地统计插值",
+    "dimension": "误差评价",
+    "comparison": "确定性插值通常不提供严格预测误差，地统计插值可给出不确定性评价。",
+    "engineering_application": "工程风险分析需要关注误差时适合地统计方法。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_014",
+    "title": "确定性插值与地统计插值",
+    "dimensions": [
+      "误差评价"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "交叉验证",
+    "concept_b": "独立验证集",
+    "dimension": "验证方式",
+    "comparison": "交叉验证轮流剔除样本，独立验证集使用未参与建模的数据检验。",
+    "engineering_application": "样本有限用交叉验证，样本充足宜设置独立验证集。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_015",
+    "title": "交叉验证与独立验证集",
+    "dimensions": [
+      "验证方式"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "MAE",
+    "concept_b": "RMSE",
+    "dimension": "误差敏感性",
+    "comparison": "MAE直观反映平均误差，RMSE对大误差更敏感。",
+    "engineering_application": "若需关注局部大偏差，应重点看RMSE。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_016",
+    "title": "MAE与RMSE",
+    "dimensions": [
+      "误差敏感性"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "Dijkstra算法",
+    "concept_b": "A*算法",
+    "dimension": "搜索策略",
+    "comparison": "Dijkstra全面扩展，A*利用启发式函数朝目标搜索。",
+    "engineering_application": "单源多点适合Dijkstra，点对快速导航适合A*。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_017",
+    "title": "Dijkstra算法与A*算法",
+    "dimensions": [
+      "搜索策略"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "矢量网络路径分析",
+    "concept_b": "栅格成本路径分析",
+    "dimension": "应用阶段",
+    "comparison": "矢量网络路径用于已有道路网络通行，栅格成本路径用于连续空间上的成本最小路径。",
+    "engineering_application": "路网导航用矢量网络，初步选线可用栅格成本面。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_018",
+    "title": "矢量网络路径分析与栅格成本路径分析",
+    "dimensions": [
+      "应用阶段"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "OD成本矩阵",
+    "concept_b": "位置-分配模型",
+    "dimension": "决策目标",
+    "comparison": "OD矩阵计算起终点成本，位置-分配在候选设施中选择最佳设施并分配需求。",
+    "engineering_application": "OD矩阵可作为位置分配的输入基础。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_019",
+    "title": "OD成本矩阵与位置-分配模型",
+    "dimensions": [
+      "决策目标"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "p-中位模型",
+    "concept_b": "最大覆盖模型",
+    "dimension": "优化目标",
+    "comparison": "p-中位最小化总加权阻抗，最大覆盖在设施数量限制下最大化覆盖需求。",
+    "engineering_application": "养护站效率优化偏p-中位，应急点覆盖优化偏最大覆盖。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_020",
+    "title": "p-中位模型与最大覆盖模型",
+    "dimensions": [
+      "优化目标"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "p-中心模型",
+    "concept_b": "p-中位模型",
+    "dimension": "公平与效率",
+    "comparison": "p-中心关注最大服务距离最小，p-中位关注总服务成本最小。",
+    "engineering_application": "应急救援偏p-中心，常规物流偏p-中位。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_021",
+    "title": "p-中心模型与p-中位模型",
+    "dimensions": [
+      "公平与效率"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "concept_a": "最大覆盖模型",
+    "concept_b": "集合覆盖模型",
+    "dimension": "资源约束",
+    "comparison": "最大覆盖在有限设施下尽量覆盖更多需求，集合覆盖用最少设施覆盖全部需求。",
+    "engineering_application": "资源有限用最大覆盖，强制全覆盖用集合覆盖。",
+    "chapter_id": "ch05",
+    "comparison_id": "cmp_ch05_022",
+    "title": "最大覆盖模型与集合覆盖模型",
+    "dimensions": [
+      "资源约束"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "resource_id": "ch01_script_bim_gis_overlay",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "BIM+GIS图层叠加与路线适宜性分析",
+    "file_path": "assets/ch01/interactive_html/1.4BIM+GIS 图层叠加与路线适宜性分析.html",
+    "description": "用于辅助理解BIM+GIS图层叠加与路线适宜性分析相关知识点。",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_018",
+      "kp_ch01_019",
+      "kp_ch01_020"
+    ],
+    "keywords": [
+      "BIM+GIS",
+      "GIS",
+      "图层",
+      "空间分析",
+      "适宜性"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时推荐",
+    "status": "bound",
+    "trigger_questions": [
+      "BIM+GIS叠加分析能帮选线解决什么问题？",
+      "路线适宜性分析脚本怎么操作？",
+      "为什么路线B更均衡？",
+      "GIS图层叠加如何支持道路选线？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_bim_prr",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "道路BIM构件语义与PRR机制",
+    "file_path": "assets/ch01/interactive_html/1.3道路BIM概念与特点.html",
+    "description": "用于辅助理解道路BIM构件语义与PRR机制相关知识点。",
+    "related_kps": [
+      "kp_ch01_010",
+      "kp_ch01_011",
+      "kp_ch01_012",
+      "kp_ch01_015"
+    ],
+    "keywords": [
+      "BIM",
+      "构件",
+      "语义",
+      "参数",
+      "PRR"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时推荐",
+    "status": "bound",
+    "trigger_questions": [
+      "PRR机制怎么演示？",
+      "道路BIM构件语义脚本怎么看？",
+      "BIM参数变化如何影响模型结果？",
+      "参数规则结果之间是什么关系？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_cad_semantics",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "CAD阶段图元语义与设计变更联动",
+    "file_path": "assets/ch01/interactive_html/1.2CAD阶段图元语义与设计变更联动.html",
+    "description": "用于辅助理解CAD阶段图元语义与设计变更联动相关知识点。",
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_004",
+      "kp_ch01_005",
+      "kp_ch01_006"
+    ],
+    "keywords": [
+      "CAD",
+      "图元",
+      "工程语义",
+      "变更联动"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时推荐",
+    "status": "bound",
+    "trigger_questions": [
+      "CAD图元为什么不能自动联动？",
+      "CAD阶段图元语义脚本怎么看？",
+      "为什么说CAD缺乏工程语义？",
+      "CAD设计变更为什么容易人工联动？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_concepts",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "道路工程数字化设计四大理念脚本",
+    "file_path": "assets/ch01/interactive_html/1.6道路工程数字化设计理念.html",
+    "description": "用于交互理解四大理念。",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐",
+    "status": "bound",
+    "keywords": [
+      "理念",
+      "构件化",
+      "参数化",
+      "协同化",
+      "生命周期化"
+    ],
+    "trigger_questions": [
+      "四大理念脚本应该怎么看？",
+      "构件化参数化协同化生命周期化有什么区别？",
+      "道路数字化设计理念图说明什么？",
+      "四大理念如何支撑数字化设计？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_data_control",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "数据驱动的设计控制脚本",
+    "file_path": "assets/ch01/interactive_html/1.9数据驱动的设计控制.html",
+    "description": "用于辅助理解数据驱动的设计控制脚本相关知识点。",
+    "related_kps": [
+      "kp_ch01_066",
+      "kp_ch01_067",
+      "kp_ch01_068"
+    ],
+    "keywords": [
+      "数据驱动",
+      "规则校核",
+      "设计控制",
+      "要素联动"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时推荐",
+    "status": "bound",
+    "trigger_questions": [
+      "数据驱动设计控制脚本怎么看？",
+      "圆曲线半径变化会影响哪些指标？",
+      "规则校核如何体现数据驱动？",
+      "参数变化如何带动平面线形要素联动？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_digital_twin",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "数字孪生虚实闭环脚本",
+    "file_path": "assets/ch01/interactive_html/1.5数字孪生虚实闭环交互脚本.html",
+    "description": "用于说明感知、模型更新、识别、预警和反馈。",
+    "related_kps": [
+      "kp_ch01_025",
+      "kp_ch01_026",
+      "kp_ch01_027",
+      "kp_ch01_028"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐",
+    "status": "bound",
+    "keywords": [
+      "数字孪生",
+      "虚实闭环",
+      "实时感知",
+      "仿真预测"
+    ],
+    "trigger_questions": [
+      "数字孪生虚实闭环脚本怎么看？",
+      "感知数据如何驱动模型更新？",
+      "数字孪生为什么强调反馈控制？",
+      "边坡位移联动分析说明了什么？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_model_flow",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "以模型为核心的设计流程脚本",
+    "file_path": "assets/ch01/interactive_html/1.8以模型为核心的设计流程.html",
+    "description": "用于演示模型驱动流程。",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐",
+    "status": "bound",
+    "keywords": [
+      "模型",
+      "流程",
+      "数据贯通",
+      "协同交付"
+    ],
+    "trigger_questions": [
+      "以模型为核心的流程脚本怎么操作？",
+      "数字化设计流程包括哪些环节？",
+      "为什么模型能解决图纸流程问题？",
+      "GIS BIM CDE 数字孪生在流程中如何衔接？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_software_modes",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "典型工具软件在各阶段应用模式",
+    "file_path": "assets/ch01/interactive_html/1.10典型工具软件在各阶段应用模式.html",
+    "description": "用于辅助理解典型工具软件在各阶段应用模式相关知识点。",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_054",
+      "kp_ch01_055"
+    ],
+    "keywords": [
+      "工具软件",
+      "阶段应用",
+      "平台协同",
+      "成果流转"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时推荐",
+    "status": "bound",
+    "trigger_questions": [
+      "典型工具软件脚本怎么看？",
+      "不同阶段应该用哪些工具软件？",
+      "GIS BIM CAD 数字孪生在工程阶段怎么衔接？",
+      "工具软件应用模式和成果流转是什么？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_tech_system",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "道路工程数字化设计技术体系",
+    "file_path": "assets/ch01/interactive_html/1.7道路工程数字化设计技术体系.html",
+    "description": "用于交互理解各技术平台功能定位。",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐",
+    "status": "bound",
+    "keywords": [
+      "技术体系",
+      "CAD",
+      "BIM",
+      "GIS",
+      "数字孪生",
+      "AI"
+    ],
+    "trigger_questions": [
+      "技术体系脚本怎么讲？",
+      "CAD BIM GIS 数字孪生如何分工？",
+      "多平台协同的核心是什么？",
+      "道路数字化设计技术体系图怎么看？"
+    ]
+  },
+  {
+    "resource_id": "ch01_script_timeline",
+    "chapter_id": "ch01",
+    "resource_type": "interactive_html",
+    "title": "道路设计数字化演进时间轴",
+    "file_path": "assets/ch01/interactive_html/1.1设计阶段的演进.html",
+    "description": "用于交互理解各发展阶段的特征。",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "teaching_use": "课堂讲授、自学复习和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐",
+    "status": "bound",
+    "keywords": [
+      "阶段",
+      "演进",
+      "CAD",
+      "BIM",
+      "BIM+GIS",
+      "数字孪生"
+    ],
+    "trigger_questions": [
+      "这个时间轴脚本应该怎么看？",
+      "CAD到BIM再到数字孪生怎么演进？",
+      "第一章发展阶段图说明了什么？",
+      "道路数字化设计阶段有什么区别？"
+    ]
+  },
+  {
+    "resource_id": "ch01_fig_1_1",
+    "chapter_id": "ch01",
+    "resource_type": "image",
+    "title": "道路数字化设计发展阶段图",
+    "file_path": "assets/ch01/images/ch01_fig_1_1.png",
+    "description": "用于说明CAD、BIM、BIM+GIS、数字孪生演进。",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "teaching_use": "课堂讲授、自学复习、图示解释和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐；当问题询问图示、示意图、流程图时可推荐",
+    "status": "bound",
+    "keywords": [
+      "发展阶段",
+      "CAD",
+      "BIM",
+      "BIM+GIS",
+      "数字孪生",
+      "演进"
+    ]
+  },
+  {
+    "resource_id": "ch01_fig_1_2",
+    "chapter_id": "ch01",
+    "resource_type": "image",
+    "title": "四大核心理念示意图",
+    "file_path": "assets/ch01/images/ch01_fig_1_2.png",
+    "description": "用于说明构件化、参数化、协同化、生命周期化。",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "teaching_use": "课堂讲授、自学复习、图示解释和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐；当问题询问图示、示意图、流程图时可推荐",
+    "status": "bound",
+    "keywords": [
+      "四大理念",
+      "构件化",
+      "参数化",
+      "协同化",
+      "生命周期化"
+    ]
+  },
+  {
+    "resource_id": "ch01_fig_1_3",
+    "chapter_id": "ch01",
+    "resource_type": "image",
+    "title": "数字化技术体系图",
+    "file_path": "assets/ch01/images/ch01_fig_1_3.png",
+    "description": "用于说明CAD、BIM、GIS、数字孪生和AI关系。",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "teaching_use": "课堂讲授、自学复习、图示解释和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐；当问题询问图示、示意图、流程图时可推荐",
+    "status": "bound",
+    "keywords": [
+      "技术体系",
+      "CAD",
+      "BIM",
+      "GIS",
+      "数字孪生",
+      "AI",
+      "平台协同"
+    ]
+  },
+  {
+    "resource_id": "ch01_fig_1_4",
+    "chapter_id": "ch01",
+    "resource_type": "image",
+    "title": "以模型为核心的设计流程图",
+    "file_path": "assets/ch01/images/ch01_fig_1_4.png",
+    "description": "用于说明GIS选线、BIM建模、协同审查、模型交付。",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "teaching_use": "课堂讲授、自学复习、图示解释和AI回答后资源推荐",
+    "qa_use": "当问题命中相关知识点时优先推荐；当问题询问图示、示意图、流程图时可推荐",
+    "status": "bound",
+    "keywords": [
+      "模型核心",
+      "设计流程",
+      "GIS",
+      "BIM",
+      "CAD",
+      "成果交付",
+      "全生命周期"
+    ]
+  }
+]

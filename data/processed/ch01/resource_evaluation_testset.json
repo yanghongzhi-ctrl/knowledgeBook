@@ -1,0 +1,1049 @@
+[
+  {
+    "test_id": "res_eval_ch01_script_timeline_01",
+    "chapter_id": "ch01",
+    "question": "道路设计数字化演进时间轴怎么看？",
+    "expected_resource_id": "ch01_script_timeline",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_timeline_02",
+    "chapter_id": "ch01",
+    "question": "道路设计数字化演进时间轴怎么操作？",
+    "expected_resource_id": "ch01_script_timeline",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_timeline_03",
+    "chapter_id": "ch01",
+    "question": "我想看道路设计数字化演进时间轴。",
+    "expected_resource_id": "ch01_script_timeline",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_timeline_04",
+    "chapter_id": "ch01",
+    "question": "这个时间轴脚本应该怎么看？",
+    "expected_resource_id": "ch01_script_timeline",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_timeline_05",
+    "chapter_id": "ch01",
+    "question": "第一章发展阶段图说明了什么？",
+    "expected_resource_id": "ch01_script_timeline",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_cad_semantics_01",
+    "chapter_id": "ch01",
+    "question": "CAD阶段图元语义与设计变更联动怎么看？",
+    "expected_resource_id": "ch01_script_cad_semantics",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_004",
+      "kp_ch01_005",
+      "kp_ch01_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_cad_semantics_02",
+    "chapter_id": "ch01",
+    "question": "CAD阶段图元语义与设计变更联动怎么操作？",
+    "expected_resource_id": "ch01_script_cad_semantics",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_004",
+      "kp_ch01_005",
+      "kp_ch01_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_cad_semantics_03",
+    "chapter_id": "ch01",
+    "question": "我想看CAD阶段图元语义与设计变更联动。",
+    "expected_resource_id": "ch01_script_cad_semantics",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_004",
+      "kp_ch01_005",
+      "kp_ch01_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_cad_semantics_04",
+    "chapter_id": "ch01",
+    "question": "CAD图元为什么不能自动联动？",
+    "expected_resource_id": "ch01_script_cad_semantics",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_004",
+      "kp_ch01_005",
+      "kp_ch01_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_cad_semantics_05",
+    "chapter_id": "ch01",
+    "question": "CAD阶段图元语义脚本怎么看？",
+    "expected_resource_id": "ch01_script_cad_semantics",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_004",
+      "kp_ch01_005",
+      "kp_ch01_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_cad_semantics_06",
+    "chapter_id": "ch01",
+    "question": "我想看CAD图元语义与设计变更联动演示。",
+    "expected_resource_id": "ch01_script_cad_semantics",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_004",
+      "kp_ch01_005",
+      "kp_ch01_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_prr_01",
+    "chapter_id": "ch01",
+    "question": "道路BIM构件语义与PRR机制怎么看？",
+    "expected_resource_id": "ch01_script_bim_prr",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_010",
+      "kp_ch01_011",
+      "kp_ch01_012",
+      "kp_ch01_015"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_prr_02",
+    "chapter_id": "ch01",
+    "question": "道路BIM构件语义与PRR机制怎么操作？",
+    "expected_resource_id": "ch01_script_bim_prr",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_010",
+      "kp_ch01_011",
+      "kp_ch01_012",
+      "kp_ch01_015"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_prr_03",
+    "chapter_id": "ch01",
+    "question": "我想看道路BIM构件语义与PRR机制。",
+    "expected_resource_id": "ch01_script_bim_prr",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_010",
+      "kp_ch01_011",
+      "kp_ch01_012",
+      "kp_ch01_015"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_prr_04",
+    "chapter_id": "ch01",
+    "question": "PRR机制怎么演示？",
+    "expected_resource_id": "ch01_script_bim_prr",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_010",
+      "kp_ch01_011",
+      "kp_ch01_012",
+      "kp_ch01_015"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_prr_05",
+    "chapter_id": "ch01",
+    "question": "道路BIM构件语义脚本怎么看？",
+    "expected_resource_id": "ch01_script_bim_prr",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_010",
+      "kp_ch01_011",
+      "kp_ch01_012",
+      "kp_ch01_015"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_prr_06",
+    "chapter_id": "ch01",
+    "question": "我想看PRR机制的互动演示。",
+    "expected_resource_id": "ch01_script_bim_prr",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_010",
+      "kp_ch01_011",
+      "kp_ch01_012",
+      "kp_ch01_015"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_gis_overlay_01",
+    "chapter_id": "ch01",
+    "question": "BIM+GIS图层叠加与路线适宜性分析怎么看？",
+    "expected_resource_id": "ch01_script_bim_gis_overlay",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_018",
+      "kp_ch01_019",
+      "kp_ch01_020"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_gis_overlay_02",
+    "chapter_id": "ch01",
+    "question": "BIM+GIS图层叠加与路线适宜性分析怎么操作？",
+    "expected_resource_id": "ch01_script_bim_gis_overlay",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_018",
+      "kp_ch01_019",
+      "kp_ch01_020"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_gis_overlay_03",
+    "chapter_id": "ch01",
+    "question": "我想看BIM+GIS图层叠加与路线适宜性分析。",
+    "expected_resource_id": "ch01_script_bim_gis_overlay",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_018",
+      "kp_ch01_019",
+      "kp_ch01_020"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_gis_overlay_04",
+    "chapter_id": "ch01",
+    "question": "路线适宜性分析脚本怎么操作？",
+    "expected_resource_id": "ch01_script_bim_gis_overlay",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_018",
+      "kp_ch01_019",
+      "kp_ch01_020"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_gis_overlay_05",
+    "chapter_id": "ch01",
+    "question": "GIS图层叠加如何支持道路选线？",
+    "expected_resource_id": "ch01_script_bim_gis_overlay",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_018",
+      "kp_ch01_019",
+      "kp_ch01_020"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_bim_gis_overlay_06",
+    "chapter_id": "ch01",
+    "question": "我想看BIM+GIS图层叠加选线演示。",
+    "expected_resource_id": "ch01_script_bim_gis_overlay",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_018",
+      "kp_ch01_019",
+      "kp_ch01_020"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_digital_twin_01",
+    "chapter_id": "ch01",
+    "question": "数字孪生虚实闭环脚本怎么看？",
+    "expected_resource_id": "ch01_script_digital_twin",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_025",
+      "kp_ch01_026",
+      "kp_ch01_027",
+      "kp_ch01_028"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_digital_twin_02",
+    "chapter_id": "ch01",
+    "question": "数字孪生虚实闭环脚本怎么操作？",
+    "expected_resource_id": "ch01_script_digital_twin",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_025",
+      "kp_ch01_026",
+      "kp_ch01_027",
+      "kp_ch01_028"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_digital_twin_03",
+    "chapter_id": "ch01",
+    "question": "我想看数字孪生虚实闭环脚本。",
+    "expected_resource_id": "ch01_script_digital_twin",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_025",
+      "kp_ch01_026",
+      "kp_ch01_027",
+      "kp_ch01_028"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_digital_twin_04",
+    "chapter_id": "ch01",
+    "question": "我想看数字孪生虚实闭环交互脚本。",
+    "expected_resource_id": "ch01_script_digital_twin",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_025",
+      "kp_ch01_026",
+      "kp_ch01_027",
+      "kp_ch01_028"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_concepts_01",
+    "chapter_id": "ch01",
+    "question": "道路工程数字化设计四大理念脚本怎么看？",
+    "expected_resource_id": "ch01_script_concepts",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_concepts_02",
+    "chapter_id": "ch01",
+    "question": "道路工程数字化设计四大理念脚本怎么操作？",
+    "expected_resource_id": "ch01_script_concepts",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_concepts_03",
+    "chapter_id": "ch01",
+    "question": "我想看道路工程数字化设计四大理念脚本。",
+    "expected_resource_id": "ch01_script_concepts",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_concepts_04",
+    "chapter_id": "ch01",
+    "question": "四大理念脚本应该怎么看？",
+    "expected_resource_id": "ch01_script_concepts",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_concepts_05",
+    "chapter_id": "ch01",
+    "question": "道路数字化设计理念图说明什么？",
+    "expected_resource_id": "ch01_script_concepts",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_concepts_06",
+    "chapter_id": "ch01",
+    "question": "我想看四大核心理念互动脚本。",
+    "expected_resource_id": "ch01_script_concepts",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_tech_system_01",
+    "chapter_id": "ch01",
+    "question": "道路工程数字化设计技术体系怎么看？",
+    "expected_resource_id": "ch01_script_tech_system",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_tech_system_02",
+    "chapter_id": "ch01",
+    "question": "道路工程数字化设计技术体系怎么操作？",
+    "expected_resource_id": "ch01_script_tech_system",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_tech_system_03",
+    "chapter_id": "ch01",
+    "question": "我想看道路工程数字化设计技术体系。",
+    "expected_resource_id": "ch01_script_tech_system",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_tech_system_04",
+    "chapter_id": "ch01",
+    "question": "技术体系脚本怎么讲？",
+    "expected_resource_id": "ch01_script_tech_system",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_tech_system_05",
+    "chapter_id": "ch01",
+    "question": "道路数字化设计技术体系图怎么看？",
+    "expected_resource_id": "ch01_script_tech_system",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_tech_system_06",
+    "chapter_id": "ch01",
+    "question": "我想看道路工程数字化设计技术体系演示。",
+    "expected_resource_id": "ch01_script_tech_system",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_model_flow_01",
+    "chapter_id": "ch01",
+    "question": "以模型为核心的设计流程脚本怎么看？",
+    "expected_resource_id": "ch01_script_model_flow",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_model_flow_02",
+    "chapter_id": "ch01",
+    "question": "以模型为核心的设计流程脚本怎么操作？",
+    "expected_resource_id": "ch01_script_model_flow",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_model_flow_03",
+    "chapter_id": "ch01",
+    "question": "我想看以模型为核心的设计流程脚本。",
+    "expected_resource_id": "ch01_script_model_flow",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_model_flow_04",
+    "chapter_id": "ch01",
+    "question": "以模型为核心的流程脚本怎么操作？",
+    "expected_resource_id": "ch01_script_model_flow",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_model_flow_05",
+    "chapter_id": "ch01",
+    "question": "为什么模型能解决图纸流程问题？",
+    "expected_resource_id": "ch01_script_model_flow",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_data_control_01",
+    "chapter_id": "ch01",
+    "question": "数据驱动的设计控制脚本怎么看？",
+    "expected_resource_id": "ch01_script_data_control",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_066",
+      "kp_ch01_067",
+      "kp_ch01_068"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_data_control_02",
+    "chapter_id": "ch01",
+    "question": "数据驱动的设计控制脚本怎么操作？",
+    "expected_resource_id": "ch01_script_data_control",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_066",
+      "kp_ch01_067",
+      "kp_ch01_068"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_data_control_03",
+    "chapter_id": "ch01",
+    "question": "我想看数据驱动的设计控制脚本。",
+    "expected_resource_id": "ch01_script_data_control",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_066",
+      "kp_ch01_067",
+      "kp_ch01_068"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_data_control_04",
+    "chapter_id": "ch01",
+    "question": "数据驱动设计控制脚本怎么看？",
+    "expected_resource_id": "ch01_script_data_control",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_066",
+      "kp_ch01_067",
+      "kp_ch01_068"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_data_control_05",
+    "chapter_id": "ch01",
+    "question": "我想看数据驱动设计控制演示。",
+    "expected_resource_id": "ch01_script_data_control",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_066",
+      "kp_ch01_067",
+      "kp_ch01_068"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_software_modes_01",
+    "chapter_id": "ch01",
+    "question": "典型工具软件在各阶段应用模式怎么看？",
+    "expected_resource_id": "ch01_script_software_modes",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_054",
+      "kp_ch01_055"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_software_modes_02",
+    "chapter_id": "ch01",
+    "question": "典型工具软件在各阶段应用模式怎么操作？",
+    "expected_resource_id": "ch01_script_software_modes",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_054",
+      "kp_ch01_055"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_software_modes_03",
+    "chapter_id": "ch01",
+    "question": "我想看典型工具软件在各阶段应用模式。",
+    "expected_resource_id": "ch01_script_software_modes",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_054",
+      "kp_ch01_055"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_software_modes_04",
+    "chapter_id": "ch01",
+    "question": "典型工具软件脚本怎么看？",
+    "expected_resource_id": "ch01_script_software_modes",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_054",
+      "kp_ch01_055"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_script_software_modes_05",
+    "chapter_id": "ch01",
+    "question": "我想看典型工具软件阶段应用模式脚本。",
+    "expected_resource_id": "ch01_script_software_modes",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_054",
+      "kp_ch01_055"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_1_01",
+    "chapter_id": "ch01",
+    "question": "图1-1说明了什么？",
+    "expected_resource_id": "ch01_fig_1_1",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_1_03",
+    "chapter_id": "ch01",
+    "question": "我想看道路数字化设计发展阶段图。",
+    "expected_resource_id": "ch01_fig_1_1",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_003",
+      "kp_ch01_010",
+      "kp_ch01_017",
+      "kp_ch01_025"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_2_01",
+    "chapter_id": "ch01",
+    "question": "图1-2说明了什么？",
+    "expected_resource_id": "ch01_fig_1_2",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_2_02",
+    "chapter_id": "ch01",
+    "question": "四大核心理念示意图怎么看？",
+    "expected_resource_id": "ch01_fig_1_2",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_2_03",
+    "chapter_id": "ch01",
+    "question": "我想看构件化、参数化、协同化和生命周期化的示意图。",
+    "expected_resource_id": "ch01_fig_1_2",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_032",
+      "kp_ch01_033",
+      "kp_ch01_038",
+      "kp_ch01_042",
+      "kp_ch01_046",
+      "kp_ch01_049"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_3_01",
+    "chapter_id": "ch01",
+    "question": "图1-3说明了什么？",
+    "expected_resource_id": "ch01_fig_1_3",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_3_02",
+    "chapter_id": "ch01",
+    "question": "数字化技术体系图怎么看？",
+    "expected_resource_id": "ch01_fig_1_3",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_3_03",
+    "chapter_id": "ch01",
+    "question": "我想看CAD、BIM、GIS和数字孪生技术体系图。",
+    "expected_resource_id": "ch01_fig_1_3",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_4_01",
+    "chapter_id": "ch01",
+    "question": "图1-4说明了什么？",
+    "expected_resource_id": "ch01_fig_1_4",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_4_02",
+    "chapter_id": "ch01",
+    "question": "以模型为核心的设计流程图怎么看？",
+    "expected_resource_id": "ch01_fig_1_4",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch01_fig_1_4_03",
+    "chapter_id": "ch01",
+    "question": "我想看模型驱动设计流程的示意图。",
+    "expected_resource_id": "ch01_fig_1_4",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch01_062",
+      "kp_ch01_063",
+      "kp_ch01_064"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  }
+]

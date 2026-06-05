@@ -1,0 +1,3730 @@
+[
+  {
+    "embedding_id": "emb_kp_ch07_001",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_001",
+    "embedding_text": "新建纬地项目。通过【项目】-【新建项目】建立项目文件夹、项目名称和平面线文件。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；项目管理；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_002",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_002",
+    "embedding_text": "查看与维护项目管理器。通过项目管理器检查设计文件路径、项目属性、图框和表格模板。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；项目管理；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_003",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_003",
+    "embedding_text": "导入DWG/DXF高程数据。读取地形图中的等高线和高程点，将其转换为数模数据源。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；数模建立；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_004",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_004",
+    "embedding_text": "设置等高线与高程点类型。把等高线图层设置为约束线，把高程点图层设置为地形点。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；数模建立；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_005",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_005",
+    "embedding_text": "三角构网并保存数模。执行三角构网，生成TIN数模并保存当前数模。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；数模建立；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_006",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_006",
+    "embedding_text": "优化数模边界和三角网。对不理想的三角网边界或局部异常进行优化。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；数模检查；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_007",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_007",
+    "embedding_text": "新建EICAD项目。使用项目数据管理工具新建项目文件夹并生成相关目录。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；项目管理；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_008",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_008",
+    "embedding_text": "导入或打开项目数据。通过项目数据管理工具打开、导入、浏览和编辑项目信息。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；项目管理；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_009",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_009",
+    "embedding_text": "点选方式建立数模。在地形图上点选计曲线、首曲线和地形点，提取地形数据并构网。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；数模建立；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_010",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_010",
+    "embedding_text": "排除高程异常并优化数模。检查数模范围和高程异常，必要时排除异常点并重建。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；数模检查；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_011",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_011",
+    "embedding_text": "直线型交点法平面定线。输入交点坐标并设置平曲线参数，完成路线平面线形。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_012",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_012",
+    "embedding_text": "修改平曲线参数。调整圆曲线半径、缓和曲线长度、转角等参数并刷新线形。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_013",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_013",
+    "embedding_text": "设计S型曲线组合。按相邻反向曲线组合要求设置曲线参数并检查连接关系。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；复杂曲线；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_014",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_014",
+    "embedding_text": "设计卵形曲线组合。用不同半径圆曲线及过渡段构造卵形曲线。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；复杂曲线；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_015",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_015",
+    "embedding_text": "设计C型曲线与回头曲线。根据地形受限条件构造C型或回头曲线并检查平面连续性。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；复杂曲线；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_016",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_016",
+    "embedding_text": "互通匝道文件控制接线。通过文件控制方式指定匝道与主线或被交线的接线关系。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；立交设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_017",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_017",
+    "embedding_text": "互通匝道圆+缓+直接线。采用圆曲线、缓和曲线和直线组合方式完成匝道接线。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；立交设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_018",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_018",
+    "embedding_text": "积木法构造匝道线形。将匝道看作若干线形单元组合，逐段构造并动态调整。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；立交设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_019",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_019",
+    "embedding_text": "EICAD直线单元设计。使用EI_LINE构造直线单元，作为路线或匝道的基本线形。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_020",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_020",
+    "embedding_text": "EICAD圆曲线单元设计。使用EI_ARC设置圆曲线半径和控制点，生成圆曲线单元。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_021",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_021",
+    "embedding_text": "EICAD缓和曲线单元设计。使用EI_CLOTHOID设置缓和曲线参数并生成线元。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_022",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_022",
+    "embedding_text": "连接两缓和曲线。使用EI_LINKCLOTHOID连接两条缓和曲线并自动生成中间单元。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_023",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_023",
+    "embedding_text": "基本模式法圆圆模式设计。使用圆圆模式处理S形、C形和卵形曲线连接。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；立交设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_024",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_024",
+    "embedding_text": "扩展模式法立交匝道设计。基于复杂单元组合或扩展模式完成匝道平面设计。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；立交设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_025",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_025",
+    "embedding_text": "生成桩号文件。通过工具或设计向导生成纵断面和横断面需要的桩号文件。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_026",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_026",
+    "embedding_text": "数模内插纵断面地面线。基于数模提取桩号-高程纵断面地面线。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_027",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_027",
+    "embedding_text": "手工输入或修改纵断面地面线。录入或修正桩号-高程数据，保证地面线可靠。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_028",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_028",
+    "embedding_text": "输入桥梁涵洞通道控制点。录入高程控制点，为拉坡提供约束。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_029",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_029",
+    "embedding_text": "创建纵断面拉坡图。绘制纵断面地面线、里程桩号和平曲线，为交互拉坡提供图形环境。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_030",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_030",
+    "embedding_text": "交互式设置变坡点。在拉坡线中增加、拖动和修改变坡点，确定坡度与坡长。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_031",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_031",
+    "embedding_text": "修改变坡点与竖曲线半径。通过修改变坡点对话框调整桩号、高程和竖曲线半径并刷新结果。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_032",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_032",
+    "embedding_text": "输出纵横地面线。从数字地面模型输出纵断面和横断面地面线。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_033",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_033",
+    "embedding_text": "创建拉坡图。生成纵断面拉坡图，为自动或手工拉坡提供环境。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_034",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_034",
+    "embedding_text": "输入拉坡控制点。录入桥梁、涵洞、通道等控制点，为纵坡设计提供约束。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_035",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_035",
+    "embedding_text": "自动拉坡设计。依据控制条件自动生成纵断面设计线并进行初步审核。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_036",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_036",
+    "embedding_text": "手工拉坡与夹点调整。通过拖动夹点调整变坡点与竖曲线参数。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_037",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_037",
+    "embedding_text": "输入横断面地面线。通过横断面数据输入工具录入逐桩横断面地面线。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_038",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_038",
+    "embedding_text": "数模内插横断面地面线。基于数模按桩号内插横断面地面线。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_039",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_039",
+    "embedding_text": "运行设计向导定义标准横断面。通过设计向导定义路线等级、路幅、边坡、边沟和排水沟等参数。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_040",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_040",
+    "embedding_text": "自动计算超高加宽。根据平面线形和规范参数计算超高与加宽。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_041",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_041",
+    "embedding_text": "路基设计计算。计算逐桩超高横坡、设计标高、路幅参数和高差。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_042",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_042",
+    "embedding_text": "录入支挡防护工程。录入挡墙、护坡等支挡防护工程的型式和段落数据。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_043",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_043",
+    "embedding_text": "横断面设计绘图与戴帽。打开横断面设计绘图界面，按设计控制、土方控制和绘图控制完成戴帽。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_044",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_044",
+    "embedding_text": "横断面交互修改。浏览特殊断面并进行人工调整。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_045",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_045",
+    "embedding_text": "创建路基模板。创建或编辑自定义路基模板。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_046",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_046",
+    "embedding_text": "创建边坡模板。设置填挖方边坡坡率、平台和防护规则。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_047",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_047",
+    "embedding_text": "创建边沟与截水沟模板。编辑边沟、排水沟、截水沟等模板。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_048",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_048",
+    "embedding_text": "生成和修改超高渐变图。设置超高加宽计算并生成超高渐变图。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_049",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_049",
+    "embedding_text": "执行横断面戴帽设计。根据模板与地面线进行横断面戴帽。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_050",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_050",
+    "embedding_text": "查看与绘制横断面成果。逐桩查看横断面戴帽结果并绘制横断面图。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_051",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_051",
+    "embedding_text": "土石方调配数据预处理。创建土石比文件并进行本桩利用方式选择。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；土石方调配；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_052",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_052",
+    "embedding_text": "设置构造物运距。设置构造物是否通行以及运输限制。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；土石方调配；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_053",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_053",
+    "embedding_text": "绘制土石方调配成果。在平面图上绘制挖余与填缺土方块及运输路径。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；土石方调配；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_054",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_054",
+    "embedding_text": "管理图框和表格模板。浏览、指定或修改纬地图框与表格模板。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_055",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_055",
+    "embedding_text": "生成路线平面图。按设定比例和图框输出路线平面设计图。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_056",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_056",
+    "embedding_text": "生成纵断面设计图。按横向和纵向比例输出纵断面图。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_057",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_057",
+    "embedding_text": "生成横断面设计图。批量生成逐桩横断面设计图。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_058",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_058",
+    "embedding_text": "输出设计表格。输出直曲转角表、竖曲线表、路基设计表、土石方数量表等。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_059",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_059",
+    "embedding_text": "设置EICAD成果输出模板。配置EICAD图纸和表格输出模板。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_060",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_060",
+    "embedding_text": "批量输出图纸和表格。批量生成平面、纵断面、横断面与土石方成果。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_061",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_061",
+    "embedding_text": "道路CAD软件的功能定位。纬地和EICAD覆盖数模、平面、纵断面、横断面及成果输出，是路线设计与施工图成果生成的核心工具。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec00；软件定位；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_062",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_062",
+    "embedding_text": "纬地与EICAD的共同点。二者均采用项目文件夹管理，支持数模建立、路线设计、断面设计和成果输出。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec00；软件比较；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_063",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_063",
+    "embedding_text": "纬地与EICAD的差异。纬地更强调道路三维集成CAD流程，EICAD更强调交互式路线与立交设计、积木法和模式法。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec00；软件比较；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_064",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_064",
+    "embedding_text": "项目文件夹管理。道路CAD软件通过项目文件夹集中管理平面线、数模、断面、图框和表格模板等设计文件。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；项目管理；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_065",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_065",
+    "embedding_text": "三角网数模在路线设计中的作用。三角网数模为纵断面地面线提取、横断面插值、土石方计算和方案检查提供地形基础。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec01；数模建立；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_066",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_066",
+    "embedding_text": "直线型交点法定线。先布设交点和直线，再在转折处设置圆曲线与缓和曲线，是道路平面设计常用方法。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_067",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_067",
+    "embedding_text": "积木法设计思想。把路线或匝道看成直线、圆曲线、缓和曲线等首尾相接线元的组合，通过参数和拖动完成线形构造。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_068",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_068",
+    "embedding_text": "基本模式法。以直线与圆、圆与圆之间的连接模式为基础构造路线，适合S形、C形和卵形等曲线组合。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec02；平面设计；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_069",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_069",
+    "embedding_text": "纵断面拉坡。在纵断面地面线和控制点基础上，通过变坡点、坡度和竖曲线半径确定纵断面设计线。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_070",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_070",
+    "embedding_text": "变坡点。变坡点是相邻纵坡变化的位置，是竖曲线设置和纵断面设计控制的关键节点。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec03；纵断面设计；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_071",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_071",
+    "embedding_text": "横断面戴帽。根据地面线、标准横断面模板、超高加宽和支挡防护规则，在各桩号上自动布置路基横断面。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_072",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_072",
+    "embedding_text": "超高加宽数据。超高加宽数据控制曲线路段横坡和路幅宽度变化，是横断面设计前必须准备的关键数据。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；横断面设计；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_073",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_073",
+    "embedding_text": "土石方调配。在填挖面积基础上考虑利用、运输、取弃土场和构造物通行条件，形成土石方调运方案。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec04；土石方调配；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_074",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_074",
+    "embedding_text": "成果图表输出。道路CAD软件最终需要输出平面图、纵断面图、横断面图及各类设计表格，满足施工图编制要求。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_075",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_075",
+    "embedding_text": "图框与表格模板。图框与表格模板控制成果图表的版式、工程名称、比例、日期和项目属性表达。 操作时关注前置条件、菜单或命令、参数设置、成果检查和常见错误。",
+    "metadata": "ch07_sec05；成果输出；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_076",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_076",
+    "embedding_text": "项目文件夹。集中保存设计文件、数模、线形、模板和成果图表的目录。 项目文件夹是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_077",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_077",
+    "embedding_text": "项目管理器。浏览和维护项目文件、属性、图框与表格模板的管理工具。 项目管理器是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_078",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_078",
+    "embedding_text": "项目数据管理。用于新建、导入、打开和查看项目信息的工具。 项目数据管理是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_079",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_079",
+    "embedding_text": "DWG/DXF地形图。道路CAD软件建立数模时常用的外部三维数据来源。 DWG/DXF地形图是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_080",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_080",
+    "embedding_text": "计曲线。地形图中用于表达高程变化的主等高线。 计曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_081",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_081",
+    "embedding_text": "首曲线。地形图中用于表达普通等高线的高程线。 首曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_082",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_082",
+    "embedding_text": "高程点。带有高程属性的地形点，是构网的重要数据源。 高程点是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_083",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_083",
+    "embedding_text": "约束线。将等高线等线状地形对象作为三角构网约束的设置类型。 约束线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_084",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_084",
+    "embedding_text": "地形点。将高程点作为TIN构网节点的设置类型。 地形点是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_085",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_085",
+    "embedding_text": "三角网数模。由高程点和约束线构成的TIN地形模型。 三角网数模是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_086",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_086",
+    "embedding_text": "DEM。数字高程模型，用于纵横地面线输出和空间计算。 DEM是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_087",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_087",
+    "embedding_text": "高程异常点。高程异常或位置不合理、需要排除的地形数据点。 高程异常点是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_088",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_088",
+    "embedding_text": "路线中线。平面、纵断面和横断面设计的主控制线。 路线中线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_089",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_089",
+    "embedding_text": "交点。直线型定线中两直线的转折控制点。 交点是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_090",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_090",
+    "embedding_text": "圆曲线。道路平面线形中的基本曲线要素。 圆曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_091",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_091",
+    "embedding_text": "缓和曲线。连接直线与圆曲线或不同曲率曲线的过渡曲线。 缓和曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_092",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_092",
+    "embedding_text": "S型曲线。相邻反向曲线组合形式。 S型曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_093",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_093",
+    "embedding_text": "卵形曲线。不同半径同向圆曲线之间通过缓和曲线连接的组合。 卵形曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_094",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_094",
+    "embedding_text": "C型曲线。复杂地形下的曲线组合形式。 C型曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_095",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_095",
+    "embedding_text": "回头曲线。山区道路常见的大转角回转线形。 回头曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_096",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_096",
+    "embedding_text": "匝道。互通式立交中连接不同方向交通流的道路。 匝道是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_097",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_097",
+    "embedding_text": "积木法。把路线拆为直线、圆曲线和缓和曲线等线元组合的方法。 积木法是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_098",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_098",
+    "embedding_text": "EI_LINE。用于创建直线单元的积木法命令。 EI_LINE是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_099",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_099",
+    "embedding_text": "EI_ARC。用于创建圆曲线单元的积木法命令。 EI_ARC是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_100",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_100",
+    "embedding_text": "EI_CLOTHOID。用于创建缓和曲线单元的积木法命令。 EI_CLOTHOID是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_101",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_101",
+    "embedding_text": "EI_LINKCLOTHOID。连接两缓和曲线并生成中间单元的命令。 EI_LINKCLOTHOID是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_102",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_102",
+    "embedding_text": "圆圆模式。圆与圆之间的模式化连接，可构造S形、C形和卵形曲线。 圆圆模式是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_103",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_103",
+    "embedding_text": "扩展模式法。用于更复杂匝道或线元组合设计的方法。 扩展模式法是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_104",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_104",
+    "embedding_text": "桩号文件。保存路线桩号序列，为纵横断面插值和成果输出提供索引。 桩号文件是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_105",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_105",
+    "embedding_text": "纵断面地面线。由桩号和地面高程组成的纵向地形线。 纵断面地面线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_106",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_106",
+    "embedding_text": "拉坡图。纵断面交互设计的图形环境。 拉坡图是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_107",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_107",
+    "embedding_text": "竖曲线。纵断面中连接不同坡度的曲线。 竖曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_108",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_108",
+    "embedding_text": "控制点。桥梁、涵洞、通道等对纵断面高程有约束的位置。 控制点是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_109",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_109",
+    "embedding_text": "横断面地面线。逐桩横向偏距和高程数据组成的地形线。 横断面地面线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_110",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_110",
+    "embedding_text": "设计向导。定义道路等级、路幅、边坡、边沟、超高加宽等参数的引导式工具。 设计向导是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；纬地"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_111",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_111",
+    "embedding_text": "标准横断面模板。描述路幅、边坡、边沟、排水沟等断面构造的模板。 标准横断面模板是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_112",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_112",
+    "embedding_text": "支挡防护工程。挡墙、护坡等用于稳定和防护路基的构造物。 支挡防护工程是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_113",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_113",
+    "embedding_text": "土石比文件。土石方调配前用于描述土石比例的数据文件。 土石比文件是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_114",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_114",
+    "embedding_text": "填挖面积文件。土石方计算和调配的基础面积数据。 填挖面积文件是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_115",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_115",
+    "embedding_text": "构造物运距。构造物是否可通行及运输路径约束的参数。 构造物运距是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；EICAD"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_116",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_116",
+    "embedding_text": "图框模板。控制图纸版式、标题栏和项目信息表达的模板。 图框模板是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_117",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_117",
+    "embedding_text": "表格模板。控制设计表格格式、字段和项目属性的模板。 表格模板是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_118",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_118",
+    "embedding_text": "直曲转角表。汇总平面线形交点、转角和曲线参数的表格。 直曲转角表是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_119",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_119",
+    "embedding_text": "竖曲线表。汇总变坡点和竖曲线参数的表格。 竖曲线表是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_120",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_120",
+    "embedding_text": "路基设计表。汇总逐桩设计高程、宽度和路幅参数的表格。 路基设计表是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_121",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_121",
+    "embedding_text": "土石方数量表。汇总填挖方量和土石方数量的成果表。 土石方数量表是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_122",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_122",
+    "embedding_text": "平面线文件。平面线文件是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_123",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_123",
+    "embedding_text": "AutoCAD保存文件。AutoCAD保存文件是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_124",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_124",
+    "embedding_text": "曲线参数。曲线参数是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_125",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_125",
+    "embedding_text": "缓和曲线长度。缓和曲线长度是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_126",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_126",
+    "embedding_text": "圆曲线半径。圆曲线半径是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_127",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_127",
+    "embedding_text": "起终点桩号。起终点桩号是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_128",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_128",
+    "embedding_text": "横断面插值宽度。横断面插值宽度是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_129",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_129",
+    "embedding_text": "横断面采样间距。横断面采样间距是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_130",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_130",
+    "embedding_text": "设计控制。设计控制是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_131",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_131",
+    "embedding_text": "土方控制。土方控制是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_132",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_132",
+    "embedding_text": "绘图控制。绘图控制是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_133",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_133",
+    "embedding_text": "本桩利用方式。本桩利用方式是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_134",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_134",
+    "embedding_text": "取土场。取土场是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_135",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_135",
+    "embedding_text": "弃土场。弃土场是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_136",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_136",
+    "embedding_text": "运输路径。运输路径是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_137",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_137",
+    "embedding_text": "上路桩号。上路桩号是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_138",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_138",
+    "embedding_text": "图纸比例。图纸比例是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_139",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_139",
+    "embedding_text": "项目属性。项目属性是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_140",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_140",
+    "embedding_text": "块属性。块属性是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_kp_ch07_141",
+    "chapter_id": "ch07",
+    "source_type": "knowledge_point",
+    "source_id": "kp_ch07_141",
+    "embedding_text": "成果路径。成果路径是第七章道路CAD软件操作和成果输出中的关键参数或数据对象。 用于控制道路CAD软件的使用中的任务执行、成果生成和质量检查。",
+    "metadata": "ch07_sec00；software_object；通用"
+  },
+  {
+    "embedding_id": "emb_ch07_task_001",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_001",
+    "embedding_text": "纬地 新建纬地项目。目标：通过【项目】-【新建项目】建立项目文件夹、项目名称和平面线文件。。前置条件：项目路径已确定；原始地形图已准备。输入：项目名称；项目目录；平面线文件。输出：纬地项目文件夹与项目配置。",
+    "metadata": "ch07_sec01；纬地；项目管理"
+  },
+  {
+    "embedding_id": "emb_ch07_task_002",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_002",
+    "embedding_text": "纬地 查看与维护项目管理器。目标：通过项目管理器检查设计文件路径、项目属性、图框和表格模板。。前置条件：已新建或打开项目。输入：项目文件；图框模板；表格模板。输出：项目文件路径和模板配置。",
+    "metadata": "ch07_sec01；纬地；项目管理"
+  },
+  {
+    "embedding_id": "emb_ch07_task_003",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_003",
+    "embedding_text": "纬地 导入DWG/DXF高程数据。目标：读取地形图中的等高线和高程点，将其转换为数模数据源。。前置条件：DWG/DXF中已按图层整理等高线和高程点。输入：计曲线层；首曲线层；高程点层。输出：三维高程数据读入内存。",
+    "metadata": "ch07_sec01；纬地；数模建立"
+  },
+  {
+    "embedding_id": "emb_ch07_task_004",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_004",
+    "embedding_text": "纬地 设置等高线与高程点类型。目标：把等高线图层设置为约束线，把高程点图层设置为地形点。。前置条件：已打开三维数据读入对话框。输入：图层名称；设置类型。输出：可用于三角构网的数据源。",
+    "metadata": "ch07_sec01；纬地；数模建立"
+  },
+  {
+    "embedding_id": "emb_ch07_task_005",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_005",
+    "embedding_text": "纬地 三角构网并保存数模。目标：执行三角构网，生成TIN数模并保存当前数模。。前置条件：高程数据已读入。输入：数模名称；构网范围。输出：三角网数模文件。",
+    "metadata": "ch07_sec01；纬地；数模建立"
+  },
+  {
+    "embedding_id": "emb_ch07_task_006",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_006",
+    "embedding_text": "纬地 优化数模边界和三角网。目标：对不理想的三角网边界或局部异常进行优化。。前置条件：已建立初始数模。输入：边界线；异常三角形；优化参数。输出：较合理的DTM边界和TIN结构。",
+    "metadata": "ch07_sec01；纬地；数模检查"
+  },
+  {
+    "embedding_id": "emb_ch07_task_007",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_007",
+    "embedding_text": "EICAD 新建EICAD项目。目标：使用项目数据管理工具新建项目文件夹并生成相关目录。。前置条件：项目目录已确定。输入：项目名称；项目路径；原始地形图。输出：EICAD项目目录结构。",
+    "metadata": "ch07_sec01；EICAD；项目管理"
+  },
+  {
+    "embedding_id": "emb_ch07_task_008",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_008",
+    "embedding_text": "EICAD 导入或打开项目数据。目标：通过项目数据管理工具打开、导入、浏览和编辑项目信息。。前置条件：已有EICAD项目或外部项目数据。输入：项目文件；设计数据。输出：可继续编辑的项目环境。",
+    "metadata": "ch07_sec01；EICAD；项目管理"
+  },
+  {
+    "embedding_id": "emb_ch07_task_009",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_009",
+    "embedding_text": "EICAD 点选方式建立数模。目标：在地形图上点选计曲线、首曲线和地形点，提取地形数据并构网。。前置条件：地形图已打开；等高线与地形点清晰。输入：计曲线；首曲线；地形点。输出：EICAD DEM/TIN数模。",
+    "metadata": "ch07_sec01；EICAD；数模建立"
+  },
+  {
+    "embedding_id": "emb_ch07_task_010",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_010",
+    "embedding_text": "EICAD 排除高程异常并优化数模。目标：检查数模范围和高程异常，必要时排除异常点并重建。。前置条件：已完成初步构网。输入：异常高程点；数模范围。输出：经检查的数模文件。",
+    "metadata": "ch07_sec01；EICAD；数模检查"
+  },
+  {
+    "embedding_id": "emb_ch07_task_011",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_011",
+    "embedding_text": "纬地 直线型交点法平面定线。目标：输入交点坐标并设置平曲线参数，完成路线平面线形。。前置条件：已建立项目和数模。输入：交点坐标；圆曲线半径；缓和曲线长度。输出：路线平面中线。",
+    "metadata": "ch07_sec02；纬地；平面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_012",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_012",
+    "embedding_text": "纬地 修改平曲线参数。目标：调整圆曲线半径、缓和曲线长度、转角等参数并刷新线形。。前置条件：已有初始平面线形。输入：半径；缓和曲线长度；交点位置。输出：更新后的平面线形。",
+    "metadata": "ch07_sec02；纬地；平面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_013",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_013",
+    "embedding_text": "纬地 设计S型曲线组合。目标：按相邻反向曲线组合要求设置曲线参数并检查连接关系。。前置条件：已明确控制点和转向关系。输入：两个圆曲线半径；缓和曲线；连接长度。输出：S型曲线组合。",
+    "metadata": "ch07_sec02；纬地；复杂曲线"
+  },
+  {
+    "embedding_id": "emb_ch07_task_014",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_014",
+    "embedding_text": "纬地 设计卵形曲线组合。目标：用不同半径圆曲线及过渡段构造卵形曲线。。前置条件：已确定两个不同半径曲线控制条件。输入：大半径；小半径；缓和曲线参数。输出：卵形曲线线形。",
+    "metadata": "ch07_sec02；纬地；复杂曲线"
+  },
+  {
+    "embedding_id": "emb_ch07_task_015",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_015",
+    "embedding_text": "纬地 设计C型曲线与回头曲线。目标：根据地形受限条件构造C型或回头曲线并检查平面连续性。。前置条件：山区或受限路线方案已确定。输入：曲线半径；回头曲线控制点；缓和曲线。输出：C型或回头曲线。",
+    "metadata": "ch07_sec02；纬地；复杂曲线"
+  },
+  {
+    "embedding_id": "emb_ch07_task_016",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_016",
+    "embedding_text": "纬地 互通匝道文件控制接线。目标：通过文件控制方式指定匝道与主线或被交线的接线关系。。前置条件：主线和匝道控制线文件已准备。输入：接线文件；起终点控制；主线文件。输出：匝道接线成果。",
+    "metadata": "ch07_sec02；纬地；立交设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_017",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_017",
+    "embedding_text": "纬地 互通匝道圆+缓+直接线。目标：采用圆曲线、缓和曲线和直线组合方式完成匝道接线。。前置条件：匝道起终点和控制条件已明确。输入：圆曲线半径；缓和曲线长度；直线段长度。输出：匝道平面线形。",
+    "metadata": "ch07_sec02；纬地；立交设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_018",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_018",
+    "embedding_text": "纬地 积木法构造匝道线形。目标：将匝道看作若干线形单元组合，逐段构造并动态调整。。前置条件：立交总体布置已确定。输入：直线单元；圆曲线单元；缓和曲线单元。输出：积木式匝道线形。",
+    "metadata": "ch07_sec02；纬地；立交设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_019",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_019",
+    "embedding_text": "EICAD EICAD直线单元设计。目标：使用EI_LINE构造直线单元，作为路线或匝道的基本线形。。前置条件：控制点或方向已确定。输入：起点；终点；方向角。输出：直线单元。",
+    "metadata": "ch07_sec02；EICAD；平面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_020",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_020",
+    "embedding_text": "EICAD EICAD圆曲线单元设计。目标：使用EI_ARC设置圆曲线半径和控制点，生成圆曲线单元。。前置条件：圆曲线控制条件已确定。输入：半径；圆心/切点；转向。输出：圆曲线单元。",
+    "metadata": "ch07_sec02；EICAD；平面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_021",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_021",
+    "embedding_text": "EICAD EICAD缓和曲线单元设计。目标：使用EI_CLOTHOID设置缓和曲线参数并生成线元。。前置条件：相邻直线或圆曲线已确定。输入：缓和曲线长度；A值；转向。输出：缓和曲线单元。",
+    "metadata": "ch07_sec02；EICAD；平面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_022",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_022",
+    "embedding_text": "EICAD 连接两缓和曲线。目标：使用EI_LINKCLOTHOID连接两条缓和曲线并自动生成中间单元。。前置条件：两条缓和曲线已存在。输入：两条缓和曲线对象。输出：中间圆曲线或直线单元。",
+    "metadata": "ch07_sec02；EICAD；平面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_023",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_023",
+    "embedding_text": "EICAD 基本模式法圆圆模式设计。目标：使用圆圆模式处理S形、C形和卵形曲线连接。。前置条件：两个圆曲线控制条件已确定。输入：半径；圆心距；缓和曲线配置。输出：圆圆模式平面线形。",
+    "metadata": "ch07_sec02；EICAD；立交设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_024",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_024",
+    "embedding_text": "EICAD 扩展模式法立交匝道设计。目标：基于复杂单元组合或扩展模式完成匝道平面设计。。前置条件：立交方案和控制条件明确。输入：连接模式；线元参数；控制点。输出：复杂匝道平面线形。",
+    "metadata": "ch07_sec02；EICAD；立交设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_025",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_025",
+    "embedding_text": "纬地 生成桩号文件。目标：通过工具或设计向导生成纵断面和横断面需要的桩号文件。。前置条件：项目已建立；路线范围明确。输入：桩号间距；起终点桩号。输出：桩号文件。",
+    "metadata": "ch07_sec03；纬地；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_026",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_026",
+    "embedding_text": "纬地 数模内插纵断面地面线。目标：基于数模提取桩号-高程纵断面地面线。。前置条件：数模已建立；桩号文件已准备。输入：插值间距；地面线文件名。输出：纵断面地面线文件。",
+    "metadata": "ch07_sec03；纬地；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_027",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_027",
+    "embedding_text": "纬地 手工输入或修改纵断面地面线。目标：录入或修正桩号-高程数据，保证地面线可靠。。前置条件：外业中桩高程资料已准备。输入：桩号；高程。输出：修正后的纵断面地面线。",
+    "metadata": "ch07_sec03；纬地；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_028",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_028",
+    "embedding_text": "纬地 输入桥梁涵洞通道控制点。目标：录入高程控制点，为拉坡提供约束。。前置条件：桥涵通道位置和控制高程已知。输入：构造物桩号；控制高程；控制类型。输出：纵断面控制点数据。",
+    "metadata": "ch07_sec03；纬地；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_029",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_029",
+    "embedding_text": "纬地 创建纵断面拉坡图。目标：绘制纵断面地面线、里程桩号和平曲线，为交互拉坡提供图形环境。。前置条件：地面线与控制点已准备。输入：比例；绘图范围；显示内容。输出：拉坡设计图。",
+    "metadata": "ch07_sec03；纬地；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_030",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_030",
+    "embedding_text": "纬地 交互式设置变坡点。目标：在拉坡线中增加、拖动和修改变坡点，确定坡度与坡长。。前置条件：已创建拉坡图。输入：变坡点桩号；高程；坡度。输出：纵断面设计线。",
+    "metadata": "ch07_sec03；纬地；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_031",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_031",
+    "embedding_text": "纬地 修改变坡点与竖曲线半径。目标：通过修改变坡点对话框调整桩号、高程和竖曲线半径并刷新结果。。前置条件：纵断面设计线已存在。输入：桩号；高程；竖曲线半径。输出：更新后的竖曲线与拉坡图。",
+    "metadata": "ch07_sec03；纬地；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_032",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_032",
+    "embedding_text": "EICAD 输出纵横地面线。目标：从数字地面模型输出纵断面和横断面地面线。。前置条件：EICAD数模已建立。输入：插值方式；桩号间距；横断面参数。输出：纵横地面线文件。",
+    "metadata": "ch07_sec03；EICAD；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_033",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_033",
+    "embedding_text": "EICAD 创建拉坡图。目标：生成纵断面拉坡图，为自动或手工拉坡提供环境。。前置条件：地面线和桩号文件已准备。输入：绘图比例；桩号范围。输出：EICAD拉坡图。",
+    "metadata": "ch07_sec03；EICAD；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_034",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_034",
+    "embedding_text": "EICAD 输入拉坡控制点。目标：录入桥梁、涵洞、通道等控制点，为纵坡设计提供约束。。前置条件：控制点资料已准备。输入：控制点类型；桩号；高程。输出：拉坡控制条件。",
+    "metadata": "ch07_sec03；EICAD；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_035",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_035",
+    "embedding_text": "EICAD 自动拉坡设计。目标：依据控制条件自动生成纵断面设计线并进行初步审核。。前置条件：控制点和设计标准已确定。输入：坡度范围；竖曲线参数；优化规则。输出：自动拉坡结果。",
+    "metadata": "ch07_sec03；EICAD；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_036",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_036",
+    "embedding_text": "EICAD 手工拉坡与夹点调整。目标：通过拖动夹点调整变坡点与竖曲线参数。。前置条件：已有纵断面设计线。输入：变坡点夹点；高程；半径。输出：修正后的纵断面设计线。",
+    "metadata": "ch07_sec03；EICAD；纵断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_037",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_037",
+    "embedding_text": "纬地 输入横断面地面线。目标：通过横断面数据输入工具录入逐桩横断面地面线。。前置条件：外业横断面数据已整理。输入：桩号；左右偏距；高程。输出：横断面地面线文件。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_038",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_038",
+    "embedding_text": "纬地 数模内插横断面地面线。目标：基于数模按桩号内插横断面地面线。。前置条件：数模和桩号文件已准备。输入：横断面宽度；采样间距；输出文件。输出：逐桩横断面地面线。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_039",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_039",
+    "embedding_text": "纬地 运行设计向导定义标准横断面。目标：通过设计向导定义路线等级、路幅、边坡、边沟和排水沟等参数。。前置条件：项目基本信息已确定。输入：公路等级；设计速度；路基宽度；边坡；边沟。输出：标准横断面模板。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_040",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_040",
+    "embedding_text": "纬地 自动计算超高加宽。目标：根据平面线形和规范参数计算超高与加宽。。前置条件：平面设计已完成；设计向导已设置。输入：超高方式；加宽方式；过渡长度。输出：超高加宽数据文件。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_041",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_041",
+    "embedding_text": "纬地 路基设计计算。目标：计算逐桩超高横坡、设计标高、路幅参数和高差。。前置条件：标准横断面和超高加宽已设置。输入：桩号范围；计算参数。输出：路基设计计算结果。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_042",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_042",
+    "embedding_text": "纬地 录入支挡防护工程。目标：录入挡墙、护坡等支挡防护工程的型式和段落数据。。前置条件：需要支挡防护的路段已确定。输入：工程类型；左右侧；起终点桩号；尺寸。输出：支挡防护数据。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_043",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_043",
+    "embedding_text": "纬地 横断面设计绘图与戴帽。目标：打开横断面设计绘图界面，按设计控制、土方控制和绘图控制完成戴帽。。前置条件：地面线、模板、超高、路基设计计算已完成。输入：设计控制；土方控制；绘图控制。输出：横断面设计图。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_044",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_044",
+    "embedding_text": "纬地 横断面交互修改。目标：浏览特殊断面并进行人工调整。。前置条件：横断面图已生成。输入：桩号；修改对象；控制参数。输出：修正后的横断面成果。",
+    "metadata": "ch07_sec04；纬地；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_045",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_045",
+    "embedding_text": "EICAD 创建路基模板。目标：创建或编辑自定义路基模板。。前置条件：路幅组成和断面形式已确定。输入：车道宽度；路肩；中央分隔带。输出：路基模板。",
+    "metadata": "ch07_sec04；EICAD；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_046",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_046",
+    "embedding_text": "EICAD 创建边坡模板。目标：设置填挖方边坡坡率、平台和防护规则。。前置条件：边坡设计条件已确定。输入：坡率；平台宽度；级数。输出：边坡模板。",
+    "metadata": "ch07_sec04；EICAD；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_047",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_047",
+    "embedding_text": "EICAD 创建边沟与截水沟模板。目标：编辑边沟、排水沟、截水沟等模板。。前置条件：排水设计条件已确定。输入：沟型；尺寸；位置。输出：边沟/截水沟模板。",
+    "metadata": "ch07_sec04；EICAD；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_048",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_048",
+    "embedding_text": "EICAD 生成和修改超高渐变图。目标：设置超高加宽计算并生成超高渐变图。。前置条件：平面线形已完成。输入：超高方式；渐变长度；加宽值。输出：超高渐变图。",
+    "metadata": "ch07_sec04；EICAD；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_049",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_049",
+    "embedding_text": "EICAD 执行横断面戴帽设计。目标：根据模板与地面线进行横断面戴帽。。前置条件：模板和地面线已准备。输入：模板组合；桩号范围；左右侧控制。输出：戴帽设计成果。",
+    "metadata": "ch07_sec04；EICAD；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_050",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_050",
+    "embedding_text": "EICAD 查看与绘制横断面成果。目标：逐桩查看横断面戴帽结果并绘制横断面图。。前置条件：戴帽设计已完成。输入：桩号；显示比例；绘图参数。输出：横断面浏览/绘图成果。",
+    "metadata": "ch07_sec04；EICAD；横断面设计"
+  },
+  {
+    "embedding_id": "emb_ch07_task_051",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_051",
+    "embedding_text": "EICAD 土石方调配数据预处理。目标：创建土石比文件并进行本桩利用方式选择。。前置条件：横断面填挖面积文件已存在。输入：土石比文件；利用方式。输出：土石方调配基础数据。",
+    "metadata": "ch07_sec04；EICAD；土石方调配"
+  },
+  {
+    "embedding_id": "emb_ch07_task_052",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_052",
+    "embedding_text": "EICAD 设置构造物运距。目标：设置构造物是否通行以及运输限制。。前置条件：构造物资料已准备。输入：构造物类型；是否通行；里程。输出：构造物运距控制数据。",
+    "metadata": "ch07_sec04；EICAD；土石方调配"
+  },
+  {
+    "embedding_id": "emb_ch07_task_053",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_053",
+    "embedding_text": "EICAD 绘制土石方调配成果。目标：在平面图上绘制挖余与填缺土方块及运输路径。。前置条件：调配数据预处理完成。输入：土石方块；运输路径；上路桩号。输出：土石方调配图和数量结果。",
+    "metadata": "ch07_sec04；EICAD；土石方调配"
+  },
+  {
+    "embedding_id": "emb_ch07_task_054",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_054",
+    "embedding_text": "纬地 管理图框和表格模板。目标：浏览、指定或修改纬地图框与表格模板。。前置条件：项目已建立；模板目录可访问。输入：图框模板；表格模板；项目属性。输出：项目模板配置。",
+    "metadata": "ch07_sec05；纬地；成果输出"
+  },
+  {
+    "embedding_id": "emb_ch07_task_055",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_055",
+    "embedding_text": "纬地 生成路线平面图。目标：按设定比例和图框输出路线平面设计图。。前置条件：平面设计已完成。输入：比例；图框；桩号范围。输出：路线平面图。",
+    "metadata": "ch07_sec05；纬地；成果输出"
+  },
+  {
+    "embedding_id": "emb_ch07_task_056",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_056",
+    "embedding_text": "纬地 生成纵断面设计图。目标：按横向和纵向比例输出纵断面图。。前置条件：纵断面设计已完成。输入：横向比例；纵向比例；图框。输出：纵断面设计图。",
+    "metadata": "ch07_sec05；纬地；成果输出"
+  },
+  {
+    "embedding_id": "emb_ch07_task_057",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_057",
+    "embedding_text": "纬地 生成横断面设计图。目标：批量生成逐桩横断面设计图。。前置条件：横断面设计已完成。输入：图框；比例；桩号范围。输出：横断面图纸。",
+    "metadata": "ch07_sec05；纬地；成果输出"
+  },
+  {
+    "embedding_id": "emb_ch07_task_058",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_058",
+    "embedding_text": "纬地 输出设计表格。目标：输出直曲转角表、竖曲线表、路基设计表、土石方数量表等。。前置条件：平纵横设计成果已完成。输入：表格模板；输出格式。输出：设计表格成果。",
+    "metadata": "ch07_sec05；纬地；成果输出"
+  },
+  {
+    "embedding_id": "emb_ch07_task_059",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_059",
+    "embedding_text": "EICAD 设置EICAD成果输出模板。目标：配置EICAD图纸和表格输出模板。。前置条件：项目成果文件已准备。输入：图框模板；表格模板；项目属性。输出：EICAD模板配置。",
+    "metadata": "ch07_sec05；EICAD；成果输出"
+  },
+  {
+    "embedding_id": "emb_ch07_task_060",
+    "chapter_id": "ch07",
+    "source_type": "operation_task",
+    "source_id": "ch07_task_060",
+    "embedding_text": "EICAD 批量输出图纸和表格。目标：批量生成平面、纵断面、横断面与土石方成果。。前置条件：各设计模块成果已通过检查。输入：图纸范围；比例；模板；输出路径。输出：批量成果文件。",
+    "metadata": "ch07_sec05；EICAD；成果输出"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_001",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_001",
+    "embedding_text": "纬地如何新建纬地项目？ 纬地如何新建纬地项目？；纬地怎么新建纬地项目？；纬地如何新建纬地项目？ 1. 准备项目与数据：确认项目路径已确定；原始地形图已准备，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“项目/项目管理器”相关功能。；3. 输入或选择数据：选择或录入项目名称；项目目录；平面线文件。；4. 设置关键参数并执行：按照任务要求设置参数，执行“新建纬地项目”。；5. 保存成果并复核：保存纬地项目文件夹与项目配置，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_002",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_002",
+    "embedding_text": "新建纬地项目需要检查哪些内容？ 新建纬地项目需要检查哪些内容？；新建纬地项目需要检查哪些内容？；新建纬地项目需要检查哪些内容？ 检查前置条件：项目路径已确定；原始地形图已准备；检查输入数据：项目名称；项目目录；平面线文件；检查输出成果：纬地项目文件夹与项目配置；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_003",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_003",
+    "embedding_text": "新建纬地项目常见错误如何排查？ 新建纬地项目常见错误如何排查？；新建纬地项目常见错误怎么排查？；新建纬地项目常见错误如何排查？ 新建纬地项目无法执行、输出为空或后续模块无法调用。：检查项目路径已确定；原始地形图已准备；确认文件位于项目目录内；重新打开项目并刷新路径；新建纬地项目结果异常、图形显示不完整或计算结果不可信。：核对项目名称；项目目录；平面线文件；检查桩号范围、单位、比例和模板；重新执行并检查输出成果",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_004",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_004",
+    "embedding_text": "纬地如何查看与维护项目管理器？ 纬地如何查看与维护项目管理器？；纬地怎么查看与维护项目管理器？；纬地如何查看与维护项目管理器？ 1. 准备项目与数据：确认已新建或打开项目，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“项目/项目管理器”相关功能。；3. 输入或选择数据：选择或录入项目文件；图框模板；表格模板。；4. 设置关键参数并执行：按照任务要求设置参数，执行“查看与维护项目管理器”。；5. 保存成果并复核：保存项目文件路径和模板配置，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_005",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_005",
+    "embedding_text": "查看与维护项目管理器需要检查哪些内容？ 查看与维护项目管理器需要检查哪些内容？；查看与维护项目管理器需要检查哪些内容？；查看与维护项目管理器需要检查哪些内容？ 检查前置条件：已新建或打开项目；检查输入数据：项目文件；图框模板；表格模板；检查输出成果：项目文件路径和模板配置；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_006",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_006",
+    "embedding_text": "查看与维护项目管理器常见错误如何排查？ 查看与维护项目管理器常见错误如何排查？；查看与维护项目管理器常见错误怎么排查？；查看与维护项目管理器常见错误如何排查？ 查看与维护项目管理器无法执行、输出为空或后续模块无法调用。：检查已新建或打开项目；确认文件位于项目目录内；重新打开项目并刷新路径；查看与维护项目管理器结果异常、图形显示不完整或计算结果不可信。：核对项目文件；图框模板；表格模板；检查桩号范围、单位、比例和模板；重新执行并检查输出成果",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_007",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_007",
+    "embedding_text": "纬地如何导入DWG/DXF高程数据？ 纬地如何导入DWG/DXF高程数据？；纬地怎么导入DWG/DXF高程数据？；纬地如何导入DWG/DXF高程数据？ 1. 准备项目与数据：确认DWG/DXF中已按图层整理等高线和高程点，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“数模/数字高程模型”相关功能。；3. 输入或选择数据：选择或录入计曲线层；首曲线层；高程点层。；4. 设置关键参数并执行：按照任务要求设置参数，执行“导入DWG/DXF高程数据”。；5. 保存成果并复核：保存三维高程数据读入内存，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_008",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_008",
+    "embedding_text": "导入DWG/DXF高程数据需要检查哪些内容？ 导入DWG/DXF高程数据需要检查哪些内容？；导入DWG/DXF高程数据需要检查哪些内容？；导入DWG/DXF高程数据需要检查哪些内容？ 检查前置条件：DWG/DXF中已按图层整理等高线和高程点；检查输入数据：计曲线层；首曲线层；高程点层；检查输出成果：三维高程数据读入内存；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_009",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_009",
+    "embedding_text": "导入DWG/DXF高程数据常见错误如何排查？ 导入DWG/DXF高程数据常见错误如何排查？；导入DWG/DXF高程数据常见错误怎么排查？；导入DWG/DXF高程数据常见错误如何排查？ 导入DWG/DXF高程数据无法执行、输出为空或后续模块无法调用。：检查DWG/DXF中已按图层整理等高线和高程点；确认文件位于项目目录内；重新打开项目并刷新路径；导入DWG/DXF高程数据结果异常、图形显示不完整或计算结果不可信。：核对计曲线层；首曲线层；高程点层；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；构网后地形面变形、缺少局部区域或三角形异常。：核对计曲线、首曲线和高程点图层；重新设置约束线/地形点类型；排除异常高程点并重建数模",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_010",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_010",
+    "embedding_text": "纬地如何设置等高线与高程点类型？ 纬地如何设置等高线与高程点类型？；纬地怎么设置等高线与高程点类型？；纬地如何设置等高线与高程点类型？ 1. 准备项目与数据：确认已打开三维数据读入对话框，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“数模/数字高程模型”相关功能。；3. 输入或选择数据：选择或录入图层名称；设置类型。；4. 设置关键参数并执行：按照任务要求设置参数，执行“设置等高线与高程点类型”。；5. 保存成果并复核：保存可用于三角构网的数据源，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_011",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_011",
+    "embedding_text": "设置等高线与高程点类型需要检查哪些内容？ 设置等高线与高程点类型需要检查哪些内容？；设置等高线与高程点类型需要检查哪些内容？；设置等高线与高程点类型需要检查哪些内容？ 检查前置条件：已打开三维数据读入对话框；检查输入数据：图层名称；设置类型；检查输出成果：可用于三角构网的数据源；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_012",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_012",
+    "embedding_text": "设置等高线与高程点类型常见错误如何排查？ 设置等高线与高程点类型常见错误如何排查？；设置等高线与高程点类型常见错误怎么排查？；设置等高线与高程点类型常见错误如何排查？ 设置等高线与高程点类型无法执行、输出为空或后续模块无法调用。：检查已打开三维数据读入对话框；确认文件位于项目目录内；重新打开项目并刷新路径；设置等高线与高程点类型结果异常、图形显示不完整或计算结果不可信。：核对图层名称；设置类型；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；构网后地形面变形、缺少局部区域或三角形异常。：核对计曲线、首曲线和高程点图层；重新设置约束线/地形点类型；排除异常高程点并重建数模",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_013",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_013",
+    "embedding_text": "纬地如何三角构网并保存数模？ 纬地如何三角构网并保存数模？；纬地怎么三角构网并保存数模？；纬地如何三角构网并保存数模？ 1. 准备项目与数据：确认高程数据已读入，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“数模/数字高程模型”相关功能。；3. 输入或选择数据：选择或录入数模名称；构网范围。；4. 设置关键参数并执行：按照任务要求设置参数，执行“三角构网并保存数模”。；5. 保存成果并复核：保存三角网数模文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_014",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_014",
+    "embedding_text": "三角构网并保存数模需要检查哪些内容？ 三角构网并保存数模需要检查哪些内容？；三角构网并保存数模需要检查哪些内容？；三角构网并保存数模需要检查哪些内容？ 检查前置条件：高程数据已读入；检查输入数据：数模名称；构网范围；检查输出成果：三角网数模文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_015",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_015",
+    "embedding_text": "三角构网并保存数模常见错误如何排查？ 三角构网并保存数模常见错误如何排查？；三角构网并保存数模常见错误怎么排查？；三角构网并保存数模常见错误如何排查？ 三角构网并保存数模无法执行、输出为空或后续模块无法调用。：检查高程数据已读入；确认文件位于项目目录内；重新打开项目并刷新路径；三角构网并保存数模结果异常、图形显示不完整或计算结果不可信。：核对数模名称；构网范围；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；构网后地形面变形、缺少局部区域或三角形异常。：核对计曲线、首曲线和高程点图层；重新设置约束线/地形点类型；排除异常高程点并重建数模",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_016",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_016",
+    "embedding_text": "纬地如何优化数模边界和三角网？ 纬地如何优化数模边界和三角网？；纬地怎么优化数模边界和三角网？；纬地如何优化数模边界和三角网？ 1. 准备项目与数据：确认已建立初始数模，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“数模/数模修改”相关功能。；3. 输入或选择数据：选择或录入边界线；异常三角形；优化参数。；4. 设置关键参数并执行：按照任务要求设置参数，执行“优化数模边界和三角网”。；5. 保存成果并复核：保存较合理的DTM边界和TIN结构，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_017",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_017",
+    "embedding_text": "优化数模边界和三角网需要检查哪些内容？ 优化数模边界和三角网需要检查哪些内容？；优化数模边界和三角网需要检查哪些内容？；优化数模边界和三角网需要检查哪些内容？ 检查前置条件：已建立初始数模；检查输入数据：边界线；异常三角形；优化参数；检查输出成果：较合理的DTM边界和TIN结构；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_018",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_018",
+    "embedding_text": "优化数模边界和三角网常见错误如何排查？ 优化数模边界和三角网常见错误如何排查？；优化数模边界和三角网常见错误怎么排查？；优化数模边界和三角网常见错误如何排查？ 优化数模边界和三角网无法执行、输出为空或后续模块无法调用。：检查已建立初始数模；确认文件位于项目目录内；重新打开项目并刷新路径；优化数模边界和三角网结果异常、图形显示不完整或计算结果不可信。：核对边界线；异常三角形；优化参数；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；构网后地形面变形、缺少局部区域或三角形异常。：核对计曲线、首曲线和高程点图层；重新设置约束线/地形点类型；排除异常高程点并重建数模",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_019",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_019",
+    "embedding_text": "EICAD如何新建EICAD项目？ EICAD如何新建EICAD项目？；EICAD怎么新建EICAD项目？；EICAD如何新建EICAD项目？ 1. 准备项目与数据：确认项目目录已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“项目/项目管理器”相关功能。；3. 输入或选择数据：选择或录入项目名称；项目路径；原始地形图。；4. 设置关键参数并执行：按照任务要求设置参数，执行“新建EICAD项目”。；5. 保存成果并复核：保存EICAD项目目录结构，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_020",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_020",
+    "embedding_text": "新建EICAD项目需要检查哪些内容？ 新建EICAD项目需要检查哪些内容？；新建EICAD项目需要检查哪些内容？；新建EICAD项目需要检查哪些内容？ 检查前置条件：项目目录已确定；检查输入数据：项目名称；项目路径；原始地形图；检查输出成果：EICAD项目目录结构；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_021",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_021",
+    "embedding_text": "新建EICAD项目常见错误如何排查？ 新建EICAD项目常见错误如何排查？；新建EICAD项目常见错误怎么排查？；新建EICAD项目常见错误如何排查？ 新建EICAD项目无法执行、输出为空或后续模块无法调用。：检查项目目录已确定；确认文件位于项目目录内；重新打开项目并刷新路径；新建EICAD项目结果异常、图形显示不完整或计算结果不可信。：核对项目名称；项目路径；原始地形图；检查桩号范围、单位、比例和模板；重新执行并检查输出成果",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_022",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_022",
+    "embedding_text": "EICAD如何导入或打开项目数据？ EICAD如何导入或打开项目数据？；EICAD怎么导入或打开项目数据？；EICAD如何导入或打开项目数据？ 1. 准备项目与数据：确认已有EICAD项目或外部项目数据，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“项目/项目管理器”相关功能。；3. 输入或选择数据：选择或录入项目文件；设计数据。；4. 设置关键参数并执行：按照任务要求设置参数，执行“导入或打开项目数据”。；5. 保存成果并复核：保存可继续编辑的项目环境，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_023",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_023",
+    "embedding_text": "导入或打开项目数据需要检查哪些内容？ 导入或打开项目数据需要检查哪些内容？；导入或打开项目数据需要检查哪些内容？；导入或打开项目数据需要检查哪些内容？ 检查前置条件：已有EICAD项目或外部项目数据；检查输入数据：项目文件；设计数据；检查输出成果：可继续编辑的项目环境；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_024",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_024",
+    "embedding_text": "导入或打开项目数据常见错误如何排查？ 导入或打开项目数据常见错误如何排查？；导入或打开项目数据常见错误怎么排查？；导入或打开项目数据常见错误如何排查？ 导入或打开项目数据无法执行、输出为空或后续模块无法调用。：检查已有EICAD项目或外部项目数据；确认文件位于项目目录内；重新打开项目并刷新路径；导入或打开项目数据结果异常、图形显示不完整或计算结果不可信。：核对项目文件；设计数据；检查桩号范围、单位、比例和模板；重新执行并检查输出成果",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_025",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_025",
+    "embedding_text": "EICAD如何点选方式建立数模？ EICAD如何点选方式建立数模？；EICAD怎么点选方式建立数模？；EICAD如何点选方式建立数模？ 1. 准备项目与数据：确认地形图已打开；等高线与地形点清晰，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“数模/数字高程模型”相关功能。；3. 输入或选择数据：选择或录入计曲线；首曲线；地形点。；4. 设置关键参数并执行：按照任务要求设置参数，执行“点选方式建立数模”。；5. 保存成果并复核：保存EICAD DEM/TIN数模，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_026",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_026",
+    "embedding_text": "点选方式建立数模需要检查哪些内容？ 点选方式建立数模需要检查哪些内容？；点选方式建立数模需要检查哪些内容？；点选方式建立数模需要检查哪些内容？ 检查前置条件：地形图已打开；等高线与地形点清晰；检查输入数据：计曲线；首曲线；地形点；检查输出成果：EICAD DEM/TIN数模；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_027",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_027",
+    "embedding_text": "点选方式建立数模常见错误如何排查？ 点选方式建立数模常见错误如何排查？；点选方式建立数模常见错误怎么排查？；点选方式建立数模常见错误如何排查？ 点选方式建立数模无法执行、输出为空或后续模块无法调用。：检查地形图已打开；等高线与地形点清晰；确认文件位于项目目录内；重新打开项目并刷新路径；点选方式建立数模结果异常、图形显示不完整或计算结果不可信。：核对计曲线；首曲线；地形点；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；构网后地形面变形、缺少局部区域或三角形异常。：核对计曲线、首曲线和高程点图层；重新设置约束线/地形点类型；排除异常高程点并重建数模",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_028",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_028",
+    "embedding_text": "EICAD如何排除高程异常并优化数模？ EICAD如何排除高程异常并优化数模？；EICAD怎么排除高程异常并优化数模？；EICAD如何排除高程异常并优化数模？ 1. 准备项目与数据：确认已完成初步构网，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“数模/数模修改”相关功能。；3. 输入或选择数据：选择或录入异常高程点；数模范围。；4. 设置关键参数并执行：按照任务要求设置参数，执行“排除高程异常并优化数模”。；5. 保存成果并复核：保存经检查的数模文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec01；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_029",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_029",
+    "embedding_text": "排除高程异常并优化数模需要检查哪些内容？ 排除高程异常并优化数模需要检查哪些内容？；排除高程异常并优化数模需要检查哪些内容？；排除高程异常并优化数模需要检查哪些内容？ 检查前置条件：已完成初步构网；检查输入数据：异常高程点；数模范围；检查输出成果：经检查的数模文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec01；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_030",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_030",
+    "embedding_text": "排除高程异常并优化数模常见错误如何排查？ 排除高程异常并优化数模常见错误如何排查？；排除高程异常并优化数模常见错误怎么排查？；排除高程异常并优化数模常见错误如何排查？ 排除高程异常并优化数模无法执行、输出为空或后续模块无法调用。：检查已完成初步构网；确认文件位于项目目录内；重新打开项目并刷新路径；排除高程异常并优化数模结果异常、图形显示不完整或计算结果不可信。：核对异常高程点；数模范围；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；构网后地形面变形、缺少局部区域或三角形异常。：核对计曲线、首曲线和高程点图层；重新设置约束线/地形点类型；排除异常高程点并重建数模",
+    "metadata": "ch07_sec01；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_031",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_031",
+    "embedding_text": "纬地如何直线型交点法平面定线？ 纬地如何直线型交点法平面定线？；纬地怎么直线型交点法平面定线？；纬地如何直线型交点法平面定线？ 1. 准备项目与数据：确认已建立项目和数模，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“平面设计”相关功能。；3. 输入或选择数据：选择或录入交点坐标；圆曲线半径；缓和曲线长度。；4. 设置关键参数并执行：按照任务要求设置参数，执行“直线型交点法平面定线”。；5. 保存成果并复核：保存路线平面中线，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_032",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_032",
+    "embedding_text": "直线型交点法平面定线需要检查哪些内容？ 直线型交点法平面定线需要检查哪些内容？；直线型交点法平面定线需要检查哪些内容？；直线型交点法平面定线需要检查哪些内容？ 检查前置条件：已建立项目和数模；检查输入数据：交点坐标；圆曲线半径；缓和曲线长度；检查输出成果：路线平面中线；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_033",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_033",
+    "embedding_text": "直线型交点法平面定线常见错误如何排查？ 直线型交点法平面定线常见错误如何排查？；直线型交点法平面定线常见错误怎么排查？；直线型交点法平面定线常见错误如何排查？ 直线型交点法平面定线无法执行、输出为空或后续模块无法调用。：检查已建立项目和数模；确认文件位于项目目录内；重新打开项目并刷新路径；直线型交点法平面定线结果异常、图形显示不完整或计算结果不可信。：核对交点坐标；圆曲线半径；缓和曲线长度；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_034",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_034",
+    "embedding_text": "纬地如何修改平曲线参数？ 纬地如何修改平曲线参数？；纬地怎么修改平曲线参数？；纬地如何修改平曲线参数？ 1. 准备项目与数据：确认已有初始平面线形，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“平面设计”相关功能。；3. 输入或选择数据：选择或录入半径；缓和曲线长度；交点位置。；4. 设置关键参数并执行：按照任务要求设置参数，执行“修改平曲线参数”。；5. 保存成果并复核：保存更新后的平面线形，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_035",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_035",
+    "embedding_text": "修改平曲线参数需要检查哪些内容？ 修改平曲线参数需要检查哪些内容？；修改平曲线参数需要检查哪些内容？；修改平曲线参数需要检查哪些内容？ 检查前置条件：已有初始平面线形；检查输入数据：半径；缓和曲线长度；交点位置；检查输出成果：更新后的平面线形；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_036",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_036",
+    "embedding_text": "修改平曲线参数常见错误如何排查？ 修改平曲线参数常见错误如何排查？；修改平曲线参数常见错误怎么排查？；修改平曲线参数常见错误如何排查？ 修改平曲线参数无法执行、输出为空或后续模块无法调用。：检查已有初始平面线形；确认文件位于项目目录内；重新打开项目并刷新路径；修改平曲线参数结果异常、图形显示不完整或计算结果不可信。：核对半径；缓和曲线长度；交点位置；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_037",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_037",
+    "embedding_text": "纬地如何设计S型曲线组合？ 纬地如何设计S型曲线组合？；纬地怎么设计S型曲线组合？；纬地如何设计S型曲线组合？ 1. 准备项目与数据：确认已明确控制点和转向关系，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“平面设计/曲线组合”相关功能。；3. 输入或选择数据：选择或录入两个圆曲线半径；缓和曲线；连接长度。；4. 设置关键参数并执行：按照任务要求设置参数，执行“设计S型曲线组合”。；5. 保存成果并复核：保存S型曲线组合，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_038",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_038",
+    "embedding_text": "设计S型曲线组合需要检查哪些内容？ 设计S型曲线组合需要检查哪些内容？；设计S型曲线组合需要检查哪些内容？；设计S型曲线组合需要检查哪些内容？ 检查前置条件：已明确控制点和转向关系；检查输入数据：两个圆曲线半径；缓和曲线；连接长度；检查输出成果：S型曲线组合；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_039",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_039",
+    "embedding_text": "设计S型曲线组合常见错误如何排查？ 设计S型曲线组合常见错误如何排查？；设计S型曲线组合常见错误怎么排查？；设计S型曲线组合常见错误如何排查？ 设计S型曲线组合无法执行、输出为空或后续模块无法调用。：检查已明确控制点和转向关系；确认文件位于项目目录内；重新打开项目并刷新路径；设计S型曲线组合结果异常、图形显示不完整或计算结果不可信。：核对两个圆曲线半径；缓和曲线；连接长度；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_040",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_040",
+    "embedding_text": "纬地如何设计卵形曲线组合？ 纬地如何设计卵形曲线组合？；纬地怎么设计卵形曲线组合？；纬地如何设计卵形曲线组合？ 1. 准备项目与数据：确认已确定两个不同半径曲线控制条件，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“平面设计/曲线组合”相关功能。；3. 输入或选择数据：选择或录入大半径；小半径；缓和曲线参数。；4. 设置关键参数并执行：按照任务要求设置参数，执行“设计卵形曲线组合”。；5. 保存成果并复核：保存卵形曲线线形，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_041",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_041",
+    "embedding_text": "设计卵形曲线组合需要检查哪些内容？ 设计卵形曲线组合需要检查哪些内容？；设计卵形曲线组合需要检查哪些内容？；设计卵形曲线组合需要检查哪些内容？ 检查前置条件：已确定两个不同半径曲线控制条件；检查输入数据：大半径；小半径；缓和曲线参数；检查输出成果：卵形曲线线形；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_042",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_042",
+    "embedding_text": "设计卵形曲线组合常见错误如何排查？ 设计卵形曲线组合常见错误如何排查？；设计卵形曲线组合常见错误怎么排查？；设计卵形曲线组合常见错误如何排查？ 设计卵形曲线组合无法执行、输出为空或后续模块无法调用。：检查已确定两个不同半径曲线控制条件；确认文件位于项目目录内；重新打开项目并刷新路径；设计卵形曲线组合结果异常、图形显示不完整或计算结果不可信。：核对大半径；小半径；缓和曲线参数；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_043",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_043",
+    "embedding_text": "纬地如何设计C型曲线与回头曲线？ 纬地如何设计C型曲线与回头曲线？；纬地怎么设计C型曲线与回头曲线？；纬地如何设计C型曲线与回头曲线？ 1. 准备项目与数据：确认山区或受限路线方案已确定，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“平面设计/曲线组合”相关功能。；3. 输入或选择数据：选择或录入曲线半径；回头曲线控制点；缓和曲线。；4. 设置关键参数并执行：按照任务要求设置参数，执行“设计C型曲线与回头曲线”。；5. 保存成果并复核：保存C型或回头曲线，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_044",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_044",
+    "embedding_text": "设计C型曲线与回头曲线需要检查哪些内容？ 设计C型曲线与回头曲线需要检查哪些内容？；设计C型曲线与回头曲线需要检查哪些内容？；设计C型曲线与回头曲线需要检查哪些内容？ 检查前置条件：山区或受限路线方案已确定；检查输入数据：曲线半径；回头曲线控制点；缓和曲线；检查输出成果：C型或回头曲线；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_045",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_045",
+    "embedding_text": "设计C型曲线与回头曲线常见错误如何排查？ 设计C型曲线与回头曲线常见错误如何排查？；设计C型曲线与回头曲线常见错误怎么排查？；设计C型曲线与回头曲线常见错误如何排查？ 设计C型曲线与回头曲线无法执行、输出为空或后续模块无法调用。：检查山区或受限路线方案已确定；确认文件位于项目目录内；重新打开项目并刷新路径；设计C型曲线与回头曲线结果异常、图形显示不完整或计算结果不可信。：核对曲线半径；回头曲线控制点；缓和曲线；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_046",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_046",
+    "embedding_text": "纬地如何互通匝道文件控制接线？ 纬地如何互通匝道文件控制接线？；纬地怎么互通匝道文件控制接线？；纬地如何互通匝道文件控制接线？ 1. 准备项目与数据：确认主线和匝道控制线文件已准备，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“立交设计”相关功能。；3. 输入或选择数据：选择或录入接线文件；起终点控制；主线文件。；4. 设置关键参数并执行：按照任务要求设置参数，执行“互通匝道文件控制接线”。；5. 保存成果并复核：保存匝道接线成果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_047",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_047",
+    "embedding_text": "互通匝道文件控制接线需要检查哪些内容？ 互通匝道文件控制接线需要检查哪些内容？；互通匝道文件控制接线需要检查哪些内容？；互通匝道文件控制接线需要检查哪些内容？ 检查前置条件：主线和匝道控制线文件已准备；检查输入数据：接线文件；起终点控制；主线文件；检查输出成果：匝道接线成果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_048",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_048",
+    "embedding_text": "互通匝道文件控制接线常见错误如何排查？ 互通匝道文件控制接线常见错误如何排查？；互通匝道文件控制接线常见错误怎么排查？；互通匝道文件控制接线常见错误如何排查？ 互通匝道文件控制接线无法执行、输出为空或后续模块无法调用。：检查主线和匝道控制线文件已准备；确认文件位于项目目录内；重新打开项目并刷新路径；互通匝道文件控制接线结果异常、图形显示不完整或计算结果不可信。：核对接线文件；起终点控制；主线文件；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_049",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_049",
+    "embedding_text": "纬地如何互通匝道圆+缓+直接线？ 纬地如何互通匝道圆+缓+直接线？；纬地怎么互通匝道圆+缓+直接线？；纬地如何互通匝道圆+缓+直接线？ 1. 准备项目与数据：确认匝道起终点和控制条件已明确，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“立交设计”相关功能。；3. 输入或选择数据：选择或录入圆曲线半径；缓和曲线长度；直线段长度。；4. 设置关键参数并执行：按照任务要求设置参数，执行“互通匝道圆+缓+直接线”。；5. 保存成果并复核：保存匝道平面线形，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_050",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_050",
+    "embedding_text": "互通匝道圆+缓+直接线需要检查哪些内容？ 互通匝道圆+缓+直接线需要检查哪些内容？；互通匝道圆+缓+直接线需要检查哪些内容？；互通匝道圆+缓+直接线需要检查哪些内容？ 检查前置条件：匝道起终点和控制条件已明确；检查输入数据：圆曲线半径；缓和曲线长度；直线段长度；检查输出成果：匝道平面线形；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_051",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_051",
+    "embedding_text": "互通匝道圆+缓+直接线常见错误如何排查？ 互通匝道圆+缓+直接线常见错误如何排查？；互通匝道圆+缓+直接线常见错误怎么排查？；互通匝道圆+缓+直接线常见错误如何排查？ 互通匝道圆+缓+直接线无法执行、输出为空或后续模块无法调用。：检查匝道起终点和控制条件已明确；确认文件位于项目目录内；重新打开项目并刷新路径；互通匝道圆+缓+直接线结果异常、图形显示不完整或计算结果不可信。：核对圆曲线半径；缓和曲线长度；直线段长度；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_052",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_052",
+    "embedding_text": "纬地如何积木法构造匝道线形？ 纬地如何积木法构造匝道线形？；纬地怎么积木法构造匝道线形？；纬地如何积木法构造匝道线形？ 1. 准备项目与数据：确认立交总体布置已确定，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“立交设计”相关功能。；3. 输入或选择数据：选择或录入直线单元；圆曲线单元；缓和曲线单元。；4. 设置关键参数并执行：按照任务要求设置参数，执行“积木法构造匝道线形”。；5. 保存成果并复核：保存积木式匝道线形，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_053",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_053",
+    "embedding_text": "积木法构造匝道线形需要检查哪些内容？ 积木法构造匝道线形需要检查哪些内容？；积木法构造匝道线形需要检查哪些内容？；积木法构造匝道线形需要检查哪些内容？ 检查前置条件：立交总体布置已确定；检查输入数据：直线单元；圆曲线单元；缓和曲线单元；检查输出成果：积木式匝道线形；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_054",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_054",
+    "embedding_text": "积木法构造匝道线形常见错误如何排查？ 积木法构造匝道线形常见错误如何排查？；积木法构造匝道线形常见错误怎么排查？；积木法构造匝道线形常见错误如何排查？ 积木法构造匝道线形无法执行、输出为空或后续模块无法调用。：检查立交总体布置已确定；确认文件位于项目目录内；重新打开项目并刷新路径；积木法构造匝道线形结果异常、图形显示不完整或计算结果不可信。：核对直线单元；圆曲线单元；缓和曲线单元；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_055",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_055",
+    "embedding_text": "EICAD如何EICAD直线单元设计？ EICAD如何EICAD直线单元设计？；EICAD怎么EICAD直线单元设计？；EICAD如何EICAD直线单元设计？ 1. 准备项目与数据：确认控制点或方向已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“平面设计”相关功能。；3. 输入或选择数据：选择或录入起点；终点；方向角。；4. 设置关键参数并执行：按照任务要求设置参数，执行“EICAD直线单元设计”。；5. 保存成果并复核：保存直线单元，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_056",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_056",
+    "embedding_text": "EICAD直线单元设计需要检查哪些内容？ EICAD直线单元设计需要检查哪些内容？；EICAD直线单元设计需要检查哪些内容？；EICAD直线单元设计需要检查哪些内容？ 检查前置条件：控制点或方向已确定；检查输入数据：起点；终点；方向角；检查输出成果：直线单元；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_057",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_057",
+    "embedding_text": "EICAD直线单元设计常见错误如何排查？ EICAD直线单元设计常见错误如何排查？；EICAD直线单元设计常见错误怎么排查？；EICAD直线单元设计常见错误如何排查？ EICAD直线单元设计无法执行、输出为空或后续模块无法调用。：检查控制点或方向已确定；确认文件位于项目目录内；重新打开项目并刷新路径；EICAD直线单元设计结果异常、图形显示不完整或计算结果不可信。：核对起点；终点；方向角；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_058",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_058",
+    "embedding_text": "EICAD如何EICAD圆曲线单元设计？ EICAD如何EICAD圆曲线单元设计？；EICAD怎么EICAD圆曲线单元设计？；EICAD如何EICAD圆曲线单元设计？ 1. 准备项目与数据：确认圆曲线控制条件已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“平面设计”相关功能。；3. 输入或选择数据：选择或录入半径；圆心/切点；转向。；4. 设置关键参数并执行：按照任务要求设置参数，执行“EICAD圆曲线单元设计”。；5. 保存成果并复核：保存圆曲线单元，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_059",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_059",
+    "embedding_text": "EICAD圆曲线单元设计需要检查哪些内容？ EICAD圆曲线单元设计需要检查哪些内容？；EICAD圆曲线单元设计需要检查哪些内容？；EICAD圆曲线单元设计需要检查哪些内容？ 检查前置条件：圆曲线控制条件已确定；检查输入数据：半径；圆心/切点；转向；检查输出成果：圆曲线单元；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_060",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_060",
+    "embedding_text": "EICAD圆曲线单元设计常见错误如何排查？ EICAD圆曲线单元设计常见错误如何排查？；EICAD圆曲线单元设计常见错误怎么排查？；EICAD圆曲线单元设计常见错误如何排查？ EICAD圆曲线单元设计无法执行、输出为空或后续模块无法调用。：检查圆曲线控制条件已确定；确认文件位于项目目录内；重新打开项目并刷新路径；EICAD圆曲线单元设计结果异常、图形显示不完整或计算结果不可信。：核对半径；圆心/切点；转向；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_061",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_061",
+    "embedding_text": "EICAD如何EICAD缓和曲线单元设计？ EICAD如何EICAD缓和曲线单元设计？；EICAD怎么EICAD缓和曲线单元设计？；EICAD如何EICAD缓和曲线单元设计？ 1. 准备项目与数据：确认相邻直线或圆曲线已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“平面设计”相关功能。；3. 输入或选择数据：选择或录入缓和曲线长度；A值；转向。；4. 设置关键参数并执行：按照任务要求设置参数，执行“EICAD缓和曲线单元设计”。；5. 保存成果并复核：保存缓和曲线单元，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_062",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_062",
+    "embedding_text": "EICAD缓和曲线单元设计需要检查哪些内容？ EICAD缓和曲线单元设计需要检查哪些内容？；EICAD缓和曲线单元设计需要检查哪些内容？；EICAD缓和曲线单元设计需要检查哪些内容？ 检查前置条件：相邻直线或圆曲线已确定；检查输入数据：缓和曲线长度；A值；转向；检查输出成果：缓和曲线单元；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_063",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_063",
+    "embedding_text": "EICAD缓和曲线单元设计常见错误如何排查？ EICAD缓和曲线单元设计常见错误如何排查？；EICAD缓和曲线单元设计常见错误怎么排查？；EICAD缓和曲线单元设计常见错误如何排查？ EICAD缓和曲线单元设计无法执行、输出为空或后续模块无法调用。：检查相邻直线或圆曲线已确定；确认文件位于项目目录内；重新打开项目并刷新路径；EICAD缓和曲线单元设计结果异常、图形显示不完整或计算结果不可信。：核对缓和曲线长度；A值；转向；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_064",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_064",
+    "embedding_text": "EICAD如何连接两缓和曲线？ EICAD如何连接两缓和曲线？；EICAD怎么连接两缓和曲线？；EICAD如何连接两缓和曲线？ 1. 准备项目与数据：确认两条缓和曲线已存在，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“平面设计”相关功能。；3. 输入或选择数据：选择或录入两条缓和曲线对象。；4. 设置关键参数并执行：按照任务要求设置参数，执行“连接两缓和曲线”。；5. 保存成果并复核：保存中间圆曲线或直线单元，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_065",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_065",
+    "embedding_text": "连接两缓和曲线需要检查哪些内容？ 连接两缓和曲线需要检查哪些内容？；连接两缓和曲线需要检查哪些内容？；连接两缓和曲线需要检查哪些内容？ 检查前置条件：两条缓和曲线已存在；检查输入数据：两条缓和曲线对象；检查输出成果：中间圆曲线或直线单元；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_066",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_066",
+    "embedding_text": "连接两缓和曲线常见错误如何排查？ 连接两缓和曲线常见错误如何排查？；连接两缓和曲线常见错误怎么排查？；连接两缓和曲线常见错误如何排查？ 连接两缓和曲线无法执行、输出为空或后续模块无法调用。：检查两条缓和曲线已存在；确认文件位于项目目录内；重新打开项目并刷新路径；连接两缓和曲线结果异常、图形显示不完整或计算结果不可信。：核对两条缓和曲线对象；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_067",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_067",
+    "embedding_text": "EICAD如何基本模式法圆圆模式设计？ EICAD如何基本模式法圆圆模式设计？；EICAD怎么基本模式法圆圆模式设计？；EICAD如何基本模式法圆圆模式设计？ 1. 准备项目与数据：确认两个圆曲线控制条件已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“立交设计”相关功能。；3. 输入或选择数据：选择或录入半径；圆心距；缓和曲线配置。；4. 设置关键参数并执行：按照任务要求设置参数，执行“基本模式法圆圆模式设计”。；5. 保存成果并复核：保存圆圆模式平面线形，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_068",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_068",
+    "embedding_text": "基本模式法圆圆模式设计需要检查哪些内容？ 基本模式法圆圆模式设计需要检查哪些内容？；基本模式法圆圆模式设计需要检查哪些内容？；基本模式法圆圆模式设计需要检查哪些内容？ 检查前置条件：两个圆曲线控制条件已确定；检查输入数据：半径；圆心距；缓和曲线配置；检查输出成果：圆圆模式平面线形；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_069",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_069",
+    "embedding_text": "基本模式法圆圆模式设计常见错误如何排查？ 基本模式法圆圆模式设计常见错误如何排查？；基本模式法圆圆模式设计常见错误怎么排查？；基本模式法圆圆模式设计常见错误如何排查？ 基本模式法圆圆模式设计无法执行、输出为空或后续模块无法调用。：检查两个圆曲线控制条件已确定；确认文件位于项目目录内；重新打开项目并刷新路径；基本模式法圆圆模式设计结果异常、图形显示不完整或计算结果不可信。：核对半径；圆心距；缓和曲线配置；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_070",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_070",
+    "embedding_text": "EICAD如何扩展模式法立交匝道设计？ EICAD如何扩展模式法立交匝道设计？；EICAD怎么扩展模式法立交匝道设计？；EICAD如何扩展模式法立交匝道设计？ 1. 准备项目与数据：确认立交方案和控制条件明确，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“立交设计”相关功能。；3. 输入或选择数据：选择或录入连接模式；线元参数；控制点。；4. 设置关键参数并执行：按照任务要求设置参数，执行“扩展模式法立交匝道设计”。；5. 保存成果并复核：保存复杂匝道平面线形，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec02；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_071",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_071",
+    "embedding_text": "扩展模式法立交匝道设计需要检查哪些内容？ 扩展模式法立交匝道设计需要检查哪些内容？；扩展模式法立交匝道设计需要检查哪些内容？；扩展模式法立交匝道设计需要检查哪些内容？ 检查前置条件：立交方案和控制条件明确；检查输入数据：连接模式；线元参数；控制点；检查输出成果：复杂匝道平面线形；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec02；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_072",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_072",
+    "embedding_text": "扩展模式法立交匝道设计常见错误如何排查？ 扩展模式法立交匝道设计常见错误如何排查？；扩展模式法立交匝道设计常见错误怎么排查？；扩展模式法立交匝道设计常见错误如何排查？ 扩展模式法立交匝道设计无法执行、输出为空或后续模块无法调用。：检查立交方案和控制条件明确；确认文件位于项目目录内；重新打开项目并刷新路径；扩展模式法立交匝道设计结果异常、图形显示不完整或计算结果不可信。：核对连接模式；线元参数；控制点；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；路线或匝道出现断裂、反向异常或曲线组合不合理。：检查交点、控制点和曲线半径；检查缓和曲线长度和转向；使用动态拖动或模式法重新调整",
+    "metadata": "ch07_sec02；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_073",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_073",
+    "embedding_text": "纬地如何生成桩号文件？ 纬地如何生成桩号文件？；纬地怎么生成桩号文件？；纬地如何生成桩号文件？ 1. 准备项目与数据：确认项目已建立；路线范围明确，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入桩号间距；起终点桩号。；4. 设置关键参数并执行：按照任务要求设置参数，执行“生成桩号文件”。；5. 保存成果并复核：保存桩号文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_074",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_074",
+    "embedding_text": "生成桩号文件需要检查哪些内容？ 生成桩号文件需要检查哪些内容？；生成桩号文件需要检查哪些内容？；生成桩号文件需要检查哪些内容？ 检查前置条件：项目已建立；路线范围明确；检查输入数据：桩号间距；起终点桩号；检查输出成果：桩号文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_075",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_075",
+    "embedding_text": "生成桩号文件常见错误如何排查？ 生成桩号文件常见错误如何排查？；生成桩号文件常见错误怎么排查？；生成桩号文件常见错误如何排查？ 生成桩号文件无法执行、输出为空或后续模块无法调用。：检查项目已建立；路线范围明确；确认文件位于项目目录内；重新打开项目并刷新路径；生成桩号文件结果异常、图形显示不完整或计算结果不可信。：核对桩号间距；起终点桩号；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_076",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_076",
+    "embedding_text": "纬地如何数模内插纵断面地面线？ 纬地如何数模内插纵断面地面线？；纬地怎么数模内插纵断面地面线？；纬地如何数模内插纵断面地面线？ 1. 准备项目与数据：确认数模已建立；桩号文件已准备，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入插值间距；地面线文件名。；4. 设置关键参数并执行：按照任务要求设置参数，执行“数模内插纵断面地面线”。；5. 保存成果并复核：保存纵断面地面线文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_077",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_077",
+    "embedding_text": "数模内插纵断面地面线需要检查哪些内容？ 数模内插纵断面地面线需要检查哪些内容？；数模内插纵断面地面线需要检查哪些内容？；数模内插纵断面地面线需要检查哪些内容？ 检查前置条件：数模已建立；桩号文件已准备；检查输入数据：插值间距；地面线文件名；检查输出成果：纵断面地面线文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_078",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_078",
+    "embedding_text": "数模内插纵断面地面线常见错误如何排查？ 数模内插纵断面地面线常见错误如何排查？；数模内插纵断面地面线常见错误怎么排查？；数模内插纵断面地面线常见错误如何排查？ 数模内插纵断面地面线无法执行、输出为空或后续模块无法调用。：检查数模已建立；桩号文件已准备；确认文件位于项目目录内；重新打开项目并刷新路径；数模内插纵断面地面线结果异常、图形显示不完整或计算结果不可信。：核对插值间距；地面线文件名；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_079",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_079",
+    "embedding_text": "纬地如何手工输入或修改纵断面地面线？ 纬地如何手工输入或修改纵断面地面线？；纬地怎么手工输入或修改纵断面地面线？；纬地如何手工输入或修改纵断面地面线？ 1. 准备项目与数据：确认外业中桩高程资料已准备，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入桩号；高程。；4. 设置关键参数并执行：按照任务要求设置参数，执行“手工输入或修改纵断面地面线”。；5. 保存成果并复核：保存修正后的纵断面地面线，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_080",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_080",
+    "embedding_text": "手工输入或修改纵断面地面线需要检查哪些内容？ 手工输入或修改纵断面地面线需要检查哪些内容？；手工输入或修改纵断面地面线需要检查哪些内容？；手工输入或修改纵断面地面线需要检查哪些内容？ 检查前置条件：外业中桩高程资料已准备；检查输入数据：桩号；高程；检查输出成果：修正后的纵断面地面线；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_081",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_081",
+    "embedding_text": "手工输入或修改纵断面地面线常见错误如何排查？ 手工输入或修改纵断面地面线常见错误如何排查？；手工输入或修改纵断面地面线常见错误怎么排查？；手工输入或修改纵断面地面线常见错误如何排查？ 手工输入或修改纵断面地面线无法执行、输出为空或后续模块无法调用。：检查外业中桩高程资料已准备；确认文件位于项目目录内；重新打开项目并刷新路径；手工输入或修改纵断面地面线结果异常、图形显示不完整或计算结果不可信。：核对桩号；高程；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_082",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_082",
+    "embedding_text": "纬地如何输入桥梁涵洞通道控制点？ 纬地如何输入桥梁涵洞通道控制点？；纬地怎么输入桥梁涵洞通道控制点？；纬地如何输入桥梁涵洞通道控制点？ 1. 准备项目与数据：确认桥涵通道位置和控制高程已知，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入构造物桩号；控制高程；控制类型。；4. 设置关键参数并执行：按照任务要求设置参数，执行“输入桥梁涵洞通道控制点”。；5. 保存成果并复核：保存纵断面控制点数据，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_083",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_083",
+    "embedding_text": "输入桥梁涵洞通道控制点需要检查哪些内容？ 输入桥梁涵洞通道控制点需要检查哪些内容？；输入桥梁涵洞通道控制点需要检查哪些内容？；输入桥梁涵洞通道控制点需要检查哪些内容？ 检查前置条件：桥涵通道位置和控制高程已知；检查输入数据：构造物桩号；控制高程；控制类型；检查输出成果：纵断面控制点数据；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_084",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_084",
+    "embedding_text": "输入桥梁涵洞通道控制点常见错误如何排查？ 输入桥梁涵洞通道控制点常见错误如何排查？；输入桥梁涵洞通道控制点常见错误怎么排查？；输入桥梁涵洞通道控制点常见错误如何排查？ 输入桥梁涵洞通道控制点无法执行、输出为空或后续模块无法调用。：检查桥涵通道位置和控制高程已知；确认文件位于项目目录内；重新打开项目并刷新路径；输入桥梁涵洞通道控制点结果异常、图形显示不完整或计算结果不可信。：核对构造物桩号；控制高程；控制类型；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_085",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_085",
+    "embedding_text": "纬地如何创建纵断面拉坡图？ 纬地如何创建纵断面拉坡图？；纬地怎么创建纵断面拉坡图？；纬地如何创建纵断面拉坡图？ 1. 准备项目与数据：确认地面线与控制点已准备，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入比例；绘图范围；显示内容。；4. 设置关键参数并执行：按照任务要求设置参数，执行“创建纵断面拉坡图”。；5. 保存成果并复核：保存拉坡设计图，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_086",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_086",
+    "embedding_text": "创建纵断面拉坡图需要检查哪些内容？ 创建纵断面拉坡图需要检查哪些内容？；创建纵断面拉坡图需要检查哪些内容？；创建纵断面拉坡图需要检查哪些内容？ 检查前置条件：地面线与控制点已准备；检查输入数据：比例；绘图范围；显示内容；检查输出成果：拉坡设计图；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_087",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_087",
+    "embedding_text": "创建纵断面拉坡图常见错误如何排查？ 创建纵断面拉坡图常见错误如何排查？；创建纵断面拉坡图常见错误怎么排查？；创建纵断面拉坡图常见错误如何排查？ 创建纵断面拉坡图无法执行、输出为空或后续模块无法调用。：检查地面线与控制点已准备；确认文件位于项目目录内；重新打开项目并刷新路径；创建纵断面拉坡图结果异常、图形显示不完整或计算结果不可信。：核对比例；绘图范围；显示内容；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_088",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_088",
+    "embedding_text": "纬地如何交互式设置变坡点？ 纬地如何交互式设置变坡点？；纬地怎么交互式设置变坡点？；纬地如何交互式设置变坡点？ 1. 准备项目与数据：确认已创建拉坡图，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入变坡点桩号；高程；坡度。；4. 设置关键参数并执行：按照任务要求设置参数，执行“交互式设置变坡点”。；5. 保存成果并复核：保存纵断面设计线，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_089",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_089",
+    "embedding_text": "交互式设置变坡点需要检查哪些内容？ 交互式设置变坡点需要检查哪些内容？；交互式设置变坡点需要检查哪些内容？；交互式设置变坡点需要检查哪些内容？ 检查前置条件：已创建拉坡图；检查输入数据：变坡点桩号；高程；坡度；检查输出成果：纵断面设计线；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_090",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_090",
+    "embedding_text": "交互式设置变坡点常见错误如何排查？ 交互式设置变坡点常见错误如何排查？；交互式设置变坡点常见错误怎么排查？；交互式设置变坡点常见错误如何排查？ 交互式设置变坡点无法执行、输出为空或后续模块无法调用。：检查已创建拉坡图；确认文件位于项目目录内；重新打开项目并刷新路径；交互式设置变坡点结果异常、图形显示不完整或计算结果不可信。：核对变坡点桩号；高程；坡度；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_091",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_091",
+    "embedding_text": "纬地如何修改变坡点与竖曲线半径？ 纬地如何修改变坡点与竖曲线半径？；纬地怎么修改变坡点与竖曲线半径？；纬地如何修改变坡点与竖曲线半径？ 1. 准备项目与数据：确认纵断面设计线已存在，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入桩号；高程；竖曲线半径。；4. 设置关键参数并执行：按照任务要求设置参数，执行“修改变坡点与竖曲线半径”。；5. 保存成果并复核：保存更新后的竖曲线与拉坡图，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_092",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_092",
+    "embedding_text": "修改变坡点与竖曲线半径需要检查哪些内容？ 修改变坡点与竖曲线半径需要检查哪些内容？；修改变坡点与竖曲线半径需要检查哪些内容？；修改变坡点与竖曲线半径需要检查哪些内容？ 检查前置条件：纵断面设计线已存在；检查输入数据：桩号；高程；竖曲线半径；检查输出成果：更新后的竖曲线与拉坡图；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_093",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_093",
+    "embedding_text": "修改变坡点与竖曲线半径常见错误如何排查？ 修改变坡点与竖曲线半径常见错误如何排查？；修改变坡点与竖曲线半径常见错误怎么排查？；修改变坡点与竖曲线半径常见错误如何排查？ 修改变坡点与竖曲线半径无法执行、输出为空或后续模块无法调用。：检查纵断面设计线已存在；确认文件位于项目目录内；重新打开项目并刷新路径；修改变坡点与竖曲线半径结果异常、图形显示不完整或计算结果不可信。：核对桩号；高程；竖曲线半径；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_094",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_094",
+    "embedding_text": "EICAD如何输出纵横地面线？ EICAD如何输出纵横地面线？；EICAD怎么输出纵横地面线？；EICAD如何输出纵横地面线？ 1. 准备项目与数据：确认EICAD数模已建立，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入插值方式；桩号间距；横断面参数。；4. 设置关键参数并执行：按照任务要求设置参数，执行“输出纵横地面线”。；5. 保存成果并复核：保存纵横地面线文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_095",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_095",
+    "embedding_text": "输出纵横地面线需要检查哪些内容？ 输出纵横地面线需要检查哪些内容？；输出纵横地面线需要检查哪些内容？；输出纵横地面线需要检查哪些内容？ 检查前置条件：EICAD数模已建立；检查输入数据：插值方式；桩号间距；横断面参数；检查输出成果：纵横地面线文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_096",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_096",
+    "embedding_text": "输出纵横地面线常见错误如何排查？ 输出纵横地面线常见错误如何排查？；输出纵横地面线常见错误怎么排查？；输出纵横地面线常见错误如何排查？ 输出纵横地面线无法执行、输出为空或后续模块无法调用。：检查EICAD数模已建立；确认文件位于项目目录内；重新打开项目并刷新路径；输出纵横地面线结果异常、图形显示不完整或计算结果不可信。：核对插值方式；桩号间距；横断面参数；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_097",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_097",
+    "embedding_text": "EICAD如何创建拉坡图？ EICAD如何创建拉坡图？；EICAD怎么创建拉坡图？；EICAD如何创建拉坡图？ 1. 准备项目与数据：确认地面线和桩号文件已准备，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入绘图比例；桩号范围。；4. 设置关键参数并执行：按照任务要求设置参数，执行“创建拉坡图”。；5. 保存成果并复核：保存EICAD拉坡图，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_098",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_098",
+    "embedding_text": "创建拉坡图需要检查哪些内容？ 创建拉坡图需要检查哪些内容？；创建拉坡图需要检查哪些内容？；创建拉坡图需要检查哪些内容？ 检查前置条件：地面线和桩号文件已准备；检查输入数据：绘图比例；桩号范围；检查输出成果：EICAD拉坡图；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_099",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_099",
+    "embedding_text": "创建拉坡图常见错误如何排查？ 创建拉坡图常见错误如何排查？；创建拉坡图常见错误怎么排查？；创建拉坡图常见错误如何排查？ 创建拉坡图无法执行、输出为空或后续模块无法调用。：检查地面线和桩号文件已准备；确认文件位于项目目录内；重新打开项目并刷新路径；创建拉坡图结果异常、图形显示不完整或计算结果不可信。：核对绘图比例；桩号范围；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_100",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_100",
+    "embedding_text": "EICAD如何输入拉坡控制点？ EICAD如何输入拉坡控制点？；EICAD怎么输入拉坡控制点？；EICAD如何输入拉坡控制点？ 1. 准备项目与数据：确认控制点资料已准备，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入控制点类型；桩号；高程。；4. 设置关键参数并执行：按照任务要求设置参数，执行“输入拉坡控制点”。；5. 保存成果并复核：保存拉坡控制条件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_101",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_101",
+    "embedding_text": "输入拉坡控制点需要检查哪些内容？ 输入拉坡控制点需要检查哪些内容？；输入拉坡控制点需要检查哪些内容？；输入拉坡控制点需要检查哪些内容？ 检查前置条件：控制点资料已准备；检查输入数据：控制点类型；桩号；高程；检查输出成果：拉坡控制条件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_102",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_102",
+    "embedding_text": "输入拉坡控制点常见错误如何排查？ 输入拉坡控制点常见错误如何排查？；输入拉坡控制点常见错误怎么排查？；输入拉坡控制点常见错误如何排查？ 输入拉坡控制点无法执行、输出为空或后续模块无法调用。：检查控制点资料已准备；确认文件位于项目目录内；重新打开项目并刷新路径；输入拉坡控制点结果异常、图形显示不完整或计算结果不可信。：核对控制点类型；桩号；高程；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_103",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_103",
+    "embedding_text": "EICAD如何自动拉坡设计？ EICAD如何自动拉坡设计？；EICAD怎么自动拉坡设计？；EICAD如何自动拉坡设计？ 1. 准备项目与数据：确认控制点和设计标准已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入坡度范围；竖曲线参数；优化规则。；4. 设置关键参数并执行：按照任务要求设置参数，执行“自动拉坡设计”。；5. 保存成果并复核：保存自动拉坡结果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_104",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_104",
+    "embedding_text": "自动拉坡设计需要检查哪些内容？ 自动拉坡设计需要检查哪些内容？；自动拉坡设计需要检查哪些内容？；自动拉坡设计需要检查哪些内容？ 检查前置条件：控制点和设计标准已确定；检查输入数据：坡度范围；竖曲线参数；优化规则；检查输出成果：自动拉坡结果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_105",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_105",
+    "embedding_text": "自动拉坡设计常见错误如何排查？ 自动拉坡设计常见错误如何排查？；自动拉坡设计常见错误怎么排查？；自动拉坡设计常见错误如何排查？ 自动拉坡设计无法执行、输出为空或后续模块无法调用。：检查控制点和设计标准已确定；确认文件位于项目目录内；重新打开项目并刷新路径；自动拉坡设计结果异常、图形显示不完整或计算结果不可信。：核对坡度范围；竖曲线参数；优化规则；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_106",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_106",
+    "embedding_text": "EICAD如何手工拉坡与夹点调整？ EICAD如何手工拉坡与夹点调整？；EICAD怎么手工拉坡与夹点调整？；EICAD如何手工拉坡与夹点调整？ 1. 准备项目与数据：确认已有纵断面设计线，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“纵断面”相关功能。；3. 输入或选择数据：选择或录入变坡点夹点；高程；半径。；4. 设置关键参数并执行：按照任务要求设置参数，执行“手工拉坡与夹点调整”。；5. 保存成果并复核：保存修正后的纵断面设计线，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec03；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_107",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_107",
+    "embedding_text": "手工拉坡与夹点调整需要检查哪些内容？ 手工拉坡与夹点调整需要检查哪些内容？；手工拉坡与夹点调整需要检查哪些内容？；手工拉坡与夹点调整需要检查哪些内容？ 检查前置条件：已有纵断面设计线；检查输入数据：变坡点夹点；高程；半径；检查输出成果：修正后的纵断面设计线；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec03；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_108",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_108",
+    "embedding_text": "手工拉坡与夹点调整常见错误如何排查？ 手工拉坡与夹点调整常见错误如何排查？；手工拉坡与夹点调整常见错误怎么排查？；手工拉坡与夹点调整常见错误如何排查？ 手工拉坡与夹点调整无法执行、输出为空或后续模块无法调用。：检查已有纵断面设计线；确认文件位于项目目录内；重新打开项目并刷新路径；手工拉坡与夹点调整结果异常、图形显示不完整或计算结果不可信。：核对变坡点夹点；高程；半径；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；纵断面设计线局部突变或竖曲线无法正确显示。：检查桩号和高程输入；调整竖曲线半径；刷新计算显示并复核坡长",
+    "metadata": "ch07_sec03；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_109",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_109",
+    "embedding_text": "纬地如何输入横断面地面线？ 纬地如何输入横断面地面线？；纬地怎么输入横断面地面线？；纬地如何输入横断面地面线？ 1. 准备项目与数据：确认外业横断面数据已整理，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入桩号；左右偏距；高程。；4. 设置关键参数并执行：按照任务要求设置参数，执行“输入横断面地面线”。；5. 保存成果并复核：保存横断面地面线文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_110",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_110",
+    "embedding_text": "输入横断面地面线需要检查哪些内容？ 输入横断面地面线需要检查哪些内容？；输入横断面地面线需要检查哪些内容？；输入横断面地面线需要检查哪些内容？ 检查前置条件：外业横断面数据已整理；检查输入数据：桩号；左右偏距；高程；检查输出成果：横断面地面线文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_111",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_111",
+    "embedding_text": "输入横断面地面线常见错误如何排查？ 输入横断面地面线常见错误如何排查？；输入横断面地面线常见错误怎么排查？；输入横断面地面线常见错误如何排查？ 输入横断面地面线无法执行、输出为空或后续模块无法调用。：检查外业横断面数据已整理；确认文件位于项目目录内；重新打开项目并刷新路径；输入横断面地面线结果异常、图形显示不完整或计算结果不可信。：核对桩号；左右偏距；高程；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_112",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_112",
+    "embedding_text": "纬地如何数模内插横断面地面线？ 纬地如何数模内插横断面地面线？；纬地怎么数模内插横断面地面线？；纬地如何数模内插横断面地面线？ 1. 准备项目与数据：确认数模和桩号文件已准备，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入横断面宽度；采样间距；输出文件。；4. 设置关键参数并执行：按照任务要求设置参数，执行“数模内插横断面地面线”。；5. 保存成果并复核：保存逐桩横断面地面线，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_113",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_113",
+    "embedding_text": "数模内插横断面地面线需要检查哪些内容？ 数模内插横断面地面线需要检查哪些内容？；数模内插横断面地面线需要检查哪些内容？；数模内插横断面地面线需要检查哪些内容？ 检查前置条件：数模和桩号文件已准备；检查输入数据：横断面宽度；采样间距；输出文件；检查输出成果：逐桩横断面地面线；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_114",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_114",
+    "embedding_text": "数模内插横断面地面线常见错误如何排查？ 数模内插横断面地面线常见错误如何排查？；数模内插横断面地面线常见错误怎么排查？；数模内插横断面地面线常见错误如何排查？ 数模内插横断面地面线无法执行、输出为空或后续模块无法调用。：检查数模和桩号文件已准备；确认文件位于项目目录内；重新打开项目并刷新路径；数模内插横断面地面线结果异常、图形显示不完整或计算结果不可信。：核对横断面宽度；采样间距；输出文件；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_115",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_115",
+    "embedding_text": "纬地如何运行设计向导定义标准横断面？ 纬地如何运行设计向导定义标准横断面？；纬地怎么运行设计向导定义标准横断面？；纬地如何运行设计向导定义标准横断面？ 1. 准备项目与数据：确认项目基本信息已确定，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入公路等级；设计速度；路基宽度；边坡；边沟。；4. 设置关键参数并执行：按照任务要求设置参数，执行“运行设计向导定义标准横断面”。；5. 保存成果并复核：保存标准横断面模板，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_116",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_116",
+    "embedding_text": "运行设计向导定义标准横断面需要检查哪些内容？ 运行设计向导定义标准横断面需要检查哪些内容？；运行设计向导定义标准横断面需要检查哪些内容？；运行设计向导定义标准横断面需要检查哪些内容？ 检查前置条件：项目基本信息已确定；检查输入数据：公路等级；设计速度；路基宽度；边坡；边沟；检查输出成果：标准横断面模板；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_117",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_117",
+    "embedding_text": "运行设计向导定义标准横断面常见错误如何排查？ 运行设计向导定义标准横断面常见错误如何排查？；运行设计向导定义标准横断面常见错误怎么排查？；运行设计向导定义标准横断面常见错误如何排查？ 运行设计向导定义标准横断面无法执行、输出为空或后续模块无法调用。：检查项目基本信息已确定；确认文件位于项目目录内；重新打开项目并刷新路径；运行设计向导定义标准横断面结果异常、图形显示不完整或计算结果不可信。：核对公路等级；设计速度；路基宽度；边坡；边沟；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_118",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_118",
+    "embedding_text": "纬地如何自动计算超高加宽？ 纬地如何自动计算超高加宽？；纬地怎么自动计算超高加宽？；纬地如何自动计算超高加宽？ 1. 准备项目与数据：确认平面设计已完成；设计向导已设置，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入超高方式；加宽方式；过渡长度。；4. 设置关键参数并执行：按照任务要求设置参数，执行“自动计算超高加宽”。；5. 保存成果并复核：保存超高加宽数据文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_119",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_119",
+    "embedding_text": "自动计算超高加宽需要检查哪些内容？ 自动计算超高加宽需要检查哪些内容？；自动计算超高加宽需要检查哪些内容？；自动计算超高加宽需要检查哪些内容？ 检查前置条件：平面设计已完成；设计向导已设置；检查输入数据：超高方式；加宽方式；过渡长度；检查输出成果：超高加宽数据文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_120",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_120",
+    "embedding_text": "自动计算超高加宽常见错误如何排查？ 自动计算超高加宽常见错误如何排查？；自动计算超高加宽常见错误怎么排查？；自动计算超高加宽常见错误如何排查？ 自动计算超高加宽无法执行、输出为空或后续模块无法调用。：检查平面设计已完成；设计向导已设置；确认文件位于项目目录内；重新打开项目并刷新路径；自动计算超高加宽结果异常、图形显示不完整或计算结果不可信。：核对超高方式；加宽方式；过渡长度；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_121",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_121",
+    "embedding_text": "纬地如何路基设计计算？ 纬地如何路基设计计算？；纬地怎么路基设计计算？；纬地如何路基设计计算？ 1. 准备项目与数据：确认标准横断面和超高加宽已设置，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入桩号范围；计算参数。；4. 设置关键参数并执行：按照任务要求设置参数，执行“路基设计计算”。；5. 保存成果并复核：保存路基设计计算结果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_122",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_122",
+    "embedding_text": "路基设计计算需要检查哪些内容？ 路基设计计算需要检查哪些内容？；路基设计计算需要检查哪些内容？；路基设计计算需要检查哪些内容？ 检查前置条件：标准横断面和超高加宽已设置；检查输入数据：桩号范围；计算参数；检查输出成果：路基设计计算结果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_123",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_123",
+    "embedding_text": "路基设计计算常见错误如何排查？ 路基设计计算常见错误如何排查？；路基设计计算常见错误怎么排查？；路基设计计算常见错误如何排查？ 路基设计计算无法执行、输出为空或后续模块无法调用。：检查标准横断面和超高加宽已设置；确认文件位于项目目录内；重新打开项目并刷新路径；路基设计计算结果异常、图形显示不完整或计算结果不可信。：核对桩号范围；计算参数；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_124",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_124",
+    "embedding_text": "纬地如何录入支挡防护工程？ 纬地如何录入支挡防护工程？；纬地怎么录入支挡防护工程？；纬地如何录入支挡防护工程？ 1. 准备项目与数据：确认需要支挡防护的路段已确定，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入工程类型；左右侧；起终点桩号；尺寸。；4. 设置关键参数并执行：按照任务要求设置参数，执行“录入支挡防护工程”。；5. 保存成果并复核：保存支挡防护数据，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_125",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_125",
+    "embedding_text": "录入支挡防护工程需要检查哪些内容？ 录入支挡防护工程需要检查哪些内容？；录入支挡防护工程需要检查哪些内容？；录入支挡防护工程需要检查哪些内容？ 检查前置条件：需要支挡防护的路段已确定；检查输入数据：工程类型；左右侧；起终点桩号；尺寸；检查输出成果：支挡防护数据；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_126",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_126",
+    "embedding_text": "录入支挡防护工程常见错误如何排查？ 录入支挡防护工程常见错误如何排查？；录入支挡防护工程常见错误怎么排查？；录入支挡防护工程常见错误如何排查？ 录入支挡防护工程无法执行、输出为空或后续模块无法调用。：检查需要支挡防护的路段已确定；确认文件位于项目目录内；重新打开项目并刷新路径；录入支挡防护工程结果异常、图形显示不完整或计算结果不可信。：核对工程类型；左右侧；起终点桩号；尺寸；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_127",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_127",
+    "embedding_text": "纬地如何横断面设计绘图与戴帽？ 纬地如何横断面设计绘图与戴帽？；纬地怎么横断面设计绘图与戴帽？；纬地如何横断面设计绘图与戴帽？ 1. 准备项目与数据：确认地面线、模板、超高、路基设计计算已完成，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入设计控制；土方控制；绘图控制。；4. 设置关键参数并执行：按照任务要求设置参数，执行“横断面设计绘图与戴帽”。；5. 保存成果并复核：保存横断面设计图，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_128",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_128",
+    "embedding_text": "横断面设计绘图与戴帽需要检查哪些内容？ 横断面设计绘图与戴帽需要检查哪些内容？；横断面设计绘图与戴帽需要检查哪些内容？；横断面设计绘图与戴帽需要检查哪些内容？ 检查前置条件：地面线、模板、超高、路基设计计算已完成；检查输入数据：设计控制；土方控制；绘图控制；检查输出成果：横断面设计图；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_129",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_129",
+    "embedding_text": "横断面设计绘图与戴帽常见错误如何排查？ 横断面设计绘图与戴帽常见错误如何排查？；横断面设计绘图与戴帽常见错误怎么排查？；横断面设计绘图与戴帽常见错误如何排查？ 横断面设计绘图与戴帽无法执行、输出为空或后续模块无法调用。：检查地面线、模板、超高、路基设计计算已完成；确认文件位于项目目录内；重新打开项目并刷新路径；横断面设计绘图与戴帽结果异常、图形显示不完整或计算结果不可信。：核对设计控制；土方控制；绘图控制；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_130",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_130",
+    "embedding_text": "纬地如何横断面交互修改？ 纬地如何横断面交互修改？；纬地怎么横断面交互修改？；纬地如何横断面交互修改？ 1. 准备项目与数据：确认横断面图已生成，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入桩号；修改对象；控制参数。；4. 设置关键参数并执行：按照任务要求设置参数，执行“横断面交互修改”。；5. 保存成果并复核：保存修正后的横断面成果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_131",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_131",
+    "embedding_text": "横断面交互修改需要检查哪些内容？ 横断面交互修改需要检查哪些内容？；横断面交互修改需要检查哪些内容？；横断面交互修改需要检查哪些内容？ 检查前置条件：横断面图已生成；检查输入数据：桩号；修改对象；控制参数；检查输出成果：修正后的横断面成果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_132",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_132",
+    "embedding_text": "横断面交互修改常见错误如何排查？ 横断面交互修改常见错误如何排查？；横断面交互修改常见错误怎么排查？；横断面交互修改常见错误如何排查？ 横断面交互修改无法执行、输出为空或后续模块无法调用。：检查横断面图已生成；确认文件位于项目目录内；重新打开项目并刷新路径；横断面交互修改结果异常、图形显示不完整或计算结果不可信。：核对桩号；修改对象；控制参数；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_133",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_133",
+    "embedding_text": "EICAD如何创建路基模板？ EICAD如何创建路基模板？；EICAD怎么创建路基模板？；EICAD如何创建路基模板？ 1. 准备项目与数据：确认路幅组成和断面形式已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入车道宽度；路肩；中央分隔带。；4. 设置关键参数并执行：按照任务要求设置参数，执行“创建路基模板”。；5. 保存成果并复核：保存路基模板，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_134",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_134",
+    "embedding_text": "创建路基模板需要检查哪些内容？ 创建路基模板需要检查哪些内容？；创建路基模板需要检查哪些内容？；创建路基模板需要检查哪些内容？ 检查前置条件：路幅组成和断面形式已确定；检查输入数据：车道宽度；路肩；中央分隔带；检查输出成果：路基模板；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_135",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_135",
+    "embedding_text": "创建路基模板常见错误如何排查？ 创建路基模板常见错误如何排查？；创建路基模板常见错误怎么排查？；创建路基模板常见错误如何排查？ 创建路基模板无法执行、输出为空或后续模块无法调用。：检查路幅组成和断面形式已确定；确认文件位于项目目录内；重新打开项目并刷新路径；创建路基模板结果异常、图形显示不完整或计算结果不可信。：核对车道宽度；路肩；中央分隔带；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_136",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_136",
+    "embedding_text": "EICAD如何创建边坡模板？ EICAD如何创建边坡模板？；EICAD怎么创建边坡模板？；EICAD如何创建边坡模板？ 1. 准备项目与数据：确认边坡设计条件已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入坡率；平台宽度；级数。；4. 设置关键参数并执行：按照任务要求设置参数，执行“创建边坡模板”。；5. 保存成果并复核：保存边坡模板，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_137",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_137",
+    "embedding_text": "创建边坡模板需要检查哪些内容？ 创建边坡模板需要检查哪些内容？；创建边坡模板需要检查哪些内容？；创建边坡模板需要检查哪些内容？ 检查前置条件：边坡设计条件已确定；检查输入数据：坡率；平台宽度；级数；检查输出成果：边坡模板；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_138",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_138",
+    "embedding_text": "创建边坡模板常见错误如何排查？ 创建边坡模板常见错误如何排查？；创建边坡模板常见错误怎么排查？；创建边坡模板常见错误如何排查？ 创建边坡模板无法执行、输出为空或后续模块无法调用。：检查边坡设计条件已确定；确认文件位于项目目录内；重新打开项目并刷新路径；创建边坡模板结果异常、图形显示不完整或计算结果不可信。：核对坡率；平台宽度；级数；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_139",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_139",
+    "embedding_text": "EICAD如何创建边沟与截水沟模板？ EICAD如何创建边沟与截水沟模板？；EICAD怎么创建边沟与截水沟模板？；EICAD如何创建边沟与截水沟模板？ 1. 准备项目与数据：确认排水设计条件已确定，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入沟型；尺寸；位置。；4. 设置关键参数并执行：按照任务要求设置参数，执行“创建边沟与截水沟模板”。；5. 保存成果并复核：保存边沟/截水沟模板，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_140",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_140",
+    "embedding_text": "创建边沟与截水沟模板需要检查哪些内容？ 创建边沟与截水沟模板需要检查哪些内容？；创建边沟与截水沟模板需要检查哪些内容？；创建边沟与截水沟模板需要检查哪些内容？ 检查前置条件：排水设计条件已确定；检查输入数据：沟型；尺寸；位置；检查输出成果：边沟/截水沟模板；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_141",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_141",
+    "embedding_text": "创建边沟与截水沟模板常见错误如何排查？ 创建边沟与截水沟模板常见错误如何排查？；创建边沟与截水沟模板常见错误怎么排查？；创建边沟与截水沟模板常见错误如何排查？ 创建边沟与截水沟模板无法执行、输出为空或后续模块无法调用。：检查排水设计条件已确定；确认文件位于项目目录内；重新打开项目并刷新路径；创建边沟与截水沟模板结果异常、图形显示不完整或计算结果不可信。：核对沟型；尺寸；位置；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_142",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_142",
+    "embedding_text": "EICAD如何生成和修改超高渐变图？ EICAD如何生成和修改超高渐变图？；EICAD怎么生成和修改超高渐变图？；EICAD如何生成和修改超高渐变图？ 1. 准备项目与数据：确认平面线形已完成，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入超高方式；渐变长度；加宽值。；4. 设置关键参数并执行：按照任务要求设置参数，执行“生成和修改超高渐变图”。；5. 保存成果并复核：保存超高渐变图，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_143",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_143",
+    "embedding_text": "生成和修改超高渐变图需要检查哪些内容？ 生成和修改超高渐变图需要检查哪些内容？；生成和修改超高渐变图需要检查哪些内容？；生成和修改超高渐变图需要检查哪些内容？ 检查前置条件：平面线形已完成；检查输入数据：超高方式；渐变长度；加宽值；检查输出成果：超高渐变图；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_144",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_144",
+    "embedding_text": "生成和修改超高渐变图常见错误如何排查？ 生成和修改超高渐变图常见错误如何排查？；生成和修改超高渐变图常见错误怎么排查？；生成和修改超高渐变图常见错误如何排查？ 生成和修改超高渐变图无法执行、输出为空或后续模块无法调用。：检查平面线形已完成；确认文件位于项目目录内；重新打开项目并刷新路径；生成和修改超高渐变图结果异常、图形显示不完整或计算结果不可信。：核对超高方式；渐变长度；加宽值；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_145",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_145",
+    "embedding_text": "EICAD如何执行横断面戴帽设计？ EICAD如何执行横断面戴帽设计？；EICAD怎么执行横断面戴帽设计？；EICAD如何执行横断面戴帽设计？ 1. 准备项目与数据：确认模板和地面线已准备，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入模板组合；桩号范围；左右侧控制。；4. 设置关键参数并执行：按照任务要求设置参数，执行“执行横断面戴帽设计”。；5. 保存成果并复核：保存戴帽设计成果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_146",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_146",
+    "embedding_text": "执行横断面戴帽设计需要检查哪些内容？ 执行横断面戴帽设计需要检查哪些内容？；执行横断面戴帽设计需要检查哪些内容？；执行横断面戴帽设计需要检查哪些内容？ 检查前置条件：模板和地面线已准备；检查输入数据：模板组合；桩号范围；左右侧控制；检查输出成果：戴帽设计成果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_147",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_147",
+    "embedding_text": "执行横断面戴帽设计常见错误如何排查？ 执行横断面戴帽设计常见错误如何排查？；执行横断面戴帽设计常见错误怎么排查？；执行横断面戴帽设计常见错误如何排查？ 执行横断面戴帽设计无法执行、输出为空或后续模块无法调用。：检查模板和地面线已准备；确认文件位于项目目录内；重新打开项目并刷新路径；执行横断面戴帽设计结果异常、图形显示不完整或计算结果不可信。：核对模板组合；桩号范围；左右侧控制；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_148",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_148",
+    "embedding_text": "EICAD如何查看与绘制横断面成果？ EICAD如何查看与绘制横断面成果？；EICAD怎么查看与绘制横断面成果？；EICAD如何查看与绘制横断面成果？ 1. 准备项目与数据：确认戴帽设计已完成，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“横断面/设计”相关功能。；3. 输入或选择数据：选择或录入桩号；显示比例；绘图参数。；4. 设置关键参数并执行：按照任务要求设置参数，执行“查看与绘制横断面成果”。；5. 保存成果并复核：保存横断面浏览/绘图成果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_149",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_149",
+    "embedding_text": "查看与绘制横断面成果需要检查哪些内容？ 查看与绘制横断面成果需要检查哪些内容？；查看与绘制横断面成果需要检查哪些内容？；查看与绘制横断面成果需要检查哪些内容？ 检查前置条件：戴帽设计已完成；检查输入数据：桩号；显示比例；绘图参数；检查输出成果：横断面浏览/绘图成果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_150",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_150",
+    "embedding_text": "查看与绘制横断面成果常见错误如何排查？ 查看与绘制横断面成果常见错误如何排查？；查看与绘制横断面成果常见错误怎么排查？；查看与绘制横断面成果常见错误如何排查？ 查看与绘制横断面成果无法执行、输出为空或后续模块无法调用。：检查戴帽设计已完成；确认文件位于项目目录内；重新打开项目并刷新路径；查看与绘制横断面成果结果异常、图形显示不完整或计算结果不可信。：核对桩号；显示比例；绘图参数；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；个别桩号断面无法生成或边坡边沟与地面线不相交。：检查横断面地面线；检查标准模板和超高加宽数据；对特殊断面进行交互修改",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_151",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_151",
+    "embedding_text": "EICAD如何土石方调配数据预处理？ EICAD如何土石方调配数据预处理？；EICAD怎么土石方调配数据预处理？；EICAD如何土石方调配数据预处理？ 1. 准备项目与数据：确认横断面填挖面积文件已存在，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“土石方调配”相关功能。；3. 输入或选择数据：选择或录入土石比文件；利用方式。；4. 设置关键参数并执行：按照任务要求设置参数，执行“土石方调配数据预处理”。；5. 保存成果并复核：保存土石方调配基础数据，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_152",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_152",
+    "embedding_text": "土石方调配数据预处理需要检查哪些内容？ 土石方调配数据预处理需要检查哪些内容？；土石方调配数据预处理需要检查哪些内容？；土石方调配数据预处理需要检查哪些内容？ 检查前置条件：横断面填挖面积文件已存在；检查输入数据：土石比文件；利用方式；检查输出成果：土石方调配基础数据；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_153",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_153",
+    "embedding_text": "土石方调配数据预处理常见错误如何排查？ 土石方调配数据预处理常见错误如何排查？；土石方调配数据预处理常见错误怎么排查？；土石方调配数据预处理常见错误如何排查？ 土石方调配数据预处理无法执行、输出为空或后续模块无法调用。：检查横断面填挖面积文件已存在；确认文件位于项目目录内；重新打开项目并刷新路径；土石方调配数据预处理结果异常、图形显示不完整或计算结果不可信。：核对土石比文件；利用方式；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；土方块位置、挖余填缺或运输路径不合理。：检查填挖面积文件是否存在；核对本桩利用方式和构造物通行条件；重新绘制土石方并复核数量表",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_154",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_154",
+    "embedding_text": "EICAD如何设置构造物运距？ EICAD如何设置构造物运距？；EICAD怎么设置构造物运距？；EICAD如何设置构造物运距？ 1. 准备项目与数据：确认构造物资料已准备，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“土石方调配”相关功能。；3. 输入或选择数据：选择或录入构造物类型；是否通行；里程。；4. 设置关键参数并执行：按照任务要求设置参数，执行“设置构造物运距”。；5. 保存成果并复核：保存构造物运距控制数据，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_155",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_155",
+    "embedding_text": "设置构造物运距需要检查哪些内容？ 设置构造物运距需要检查哪些内容？；设置构造物运距需要检查哪些内容？；设置构造物运距需要检查哪些内容？ 检查前置条件：构造物资料已准备；检查输入数据：构造物类型；是否通行；里程；检查输出成果：构造物运距控制数据；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_156",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_156",
+    "embedding_text": "设置构造物运距常见错误如何排查？ 设置构造物运距常见错误如何排查？；设置构造物运距常见错误怎么排查？；设置构造物运距常见错误如何排查？ 设置构造物运距无法执行、输出为空或后续模块无法调用。：检查构造物资料已准备；确认文件位于项目目录内；重新打开项目并刷新路径；设置构造物运距结果异常、图形显示不完整或计算结果不可信。：核对构造物类型；是否通行；里程；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；土方块位置、挖余填缺或运输路径不合理。：检查填挖面积文件是否存在；核对本桩利用方式和构造物通行条件；重新绘制土石方并复核数量表",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_157",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_157",
+    "embedding_text": "EICAD如何绘制土石方调配成果？ EICAD如何绘制土石方调配成果？；EICAD怎么绘制土石方调配成果？；EICAD如何绘制土石方调配成果？ 1. 准备项目与数据：确认调配数据预处理完成，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“土石方调配”相关功能。；3. 输入或选择数据：选择或录入土石方块；运输路径；上路桩号。；4. 设置关键参数并执行：按照任务要求设置参数，执行“绘制土石方调配成果”。；5. 保存成果并复核：保存土石方调配图和数量结果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec04；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_158",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_158",
+    "embedding_text": "绘制土石方调配成果需要检查哪些内容？ 绘制土石方调配成果需要检查哪些内容？；绘制土石方调配成果需要检查哪些内容？；绘制土石方调配成果需要检查哪些内容？ 检查前置条件：调配数据预处理完成；检查输入数据：土石方块；运输路径；上路桩号；检查输出成果：土石方调配图和数量结果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec04；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_159",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_159",
+    "embedding_text": "绘制土石方调配成果常见错误如何排查？ 绘制土石方调配成果常见错误如何排查？；绘制土石方调配成果常见错误怎么排查？；绘制土石方调配成果常见错误如何排查？ 绘制土石方调配成果无法执行、输出为空或后续模块无法调用。：检查调配数据预处理完成；确认文件位于项目目录内；重新打开项目并刷新路径；绘制土石方调配成果结果异常、图形显示不完整或计算结果不可信。：核对土石方块；运输路径；上路桩号；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；土方块位置、挖余填缺或运输路径不合理。：检查填挖面积文件是否存在；核对本桩利用方式和构造物通行条件；重新绘制土石方并复核数量表",
+    "metadata": "ch07_sec04；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_160",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_160",
+    "embedding_text": "纬地如何管理图框和表格模板？ 纬地如何管理图框和表格模板？；纬地怎么管理图框和表格模板？；纬地如何管理图框和表格模板？ 1. 准备项目与数据：确认项目已建立；模板目录可访问，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“成果/图表输出”相关功能。；3. 输入或选择数据：选择或录入图框模板；表格模板；项目属性。；4. 设置关键参数并执行：按照任务要求设置参数，执行“管理图框和表格模板”。；5. 保存成果并复核：保存项目模板配置，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec05；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_161",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_161",
+    "embedding_text": "管理图框和表格模板需要检查哪些内容？ 管理图框和表格模板需要检查哪些内容？；管理图框和表格模板需要检查哪些内容？；管理图框和表格模板需要检查哪些内容？ 检查前置条件：项目已建立；模板目录可访问；检查输入数据：图框模板；表格模板；项目属性；检查输出成果：项目模板配置；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec05；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_162",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_162",
+    "embedding_text": "管理图框和表格模板常见错误如何排查？ 管理图框和表格模板常见错误如何排查？；管理图框和表格模板常见错误怎么排查？；管理图框和表格模板常见错误如何排查？ 管理图框和表格模板无法执行、输出为空或后续模块无法调用。：检查项目已建立；模板目录可访问；确认文件位于项目目录内；重新打开项目并刷新路径；管理图框和表格模板结果异常、图形显示不完整或计算结果不可信。：核对图框模板；表格模板；项目属性；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；图纸中的项目名称、比例、日期或表格字段不符合要求。：检查项目属性；检查图框/表格模板；重新生成图表并进行人工复核",
+    "metadata": "ch07_sec05；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_163",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_163",
+    "embedding_text": "纬地如何生成路线平面图？ 纬地如何生成路线平面图？；纬地怎么生成路线平面图？；纬地如何生成路线平面图？ 1. 准备项目与数据：确认平面设计已完成，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“成果/图表输出”相关功能。；3. 输入或选择数据：选择或录入比例；图框；桩号范围。；4. 设置关键参数并执行：按照任务要求设置参数，执行“生成路线平面图”。；5. 保存成果并复核：保存路线平面图，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec05；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_164",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_164",
+    "embedding_text": "生成路线平面图需要检查哪些内容？ 生成路线平面图需要检查哪些内容？；生成路线平面图需要检查哪些内容？；生成路线平面图需要检查哪些内容？ 检查前置条件：平面设计已完成；检查输入数据：比例；图框；桩号范围；检查输出成果：路线平面图；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec05；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_165",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_165",
+    "embedding_text": "生成路线平面图常见错误如何排查？ 生成路线平面图常见错误如何排查？；生成路线平面图常见错误怎么排查？；生成路线平面图常见错误如何排查？ 生成路线平面图无法执行、输出为空或后续模块无法调用。：检查平面设计已完成；确认文件位于项目目录内；重新打开项目并刷新路径；生成路线平面图结果异常、图形显示不完整或计算结果不可信。：核对比例；图框；桩号范围；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；图纸中的项目名称、比例、日期或表格字段不符合要求。：检查项目属性；检查图框/表格模板；重新生成图表并进行人工复核",
+    "metadata": "ch07_sec05；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_166",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_166",
+    "embedding_text": "纬地如何生成纵断面设计图？ 纬地如何生成纵断面设计图？；纬地怎么生成纵断面设计图？；纬地如何生成纵断面设计图？ 1. 准备项目与数据：确认纵断面设计已完成，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“成果/图表输出”相关功能。；3. 输入或选择数据：选择或录入横向比例；纵向比例；图框。；4. 设置关键参数并执行：按照任务要求设置参数，执行“生成纵断面设计图”。；5. 保存成果并复核：保存纵断面设计图，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec05；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_167",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_167",
+    "embedding_text": "生成纵断面设计图需要检查哪些内容？ 生成纵断面设计图需要检查哪些内容？；生成纵断面设计图需要检查哪些内容？；生成纵断面设计图需要检查哪些内容？ 检查前置条件：纵断面设计已完成；检查输入数据：横向比例；纵向比例；图框；检查输出成果：纵断面设计图；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec05；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_168",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_168",
+    "embedding_text": "生成纵断面设计图常见错误如何排查？ 生成纵断面设计图常见错误如何排查？；生成纵断面设计图常见错误怎么排查？；生成纵断面设计图常见错误如何排查？ 生成纵断面设计图无法执行、输出为空或后续模块无法调用。：检查纵断面设计已完成；确认文件位于项目目录内；重新打开项目并刷新路径；生成纵断面设计图结果异常、图形显示不完整或计算结果不可信。：核对横向比例；纵向比例；图框；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；图纸中的项目名称、比例、日期或表格字段不符合要求。：检查项目属性；检查图框/表格模板；重新生成图表并进行人工复核",
+    "metadata": "ch07_sec05；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_169",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_169",
+    "embedding_text": "纬地如何生成横断面设计图？ 纬地如何生成横断面设计图？；纬地怎么生成横断面设计图？；纬地如何生成横断面设计图？ 1. 准备项目与数据：确认横断面设计已完成，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“成果/图表输出”相关功能。；3. 输入或选择数据：选择或录入图框；比例；桩号范围。；4. 设置关键参数并执行：按照任务要求设置参数，执行“生成横断面设计图”。；5. 保存成果并复核：保存横断面图纸，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec05；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_170",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_170",
+    "embedding_text": "生成横断面设计图需要检查哪些内容？ 生成横断面设计图需要检查哪些内容？；生成横断面设计图需要检查哪些内容？；生成横断面设计图需要检查哪些内容？ 检查前置条件：横断面设计已完成；检查输入数据：图框；比例；桩号范围；检查输出成果：横断面图纸；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec05；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_171",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_171",
+    "embedding_text": "生成横断面设计图常见错误如何排查？ 生成横断面设计图常见错误如何排查？；生成横断面设计图常见错误怎么排查？；生成横断面设计图常见错误如何排查？ 生成横断面设计图无法执行、输出为空或后续模块无法调用。：检查横断面设计已完成；确认文件位于项目目录内；重新打开项目并刷新路径；生成横断面设计图结果异常、图形显示不完整或计算结果不可信。：核对图框；比例；桩号范围；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；图纸中的项目名称、比例、日期或表格字段不符合要求。：检查项目属性；检查图框/表格模板；重新生成图表并进行人工复核",
+    "metadata": "ch07_sec05；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_172",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_172",
+    "embedding_text": "纬地如何输出设计表格？ 纬地如何输出设计表格？；纬地怎么输出设计表格？；纬地如何输出设计表格？ 1. 准备项目与数据：确认平纵横设计成果已完成，并把相关数据放入项目目录。；2. 打开功能入口：在纬地中进入“成果/图表输出”相关功能。；3. 输入或选择数据：选择或录入表格模板；输出格式。；4. 设置关键参数并执行：按照任务要求设置参数，执行“输出设计表格”。；5. 保存成果并复核：保存设计表格成果，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec05；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_173",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_173",
+    "embedding_text": "输出设计表格需要检查哪些内容？ 输出设计表格需要检查哪些内容？；输出设计表格需要检查哪些内容？；输出设计表格需要检查哪些内容？ 检查前置条件：平纵横设计成果已完成；检查输入数据：表格模板；输出格式；检查输出成果：设计表格成果；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec05；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_174",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_174",
+    "embedding_text": "输出设计表格常见错误如何排查？ 输出设计表格常见错误如何排查？；输出设计表格常见错误怎么排查？；输出设计表格常见错误如何排查？ 输出设计表格无法执行、输出为空或后续模块无法调用。：检查平纵横设计成果已完成；确认文件位于项目目录内；重新打开项目并刷新路径；输出设计表格结果异常、图形显示不完整或计算结果不可信。：核对表格模板；输出格式；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；图纸中的项目名称、比例、日期或表格字段不符合要求。：检查项目属性；检查图框/表格模板；重新生成图表并进行人工复核",
+    "metadata": "ch07_sec05；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_175",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_175",
+    "embedding_text": "EICAD如何设置EICAD成果输出模板？ EICAD如何设置EICAD成果输出模板？；EICAD怎么设置EICAD成果输出模板？；EICAD如何设置EICAD成果输出模板？ 1. 准备项目与数据：确认项目成果文件已准备，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“成果/图表输出”相关功能。；3. 输入或选择数据：选择或录入图框模板；表格模板；项目属性。；4. 设置关键参数并执行：按照任务要求设置参数，执行“设置EICAD成果输出模板”。；5. 保存成果并复核：保存EICAD模板配置，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec05；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_176",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_176",
+    "embedding_text": "设置EICAD成果输出模板需要检查哪些内容？ 设置EICAD成果输出模板需要检查哪些内容？；设置EICAD成果输出模板需要检查哪些内容？；设置EICAD成果输出模板需要检查哪些内容？ 检查前置条件：项目成果文件已准备；检查输入数据：图框模板；表格模板；项目属性；检查输出成果：EICAD模板配置；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec05；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_177",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_177",
+    "embedding_text": "设置EICAD成果输出模板常见错误如何排查？ 设置EICAD成果输出模板常见错误如何排查？；设置EICAD成果输出模板常见错误怎么排查？；设置EICAD成果输出模板常见错误如何排查？ 设置EICAD成果输出模板无法执行、输出为空或后续模块无法调用。：检查项目成果文件已准备；确认文件位于项目目录内；重新打开项目并刷新路径；设置EICAD成果输出模板结果异常、图形显示不完整或计算结果不可信。：核对图框模板；表格模板；项目属性；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；图纸中的项目名称、比例、日期或表格字段不符合要求。：检查项目属性；检查图框/表格模板；重新生成图表并进行人工复核",
+    "metadata": "ch07_sec05；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_178",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_178",
+    "embedding_text": "EICAD如何批量输出图纸和表格？ EICAD如何批量输出图纸和表格？；EICAD怎么批量输出图纸和表格？；EICAD如何批量输出图纸和表格？ 1. 准备项目与数据：确认各设计模块成果已通过检查，并把相关数据放入项目目录。；2. 打开功能入口：在EICAD中进入“成果/图表输出”相关功能。；3. 输入或选择数据：选择或录入图纸范围；比例；模板；输出路径。；4. 设置关键参数并执行：按照任务要求设置参数，执行“批量输出图纸和表格”。；5. 保存成果并复核：保存批量成果文件，检查是否能被后续设计模块调用。",
+    "metadata": "ch07_sec05；operation_steps；steps"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_179",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_179",
+    "embedding_text": "批量输出图纸和表格需要检查哪些内容？ 批量输出图纸和表格需要检查哪些内容？；批量输出图纸和表格需要检查哪些内容？；批量输出图纸和表格需要检查哪些内容？ 检查前置条件：各设计模块成果已通过检查；检查输入数据：图纸范围；比例；模板；输出路径；检查输出成果：批量成果文件；检查成果能否被后续模块调用。",
+    "metadata": "ch07_sec05；operation_checklist；checklist"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_180",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_180",
+    "embedding_text": "批量输出图纸和表格常见错误如何排查？ 批量输出图纸和表格常见错误如何排查？；批量输出图纸和表格常见错误怎么排查？；批量输出图纸和表格常见错误如何排查？ 批量输出图纸和表格无法执行、输出为空或后续模块无法调用。：检查各设计模块成果已通过检查；确认文件位于项目目录内；重新打开项目并刷新路径；批量输出图纸和表格结果异常、图形显示不完整或计算结果不可信。：核对图纸范围；比例；模板；输出路径；检查桩号范围、单位、比例和模板；重新执行并检查输出成果；图纸中的项目名称、比例、日期或表格字段不符合要求。：检查项目属性；检查图框/表格模板；重新生成图表并进行人工复核",
+    "metadata": "ch07_sec05；operation_error；troubleshoot"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_181",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_181",
+    "embedding_text": "新建纬地项目是什么？ 新建纬地项目是什么？；新建纬地项目是什么？；新建纬地项目是啥？ 通过【项目】-【新建项目】建立项目文件夹、项目名称和平面线文件。；可以把“新建纬地项目”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_182",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_182",
+    "embedding_text": "查看与维护项目管理器是什么？ 查看与维护项目管理器是什么？；查看与维护项目管理器是什么？；查看与维护项目管理器是啥？ 通过项目管理器检查设计文件路径、项目属性、图框和表格模板。；可以把“查看与维护项目管理器”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_183",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_183",
+    "embedding_text": "导入DWG/DXF高程数据是什么？ 导入DWG/DXF高程数据是什么？；导入DWG/DXF高程数据是什么？；导入DWG/DXF高程数据是啥？ 读取地形图中的等高线和高程点，将其转换为数模数据源。；可以把“导入DWG/DXF高程数据”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_184",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_184",
+    "embedding_text": "设置等高线与高程点类型是什么？ 设置等高线与高程点类型是什么？；设置等高线与高程点类型是什么？；设置等高线与高程点类型是啥？ 把等高线图层设置为约束线，把高程点图层设置为地形点。；可以把“设置等高线与高程点类型”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_185",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_185",
+    "embedding_text": "三角构网并保存数模是什么？ 三角构网并保存数模是什么？；三角构网并保存数模是什么？；三角构网并保存数模是啥？ 执行三角构网，生成TIN数模并保存当前数模。；可以把“三角构网并保存数模”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_186",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_186",
+    "embedding_text": "优化数模边界和三角网是什么？ 优化数模边界和三角网是什么？；优化数模边界和三角网是什么？；优化数模边界和三角网是啥？ 对不理想的三角网边界或局部异常进行优化。；可以把“优化数模边界和三角网”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_187",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_187",
+    "embedding_text": "新建EICAD项目是什么？ 新建EICAD项目是什么？；新建EICAD项目是什么？；新建EICAD项目是啥？ 使用项目数据管理工具新建项目文件夹并生成相关目录。；可以把“新建EICAD项目”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_188",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_188",
+    "embedding_text": "导入或打开项目数据是什么？ 导入或打开项目数据是什么？；导入或打开项目数据是什么？；导入或打开项目数据是啥？ 通过项目数据管理工具打开、导入、浏览和编辑项目信息。；可以把“导入或打开项目数据”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_189",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_189",
+    "embedding_text": "点选方式建立数模是什么？ 点选方式建立数模是什么？；点选方式建立数模是什么？；点选方式建立数模是啥？ 在地形图上点选计曲线、首曲线和地形点，提取地形数据并构网。；可以把“点选方式建立数模”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_190",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_190",
+    "embedding_text": "排除高程异常并优化数模是什么？ 排除高程异常并优化数模是什么？；排除高程异常并优化数模是什么？；排除高程异常并优化数模是啥？ 检查数模范围和高程异常，必要时排除异常点并重建。；可以把“排除高程异常并优化数模”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_191",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_191",
+    "embedding_text": "直线型交点法平面定线是什么？ 直线型交点法平面定线是什么？；直线型交点法平面定线是什么？；直线型交点法平面定线是啥？ 输入交点坐标并设置平曲线参数，完成路线平面线形。；可以把“直线型交点法平面定线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_192",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_192",
+    "embedding_text": "修改平曲线参数是什么？ 修改平曲线参数是什么？；修改平曲线参数是什么？；修改平曲线参数是啥？ 调整圆曲线半径、缓和曲线长度、转角等参数并刷新线形。；可以把“修改平曲线参数”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_193",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_193",
+    "embedding_text": "设计S型曲线组合是什么？ 设计S型曲线组合是什么？；设计S型曲线组合是什么？；设计S型曲线组合是啥？ 按相邻反向曲线组合要求设置曲线参数并检查连接关系。；可以把“设计S型曲线组合”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_194",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_194",
+    "embedding_text": "设计卵形曲线组合是什么？ 设计卵形曲线组合是什么？；设计卵形曲线组合是什么？；设计卵形曲线组合是啥？ 用不同半径圆曲线及过渡段构造卵形曲线。；可以把“设计卵形曲线组合”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_195",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_195",
+    "embedding_text": "设计C型曲线与回头曲线是什么？ 设计C型曲线与回头曲线是什么？；设计C型曲线与回头曲线是什么？；设计C型曲线与回头曲线是啥？ 根据地形受限条件构造C型或回头曲线并检查平面连续性。；可以把“设计C型曲线与回头曲线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_196",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_196",
+    "embedding_text": "互通匝道文件控制接线是什么？ 互通匝道文件控制接线是什么？；互通匝道文件控制接线是什么？；互通匝道文件控制接线是啥？ 通过文件控制方式指定匝道与主线或被交线的接线关系。；可以把“互通匝道文件控制接线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_197",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_197",
+    "embedding_text": "互通匝道圆+缓+直接线是什么？ 互通匝道圆+缓+直接线是什么？；互通匝道圆+缓+直接线是什么？；互通匝道圆+缓+直接线是啥？ 采用圆曲线、缓和曲线和直线组合方式完成匝道接线。；可以把“互通匝道圆+缓+直接线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_198",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_198",
+    "embedding_text": "积木法构造匝道线形是什么？ 积木法构造匝道线形是什么？；积木法构造匝道线形是什么？；积木法构造匝道线形是啥？ 将匝道看作若干线形单元组合，逐段构造并动态调整。；可以把“积木法构造匝道线形”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_199",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_199",
+    "embedding_text": "EICAD直线单元设计是什么？ EICAD直线单元设计是什么？；EICAD直线单元设计是什么？；EICAD直线单元设计是啥？ 使用EI_LINE构造直线单元，作为路线或匝道的基本线形。；可以把“EICAD直线单元设计”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_200",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_200",
+    "embedding_text": "EICAD圆曲线单元设计是什么？ EICAD圆曲线单元设计是什么？；EICAD圆曲线单元设计是什么？；EICAD圆曲线单元设计是啥？ 使用EI_ARC设置圆曲线半径和控制点，生成圆曲线单元。；可以把“EICAD圆曲线单元设计”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_201",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_201",
+    "embedding_text": "EICAD缓和曲线单元设计是什么？ EICAD缓和曲线单元设计是什么？；EICAD缓和曲线单元设计是什么？；EICAD缓和曲线单元设计是啥？ 使用EI_CLOTHOID设置缓和曲线参数并生成线元。；可以把“EICAD缓和曲线单元设计”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_202",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_202",
+    "embedding_text": "连接两缓和曲线是什么？ 连接两缓和曲线是什么？；连接两缓和曲线是什么？；连接两缓和曲线是啥？ 使用EI_LINKCLOTHOID连接两条缓和曲线并自动生成中间单元。；可以把“连接两缓和曲线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_203",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_203",
+    "embedding_text": "基本模式法圆圆模式设计是什么？ 基本模式法圆圆模式设计是什么？；基本模式法圆圆模式设计是什么？；基本模式法圆圆模式设计是啥？ 使用圆圆模式处理S形、C形和卵形曲线连接。；可以把“基本模式法圆圆模式设计”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_204",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_204",
+    "embedding_text": "扩展模式法立交匝道设计是什么？ 扩展模式法立交匝道设计是什么？；扩展模式法立交匝道设计是什么？；扩展模式法立交匝道设计是啥？ 基于复杂单元组合或扩展模式完成匝道平面设计。；可以把“扩展模式法立交匝道设计”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_205",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_205",
+    "embedding_text": "生成桩号文件是什么？ 生成桩号文件是什么？；生成桩号文件是什么？；生成桩号文件是啥？ 通过工具或设计向导生成纵断面和横断面需要的桩号文件。；可以把“生成桩号文件”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_206",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_206",
+    "embedding_text": "数模内插纵断面地面线是什么？ 数模内插纵断面地面线是什么？；数模内插纵断面地面线是什么？；数模内插纵断面地面线是啥？ 基于数模提取桩号-高程纵断面地面线。；可以把“数模内插纵断面地面线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_207",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_207",
+    "embedding_text": "手工输入或修改纵断面地面线是什么？ 手工输入或修改纵断面地面线是什么？；手工输入或修改纵断面地面线是什么？；手工输入或修改纵断面地面线是啥？ 录入或修正桩号-高程数据，保证地面线可靠。；可以把“手工输入或修改纵断面地面线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_208",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_208",
+    "embedding_text": "输入桥梁涵洞通道控制点是什么？ 输入桥梁涵洞通道控制点是什么？；输入桥梁涵洞通道控制点是什么？；输入桥梁涵洞通道控制点是啥？ 录入高程控制点，为拉坡提供约束。；可以把“输入桥梁涵洞通道控制点”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_209",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_209",
+    "embedding_text": "创建纵断面拉坡图是什么？ 创建纵断面拉坡图是什么？；创建纵断面拉坡图是什么？；创建纵断面拉坡图是啥？ 绘制纵断面地面线、里程桩号和平曲线，为交互拉坡提供图形环境。；可以把“创建纵断面拉坡图”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_210",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_210",
+    "embedding_text": "交互式设置变坡点是什么？ 交互式设置变坡点是什么？；交互式设置变坡点是什么？；交互式设置变坡点是啥？ 在拉坡线中增加、拖动和修改变坡点，确定坡度与坡长。；可以把“交互式设置变坡点”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_211",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_211",
+    "embedding_text": "修改变坡点与竖曲线半径是什么？ 修改变坡点与竖曲线半径是什么？；修改变坡点与竖曲线半径是什么？；修改变坡点与竖曲线半径是啥？ 通过修改变坡点对话框调整桩号、高程和竖曲线半径并刷新结果。；可以把“修改变坡点与竖曲线半径”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_212",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_212",
+    "embedding_text": "输出纵横地面线是什么？ 输出纵横地面线是什么？；输出纵横地面线是什么？；输出纵横地面线是啥？ 从数字地面模型输出纵断面和横断面地面线。；可以把“输出纵横地面线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_213",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_213",
+    "embedding_text": "创建拉坡图是什么？ 创建拉坡图是什么？；创建拉坡图是什么？；创建拉坡图是啥？ 生成纵断面拉坡图，为自动或手工拉坡提供环境。；可以把“创建拉坡图”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_214",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_214",
+    "embedding_text": "输入拉坡控制点是什么？ 输入拉坡控制点是什么？；输入拉坡控制点是什么？；输入拉坡控制点是啥？ 录入桥梁、涵洞、通道等控制点，为纵坡设计提供约束。；可以把“输入拉坡控制点”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_215",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_215",
+    "embedding_text": "自动拉坡设计是什么？ 自动拉坡设计是什么？；自动拉坡设计是什么？；自动拉坡设计是啥？ 依据控制条件自动生成纵断面设计线并进行初步审核。；可以把“自动拉坡设计”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_216",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_216",
+    "embedding_text": "手工拉坡与夹点调整是什么？ 手工拉坡与夹点调整是什么？；手工拉坡与夹点调整是什么？；手工拉坡与夹点调整是啥？ 通过拖动夹点调整变坡点与竖曲线参数。；可以把“手工拉坡与夹点调整”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_217",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_217",
+    "embedding_text": "输入横断面地面线是什么？ 输入横断面地面线是什么？；输入横断面地面线是什么？；输入横断面地面线是啥？ 通过横断面数据输入工具录入逐桩横断面地面线。；可以把“输入横断面地面线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_218",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_218",
+    "embedding_text": "数模内插横断面地面线是什么？ 数模内插横断面地面线是什么？；数模内插横断面地面线是什么？；数模内插横断面地面线是啥？ 基于数模按桩号内插横断面地面线。；可以把“数模内插横断面地面线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_219",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_219",
+    "embedding_text": "运行设计向导定义标准横断面是什么？ 运行设计向导定义标准横断面是什么？；运行设计向导定义标准横断面是什么？；运行设计向导定义标准横断面是啥？ 通过设计向导定义路线等级、路幅、边坡、边沟和排水沟等参数。；可以把“运行设计向导定义标准横断面”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_220",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_220",
+    "embedding_text": "自动计算超高加宽是什么？ 自动计算超高加宽是什么？；自动计算超高加宽是什么？；自动计算超高加宽是啥？ 根据平面线形和规范参数计算超高与加宽。；可以把“自动计算超高加宽”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_221",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_221",
+    "embedding_text": "路基设计计算是什么？ 路基设计计算是什么？；路基设计计算是什么？；路基设计计算是啥？ 计算逐桩超高横坡、设计标高、路幅参数和高差。；可以把“路基设计计算”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_222",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_222",
+    "embedding_text": "录入支挡防护工程是什么？ 录入支挡防护工程是什么？；录入支挡防护工程是什么？；录入支挡防护工程是啥？ 录入挡墙、护坡等支挡防护工程的型式和段落数据。；可以把“录入支挡防护工程”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_223",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_223",
+    "embedding_text": "横断面设计绘图与戴帽是什么？ 横断面设计绘图与戴帽是什么？；横断面设计绘图与戴帽是什么？；横断面设计绘图与戴帽是啥？ 打开横断面设计绘图界面，按设计控制、土方控制和绘图控制完成戴帽。；可以把“横断面设计绘图与戴帽”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_224",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_224",
+    "embedding_text": "横断面交互修改是什么？ 横断面交互修改是什么？；横断面交互修改是什么？；横断面交互修改是啥？ 浏览特殊断面并进行人工调整。；可以把“横断面交互修改”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_225",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_225",
+    "embedding_text": "创建路基模板是什么？ 创建路基模板是什么？；创建路基模板是什么？；创建路基模板是啥？ 创建或编辑自定义路基模板。；可以把“创建路基模板”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_226",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_226",
+    "embedding_text": "创建边坡模板是什么？ 创建边坡模板是什么？；创建边坡模板是什么？；创建边坡模板是啥？ 设置填挖方边坡坡率、平台和防护规则。；可以把“创建边坡模板”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_227",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_227",
+    "embedding_text": "创建边沟与截水沟模板是什么？ 创建边沟与截水沟模板是什么？；创建边沟与截水沟模板是什么？；创建边沟与截水沟模板是啥？ 编辑边沟、排水沟、截水沟等模板。；可以把“创建边沟与截水沟模板”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_228",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_228",
+    "embedding_text": "生成和修改超高渐变图是什么？ 生成和修改超高渐变图是什么？；生成和修改超高渐变图是什么？；生成和修改超高渐变图是啥？ 设置超高加宽计算并生成超高渐变图。；可以把“生成和修改超高渐变图”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_229",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_229",
+    "embedding_text": "执行横断面戴帽设计是什么？ 执行横断面戴帽设计是什么？；执行横断面戴帽设计是什么？；执行横断面戴帽设计是啥？ 根据模板与地面线进行横断面戴帽。；可以把“执行横断面戴帽设计”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_230",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_230",
+    "embedding_text": "查看与绘制横断面成果是什么？ 查看与绘制横断面成果是什么？；查看与绘制横断面成果是什么？；查看与绘制横断面成果是啥？ 逐桩查看横断面戴帽结果并绘制横断面图。；可以把“查看与绘制横断面成果”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_231",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_231",
+    "embedding_text": "土石方调配数据预处理是什么？ 土石方调配数据预处理是什么？；土石方调配数据预处理是什么？；土石方调配数据预处理是啥？ 创建土石比文件并进行本桩利用方式选择。；可以把“土石方调配数据预处理”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_232",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_232",
+    "embedding_text": "设置构造物运距是什么？ 设置构造物运距是什么？；设置构造物运距是什么？；设置构造物运距是啥？ 设置构造物是否通行以及运输限制。；可以把“设置构造物运距”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_233",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_233",
+    "embedding_text": "绘制土石方调配成果是什么？ 绘制土石方调配成果是什么？；绘制土石方调配成果是什么？；绘制土石方调配成果是啥？ 在平面图上绘制挖余与填缺土方块及运输路径。；可以把“绘制土石方调配成果”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_234",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_234",
+    "embedding_text": "管理图框和表格模板是什么？ 管理图框和表格模板是什么？；管理图框和表格模板是什么？；管理图框和表格模板是啥？ 浏览、指定或修改纬地图框与表格模板。；可以把“管理图框和表格模板”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_235",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_235",
+    "embedding_text": "生成路线平面图是什么？ 生成路线平面图是什么？；生成路线平面图是什么？；生成路线平面图是啥？ 按设定比例和图框输出路线平面设计图。；可以把“生成路线平面图”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_236",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_236",
+    "embedding_text": "生成纵断面设计图是什么？ 生成纵断面设计图是什么？；生成纵断面设计图是什么？；生成纵断面设计图是啥？ 按横向和纵向比例输出纵断面图。；可以把“生成纵断面设计图”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_237",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_237",
+    "embedding_text": "生成横断面设计图是什么？ 生成横断面设计图是什么？；生成横断面设计图是什么？；生成横断面设计图是啥？ 批量生成逐桩横断面设计图。；可以把“生成横断面设计图”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_238",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_238",
+    "embedding_text": "输出设计表格是什么？ 输出设计表格是什么？；输出设计表格是什么？；输出设计表格是啥？ 输出直曲转角表、竖曲线表、路基设计表、土石方数量表等。；可以把“输出设计表格”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_239",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_239",
+    "embedding_text": "设置EICAD成果输出模板是什么？ 设置EICAD成果输出模板是什么？；设置EICAD成果输出模板是什么？；设置EICAD成果输出模板是啥？ 配置EICAD图纸和表格输出模板。；可以把“设置EICAD成果输出模板”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_240",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_240",
+    "embedding_text": "批量输出图纸和表格是什么？ 批量输出图纸和表格是什么？；批量输出图纸和表格是什么？；批量输出图纸和表格是啥？ 批量生成平面、纵断面、横断面与土石方成果。；可以把“批量输出图纸和表格”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_241",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_241",
+    "embedding_text": "道路CAD软件的功能定位是什么？ 道路CAD软件的功能定位是什么？；道路CAD软件的功能定位是什么？；道路CAD软件的功能定位是啥？ 纬地和EICAD覆盖数模、平面、纵断面、横断面及成果输出，是路线设计与施工图成果生成的核心工具。；可以把“道路CAD软件的功能定位”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_242",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_242",
+    "embedding_text": "纬地与EICAD的共同点是什么？ 纬地与EICAD的共同点是什么？；纬地与EICAD的共同点是什么？；纬地与EICAD的共同点是啥？ 二者均采用项目文件夹管理，支持数模建立、路线设计、断面设计和成果输出。；可以把“纬地与EICAD的共同点”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_243",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_243",
+    "embedding_text": "纬地与EICAD的差异是什么？ 纬地与EICAD的差异是什么？；纬地与EICAD的差异是什么？；纬地与EICAD的差异是啥？ 纬地更强调道路三维集成CAD流程，EICAD更强调交互式路线与立交设计、积木法和模式法。；可以把“纬地与EICAD的差异”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_244",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_244",
+    "embedding_text": "项目文件夹管理是什么？ 项目文件夹管理是什么？；项目文件夹管理是什么？；项目文件夹管理是啥？ 道路CAD软件通过项目文件夹集中管理平面线、数模、断面、图框和表格模板等设计文件。；可以把“项目文件夹管理”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_245",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_245",
+    "embedding_text": "三角网数模在路线设计中的作用是什么？ 三角网数模在路线设计中的作用是什么？；三角网数模在路线设计中的作用是什么？；三角网数模在路线设计中的作用是啥？ 三角网数模为纵断面地面线提取、横断面插值、土石方计算和方案检查提供地形基础。；可以把“三角网数模在路线设计中的作用”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec01；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_246",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_246",
+    "embedding_text": "直线型交点法定线是什么？ 直线型交点法定线是什么？；直线型交点法定线是什么？；直线型交点法定线是啥？ 先布设交点和直线，再在转折处设置圆曲线与缓和曲线，是道路平面设计常用方法。；可以把“直线型交点法定线”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_247",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_247",
+    "embedding_text": "积木法设计思想是什么？ 积木法设计思想是什么？；积木法设计思想是什么？；积木法设计思想是啥？ 把路线或匝道看成直线、圆曲线、缓和曲线等首尾相接线元的组合，通过参数和拖动完成线形构造。；可以把“积木法设计思想”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_248",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_248",
+    "embedding_text": "基本模式法是什么？ 基本模式法是什么？；基本模式法是什么？；基本模式法是啥？ 以直线与圆、圆与圆之间的连接模式为基础构造路线，适合S形、C形和卵形等曲线组合。；可以把“基本模式法”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec02；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_249",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_249",
+    "embedding_text": "纵断面拉坡是什么？ 纵断面拉坡是什么？；纵断面拉坡是什么？；纵断面拉坡是啥？ 在纵断面地面线和控制点基础上，通过变坡点、坡度和竖曲线半径确定纵断面设计线。；可以把“纵断面拉坡”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_250",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_250",
+    "embedding_text": "变坡点是什么？ 变坡点是什么？；变坡点是什么？；变坡点是啥？ 变坡点是相邻纵坡变化的位置，是竖曲线设置和纵断面设计控制的关键节点。；可以把“变坡点”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec03；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_251",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_251",
+    "embedding_text": "横断面戴帽是什么？ 横断面戴帽是什么？；横断面戴帽是什么？；横断面戴帽是啥？ 根据地面线、标准横断面模板、超高加宽和支挡防护规则，在各桩号上自动布置路基横断面。；可以把“横断面戴帽”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_252",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_252",
+    "embedding_text": "超高加宽数据是什么？ 超高加宽数据是什么？；超高加宽数据是什么？；超高加宽数据是啥？ 超高加宽数据控制曲线路段横坡和路幅宽度变化，是横断面设计前必须准备的关键数据。；可以把“超高加宽数据”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_253",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_253",
+    "embedding_text": "土石方调配是什么？ 土石方调配是什么？；土石方调配是什么？；土石方调配是啥？ 在填挖面积基础上考虑利用、运输、取弃土场和构造物通行条件，形成土石方调运方案。；可以把“土石方调配”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec04；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_254",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_254",
+    "embedding_text": "成果图表输出是什么？ 成果图表输出是什么？；成果图表输出是什么？；成果图表输出是啥？ 道路CAD软件最终需要输出平面图、纵断面图、横断面图及各类设计表格，满足施工图编制要求。；可以把“成果图表输出”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_255",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_255",
+    "embedding_text": "图框与表格模板是什么？ 图框与表格模板是什么？；图框与表格模板是什么？；图框与表格模板是啥？ 图框与表格模板控制成果图表的版式、工程名称、比例、日期和项目属性表达。；可以把“图框与表格模板”理解为第七章软件操作流程中的一个可执行学习单元，重点关注输入数据、操作步骤、参数设置、输出成果和检查方法。；支撑道路CAD软件从数据准备到设计计算、图纸输出的工程化流程，避免只会点击按钮而不知道成果是否正确。",
+    "metadata": "ch07_sec05；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_256",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_256",
+    "embedding_text": "项目文件夹是什么？ 项目文件夹是什么？；项目文件夹是什么？；项目文件夹是啥？ 集中保存设计文件、数模、线形、模板和成果图表的目录。；在第七章中，项目文件夹不是孤立名词，而是道路CAD软件任务流程中的数据、对象或参数。；项目文件夹是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_257",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_257",
+    "embedding_text": "项目管理器是什么？ 项目管理器是什么？；项目管理器是什么？；项目管理器是啥？ 浏览和维护项目文件、属性、图框与表格模板的管理工具。；在第七章中，项目管理器不是孤立名词，而是道路CAD软件任务流程中的数据、对象或参数。；项目管理器是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_258",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_258",
+    "embedding_text": "项目数据管理是什么？ 项目数据管理是什么？；项目数据管理是什么？；项目数据管理是啥？ 用于新建、导入、打开和查看项目信息的工具。；在第七章中，项目数据管理不是孤立名词，而是道路CAD软件任务流程中的数据、对象或参数。；项目数据管理是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_259",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_259",
+    "embedding_text": "DWG/DXF地形图是什么？ DWG/DXF地形图是什么？；DWG/DXF地形图是什么？；DWG/DXF地形图是啥？ 道路CAD软件建立数模时常用的外部三维数据来源。；在第七章中，DWG/DXF地形图不是孤立名词，而是道路CAD软件任务流程中的数据、对象或参数。；DWG/DXF地形图是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_260",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_260",
+    "embedding_text": "计曲线是什么？ 计曲线是什么？；计曲线是什么？；计曲线是啥？ 地形图中用于表达高程变化的主等高线。；在第七章中，计曲线不是孤立名词，而是道路CAD软件任务流程中的数据、对象或参数。；计曲线是第七章道路CAD软件操作流程中的核心对象，影响数据准备、设计计算或成果输出。",
+    "metadata": "ch07_sec00；concept；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_261",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_261",
+    "embedding_text": "纬地与EICAD项目管理有什么区别？ 纬地与EICAD项目管理有什么区别？；纬地与EICAD项目管理有什么区别？；纬地与EICAD项目管理有啥区别？ 纬地通过项目管理器维护文件、属性和图表模板；EICAD通过项目数据管理工具新建、导入、打开和编辑项目。",
+    "metadata": "ch07_sec00；comparison；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_262",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_262",
+    "embedding_text": "纬地和EICAD建立数模有什么区别？ 纬地和EICAD建立数模有什么区别？；纬地和EICAD建立数模有什么区别？；纬地和EICAD建立数模有啥区别？ 纬地强调读取DWG/DXF图层中的等高线和高程点；EICAD既可点选地形对象也可导入CAD图形，并强调异常高程排除。",
+    "metadata": "ch07_sec00；comparison；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_263",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_263",
+    "embedding_text": "直线型交点法与积木法有什么区别？ 直线型交点法与积木法有什么区别？；直线型交点法与积木法有什么区别？；直线型交点法与积木法有啥区别？ 交点法以交点和曲线参数为主；积木法将路线拆成直线、圆曲线、缓和曲线等线元逐段组合。",
+    "metadata": "ch07_sec00；comparison；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_264",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_264",
+    "embedding_text": "纬地横断面设计和EICAD横断面设计有什么区别？ 纬地横断面设计和EICAD横断面设计有什么区别？；纬地横断面设计和EICAD横断面设计有什么区别？；纬地横断面设计和EICAD横断面设计有啥区别？ 纬地强调设计向导、路基设计计算和横断面绘图；EICAD强调自定义路基、边坡、边沟模板和戴帽规则。",
+    "metadata": "ch07_sec00；comparison；bullet"
+  },
+  {
+    "embedding_id": "emb_ans_ch07_265",
+    "chapter_id": "ch07",
+    "source_type": "answer_card",
+    "source_id": "ans_ch07_265",
+    "embedding_text": "成果输出前为什么要检查图框和表格模板？ 成果输出前为什么要检查图框和表格模板？；成果输出前为什么要检查图框和表格模板？；成果输出前为啥要检查图框和表格模板？ 图框和表格模板控制项目名称、比例、日期、字段和版式，直接影响施工图成果规范性。",
+    "metadata": "ch07_sec00；comparison；bullet"
+  }
+]

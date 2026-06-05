@@ -1,0 +1,150 @@
+[
+  {
+    "script_id": "ch03_interactive_3_1",
+    "resource_id": "ch03_script_3_1",
+    "chapter_id": "ch03",
+    "title": "道路 CAD 系统如何支撑道路设计",
+    "file_path": "assets/ch03/interactive_html/3.1道路 CAD 系统如何支撑道路设计.html",
+    "interaction_theme": "道路 CAD 系统如何支撑道路设计",
+    "display_objects": [
+      "道路",
+      "CAD",
+      "系统如何支撑道路设计"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "道路 CAD 系统如何支撑道路设计怎么看？",
+      "道路 CAD 系统如何支撑道路设计怎么操作？",
+      "我想看道路 CAD 系统如何支撑道路设计。"
+    ],
+    "related_kps": [
+      "kp_ch03_001",
+      "kp_ch03_002",
+      "kp_ch03_003",
+      "kp_ch03_004",
+      "kp_ch03_005",
+      "kp_ch03_006",
+      "kp_ch03_007",
+      "kp_ch03_008"
+    ],
+    "extracted_labels": [
+      "道路",
+      "CAD",
+      "系统如何支撑道路设计"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch03_interactive_3_2",
+    "resource_id": "ch03_script_3_2",
+    "chapter_id": "ch03",
+    "title": "路线平面CAD设计",
+    "file_path": "assets/ch03/interactive_html/3.2路线平面CAD设计.html",
+    "interaction_theme": "路线平面CAD设计",
+    "display_objects": [
+      "路线平面CAD设计",
+      "CAD"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "路线平面CAD设计怎么看？",
+      "路线平面CAD设计怎么操作？",
+      "我想看路线平面CAD设计。"
+    ],
+    "related_kps": [
+      "kp_ch03_038",
+      "kp_ch03_039",
+      "kp_ch03_040",
+      "kp_ch03_041",
+      "kp_ch03_042",
+      "kp_ch03_043",
+      "kp_ch03_044",
+      "kp_ch03_045"
+    ],
+    "extracted_labels": [
+      "路线平面CAD设计",
+      "CAD"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch03_interactive_3_3",
+    "resource_id": "ch03_script_3_3",
+    "chapter_id": "ch03",
+    "title": "路线纵断面设计",
+    "file_path": "assets/ch03/interactive_html/3.3路线纵断面设计.html",
+    "interaction_theme": "路线纵断面设计",
+    "display_objects": [
+      "路线纵断面设计"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "路线纵断面设计怎么看？",
+      "路线纵断面设计怎么操作？",
+      "我想看路线纵断面设计。"
+    ],
+    "related_kps": [
+      "kp_ch03_062",
+      "kp_ch03_063",
+      "kp_ch03_064",
+      "kp_ch03_065",
+      "kp_ch03_066",
+      "kp_ch03_067",
+      "kp_ch03_068",
+      "kp_ch03_069"
+    ],
+    "extracted_labels": [
+      "路线纵断面设计"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch03_interactive_3_4",
+    "resource_id": "ch03_script_3_4",
+    "chapter_id": "ch03",
+    "title": "横断面CAD系统",
+    "file_path": "assets/ch03/interactive_html/3.4横断面CAD系统.html",
+    "interaction_theme": "横断面CAD系统",
+    "display_objects": [
+      "横断面CAD系统",
+      "CAD"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "横断面CAD系统怎么看？",
+      "横断面CAD系统怎么操作？",
+      "我想看横断面CAD系统。"
+    ],
+    "related_kps": [
+      "kp_ch03_079",
+      "kp_ch03_080",
+      "kp_ch03_081",
+      "kp_ch03_082",
+      "kp_ch03_083",
+      "kp_ch03_084",
+      "kp_ch03_085",
+      "kp_ch03_086"
+    ],
+    "extracted_labels": [
+      "横断面CAD系统",
+      "CAD"
+    ],
+    "status": "bound"
+  }
+]

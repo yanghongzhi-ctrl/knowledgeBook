@@ -1,0 +1,50 @@
+[
+  {
+    "constraint_id": "ch07_const_001",
+    "rule": "禁止把Source_Chunks作为主答案输出",
+    "reason": "避免直接截取Word原文，保证操作回答精准。",
+    "guardrail_id": "ch07_const_001",
+    "title": "禁止把Source_Chunks作为主答案输出",
+    "severity": "medium"
+  },
+  {
+    "constraint_id": "ch07_const_002",
+    "rule": "操作类问题必须列出前置条件、步骤和检查方法",
+    "reason": "软件学习重点是“怎么做”和“做对了吗”。",
+    "guardrail_id": "ch07_const_002",
+    "title": "操作类问题必须列出前置条件、步骤和检查方法",
+    "severity": "medium"
+  },
+  {
+    "constraint_id": "ch07_const_003",
+    "rule": "错误排查类回答必须先判断错误现象，再列可能原因",
+    "reason": "避免泛泛建议导致学生无法定位问题。",
+    "guardrail_id": "ch07_const_003",
+    "title": "错误排查类回答必须先判断错误现象，再列可能原因",
+    "severity": "medium"
+  },
+  {
+    "constraint_id": "ch07_const_004",
+    "rule": "涉及视频时必须返回Video_Segments而不是只返回视频文件",
+    "reason": "操作视频需要按时间片段服务于具体步骤。",
+    "guardrail_id": "ch07_const_004",
+    "title": "涉及视频时必须返回Video_Segments而不是只返回视频文件",
+    "severity": "medium"
+  },
+  {
+    "constraint_id": "ch07_const_005",
+    "rule": "若软件版本界面不同，应提示以实际版本为准",
+    "reason": "纬地和EICAD界面随版本变化。",
+    "guardrail_id": "ch07_const_005",
+    "title": "若软件版本界面不同，应提示以实际版本为准",
+    "severity": "medium"
+  },
+  {
+    "constraint_id": "ch07_const_006",
+    "rule": "回答不得加入教材未涉及的复杂开发或二次开发内容",
+    "reason": "保证第七章软件操作问答边界清晰。",
+    "guardrail_id": "ch07_const_006",
+    "title": "回答不得加入教材未涉及的复杂开发或二次开发内容",
+    "severity": "medium"
+  }
+]

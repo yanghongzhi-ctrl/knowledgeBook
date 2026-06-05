@@ -1,0 +1,47 @@
+[
+  {
+    "test_id": "ch11_res_eval_016",
+    "chapter_id": "ch11",
+    "question": "我想看11.1道路数字孪生内涵与系统框架。",
+    "expected_resource_id": "ch11_script_01",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  },
+  {
+    "test_id": "ch11_res_eval_017",
+    "chapter_id": "ch11",
+    "question": "我想看11.2多源异构数据采集与时空对齐。",
+    "expected_resource_id": "ch11_script_02",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  },
+  {
+    "test_id": "ch11_res_eval_018",
+    "chapter_id": "ch11",
+    "question": "我想看11.3多尺度高保真建模与BIM+GIS集成。",
+    "expected_resource_id": "ch11_script_03",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  },
+  {
+    "test_id": "ch11_res_eval_019",
+    "chapter_id": "ch11",
+    "question": "我想看11.4数字主线与全生命周期数据管理。",
+    "expected_resource_id": "ch11_script_04",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  },
+  {
+    "test_id": "ch11_res_eval_020",
+    "chapter_id": "ch11",
+    "question": "我想看11.5智能仿真预测虚实交互与典型应用场景。",
+    "expected_resource_id": "ch11_script_05",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  }
+]

@@ -1,0 +1,3383 @@
+[
+  {
+    "kp_id": "kp_ch06_001",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "AutoCAD功能体系",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "理解AutoCAD从文件管理、绘图建模、编辑参数化、外部参照、注释标注、视图视口、输出发布、二次开发等方面支撑工程制图。",
+    "core_explanation": "理解AutoCAD从文件管理、绘图建模、编辑参数化、外部参照、注释标注、视图视口、输出发布、二次开发等方面支撑工程制图。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的AutoCAD功能体系相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于AutoCAD功能体系相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "AutoCAD功能体系",
+      "FUNC",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "AutoCAD功能体系是什么;AutoCAD功能体系怎么理解;AutoCAD功能体系有什么用;AutoCAD中AutoCAD功能体系怎么用;AutoCAD功能体系常见错误;AutoCAD功能体系操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "理解AutoCAD从文件管理、绘图建模、编辑参数化、外部参照、注释标注、视图视口、输出发布、二次开发等方面支撑工程制图。",
+      "理解AutoCAD从文件管理、绘图建模、编辑参数化、外部参照、注释标注、视图视口、输出发布、二次开发等方面支撑工程制图。",
+      "用于道路工程制图或建模中的AutoCAD功能体系相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "AutoCAD功能体系是什么",
+      "AutoCAD功能体系怎么理解",
+      "AutoCAD功能体系有什么用",
+      "AutoCAD中AutoCAD功能体系怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_002",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "绘图环境与界面",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "理解标题栏、快速访问工具栏、功能区、绘图区域、命令窗口、状态栏和视图导航等界面组件。",
+    "core_explanation": "理解标题栏、快速访问工具栏、功能区、绘图区域、命令窗口、状态栏和视图导航等界面组件。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的绘图环境与界面相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于绘图环境与界面相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "绘图环境与界面",
+      "ENV",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘图环境与界面是什么;绘图环境与界面怎么理解;绘图环境与界面有什么用;AutoCAD中绘图环境与界面怎么用;绘图环境与界面常见错误;绘图环境与界面操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "理解标题栏、快速访问工具栏、功能区、绘图区域、命令窗口、状态栏和视图导航等界面组件。",
+      "理解标题栏、快速访问工具栏、功能区、绘图区域、命令窗口、状态栏和视图导航等界面组件。",
+      "用于道路工程制图或建模中的绘图环境与界面相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "绘图环境与界面是什么",
+      "绘图环境与界面怎么理解",
+      "绘图环境与界面有什么用",
+      "AutoCAD中绘图环境与界面怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_003",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "坐标系统与坐标输入",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握WCS、UCS、绝对/相对直角坐标、绝对/相对极坐标的输入逻辑。",
+    "core_explanation": "掌握WCS、UCS、绝对/相对直角坐标、绝对/相对极坐标的输入逻辑。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的坐标系统与坐标输入相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于坐标系统与坐标输入相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "坐标系统与坐标输入",
+      "COORD",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "坐标系统与坐标输入是什么;坐标系统与坐标输入怎么理解;坐标系统与坐标输入有什么用;AutoCAD中坐标系统与坐标输入怎么用;坐标系统与坐标输入常见错误;坐标系统与坐标输入操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握WCS、UCS、绝对/相对直角坐标、绝对/相对极坐标的输入逻辑。",
+      "掌握WCS、UCS、绝对/相对直角坐标、绝对/相对极坐标的输入逻辑。",
+      "用于道路工程制图或建模中的坐标系统与坐标输入相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "坐标系统与坐标输入是什么",
+      "坐标系统与坐标输入怎么理解",
+      "坐标系统与坐标输入有什么用",
+      "AutoCAD中坐标系统与坐标输入怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_004",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "模型空间与图纸空间",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "区分模型空间用于建模绘制，图纸空间用于布局、视口、比例和打印输出。",
+    "core_explanation": "区分模型空间用于建模绘制，图纸空间用于布局、视口、比例和打印输出。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的模型空间与图纸空间相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于模型空间与图纸空间相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "模型空间与图纸空间",
+      "SPACE",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "模型空间与图纸空间是什么;模型空间与图纸空间怎么理解;模型空间与图纸空间有什么用;AutoCAD中模型空间与图纸空间怎么用;模型空间与图纸空间常见错误;模型空间与图纸空间操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "区分模型空间用于建模绘制，图纸空间用于布局、视口、比例和打印输出。",
+      "区分模型空间用于建模绘制，图纸空间用于布局、视口、比例和打印输出。",
+      "用于道路工程制图或建模中的模型空间与图纸空间相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "模型空间与图纸空间是什么",
+      "模型空间与图纸空间怎么理解",
+      "模型空间与图纸空间有什么用",
+      "AutoCAD中模型空间与图纸空间怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_005",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "命令机制与基本绘图",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握命令行、功能区、菜单、快捷别名和右键交互等命令启动与执行机制。",
+    "core_explanation": "掌握命令行、功能区、菜单、快捷别名和右键交互等命令启动与执行机制。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的命令机制与基本绘图相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于命令机制与基本绘图相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "命令机制与基本绘图",
+      "CMD",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "命令机制与基本绘图是什么;命令机制与基本绘图怎么理解;命令机制与基本绘图有什么用;AutoCAD中命令机制与基本绘图怎么用;命令机制与基本绘图常见错误;命令机制与基本绘图操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握命令行、功能区、菜单、快捷别名和右键交互等命令启动与执行机制。",
+      "掌握命令行、功能区、菜单、快捷别名和右键交互等命令启动与执行机制。",
+      "用于道路工程制图或建模中的命令机制与基本绘图相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "命令机制与基本绘图是什么",
+      "命令机制与基本绘图怎么理解",
+      "命令机制与基本绘图有什么用",
+      "AutoCAD中命令机制与基本绘图怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_006",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "基本绘图命令",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握直线、多段线、圆弧、圆、样条曲线、多边形等绘图命令及适用场景。",
+    "core_explanation": "掌握直线、多段线、圆弧、圆、样条曲线、多边形等绘图命令及适用场景。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的基本绘图命令相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于基本绘图命令相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "基本绘图命令",
+      "DRAW",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "基本绘图命令是什么;基本绘图命令怎么理解;基本绘图命令有什么用;AutoCAD中基本绘图命令怎么用;基本绘图命令常见错误;基本绘图命令操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握直线、多段线、圆弧、圆、样条曲线、多边形等绘图命令及适用场景。",
+      "掌握直线、多段线、圆弧、圆、样条曲线、多边形等绘图命令及适用场景。",
+      "用于道路工程制图或建模中的基本绘图命令相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "基本绘图命令是什么",
+      "基本绘图命令怎么理解",
+      "基本绘图命令有什么用",
+      "AutoCAD中基本绘图命令怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_007",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "图形编辑与修改",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握选择、移动、复制、拉伸、旋转、镜像、缩放、修剪、延伸、圆角、阵列、删除和分解等操作。",
+    "core_explanation": "掌握选择、移动、复制、拉伸、旋转、镜像、缩放、修剪、延伸、圆角、阵列、删除和分解等操作。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的图形编辑与修改相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于图形编辑与修改相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "图形编辑与修改",
+      "EDIT",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图形编辑与修改是什么;图形编辑与修改怎么理解;图形编辑与修改有什么用;AutoCAD中图形编辑与修改怎么用;图形编辑与修改常见错误;图形编辑与修改操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握选择、移动、复制、拉伸、旋转、镜像、缩放、修剪、延伸、圆角、阵列、删除和分解等操作。",
+      "掌握选择、移动、复制、拉伸、旋转、镜像、缩放、修剪、延伸、圆角、阵列、删除和分解等操作。",
+      "用于道路工程制图或建模中的图形编辑与修改相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "图形编辑与修改是什么",
+      "图形编辑与修改怎么理解",
+      "图形编辑与修改有什么用",
+      "AutoCAD中图形编辑与修改怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_008",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "精确定位工具",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握捕捉、栅格、正交、极轴追踪和对象捕捉等绘图辅助工具。",
+    "core_explanation": "掌握捕捉、栅格、正交、极轴追踪和对象捕捉等绘图辅助工具。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的精确定位工具相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于精确定位工具相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "精确定位工具",
+      "PRECISION",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "精确定位工具是什么;精确定位工具怎么理解;精确定位工具有什么用;AutoCAD中精确定位工具怎么用;精确定位工具常见错误;精确定位工具操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握捕捉、栅格、正交、极轴追踪和对象捕捉等绘图辅助工具。",
+      "掌握捕捉、栅格、正交、极轴追踪和对象捕捉等绘图辅助工具。",
+      "用于道路工程制图或建模中的精确定位工具相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "精确定位工具是什么",
+      "精确定位工具怎么理解",
+      "精确定位工具有什么用",
+      "AutoCAD中精确定位工具怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_009",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "文字标注",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握文字样式、单行文字、多行文字和文本编辑规范。",
+    "core_explanation": "掌握文字样式、单行文字、多行文字和文本编辑规范。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的文字标注相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于文字标注相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "文字标注",
+      "TEXT",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "文字标注是什么;文字标注怎么理解;文字标注有什么用;AutoCAD中文字标注怎么用;文字标注常见错误;文字标注操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握文字样式、单行文字、多行文字和文本编辑规范。",
+      "掌握文字样式、单行文字、多行文字和文本编辑规范。",
+      "用于道路工程制图或建模中的文字标注相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "文字标注是什么",
+      "文字标注怎么理解",
+      "文字标注有什么用",
+      "AutoCAD中文字标注怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_010",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "尺寸标注",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握标注组成、标注样式、线性/对齐/半径/直径/角度标注及标注修改。",
+    "core_explanation": "掌握标注组成、标注样式、线性/对齐/半径/直径/角度标注及标注修改。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的尺寸标注相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于尺寸标注相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "尺寸标注",
+      "DIM",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "尺寸标注是什么;尺寸标注怎么理解;尺寸标注有什么用;AutoCAD中尺寸标注怎么用;尺寸标注常见错误;尺寸标注操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握标注组成、标注样式、线性/对齐/半径/直径/角度标注及标注修改。",
+      "掌握标注组成、标注样式、线性/对齐/半径/直径/角度标注及标注修改。",
+      "用于道路工程制图或建模中的尺寸标注相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "尺寸标注是什么",
+      "尺寸标注怎么理解",
+      "尺寸标注有什么用",
+      "AutoCAD中尺寸标注怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_011",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "图层管理",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握图层创建、颜色、线型、线宽、线型比例、开关、冻结、隔离、锁定等操作。",
+    "core_explanation": "掌握图层创建、颜色、线型、线宽、线型比例、开关、冻结、隔离、锁定等操作。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的图层管理相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于图层管理相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "图层管理",
+      "LAYER",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图层管理是什么;图层管理怎么理解;图层管理有什么用;AutoCAD中图层管理怎么用;图层管理常见错误;图层管理操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_002;ch06_src_003",
+    "status": "checked",
+    "key_points": [
+      "掌握图层创建、颜色、线型、线宽、线型比例、开关、冻结、隔离、锁定等操作。",
+      "掌握图层创建、颜色、线型、线宽、线型比例、开关、冻结、隔离、锁定等操作。",
+      "用于道路工程制图或建模中的图层管理相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "图层管理是什么",
+      "图层管理怎么理解",
+      "图层管理有什么用",
+      "AutoCAD中图层管理怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_002;ch06_src_003"
+  },
+  {
+    "kp_id": "kp_ch06_012",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "图块与属性块",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握块定义、插入、写块、块属性定义、编辑与管理。",
+    "core_explanation": "掌握块定义、插入、写块、块属性定义、编辑与管理。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的图块与属性块相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于图块与属性块相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "图块与属性块",
+      "BLOCK",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图块与属性块是什么;图块与属性块怎么理解;图块与属性块有什么用;AutoCAD中图块与属性块怎么用;图块与属性块常见错误;图块与属性块操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握块定义、插入、写块、块属性定义、编辑与管理。",
+      "掌握块定义、插入、写块、块属性定义、编辑与管理。",
+      "用于道路工程制图或建模中的图块与属性块相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "图块与属性块是什么",
+      "图块与属性块怎么理解",
+      "图块与属性块有什么用",
+      "AutoCAD中图块与属性块怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_013",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "三维绘图环境与观察",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握三维建模工作空间、UCS三维坐标、视觉样式、3DORBIT与VPOINT视点设置。",
+    "core_explanation": "掌握三维建模工作空间、UCS三维坐标、视觉样式、3DORBIT与VPOINT视点设置。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的三维绘图环境与观察相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于三维绘图环境与观察相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "三维绘图环境与观察",
+      "3DENV",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "三维绘图环境与观察是什么;三维绘图环境与观察怎么理解;三维绘图环境与观察有什么用;AutoCAD中三维绘图环境与观察怎么用;三维绘图环境与观察常见错误;三维绘图环境与观察操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握三维建模工作空间、UCS三维坐标、视觉样式、3DORBIT与VPOINT视点设置。",
+      "掌握三维建模工作空间、UCS三维坐标、视觉样式、3DORBIT与VPOINT视点设置。",
+      "用于道路工程制图或建模中的三维绘图环境与观察相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "三维绘图环境与观察是什么",
+      "三维绘图环境与观察怎么理解",
+      "三维绘图环境与观察有什么用",
+      "AutoCAD中三维绘图环境与观察怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_014",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "曲面模型创建",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握3DMESH、3DFACE、TABSURF、REVSURF、EDGESURF和ELEV等曲面或网格操作。",
+    "core_explanation": "掌握3DMESH、3DFACE、TABSURF、REVSURF、EDGESURF和ELEV等曲面或网格操作。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的曲面模型创建相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于曲面模型创建相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "曲面模型创建",
+      "SURF",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "曲面模型创建是什么;曲面模型创建怎么理解;曲面模型创建有什么用;AutoCAD中曲面模型创建怎么用;曲面模型创建常见错误;曲面模型创建操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握3DMESH、3DFACE、TABSURF、REVSURF、EDGESURF和ELEV等曲面或网格操作。",
+      "掌握3DMESH、3DFACE、TABSURF、REVSURF、EDGESURF和ELEV等曲面或网格操作。",
+      "用于道路工程制图或建模中的曲面模型创建相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "曲面模型创建是什么",
+      "曲面模型创建怎么理解",
+      "曲面模型创建有什么用",
+      "AutoCAD中曲面模型创建怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_015",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "实体模型创建与布尔运算",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "掌握BOX、CYLINDER、EXTRUDE、REVOLVE以及UNION、SUBTRACT、INTERSECT操作。",
+    "core_explanation": "掌握BOX、CYLINDER、EXTRUDE、REVOLVE以及UNION、SUBTRACT、INTERSECT操作。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的实体模型创建与布尔运算相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于实体模型创建与布尔运算相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "实体模型创建与布尔运算",
+      "SOLID",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "实体模型创建与布尔运算是什么;实体模型创建与布尔运算怎么理解;实体模型创建与布尔运算有什么用;AutoCAD中实体模型创建与布尔运算怎么用;实体模型创建与布尔运算常见错误;实体模型创建与布尔运算操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "掌握BOX、CYLINDER、EXTRUDE、REVOLVE以及UNION、SUBTRACT、INTERSECT操作。",
+      "掌握BOX、CYLINDER、EXTRUDE、REVOLVE以及UNION、SUBTRACT、INTERSECT操作。",
+      "用于道路工程制图或建模中的实体模型创建与布尔运算相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "实体模型创建与布尔运算是什么",
+      "实体模型创建与布尔运算怎么理解",
+      "实体模型创建与布尔运算有什么用",
+      "AutoCAD中实体模型创建与布尔运算怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_016",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "title": "道路横断面综合绘图实训",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "围绕图层、比例、线形、标注、块和边坡构造完成简易标准横断面绘图。",
+    "core_explanation": "围绕图层、比例、线形、标注、块和边坡构造完成简易标准横断面绘图。",
+    "plain_explanation": "可以把它理解为AutoCAD学习中的一个能力模块，学生需要知道它解决什么问题、用什么工具完成、结果如何检查。",
+    "engineering_meaning": "用于道路工程制图或建模中的道路横断面综合绘图实训相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。",
+    "application_scenario": "适用于道路横断面综合绘图实训相关的课堂讲解、上机操作、实训任务和错误排查。",
+    "common_mistakes": [
+      "只记命令名称而不理解适用场景",
+      "把软件界面操作等同于工程制图规范。"
+    ],
+    "correction_explanation": "应从操作目标、输入条件、执行步骤、参数设置、结果检查和常见错误六个方面理解。",
+    "answer_strategy": "先给出功能定位，再说明操作要点，最后补充道路工程应用场景。",
+    "answer_boundary": "回答应围绕教材第六章AutoCAD功能与操作展开，不扩展到未讲授的高级插件或行业二次开发细节。",
+    "keywords": [
+      "道路横断面综合绘图实训",
+      "PRACTICE",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "道路横断面综合绘图实训是什么;道路横断面综合绘图实训怎么理解;道路横断面综合绘图实训有什么用;AutoCAD中道路横断面综合绘图实训怎么用;道路横断面综合绘图实训常见错误;道路横断面综合绘图实训操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "围绕图层、比例、线形、标注、块和边坡构造完成简易标准横断面绘图。",
+      "围绕图层、比例、线形、标注、块和边坡构造完成简易标准横断面绘图。",
+      "用于道路工程制图或建模中的道路横断面综合绘图实训相关操作，支撑标准图纸绘制、成果输出和后续专业软件应用。"
+    ],
+    "aliases": [
+      "道路横断面综合绘图实训是什么",
+      "道路横断面综合绘图实训怎么理解",
+      "道路横断面综合绘图实训有什么用",
+      "AutoCAD中道路横断面综合绘图实训怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_017",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "绘制直线（LINE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "绘制直线是AutoCAD命令“LINE”的功能对象，通过起点和后续点绘制单段或连续直线，可用C闭合、U撤销最后一段。",
+    "core_explanation": "通过起点和后续点绘制单段或连续直线，可用C闭合、U撤销最后一段。",
+    "plain_explanation": "使用LINE命令可以完成“绘制直线”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，绘制道路中心线、横断面线段、构造辅助线。",
+    "application_scenario": "绘制道路中心线、横断面线段、构造辅助线",
+    "common_mistakes": [
+      "忘记闭合或坐标输入格式错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "LINE",
+      "L",
+      "绘制直线",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘制直线（LINE）是什么;绘制直线（LINE）怎么理解;绘制直线（LINE）有什么用;AutoCAD中绘制直线（LINE）怎么用;绘制直线（LINE）常见错误;绘制直线（LINE）操作步骤",
+    "evidence_chunks": "ch06_src_010;ch06_src_026;ch06_src_027",
+    "status": "checked",
+    "key_points": [
+      "绘制直线是AutoCAD命令“LINE”的功能对象，通过起点和后续点绘制单段或连续直线，可用C闭合、U撤销最后一段。",
+      "通过起点和后续点绘制单段或连续直线，可用C闭合、U撤销最后一段。",
+      "在道路工程制图中，绘制道路中心线、横断面线段、构造辅助线。"
+    ],
+    "aliases": [
+      "绘制直线（LINE）是什么",
+      "绘制直线（LINE）怎么理解",
+      "绘制直线（LINE）有什么用",
+      "AutoCAD中绘制直线（LINE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_010;ch06_src_026;ch06_src_027"
+  },
+  {
+    "kp_id": "kp_ch06_018",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "绘制多段线（PLINE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "绘制多段线是AutoCAD命令“PLINE”的功能对象，生成由直线段和圆弧段组成的复合对象，可设置宽度、半宽、闭合等。",
+    "core_explanation": "生成由直线段和圆弧段组成的复合对象，可设置宽度、半宽、闭合等。",
+    "plain_explanation": "使用PLINE命令可以完成“绘制多段线”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，绘制封闭断面、边界线、跑道形轮廓。",
+    "application_scenario": "绘制封闭断面、边界线、跑道形轮廓",
+    "common_mistakes": [
+      "把多段线误认为多条普通线，后续偏移或编辑不便"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "PLINE",
+      "PL",
+      "绘制多段线",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘制多段线（PLINE）是什么;绘制多段线（PLINE）怎么理解;绘制多段线（PLINE）有什么用;AutoCAD中绘制多段线（PLINE）怎么用;绘制多段线（PLINE）常见错误;绘制多段线（PLINE）操作步骤",
+    "evidence_chunks": "ch06_src_039;ch06_src_040;ch06_src_049",
+    "status": "checked",
+    "key_points": [
+      "绘制多段线是AutoCAD命令“PLINE”的功能对象，生成由直线段和圆弧段组成的复合对象，可设置宽度、半宽、闭合等。",
+      "生成由直线段和圆弧段组成的复合对象，可设置宽度、半宽、闭合等。",
+      "在道路工程制图中，绘制封闭断面、边界线、跑道形轮廓。"
+    ],
+    "aliases": [
+      "绘制多段线（PLINE）是什么",
+      "绘制多段线（PLINE）怎么理解",
+      "绘制多段线（PLINE）有什么用",
+      "AutoCAD中绘制多段线（PLINE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_039;ch06_src_040;ch06_src_049"
+  },
+  {
+    "kp_id": "kp_ch06_019",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "绘制圆弧（ARC）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "绘制圆弧是AutoCAD命令“ARC”的功能对象，通过三点、起点-圆心-端点等多种方式绘制圆弧，默认按逆时针方向。",
+    "core_explanation": "通过三点、起点-圆心-端点等多种方式绘制圆弧，默认按逆时针方向。",
+    "plain_explanation": "使用ARC命令可以完成“绘制圆弧”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，绘制圆弧构造线、路缘圆角、构造物圆角。",
+    "application_scenario": "绘制圆弧构造线、路缘圆角、构造物圆角",
+    "common_mistakes": [
+      "点选顺序错误导致圆弧方向不符合预期"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "ARC",
+      "A",
+      "绘制圆弧",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘制圆弧（ARC）是什么;绘制圆弧（ARC）怎么理解;绘制圆弧（ARC）有什么用;AutoCAD中绘制圆弧（ARC）怎么用;绘制圆弧（ARC）常见错误;绘制圆弧（ARC）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "绘制圆弧是AutoCAD命令“ARC”的功能对象，通过三点、起点-圆心-端点等多种方式绘制圆弧，默认按逆时针方向。",
+      "通过三点、起点-圆心-端点等多种方式绘制圆弧，默认按逆时针方向。",
+      "在道路工程制图中，绘制圆弧构造线、路缘圆角、构造物圆角。"
+    ],
+    "aliases": [
+      "绘制圆弧（ARC）是什么",
+      "绘制圆弧（ARC）怎么理解",
+      "绘制圆弧（ARC）有什么用",
+      "AutoCAD中绘制圆弧（ARC）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_020",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "绘制圆（CIRCLE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "绘制圆是AutoCAD命令“CIRCLE”的功能对象，按圆心半径、三点、两点、相切相切半径等方式绘制圆。",
+    "core_explanation": "按圆心半径、三点、两点、相切相切半径等方式绘制圆。",
+    "plain_explanation": "使用CIRCLE命令可以完成“绘制圆”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，绘制检查井、桩号点、圆形构件示意。",
+    "application_scenario": "绘制检查井、桩号点、圆形构件示意",
+    "common_mistakes": [
+      "相切条件无解或半径设置不合理"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "CIRCLE",
+      "C",
+      "绘制圆",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘制圆（CIRCLE）是什么;绘制圆（CIRCLE）怎么理解;绘制圆（CIRCLE）有什么用;AutoCAD中绘制圆（CIRCLE）怎么用;绘制圆（CIRCLE）常见错误;绘制圆（CIRCLE）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "绘制圆是AutoCAD命令“CIRCLE”的功能对象，按圆心半径、三点、两点、相切相切半径等方式绘制圆。",
+      "按圆心半径、三点、两点、相切相切半径等方式绘制圆。",
+      "在道路工程制图中，绘制检查井、桩号点、圆形构件示意。"
+    ],
+    "aliases": [
+      "绘制圆（CIRCLE）是什么",
+      "绘制圆（CIRCLE）怎么理解",
+      "绘制圆（CIRCLE）有什么用",
+      "AutoCAD中绘制圆（CIRCLE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_021",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "绘制样条曲线（SPLINE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "绘制样条曲线是AutoCAD命令“SPLINE”的功能对象，采用NURBS创建光滑不规则曲线，可通过拟合点或控制点定义形态。",
+    "core_explanation": "采用NURBS创建光滑不规则曲线，可通过拟合点或控制点定义形态。",
+    "plain_explanation": "使用SPLINE命令可以完成“绘制样条曲线”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，表达自然曲线、景观边界、非规则线形。",
+    "application_scenario": "表达自然曲线、景观边界、非规则线形",
+    "common_mistakes": [
+      "控制点过多导致曲线不易维护"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "SPLINE",
+      "SPL",
+      "绘制样条曲线",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘制样条曲线（SPLINE）是什么;绘制样条曲线（SPLINE）怎么理解;绘制样条曲线（SPLINE）有什么用;AutoCAD中绘制样条曲线（SPLINE）怎么用;绘制样条曲线（SPLINE）常见错误;绘制样条曲线（SPLINE）操作步骤",
+    "evidence_chunks": "ch06_src_049",
+    "status": "checked",
+    "key_points": [
+      "绘制样条曲线是AutoCAD命令“SPLINE”的功能对象，采用NURBS创建光滑不规则曲线，可通过拟合点或控制点定义形态。",
+      "采用NURBS创建光滑不规则曲线，可通过拟合点或控制点定义形态。",
+      "在道路工程制图中，表达自然曲线、景观边界、非规则线形。"
+    ],
+    "aliases": [
+      "绘制样条曲线（SPLINE）是什么",
+      "绘制样条曲线（SPLINE）怎么理解",
+      "绘制样条曲线（SPLINE）有什么用",
+      "AutoCAD中绘制样条曲线（SPLINE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_049"
+  },
+  {
+    "kp_id": "kp_ch06_022",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "绘制正多边形（POLYGON）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "绘制正多边形是AutoCAD命令“POLYGON”的功能对象，绘制3到1024边的闭合多义线，可按中心内接/外切或指定边绘制。",
+    "core_explanation": "绘制3到1024边的闭合多义线，可按中心内接/外切或指定边绘制。",
+    "plain_explanation": "使用POLYGON命令可以完成“绘制正多边形”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，绘制六边形符号、构造辅助图形。",
+    "application_scenario": "绘制六边形符号、构造辅助图形",
+    "common_mistakes": [
+      "混淆内接与外切半径"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "POLYGON",
+      "POL",
+      "绘制正多边形",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘制正多边形（POLYGON）是什么;绘制正多边形（POLYGON）怎么理解;绘制正多边形（POLYGON）有什么用;AutoCAD中绘制正多边形（POLYGON）怎么用;绘制正多边形（POLYGON）常见错误;绘制正多边形（POLYGON）操作步骤",
+    "evidence_chunks": "ch06_src_050;ch06_src_052;ch06_src_053",
+    "status": "checked",
+    "key_points": [
+      "绘制正多边形是AutoCAD命令“POLYGON”的功能对象，绘制3到1024边的闭合多义线，可按中心内接/外切或指定边绘制。",
+      "绘制3到1024边的闭合多义线，可按中心内接/外切或指定边绘制。",
+      "在道路工程制图中，绘制六边形符号、构造辅助图形。"
+    ],
+    "aliases": [
+      "绘制正多边形（POLYGON）是什么",
+      "绘制正多边形（POLYGON）怎么理解",
+      "绘制正多边形（POLYGON）有什么用",
+      "AutoCAD中绘制正多边形（POLYGON）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_050;ch06_src_052;ch06_src_053"
+  },
+  {
+    "kp_id": "kp_ch06_023",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "绘制矩形（RECTANGLE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "绘制矩形是AutoCAD命令“RECTANGLE”的功能对象，通过两个对角点或尺寸创建矩形对象。",
+    "core_explanation": "通过两个对角点或尺寸创建矩形对象。",
+    "plain_explanation": "使用RECTANGLE命令可以完成“绘制矩形”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，绘制图框、构件外轮廓、表格框线。",
+    "application_scenario": "绘制图框、构件外轮廓、表格框线",
+    "common_mistakes": [
+      "未控制尺寸导致比例不规范"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "RECTANGLE",
+      "REC",
+      "绘制矩形",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "绘制矩形（RECTANGLE）是什么;绘制矩形（RECTANGLE）怎么理解;绘制矩形（RECTANGLE）有什么用;AutoCAD中绘制矩形（RECTANGLE）怎么用;绘制矩形（RECTANGLE）常见错误;绘制矩形（RECTANGLE）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "绘制矩形是AutoCAD命令“RECTANGLE”的功能对象，通过两个对角点或尺寸创建矩形对象。",
+      "通过两个对角点或尺寸创建矩形对象。",
+      "在道路工程制图中，绘制图框、构件外轮廓、表格框线。"
+    ],
+    "aliases": [
+      "绘制矩形（RECTANGLE）是什么",
+      "绘制矩形（RECTANGLE）怎么理解",
+      "绘制矩形（RECTANGLE）有什么用",
+      "AutoCAD中绘制矩形（RECTANGLE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_024",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "图案填充（HATCH）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "图案填充是AutoCAD命令“HATCH”的功能对象，对封闭区域填充图案或颜色，用于表达材料或剖面区域。",
+    "core_explanation": "对封闭区域填充图案或颜色，用于表达材料或剖面区域。",
+    "plain_explanation": "使用HATCH命令可以完成“图案填充”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，横断面填挖区域、结构层材料表达。",
+    "application_scenario": "横断面填挖区域、结构层材料表达",
+    "common_mistakes": [
+      "边界不闭合导致填充失败"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "HATCH",
+      "H",
+      "图案填充",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图案填充（HATCH）是什么;图案填充（HATCH）怎么理解;图案填充（HATCH）有什么用;AutoCAD中图案填充（HATCH）怎么用;图案填充（HATCH）常见错误;图案填充（HATCH）操作步骤",
+    "evidence_chunks": "ch06_src_006;ch06_src_040;ch06_src_067",
+    "status": "checked",
+    "key_points": [
+      "图案填充是AutoCAD命令“HATCH”的功能对象，对封闭区域填充图案或颜色，用于表达材料或剖面区域。",
+      "对封闭区域填充图案或颜色，用于表达材料或剖面区域。",
+      "在道路工程制图中，横断面填挖区域、结构层材料表达。"
+    ],
+    "aliases": [
+      "图案填充（HATCH）是什么",
+      "图案填充（HATCH）怎么理解",
+      "图案填充（HATCH）有什么用",
+      "AutoCAD中图案填充（HATCH）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_006;ch06_src_040;ch06_src_067"
+  },
+  {
+    "kp_id": "kp_ch06_025",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "偏移对象（OFFSET）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "偏移对象是AutoCAD命令“OFFSET”的功能对象，按指定距离生成平行或同心对象。",
+    "core_explanation": "按指定距离生成平行或同心对象。",
+    "plain_explanation": "使用OFFSET命令可以完成“偏移对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，偏移道路边线、路肩线、图框线。",
+    "application_scenario": "偏移道路边线、路肩线、图框线",
+    "common_mistakes": [
+      "偏移方向和距离单位错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "OFFSET",
+      "O",
+      "偏移对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "偏移对象（OFFSET）是什么;偏移对象（OFFSET）怎么理解;偏移对象（OFFSET）有什么用;AutoCAD中偏移对象（OFFSET）怎么用;偏移对象（OFFSET）常见错误;偏移对象（OFFSET）操作步骤",
+    "evidence_chunks": "ch06_src_005;ch06_src_010;ch06_src_012",
+    "status": "checked",
+    "key_points": [
+      "偏移对象是AutoCAD命令“OFFSET”的功能对象，按指定距离生成平行或同心对象。",
+      "按指定距离生成平行或同心对象。",
+      "在道路工程制图中，偏移道路边线、路肩线、图框线。"
+    ],
+    "aliases": [
+      "偏移对象（OFFSET）是什么",
+      "偏移对象（OFFSET）怎么理解",
+      "偏移对象（OFFSET）有什么用",
+      "AutoCAD中偏移对象（OFFSET）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_005;ch06_src_010;ch06_src_012"
+  },
+  {
+    "kp_id": "kp_ch06_026",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "移动对象（MOVE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "移动对象是AutoCAD命令“MOVE”的功能对象，选择对象后指定基点与第二点或位移向量。",
+    "core_explanation": "选择对象后指定基点与第二点或位移向量。",
+    "plain_explanation": "使用MOVE命令可以完成“移动对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，调整图形位置、移动标注或构件。",
+    "application_scenario": "调整图形位置、移动标注或构件",
+    "common_mistakes": [
+      "基点选择不准确导致错位"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "MOVE",
+      "M",
+      "移动对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "移动对象（MOVE）是什么;移动对象（MOVE）怎么理解;移动对象（MOVE）有什么用;AutoCAD中移动对象（MOVE）怎么用;移动对象（MOVE）常见错误;移动对象（MOVE）操作步骤",
+    "evidence_chunks": "ch06_src_020;ch06_src_049;ch06_src_061",
+    "status": "checked",
+    "key_points": [
+      "移动对象是AutoCAD命令“MOVE”的功能对象，选择对象后指定基点与第二点或位移向量。",
+      "选择对象后指定基点与第二点或位移向量。",
+      "在道路工程制图中，调整图形位置、移动标注或构件。"
+    ],
+    "aliases": [
+      "移动对象（MOVE）是什么",
+      "移动对象（MOVE）怎么理解",
+      "移动对象（MOVE）有什么用",
+      "AutoCAD中移动对象（MOVE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_020;ch06_src_049;ch06_src_061"
+  },
+  {
+    "kp_id": "kp_ch06_027",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "复制对象（COPY）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "复制对象是AutoCAD命令“COPY”的功能对象，按基点和目标点复制对象，可连续复制。",
+    "core_explanation": "按基点和目标点复制对象，可连续复制。",
+    "plain_explanation": "使用COPY命令可以完成“复制对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，重复布置构造符号、复制断面元素。",
+    "application_scenario": "重复布置构造符号、复制断面元素",
+    "common_mistakes": [
+      "误用位移导致复制距离异常"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "COPY",
+      "CO",
+      "复制对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "复制对象（COPY）是什么;复制对象（COPY）怎么理解;复制对象（COPY）有什么用;AutoCAD中复制对象（COPY）怎么用;复制对象（COPY）常见错误;复制对象（COPY）操作步骤",
+    "evidence_chunks": "ch06_src_063",
+    "status": "checked",
+    "key_points": [
+      "复制对象是AutoCAD命令“COPY”的功能对象，按基点和目标点复制对象，可连续复制。",
+      "按基点和目标点复制对象，可连续复制。",
+      "在道路工程制图中，重复布置构造符号、复制断面元素。"
+    ],
+    "aliases": [
+      "复制对象（COPY）是什么",
+      "复制对象（COPY）怎么理解",
+      "复制对象（COPY）有什么用",
+      "AutoCAD中复制对象（COPY）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_063"
+  },
+  {
+    "kp_id": "kp_ch06_028",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "拉伸对象（STRETCH）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "拉伸对象是AutoCAD命令“STRETCH”的功能对象，用交叉窗口选择部分对象后移动定义点，实现局部拉伸。",
+    "core_explanation": "用交叉窗口选择部分对象后移动定义点，实现局部拉伸。",
+    "plain_explanation": "使用STRETCH命令可以完成“拉伸对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，调整横断面宽度、局部边界。",
+    "application_scenario": "调整横断面宽度、局部边界",
+    "common_mistakes": [
+      "全选对象导致整体移动而非拉伸"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "STRETCH",
+      "S",
+      "拉伸对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "拉伸对象（STRETCH）是什么;拉伸对象（STRETCH）怎么理解;拉伸对象（STRETCH）有什么用;AutoCAD中拉伸对象（STRETCH）怎么用;拉伸对象（STRETCH）常见错误;拉伸对象（STRETCH）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_005;ch06_src_010",
+    "status": "checked",
+    "key_points": [
+      "拉伸对象是AutoCAD命令“STRETCH”的功能对象，用交叉窗口选择部分对象后移动定义点，实现局部拉伸。",
+      "用交叉窗口选择部分对象后移动定义点，实现局部拉伸。",
+      "在道路工程制图中，调整横断面宽度、局部边界。"
+    ],
+    "aliases": [
+      "拉伸对象（STRETCH）是什么",
+      "拉伸对象（STRETCH）怎么理解",
+      "拉伸对象（STRETCH）有什么用",
+      "AutoCAD中拉伸对象（STRETCH）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_005;ch06_src_010"
+  },
+  {
+    "kp_id": "kp_ch06_029",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "旋转对象（ROTATE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "旋转对象是AutoCAD命令“ROTATE”的功能对象，以基点旋转对象，可按角度或参照方式旋转。",
+    "core_explanation": "以基点旋转对象，可按角度或参照方式旋转。",
+    "plain_explanation": "使用ROTATE命令可以完成“旋转对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，旋转指北针、构件符号、斜交元素。",
+    "application_scenario": "旋转指北针、构件符号、斜交元素",
+    "common_mistakes": [
+      "基点选错或角度方向理解错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "ROTATE",
+      "RO",
+      "旋转对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "旋转对象（ROTATE）是什么;旋转对象（ROTATE）怎么理解;旋转对象（ROTATE）有什么用;AutoCAD中旋转对象（ROTATE）怎么用;旋转对象（ROTATE）常见错误;旋转对象（ROTATE）操作步骤",
+    "evidence_chunks": "ch06_src_069;ch06_src_070;ch06_src_073",
+    "status": "checked",
+    "key_points": [
+      "旋转对象是AutoCAD命令“ROTATE”的功能对象，以基点旋转对象，可按角度或参照方式旋转。",
+      "以基点旋转对象，可按角度或参照方式旋转。",
+      "在道路工程制图中，旋转指北针、构件符号、斜交元素。"
+    ],
+    "aliases": [
+      "旋转对象（ROTATE）是什么",
+      "旋转对象（ROTATE）怎么理解",
+      "旋转对象（ROTATE）有什么用",
+      "AutoCAD中旋转对象（ROTATE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_069;ch06_src_070;ch06_src_073"
+  },
+  {
+    "kp_id": "kp_ch06_030",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "镜像对象（MIRROR）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "镜像对象是AutoCAD命令“MIRROR”的功能对象，沿镜像线生成轴对称对象，可保留或删除源对象。",
+    "core_explanation": "沿镜像线生成轴对称对象，可保留或删除源对象。",
+    "plain_explanation": "使用MIRROR命令可以完成“镜像对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，绘制对称横断面、左右构件。",
+    "application_scenario": "绘制对称横断面、左右构件",
+    "common_mistakes": [
+      "MIRRTEXT设置导致文字反向"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "MIRROR",
+      "MI",
+      "镜像对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "镜像对象（MIRROR）是什么;镜像对象（MIRROR）怎么理解;镜像对象（MIRROR）有什么用;AutoCAD中镜像对象（MIRROR）怎么用;镜像对象（MIRROR）常见错误;镜像对象（MIRROR）操作步骤",
+    "evidence_chunks": "ch06_src_072;ch06_src_073;ch06_src_074",
+    "status": "checked",
+    "key_points": [
+      "镜像对象是AutoCAD命令“MIRROR”的功能对象，沿镜像线生成轴对称对象，可保留或删除源对象。",
+      "沿镜像线生成轴对称对象，可保留或删除源对象。",
+      "在道路工程制图中，绘制对称横断面、左右构件。"
+    ],
+    "aliases": [
+      "镜像对象（MIRROR）是什么",
+      "镜像对象（MIRROR）怎么理解",
+      "镜像对象（MIRROR）有什么用",
+      "AutoCAD中镜像对象（MIRROR）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_072;ch06_src_073;ch06_src_074"
+  },
+  {
+    "kp_id": "kp_ch06_031",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "缩放对象（SCALE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "缩放对象是AutoCAD命令“SCALE”的功能对象，按基点和比例因子或参照长度成比例缩放。",
+    "core_explanation": "按基点和比例因子或参照长度成比例缩放。",
+    "plain_explanation": "使用SCALE命令可以完成“缩放对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，调整符号、块和图形比例。",
+    "application_scenario": "调整符号、块和图形比例",
+    "common_mistakes": [
+      "比例单位不一致导致尺寸失真"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "SCALE",
+      "SC",
+      "缩放对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "缩放对象（SCALE）是什么;缩放对象（SCALE）怎么理解;缩放对象（SCALE）有什么用;AutoCAD中缩放对象（SCALE）怎么用;缩放对象（SCALE）常见错误;缩放对象（SCALE）操作步骤",
+    "evidence_chunks": "ch06_src_010;ch06_src_074;ch06_src_075",
+    "status": "checked",
+    "key_points": [
+      "缩放对象是AutoCAD命令“SCALE”的功能对象，按基点和比例因子或参照长度成比例缩放。",
+      "按基点和比例因子或参照长度成比例缩放。",
+      "在道路工程制图中，调整符号、块和图形比例。"
+    ],
+    "aliases": [
+      "缩放对象（SCALE）是什么",
+      "缩放对象（SCALE）怎么理解",
+      "缩放对象（SCALE）有什么用",
+      "AutoCAD中缩放对象（SCALE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_010;ch06_src_074;ch06_src_075"
+  },
+  {
+    "kp_id": "kp_ch06_032",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "修剪对象（TRIM）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "修剪对象是AutoCAD命令“TRIM”的功能对象，以边界对象为剪切边，删除多余部分。",
+    "core_explanation": "以边界对象为剪切边，删除多余部分。",
+    "plain_explanation": "使用TRIM命令可以完成“修剪对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，修剪相交线、边坡与地面交点。",
+    "application_scenario": "修剪相交线、边坡与地面交点",
+    "common_mistakes": [
+      "剪切边未选或投影方式错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "TRIM",
+      "TR",
+      "修剪对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "修剪对象（TRIM）是什么;修剪对象（TRIM）怎么理解;修剪对象（TRIM）有什么用;AutoCAD中修剪对象（TRIM）怎么用;修剪对象（TRIM）常见错误;修剪对象（TRIM）操作步骤",
+    "evidence_chunks": "ch06_src_048;ch06_src_067;ch06_src_076",
+    "status": "checked",
+    "key_points": [
+      "修剪对象是AutoCAD命令“TRIM”的功能对象，以边界对象为剪切边，删除多余部分。",
+      "以边界对象为剪切边，删除多余部分。",
+      "在道路工程制图中，修剪相交线、边坡与地面交点。"
+    ],
+    "aliases": [
+      "修剪对象（TRIM）是什么",
+      "修剪对象（TRIM）怎么理解",
+      "修剪对象（TRIM）有什么用",
+      "AutoCAD中修剪对象（TRIM）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_048;ch06_src_067;ch06_src_076"
+  },
+  {
+    "kp_id": "kp_ch06_033",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "延伸对象（EXTEND）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "延伸对象是AutoCAD命令“EXTEND”的功能对象，将对象延伸到指定边界。",
+    "core_explanation": "将对象延伸到指定边界。",
+    "plain_explanation": "使用EXTEND命令可以完成“延伸对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，延长线段到边界、闭合构造线。",
+    "application_scenario": "延长线段到边界、闭合构造线",
+    "common_mistakes": [
+      "边界对象不合适导致无法延伸"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "EXTEND",
+      "EX",
+      "延伸对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "延伸对象（EXTEND）是什么;延伸对象（EXTEND）怎么理解;延伸对象（EXTEND）有什么用;AutoCAD中延伸对象（EXTEND）怎么用;延伸对象（EXTEND）常见错误;延伸对象（EXTEND）操作步骤",
+    "evidence_chunks": "ch06_src_039;ch06_src_074;ch06_src_078",
+    "status": "checked",
+    "key_points": [
+      "延伸对象是AutoCAD命令“EXTEND”的功能对象，将对象延伸到指定边界。",
+      "将对象延伸到指定边界。",
+      "在道路工程制图中，延长线段到边界、闭合构造线。"
+    ],
+    "aliases": [
+      "延伸对象（EXTEND）是什么",
+      "延伸对象（EXTEND）怎么理解",
+      "延伸对象（EXTEND）有什么用",
+      "AutoCAD中延伸对象（EXTEND）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_039;ch06_src_074;ch06_src_078"
+  },
+  {
+    "kp_id": "kp_ch06_034",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "圆角连接（FILLET）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "圆角连接是AutoCAD命令“FILLET”的功能对象，用指定半径圆弧光滑连接两个对象，可选择是否修剪。",
+    "core_explanation": "用指定半径圆弧光滑连接两个对象，可选择是否修剪。",
+    "plain_explanation": "使用FILLET命令可以完成“圆角连接”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，路缘转角、构造圆角。",
+    "application_scenario": "路缘转角、构造圆角",
+    "common_mistakes": [
+      "半径未设置或对象不相交"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "FILLET",
+      "F",
+      "圆角连接",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "圆角连接（FILLET）是什么;圆角连接（FILLET）怎么理解;圆角连接（FILLET）有什么用;AutoCAD中圆角连接（FILLET）怎么用;圆角连接（FILLET）常见错误;圆角连接（FILLET）操作步骤",
+    "evidence_chunks": "ch06_src_005;ch06_src_010;ch06_src_026",
+    "status": "checked",
+    "key_points": [
+      "圆角连接是AutoCAD命令“FILLET”的功能对象，用指定半径圆弧光滑连接两个对象，可选择是否修剪。",
+      "用指定半径圆弧光滑连接两个对象，可选择是否修剪。",
+      "在道路工程制图中，路缘转角、构造圆角。"
+    ],
+    "aliases": [
+      "圆角连接（FILLET）是什么",
+      "圆角连接（FILLET）怎么理解",
+      "圆角连接（FILLET）有什么用",
+      "AutoCAD中圆角连接（FILLET）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_005;ch06_src_010;ch06_src_026"
+  },
+  {
+    "kp_id": "kp_ch06_035",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "阵列对象（ARRAY）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "阵列对象是AutoCAD命令“ARRAY”的功能对象，按矩形、路径或环形方式复制排列对象。",
+    "core_explanation": "按矩形、路径或环形方式复制排列对象。",
+    "plain_explanation": "使用ARRAY命令可以完成“阵列对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，等距布置桩号点、符号、栏杆。",
+    "application_scenario": "等距布置桩号点、符号、栏杆",
+    "common_mistakes": [
+      "阵列类型或间距参数设置错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "ARRAY",
+      "AR",
+      "阵列对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "阵列对象（ARRAY）是什么;阵列对象（ARRAY）怎么理解;阵列对象（ARRAY）有什么用;AutoCAD中阵列对象（ARRAY）怎么用;阵列对象（ARRAY）常见错误;阵列对象（ARRAY）操作步骤",
+    "evidence_chunks": "ch06_src_010;ch06_src_041;ch06_src_042",
+    "status": "checked",
+    "key_points": [
+      "阵列对象是AutoCAD命令“ARRAY”的功能对象，按矩形、路径或环形方式复制排列对象。",
+      "按矩形、路径或环形方式复制排列对象。",
+      "在道路工程制图中，等距布置桩号点、符号、栏杆。"
+    ],
+    "aliases": [
+      "阵列对象（ARRAY）是什么",
+      "阵列对象（ARRAY）怎么理解",
+      "阵列对象（ARRAY）有什么用",
+      "AutoCAD中阵列对象（ARRAY）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_010;ch06_src_041;ch06_src_042"
+  },
+  {
+    "kp_id": "kp_ch06_036",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "删除对象（ERASE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "删除对象是AutoCAD命令“ERASE”的功能对象，删除选定对象，可用UNDO恢复误删。",
+    "core_explanation": "删除选定对象，可用UNDO恢复误删。",
+    "plain_explanation": "使用ERASE命令可以完成“删除对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，清除错误图元、辅助线。",
+    "application_scenario": "清除错误图元、辅助线",
+    "common_mistakes": [
+      "误选对象导致重要图元被删除"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "ERASE",
+      "E",
+      "删除对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "删除对象（ERASE）是什么;删除对象（ERASE）怎么理解;删除对象（ERASE）有什么用;AutoCAD中删除对象（ERASE）怎么用;删除对象（ERASE）常见错误;删除对象（ERASE）操作步骤",
+    "evidence_chunks": "ch06_src_038;ch06_src_039;ch06_src_040",
+    "status": "checked",
+    "key_points": [
+      "删除对象是AutoCAD命令“ERASE”的功能对象，删除选定对象，可用UNDO恢复误删。",
+      "删除选定对象，可用UNDO恢复误删。",
+      "在道路工程制图中，清除错误图元、辅助线。"
+    ],
+    "aliases": [
+      "删除对象（ERASE）是什么",
+      "删除对象（ERASE）怎么理解",
+      "删除对象（ERASE）有什么用",
+      "AutoCAD中删除对象（ERASE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_038;ch06_src_039;ch06_src_040"
+  },
+  {
+    "kp_id": "kp_ch06_037",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "分解对象（EXPLODE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "分解对象是AutoCAD命令“EXPLODE”的功能对象，将块、多段线等复合对象分解为基本部件。",
+    "core_explanation": "将块、多段线等复合对象分解为基本部件。",
+    "plain_explanation": "使用EXPLODE命令可以完成“分解对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，局部修改块或复合对象。",
+    "application_scenario": "局部修改块或复合对象",
+    "common_mistakes": [
+      "分解后丢失整体管理能力"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "EXPLODE",
+      "X",
+      "分解对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "分解对象（EXPLODE）是什么;分解对象（EXPLODE）怎么理解;分解对象（EXPLODE）有什么用;AutoCAD中分解对象（EXPLODE）怎么用;分解对象（EXPLODE）常见错误;分解对象（EXPLODE）操作步骤",
+    "evidence_chunks": "ch06_src_005;ch06_src_008;ch06_src_010",
+    "status": "checked",
+    "key_points": [
+      "分解对象是AutoCAD命令“EXPLODE”的功能对象，将块、多段线等复合对象分解为基本部件。",
+      "将块、多段线等复合对象分解为基本部件。",
+      "在道路工程制图中，局部修改块或复合对象。"
+    ],
+    "aliases": [
+      "分解对象（EXPLODE）是什么",
+      "分解对象（EXPLODE）怎么理解",
+      "分解对象（EXPLODE）有什么用",
+      "AutoCAD中分解对象（EXPLODE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_005;ch06_src_008;ch06_src_010"
+  },
+  {
+    "kp_id": "kp_ch06_038",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "定距等分对象（MEASURE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "定距等分对象是AutoCAD命令“MEASURE”的功能对象，按指定间距沿对象放置点或块。",
+    "core_explanation": "按指定间距沿对象放置点或块。",
+    "plain_explanation": "使用MEASURE命令可以完成“定距等分对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，沿线布设等距标记。",
+    "application_scenario": "沿线布设等距标记",
+    "common_mistakes": [
+      "最后一段长度可能小于指定间距"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "MEASURE",
+      "ME",
+      "定距等分对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "定距等分对象（MEASURE）是什么;定距等分对象（MEASURE）怎么理解;定距等分对象（MEASURE）有什么用;AutoCAD中定距等分对象（MEASURE）怎么用;定距等分对象（MEASURE）常见错误;定距等分对象（MEASURE）操作步骤",
+    "evidence_chunks": "ch06_src_096;ch06_src_097;ch06_src_099",
+    "status": "checked",
+    "key_points": [
+      "定距等分对象是AutoCAD命令“MEASURE”的功能对象，按指定间距沿对象放置点或块。",
+      "按指定间距沿对象放置点或块。",
+      "在道路工程制图中，沿线布设等距标记。"
+    ],
+    "aliases": [
+      "定距等分对象（MEASURE）是什么",
+      "定距等分对象（MEASURE）怎么理解",
+      "定距等分对象（MEASURE）有什么用",
+      "AutoCAD中定距等分对象（MEASURE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_096;ch06_src_097;ch06_src_099"
+  },
+  {
+    "kp_id": "kp_ch06_039",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "定数等分对象（DIVIDE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "定数等分对象是AutoCAD命令“DIVIDE”的功能对象，按指定数量沿对象等分放置点或块。",
+    "core_explanation": "按指定数量沿对象等分放置点或块。",
+    "plain_explanation": "使用DIVIDE命令可以完成“定数等分对象”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，桩号或构件分布示意。",
+    "application_scenario": "桩号或构件分布示意",
+    "common_mistakes": [
+      "不会真正把对象切成多个独立对象"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "DIVIDE",
+      "DIV",
+      "定数等分对象",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "定数等分对象（DIVIDE）是什么;定数等分对象（DIVIDE）怎么理解;定数等分对象（DIVIDE）有什么用;AutoCAD中定数等分对象（DIVIDE）怎么用;定数等分对象（DIVIDE）常见错误;定数等分对象（DIVIDE）操作步骤",
+    "evidence_chunks": "ch06_src_096;ch06_src_100",
+    "status": "checked",
+    "key_points": [
+      "定数等分对象是AutoCAD命令“DIVIDE”的功能对象，按指定数量沿对象等分放置点或块。",
+      "按指定数量沿对象等分放置点或块。",
+      "在道路工程制图中，桩号或构件分布示意。"
+    ],
+    "aliases": [
+      "定数等分对象（DIVIDE）是什么",
+      "定数等分对象（DIVIDE）怎么理解",
+      "定数等分对象（DIVIDE）有什么用",
+      "AutoCAD中定数等分对象（DIVIDE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_096;ch06_src_100"
+  },
+  {
+    "kp_id": "kp_ch06_040",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "单行文字（TEXT）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "单行文字是AutoCAD命令“TEXT”的功能对象，创建短文本注释，可设置起点、高度和旋转角。",
+    "core_explanation": "创建短文本注释，可设置起点、高度和旋转角。",
+    "plain_explanation": "使用TEXT命令可以完成“单行文字”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，简单标注、短标签。",
+    "application_scenario": "简单标注、短标签",
+    "common_mistakes": [
+      "文字高度未按比例设置"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "TEXT",
+      "DT",
+      "单行文字",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "单行文字（TEXT）是什么;单行文字（TEXT）怎么理解;单行文字（TEXT）有什么用;AutoCAD中单行文字（TEXT）怎么用;单行文字（TEXT）常见错误;单行文字（TEXT）操作步骤",
+    "evidence_chunks": "ch06_src_074;ch06_src_110;ch06_src_111",
+    "status": "checked",
+    "key_points": [
+      "单行文字是AutoCAD命令“TEXT”的功能对象，创建短文本注释，可设置起点、高度和旋转角。",
+      "创建短文本注释，可设置起点、高度和旋转角。",
+      "在道路工程制图中，简单标注、短标签。"
+    ],
+    "aliases": [
+      "单行文字（TEXT）是什么",
+      "单行文字（TEXT）怎么理解",
+      "单行文字（TEXT）有什么用",
+      "AutoCAD中单行文字（TEXT）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_074;ch06_src_110;ch06_src_111"
+  },
+  {
+    "kp_id": "kp_ch06_041",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "多行文字（MTEXT）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "多行文字是AutoCAD命令“MTEXT”的功能对象，创建具有宽度和格式的长文本注释。",
+    "core_explanation": "创建具有宽度和格式的长文本注释。",
+    "plain_explanation": "使用MTEXT命令可以完成“多行文字”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，说明文字、图下注、复杂备注。",
+    "application_scenario": "说明文字、图下注、复杂备注",
+    "common_mistakes": [
+      "文本框宽度不合适导致排版混乱"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "MTEXT",
+      "T",
+      "多行文字",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "多行文字（MTEXT）是什么;多行文字（MTEXT）怎么理解;多行文字（MTEXT）有什么用;AutoCAD中多行文字（MTEXT）怎么用;多行文字（MTEXT）常见错误;多行文字（MTEXT）操作步骤",
+    "evidence_chunks": "ch06_src_005;ch06_src_012;ch06_src_039",
+    "status": "checked",
+    "key_points": [
+      "多行文字是AutoCAD命令“MTEXT”的功能对象，创建具有宽度和格式的长文本注释。",
+      "创建具有宽度和格式的长文本注释。",
+      "在道路工程制图中，说明文字、图下注、复杂备注。"
+    ],
+    "aliases": [
+      "多行文字（MTEXT）是什么",
+      "多行文字（MTEXT）怎么理解",
+      "多行文字（MTEXT）有什么用",
+      "AutoCAD中多行文字（MTEXT）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_005;ch06_src_012;ch06_src_039"
+  },
+  {
+    "kp_id": "kp_ch06_042",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "标注样式管理（DIMSTYLE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "标注样式管理是AutoCAD命令“DIMSTYLE”的功能对象，统一控制尺寸线、界线、箭头、文字、单位等标注样式。",
+    "core_explanation": "统一控制尺寸线、界线、箭头、文字、单位等标注样式。",
+    "plain_explanation": "使用DIMSTYLE命令可以完成“标注样式管理”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，建立道路设计标注规范。",
+    "application_scenario": "建立道路设计标注规范",
+    "common_mistakes": [
+      "未设为当前样式导致新标注不生效"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "DIMSTYLE",
+      "D",
+      "标注样式管理",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "标注样式管理（DIMSTYLE）是什么;标注样式管理（DIMSTYLE）怎么理解;标注样式管理（DIMSTYLE）有什么用;AutoCAD中标注样式管理（DIMSTYLE）怎么用;标注样式管理（DIMSTYLE）常见错误;标注样式管理（DIMSTYLE）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "标注样式管理是AutoCAD命令“DIMSTYLE”的功能对象，统一控制尺寸线、界线、箭头、文字、单位等标注样式。",
+      "统一控制尺寸线、界线、箭头、文字、单位等标注样式。",
+      "在道路工程制图中，建立道路设计标注规范。"
+    ],
+    "aliases": [
+      "标注样式管理（DIMSTYLE）是什么",
+      "标注样式管理（DIMSTYLE）怎么理解",
+      "标注样式管理（DIMSTYLE）有什么用",
+      "AutoCAD中标注样式管理（DIMSTYLE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_043",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "线性标注（DIMLINEAR）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "线性标注是AutoCAD命令“DIMLINEAR”的功能对象，创建水平或垂直线性尺寸。",
+    "core_explanation": "创建水平或垂直线性尺寸。",
+    "plain_explanation": "使用DIMLINEAR命令可以完成“线性标注”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，道路宽度、构件高度标注。",
+    "application_scenario": "道路宽度、构件高度标注",
+    "common_mistakes": [
+      "尺寸线位置选择不当"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "DIMLINEAR",
+      "DLI",
+      "线性标注",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "线性标注（DIMLINEAR）是什么;线性标注（DIMLINEAR）怎么理解;线性标注（DIMLINEAR）有什么用;AutoCAD中线性标注（DIMLINEAR）怎么用;线性标注（DIMLINEAR）常见错误;线性标注（DIMLINEAR）操作步骤",
+    "evidence_chunks": "ch06_src_122;ch06_src_124;ch06_src_127",
+    "status": "checked",
+    "key_points": [
+      "线性标注是AutoCAD命令“DIMLINEAR”的功能对象，创建水平或垂直线性尺寸。",
+      "创建水平或垂直线性尺寸。",
+      "在道路工程制图中，道路宽度、构件高度标注。"
+    ],
+    "aliases": [
+      "线性标注（DIMLINEAR）是什么",
+      "线性标注（DIMLINEAR）怎么理解",
+      "线性标注（DIMLINEAR）有什么用",
+      "AutoCAD中线性标注（DIMLINEAR）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_122;ch06_src_124;ch06_src_127"
+  },
+  {
+    "kp_id": "kp_ch06_044",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "对齐标注（DIMALIGNED）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "对齐标注是AutoCAD命令“DIMALIGNED”的功能对象，沿对象方向标注倾斜距离。",
+    "core_explanation": "沿对象方向标注倾斜距离。",
+    "plain_explanation": "使用DIMALIGNED命令可以完成“对齐标注”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，斜向构件、边坡斜长标注。",
+    "application_scenario": "斜向构件、边坡斜长标注",
+    "common_mistakes": [
+      "误用线性标注导致尺寸不沿对象方向"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "DIMALIGNED",
+      "DAL",
+      "对齐标注",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "对齐标注（DIMALIGNED）是什么;对齐标注（DIMALIGNED）怎么理解;对齐标注（DIMALIGNED）有什么用;AutoCAD中对齐标注（DIMALIGNED）怎么用;对齐标注（DIMALIGNED）常见错误;对齐标注（DIMALIGNED）操作步骤",
+    "evidence_chunks": "ch06_src_122;ch06_src_126",
+    "status": "checked",
+    "key_points": [
+      "对齐标注是AutoCAD命令“DIMALIGNED”的功能对象，沿对象方向标注倾斜距离。",
+      "沿对象方向标注倾斜距离。",
+      "在道路工程制图中，斜向构件、边坡斜长标注。"
+    ],
+    "aliases": [
+      "对齐标注（DIMALIGNED）是什么",
+      "对齐标注（DIMALIGNED）怎么理解",
+      "对齐标注（DIMALIGNED）有什么用",
+      "AutoCAD中对齐标注（DIMALIGNED）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_122;ch06_src_126"
+  },
+  {
+    "kp_id": "kp_ch06_045",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "半径标注（DIMRADIUS）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "半径标注是AutoCAD命令“DIMRADIUS”的功能对象，标注圆或圆弧半径。",
+    "core_explanation": "标注圆或圆弧半径。",
+    "plain_explanation": "使用DIMRADIUS命令可以完成“半径标注”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，圆弧构件半径说明。",
+    "application_scenario": "圆弧构件半径说明",
+    "common_mistakes": [
+      "箭头和文字位置拥挤"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "DIMRADIUS",
+      "DRA",
+      "半径标注",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "半径标注（DIMRADIUS）是什么;半径标注（DIMRADIUS）怎么理解;半径标注（DIMRADIUS）有什么用;AutoCAD中半径标注（DIMRADIUS）怎么用;半径标注（DIMRADIUS）常见错误;半径标注（DIMRADIUS）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "半径标注是AutoCAD命令“DIMRADIUS”的功能对象，标注圆或圆弧半径。",
+      "标注圆或圆弧半径。",
+      "在道路工程制图中，圆弧构件半径说明。"
+    ],
+    "aliases": [
+      "半径标注（DIMRADIUS）是什么",
+      "半径标注（DIMRADIUS）怎么理解",
+      "半径标注（DIMRADIUS）有什么用",
+      "AutoCAD中半径标注（DIMRADIUS）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_046",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "直径标注（DIMDIAMETER）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "直径标注是AutoCAD命令“DIMDIAMETER”的功能对象，标注圆或圆弧直径。",
+    "core_explanation": "标注圆或圆弧直径。",
+    "plain_explanation": "使用DIMDIAMETER命令可以完成“直径标注”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，圆形构件尺寸标注。",
+    "application_scenario": "圆形构件尺寸标注",
+    "common_mistakes": [
+      "与半径标注混用不清"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "DIMDIAMETER",
+      "DDI",
+      "直径标注",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "直径标注（DIMDIAMETER）是什么;直径标注（DIMDIAMETER）怎么理解;直径标注（DIMDIAMETER）有什么用;AutoCAD中直径标注（DIMDIAMETER）怎么用;直径标注（DIMDIAMETER）常见错误;直径标注（DIMDIAMETER）操作步骤",
+    "evidence_chunks": "ch06_src_119;ch06_src_128",
+    "status": "checked",
+    "key_points": [
+      "直径标注是AutoCAD命令“DIMDIAMETER”的功能对象，标注圆或圆弧直径。",
+      "标注圆或圆弧直径。",
+      "在道路工程制图中，圆形构件尺寸标注。"
+    ],
+    "aliases": [
+      "直径标注（DIMDIAMETER）是什么",
+      "直径标注（DIMDIAMETER）怎么理解",
+      "直径标注（DIMDIAMETER）有什么用",
+      "AutoCAD中直径标注（DIMDIAMETER）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_119;ch06_src_128"
+  },
+  {
+    "kp_id": "kp_ch06_047",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "角度标注（DIMANGULAR）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "角度标注是AutoCAD命令“DIMANGULAR”的功能对象，标注两线、圆弧或指定三点形成的角度。",
+    "core_explanation": "标注两线、圆弧或指定三点形成的角度。",
+    "plain_explanation": "使用DIMANGULAR命令可以完成“角度标注”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，边坡角度、构造角度。",
+    "application_scenario": "边坡角度、构造角度",
+    "common_mistakes": [
+      "选择对象不当导致测量角错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "DIMANGULAR",
+      "DAN",
+      "角度标注",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "角度标注（DIMANGULAR）是什么;角度标注（DIMANGULAR）怎么理解;角度标注（DIMANGULAR）有什么用;AutoCAD中角度标注（DIMANGULAR）怎么用;角度标注（DIMANGULAR）常见错误;角度标注（DIMANGULAR）操作步骤",
+    "evidence_chunks": "ch06_src_127;ch06_src_129",
+    "status": "checked",
+    "key_points": [
+      "角度标注是AutoCAD命令“DIMANGULAR”的功能对象，标注两线、圆弧或指定三点形成的角度。",
+      "标注两线、圆弧或指定三点形成的角度。",
+      "在道路工程制图中，边坡角度、构造角度。"
+    ],
+    "aliases": [
+      "角度标注（DIMANGULAR）是什么",
+      "角度标注（DIMANGULAR）怎么理解",
+      "角度标注（DIMANGULAR）有什么用",
+      "AutoCAD中角度标注（DIMANGULAR）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_127;ch06_src_129"
+  },
+  {
+    "kp_id": "kp_ch06_048",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "图层管理（LAYER）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "图层管理是AutoCAD命令“LAYER”的功能对象，创建、设置、关闭、冻结、锁定或隔离图层。",
+    "core_explanation": "创建、设置、关闭、冻结、锁定或隔离图层。",
+    "plain_explanation": "使用LAYER命令可以完成“图层管理”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，组织地面线、设计线、标注和构造线。",
+    "application_scenario": "组织地面线、设计线、标注和构造线",
+    "common_mistakes": [
+      "图层命名混乱或对象未随层"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "LAYER",
+      "LA",
+      "图层管理",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图层管理（LAYER）是什么;图层管理（LAYER）怎么理解;图层管理（LAYER）有什么用;AutoCAD中图层管理（LAYER）怎么用;图层管理（LAYER）常见错误;图层管理（LAYER）操作步骤",
+    "evidence_chunks": "ch06_src_002;ch06_src_129;ch06_src_135",
+    "status": "checked",
+    "key_points": [
+      "图层管理是AutoCAD命令“LAYER”的功能对象，创建、设置、关闭、冻结、锁定或隔离图层。",
+      "创建、设置、关闭、冻结、锁定或隔离图层。",
+      "在道路工程制图中，组织地面线、设计线、标注和构造线。"
+    ],
+    "aliases": [
+      "图层管理（LAYER）是什么",
+      "图层管理（LAYER）怎么理解",
+      "图层管理（LAYER）有什么用",
+      "AutoCAD中图层管理（LAYER）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_002;ch06_src_129;ch06_src_135"
+  },
+  {
+    "kp_id": "kp_ch06_049",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "清理未使用项目（PURGE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "清理未使用项目是AutoCAD命令“PURGE”的功能对象，清除未使用图层、块、线型等资源。",
+    "core_explanation": "清除未使用图层、块、线型等资源。",
+    "plain_explanation": "使用PURGE命令可以完成“清理未使用项目”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，清理提交前图形文件。",
+    "application_scenario": "清理提交前图形文件",
+    "common_mistakes": [
+      "误以为可删除当前图层或系统图层"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "PURGE",
+      "PU",
+      "清理未使用项目",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "清理未使用项目（PURGE）是什么;清理未使用项目（PURGE）怎么理解;清理未使用项目（PURGE）有什么用;AutoCAD中清理未使用项目（PURGE）怎么用;清理未使用项目（PURGE）常见错误;清理未使用项目（PURGE）操作步骤",
+    "evidence_chunks": "ch06_src_138",
+    "status": "checked",
+    "key_points": [
+      "清理未使用项目是AutoCAD命令“PURGE”的功能对象，清除未使用图层、块、线型等资源。",
+      "清除未使用图层、块、线型等资源。",
+      "在道路工程制图中，清理提交前图形文件。"
+    ],
+    "aliases": [
+      "清理未使用项目（PURGE）是什么",
+      "清理未使用项目（PURGE）怎么理解",
+      "清理未使用项目（PURGE）有什么用",
+      "AutoCAD中清理未使用项目（PURGE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_138"
+  },
+  {
+    "kp_id": "kp_ch06_050",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "定义块（BLOCK）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "定义块是AutoCAD命令“BLOCK”的功能对象，将对象组合成块并设置名称、基点、对象处理方式。",
+    "core_explanation": "将对象组合成块并设置名称、基点、对象处理方式。",
+    "plain_explanation": "使用BLOCK命令可以完成“定义块”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，定义指北针、路缘石、标准构件符号。",
+    "application_scenario": "定义指北针、路缘石、标准构件符号",
+    "common_mistakes": [
+      "基点不合理导致插入定位困难"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "BLOCK",
+      "B",
+      "定义块",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "定义块（BLOCK）是什么;定义块（BLOCK）怎么理解;定义块（BLOCK）有什么用;AutoCAD中定义块（BLOCK）怎么用;定义块（BLOCK）常见错误;定义块（BLOCK）操作步骤",
+    "evidence_chunks": "ch06_src_002;ch06_src_010;ch06_src_051",
+    "status": "checked",
+    "key_points": [
+      "定义块是AutoCAD命令“BLOCK”的功能对象，将对象组合成块并设置名称、基点、对象处理方式。",
+      "将对象组合成块并设置名称、基点、对象处理方式。",
+      "在道路工程制图中，定义指北针、路缘石、标准构件符号。"
+    ],
+    "aliases": [
+      "定义块（BLOCK）是什么",
+      "定义块（BLOCK）怎么理解",
+      "定义块（BLOCK）有什么用",
+      "AutoCAD中定义块（BLOCK）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_002;ch06_src_010;ch06_src_051"
+  },
+  {
+    "kp_id": "kp_ch06_051",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "插入块（INSERT）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "插入块是AutoCAD命令“INSERT”的功能对象，将内部块或外部DWG插入当前图形，可设置比例和旋转角。",
+    "core_explanation": "将内部块或外部DWG插入当前图形，可设置比例和旋转角。",
+    "plain_explanation": "使用INSERT命令可以完成“插入块”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，复用构件符号、图例和标准图块。",
+    "application_scenario": "复用构件符号、图例和标准图块",
+    "common_mistakes": [
+      "插入比例或角度错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "INSERT",
+      "I",
+      "插入块",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "插入块（INSERT）是什么;插入块（INSERT）怎么理解;插入块（INSERT）有什么用;AutoCAD中插入块（INSERT）怎么用;插入块（INSERT）常见错误;插入块（INSERT）操作步骤",
+    "evidence_chunks": "ch06_src_002;ch06_src_005;ch06_src_010",
+    "status": "checked",
+    "key_points": [
+      "插入块是AutoCAD命令“INSERT”的功能对象，将内部块或外部DWG插入当前图形，可设置比例和旋转角。",
+      "将内部块或外部DWG插入当前图形，可设置比例和旋转角。",
+      "在道路工程制图中，复用构件符号、图例和标准图块。"
+    ],
+    "aliases": [
+      "插入块（INSERT）是什么",
+      "插入块（INSERT）怎么理解",
+      "插入块（INSERT）有什么用",
+      "AutoCAD中插入块（INSERT）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_002;ch06_src_005;ch06_src_010"
+  },
+  {
+    "kp_id": "kp_ch06_052",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "写块（WBLOCK）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "写块是AutoCAD命令“WBLOCK”的功能对象，将块、对象或整图输出为独立DWG文件。",
+    "core_explanation": "将块、对象或整图输出为独立DWG文件。",
+    "plain_explanation": "使用WBLOCK命令可以完成“写块”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，建立可共享图块库。",
+    "application_scenario": "建立可共享图块库",
+    "common_mistakes": [
+      "路径管理混乱导致找不到外部块"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "WBLOCK",
+      "W",
+      "写块",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "写块（WBLOCK）是什么;写块（WBLOCK）怎么理解;写块（WBLOCK）有什么用;AutoCAD中写块（WBLOCK）怎么用;写块（WBLOCK）常见错误;写块（WBLOCK）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_002;ch06_src_005",
+    "status": "checked",
+    "key_points": [
+      "写块是AutoCAD命令“WBLOCK”的功能对象，将块、对象或整图输出为独立DWG文件。",
+      "将块、对象或整图输出为独立DWG文件。",
+      "在道路工程制图中，建立可共享图块库。"
+    ],
+    "aliases": [
+      "写块（WBLOCK）是什么",
+      "写块（WBLOCK）怎么理解",
+      "写块（WBLOCK）有什么用",
+      "AutoCAD中写块（WBLOCK）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_002;ch06_src_005"
+  },
+  {
+    "kp_id": "kp_ch06_053",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "属性定义（ATTDEF）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "属性定义是AutoCAD命令“ATTDEF”的功能对象，为块定义可填写或隐藏的属性字段。",
+    "core_explanation": "为块定义可填写或隐藏的属性字段。",
+    "plain_explanation": "使用ATTDEF命令可以完成“属性定义”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，构件编号、规格、材料参数。",
+    "application_scenario": "构件编号、规格、材料参数",
+    "common_mistakes": [
+      "属性标记含空格或默认值不规范"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "ATTDEF",
+      "ATT",
+      "属性定义",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "属性定义（ATTDEF）是什么;属性定义（ATTDEF）怎么理解;属性定义（ATTDEF）有什么用;AutoCAD中属性定义（ATTDEF）怎么用;属性定义（ATTDEF）常见错误;属性定义（ATTDEF）操作步骤",
+    "evidence_chunks": "ch06_src_074",
+    "status": "checked",
+    "key_points": [
+      "属性定义是AutoCAD命令“ATTDEF”的功能对象，为块定义可填写或隐藏的属性字段。",
+      "为块定义可填写或隐藏的属性字段。",
+      "在道路工程制图中，构件编号、规格、材料参数。"
+    ],
+    "aliases": [
+      "属性定义（ATTDEF）是什么",
+      "属性定义（ATTDEF）怎么理解",
+      "属性定义（ATTDEF）有什么用",
+      "AutoCAD中属性定义（ATTDEF）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_074"
+  },
+  {
+    "kp_id": "kp_ch06_054",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "块属性管理（BATTMAN）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "块属性管理是AutoCAD命令“BATTMAN”的功能对象，批量管理和修改块属性定义及显示行为。",
+    "core_explanation": "批量管理和修改块属性定义及显示行为。",
+    "plain_explanation": "使用BATTMAN命令可以完成“块属性管理”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，管理带属性图块。",
+    "application_scenario": "管理带属性图块",
+    "common_mistakes": [
+      "修改未应用到已有参照"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "BATTMAN",
+      "块属性管理",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "块属性管理（BATTMAN）是什么;块属性管理（BATTMAN）怎么理解;块属性管理（BATTMAN）有什么用;AutoCAD中块属性管理（BATTMAN）怎么用;块属性管理（BATTMAN）常见错误;块属性管理（BATTMAN）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "块属性管理是AutoCAD命令“BATTMAN”的功能对象，批量管理和修改块属性定义及显示行为。",
+      "批量管理和修改块属性定义及显示行为。",
+      "在道路工程制图中，管理带属性图块。"
+    ],
+    "aliases": [
+      "块属性管理（BATTMAN）是什么",
+      "块属性管理（BATTMAN）怎么理解",
+      "块属性管理（BATTMAN）有什么用",
+      "AutoCAD中块属性管理（BATTMAN）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_055",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "用户坐标系（UCS）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "用户坐标系是AutoCAD命令“UCS”的功能对象，重设绘图工作平面的原点与轴向。",
+    "core_explanation": "重设绘图工作平面的原点与轴向。",
+    "plain_explanation": "使用UCS命令可以完成“用户坐标系”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，斜交构件或三维工作面绘制。",
+    "application_scenario": "斜交构件或三维工作面绘制",
+    "common_mistakes": [
+      "未恢复WCS导致后续坐标混乱"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "UCS",
+      "用户坐标系",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "用户坐标系（UCS）是什么;用户坐标系（UCS）怎么理解;用户坐标系（UCS）有什么用;AutoCAD中用户坐标系（UCS）怎么用;用户坐标系（UCS）常见错误;用户坐标系（UCS）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_013;ch06_src_015",
+    "status": "checked",
+    "key_points": [
+      "用户坐标系是AutoCAD命令“UCS”的功能对象，重设绘图工作平面的原点与轴向。",
+      "重设绘图工作平面的原点与轴向。",
+      "在道路工程制图中，斜交构件或三维工作面绘制。"
+    ],
+    "aliases": [
+      "用户坐标系（UCS）是什么",
+      "用户坐标系（UCS）怎么理解",
+      "用户坐标系（UCS）有什么用",
+      "AutoCAD中用户坐标系（UCS）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_013;ch06_src_015"
+  },
+  {
+    "kp_id": "kp_ch06_056",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "视觉样式（SHADEMODE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "视觉样式是AutoCAD命令“SHADEMODE”的功能对象，设置二维线框、三维线框、消隐、着色等显示方式。",
+    "core_explanation": "设置二维线框、三维线框、消隐、着色等显示方式。",
+    "plain_explanation": "使用SHADEMODE命令可以完成“视觉样式”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，检查三维实体空间形态。",
+    "application_scenario": "检查三维实体空间形态",
+    "common_mistakes": [
+      "显示样式不适合导致遮挡判断困难"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "SHADEMODE",
+      "视觉样式",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "视觉样式（SHADEMODE）是什么;视觉样式（SHADEMODE）怎么理解;视觉样式（SHADEMODE）有什么用;AutoCAD中视觉样式（SHADEMODE）怎么用;视觉样式（SHADEMODE）常见错误;视觉样式（SHADEMODE）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "视觉样式是AutoCAD命令“SHADEMODE”的功能对象，设置二维线框、三维线框、消隐、着色等显示方式。",
+      "设置二维线框、三维线框、消隐、着色等显示方式。",
+      "在道路工程制图中，检查三维实体空间形态。"
+    ],
+    "aliases": [
+      "视觉样式（SHADEMODE）是什么",
+      "视觉样式（SHADEMODE）怎么理解",
+      "视觉样式（SHADEMODE）有什么用",
+      "AutoCAD中视觉样式（SHADEMODE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_057",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "三维动态观察（3DORBIT）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "三维动态观察是AutoCAD命令“3DORBIT”的功能对象，交互旋转观察三维模型。",
+    "core_explanation": "交互旋转观察三维模型。",
+    "plain_explanation": "使用3DORBIT命令可以完成“三维动态观察”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，检查三维构件形态。",
+    "application_scenario": "检查三维构件形态",
+    "common_mistakes": [
+      "误以为改变了模型坐标"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "3DORBIT",
+      "3DO",
+      "三维动态观察",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "三维动态观察（3DORBIT）是什么;三维动态观察（3DORBIT）怎么理解;三维动态观察（3DORBIT）有什么用;AutoCAD中三维动态观察（3DORBIT）怎么用;三维动态观察（3DORBIT）常见错误;三维动态观察（3DORBIT）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "三维动态观察是AutoCAD命令“3DORBIT”的功能对象，交互旋转观察三维模型。",
+      "交互旋转观察三维模型。",
+      "在道路工程制图中，检查三维构件形态。"
+    ],
+    "aliases": [
+      "三维动态观察（3DORBIT）是什么",
+      "三维动态观察（3DORBIT）怎么理解",
+      "三维动态观察（3DORBIT）有什么用",
+      "AutoCAD中三维动态观察（3DORBIT）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_058",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "设置视点（VPOINT）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "设置视点是AutoCAD命令“VPOINT”的功能对象，通过方向角设置三维观察方向。",
+    "core_explanation": "通过方向角设置三维观察方向。",
+    "plain_explanation": "使用VPOINT命令可以完成“设置视点”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，三维展示与检查。",
+    "application_scenario": "三维展示与检查",
+    "common_mistakes": [
+      "相对于WCS/UCS选择错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "VPOINT",
+      "设置视点",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "设置视点（VPOINT）是什么;设置视点（VPOINT）怎么理解;设置视点（VPOINT）有什么用;AutoCAD中设置视点（VPOINT）怎么用;设置视点（VPOINT）常见错误;设置视点（VPOINT）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "设置视点是AutoCAD命令“VPOINT”的功能对象，通过方向角设置三维观察方向。",
+      "通过方向角设置三维观察方向。",
+      "在道路工程制图中，三维展示与检查。"
+    ],
+    "aliases": [
+      "设置视点（VPOINT）是什么",
+      "设置视点（VPOINT）怎么理解",
+      "设置视点（VPOINT）有什么用",
+      "AutoCAD中设置视点（VPOINT）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_059",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "创建多边形网格（3DMESH）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "创建多边形网格是AutoCAD命令“3DMESH”的功能对象，通过M、N方向顶点生成网格面。",
+    "core_explanation": "通过M、N方向顶点生成网格面。",
+    "plain_explanation": "使用3DMESH命令可以完成“创建多边形网格”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，曲面示意、复杂地形辅助表达。",
+    "application_scenario": "曲面示意、复杂地形辅助表达",
+    "common_mistakes": [
+      "顶点输入顺序错误导致面扭曲"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "3DMESH",
+      "创建多边形网格",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "创建多边形网格（3DMESH）是什么;创建多边形网格（3DMESH）怎么理解;创建多边形网格（3DMESH）有什么用;AutoCAD中创建多边形网格（3DMESH）怎么用;创建多边形网格（3DMESH）常见错误;创建多边形网格（3DMESH）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "创建多边形网格是AutoCAD命令“3DMESH”的功能对象，通过M、N方向顶点生成网格面。",
+      "通过M、N方向顶点生成网格面。",
+      "在道路工程制图中，曲面示意、复杂地形辅助表达。"
+    ],
+    "aliases": [
+      "创建多边形网格（3DMESH）是什么",
+      "创建多边形网格（3DMESH）怎么理解",
+      "创建多边形网格（3DMESH）有什么用",
+      "AutoCAD中创建多边形网格（3DMESH）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_060",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "创建空间平面（3DFACE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "创建空间平面是AutoCAD命令“3DFACE”的功能对象，以三点或四点生成三维面。",
+    "core_explanation": "以三点或四点生成三维面。",
+    "plain_explanation": "使用3DFACE命令可以完成“创建空间平面”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，连续空间平面、简化曲面。",
+    "application_scenario": "连续空间平面、简化曲面",
+    "common_mistakes": [
+      "边不可见选项使用不当"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "3DFACE",
+      "创建空间平面",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "创建空间平面（3DFACE）是什么;创建空间平面（3DFACE）怎么理解;创建空间平面（3DFACE）有什么用;AutoCAD中创建空间平面（3DFACE）怎么用;创建空间平面（3DFACE）常见错误;创建空间平面（3DFACE）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "创建空间平面是AutoCAD命令“3DFACE”的功能对象，以三点或四点生成三维面。",
+      "以三点或四点生成三维面。",
+      "在道路工程制图中，连续空间平面、简化曲面。"
+    ],
+    "aliases": [
+      "创建空间平面（3DFACE）是什么",
+      "创建空间平面（3DFACE）怎么理解",
+      "创建空间平面（3DFACE）有什么用",
+      "AutoCAD中创建空间平面（3DFACE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_061",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "平移曲面（TABSURF）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "平移曲面是AutoCAD命令“TABSURF”的功能对象，由轮廓曲线沿方向矢量生成平移曲面。",
+    "core_explanation": "由轮廓曲线沿方向矢量生成平移曲面。",
+    "plain_explanation": "使用TABSURF命令可以完成“平移曲面”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，沿方向生成护坡或构件表面示意。",
+    "application_scenario": "沿方向生成护坡或构件表面示意",
+    "common_mistakes": [
+      "未预先绘制方向矢量"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "TABSURF",
+      "平移曲面",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "平移曲面（TABSURF）是什么;平移曲面（TABSURF）怎么理解;平移曲面（TABSURF）有什么用;AutoCAD中平移曲面（TABSURF）怎么用;平移曲面（TABSURF）常见错误;平移曲面（TABSURF）操作步骤",
+    "evidence_chunks": "ch06_src_002",
+    "status": "checked",
+    "key_points": [
+      "平移曲面是AutoCAD命令“TABSURF”的功能对象，由轮廓曲线沿方向矢量生成平移曲面。",
+      "由轮廓曲线沿方向矢量生成平移曲面。",
+      "在道路工程制图中，沿方向生成护坡或构件表面示意。"
+    ],
+    "aliases": [
+      "平移曲面（TABSURF）是什么",
+      "平移曲面（TABSURF）怎么理解",
+      "平移曲面（TABSURF）有什么用",
+      "AutoCAD中平移曲面（TABSURF）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_002"
+  },
+  {
+    "kp_id": "kp_ch06_062",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "旋转曲面（REVSURF）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "旋转曲面是AutoCAD命令“REVSURF”的功能对象，将轮廓绕轴旋转生成曲面网格。",
+    "core_explanation": "将轮廓绕轴旋转生成曲面网格。",
+    "plain_explanation": "使用REVSURF命令可以完成“旋转曲面”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，圆锥、圆柱、回转面示意。",
+    "application_scenario": "圆锥、圆柱、回转面示意",
+    "common_mistakes": [
+      "旋转轴选择错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "REVSURF",
+      "旋转曲面",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "旋转曲面（REVSURF）是什么;旋转曲面（REVSURF）怎么理解;旋转曲面（REVSURF）有什么用;AutoCAD中旋转曲面（REVSURF）怎么用;旋转曲面（REVSURF）常见错误;旋转曲面（REVSURF）操作步骤",
+    "evidence_chunks": "ch06_src_002",
+    "status": "checked",
+    "key_points": [
+      "旋转曲面是AutoCAD命令“REVSURF”的功能对象，将轮廓绕轴旋转生成曲面网格。",
+      "将轮廓绕轴旋转生成曲面网格。",
+      "在道路工程制图中，圆锥、圆柱、回转面示意。"
+    ],
+    "aliases": [
+      "旋转曲面（REVSURF）是什么",
+      "旋转曲面（REVSURF）怎么理解",
+      "旋转曲面（REVSURF）有什么用",
+      "AutoCAD中旋转曲面（REVSURF）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_002"
+  },
+  {
+    "kp_id": "kp_ch06_063",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "边界曲面（EDGESURF）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "边界曲面是AutoCAD命令“EDGESURF”的功能对象，由四条边界对象生成孔斯曲面片网格。",
+    "core_explanation": "由四条边界对象生成孔斯曲面片网格。",
+    "plain_explanation": "使用EDGESURF命令可以完成“边界曲面”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，边界控制曲面。",
+    "application_scenario": "边界控制曲面",
+    "common_mistakes": [
+      "四条边界未闭合或顺序混乱"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "EDGESURF",
+      "边界曲面",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "边界曲面（EDGESURF）是什么;边界曲面（EDGESURF）怎么理解;边界曲面（EDGESURF）有什么用;AutoCAD中边界曲面（EDGESURF）怎么用;边界曲面（EDGESURF）常见错误;边界曲面（EDGESURF）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "边界曲面是AutoCAD命令“EDGESURF”的功能对象，由四条边界对象生成孔斯曲面片网格。",
+      "由四条边界对象生成孔斯曲面片网格。",
+      "在道路工程制图中，边界控制曲面。"
+    ],
+    "aliases": [
+      "边界曲面（EDGESURF）是什么",
+      "边界曲面（EDGESURF）怎么理解",
+      "边界曲面（EDGESURF）有什么用",
+      "AutoCAD中边界曲面（EDGESURF）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_064",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "设置标高和厚度（ELEV）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "设置标高和厚度是AutoCAD命令“ELEV”的功能对象，为新建或现有对象设置默认Z值和厚度。",
+    "core_explanation": "为新建或现有对象设置默认Z值和厚度。",
+    "plain_explanation": "使用ELEV命令可以完成“设置标高和厚度”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，快速生成带厚度对象。",
+    "application_scenario": "快速生成带厚度对象",
+    "common_mistakes": [
+      "混淆厚度与实体高度"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "ELEV",
+      "设置标高和厚度",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "设置标高和厚度（ELEV）是什么;设置标高和厚度（ELEV）怎么理解;设置标高和厚度（ELEV）有什么用;AutoCAD中设置标高和厚度（ELEV）怎么用;设置标高和厚度（ELEV）常见错误;设置标高和厚度（ELEV）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "设置标高和厚度是AutoCAD命令“ELEV”的功能对象，为新建或现有对象设置默认Z值和厚度。",
+      "为新建或现有对象设置默认Z值和厚度。",
+      "在道路工程制图中，快速生成带厚度对象。"
+    ],
+    "aliases": [
+      "设置标高和厚度（ELEV）是什么",
+      "设置标高和厚度（ELEV）怎么理解",
+      "设置标高和厚度（ELEV）有什么用",
+      "AutoCAD中设置标高和厚度（ELEV）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_065",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "创建长方体（BOX）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "创建长方体是AutoCAD命令“BOX”的功能对象，通过角点、中心、立方体或长度等方式创建长方体。",
+    "core_explanation": "通过角点、中心、立方体或长度等方式创建长方体。",
+    "plain_explanation": "使用BOX命令可以完成“创建长方体”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，桥墩、挡块、简化构件。",
+    "application_scenario": "桥墩、挡块、简化构件",
+    "common_mistakes": [
+      "高度输入方向错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "BOX",
+      "创建长方体",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "创建长方体（BOX）是什么;创建长方体（BOX）怎么理解;创建长方体（BOX）有什么用;AutoCAD中创建长方体（BOX）怎么用;创建长方体（BOX）常见错误;创建长方体（BOX）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "创建长方体是AutoCAD命令“BOX”的功能对象，通过角点、中心、立方体或长度等方式创建长方体。",
+      "通过角点、中心、立方体或长度等方式创建长方体。",
+      "在道路工程制图中，桥墩、挡块、简化构件。"
+    ],
+    "aliases": [
+      "创建长方体（BOX）是什么",
+      "创建长方体（BOX）怎么理解",
+      "创建长方体（BOX）有什么用",
+      "AutoCAD中创建长方体（BOX）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_066",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "创建圆柱体（CYLINDER）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "创建圆柱体是AutoCAD命令“CYLINDER”的功能对象，通过底面中心、半径/直径和高度创建圆柱实体。",
+    "core_explanation": "通过底面中心、半径/直径和高度创建圆柱实体。",
+    "plain_explanation": "使用CYLINDER命令可以完成“创建圆柱体”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，桩、墩柱、孔洞构造。",
+    "application_scenario": "桩、墩柱、孔洞构造",
+    "common_mistakes": [
+      "底面半径或轴端点错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "CYLINDER",
+      "CYL",
+      "创建圆柱体",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "创建圆柱体（CYLINDER）是什么;创建圆柱体（CYLINDER）怎么理解;创建圆柱体（CYLINDER）有什么用;AutoCAD中创建圆柱体（CYLINDER）怎么用;创建圆柱体（CYLINDER）常见错误;创建圆柱体（CYLINDER）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "创建圆柱体是AutoCAD命令“CYLINDER”的功能对象，通过底面中心、半径/直径和高度创建圆柱实体。",
+      "通过底面中心、半径/直径和高度创建圆柱实体。",
+      "在道路工程制图中，桩、墩柱、孔洞构造。"
+    ],
+    "aliases": [
+      "创建圆柱体（CYLINDER）是什么",
+      "创建圆柱体（CYLINDER）怎么理解",
+      "创建圆柱体（CYLINDER）有什么用",
+      "AutoCAD中创建圆柱体（CYLINDER）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_067",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "拉伸实体（EXTRUDE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "拉伸实体是AutoCAD命令“EXTRUDE”的功能对象，将封闭二维对象拉伸成实体或曲面。",
+    "core_explanation": "将封闭二维对象拉伸成实体或曲面。",
+    "plain_explanation": "使用EXTRUDE命令可以完成“拉伸实体”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，从横断面轮廓生成实体。",
+    "application_scenario": "从横断面轮廓生成实体",
+    "common_mistakes": [
+      "源对象未闭合导致无法生成实体"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "EXTRUDE",
+      "EXT",
+      "拉伸实体",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "拉伸实体（EXTRUDE）是什么;拉伸实体（EXTRUDE）怎么理解;拉伸实体（EXTRUDE）有什么用;AutoCAD中拉伸实体（EXTRUDE）怎么用;拉伸实体（EXTRUDE）常见错误;拉伸实体（EXTRUDE）操作步骤",
+    "evidence_chunks": "ch06_src_074;ch06_src_079;ch06_src_111",
+    "status": "checked",
+    "key_points": [
+      "拉伸实体是AutoCAD命令“EXTRUDE”的功能对象，将封闭二维对象拉伸成实体或曲面。",
+      "将封闭二维对象拉伸成实体或曲面。",
+      "在道路工程制图中，从横断面轮廓生成实体。"
+    ],
+    "aliases": [
+      "拉伸实体（EXTRUDE）是什么",
+      "拉伸实体（EXTRUDE）怎么理解",
+      "拉伸实体（EXTRUDE）有什么用",
+      "AutoCAD中拉伸实体（EXTRUDE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_074;ch06_src_079;ch06_src_111"
+  },
+  {
+    "kp_id": "kp_ch06_068",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "旋转实体（REVOLVE）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "旋转实体是AutoCAD命令“REVOLVE”的功能对象，将闭合轮廓绕指定轴旋转成实体。",
+    "core_explanation": "将闭合轮廓绕指定轴旋转成实体。",
+    "plain_explanation": "使用REVOLVE命令可以完成“旋转实体”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，回转体构件、圆形截面构件。",
+    "application_scenario": "回转体构件、圆形截面构件",
+    "common_mistakes": [
+      "轴线或旋转角设置错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "REVOLVE",
+      "REV",
+      "旋转实体",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "旋转实体（REVOLVE）是什么;旋转实体（REVOLVE）怎么理解;旋转实体（REVOLVE）有什么用;AutoCAD中旋转实体（REVOLVE）怎么用;旋转实体（REVOLVE）常见错误;旋转实体（REVOLVE）操作步骤",
+    "evidence_chunks": "",
+    "status": "checked",
+    "key_points": [
+      "旋转实体是AutoCAD命令“REVOLVE”的功能对象，将闭合轮廓绕指定轴旋转成实体。",
+      "将闭合轮廓绕指定轴旋转成实体。",
+      "在道路工程制图中，回转体构件、圆形截面构件。"
+    ],
+    "aliases": [
+      "旋转实体（REVOLVE）是什么",
+      "旋转实体（REVOLVE）怎么理解",
+      "旋转实体（REVOLVE）有什么用",
+      "AutoCAD中旋转实体（REVOLVE）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch06_069",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "并集（UNION）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "并集是AutoCAD命令“UNION”的功能对象，合并两个或多个实体为一个整体。",
+    "core_explanation": "合并两个或多个实体为一个整体。",
+    "plain_explanation": "使用UNION命令可以完成“并集”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，组合盖梁与墩柱、合并构件。",
+    "application_scenario": "组合盖梁与墩柱、合并构件",
+    "common_mistakes": [
+      "实体不接触时仍可合并但逻辑需确认"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "UNION",
+      "UNI",
+      "并集",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "并集（UNION）是什么;并集（UNION）怎么理解;并集（UNION）有什么用;AutoCAD中并集（UNION）怎么用;并集（UNION）常见错误;并集（UNION）操作步骤",
+    "evidence_chunks": "ch06_src_002",
+    "status": "checked",
+    "key_points": [
+      "并集是AutoCAD命令“UNION”的功能对象，合并两个或多个实体为一个整体。",
+      "合并两个或多个实体为一个整体。",
+      "在道路工程制图中，组合盖梁与墩柱、合并构件。"
+    ],
+    "aliases": [
+      "并集（UNION）是什么",
+      "并集（UNION）怎么理解",
+      "并集（UNION）有什么用",
+      "AutoCAD中并集（UNION）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_002"
+  },
+  {
+    "kp_id": "kp_ch06_070",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "差集（SUBTRACT）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "差集是AutoCAD命令“SUBTRACT”的功能对象，从主体实体中扣除另一实体的公共部分。",
+    "core_explanation": "从主体实体中扣除另一实体的公共部分。",
+    "plain_explanation": "使用SUBTRACT命令可以完成“差集”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，开孔、槽口、涵洞洞口。",
+    "application_scenario": "开孔、槽口、涵洞洞口",
+    "common_mistakes": [
+      "选择主体和减去对象顺序错误"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "SUBTRACT",
+      "SU",
+      "差集",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "差集（SUBTRACT）是什么;差集（SUBTRACT）怎么理解;差集（SUBTRACT）有什么用;AutoCAD中差集（SUBTRACT）怎么用;差集（SUBTRACT）常见错误;差集（SUBTRACT）操作步骤",
+    "evidence_chunks": "ch06_src_002;ch06_src_096;ch06_src_097",
+    "status": "checked",
+    "key_points": [
+      "差集是AutoCAD命令“SUBTRACT”的功能对象，从主体实体中扣除另一实体的公共部分。",
+      "从主体实体中扣除另一实体的公共部分。",
+      "在道路工程制图中，开孔、槽口、涵洞洞口。"
+    ],
+    "aliases": [
+      "差集（SUBTRACT）是什么",
+      "差集（SUBTRACT）怎么理解",
+      "差集（SUBTRACT）有什么用",
+      "AutoCAD中差集（SUBTRACT）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_002;ch06_src_096;ch06_src_097"
+  },
+  {
+    "kp_id": "kp_ch06_071",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "交集（INTERSECT）",
+    "knowledge_type": "command",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "交集是AutoCAD命令“INTERSECT”的功能对象，保留多个实体的重叠部分。",
+    "core_explanation": "保留多个实体的重叠部分。",
+    "plain_explanation": "使用INTERSECT命令可以完成“交集”操作，关键是明确输入对象、基点、参数和预期结果。",
+    "engineering_meaning": "在道路工程制图中，提取相贯区域、交叠体。",
+    "application_scenario": "提取相贯区域、交叠体",
+    "common_mistakes": [
+      "对象不重叠导致结果为空"
+    ],
+    "correction_explanation": "应根据命令提示逐步输入点、对象或参数；若结果异常，优先检查选择对象、基点、参数单位和当前图层。",
+    "answer_strategy": "回答命令问题时使用“用途—命令—步骤—检查—常见错误”格式。",
+    "answer_boundary": "不直接复制命令行长提示，应提炼操作要点。",
+    "keywords": [
+      "INTERSECT",
+      "IN",
+      "交集",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "交集（INTERSECT）是什么;交集（INTERSECT）怎么理解;交集（INTERSECT）有什么用;AutoCAD中交集（INTERSECT）怎么用;交集（INTERSECT）常见错误;交集（INTERSECT）操作步骤",
+    "evidence_chunks": "ch06_src_038;ch06_src_039;ch06_src_040",
+    "status": "checked",
+    "key_points": [
+      "交集是AutoCAD命令“INTERSECT”的功能对象，保留多个实体的重叠部分。",
+      "保留多个实体的重叠部分。",
+      "在道路工程制图中，提取相贯区域、交叠体。"
+    ],
+    "aliases": [
+      "交集（INTERSECT）是什么",
+      "交集（INTERSECT）怎么理解",
+      "交集（INTERSECT）有什么用",
+      "AutoCAD中交集（INTERSECT）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_038;ch06_src_039;ch06_src_040"
+  },
+  {
+    "kp_id": "kp_ch06_072",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "世界坐标系（WCS）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "AutoCAD默认全局固定坐标框架，用于确定所有图形对象的空间基准。",
+    "core_explanation": "AutoCAD默认全局固定坐标框架，用于确定所有图形对象的空间基准。",
+    "plain_explanation": "世界坐标系是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "精确定位、数据交换和三维建模基准",
+    "application_scenario": "精确定位、数据交换和三维建模基准",
+    "common_mistakes": [
+      "把WCS当作可随意删除的局部坐标"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "WCS",
+      "世界坐标系",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "世界坐标系（WCS）是什么;世界坐标系（WCS）怎么理解;世界坐标系（WCS）有什么用;AutoCAD中世界坐标系（WCS）怎么用;世界坐标系（WCS）常见错误;世界坐标系（WCS）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "AutoCAD默认全局固定坐标框架，用于确定所有图形对象的空间基准。",
+      "AutoCAD默认全局固定坐标框架，用于确定所有图形对象的空间基准。",
+      "精确定位、数据交换和三维建模基准"
+    ],
+    "aliases": [
+      "世界坐标系（WCS）是什么",
+      "世界坐标系（WCS）怎么理解",
+      "世界坐标系（WCS）有什么用",
+      "AutoCAD中世界坐标系（WCS）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_073",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "用户坐标系（UCS）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "用户可定义的局部工作坐标系，用于适应斜交、局部或三维工作面绘图。",
+    "core_explanation": "用户可定义的局部工作坐标系，用于适应斜交、局部或三维工作面绘图。",
+    "plain_explanation": "用户坐标系是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "三维建模、斜交构件和局部工作面绘制",
+    "application_scenario": "三维建模、斜交构件和局部工作面绘制",
+    "common_mistakes": [
+      "设置后忘记恢复WCS"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "UCS",
+      "用户坐标系",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "用户坐标系（UCS）是什么;用户坐标系（UCS）怎么理解;用户坐标系（UCS）有什么用;AutoCAD中用户坐标系（UCS）怎么用;用户坐标系（UCS）常见错误;用户坐标系（UCS）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "用户可定义的局部工作坐标系，用于适应斜交、局部或三维工作面绘图。",
+      "用户可定义的局部工作坐标系，用于适应斜交、局部或三维工作面绘图。",
+      "三维建模、斜交构件和局部工作面绘制"
+    ],
+    "aliases": [
+      "用户坐标系（UCS）是什么",
+      "用户坐标系（UCS）怎么理解",
+      "用户坐标系（UCS）有什么用",
+      "AutoCAD中用户坐标系（UCS）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_074",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "模型空间（Model Space）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "用于按真实尺寸进行绘图和建模的工作空间。",
+    "core_explanation": "用于按真实尺寸进行绘图和建模的工作空间。",
+    "plain_explanation": "模型空间是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "设计建模、几何绘制、对象组织",
+    "application_scenario": "设计建模、几何绘制、对象组织",
+    "common_mistakes": [
+      "在模型空间直接做图纸排版"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "Model Space",
+      "模型空间",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "模型空间（Model Space）是什么;模型空间（Model Space）怎么理解;模型空间（Model Space）有什么用;AutoCAD中模型空间（Model Space）怎么用;模型空间（Model Space）常见错误;模型空间（Model Space）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "用于按真实尺寸进行绘图和建模的工作空间。",
+      "用于按真实尺寸进行绘图和建模的工作空间。",
+      "设计建模、几何绘制、对象组织"
+    ],
+    "aliases": [
+      "模型空间（Model Space）是什么",
+      "模型空间（Model Space）怎么理解",
+      "模型空间（Model Space）有什么用",
+      "AutoCAD中模型空间（Model Space）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_075",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "图纸空间（Paper Space）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "用于布局、视口、比例、图框和打印输出的空间。",
+    "core_explanation": "用于布局、视口、比例、图框和打印输出的空间。",
+    "plain_explanation": "图纸空间是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "标准图纸表达、打印发布",
+    "application_scenario": "标准图纸表达、打印发布",
+    "common_mistakes": [
+      "在图纸空间按模型尺度重新绘图"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "Paper Space",
+      "图纸空间",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图纸空间（Paper Space）是什么;图纸空间（Paper Space）怎么理解;图纸空间（Paper Space）有什么用;AutoCAD中图纸空间（Paper Space）怎么用;图纸空间（Paper Space）常见错误;图纸空间（Paper Space）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "用于布局、视口、比例、图框和打印输出的空间。",
+      "用于布局、视口、比例、图框和打印输出的空间。",
+      "标准图纸表达、打印发布"
+    ],
+    "aliases": [
+      "图纸空间（Paper Space）是什么",
+      "图纸空间（Paper Space）怎么理解",
+      "图纸空间（Paper Space）有什么用",
+      "AutoCAD中图纸空间（Paper Space）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_076",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "图层（Layer）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "按类别管理颜色、线型、线宽和可见状态的透明覆盖层。",
+    "core_explanation": "按类别管理颜色、线型、线宽和可见状态的透明覆盖层。",
+    "plain_explanation": "图层是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "组织地面线、设计线、标注、辅助线",
+    "application_scenario": "组织地面线、设计线、标注、辅助线",
+    "common_mistakes": [
+      "对象特性不随层导致管理混乱"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "Layer",
+      "图层",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图层（Layer）是什么;图层（Layer）怎么理解;图层（Layer）有什么用;AutoCAD中图层（Layer）怎么用;图层（Layer）常见错误;图层（Layer）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_002;ch06_src_003",
+    "status": "checked",
+    "key_points": [
+      "按类别管理颜色、线型、线宽和可见状态的透明覆盖层。",
+      "按类别管理颜色、线型、线宽和可见状态的透明覆盖层。",
+      "组织地面线、设计线、标注、辅助线"
+    ],
+    "aliases": [
+      "图层（Layer）是什么",
+      "图层（Layer）怎么理解",
+      "图层（Layer）有什么用",
+      "AutoCAD中图层（Layer）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_002;ch06_src_003"
+  },
+  {
+    "kp_id": "kp_ch06_077",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "视口（Viewport）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "图纸空间中显示模型空间内容的窗口，可设置范围、比例和可见性。",
+    "core_explanation": "图纸空间中显示模型空间内容的窗口，可设置范围、比例和可见性。",
+    "plain_explanation": "视口是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "一图多比例、多视角出图",
+    "application_scenario": "一图多比例、多视角出图",
+    "common_mistakes": [
+      "视口比例未锁定导致出图比例变化"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "Viewport",
+      "视口",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "视口（Viewport）是什么;视口（Viewport）怎么理解;视口（Viewport）有什么用;AutoCAD中视口（Viewport）怎么用;视口（Viewport）常见错误;视口（Viewport）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "图纸空间中显示模型空间内容的窗口，可设置范围、比例和可见性。",
+      "图纸空间中显示模型空间内容的窗口，可设置范围、比例和可见性。",
+      "一图多比例、多视角出图"
+    ],
+    "aliases": [
+      "视口（Viewport）是什么",
+      "视口（Viewport）怎么理解",
+      "视口（Viewport）有什么用",
+      "AutoCAD中视口（Viewport）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_078",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "图块（Block）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "由一组对象组成的复合对象，可重复插入并整体管理。",
+    "core_explanation": "由一组对象组成的复合对象，可重复插入并整体管理。",
+    "plain_explanation": "图块是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "指北针、路缘石、标准构件复用",
+    "application_scenario": "指北针、路缘石、标准构件复用",
+    "common_mistakes": [
+      "基点设置不合理"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "Block",
+      "图块",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "图块（Block）是什么;图块（Block）怎么理解;图块（Block）有什么用;AutoCAD中图块（Block）怎么用;图块（Block）常见错误;图块（Block）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_002;ch06_src_003",
+    "status": "checked",
+    "key_points": [
+      "由一组对象组成的复合对象，可重复插入并整体管理。",
+      "由一组对象组成的复合对象，可重复插入并整体管理。",
+      "指北针、路缘石、标准构件复用"
+    ],
+    "aliases": [
+      "图块（Block）是什么",
+      "图块（Block）怎么理解",
+      "图块（Block）有什么用",
+      "AutoCAD中图块（Block）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_002;ch06_src_003"
+  },
+  {
+    "kp_id": "kp_ch06_079",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "带属性块（Attribute Block）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "带有可填写属性字段的块，可表达编号、规格、材料等信息。",
+    "core_explanation": "带有可填写属性字段的块，可表达编号、规格、材料等信息。",
+    "plain_explanation": "带属性块是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "图形与信息结合、统计管理",
+    "application_scenario": "图形与信息结合、统计管理",
+    "common_mistakes": [
+      "属性标记和提示设置不规范"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "Attribute Block",
+      "带属性块",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "带属性块（Attribute Block）是什么;带属性块（Attribute Block）怎么理解;带属性块（Attribute Block）有什么用;AutoCAD中带属性块（Attribute Block）怎么用;带属性块（Attribute Block）常见错误;带属性块（Attribute Block）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_002;ch06_src_003",
+    "status": "checked",
+    "key_points": [
+      "带有可填写属性字段的块，可表达编号、规格、材料等信息。",
+      "带有可填写属性字段的块，可表达编号、规格、材料等信息。",
+      "图形与信息结合、统计管理"
+    ],
+    "aliases": [
+      "带属性块（Attribute Block）是什么",
+      "带属性块（Attribute Block）怎么理解",
+      "带属性块（Attribute Block）有什么用",
+      "AutoCAD中带属性块（Attribute Block）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_002;ch06_src_003"
+  },
+  {
+    "kp_id": "kp_ch06_080",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "随层（ByLayer）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "对象颜色、线型、线宽等继承所在图层设置的属性模式。",
+    "core_explanation": "对象颜色、线型、线宽等继承所在图层设置的属性模式。",
+    "plain_explanation": "随层是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "统一图纸样式、批量修改",
+    "application_scenario": "统一图纸样式、批量修改",
+    "common_mistakes": [
+      "为对象指定固定颜色导致不随层"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "ByLayer",
+      "随层",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "随层（ByLayer）是什么;随层（ByLayer）怎么理解;随层（ByLayer）有什么用;AutoCAD中随层（ByLayer）怎么用;随层（ByLayer）常见错误;随层（ByLayer）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "对象颜色、线型、线宽等继承所在图层设置的属性模式。",
+      "对象颜色、线型、线宽等继承所在图层设置的属性模式。",
+      "统一图纸样式、批量修改"
+    ],
+    "aliases": [
+      "随层（ByLayer）是什么",
+      "随层（ByLayer）怎么理解",
+      "随层（ByLayer）有什么用",
+      "AutoCAD中随层（ByLayer）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  },
+  {
+    "kp_id": "kp_ch06_081",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "对象捕捉（OSNAP）",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "自动识别端点、中点、圆心、交点、切点等几何特征点的定位工具。",
+    "core_explanation": "自动识别端点、中点、圆心、交点、切点等几何特征点的定位工具。",
+    "plain_explanation": "对象捕捉是AutoCAD操作中的重要软件对象，理解它的作用有助于减少操作错误。",
+    "engineering_meaning": "保证几何连接和绘图精度",
+    "application_scenario": "保证几何连接和绘图精度",
+    "common_mistakes": [
+      "未启用目标捕捉导致点位不准确"
+    ],
+    "correction_explanation": "应结合“是什么、在哪里设置、对图形结果有什么影响”进行理解。",
+    "answer_strategy": "先定义对象，再说明作用，再提示常见误区。",
+    "answer_boundary": "围绕第六章讲授范围说明，不展开软件底层数据结构。",
+    "keywords": [
+      "OSNAP",
+      "对象捕捉",
+      "AutoCAD"
+    ],
+    "student_question_patterns": "对象捕捉（OSNAP）是什么;对象捕捉（OSNAP）怎么理解;对象捕捉（OSNAP）有什么用;AutoCAD中对象捕捉（OSNAP）怎么用;对象捕捉（OSNAP）常见错误;对象捕捉（OSNAP）操作步骤",
+    "evidence_chunks": "ch06_src_001;ch06_src_003;ch06_src_004",
+    "status": "checked",
+    "key_points": [
+      "自动识别端点、中点、圆心、交点、切点等几何特征点的定位工具。",
+      "自动识别端点、中点、圆心、交点、切点等几何特征点的定位工具。",
+      "保证几何连接和绘图精度"
+    ],
+    "aliases": [
+      "对象捕捉（OSNAP）是什么",
+      "对象捕捉（OSNAP）怎么理解",
+      "对象捕捉（OSNAP）有什么用",
+      "AutoCAD中对象捕捉（OSNAP）怎么用"
+    ],
+    "related_kps": [],
+    "source_hint": "ch06_src_001;ch06_src_003;ch06_src_004"
+  }
+]

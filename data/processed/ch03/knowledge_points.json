@@ -1,0 +1,5398 @@
+[
+  {
+    "kp_id": "kp_ch03_001",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "计算机辅助设计CAD的基本定义",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。",
+    "core_explanation": "利用计算机辅助工程设计；以图形表达和几何计算为核心；在道路工程中服务于路线、纵横断面和成果图表生成",
+    "plain_explanation": "计算机辅助设计CAD的基本定义可以理解为道路CAD系统中用于利用计算机辅助工程设计的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“计算机辅助设计CAD的基本定义”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“计算机辅助设计CAD的基本定义”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_001",
+    "keywords": [
+      "CAD",
+      "计算机辅助设计",
+      "定义",
+      "计算机辅助设计CAD的基本定义"
+    ],
+    "aliases": [
+      "CAD是什么",
+      "计算机辅助设计定义"
+    ],
+    "student_question_patterns": [
+      "计算机辅助设计CAD的基本定义是什么？",
+      "计算机辅助设计CAD的基本定义有什么作用？",
+      "计算机辅助设计CAD的基本定义在道路CAD中如何应用？"
+    ],
+    "embedding_text": "计算机辅助设计CAD的基本定义。定义：CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。。要点：利用计算机辅助工程设计；以图形表达和几何计算为核心；在道路工程中服务于路线、纵横断面和成果图表生成。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。",
+      "利用计算机辅助工程设计；以图形表达和几何计算为核心；在道路工程中服务于路线、纵横断面和成果图表生成",
+      "计算机辅助设计CAD的基本定义可以理解为道路CAD系统中用于利用计算机辅助工程设计的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_002",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD的工程内涵",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。",
+    "core_explanation": "包含绘图、计算、编辑和管理功能；支撑工程图纸标准化输出；可通过专业模块适应道路设计流程",
+    "plain_explanation": "CAD的工程内涵可以理解为道路CAD系统中用于包含绘图、计算、编辑和管理功能的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD的工程内涵”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD的工程内涵”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_001",
+    "keywords": [
+      "CAD内涵",
+      "绘图工具",
+      "设计系统",
+      "CAD的工程内涵"
+    ],
+    "aliases": [
+      "CAD不只是画图"
+    ],
+    "student_question_patterns": [
+      "CAD的工程内涵是什么？",
+      "CAD的工程内涵有什么作用？",
+      "CAD的工程内涵在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD的工程内涵。定义：CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。。要点：包含绘图、计算、编辑和管理功能；支撑工程图纸标准化输出；可通过专业模块适应道路设计流程。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。",
+      "包含绘图、计算、编辑和管理功能；支撑工程图纸标准化输出；可通过专业模块适应道路设计流程",
+      "CAD的工程内涵可以理解为道路CAD系统中用于包含绘图、计算、编辑和管理功能的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_003",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD精确几何建模能力",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。",
+    "core_explanation": "保证道路几何对象定位准确；支持复杂线形、断面和构造物绘制；为后续计算和制图提供基础",
+    "plain_explanation": "CAD精确几何建模能力可以理解为道路CAD系统中用于保证道路几何对象定位准确的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD精确几何建模能力”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD精确几何建模能力”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_002",
+    "keywords": [
+      "几何建模",
+      "坐标",
+      "图形精度",
+      "CAD精确几何建模能力"
+    ],
+    "aliases": [
+      "精确绘图"
+    ],
+    "student_question_patterns": [
+      "CAD精确几何建模能力是什么？",
+      "CAD精确几何建模能力有什么作用？",
+      "CAD精确几何建模能力在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD精确几何建模能力。定义：CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。。要点：保证道路几何对象定位准确；支持复杂线形、断面和构造物绘制；为后续计算和制图提供基础。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。",
+      "保证道路几何对象定位准确；支持复杂线形、断面和构造物绘制；为后续计算和制图提供基础",
+      "CAD精确几何建模能力可以理解为道路CAD系统中用于保证道路几何对象定位准确的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_004",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD可视化表达能力",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。",
+    "core_explanation": "帮助设计人员检查路线与构件形态；支持平纵横断面图形表达；提高设计交流和成果审查效率",
+    "plain_explanation": "CAD可视化表达能力可以理解为道路CAD系统中用于帮助设计人员检查路线与构件形态的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD可视化表达能力”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD可视化表达能力”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_002",
+    "keywords": [
+      "可视化",
+      "图形表达",
+      "图层",
+      "CAD可视化表达能力"
+    ],
+    "aliases": [
+      "图形显示"
+    ],
+    "student_question_patterns": [
+      "CAD可视化表达能力是什么？",
+      "CAD可视化表达能力有什么作用？",
+      "CAD可视化表达能力在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD可视化表达能力。定义：CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。。要点：帮助设计人员检查路线与构件形态；支持平纵横断面图形表达；提高设计交流和成果审查效率。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。",
+      "帮助设计人员检查路线与构件形态；支持平纵横断面图形表达；提高设计交流和成果审查效率",
+      "CAD可视化表达能力可以理解为道路CAD系统中用于帮助设计人员检查路线与构件形态的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_005",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "以图纸为中心的CAD设计逻辑",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。",
+    "core_explanation": "成果组织围绕图纸展开；图形对象多以二维几何为主；与BIM的模型中心逻辑形成对比",
+    "plain_explanation": "以图纸为中心的CAD设计逻辑可以理解为道路CAD系统中用于成果组织围绕图纸展开的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“以图纸为中心的CAD设计逻辑”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“以图纸为中心的CAD设计逻辑”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_003",
+    "keywords": [
+      "图纸中心",
+      "二维图纸",
+      "交付",
+      "以图纸为中心的CAD设计逻辑"
+    ],
+    "aliases": [
+      "图纸驱动",
+      "以图纸为核心"
+    ],
+    "student_question_patterns": [
+      "以图纸为中心的CAD设计逻辑是什么？",
+      "以图纸为中心的CAD设计逻辑有什么作用？",
+      "以图纸为中心的CAD设计逻辑在道路CAD中如何应用？"
+    ],
+    "embedding_text": "以图纸为中心的CAD设计逻辑。定义：传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。。要点：成果组织围绕图纸展开；图形对象多以二维几何为主；与BIM的模型中心逻辑形成对比。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。",
+      "成果组织围绕图纸展开；图形对象多以二维几何为主；与BIM的模型中心逻辑形成对比",
+      "以图纸为中心的CAD设计逻辑可以理解为道路CAD系统中用于成果组织围绕图纸展开的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_006",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD标准化输出能力",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。",
+    "core_explanation": "保证设计成果符合制图规范；提高出图效率和质量控制水平；便于施工图审查和归档",
+    "plain_explanation": "CAD标准化输出能力可以理解为道路CAD系统中用于保证设计成果符合制图规范的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD标准化输出能力”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD标准化输出能力”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_003",
+    "keywords": [
+      "标准化",
+      "图层",
+      "标注",
+      "图框",
+      "CAD标准化输出能力"
+    ],
+    "aliases": [
+      "规范出图"
+    ],
+    "student_question_patterns": [
+      "CAD标准化输出能力是什么？",
+      "CAD标准化输出能力有什么作用？",
+      "CAD标准化输出能力在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD标准化输出能力。定义：CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。。要点：保证设计成果符合制图规范；提高出图效率和质量控制水平；便于施工图审查和归档。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。",
+      "保证设计成果符合制图规范；提高出图效率和质量控制水平；便于施工图审查和归档",
+      "CAD标准化输出能力可以理解为道路CAD系统中用于保证设计成果符合制图规范的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_007",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD高效编辑机制",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。",
+    "core_explanation": "支持快速图形修改；减少重复绘制工作；适合图纸成果迭代",
+    "plain_explanation": "CAD高效编辑机制可以理解为道路CAD系统中用于支持快速图形修改的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD高效编辑机制”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD高效编辑机制”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_004",
+    "keywords": [
+      "编辑",
+      "图块",
+      "修改",
+      "CAD高效编辑机制"
+    ],
+    "aliases": [
+      "快速修改"
+    ],
+    "student_question_patterns": [
+      "CAD高效编辑机制是什么？",
+      "CAD高效编辑机制有什么作用？",
+      "CAD高效编辑机制在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD高效编辑机制。定义：CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。。要点：支持快速图形修改；减少重复绘制工作；适合图纸成果迭代。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。",
+      "支持快速图形修改；减少重复绘制工作；适合图纸成果迭代",
+      "CAD高效编辑机制可以理解为道路CAD系统中用于支持快速图形修改的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_008",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD数据管理机制",
+    "knowledge_type": "feature",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。",
+    "core_explanation": "组织图形和非图形数据；支持成果调用和版本管理；为参数化和跨平台协同提供基础",
+    "plain_explanation": "CAD数据管理机制可以理解为道路CAD系统中用于组织图形和非图形数据的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD数据管理机制”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD数据管理机制”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_004",
+    "keywords": [
+      "数据管理",
+      "工程数据库",
+      "图层",
+      "CAD数据管理机制"
+    ],
+    "aliases": [
+      "CAD数据组织"
+    ],
+    "student_question_patterns": [
+      "CAD数据管理机制是什么？",
+      "CAD数据管理机制有什么作用？",
+      "CAD数据管理机制在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD数据管理机制。定义：CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。。要点：组织图形和非图形数据；支持成果调用和版本管理；为参数化和跨平台协同提供基础。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。",
+      "组织图形和非图形数据；支持成果调用和版本管理；为参数化和跨平台协同提供基础",
+      "CAD数据管理机制可以理解为道路CAD系统中用于组织图形和非图形数据的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_009",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD参数化潜力",
+    "knowledge_type": "feature",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。",
+    "core_explanation": "将重复性计算程序化；提高平纵横断面设计效率；为道路BIM正向设计提供过渡基础",
+    "plain_explanation": "CAD参数化潜力可以理解为道路CAD系统中用于将重复性计算程序化的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD参数化潜力”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD参数化潜力”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_005",
+    "keywords": [
+      "参数化",
+      "自动化",
+      "脚本",
+      "CAD参数化潜力"
+    ],
+    "aliases": [
+      "CAD自动化"
+    ],
+    "student_question_patterns": [
+      "CAD参数化潜力是什么？",
+      "CAD参数化潜力有什么作用？",
+      "CAD参数化潜力在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD参数化潜力。定义：CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。。要点：将重复性计算程序化；提高平纵横断面设计效率；为道路BIM正向设计提供过渡基础。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。",
+      "将重复性计算程序化；提高平纵横断面设计效率；为道路BIM正向设计提供过渡基础",
+      "CAD参数化潜力可以理解为道路CAD系统中用于将重复性计算程序化的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_010",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD开放性与系统衔接能力",
+    "knowledge_type": "feature",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。",
+    "core_explanation": "支持LISP、.NET、API等扩展；可以读写DXF、DWG等文件；便于与专业设计模块集成",
+    "plain_explanation": "CAD开放性与系统衔接能力可以理解为道路CAD系统中用于支持LISP、.NET、API等扩展的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD开放性与系统衔接能力”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD开放性与系统衔接能力”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_005",
+    "keywords": [
+      "开放性",
+      "二次开发",
+      "接口",
+      "CAD开放性与系统衔接能力"
+    ],
+    "aliases": [
+      "CAD扩展"
+    ],
+    "student_question_patterns": [
+      "CAD开放性与系统衔接能力是什么？",
+      "CAD开放性与系统衔接能力有什么作用？",
+      "CAD开放性与系统衔接能力在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD开放性与系统衔接能力。定义：CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。。要点：支持LISP、.NET、API等扩展；可以读写DXF、DWG等文件；便于与专业设计模块集成。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。",
+      "支持LISP、.NET、API等扩展；可以读写DXF、DWG等文件；便于与专业设计模块集成",
+      "CAD开放性与系统衔接能力可以理解为道路CAD系统中用于支持LISP、.NET、API等扩展的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_011",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD硬件系统",
+    "knowledge_type": "component",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。",
+    "core_explanation": "主机提供计算和图形处理能力；输入设备支持绘图和参数输入；输出设备用于图纸打印和成果展示",
+    "plain_explanation": "CAD硬件系统可以理解为道路CAD系统中用于主机提供计算和图形处理能力的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD硬件系统”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD硬件系统”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_006",
+    "keywords": [
+      "硬件",
+      "CPU",
+      "GPU",
+      "输入输出",
+      "CAD硬件系统"
+    ],
+    "aliases": [
+      "CAD设备"
+    ],
+    "student_question_patterns": [
+      "CAD硬件系统是什么？",
+      "CAD硬件系统有什么作用？",
+      "CAD硬件系统在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD硬件系统。定义：CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。。要点：主机提供计算和图形处理能力；输入设备支持绘图和参数输入；输出设备用于图纸打印和成果展示。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。",
+      "主机提供计算和图形处理能力；输入设备支持绘图和参数输入；输出设备用于图纸打印和成果展示",
+      "CAD硬件系统可以理解为道路CAD系统中用于主机提供计算和图形处理能力的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_012",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD软件系统层级",
+    "knowledge_type": "component",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。",
+    "core_explanation": "操作系统提供运行环境；图形平台提供基础绘图和编辑能力；专业模块实现道路行业特定任务",
+    "plain_explanation": "CAD软件系统层级可以理解为道路CAD系统中用于操作系统提供运行环境的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD软件系统层级”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD软件系统层级”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_006",
+    "keywords": [
+      "软件系统",
+      "图形平台",
+      "专业模块",
+      "CAD软件系统层级"
+    ],
+    "aliases": [
+      "CAD软件组成"
+    ],
+    "student_question_patterns": [
+      "CAD软件系统层级是什么？",
+      "CAD软件系统层级有什么作用？",
+      "CAD软件系统层级在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD软件系统层级。定义：CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。。要点：操作系统提供运行环境；图形平台提供基础绘图和编辑能力；专业模块实现道路行业特定任务。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。",
+      "操作系统提供运行环境；图形平台提供基础绘图和编辑能力；专业模块实现道路行业特定任务",
+      "CAD软件系统层级可以理解为道路CAD系统中用于操作系统提供运行环境的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_013",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD数据与知识资源",
+    "knowledge_type": "component",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。",
+    "core_explanation": "图形元素库提高复用效率；样式标注库保障成果统一；工程数据库支撑参数和规范调用",
+    "plain_explanation": "CAD数据与知识资源可以理解为道路CAD系统中用于图形元素库提高复用效率的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD数据与知识资源”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD数据与知识资源”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_007",
+    "keywords": [
+      "图形元素库",
+      "样式库",
+      "工程数据库",
+      "CAD数据与知识资源"
+    ],
+    "aliases": [
+      "CAD资源库"
+    ],
+    "student_question_patterns": [
+      "CAD数据与知识资源是什么？",
+      "CAD数据与知识资源有什么作用？",
+      "CAD数据与知识资源在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD数据与知识资源。定义：CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。。要点：图形元素库提高复用效率；样式标注库保障成果统一；工程数据库支撑参数和规范调用。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。",
+      "图形元素库提高复用效率；样式标注库保障成果统一；工程数据库支撑参数和规范调用",
+      "CAD数据与知识资源可以理解为道路CAD系统中用于图形元素库提高复用效率的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_014",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "图形元素库",
+    "knowledge_type": "component",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。",
+    "core_explanation": "提高重复对象绘制效率；促进图纸表达标准化；支持道路构件符号复用",
+    "plain_explanation": "图形元素库可以理解为道路CAD系统中用于提高重复对象绘制效率的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“图形元素库”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“图形元素库”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_007",
+    "keywords": [
+      "图块",
+      "符号",
+      "模板",
+      "图形元素库"
+    ],
+    "aliases": [
+      "标准图块库"
+    ],
+    "student_question_patterns": [
+      "图形元素库是什么？",
+      "图形元素库有什么作用？",
+      "图形元素库在道路CAD中如何应用？"
+    ],
+    "embedding_text": "图形元素库。定义：图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。。要点：提高重复对象绘制效率；促进图纸表达标准化；支持道路构件符号复用。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。",
+      "提高重复对象绘制效率；促进图纸表达标准化；支持道路构件符号复用",
+      "图形元素库可以理解为道路CAD系统中用于提高重复对象绘制效率的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_015",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "样式与标注库",
+    "knowledge_type": "component",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。",
+    "core_explanation": "保证图纸风格一致；降低人工设置成本；提高成果规范性",
+    "plain_explanation": "样式与标注库可以理解为道路CAD系统中用于保证图纸风格一致的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“样式与标注库”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“样式与标注库”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_008",
+    "keywords": [
+      "标注样式",
+      "线型",
+      "图层模板",
+      "样式与标注库"
+    ],
+    "aliases": [
+      "标注库"
+    ],
+    "student_question_patterns": [
+      "样式与标注库是什么？",
+      "样式与标注库有什么作用？",
+      "样式与标注库在道路CAD中如何应用？"
+    ],
+    "embedding_text": "样式与标注库。定义：样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。。要点：保证图纸风格一致；降低人工设置成本；提高成果规范性。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。",
+      "保证图纸风格一致；降低人工设置成本；提高成果规范性",
+      "样式与标注库可以理解为道路CAD系统中用于保证图纸风格一致的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_016",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "工程数据库",
+    "knowledge_type": "component",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。",
+    "core_explanation": "保存非几何工程信息；支撑参数输入和自动计算；促进图形与数据联动",
+    "plain_explanation": "工程数据库可以理解为道路CAD系统中用于保存非几何工程信息的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“工程数据库”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“工程数据库”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_008",
+    "keywords": [
+      "工程数据库",
+      "非几何信息",
+      "规范",
+      "工程数据库"
+    ],
+    "aliases": [
+      "设计数据库"
+    ],
+    "student_question_patterns": [
+      "工程数据库是什么？",
+      "工程数据库有什么作用？",
+      "工程数据库在道路CAD中如何应用？"
+    ],
+    "embedding_text": "工程数据库。定义：工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。。要点：保存非几何工程信息；支撑参数输入和自动计算；促进图形与数据联动。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。",
+      "保存非几何工程信息；支撑参数输入和自动计算；促进图形与数据联动",
+      "工程数据库可以理解为道路CAD系统中用于保存非几何工程信息的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_017",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "用户自定义资源",
+    "knowledge_type": "component",
+    "difficulty": "中等",
+    "importance": "补充",
+    "definition": "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。",
+    "core_explanation": "支持个性化工作流程；提高重复任务效率；扩展专业功能",
+    "plain_explanation": "用户自定义资源可以理解为道路CAD系统中用于支持个性化工作流程的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“用户自定义资源”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“用户自定义资源”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_009",
+    "keywords": [
+      "LISP",
+      "宏",
+      "快捷命令",
+      "用户自定义资源"
+    ],
+    "aliases": [
+      "CAD脚本"
+    ],
+    "student_question_patterns": [
+      "用户自定义资源是什么？",
+      "用户自定义资源有什么作用？",
+      "用户自定义资源在道路CAD中如何应用？"
+    ],
+    "embedding_text": "用户自定义资源。定义：用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。。要点：支持个性化工作流程；提高重复任务效率；扩展专业功能。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。",
+      "支持个性化工作流程；提高重复任务效率；扩展专业功能",
+      "用户自定义资源可以理解为道路CAD系统中用于支持个性化工作流程的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_018",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "道路工程设计阶段",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。",
+    "core_explanation": "可研阶段强调方案表达；初设阶段强调线形和工程量估算；施工图阶段强调精确图纸和表格输出",
+    "plain_explanation": "道路工程设计阶段可以理解为道路CAD系统中用于可研阶段强调方案表达的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“道路工程设计阶段”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“道路工程设计阶段”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_009",
+    "keywords": [
+      "设计阶段",
+      "可研",
+      "初设",
+      "施工图",
+      "道路工程设计阶段"
+    ],
+    "aliases": [
+      "道路设计阶段"
+    ],
+    "student_question_patterns": [
+      "道路工程设计阶段是什么？",
+      "道路工程设计阶段有什么作用？",
+      "道路工程设计阶段在道路CAD中如何应用？"
+    ],
+    "embedding_text": "道路工程设计阶段。定义：道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。。要点：可研阶段强调方案表达；初设阶段强调线形和工程量估算；施工图阶段强调精确图纸和表格输出。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。",
+      "可研阶段强调方案表达；初设阶段强调线形和工程量估算；施工图阶段强调精确图纸和表格输出",
+      "道路工程设计阶段可以理解为道路CAD系统中用于可研阶段强调方案表达的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_019",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "道路基本设计流程",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推进。",
+    "core_explanation": "各模块逻辑递进并相互关联；路线中线是多模块联动基础；CAD系统需按流程组织功能",
+    "plain_explanation": "道路基本设计流程可以理解为道路CAD系统中用于各模块逻辑递进并相互关联的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“道路基本设计流程”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“道路基本设计流程”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_010",
+    "keywords": [
+      "设计流程",
+      "地形建模",
+      "成果输出",
+      "道路基本设计流程"
+    ],
+    "aliases": [
+      "道路CAD流程"
+    ],
+    "student_question_patterns": [
+      "道路基本设计流程是什么？",
+      "道路基本设计流程有什么作用？",
+      "道路基本设计流程在道路CAD中如何应用？"
+    ],
+    "embedding_text": "道路基本设计流程。定义：道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推进。。要点：各模块逻辑递进并相互关联；路线中线是多模块联动基础；CAD系统需按流程组织功能。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推进。",
+      "各模块逻辑递进并相互关联；路线中线是多模块联动基础；CAD系统需按流程组织功能",
+      "道路基本设计流程可以理解为道路CAD系统中用于各模块逻辑递进并相互关联的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_020",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "测绘与地形建模流程",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。",
+    "core_explanation": "为路线选线提供地形基础；为纵横断面提取地面线；支撑土石方和排水分析",
+    "plain_explanation": "测绘与地形建模流程可以理解为道路CAD系统中用于为路线选线提供地形基础的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“测绘与地形建模流程”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“测绘与地形建模流程”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_010",
+    "keywords": [
+      "测绘",
+      "DTM",
+      "地形建模",
+      "测绘与地形建模流程"
+    ],
+    "aliases": [
+      "数模建立"
+    ],
+    "student_question_patterns": [
+      "测绘与地形建模流程是什么？",
+      "测绘与地形建模流程有什么作用？",
+      "测绘与地形建模流程在道路CAD中如何应用？"
+    ],
+    "embedding_text": "测绘与地形建模流程。定义：测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。。要点：为路线选线提供地形基础；为纵横断面提取地面线；支撑土石方和排水分析。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。",
+      "为路线选线提供地形基础；为纵横断面提取地面线；支撑土石方和排水分析",
+      "测绘与地形建模流程可以理解为道路CAD系统中用于为路线选线提供地形基础的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_021",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "路线平纵面设计流程",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。",
+    "core_explanation": "平面决定道路走向；纵断面控制高程变化；平纵协调影响安全、工程量和景观",
+    "plain_explanation": "路线平纵面设计流程可以理解为道路CAD系统中用于平面决定道路走向的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“路线平纵面设计流程”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“路线平纵面设计流程”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_011",
+    "keywords": [
+      "平面设计",
+      "纵断面",
+      "线形",
+      "路线平纵面设计流程"
+    ],
+    "aliases": [
+      "平纵设计"
+    ],
+    "student_question_patterns": [
+      "路线平纵面设计流程是什么？",
+      "路线平纵面设计流程有什么作用？",
+      "路线平纵面设计流程在道路CAD中如何应用？"
+    ],
+    "embedding_text": "路线平纵面设计流程。定义：路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。。要点：平面决定道路走向；纵断面控制高程变化；平纵协调影响安全、工程量和景观。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。",
+      "平面决定道路走向；纵断面控制高程变化；平纵协调影响安全、工程量和景观",
+      "路线平纵面设计流程可以理解为道路CAD系统中用于平面决定道路走向的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_022",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "横断面与路基设计流程",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。",
+    "core_explanation": "将路线设计落实到断面形态；支持路基土石方计算；需要自动设计与交互修改结合",
+    "plain_explanation": "横断面与路基设计流程可以理解为道路CAD系统中用于将路线设计落实到断面形态的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面与路基设计流程”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面与路基设计流程”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_011",
+    "keywords": [
+      "横断面",
+      "路基",
+      "戴帽",
+      "横断面与路基设计流程"
+    ],
+    "aliases": [
+      "横断设计"
+    ],
+    "student_question_patterns": [
+      "横断面与路基设计流程是什么？",
+      "横断面与路基设计流程有什么作用？",
+      "横断面与路基设计流程在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面与路基设计流程。定义：横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。。要点：将路线设计落实到断面形态；支持路基土石方计算；需要自动设计与交互修改结合。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。",
+      "将路线设计落实到断面形态；支持路基土石方计算；需要自动设计与交互修改结合",
+      "横断面与路基设计流程可以理解为道路CAD系统中用于将路线设计落实到断面形态的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_023",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "CAD成果输出流程",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。",
+    "core_explanation": "服务施工图交付；需要自动排版与表格生成；是CAD系统成果导向的重要体现",
+    "plain_explanation": "CAD成果输出流程可以理解为道路CAD系统中用于服务施工图交付的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“CAD成果输出流程”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“CAD成果输出流程”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_012",
+    "keywords": [
+      "成果输出",
+      "图纸",
+      "报表",
+      "CAD成果输出流程"
+    ],
+    "aliases": [
+      "自动出图"
+    ],
+    "student_question_patterns": [
+      "CAD成果输出流程是什么？",
+      "CAD成果输出流程有什么作用？",
+      "CAD成果输出流程在道路CAD中如何应用？"
+    ],
+    "embedding_text": "CAD成果输出流程。定义：CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。。要点：服务施工图交付；需要自动排版与表格生成；是CAD系统成果导向的重要体现。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。",
+      "服务施工图交付；需要自动排版与表格生成；是CAD系统成果导向的重要体现",
+      "CAD成果输出流程可以理解为道路CAD系统中用于服务施工图交付的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_024",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "道路CAD图纸交付理念",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。",
+    "core_explanation": "成果以图纸和报表为主要形式；系统功能围绕交付要求组织；与模型交付形成阶段性差异",
+    "plain_explanation": "道路CAD图纸交付理念可以理解为道路CAD系统中用于成果以图纸和报表为主要形式的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“道路CAD图纸交付理念”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“道路CAD图纸交付理念”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_012",
+    "keywords": [
+      "图纸交付",
+      "成果导向",
+      "道路CAD图纸交付理念"
+    ],
+    "aliases": [
+      "图纸成果"
+    ],
+    "student_question_patterns": [
+      "道路CAD图纸交付理念是什么？",
+      "道路CAD图纸交付理念有什么作用？",
+      "道路CAD图纸交付理念在道路CAD中如何应用？"
+    ],
+    "embedding_text": "道路CAD图纸交付理念。定义：道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。。要点：成果以图纸和报表为主要形式；系统功能围绕交付要求组织；与模型交付形成阶段性差异。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。",
+      "成果以图纸和报表为主要形式；系统功能围绕交付要求组织；与模型交付形成阶段性差异",
+      "道路CAD图纸交付理念可以理解为道路CAD系统中用于成果以图纸和报表为主要形式的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_025",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "几何中线驱动建模逻辑",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。",
+    "core_explanation": "中线控制道路平面位置；中线桩号贯穿纵横断面设计；中线是多模块数据联动的核心",
+    "plain_explanation": "几何中线驱动建模逻辑可以理解为道路CAD系统中用于中线控制道路平面位置的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“几何中线驱动建模逻辑”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“几何中线驱动建模逻辑”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_013",
+    "keywords": [
+      "中线",
+      "桩号",
+      "驱动",
+      "几何中线驱动建模逻辑"
+    ],
+    "aliases": [
+      "以中线为主轴"
+    ],
+    "student_question_patterns": [
+      "几何中线驱动建模逻辑是什么？",
+      "几何中线驱动建模逻辑有什么作用？",
+      "几何中线驱动建模逻辑在道路CAD中如何应用？"
+    ],
+    "embedding_text": "几何中线驱动建模逻辑。定义：道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。。要点：中线控制道路平面位置；中线桩号贯穿纵横断面设计；中线是多模块数据联动的核心。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。",
+      "中线控制道路平面位置；中线桩号贯穿纵横断面设计；中线是多模块数据联动的核心",
+      "几何中线驱动建模逻辑可以理解为道路CAD系统中用于中线控制道路平面位置的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_026",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "工程流程导向功能集成",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。",
+    "core_explanation": "功能顺序符合设计工作流；减少跨模块操作割裂；便于设计数据统一管理",
+    "plain_explanation": "工程流程导向功能集成可以理解为道路CAD系统中用于功能顺序符合设计工作流的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“工程流程导向功能集成”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“工程流程导向功能集成”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_013",
+    "keywords": [
+      "功能集成",
+      "流程导向",
+      "工程流程导向功能集成"
+    ],
+    "aliases": [
+      "模块协同"
+    ],
+    "student_question_patterns": [
+      "工程流程导向功能集成是什么？",
+      "工程流程导向功能集成有什么作用？",
+      "工程流程导向功能集成在道路CAD中如何应用？"
+    ],
+    "embedding_text": "工程流程导向功能集成。定义：道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。。要点：功能顺序符合设计工作流；减少跨模块操作割裂；便于设计数据统一管理。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。",
+      "功能顺序符合设计工作流；减少跨模块操作割裂；便于设计数据统一管理",
+      "工程流程导向功能集成可以理解为道路CAD系统中用于功能顺序符合设计工作流的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_027",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "道路CAD向智能化与BIM协同演进",
+    "knowledge_type": "trend",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。",
+    "core_explanation": "传统CAD仍以图纸为主；智能化增强计算和校核能力；BIM协同推动图形数据向模型数据过渡",
+    "plain_explanation": "道路CAD向智能化与BIM协同演进可以理解为道路CAD系统中用于传统CAD仍以图纸为主的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“道路CAD向智能化与BIM协同演进”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“道路CAD向智能化与BIM协同演进”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_014",
+    "keywords": [
+      "智能化",
+      "BIM协同",
+      "参数驱动",
+      "道路CAD向智能化与BIM协同演进"
+    ],
+    "aliases": [
+      "CAD升级"
+    ],
+    "student_question_patterns": [
+      "道路CAD向智能化与BIM协同演进是什么？",
+      "道路CAD向智能化与BIM协同演进有什么作用？",
+      "道路CAD向智能化与BIM协同演进在道路CAD中如何应用？"
+    ],
+    "embedding_text": "道路CAD向智能化与BIM协同演进。定义：现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。。要点：传统CAD仍以图纸为主；智能化增强计算和校核能力；BIM协同推动图形数据向模型数据过渡。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。",
+      "传统CAD仍以图纸为主；智能化增强计算和校核能力；BIM协同推动图形数据向模型数据过渡",
+      "道路CAD向智能化与BIM协同演进可以理解为道路CAD系统中用于传统CAD仍以图纸为主的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_028",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "数模模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。",
+    "core_explanation": "导入地形数据；构建DTM/TIN；提供剖切和地形分析基础",
+    "plain_explanation": "数模模块可以理解为道路CAD系统中用于导入地形数据的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“数模模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“数模模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_014",
+    "keywords": [
+      "数模模块",
+      "道路CAD模块",
+      "数模模块"
+    ],
+    "aliases": [
+      "数模"
+    ],
+    "student_question_patterns": [
+      "数模模块是什么？",
+      "数模模块有什么作用？",
+      "数模模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "数模模块。定义：支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。。要点：导入地形数据；构建DTM/TIN；提供剖切和地形分析基础。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。",
+      "导入地形数据；构建DTM/TIN；提供剖切和地形分析基础",
+      "数模模块可以理解为道路CAD系统中用于导入地形数据的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_029",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "平面设计模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "实现道路中线布设、平面曲线组合计算和设计图自动生成。",
+    "core_explanation": "支持交点法、线元法和积木法；完成路线中线布设与调整；生成平面设计成果",
+    "plain_explanation": "平面设计模块可以理解为道路CAD系统中用于支持交点法、线元法和积木法的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面设计模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面设计模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_015",
+    "keywords": [
+      "平面设计模块",
+      "道路CAD模块",
+      "平面设计模块"
+    ],
+    "aliases": [
+      "平面设计"
+    ],
+    "student_question_patterns": [
+      "平面设计模块是什么？",
+      "平面设计模块有什么作用？",
+      "平面设计模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面设计模块。定义：实现道路中线布设、平面曲线组合计算和设计图自动生成。。要点：支持交点法、线元法和积木法；完成路线中线布设与调整；生成平面设计成果。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "实现道路中线布设、平面曲线组合计算和设计图自动生成。",
+      "支持交点法、线元法和积木法；完成路线中线布设与调整；生成平面设计成果",
+      "平面设计模块可以理解为道路CAD系统中用于支持交点法、线元法和积木法的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_030",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "纵断面设计模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。",
+    "core_explanation": "提取纵断面地面线；支持拉坡与竖曲线设计；与平面线形和桩号联动",
+    "plain_explanation": "纵断面设计模块可以理解为道路CAD系统中用于提取纵断面地面线的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面设计模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面设计模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_015",
+    "keywords": [
+      "纵断面设计模块",
+      "道路CAD模块",
+      "纵断面设计模块"
+    ],
+    "aliases": [
+      "纵断面设计"
+    ],
+    "student_question_patterns": [
+      "纵断面设计模块是什么？",
+      "纵断面设计模块有什么作用？",
+      "纵断面设计模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面设计模块。定义：完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。。要点：提取纵断面地面线；支持拉坡与竖曲线设计；与平面线形和桩号联动。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。",
+      "提取纵断面地面线；支持拉坡与竖曲线设计；与平面线形和桩号联动",
+      "纵断面设计模块可以理解为道路CAD系统中用于提取纵断面地面线的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_031",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "横断面设计模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。",
+    "core_explanation": "定义路幅、边坡和边沟模板；自动生成横断面设计线；支持工程量统计",
+    "plain_explanation": "横断面设计模块可以理解为道路CAD系统中用于定义路幅、边坡和边沟模板的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面设计模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面设计模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_016",
+    "keywords": [
+      "横断面设计模块",
+      "道路CAD模块",
+      "横断面设计模块"
+    ],
+    "aliases": [
+      "横断面设计"
+    ],
+    "student_question_patterns": [
+      "横断面设计模块是什么？",
+      "横断面设计模块有什么作用？",
+      "横断面设计模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面设计模块。定义：提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。。要点：定义路幅、边坡和边沟模板；自动生成横断面设计线；支持工程量统计。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。",
+      "定义路幅、边坡和边沟模板；自动生成横断面设计线；支持工程量统计",
+      "横断面设计模块可以理解为道路CAD系统中用于定义路幅、边坡和边沟模板的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_032",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "路基支挡设计模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "用于布设支挡防护构造物并完成绘图和工程量统计。",
+    "core_explanation": "支持路肩墙、路堤墙、路堑墙等构造；与横断面和地形条件结合；输出构造物数量",
+    "plain_explanation": "路基支挡设计模块可以理解为道路CAD系统中用于支持路肩墙、路堤墙、路堑墙等构造的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“路基支挡设计模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“路基支挡设计模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_016",
+    "keywords": [
+      "路基支挡设计模块",
+      "道路CAD模块",
+      "路基支挡设计模块"
+    ],
+    "aliases": [
+      "路基支挡设计"
+    ],
+    "student_question_patterns": [
+      "路基支挡设计模块是什么？",
+      "路基支挡设计模块有什么作用？",
+      "路基支挡设计模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "路基支挡设计模块。定义：用于布设支挡防护构造物并完成绘图和工程量统计。。要点：支持路肩墙、路堤墙、路堑墙等构造；与横断面和地形条件结合；输出构造物数量。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "用于布设支挡防护构造物并完成绘图和工程量统计。",
+      "支持路肩墙、路堤墙、路堑墙等构造；与横断面和地形条件结合；输出构造物数量",
+      "路基支挡设计模块可以理解为道路CAD系统中用于支持路肩墙、路堤墙、路堑墙等构造的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_033",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "排水与构造物模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。",
+    "core_explanation": "布设排水构造物；可与地形模型联动分析排水路径；生成排水构造图和数量",
+    "plain_explanation": "排水与构造物模块可以理解为道路CAD系统中用于布设排水构造物的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“排水与构造物模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“排水与构造物模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_017",
+    "keywords": [
+      "排水与构造物模块",
+      "道路CAD模块",
+      "排水与构造物模块"
+    ],
+    "aliases": [
+      "排水与构造物"
+    ],
+    "student_question_patterns": [
+      "排水与构造物模块是什么？",
+      "排水与构造物模块有什么作用？",
+      "排水与构造物模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "排水与构造物模块。定义：支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。。要点：布设排水构造物；可与地形模型联动分析排水路径；生成排水构造图和数量。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。",
+      "布设排水构造物；可与地形模型联动分析排水路径；生成排水构造图和数量",
+      "排水与构造物模块可以理解为道路CAD系统中用于布设排水构造物的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_034",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "交叉口与立交设计模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。",
+    "core_explanation": "支持交叉口方案生成；处理匝道与端部线形；输出交叉口和立交成果",
+    "plain_explanation": "交叉口与立交设计模块可以理解为道路CAD系统中用于支持交叉口方案生成的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“交叉口与立交设计模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“交叉口与立交设计模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_017",
+    "keywords": [
+      "交叉口与立交设计模块",
+      "道路CAD模块",
+      "交叉口与立交设计模块"
+    ],
+    "aliases": [
+      "交叉口与立交设计"
+    ],
+    "student_question_patterns": [
+      "交叉口与立交设计模块是什么？",
+      "交叉口与立交设计模块有什么作用？",
+      "交叉口与立交设计模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "交叉口与立交设计模块。定义：用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。。要点：支持交叉口方案生成；处理匝道与端部线形；输出交叉口和立交成果。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。",
+      "支持交叉口方案生成；处理匝道与端部线形；输出交叉口和立交成果",
+      "交叉口与立交设计模块可以理解为道路CAD系统中用于支持交叉口方案生成的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_035",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "设计评价与分析模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。",
+    "core_explanation": "检查设计规范；辅助安全和可视化评价；提升方案质量控制能力",
+    "plain_explanation": "设计评价与分析模块可以理解为道路CAD系统中用于检查设计规范的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“设计评价与分析模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“设计评价与分析模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_018",
+    "keywords": [
+      "设计评价与分析模块",
+      "道路CAD模块",
+      "设计评价与分析模块"
+    ],
+    "aliases": [
+      "设计评价与分析"
+    ],
+    "student_question_patterns": [
+      "设计评价与分析模块是什么？",
+      "设计评价与分析模块有什么作用？",
+      "设计评价与分析模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "设计评价与分析模块。定义：支持规范符合性检查、安全评价、三维建模和漫游等分析功能。。要点：检查设计规范；辅助安全和可视化评价；提升方案质量控制能力。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。",
+      "检查设计规范；辅助安全和可视化评价；提升方案质量控制能力",
+      "设计评价与分析模块可以理解为道路CAD系统中用于检查设计规范的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_036",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "工程数据管理模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "统一组织道路设计过程中的图形、参数、表格和工程数据库。",
+    "core_explanation": "管理工程项目数据；实现图形与数据同步；支撑数据驱动设计",
+    "plain_explanation": "工程数据管理模块可以理解为道路CAD系统中用于管理工程项目数据的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“工程数据管理模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“工程数据管理模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_018",
+    "keywords": [
+      "工程数据管理模块",
+      "道路CAD模块",
+      "工程数据管理模块"
+    ],
+    "aliases": [
+      "工程数据管理"
+    ],
+    "student_question_patterns": [
+      "工程数据管理模块是什么？",
+      "工程数据管理模块有什么作用？",
+      "工程数据管理模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "工程数据管理模块。定义：统一组织道路设计过程中的图形、参数、表格和工程数据库。。要点：管理工程项目数据；实现图形与数据同步；支撑数据驱动设计。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "统一组织道路设计过程中的图形、参数、表格和工程数据库。",
+      "管理工程项目数据；实现图形与数据同步；支撑数据驱动设计",
+      "工程数据管理模块可以理解为道路CAD系统中用于管理工程项目数据的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_037",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec01",
+    "section_title": "第一节 道路CAD系统基础",
+    "title": "成果输出与管理模块",
+    "knowledge_type": "module",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "自动生成平面图、纵断面图、横断面图、表格和打印成果。",
+    "core_explanation": "自动制图和排版；生成直曲转角表、竖曲线表等；满足施工图交付",
+    "plain_explanation": "成果输出与管理模块可以理解为道路CAD系统中用于自动制图和排版的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第一节 道路CAD系统基础中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“成果输出与管理模块”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“成果输出与管理模块”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_019",
+    "keywords": [
+      "成果输出与管理模块",
+      "道路CAD模块",
+      "成果输出与管理模块"
+    ],
+    "aliases": [
+      "成果输出与管理"
+    ],
+    "student_question_patterns": [
+      "成果输出与管理模块是什么？",
+      "成果输出与管理模块有什么作用？",
+      "成果输出与管理模块在道路CAD中如何应用？"
+    ],
+    "embedding_text": "成果输出与管理模块。定义：自动生成平面图、纵断面图、横断面图、表格和打印成果。。要点：自动制图和排版；生成直曲转角表、竖曲线表等；满足施工图交付。应用于第一节 道路CAD系统基础。",
+    "status": "checked",
+    "key_points": [
+      "自动生成平面图、纵断面图、横断面图、表格和打印成果。",
+      "自动制图和排版；生成直曲转角表、竖曲线表等；满足施工图交付",
+      "成果输出与管理模块可以理解为道路CAD系统中用于自动制图和排版的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_038",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "路线平面CAD系统任务",
+    "knowledge_type": "system",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。",
+    "core_explanation": "确定路线平面走向；完成线形组合和曲线计算；输出中线、边线和设计表格",
+    "plain_explanation": "路线平面CAD系统任务可以理解为道路CAD系统中用于确定路线平面走向的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“路线平面CAD系统任务”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“路线平面CAD系统任务”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_019",
+    "keywords": [
+      "平面CAD",
+      "中线",
+      "曲线计算",
+      "路线平面CAD系统任务"
+    ],
+    "aliases": [
+      "路线平面设计系统"
+    ],
+    "student_question_patterns": [
+      "路线平面CAD系统任务是什么？",
+      "路线平面CAD系统任务有什么作用？",
+      "路线平面CAD系统任务在道路CAD中如何应用？"
+    ],
+    "embedding_text": "路线平面CAD系统任务。定义：路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。。要点：确定路线平面走向；完成线形组合和曲线计算；输出中线、边线和设计表格。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。",
+      "确定路线平面走向；完成线形组合和曲线计算；输出中线、边线和设计表格",
+      "路线平面CAD系统任务可以理解为道路CAD系统中用于确定路线平面走向的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_039",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "直线型设计方法",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。",
+    "core_explanation": "以交点和直线导向为主；符合传统纸上定线习惯；适合路线方案较明确的设计场景",
+    "plain_explanation": "直线型设计方法可以理解为道路CAD系统中用于以交点和直线导向为主的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“直线型设计方法”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“直线型设计方法”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_020",
+    "keywords": [
+      "直线法",
+      "交点法",
+      "定线",
+      "直线型设计方法"
+    ],
+    "aliases": [
+      "直线型定线"
+    ],
+    "student_question_patterns": [
+      "直线型设计方法是什么？",
+      "直线型设计方法有什么作用？",
+      "直线型设计方法在道路CAD中如何应用？"
+    ],
+    "embedding_text": "直线型设计方法。定义：直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。。要点：以交点和直线导向为主；符合传统纸上定线习惯；适合路线方案较明确的设计场景。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。",
+      "以交点和直线导向为主；符合传统纸上定线习惯；适合路线方案较明确的设计场景",
+      "直线型设计方法可以理解为道路CAD系统中用于以交点和直线导向为主的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_040",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "曲线型设计方法",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。",
+    "core_explanation": "更重视曲线单元之间的平顺连接；适合复杂地形和线形优化；可支持曲线导向的交互设计",
+    "plain_explanation": "曲线型设计方法可以理解为道路CAD系统中用于更重视曲线单元之间的平顺连接的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“曲线型设计方法”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“曲线型设计方法”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_020",
+    "keywords": [
+      "曲线法",
+      "线元法",
+      "曲线连接",
+      "曲线型设计方法"
+    ],
+    "aliases": [
+      "曲线型定线"
+    ],
+    "student_question_patterns": [
+      "曲线型设计方法是什么？",
+      "曲线型设计方法有什么作用？",
+      "曲线型设计方法在道路CAD中如何应用？"
+    ],
+    "embedding_text": "曲线型设计方法。定义：曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。。要点：更重视曲线单元之间的平顺连接；适合复杂地形和线形优化；可支持曲线导向的交互设计。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。",
+      "更重视曲线单元之间的平顺连接；适合复杂地形和线形优化；可支持曲线导向的交互设计",
+      "曲线型设计方法可以理解为道路CAD系统中用于更重视曲线单元之间的平顺连接的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_041",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "直线型与曲线型方法选择",
+    "knowledge_type": "comparison",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。",
+    "core_explanation": "直线型强调交点和切线关系；曲线型强调圆曲线与缓和曲线连接；二者可在CAD系统中互补使用",
+    "plain_explanation": "直线型与曲线型方法选择可以理解为道路CAD系统中用于直线型强调交点和切线关系的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“直线型与曲线型方法选择”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“直线型与曲线型方法选择”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_021",
+    "keywords": [
+      "直线型",
+      "曲线型",
+      "方法比较",
+      "直线型与曲线型方法选择"
+    ],
+    "aliases": [
+      "平面设计方法区别"
+    ],
+    "student_question_patterns": [
+      "直线型与曲线型方法选择是什么？",
+      "直线型与曲线型方法选择有什么作用？",
+      "直线型与曲线型方法选择在道路CAD中如何应用？"
+    ],
+    "embedding_text": "直线型与曲线型方法选择。定义：直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。。要点：直线型强调交点和切线关系；曲线型强调圆曲线与缓和曲线连接；二者可在CAD系统中互补使用。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。",
+      "直线型强调交点和切线关系；曲线型强调圆曲线与缓和曲线连接；二者可在CAD系统中互补使用",
+      "直线型与曲线型方法选择可以理解为道路CAD系统中用于直线型强调交点和切线关系的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_042",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "传统路线平面设计流程",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。",
+    "core_explanation": "先拟定平面位置和曲线参数；检查规范和地形适应性；结合纵断面和横坡反复修改",
+    "plain_explanation": "传统路线平面设计流程可以理解为道路CAD系统中用于先拟定平面位置和曲线参数的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“传统路线平面设计流程”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“传统路线平面设计流程”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_021",
+    "keywords": [
+      "传统平面设计流程",
+      "平纵协调",
+      "传统路线平面设计流程"
+    ],
+    "aliases": [
+      "平面设计步骤"
+    ],
+    "student_question_patterns": [
+      "传统路线平面设计流程是什么？",
+      "传统路线平面设计流程有什么作用？",
+      "传统路线平面设计流程在道路CAD中如何应用？"
+    ],
+    "embedding_text": "传统路线平面设计流程。定义：传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。。要点：先拟定平面位置和曲线参数；检查规范和地形适应性；结合纵断面和横坡反复修改。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。",
+      "先拟定平面位置和曲线参数；检查规范和地形适应性；结合纵断面和横坡反复修改",
+      "传统路线平面设计流程可以理解为道路CAD系统中用于先拟定平面位置和曲线参数的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_043",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "平面CAD人机分工原则",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。",
+    "core_explanation": "人负责工程判断和设计意图；机负责大量计算和自动绘图；人机协同提高效率和可靠性",
+    "plain_explanation": "平面CAD人机分工原则可以理解为道路CAD系统中用于人负责工程判断和设计意图的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面CAD人机分工原则”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面CAD人机分工原则”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_022",
+    "keywords": [
+      "人机分工",
+      "交互设计",
+      "平面CAD人机分工原则"
+    ],
+    "aliases": [
+      "人机协同"
+    ],
+    "student_question_patterns": [
+      "平面CAD人机分工原则是什么？",
+      "平面CAD人机分工原则有什么作用？",
+      "平面CAD人机分工原则在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面CAD人机分工原则。定义：平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。。要点：人负责工程判断和设计意图；机负责大量计算和自动绘图；人机协同提高效率和可靠性。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。",
+      "人负责工程判断和设计意图；机负责大量计算和自动绘图；人机协同提高效率和可靠性",
+      "平面CAD人机分工原则可以理解为道路CAD系统中用于人负责工程判断和设计意图的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_044",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "平面CAD计算功能",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。",
+    "core_explanation": "计算平曲线要素；计算中桩与边桩坐标；支撑平面图和表格自动生成",
+    "plain_explanation": "平面CAD计算功能可以理解为道路CAD系统中用于计算平曲线要素的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面CAD计算功能”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面CAD计算功能”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_022",
+    "keywords": [
+      "平面计算",
+      "坐标计算",
+      "曲线要素",
+      "平面CAD计算功能"
+    ],
+    "aliases": [
+      "平面设计计算"
+    ],
+    "student_question_patterns": [
+      "平面CAD计算功能是什么？",
+      "平面CAD计算功能有什么作用？",
+      "平面CAD计算功能在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面CAD计算功能。定义：平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。。要点：计算平曲线要素；计算中桩与边桩坐标；支撑平面图和表格自动生成。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。",
+      "计算平曲线要素；计算中桩与边桩坐标；支撑平面图和表格自动生成",
+      "平面CAD计算功能可以理解为道路CAD系统中用于计算平曲线要素的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_045",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "平面CAD灵活线形设计手段",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。",
+    "core_explanation": "适应不同设计习惯；支持复杂地形条件下的方案调整；提升路线线形设计灵活性",
+    "plain_explanation": "平面CAD灵活线形设计手段可以理解为道路CAD系统中用于适应不同设计习惯的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面CAD灵活线形设计手段”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面CAD灵活线形设计手段”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_023",
+    "keywords": [
+      "线形设计",
+      "交点法",
+      "线元法",
+      "积木法",
+      "平面CAD灵活线形设计手段"
+    ],
+    "aliases": [
+      "定线方式"
+    ],
+    "student_question_patterns": [
+      "平面CAD灵活线形设计手段是什么？",
+      "平面CAD灵活线形设计手段有什么作用？",
+      "平面CAD灵活线形设计手段在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面CAD灵活线形设计手段。定义：平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。。要点：适应不同设计习惯；支持复杂地形条件下的方案调整；提升路线线形设计灵活性。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。",
+      "适应不同设计习惯；支持复杂地形条件下的方案调整；提升路线线形设计灵活性",
+      "平面CAD灵活线形设计手段可以理解为道路CAD系统中用于适应不同设计习惯的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_046",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "平面CAD智能推荐功能",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。",
+    "core_explanation": "辅助设计参数选择；减少人工试算；提高规范符合性和设计效率",
+    "plain_explanation": "平面CAD智能推荐功能可以理解为道路CAD系统中用于辅助设计参数选择的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面CAD智能推荐功能”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面CAD智能推荐功能”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_023",
+    "keywords": [
+      "智能推荐",
+      "规范校核",
+      "参数推荐",
+      "平面CAD智能推荐功能"
+    ],
+    "aliases": [
+      "路线智能推荐"
+    ],
+    "student_question_patterns": [
+      "平面CAD智能推荐功能是什么？",
+      "平面CAD智能推荐功能有什么作用？",
+      "平面CAD智能推荐功能在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面CAD智能推荐功能。定义：平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。。要点：辅助设计参数选择；减少人工试算；提高规范符合性和设计效率。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。",
+      "辅助设计参数选择；减少人工试算；提高规范符合性和设计效率",
+      "平面CAD智能推荐功能可以理解为道路CAD系统中用于辅助设计参数选择的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_047",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "平面CAD交互修改功能",
+    "knowledge_type": "function",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。",
+    "core_explanation": "图形交互直观；修改后自动重算要素；便于快速比选和优化",
+    "plain_explanation": "平面CAD交互修改功能可以理解为道路CAD系统中用于图形交互直观的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面CAD交互修改功能”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面CAD交互修改功能”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_024",
+    "keywords": [
+      "交互修改",
+      "实时更新",
+      "平面CAD交互修改功能"
+    ],
+    "aliases": [
+      "图形交互"
+    ],
+    "student_question_patterns": [
+      "平面CAD交互修改功能是什么？",
+      "平面CAD交互修改功能有什么作用？",
+      "平面CAD交互修改功能在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面CAD交互修改功能。定义：平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。。要点：图形交互直观；修改后自动重算要素；便于快速比选和优化。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。",
+      "图形交互直观；修改后自动重算要素；便于快速比选和优化",
+      "平面CAD交互修改功能可以理解为道路CAD系统中用于图形交互直观的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_048",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "平面CAD数据管理功能",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。",
+    "core_explanation": "保证数据一致性；支持多模块调用；便于成果输出和后续纵横断面设计",
+    "plain_explanation": "平面CAD数据管理功能可以理解为道路CAD系统中用于保证数据一致性的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面CAD数据管理功能”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面CAD数据管理功能”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_024",
+    "keywords": [
+      "平面数据管理",
+      "桩号",
+      "坐标",
+      "平面CAD数据管理功能"
+    ],
+    "aliases": [
+      "路线数据管理"
+    ],
+    "student_question_patterns": [
+      "平面CAD数据管理功能是什么？",
+      "平面CAD数据管理功能有什么作用？",
+      "平面CAD数据管理功能在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面CAD数据管理功能。定义：平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。。要点：保证数据一致性；支持多模块调用；便于成果输出和后续纵横断面设计。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。",
+      "保证数据一致性；支持多模块调用；便于成果输出和后续纵横断面设计",
+      "平面CAD数据管理功能可以理解为道路CAD系统中用于保证数据一致性的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_049",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "基本型曲线设计模型",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。",
+    "core_explanation": "考虑前后缓和曲线长度可能不同；计算切线长、外距和主点桩号；是直线法平面设计的基础模型",
+    "plain_explanation": "基本型曲线设计模型可以理解为道路CAD系统中用于考虑前后缓和曲线长度可能不同的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“基本型曲线设计模型”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“基本型曲线设计模型”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_025",
+    "keywords": [
+      "基本型曲线",
+      "缓和曲线",
+      "圆曲线",
+      "基本型曲线设计模型"
+    ],
+    "aliases": [
+      "单曲线模型"
+    ],
+    "student_question_patterns": [
+      "基本型曲线设计模型是什么？",
+      "基本型曲线设计模型有什么作用？",
+      "基本型曲线设计模型在道路CAD中如何应用？"
+    ],
+    "embedding_text": "基本型曲线设计模型。定义：基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。。要点：考虑前后缓和曲线长度可能不同；计算切线长、外距和主点桩号；是直线法平面设计的基础模型。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。",
+      "考虑前后缓和曲线长度可能不同；计算切线长、外距和主点桩号；是直线法平面设计的基础模型",
+      "基本型曲线设计模型可以理解为道路CAD系统中用于考虑前后缓和曲线长度可能不同的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_050",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "曲线起终点约束",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。",
+    "core_explanation": "适用于曲线端点位置受控情形；可由切线长反算半径；需要满足精度时可迭代求解",
+    "plain_explanation": "曲线起终点约束可以理解为道路CAD系统中用于适用于曲线端点位置受控情形的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“曲线起终点约束”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“曲线起终点约束”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_025",
+    "keywords": [
+      "切线长控制",
+      "反算半径",
+      "曲线起终点约束"
+    ],
+    "aliases": [
+      "起终点约束"
+    ],
+    "student_question_patterns": [
+      "曲线起终点约束是什么？",
+      "曲线起终点约束有什么作用？",
+      "曲线起终点约束在道路CAD中如何应用？"
+    ],
+    "embedding_text": "曲线起终点约束。定义：曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。。要点：适用于曲线端点位置受控情形；可由切线长反算半径；需要满足精度时可迭代求解。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。",
+      "适用于曲线端点位置受控情形；可由切线长反算半径；需要满足精度时可迭代求解",
+      "曲线起终点约束可以理解为道路CAD系统中用于适用于曲线端点位置受控情形的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_051",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "曲线中点位置约束",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。",
+    "core_explanation": "适用于中部避让或控制点约束；外距反映曲线偏离切线程度；支持复杂地形中的线形控制",
+    "plain_explanation": "曲线中点位置约束可以理解为道路CAD系统中用于适用于中部避让或控制点约束的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“曲线中点位置约束”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“曲线中点位置约束”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_026",
+    "keywords": [
+      "外距控制",
+      "中点约束",
+      "曲线中点位置约束"
+    ],
+    "aliases": [
+      "外距反算"
+    ],
+    "student_question_patterns": [
+      "曲线中点位置约束是什么？",
+      "曲线中点位置约束有什么作用？",
+      "曲线中点位置约束在道路CAD中如何应用？"
+    ],
+    "embedding_text": "曲线中点位置约束。定义：曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。。要点：适用于中部避让或控制点约束；外距反映曲线偏离切线程度；支持复杂地形中的线形控制。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。",
+      "适用于中部避让或控制点约束；外距反映曲线偏离切线程度；支持复杂地形中的线形控制",
+      "曲线中点位置约束可以理解为道路CAD系统中用于适用于中部避让或控制点约束的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_052",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "卵形曲线设计",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。",
+    "core_explanation": "适合半径不同的同向曲线连接；核心是处理两圆曲线曲率差；需计算曲线要素和主点桩号",
+    "plain_explanation": "卵形曲线设计可以理解为道路CAD系统中用于适合半径不同的同向曲线连接的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“卵形曲线设计”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“卵形曲线设计”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_026",
+    "keywords": [
+      "卵形曲线",
+      "曲率过渡",
+      "卵形曲线设计"
+    ],
+    "aliases": [
+      "卵形线"
+    ],
+    "student_question_patterns": [
+      "卵形曲线设计是什么？",
+      "卵形曲线设计有什么作用？",
+      "卵形曲线设计在道路CAD中如何应用？"
+    ],
+    "embedding_text": "卵形曲线设计。定义：卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。。要点：适合半径不同的同向曲线连接；核心是处理两圆曲线曲率差；需计算曲线要素和主点桩号。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。",
+      "适合半径不同的同向曲线连接；核心是处理两圆曲线曲率差；需计算曲线要素和主点桩号",
+      "卵形曲线设计可以理解为道路CAD系统中用于适合半径不同的同向曲线连接的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_053",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "双交点曲线设计",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。",
+    "core_explanation": "适合受两个交点共同控制的线形；核心未知量通常为圆曲线半径；求解后按基本型曲线计算主点",
+    "plain_explanation": "双交点曲线设计可以理解为道路CAD系统中用于适合受两个交点共同控制的线形的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“双交点曲线设计”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“双交点曲线设计”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_027",
+    "keywords": [
+      "双交点曲线",
+      "半径求解",
+      "双交点曲线设计"
+    ],
+    "aliases": [
+      "双JD曲线"
+    ],
+    "student_question_patterns": [
+      "双交点曲线设计是什么？",
+      "双交点曲线设计有什么作用？",
+      "双交点曲线设计在道路CAD中如何应用？"
+    ],
+    "embedding_text": "双交点曲线设计。定义：双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。。要点：适合受两个交点共同控制的线形；核心未知量通常为圆曲线半径；求解后按基本型曲线计算主点。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。",
+      "适合受两个交点共同控制的线形；核心未知量通常为圆曲线半径；求解后按基本型曲线计算主点",
+      "双交点曲线设计可以理解为道路CAD系统中用于适合受两个交点共同控制的线形的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_054",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "曲线法设计模型三种连接",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。",
+    "core_explanation": "覆盖常见曲线连接情形；核心在于圆心、间距和回旋线参数计算；适合曲线单元组合设计",
+    "plain_explanation": "曲线法设计模型三种连接可以理解为道路CAD系统中用于覆盖常见曲线连接情形的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“曲线法设计模型三种连接”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“曲线法设计模型三种连接”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_027",
+    "keywords": [
+      "曲线法",
+      "连接模型",
+      "曲线法设计模型三种连接"
+    ],
+    "aliases": [
+      "曲线连接类型"
+    ],
+    "student_question_patterns": [
+      "曲线法设计模型三种连接是什么？",
+      "曲线法设计模型三种连接有什么作用？",
+      "曲线法设计模型三种连接在道路CAD中如何应用？"
+    ],
+    "embedding_text": "曲线法设计模型三种连接。定义：曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。。要点：覆盖常见曲线连接情形；核心在于圆心、间距和回旋线参数计算；适合曲线单元组合设计。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。",
+      "覆盖常见曲线连接情形；核心在于圆心、间距和回旋线参数计算；适合曲线单元组合设计",
+      "曲线法设计模型三种连接可以理解为道路CAD系统中用于覆盖常见曲线连接情形的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_055",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "直线与圆曲线连接模型",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。",
+    "core_explanation": "确定直线与圆曲线之间的几何关系；通过回旋线实现曲率平顺变化；可采用数值方法求解参数",
+    "plain_explanation": "直线与圆曲线连接模型可以理解为道路CAD系统中用于确定直线与圆曲线之间的几何关系的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“直线与圆曲线连接模型”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“直线与圆曲线连接模型”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_028",
+    "keywords": [
+      "直线圆曲线连接",
+      "圆心坐标",
+      "回旋线",
+      "直线与圆曲线连接模型"
+    ],
+    "aliases": [
+      "直圆连接"
+    ],
+    "student_question_patterns": [
+      "直线与圆曲线连接模型是什么？",
+      "直线与圆曲线连接模型有什么作用？",
+      "直线与圆曲线连接模型在道路CAD中如何应用？"
+    ],
+    "embedding_text": "直线与圆曲线连接模型。定义：直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。。要点：确定直线与圆曲线之间的几何关系；通过回旋线实现曲率平顺变化；可采用数值方法求解参数。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。",
+      "确定直线与圆曲线之间的几何关系；通过回旋线实现曲率平顺变化；可采用数值方法求解参数",
+      "直线与圆曲线连接模型可以理解为道路CAD系统中用于确定直线与圆曲线之间的几何关系的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_056",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "两反向圆曲线连接模型",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "两反向圆曲线连接模型用于S形线形中相邻反向圆曲线之间的回旋线连接计算。",
+    "core_explanation": "需计算两圆间距；控制两个回旋线参数比值；参数比宜满足平顺性要求",
+    "plain_explanation": "两反向圆曲线连接模型可以理解为道路CAD系统中用于需计算两圆间距的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“两反向圆曲线连接模型”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“两反向圆曲线连接模型”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_028",
+    "keywords": [
+      "反向曲线",
+      "S形曲线",
+      "回旋线参数",
+      "两反向圆曲线连接模型"
+    ],
+    "aliases": [
+      "S形连接"
+    ],
+    "student_question_patterns": [
+      "两反向圆曲线连接模型是什么？",
+      "两反向圆曲线连接模型有什么作用？",
+      "两反向圆曲线连接模型在道路CAD中如何应用？"
+    ],
+    "embedding_text": "两反向圆曲线连接模型。定义：两反向圆曲线连接模型用于S形线形中相邻反向圆曲线之间的回旋线连接计算。。要点：需计算两圆间距；控制两个回旋线参数比值；参数比宜满足平顺性要求。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "两反向圆曲线连接模型用于S形线形中相邻反向圆曲线之间的回旋线连接计算。",
+      "需计算两圆间距；控制两个回旋线参数比值；参数比宜满足平顺性要求",
+      "两反向圆曲线连接模型可以理解为道路CAD系统中用于需计算两圆间距的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_057",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "两同向圆曲线连接模型",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "两同向圆曲线连接模型用于半径不同或位置不同的同向圆曲线之间的平顺连接。",
+    "core_explanation": "需计算圆心位置和间距；按曲率和间距求解回旋线参数；需检查参数是否满足线形要求",
+    "plain_explanation": "两同向圆曲线连接模型可以理解为道路CAD系统中用于需计算圆心位置和间距的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“两同向圆曲线连接模型”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“两同向圆曲线连接模型”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_029",
+    "keywords": [
+      "同向曲线",
+      "同向连接",
+      "回旋线",
+      "两同向圆曲线连接模型"
+    ],
+    "aliases": [
+      "同向圆连接"
+    ],
+    "student_question_patterns": [
+      "两同向圆曲线连接模型是什么？",
+      "两同向圆曲线连接模型有什么作用？",
+      "两同向圆曲线连接模型在道路CAD中如何应用？"
+    ],
+    "embedding_text": "两同向圆曲线连接模型。定义：两同向圆曲线连接模型用于半径不同或位置不同的同向圆曲线之间的平顺连接。。要点：需计算圆心位置和间距；按曲率和间距求解回旋线参数；需检查参数是否满足线形要求。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "两同向圆曲线连接模型用于半径不同或位置不同的同向圆曲线之间的平顺连接。",
+      "需计算圆心位置和间距；按曲率和间距求解回旋线参数；需检查参数是否满足线形要求",
+      "两同向圆曲线连接模型可以理解为道路CAD系统中用于需计算圆心位置和间距的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_058",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "逐桩坐标计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "逐桩坐标计算是根据桩号所在的线形区段，分别采用直线、缓和曲线、圆曲线等公式计算中桩坐标。",
+    "core_explanation": "判断桩点位于哪一线形段；按对应公式计算中桩坐标；是平面放样、图形绘制和边线计算基础",
+    "plain_explanation": "逐桩坐标计算可以理解为道路CAD系统中用于判断桩点位于哪一线形段的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“逐桩坐标计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“逐桩坐标计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_029",
+    "keywords": [
+      "逐桩坐标",
+      "中桩坐标",
+      "桩号",
+      "逐桩坐标计算"
+    ],
+    "aliases": [
+      "中桩坐标计算"
+    ],
+    "student_question_patterns": [
+      "逐桩坐标计算是什么？",
+      "逐桩坐标计算有什么作用？",
+      "逐桩坐标计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "逐桩坐标计算。定义：逐桩坐标计算是根据桩号所在的线形区段，分别采用直线、缓和曲线、圆曲线等公式计算中桩坐标。。要点：判断桩点位于哪一线形段；按对应公式计算中桩坐标；是平面放样、图形绘制和边线计算基础。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "逐桩坐标计算是根据桩号所在的线形区段，分别采用直线、缓和曲线、圆曲线等公式计算中桩坐标。",
+      "判断桩点位于哪一线形段；按对应公式计算中桩坐标；是平面放样、图形绘制和边线计算基础",
+      "逐桩坐标计算可以理解为道路CAD系统中用于判断桩点位于哪一线形段的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_059",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "直线段中桩坐标计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "直线段中桩坐标根据起点坐标、方位角和桩点距离计算，公式形式较简单。",
+    "core_explanation": "适用于HZ至ZH等直线区段；依赖起点坐标和导线方位角；计算结果作为平面图绘制基础",
+    "plain_explanation": "直线段中桩坐标计算可以理解为道路CAD系统中用于适用于HZ至ZH等直线区段的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“直线段中桩坐标计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“直线段中桩坐标计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_030",
+    "keywords": [
+      "直线段坐标",
+      "方位角",
+      "直线段中桩坐标计算"
+    ],
+    "aliases": [
+      "直线中桩"
+    ],
+    "student_question_patterns": [
+      "直线段中桩坐标计算是什么？",
+      "直线段中桩坐标计算有什么作用？",
+      "直线段中桩坐标计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "直线段中桩坐标计算。定义：直线段中桩坐标根据起点坐标、方位角和桩点距离计算，公式形式较简单。。要点：适用于HZ至ZH等直线区段；依赖起点坐标和导线方位角；计算结果作为平面图绘制基础。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "直线段中桩坐标根据起点坐标、方位角和桩点距离计算，公式形式较简单。",
+      "适用于HZ至ZH等直线区段；依赖起点坐标和导线方位角；计算结果作为平面图绘制基础",
+      "直线段中桩坐标计算可以理解为道路CAD系统中用于适用于HZ至ZH等直线区段的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_060",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "缓和曲线与圆曲线段中桩坐标计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "缓和曲线和圆曲线段中桩坐标需要考虑曲率变化和转向方向，左转或右转时局部坐标符号不同。",
+    "core_explanation": "按点距ZH或YH的距离计算；区分缓和曲线内和圆曲线内；转向方向影响横向坐标符号",
+    "plain_explanation": "缓和曲线与圆曲线段中桩坐标计算可以理解为道路CAD系统中用于按点距ZH或YH的距离计算的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“缓和曲线与圆曲线段中桩坐标计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“缓和曲线与圆曲线段中桩坐标计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_030",
+    "keywords": [
+      "缓和曲线坐标",
+      "圆曲线坐标",
+      "缓和曲线与圆曲线段中桩坐标计算"
+    ],
+    "aliases": [
+      "曲线中桩"
+    ],
+    "student_question_patterns": [
+      "缓和曲线与圆曲线段中桩坐标计算是什么？",
+      "缓和曲线与圆曲线段中桩坐标计算有什么作用？",
+      "缓和曲线与圆曲线段中桩坐标计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "缓和曲线与圆曲线段中桩坐标计算。定义：缓和曲线和圆曲线段中桩坐标需要考虑曲率变化和转向方向，左转或右转时局部坐标符号不同。。要点：按点距ZH或YH的距离计算；区分缓和曲线内和圆曲线内；转向方向影响横向坐标符号。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "缓和曲线和圆曲线段中桩坐标需要考虑曲率变化和转向方向，左转或右转时局部坐标符号不同。",
+      "按点距ZH或YH的距离计算；区分缓和曲线内和圆曲线内；转向方向影响横向坐标符号",
+      "缓和曲线与圆曲线段中桩坐标计算可以理解为道路CAD系统中用于按点距ZH或YH的距离计算的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_061",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec02",
+    "section_title": "第二节 路线平面CAD系统",
+    "title": "边线坐标计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "边线坐标依据中桩坐标、边桩至中线距离和切线方位角计算，用于绘制路幅边线、界桩或设计红线。",
+    "core_explanation": "以中桩坐标为基准；通过法向偏移得到边线点；支撑路幅和用地边界表达",
+    "plain_explanation": "边线坐标计算可以理解为道路CAD系统中用于以中桩坐标为基准的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第二节 路线平面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“边线坐标计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“边线坐标计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_031",
+    "keywords": [
+      "边线坐标",
+      "边桩",
+      "法向偏移",
+      "边线坐标计算"
+    ],
+    "aliases": [
+      "边桩坐标"
+    ],
+    "student_question_patterns": [
+      "边线坐标计算是什么？",
+      "边线坐标计算有什么作用？",
+      "边线坐标计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "边线坐标计算。定义：边线坐标依据中桩坐标、边桩至中线距离和切线方位角计算，用于绘制路幅边线、界桩或设计红线。。要点：以中桩坐标为基准；通过法向偏移得到边线点；支撑路幅和用地边界表达。应用于第二节 路线平面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "边线坐标依据中桩坐标、边桩至中线距离和切线方位角计算，用于绘制路幅边线、界桩或设计红线。",
+      "以中桩坐标为基准；通过法向偏移得到边线点；支撑路幅和用地边界表达",
+      "边线坐标计算可以理解为道路CAD系统中用于以中桩坐标为基准的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_062",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面CAD系统任务",
+    "knowledge_type": "system",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "纵断面CAD系统负责地面线提取、纵坡控制、变坡点布设、竖曲线计算、设计高程计算和纵断面成果输出。",
+    "core_explanation": "提取和表达纵断面地面线；辅助纵坡与竖曲线设计；输出纵断面图和竖曲线表",
+    "plain_explanation": "纵断面CAD系统任务可以理解为道路CAD系统中用于提取和表达纵断面地面线的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面CAD系统任务”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面CAD系统任务”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_031",
+    "keywords": [
+      "纵断面CAD",
+      "纵坡",
+      "竖曲线",
+      "纵断面CAD系统任务"
+    ],
+    "aliases": [
+      "纵断面设计系统"
+    ],
+    "student_question_patterns": [
+      "纵断面CAD系统任务是什么？",
+      "纵断面CAD系统任务有什么作用？",
+      "纵断面CAD系统任务在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面CAD系统任务。定义：纵断面CAD系统负责地面线提取、纵坡控制、变坡点布设、竖曲线计算、设计高程计算和纵断面成果输出。。要点：提取和表达纵断面地面线；辅助纵坡与竖曲线设计；输出纵断面图和竖曲线表。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "纵断面CAD系统负责地面线提取、纵坡控制、变坡点布设、竖曲线计算、设计高程计算和纵断面成果输出。",
+      "提取和表达纵断面地面线；辅助纵坡与竖曲线设计；输出纵断面图和竖曲线表",
+      "纵断面CAD系统任务可以理解为道路CAD系统中用于提取和表达纵断面地面线的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_063",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面CAD准备与初始化阶段",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "准备与初始化阶段主要完成项目数据、地面线、控制点和设计约束条件的导入与检查。",
+    "core_explanation": "导入地形和桩号数据；设置控制点和设计约束；为拉坡和优化提供基础",
+    "plain_explanation": "纵断面CAD准备与初始化阶段可以理解为道路CAD系统中用于导入地形和桩号数据的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面CAD准备与初始化阶段”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面CAD准备与初始化阶段”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_032",
+    "keywords": [
+      "初始化",
+      "地面线",
+      "控制点",
+      "纵断面CAD准备与初始化阶段"
+    ],
+    "aliases": [
+      "纵断面准备"
+    ],
+    "student_question_patterns": [
+      "纵断面CAD准备与初始化阶段是什么？",
+      "纵断面CAD准备与初始化阶段有什么作用？",
+      "纵断面CAD准备与初始化阶段在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面CAD准备与初始化阶段。定义：准备与初始化阶段主要完成项目数据、地面线、控制点和设计约束条件的导入与检查。。要点：导入地形和桩号数据；设置控制点和设计约束；为拉坡和优化提供基础。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "准备与初始化阶段主要完成项目数据、地面线、控制点和设计约束条件的导入与检查。",
+      "导入地形和桩号数据；设置控制点和设计约束；为拉坡和优化提供基础",
+      "纵断面CAD准备与初始化阶段可以理解为道路CAD系统中用于导入地形和桩号数据的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_064",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "初始纵断面优化方案生成阶段",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "初始优化方案生成阶段根据控制条件和目标函数生成可供设计人员参考的纵断面方案。",
+    "core_explanation": "利用系统辅助生成初始方案；考虑工程量、规范和控制点；为后续交互设计提供起点",
+    "plain_explanation": "初始纵断面优化方案生成阶段可以理解为道路CAD系统中用于利用系统辅助生成初始方案的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“初始纵断面优化方案生成阶段”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“初始纵断面优化方案生成阶段”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_032",
+    "keywords": [
+      "初始优化",
+      "纵断面方案",
+      "初始纵断面优化方案生成阶段"
+    ],
+    "aliases": [
+      "自动拉坡"
+    ],
+    "student_question_patterns": [
+      "初始纵断面优化方案生成阶段是什么？",
+      "初始纵断面优化方案生成阶段有什么作用？",
+      "初始纵断面优化方案生成阶段在道路CAD中如何应用？"
+    ],
+    "embedding_text": "初始纵断面优化方案生成阶段。定义：初始优化方案生成阶段根据控制条件和目标函数生成可供设计人员参考的纵断面方案。。要点：利用系统辅助生成初始方案；考虑工程量、规范和控制点；为后续交互设计提供起点。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "初始优化方案生成阶段根据控制条件和目标函数生成可供设计人员参考的纵断面方案。",
+      "利用系统辅助生成初始方案；考虑工程量、规范和控制点；为后续交互设计提供起点",
+      "初始纵断面优化方案生成阶段可以理解为道路CAD系统中用于利用系统辅助生成初始方案的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_065",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵坡与竖曲线设计阶段",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "纵坡与竖曲线设计阶段通过设置变坡点、坡度和竖曲线半径形成连续、平顺的纵断面设计线。",
+    "core_explanation": "确定坡段坡度；布设变坡点和竖曲线；保证线形平顺和规范满足",
+    "plain_explanation": "纵坡与竖曲线设计阶段可以理解为道路CAD系统中用于确定坡段坡度的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵坡与竖曲线设计阶段”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵坡与竖曲线设计阶段”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_033",
+    "keywords": [
+      "纵坡设计",
+      "竖曲线设计",
+      "纵坡与竖曲线设计阶段"
+    ],
+    "aliases": [
+      "拉坡"
+    ],
+    "student_question_patterns": [
+      "纵坡与竖曲线设计阶段是什么？",
+      "纵坡与竖曲线设计阶段有什么作用？",
+      "纵坡与竖曲线设计阶段在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵坡与竖曲线设计阶段。定义：纵坡与竖曲线设计阶段通过设置变坡点、坡度和竖曲线半径形成连续、平顺的纵断面设计线。。要点：确定坡段坡度；布设变坡点和竖曲线；保证线形平顺和规范满足。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "纵坡与竖曲线设计阶段通过设置变坡点、坡度和竖曲线半径形成连续、平顺的纵断面设计线。",
+      "确定坡段坡度；布设变坡点和竖曲线；保证线形平顺和规范满足",
+      "纵坡与竖曲线设计阶段可以理解为道路CAD系统中用于确定坡段坡度的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_066",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面设计分析与评价阶段",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "分析与评价阶段检查纵坡、竖曲线、控制点、高程、填挖和规范符合性。",
+    "core_explanation": "检查设计线是否满足控制条件；评价工程量和安全性；为修改优化提供依据",
+    "plain_explanation": "纵断面设计分析与评价阶段可以理解为道路CAD系统中用于检查设计线是否满足控制条件的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面设计分析与评价阶段”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面设计分析与评价阶段”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_033",
+    "keywords": [
+      "纵断面评价",
+      "规范检查",
+      "纵断面设计分析与评价阶段"
+    ],
+    "aliases": [
+      "纵断面校核"
+    ],
+    "student_question_patterns": [
+      "纵断面设计分析与评价阶段是什么？",
+      "纵断面设计分析与评价阶段有什么作用？",
+      "纵断面设计分析与评价阶段在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面设计分析与评价阶段。定义：分析与评价阶段检查纵坡、竖曲线、控制点、高程、填挖和规范符合性。。要点：检查设计线是否满足控制条件；评价工程量和安全性；为修改优化提供依据。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "分析与评价阶段检查纵坡、竖曲线、控制点、高程、填挖和规范符合性。",
+      "检查设计线是否满足控制条件；评价工程量和安全性；为修改优化提供依据",
+      "纵断面设计分析与评价阶段可以理解为道路CAD系统中用于检查设计线是否满足控制条件的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_067",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面设计成果输出阶段",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "成果输出阶段自动生成纵断面设计图、纵坡竖曲线表和相关计算成果。",
+    "core_explanation": "输出标准纵断面图；生成竖曲线要素表；服务施工图交付",
+    "plain_explanation": "纵断面设计成果输出阶段可以理解为道路CAD系统中用于输出标准纵断面图的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面设计成果输出阶段”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面设计成果输出阶段”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_034",
+    "keywords": [
+      "纵断面出图",
+      "竖曲线表",
+      "纵断面设计成果输出阶段"
+    ],
+    "aliases": [
+      "成果输出"
+    ],
+    "student_question_patterns": [
+      "纵断面设计成果输出阶段是什么？",
+      "纵断面设计成果输出阶段有什么作用？",
+      "纵断面设计成果输出阶段在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面设计成果输出阶段。定义：成果输出阶段自动生成纵断面设计图、纵坡竖曲线表和相关计算成果。。要点：输出标准纵断面图；生成竖曲线要素表；服务施工图交付。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "成果输出阶段自动生成纵断面设计图、纵坡竖曲线表和相关计算成果。",
+      "输出标准纵断面图；生成竖曲线要素表；服务施工图交付",
+      "纵断面设计成果输出阶段可以理解为道路CAD系统中用于输出标准纵断面图的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_068",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面控制条件查询与检查",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "系统应能查询和检查桥涵、交叉、洪水位、净空、地质和规范等控制条件。",
+    "core_explanation": "显示关键控制点高程；检查设计线是否满足约束；对不满足情况发出提示",
+    "plain_explanation": "纵断面控制条件查询与检查可以理解为道路CAD系统中用于显示关键控制点高程的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面控制条件查询与检查”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面控制条件查询与检查”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_034",
+    "keywords": [
+      "控制条件",
+      "高程约束",
+      "警示",
+      "纵断面控制条件查询与检查"
+    ],
+    "aliases": [
+      "纵断面控制点"
+    ],
+    "student_question_patterns": [
+      "纵断面控制条件查询与检查是什么？",
+      "纵断面控制条件查询与检查有什么作用？",
+      "纵断面控制条件查询与检查在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面控制条件查询与检查。定义：系统应能查询和检查桥涵、交叉、洪水位、净空、地质和规范等控制条件。。要点：显示关键控制点高程；检查设计线是否满足约束；对不满足情况发出提示。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "系统应能查询和检查桥涵、交叉、洪水位、净空、地质和规范等控制条件。",
+      "显示关键控制点高程；检查设计线是否满足约束；对不满足情况发出提示",
+      "纵断面控制条件查询与检查可以理解为道路CAD系统中用于显示关键控制点高程的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_069",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面设计辅助信息",
+    "knowledge_type": "function",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "设计辅助信息包括地面线、控制点、填挖提示、坡度提示和规范约束，用于辅助设计人员判断。",
+    "core_explanation": "提供图形化参考；减少反复查询工作；提高设计判断效率",
+    "plain_explanation": "纵断面设计辅助信息可以理解为道路CAD系统中用于提供图形化参考的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面设计辅助信息”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面设计辅助信息”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_035",
+    "keywords": [
+      "辅助信息",
+      "地面线",
+      "提示",
+      "纵断面设计辅助信息"
+    ],
+    "aliases": [
+      "纵断面辅助"
+    ],
+    "student_question_patterns": [
+      "纵断面设计辅助信息是什么？",
+      "纵断面设计辅助信息有什么作用？",
+      "纵断面设计辅助信息在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面设计辅助信息。定义：设计辅助信息包括地面线、控制点、填挖提示、坡度提示和规范约束，用于辅助设计人员判断。。要点：提供图形化参考；减少反复查询工作；提高设计判断效率。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "设计辅助信息包括地面线、控制点、填挖提示、坡度提示和规范约束，用于辅助设计人员判断。",
+      "提供图形化参考；减少反复查询工作；提高设计判断效率",
+      "纵断面设计辅助信息可以理解为道路CAD系统中用于提供图形化参考的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_070",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面交互设计与修改",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "纵断面CAD应支持在图形界面中移动变坡点、调整坡度和竖曲线参数并实时重算成果。",
+    "core_explanation": "符合设计人员拉坡习惯；修改后自动更新设计高程；支持局部和分段设计",
+    "plain_explanation": "纵断面交互设计与修改可以理解为道路CAD系统中用于符合设计人员拉坡习惯的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面交互设计与修改”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面交互设计与修改”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_035",
+    "keywords": [
+      "交互拉坡",
+      "变坡点",
+      "实时修改",
+      "纵断面交互设计与修改"
+    ],
+    "aliases": [
+      "纵断面交互"
+    ],
+    "student_question_patterns": [
+      "纵断面交互设计与修改是什么？",
+      "纵断面交互设计与修改有什么作用？",
+      "纵断面交互设计与修改在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面交互设计与修改。定义：纵断面CAD应支持在图形界面中移动变坡点、调整坡度和竖曲线参数并实时重算成果。。要点：符合设计人员拉坡习惯；修改后自动更新设计高程；支持局部和分段设计。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "纵断面CAD应支持在图形界面中移动变坡点、调整坡度和竖曲线参数并实时重算成果。",
+      "符合设计人员拉坡习惯；修改后自动更新设计高程；支持局部和分段设计",
+      "纵断面交互设计与修改可以理解为道路CAD系统中用于符合设计人员拉坡习惯的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_071",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面整体优化功能",
+    "knowledge_type": "function",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "整体优化功能根据工程造价、安全性、规范约束等目标自动生成完整纵断面参考方案。",
+    "core_explanation": "以全线为优化对象；同时考虑多类约束；提供设计人员进一步调整的方案",
+    "plain_explanation": "纵断面整体优化功能可以理解为道路CAD系统中用于以全线为优化对象的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面整体优化功能”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面整体优化功能”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_036",
+    "keywords": [
+      "整体优化",
+      "AI优化",
+      "纵断面优化",
+      "纵断面整体优化功能"
+    ],
+    "aliases": [
+      "自动优化"
+    ],
+    "student_question_patterns": [
+      "纵断面整体优化功能是什么？",
+      "纵断面整体优化功能有什么作用？",
+      "纵断面整体优化功能在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面整体优化功能。定义：整体优化功能根据工程造价、安全性、规范约束等目标自动生成完整纵断面参考方案。。要点：以全线为优化对象；同时考虑多类约束；提供设计人员进一步调整的方案。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "整体优化功能根据工程造价、安全性、规范约束等目标自动生成完整纵断面参考方案。",
+      "以全线为优化对象；同时考虑多类约束；提供设计人员进一步调整的方案",
+      "纵断面整体优化功能可以理解为道路CAD系统中用于以全线为优化对象的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_072",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵断面局部优化功能",
+    "knowledge_type": "function",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "局部优化功能针对选定变坡点和竖曲线进行快速自动调整，提升局部线形合理性。",
+    "core_explanation": "适合局部控制条件变化；减少人工试算；保持整体设计稳定",
+    "plain_explanation": "纵断面局部优化功能可以理解为道路CAD系统中用于适合局部控制条件变化的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵断面局部优化功能”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵断面局部优化功能”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_036",
+    "keywords": [
+      "局部优化",
+      "变坡点调整",
+      "纵断面局部优化功能"
+    ],
+    "aliases": [
+      "局部拉坡优化"
+    ],
+    "student_question_patterns": [
+      "纵断面局部优化功能是什么？",
+      "纵断面局部优化功能有什么作用？",
+      "纵断面局部优化功能在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵断面局部优化功能。定义：局部优化功能针对选定变坡点和竖曲线进行快速自动调整，提升局部线形合理性。。要点：适合局部控制条件变化；减少人工试算；保持整体设计稳定。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "局部优化功能针对选定变坡点和竖曲线进行快速自动调整，提升局部线形合理性。",
+      "适合局部控制条件变化；减少人工试算；保持整体设计稳定",
+      "纵断面局部优化功能可以理解为道路CAD系统中用于适合局部控制条件变化的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_073",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "纵坡度计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "纵坡度根据相邻变坡点的高程差与桩号距离计算，正值表示上坡，负值表示下坡。",
+    "core_explanation": "反映设计线纵向倾斜程度；由高程差和水平距离确定；是竖曲线和填挖高计算基础",
+    "plain_explanation": "纵坡度计算可以理解为道路CAD系统中用于反映设计线纵向倾斜程度的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“纵坡度计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“纵坡度计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_037",
+    "keywords": [
+      "纵坡度",
+      "坡度",
+      "变坡点",
+      "纵坡度计算"
+    ],
+    "aliases": [
+      "坡度计算"
+    ],
+    "student_question_patterns": [
+      "纵坡度计算是什么？",
+      "纵坡度计算有什么作用？",
+      "纵坡度计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "纵坡度计算。定义：纵坡度根据相邻变坡点的高程差与桩号距离计算，正值表示上坡，负值表示下坡。。要点：反映设计线纵向倾斜程度；由高程差和水平距离确定；是竖曲线和填挖高计算基础。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "纵坡度根据相邻变坡点的高程差与桩号距离计算，正值表示上坡，负值表示下坡。",
+      "反映设计线纵向倾斜程度；由高程差和水平距离确定；是竖曲线和填挖高计算基础",
+      "纵坡度计算可以理解为道路CAD系统中用于反映设计线纵向倾斜程度的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_074",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "坡度差计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "坡度差是相邻两坡段纵坡的差值，用于判断变坡点处竖曲线类型和竖曲线要素。",
+    "core_explanation": "由前后坡度相减得到；符号决定凸凹竖曲线判断；参与曲线长、切线长和外距计算",
+    "plain_explanation": "坡度差计算可以理解为道路CAD系统中用于由前后坡度相减得到的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“坡度差计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“坡度差计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_037",
+    "keywords": [
+      "坡度差",
+      "变坡点",
+      "凸凹判断",
+      "坡度差计算"
+    ],
+    "aliases": [
+      "变坡点坡度差"
+    ],
+    "student_question_patterns": [
+      "坡度差计算是什么？",
+      "坡度差计算有什么作用？",
+      "坡度差计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "坡度差计算。定义：坡度差是相邻两坡段纵坡的差值，用于判断变坡点处竖曲线类型和竖曲线要素。。要点：由前后坡度相减得到；符号决定凸凹竖曲线判断；参与曲线长、切线长和外距计算。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "坡度差是相邻两坡段纵坡的差值，用于判断变坡点处竖曲线类型和竖曲线要素。",
+      "由前后坡度相减得到；符号决定凸凹竖曲线判断；参与曲线长、切线长和外距计算",
+      "坡度差计算可以理解为道路CAD系统中用于由前后坡度相减得到的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_075",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "凸竖曲线与凹竖曲线判断",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "根据坡度差符号可判断竖曲线为凸形或凹形，凸形表现为纵断面向上拱起，凹形表现为向下凹入。",
+    "core_explanation": "坡度差符号是判断依据；凸凹类型影响高程改正值符号；关系到视距、排水和行车舒适性",
+    "plain_explanation": "凸竖曲线与凹竖曲线判断可以理解为道路CAD系统中用于坡度差符号是判断依据的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“凸竖曲线与凹竖曲线判断”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“凸竖曲线与凹竖曲线判断”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_038",
+    "keywords": [
+      "凸竖曲线",
+      "凹竖曲线",
+      "坡度差",
+      "凸竖曲线与凹竖曲线判断"
+    ],
+    "aliases": [
+      "竖曲线类型"
+    ],
+    "student_question_patterns": [
+      "凸竖曲线与凹竖曲线判断是什么？",
+      "凸竖曲线与凹竖曲线判断有什么作用？",
+      "凸竖曲线与凹竖曲线判断在道路CAD中如何应用？"
+    ],
+    "embedding_text": "凸竖曲线与凹竖曲线判断。定义：根据坡度差符号可判断竖曲线为凸形或凹形，凸形表现为纵断面向上拱起，凹形表现为向下凹入。。要点：坡度差符号是判断依据；凸凹类型影响高程改正值符号；关系到视距、排水和行车舒适性。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "根据坡度差符号可判断竖曲线为凸形或凹形，凸形表现为纵断面向上拱起，凹形表现为向下凹入。",
+      "坡度差符号是判断依据；凸凹类型影响高程改正值符号；关系到视距、排水和行车舒适性",
+      "凸竖曲线与凹竖曲线判断可以理解为道路CAD系统中用于坡度差符号是判断依据的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_076",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "竖曲线要素计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "竖曲线要素包括曲线长、切线长、外距和任一点改正值，通常由竖曲线半径和坡度差计算。",
+    "core_explanation": "曲线长由半径与坡度差确定；切线长通常为曲线长的一半；外距和改正值用于设计高程计算",
+    "plain_explanation": "竖曲线要素计算可以理解为道路CAD系统中用于曲线长由半径与坡度差确定的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“竖曲线要素计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“竖曲线要素计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_038",
+    "keywords": [
+      "竖曲线要素",
+      "曲线长",
+      "外距",
+      "竖曲线要素计算"
+    ],
+    "aliases": [
+      "竖曲线计算"
+    ],
+    "student_question_patterns": [
+      "竖曲线要素计算是什么？",
+      "竖曲线要素计算有什么作用？",
+      "竖曲线要素计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "竖曲线要素计算。定义：竖曲线要素包括曲线长、切线长、外距和任一点改正值，通常由竖曲线半径和坡度差计算。。要点：曲线长由半径与坡度差确定；切线长通常为曲线长的一半；外距和改正值用于设计高程计算。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "竖曲线要素包括曲线长、切线长、外距和任一点改正值，通常由竖曲线半径和坡度差计算。",
+      "曲线长由半径与坡度差确定；切线长通常为曲线长的一半；外距和改正值用于设计高程计算",
+      "竖曲线要素计算可以理解为道路CAD系统中用于曲线长由半径与坡度差确定的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_077",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "设计高程计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "设计高程应根据桩号是否位于直坡段或竖曲线段，分别采用直线坡度公式或竖曲线改正公式计算。",
+    "core_explanation": "直坡段按起点高程和坡度计算；竖曲线段需叠加改正值；凸曲线改正值取负，凹曲线取正",
+    "plain_explanation": "设计高程计算可以理解为道路CAD系统中用于直坡段按起点高程和坡度计算的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“设计高程计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“设计高程计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_039",
+    "keywords": [
+      "设计高程",
+      "竖曲线改正值",
+      "设计高程计算"
+    ],
+    "aliases": [
+      "纵断面高程"
+    ],
+    "student_question_patterns": [
+      "设计高程计算是什么？",
+      "设计高程计算有什么作用？",
+      "设计高程计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "设计高程计算。定义：设计高程应根据桩号是否位于直坡段或竖曲线段，分别采用直线坡度公式或竖曲线改正公式计算。。要点：直坡段按起点高程和坡度计算；竖曲线段需叠加改正值；凸曲线改正值取负，凹曲线取正。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "设计高程应根据桩号是否位于直坡段或竖曲线段，分别采用直线坡度公式或竖曲线改正公式计算。",
+      "直坡段按起点高程和坡度计算；竖曲线段需叠加改正值；凸曲线改正值取负，凹曲线取正",
+      "设计高程计算可以理解为道路CAD系统中用于直坡段按起点高程和坡度计算的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_078",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec03",
+    "section_title": "第三节 路线纵断面CAD系统",
+    "title": "填挖高计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "填挖高等于设计高程与地面高程之差，用于判断该桩号处填方或挖方。",
+    "core_explanation": "正负反映填挖状态；服务横断面和土石方计算；是纵横断面衔接的重要数据",
+    "plain_explanation": "填挖高计算可以理解为道路CAD系统中用于正负反映填挖状态的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第三节 路线纵断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“填挖高计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“填挖高计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_039",
+    "keywords": [
+      "填挖高",
+      "地面高",
+      "设计高",
+      "填挖高计算"
+    ],
+    "aliases": [
+      "填方挖方"
+    ],
+    "student_question_patterns": [
+      "填挖高计算是什么？",
+      "填挖高计算有什么作用？",
+      "填挖高计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "填挖高计算。定义：填挖高等于设计高程与地面高程之差，用于判断该桩号处填方或挖方。。要点：正负反映填挖状态；服务横断面和土石方计算；是纵横断面衔接的重要数据。应用于第三节 路线纵断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "填挖高等于设计高程与地面高程之差，用于判断该桩号处填方或挖方。",
+      "正负反映填挖状态；服务横断面和土石方计算；是纵横断面衔接的重要数据",
+      "填挖高计算可以理解为道路CAD系统中用于正负反映填挖状态的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_079",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "横断面CAD系统任务",
+    "knowledge_type": "system",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "横断面CAD系统负责横断面地面线处理、模板定义、超高加宽、自动戴帽、交互修改、土石方计算和成果输出。",
+    "core_explanation": "把路线设计转化为断面设计线；支持路基、边坡、边沟和超高设计；生成横断面图和工程量表",
+    "plain_explanation": "横断面CAD系统任务可以理解为道路CAD系统中用于把路线设计转化为断面设计线的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面CAD系统任务”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面CAD系统任务”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_040",
+    "keywords": [
+      "横断面CAD",
+      "戴帽",
+      "土石方",
+      "横断面CAD系统任务"
+    ],
+    "aliases": [
+      "横断面系统"
+    ],
+    "student_question_patterns": [
+      "横断面CAD系统任务是什么？",
+      "横断面CAD系统任务有什么作用？",
+      "横断面CAD系统任务在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面CAD系统任务。定义：横断面CAD系统负责横断面地面线处理、模板定义、超高加宽、自动戴帽、交互修改、土石方计算和成果输出。。要点：把路线设计转化为断面设计线；支持路基、边坡、边沟和超高设计；生成横断面图和工程量表。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "横断面CAD系统负责横断面地面线处理、模板定义、超高加宽、自动戴帽、交互修改、土石方计算和成果输出。",
+      "把路线设计转化为断面设计线；支持路基、边坡、边沟和超高设计；生成横断面图和工程量表",
+      "横断面CAD系统任务可以理解为道路CAD系统中用于把路线设计转化为断面设计线的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_080",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "横断面地面线输入",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "横断面地面线可由测量横断面数据导入，也可由数字地形模型按中线桩号自动切取得到。",
+    "core_explanation": "提供断面地形基础；决定填挖和边坡交地位置；影响模板适配和土石方计算",
+    "plain_explanation": "横断面地面线输入可以理解为道路CAD系统中用于提供断面地形基础的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面地面线输入”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面地面线输入”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_040",
+    "keywords": [
+      "地面线",
+      "横断面数据",
+      "DTM切取",
+      "横断面地面线输入"
+    ],
+    "aliases": [
+      "横断地面线"
+    ],
+    "student_question_patterns": [
+      "横断面地面线输入是什么？",
+      "横断面地面线输入有什么作用？",
+      "横断面地面线输入在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面地面线输入。定义：横断面地面线可由测量横断面数据导入，也可由数字地形模型按中线桩号自动切取得到。。要点：提供断面地形基础；决定填挖和边坡交地位置；影响模板适配和土石方计算。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "横断面地面线可由测量横断面数据导入，也可由数字地形模型按中线桩号自动切取得到。",
+      "提供断面地形基础；决定填挖和边坡交地位置；影响模板适配和土石方计算",
+      "横断面地面线输入可以理解为道路CAD系统中用于提供断面地形基础的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_081",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "横断面设计模板定义",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "横断面设计模板定义路幅、车道、路肩、边坡、边沟、护坡道和支挡等断面组成及其参数。",
+    "core_explanation": "模板是自动戴帽基础；包含几何参数和控制规则；可按路基类型和地形条件配置",
+    "plain_explanation": "横断面设计模板定义可以理解为道路CAD系统中用于模板是自动戴帽基础的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面设计模板定义”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面设计模板定义”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_041",
+    "keywords": [
+      "横断面模板",
+      "路幅",
+      "边坡",
+      "横断面设计模板定义"
+    ],
+    "aliases": [
+      "断面模板"
+    ],
+    "student_question_patterns": [
+      "横断面设计模板定义是什么？",
+      "横断面设计模板定义有什么作用？",
+      "横断面设计模板定义在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面设计模板定义。定义：横断面设计模板定义路幅、车道、路肩、边坡、边沟、护坡道和支挡等断面组成及其参数。。要点：模板是自动戴帽基础；包含几何参数和控制规则；可按路基类型和地形条件配置。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "横断面设计模板定义路幅、车道、路肩、边坡、边沟、护坡道和支挡等断面组成及其参数。",
+      "模板是自动戴帽基础；包含几何参数和控制规则；可按路基类型和地形条件配置",
+      "横断面设计模板定义可以理解为道路CAD系统中用于模板是自动戴帽基础的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_082",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "超高加宽设计与计算",
+    "knowledge_type": "process",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "超高加宽设计根据平曲线条件、设计速度、规范要求和旋转方式确定横坡变化、加宽值和特征点高程。",
+    "core_explanation": "服务曲线段行车稳定；涉及超高值、过渡段长度和特征点高程；需与横断面模板联动",
+    "plain_explanation": "超高加宽设计与计算可以理解为道路CAD系统中用于服务曲线段行车稳定的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“超高加宽设计与计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“超高加宽设计与计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_041",
+    "keywords": [
+      "超高",
+      "加宽",
+      "特征点高程",
+      "超高加宽设计与计算"
+    ],
+    "aliases": [
+      "超高加宽"
+    ],
+    "student_question_patterns": [
+      "超高加宽设计与计算是什么？",
+      "超高加宽设计与计算有什么作用？",
+      "超高加宽设计与计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "超高加宽设计与计算。定义：超高加宽设计根据平曲线条件、设计速度、规范要求和旋转方式确定横坡变化、加宽值和特征点高程。。要点：服务曲线段行车稳定；涉及超高值、过渡段长度和特征点高程；需与横断面模板联动。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "超高加宽设计根据平曲线条件、设计速度、规范要求和旋转方式确定横坡变化、加宽值和特征点高程。",
+      "服务曲线段行车稳定；涉及超高值、过渡段长度和特征点高程；需与横断面模板联动",
+      "超高加宽设计与计算可以理解为道路CAD系统中用于服务曲线段行车稳定的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_083",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "横断面自动设计戴帽",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "横断面自动设计又称戴帽，是系统根据地面线、设计模板和控制规则自动生成横断面设计线的过程。",
+    "core_explanation": "自动匹配路幅、边坡和边沟；计算填挖边界和交地点；提高横断面成图效率",
+    "plain_explanation": "横断面自动设计戴帽可以理解为道路CAD系统中用于自动匹配路幅、边坡和边沟的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面自动设计戴帽”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面自动设计戴帽”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_042",
+    "keywords": [
+      "戴帽",
+      "自动设计",
+      "横断面设计线",
+      "横断面自动设计戴帽"
+    ],
+    "aliases": [
+      "自动戴帽"
+    ],
+    "student_question_patterns": [
+      "横断面自动设计戴帽是什么？",
+      "横断面自动设计戴帽有什么作用？",
+      "横断面自动设计戴帽在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面自动设计戴帽。定义：横断面自动设计又称戴帽，是系统根据地面线、设计模板和控制规则自动生成横断面设计线的过程。。要点：自动匹配路幅、边坡和边沟；计算填挖边界和交地点；提高横断面成图效率。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "横断面自动设计又称戴帽，是系统根据地面线、设计模板和控制规则自动生成横断面设计线的过程。",
+      "自动匹配路幅、边坡和边沟；计算填挖边界和交地点；提高横断面成图效率",
+      "横断面自动设计戴帽可以理解为道路CAD系统中用于自动匹配路幅、边坡和边沟的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_084",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "横断面交互修改",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "交互修改用于处理自动戴帽失败、不合理或需要特殊构造的横断面，通过人工调整模板、边坡、边沟和支挡参数。",
+    "core_explanation": "弥补自动规则不足；处理特殊地形和构造物；保证断面设计合理可控",
+    "plain_explanation": "横断面交互修改可以理解为道路CAD系统中用于弥补自动规则不足的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面交互修改”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面交互修改”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_042",
+    "keywords": [
+      "交互修改",
+      "断面调整",
+      "横断面交互修改"
+    ],
+    "aliases": [
+      "手工修改断面"
+    ],
+    "student_question_patterns": [
+      "横断面交互修改是什么？",
+      "横断面交互修改有什么作用？",
+      "横断面交互修改在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面交互修改。定义：交互修改用于处理自动戴帽失败、不合理或需要特殊构造的横断面，通过人工调整模板、边坡、边沟和支挡参数。。要点：弥补自动规则不足；处理特殊地形和构造物；保证断面设计合理可控。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "交互修改用于处理自动戴帽失败、不合理或需要特殊构造的横断面，通过人工调整模板、边坡、边沟和支挡参数。",
+      "弥补自动规则不足；处理特殊地形和构造物；保证断面设计合理可控",
+      "横断面交互修改可以理解为道路CAD系统中用于弥补自动规则不足的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_085",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "路基土石方计算与调配",
+    "knowledge_type": "process",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "系统根据横断面填挖面积和相邻桩距计算土石方数量，并通过累积曲线辅助调配。",
+    "core_explanation": "由断面面积推算体积；区分填方和挖方；服务工程量和施工组织",
+    "plain_explanation": "路基土石方计算与调配可以理解为道路CAD系统中用于由断面面积推算体积的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“路基土石方计算与调配”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“路基土石方计算与调配”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_043",
+    "keywords": [
+      "土石方",
+      "调配",
+      "累积曲线",
+      "路基土石方计算与调配"
+    ],
+    "aliases": [
+      "土方计算"
+    ],
+    "student_question_patterns": [
+      "路基土石方计算与调配是什么？",
+      "路基土石方计算与调配有什么作用？",
+      "路基土石方计算与调配在道路CAD中如何应用？"
+    ],
+    "embedding_text": "路基土石方计算与调配。定义：系统根据横断面填挖面积和相邻桩距计算土石方数量，并通过累积曲线辅助调配。。要点：由断面面积推算体积；区分填方和挖方；服务工程量和施工组织。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "系统根据横断面填挖面积和相邻桩距计算土石方数量，并通过累积曲线辅助调配。",
+      "由断面面积推算体积；区分填方和挖方；服务工程量和施工组织",
+      "路基土石方计算与调配可以理解为道路CAD系统中用于由断面面积推算体积的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_086",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "横断面成果输出",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "横断面成果包括路基设计表、超高设计图、横断面图纸和土石方数量表等。",
+    "core_explanation": "满足施工图编制；支撑工程量清单；实现图表自动化输出",
+    "plain_explanation": "横断面成果输出可以理解为道路CAD系统中用于满足施工图编制的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面成果输出”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面成果输出”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_043",
+    "keywords": [
+      "横断面图",
+      "路基设计表",
+      "土石方表",
+      "横断面成果输出"
+    ],
+    "aliases": [
+      "横断面出图"
+    ],
+    "student_question_patterns": [
+      "横断面成果输出是什么？",
+      "横断面成果输出有什么作用？",
+      "横断面成果输出在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面成果输出。定义：横断面成果包括路基设计表、超高设计图、横断面图纸和土石方数量表等。。要点：满足施工图编制；支撑工程量清单；实现图表自动化输出。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "横断面成果包括路基设计表、超高设计图、横断面图纸和土石方数量表等。",
+      "满足施工图编制；支撑工程量清单；实现图表自动化输出",
+      "横断面成果输出可以理解为道路CAD系统中用于满足施工图编制的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_087",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "完善的横断面设计策略",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "完善的横断面设计策略要求系统能够根据模板规则、地形条件和控制参数自动选择合理断面形式。",
+    "core_explanation": "模板规则与地形条件匹配；支持填挖不同场景；提高自动设计成功率",
+    "plain_explanation": "完善的横断面设计策略可以理解为道路CAD系统中用于模板规则与地形条件匹配的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“完善的横断面设计策略”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“完善的横断面设计策略”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_044",
+    "keywords": [
+      "设计策略",
+      "模板规则",
+      "地形适配",
+      "完善的横断面设计策略"
+    ],
+    "aliases": [
+      "横断面策略"
+    ],
+    "student_question_patterns": [
+      "完善的横断面设计策略是什么？",
+      "完善的横断面设计策略有什么作用？",
+      "完善的横断面设计策略在道路CAD中如何应用？"
+    ],
+    "embedding_text": "完善的横断面设计策略。定义：完善的横断面设计策略要求系统能够根据模板规则、地形条件和控制参数自动选择合理断面形式。。要点：模板规则与地形条件匹配；支持填挖不同场景；提高自动设计成功率。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "完善的横断面设计策略要求系统能够根据模板规则、地形条件和控制参数自动选择合理断面形式。",
+      "模板规则与地形条件匹配；支持填挖不同场景；提高自动设计成功率",
+      "完善的横断面设计策略可以理解为道路CAD系统中用于模板规则与地形条件匹配的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_088",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "模板适应性分析",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "模板适应性分析用于检测横断面模板在不同地形条件下是否能够合理戴帽。",
+    "core_explanation": "识别失败或不合理断面；提示需要调整的桩号；提高模板设计质量",
+    "plain_explanation": "模板适应性分析可以理解为道路CAD系统中用于识别失败或不合理断面的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“模板适应性分析”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“模板适应性分析”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_044",
+    "keywords": [
+      "模板适应性",
+      "失败断面",
+      "模板适应性分析"
+    ],
+    "aliases": [
+      "模板检查"
+    ],
+    "student_question_patterns": [
+      "模板适应性分析是什么？",
+      "模板适应性分析有什么作用？",
+      "模板适应性分析在道路CAD中如何应用？"
+    ],
+    "embedding_text": "模板适应性分析。定义：模板适应性分析用于检测横断面模板在不同地形条件下是否能够合理戴帽。。要点：识别失败或不合理断面；提示需要调整的桩号；提高模板设计质量。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "模板适应性分析用于检测横断面模板在不同地形条件下是否能够合理戴帽。",
+      "识别失败或不合理断面；提示需要调整的桩号；提高模板设计质量",
+      "模板适应性分析可以理解为道路CAD系统中用于识别失败或不合理断面的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_089",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "构件化模板编辑",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "构件化模板编辑把路幅、边坡、边沟和支挡等断面要素作为可编辑构件，提高交互修改效率。",
+    "core_explanation": "断面要素可参数化编辑；便于快速替换构造形式；为BIM构件化过渡提供基础",
+    "plain_explanation": "构件化模板编辑可以理解为道路CAD系统中用于断面要素可参数化编辑的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“构件化模板编辑”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“构件化模板编辑”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_045",
+    "keywords": [
+      "构件化",
+      "模板编辑",
+      "断面要素",
+      "构件化模板编辑"
+    ],
+    "aliases": [
+      "构件化断面模板"
+    ],
+    "student_question_patterns": [
+      "构件化模板编辑是什么？",
+      "构件化模板编辑有什么作用？",
+      "构件化模板编辑在道路CAD中如何应用？"
+    ],
+    "embedding_text": "构件化模板编辑。定义：构件化模板编辑把路幅、边坡、边沟和支挡等断面要素作为可编辑构件，提高交互修改效率。。要点：断面要素可参数化编辑；便于快速替换构造形式；为BIM构件化过渡提供基础。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "构件化模板编辑把路幅、边坡、边沟和支挡等断面要素作为可编辑构件，提高交互修改效率。",
+      "断面要素可参数化编辑；便于快速替换构造形式；为BIM构件化过渡提供基础",
+      "构件化模板编辑可以理解为道路CAD系统中用于断面要素可参数化编辑的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_090",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "可视化超高设计功能",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "可视化超高设计功能在图形环境中展示超高变化、旋转方式、渐变段和特征点高程，支持动态调整。",
+    "core_explanation": "直观显示超高结果；支持多种旋转方式；便于检查和修改曲线段横坡",
+    "plain_explanation": "可视化超高设计功能可以理解为道路CAD系统中用于直观显示超高结果的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“可视化超高设计功能”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“可视化超高设计功能”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_045",
+    "keywords": [
+      "可视化超高",
+      "旋转方式",
+      "可视化超高设计功能"
+    ],
+    "aliases": [
+      "超高界面"
+    ],
+    "student_question_patterns": [
+      "可视化超高设计功能是什么？",
+      "可视化超高设计功能有什么作用？",
+      "可视化超高设计功能在道路CAD中如何应用？"
+    ],
+    "embedding_text": "可视化超高设计功能。定义：可视化超高设计功能在图形环境中展示超高变化、旋转方式、渐变段和特征点高程，支持动态调整。。要点：直观显示超高结果；支持多种旋转方式；便于检查和修改曲线段横坡。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "可视化超高设计功能在图形环境中展示超高变化、旋转方式、渐变段和特征点高程，支持动态调整。",
+      "直观显示超高结果；支持多种旋转方式；便于检查和修改曲线段横坡",
+      "可视化超高设计功能可以理解为道路CAD系统中用于直观显示超高结果的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_091",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "超高值确定",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "超高值确定的实质是合理分配横向摩阻系数和超高，使二者共同抵抗车辆在曲线行驶时的离心作用。",
+    "core_explanation": "与设计速度和曲线半径相关；需要满足规范限值；影响行车安全和舒适性",
+    "plain_explanation": "超高值确定可以理解为道路CAD系统中用于与设计速度和曲线半径相关的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“超高值确定”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“超高值确定”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_046",
+    "keywords": [
+      "超高值",
+      "横向摩阻",
+      "离心力",
+      "超高值确定"
+    ],
+    "aliases": [
+      "曲线超高"
+    ],
+    "student_question_patterns": [
+      "超高值确定是什么？",
+      "超高值确定有什么作用？",
+      "超高值确定在道路CAD中如何应用？"
+    ],
+    "embedding_text": "超高值确定。定义：超高值确定的实质是合理分配横向摩阻系数和超高，使二者共同抵抗车辆在曲线行驶时的离心作用。。要点：与设计速度和曲线半径相关；需要满足规范限值；影响行车安全和舒适性。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "超高值确定的实质是合理分配横向摩阻系数和超高，使二者共同抵抗车辆在曲线行驶时的离心作用。",
+      "与设计速度和曲线半径相关；需要满足规范限值；影响行车安全和舒适性",
+      "超高值确定可以理解为道路CAD系统中用于与设计速度和曲线半径相关的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_092",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "超高过渡问题",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "超高过渡包括旋转方式选择、渐变段长度确定以及过渡段内特征点高程或抬高值计算。",
+    "core_explanation": "从双坡断面过渡到单坡断面；要兼顾排水、稳定和舒适；需要计算起止桩号和高程变化",
+    "plain_explanation": "超高过渡问题可以理解为道路CAD系统中用于从双坡断面过渡到单坡断面的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“超高过渡问题”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“超高过渡问题”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_046",
+    "keywords": [
+      "超高过渡",
+      "渐变段",
+      "旋转轴",
+      "超高过渡问题"
+    ],
+    "aliases": [
+      "超高渐变"
+    ],
+    "student_question_patterns": [
+      "超高过渡问题是什么？",
+      "超高过渡问题有什么作用？",
+      "超高过渡问题在道路CAD中如何应用？"
+    ],
+    "embedding_text": "超高过渡问题。定义：超高过渡包括旋转方式选择、渐变段长度确定以及过渡段内特征点高程或抬高值计算。。要点：从双坡断面过渡到单坡断面；要兼顾排水、稳定和舒适；需要计算起止桩号和高程变化。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "超高过渡包括旋转方式选择、渐变段长度确定以及过渡段内特征点高程或抬高值计算。",
+      "从双坡断面过渡到单坡断面；要兼顾排水、稳定和舒适；需要计算起止桩号和高程变化",
+      "超高过渡问题可以理解为道路CAD系统中用于从双坡断面过渡到单坡断面的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_093",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "最小超高过渡段长度",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "最小超高过渡段长度由行车道宽度、中央分隔带、路缘带、超高坡度差和附加坡度等因素确定。",
+    "core_explanation": "保证横坡渐变不过急；兼顾排水和行驶舒适；随旋转方式和道路横断面组成变化",
+    "plain_explanation": "最小超高过渡段长度可以理解为道路CAD系统中用于保证横坡渐变不过急的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“最小超高过渡段长度”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“最小超高过渡段长度”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_047",
+    "keywords": [
+      "超高过渡段长度",
+      "附加坡度",
+      "最小超高过渡段长度"
+    ],
+    "aliases": [
+      "超高长度"
+    ],
+    "student_question_patterns": [
+      "最小超高过渡段长度是什么？",
+      "最小超高过渡段长度有什么作用？",
+      "最小超高过渡段长度在道路CAD中如何应用？"
+    ],
+    "embedding_text": "最小超高过渡段长度。定义：最小超高过渡段长度由行车道宽度、中央分隔带、路缘带、超高坡度差和附加坡度等因素确定。。要点：保证横坡渐变不过急；兼顾排水和行驶舒适；随旋转方式和道路横断面组成变化。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "最小超高过渡段长度由行车道宽度、中央分隔带、路缘带、超高坡度差和附加坡度等因素确定。",
+      "保证横坡渐变不过急；兼顾排水和行驶舒适；随旋转方式和道路横断面组成变化",
+      "最小超高过渡段长度可以理解为道路CAD系统中用于保证横坡渐变不过急的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_094",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "无中间带道路超高方式",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "无中间带道路常用绕内边线旋转和绕中线旋转等方式进行超高过渡。",
+    "core_explanation": "绕内边线旋转常用于保持内侧边线高程；绕中线旋转便于两侧高程协调；不同方式影响特征点高程计算",
+    "plain_explanation": "无中间带道路超高方式可以理解为道路CAD系统中用于绕内边线旋转常用于保持内侧边线高程的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“无中间带道路超高方式”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“无中间带道路超高方式”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_047",
+    "keywords": [
+      "无中间带",
+      "绕内边线",
+      "绕中线",
+      "无中间带道路超高方式"
+    ],
+    "aliases": [
+      "无分隔带超高"
+    ],
+    "student_question_patterns": [
+      "无中间带道路超高方式是什么？",
+      "无中间带道路超高方式有什么作用？",
+      "无中间带道路超高方式在道路CAD中如何应用？"
+    ],
+    "embedding_text": "无中间带道路超高方式。定义：无中间带道路常用绕内边线旋转和绕中线旋转等方式进行超高过渡。。要点：绕内边线旋转常用于保持内侧边线高程；绕中线旋转便于两侧高程协调；不同方式影响特征点高程计算。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "无中间带道路常用绕内边线旋转和绕中线旋转等方式进行超高过渡。",
+      "绕内边线旋转常用于保持内侧边线高程；绕中线旋转便于两侧高程协调；不同方式影响特征点高程计算",
+      "无中间带道路超高方式可以理解为道路CAD系统中用于绕内边线旋转常用于保持内侧边线高程的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_095",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "有中间带道路超高方式",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "有中间带道路常用绕中央分隔带边线旋转，需要分别计算行车道、路缘带和硬路肩等特征点高程。",
+    "core_explanation": "中央分隔带参与旋转控制；左右幅可分别处理；适合高等级公路横断面",
+    "plain_explanation": "有中间带道路超高方式可以理解为道路CAD系统中用于中央分隔带参与旋转控制的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“有中间带道路超高方式”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“有中间带道路超高方式”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_048",
+    "keywords": [
+      "有中间带",
+      "中央分隔带",
+      "超高",
+      "有中间带道路超高方式"
+    ],
+    "aliases": [
+      "有分隔带超高"
+    ],
+    "student_question_patterns": [
+      "有中间带道路超高方式是什么？",
+      "有中间带道路超高方式有什么作用？",
+      "有中间带道路超高方式在道路CAD中如何应用？"
+    ],
+    "embedding_text": "有中间带道路超高方式。定义：有中间带道路常用绕中央分隔带边线旋转，需要分别计算行车道、路缘带和硬路肩等特征点高程。。要点：中央分隔带参与旋转控制；左右幅可分别处理；适合高等级公路横断面。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "有中间带道路常用绕中央分隔带边线旋转，需要分别计算行车道、路缘带和硬路肩等特征点高程。",
+      "中央分隔带参与旋转控制；左右幅可分别处理；适合高等级公路横断面",
+      "有中间带道路超高方式可以理解为道路CAD系统中用于中央分隔带参与旋转控制的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_096",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "基本边坡线单元",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "基本边坡线单元通过起点、坡度、高度、宽度、终点控制等参数描述边坡段，是横断面边坡自动设计的基本几何单元。",
+    "core_explanation": "用于组合形成复杂边坡；终点由控制参数和可变参数确定；支持填挖边坡、边沟和护坡道设计",
+    "plain_explanation": "基本边坡线单元可以理解为道路CAD系统中用于用于组合形成复杂边坡的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“基本边坡线单元”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“基本边坡线单元”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_048",
+    "keywords": [
+      "边坡线单元",
+      "坡度",
+      "高度",
+      "宽度",
+      "基本边坡线单元"
+    ],
+    "aliases": [
+      "边坡单元"
+    ],
+    "student_question_patterns": [
+      "基本边坡线单元是什么？",
+      "基本边坡线单元有什么作用？",
+      "基本边坡线单元在道路CAD中如何应用？"
+    ],
+    "embedding_text": "基本边坡线单元。定义：基本边坡线单元通过起点、坡度、高度、宽度、终点控制等参数描述边坡段，是横断面边坡自动设计的基本几何单元。。要点：用于组合形成复杂边坡；终点由控制参数和可变参数确定；支持填挖边坡、边沟和护坡道设计。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "基本边坡线单元通过起点、坡度、高度、宽度、终点控制等参数描述边坡段，是横断面边坡自动设计的基本几何单元。",
+      "用于组合形成复杂边坡；终点由控制参数和可变参数确定；支持填挖边坡、边沟和护坡道设计",
+      "基本边坡线单元可以理解为道路CAD系统中用于用于组合形成复杂边坡的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_097",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "边坡终点控制类型",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "边坡终点可由坡度、高度、宽度或构造物控制条件确定，不同组合形成不同边坡设计方式。",
+    "core_explanation": "坡度控制决定边坡倾斜程度；高度控制决定分级或沟深；宽度控制决定占地和构造位置",
+    "plain_explanation": "边坡终点控制类型可以理解为道路CAD系统中用于坡度控制决定边坡倾斜程度的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“边坡终点控制类型”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“边坡终点控制类型”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_049",
+    "keywords": [
+      "终点控制",
+      "坡度控制",
+      "高度控制",
+      "宽度控制",
+      "边坡终点控制类型"
+    ],
+    "aliases": [
+      "边坡控制"
+    ],
+    "student_question_patterns": [
+      "边坡终点控制类型是什么？",
+      "边坡终点控制类型有什么作用？",
+      "边坡终点控制类型在道路CAD中如何应用？"
+    ],
+    "embedding_text": "边坡终点控制类型。定义：边坡终点可由坡度、高度、宽度或构造物控制条件确定，不同组合形成不同边坡设计方式。。要点：坡度控制决定边坡倾斜程度；高度控制决定分级或沟深；宽度控制决定占地和构造位置。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "边坡终点可由坡度、高度、宽度或构造物控制条件确定，不同组合形成不同边坡设计方式。",
+      "坡度控制决定边坡倾斜程度；高度控制决定分级或沟深；宽度控制决定占地和构造位置",
+      "边坡终点控制类型可以理解为道路CAD系统中用于坡度控制决定边坡倾斜程度的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_098",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "边坡坡度控制",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "坡度控制可采用定值坡率或沿地面线等方式，用于确定填挖边坡的倾斜关系。",
+    "core_explanation": "定值坡率是常用方式；沿地面线用于特殊构造需求；坡率影响占地和稳定",
+    "plain_explanation": "边坡坡度控制可以理解为道路CAD系统中用于定值坡率是常用方式的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“边坡坡度控制”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“边坡坡度控制”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_049",
+    "keywords": [
+      "边坡坡率",
+      "坡度控制",
+      "边坡坡度控制"
+    ],
+    "aliases": [
+      "坡率设置"
+    ],
+    "student_question_patterns": [
+      "边坡坡度控制是什么？",
+      "边坡坡度控制有什么作用？",
+      "边坡坡度控制在道路CAD中如何应用？"
+    ],
+    "embedding_text": "边坡坡度控制。定义：坡度控制可采用定值坡率或沿地面线等方式，用于确定填挖边坡的倾斜关系。。要点：定值坡率是常用方式；沿地面线用于特殊构造需求；坡率影响占地和稳定。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "坡度控制可采用定值坡率或沿地面线等方式，用于确定填挖边坡的倾斜关系。",
+      "定值坡率是常用方式；沿地面线用于特殊构造需求；坡率影响占地和稳定",
+      "边坡坡度控制可以理解为道路CAD系统中用于定值坡率是常用方式的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_099",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "边坡高度控制",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "高度控制可按边坡分级高度、边沟深度、墙顶或竖曲线文件等条件确定。",
+    "core_explanation": "适合分级边坡和边沟控制；可结合挡墙和护坡道；服务复杂路基断面设计",
+    "plain_explanation": "边坡高度控制可以理解为道路CAD系统中用于适合分级边坡和边沟控制的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“边坡高度控制”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“边坡高度控制”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_050",
+    "keywords": [
+      "高度控制",
+      "分级高度",
+      "边沟深度",
+      "边坡高度控制"
+    ],
+    "aliases": [
+      "边坡高度"
+    ],
+    "student_question_patterns": [
+      "边坡高度控制是什么？",
+      "边坡高度控制有什么作用？",
+      "边坡高度控制在道路CAD中如何应用？"
+    ],
+    "embedding_text": "边坡高度控制。定义：高度控制可按边坡分级高度、边沟深度、墙顶或竖曲线文件等条件确定。。要点：适合分级边坡和边沟控制；可结合挡墙和护坡道；服务复杂路基断面设计。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "高度控制可按边坡分级高度、边沟深度、墙顶或竖曲线文件等条件确定。",
+      "适合分级边坡和边沟控制；可结合挡墙和护坡道；服务复杂路基断面设计",
+      "边坡高度控制可以理解为道路CAD系统中用于适合分级边坡和边沟控制的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_100",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "边坡宽度控制",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "宽度控制可按边沟底宽、路肩边加参数、占地宽度或文件决定，用于控制边坡终点水平位置。",
+    "core_explanation": "控制断面横向占地；用于边沟和红线约束；适合分离式路基断面",
+    "plain_explanation": "边坡宽度控制可以理解为道路CAD系统中用于控制断面横向占地的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“边坡宽度控制”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“边坡宽度控制”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_050",
+    "keywords": [
+      "宽度控制",
+      "占地宽度",
+      "设计红线",
+      "边坡宽度控制"
+    ],
+    "aliases": [
+      "边坡宽度"
+    ],
+    "student_question_patterns": [
+      "边坡宽度控制是什么？",
+      "边坡宽度控制有什么作用？",
+      "边坡宽度控制在道路CAD中如何应用？"
+    ],
+    "embedding_text": "边坡宽度控制。定义：宽度控制可按边沟底宽、路肩边加参数、占地宽度或文件决定，用于控制边坡终点水平位置。。要点：控制断面横向占地；用于边沟和红线约束；适合分离式路基断面。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "宽度控制可按边沟底宽、路肩边加参数、占地宽度或文件决定，用于控制边坡终点水平位置。",
+      "控制断面横向占地；用于边沟和红线约束；适合分离式路基断面",
+      "边坡宽度控制可以理解为道路CAD系统中用于控制断面横向占地的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_101",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "边坡条件控制",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "边坡条件控制通过高差、宽距和构造物相对位置等条件判断是否采用某种边坡形式。",
+    "core_explanation": "用于自动选择边坡方案；可根据高差和宽距触发规则；提高自动戴帽合理性",
+    "plain_explanation": "边坡条件控制可以理解为道路CAD系统中用于用于自动选择边坡方案的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“边坡条件控制”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“边坡条件控制”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_051",
+    "keywords": [
+      "条件控制",
+      "高差",
+      "宽距",
+      "边坡条件控制"
+    ],
+    "aliases": [
+      "边坡判定"
+    ],
+    "student_question_patterns": [
+      "边坡条件控制是什么？",
+      "边坡条件控制有什么作用？",
+      "边坡条件控制在道路CAD中如何应用？"
+    ],
+    "embedding_text": "边坡条件控制。定义：边坡条件控制通过高差、宽距和构造物相对位置等条件判断是否采用某种边坡形式。。要点：用于自动选择边坡方案；可根据高差和宽距触发规则；提高自动戴帽合理性。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "边坡条件控制通过高差、宽距和构造物相对位置等条件判断是否采用某种边坡形式。",
+      "用于自动选择边坡方案；可根据高差和宽距触发规则；提高自动戴帽合理性",
+      "边坡条件控制可以理解为道路CAD系统中用于用于自动选择边坡方案的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_102",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "边坡形式选择策略",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "当满足或不满足边坡控制条件时，系统可取消后续判定、作废当前形式、选择指定形式或修改参数重新判定。",
+    "core_explanation": "体现规则驱动设计；支持自动化与人工干预结合；提高复杂地形适应性",
+    "plain_explanation": "边坡形式选择策略可以理解为道路CAD系统中用于体现规则驱动设计的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“边坡形式选择策略”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“边坡形式选择策略”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_051",
+    "keywords": [
+      "边坡选择",
+      "规则判定",
+      "边坡形式选择策略"
+    ],
+    "aliases": [
+      "边坡规则"
+    ],
+    "student_question_patterns": [
+      "边坡形式选择策略是什么？",
+      "边坡形式选择策略有什么作用？",
+      "边坡形式选择策略在道路CAD中如何应用？"
+    ],
+    "embedding_text": "边坡形式选择策略。定义：当满足或不满足边坡控制条件时，系统可取消后续判定、作废当前形式、选择指定形式或修改参数重新判定。。要点：体现规则驱动设计；支持自动化与人工干预结合；提高复杂地形适应性。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "当满足或不满足边坡控制条件时，系统可取消后续判定、作废当前形式、选择指定形式或修改参数重新判定。",
+      "体现规则驱动设计；支持自动化与人工干预结合；提高复杂地形适应性",
+      "边坡形式选择策略可以理解为道路CAD系统中用于体现规则驱动设计的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_103",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "横断面面积计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "横断面面积是原地面线与路基设计线围成的填方或挖方面积，应分别计算。",
+    "core_explanation": "高于地面线为填方面积；低于地面线为挖方面积；面积是土石方体积计算基础",
+    "plain_explanation": "横断面面积计算可以理解为道路CAD系统中用于高于地面线为填方面积的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“横断面面积计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“横断面面积计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_052",
+    "keywords": [
+      "横断面面积",
+      "填方面积",
+      "挖方面积",
+      "横断面面积计算"
+    ],
+    "aliases": [
+      "断面面积"
+    ],
+    "student_question_patterns": [
+      "横断面面积计算是什么？",
+      "横断面面积计算有什么作用？",
+      "横断面面积计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "横断面面积计算。定义：横断面面积是原地面线与路基设计线围成的填方或挖方面积，应分别计算。。要点：高于地面线为填方面积；低于地面线为挖方面积；面积是土石方体积计算基础。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "横断面面积是原地面线与路基设计线围成的填方或挖方面积，应分别计算。",
+      "高于地面线为填方面积；低于地面线为挖方面积；面积是土石方体积计算基础",
+      "横断面面积计算可以理解为道路CAD系统中用于高于地面线为填方面积的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_104",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "积距法面积计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "积距法将横断面划分为若干等宽梯形或三角形小块，用平均高度近似求面积。",
+    "core_explanation": "方法简单便于手工计算；精度受横宽和地面线规则程度影响；计算机辅助设计中一般不优先采用",
+    "plain_explanation": "积距法面积计算可以理解为道路CAD系统中用于方法简单便于手工计算的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“积距法面积计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“积距法面积计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_052",
+    "keywords": [
+      "积距法",
+      "面积计算",
+      "积距法面积计算"
+    ],
+    "aliases": [
+      "平均高度法"
+    ],
+    "student_question_patterns": [
+      "积距法面积计算是什么？",
+      "积距法面积计算有什么作用？",
+      "积距法面积计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "积距法面积计算。定义：积距法将横断面划分为若干等宽梯形或三角形小块，用平均高度近似求面积。。要点：方法简单便于手工计算；精度受横宽和地面线规则程度影响；计算机辅助设计中一般不优先采用。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "积距法将横断面划分为若干等宽梯形或三角形小块，用平均高度近似求面积。",
+      "方法简单便于手工计算；精度受横宽和地面线规则程度影响；计算机辅助设计中一般不优先采用",
+      "积距法面积计算可以理解为道路CAD系统中用于方法简单便于手工计算的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_105",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "坐标法面积计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "坐标法利用横断面各转折点坐标按多边形面积公式计算填挖面积，精度较高，适合计算机处理。",
+    "core_explanation": "利用断面点坐标计算；精度较高但计算量较大；适合CAD自动计算",
+    "plain_explanation": "坐标法面积计算可以理解为道路CAD系统中用于利用断面点坐标计算的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“坐标法面积计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“坐标法面积计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_053",
+    "keywords": [
+      "坐标法",
+      "多边形面积",
+      "坐标法面积计算"
+    ],
+    "aliases": [
+      "断面坐标法"
+    ],
+    "student_question_patterns": [
+      "坐标法面积计算是什么？",
+      "坐标法面积计算有什么作用？",
+      "坐标法面积计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "坐标法面积计算。定义：坐标法利用横断面各转折点坐标按多边形面积公式计算填挖面积，精度较高，适合计算机处理。。要点：利用断面点坐标计算；精度较高但计算量较大；适合CAD自动计算。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "坐标法利用横断面各转折点坐标按多边形面积公式计算填挖面积，精度较高，适合计算机处理。",
+      "利用断面点坐标计算；精度较高但计算量较大；适合CAD自动计算",
+      "坐标法面积计算可以理解为道路CAD系统中用于利用断面点坐标计算的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_106",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "平均断面法土石方数量计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "平均断面法将相邻两断面之间近似为棱柱体，用两断面面积平均值乘以桩距计算体积。",
+    "core_explanation": "适用于相邻断面同为填方或同为挖方且面积相近；计算简便常用；精度随断面变化程度降低",
+    "plain_explanation": "平均断面法土石方数量计算可以理解为道路CAD系统中用于适用于相邻断面同为填方或同为挖方且面积相近的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平均断面法土石方数量计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平均断面法土石方数量计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_053",
+    "keywords": [
+      "平均断面法",
+      "体积计算",
+      "土石方数量",
+      "平均断面法土石方数量计算"
+    ],
+    "aliases": [
+      "棱柱体法"
+    ],
+    "student_question_patterns": [
+      "平均断面法土石方数量计算是什么？",
+      "平均断面法土石方数量计算有什么作用？",
+      "平均断面法土石方数量计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平均断面法土石方数量计算。定义：平均断面法将相邻两断面之间近似为棱柱体，用两断面面积平均值乘以桩距计算体积。。要点：适用于相邻断面同为填方或同为挖方且面积相近；计算简便常用；精度随断面变化程度降低。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平均断面法将相邻两断面之间近似为棱柱体，用两断面面积平均值乘以桩距计算体积。",
+      "适用于相邻断面同为填方或同为挖方且面积相近；计算简便常用；精度随断面变化程度降低",
+      "平均断面法土石方数量计算可以理解为道路CAD系统中用于适用于相邻断面同为填方或同为挖方且面积相近的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_107",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec04",
+    "section_title": "第四节 路线横断面CAD系统",
+    "title": "棱台近似土石方计算",
+    "knowledge_type": "formula",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "当相邻断面面积相差较大时，可采用棱台近似公式计算体积，以提高精度。",
+    "core_explanation": "适用于面积差异较大的断面；比平均断面法精度更高；适合计算机辅助计算",
+    "plain_explanation": "棱台近似土石方计算可以理解为道路CAD系统中用于适用于面积差异较大的断面的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第四节 路线横断面CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“棱台近似土石方计算”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“棱台近似土石方计算”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_054",
+    "keywords": [
+      "棱台公式",
+      "土石方体积",
+      "棱台近似土石方计算"
+    ],
+    "aliases": [
+      "棱台法"
+    ],
+    "student_question_patterns": [
+      "棱台近似土石方计算是什么？",
+      "棱台近似土石方计算有什么作用？",
+      "棱台近似土石方计算在道路CAD中如何应用？"
+    ],
+    "embedding_text": "棱台近似土石方计算。定义：当相邻断面面积相差较大时，可采用棱台近似公式计算体积，以提高精度。。要点：适用于面积差异较大的断面；比平均断面法精度更高；适合计算机辅助计算。应用于第四节 路线横断面CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "当相邻断面面积相差较大时，可采用棱台近似公式计算体积，以提高精度。",
+      "适用于面积差异较大的断面；比平均断面法精度更高；适合计算机辅助计算",
+      "棱台近似土石方计算可以理解为道路CAD系统中用于适用于面积差异较大的断面的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_108",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "平面交叉口CAD系统任务",
+    "knowledge_type": "system",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "平面交叉口CAD系统负责交叉口平面布设、立面设计、坐标高程计算、视距检查、排水控制、图纸绘制和工程量统计。",
+    "core_explanation": "支持常见交叉口形式设计；处理平面与立面协调；输出交叉口图纸和数量表",
+    "plain_explanation": "平面交叉口CAD系统任务可以理解为道路CAD系统中用于支持常见交叉口形式设计的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面交叉口CAD系统任务”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面交叉口CAD系统任务”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_054",
+    "keywords": [
+      "平面交叉口CAD",
+      "交叉口设计",
+      "平面交叉口CAD系统任务"
+    ],
+    "aliases": [
+      "交叉口设计系统"
+    ],
+    "student_question_patterns": [
+      "平面交叉口CAD系统任务是什么？",
+      "平面交叉口CAD系统任务有什么作用？",
+      "平面交叉口CAD系统任务在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面交叉口CAD系统任务。定义：平面交叉口CAD系统负责交叉口平面布设、立面设计、坐标高程计算、视距检查、排水控制、图纸绘制和工程量统计。。要点：支持常见交叉口形式设计；处理平面与立面协调；输出交叉口图纸和数量表。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面交叉口CAD系统负责交叉口平面布设、立面设计、坐标高程计算、视距检查、排水控制、图纸绘制和工程量统计。",
+      "支持常见交叉口形式设计；处理平面与立面协调；输出交叉口图纸和数量表",
+      "平面交叉口CAD系统任务可以理解为道路CAD系统中用于支持常见交叉口形式设计的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_109",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "交叉口功能需求",
+    "knowledge_type": "function",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "交叉口CAD系统需支持交互设计、坐标里程高程计算、视距检查、路脊线调整、规范警告和成果输出。",
+    "core_explanation": "满足平面与立面设计需求；保证安全、舒适和排水；支持实时反馈和规范检查",
+    "plain_explanation": "交叉口功能需求可以理解为道路CAD系统中用于满足平面与立面设计需求的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“交叉口功能需求”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“交叉口功能需求”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_055",
+    "keywords": [
+      "功能需求",
+      "视距检查",
+      "路脊线",
+      "交叉口功能需求"
+    ],
+    "aliases": [
+      "交叉口CAD功能"
+    ],
+    "student_question_patterns": [
+      "交叉口功能需求是什么？",
+      "交叉口功能需求有什么作用？",
+      "交叉口功能需求在道路CAD中如何应用？"
+    ],
+    "embedding_text": "交叉口功能需求。定义：交叉口CAD系统需支持交互设计、坐标里程高程计算、视距检查、路脊线调整、规范警告和成果输出。。要点：满足平面与立面设计需求；保证安全、舒适和排水；支持实时反馈和规范检查。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "交叉口CAD系统需支持交互设计、坐标里程高程计算、视距检查、路脊线调整、规范警告和成果输出。",
+      "满足平面与立面设计需求；保证安全、舒适和排水；支持实时反馈和规范检查",
+      "交叉口功能需求可以理解为道路CAD系统中用于满足平面与立面设计需求的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_110",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "平面交叉口人机分工",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "交叉口设计中，人负责方案选择和复杂判断，系统负责坐标高程计算、图形绘制、规范检查和信息反馈。",
+    "core_explanation": "人控制设计意图和方案取舍；系统承担重复计算与绘图；交互反馈提高设计可靠性",
+    "plain_explanation": "平面交叉口人机分工可以理解为道路CAD系统中用于人控制设计意图和方案取舍的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面交叉口人机分工”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面交叉口人机分工”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_055",
+    "keywords": [
+      "人机分工",
+      "交叉口交互",
+      "平面交叉口人机分工"
+    ],
+    "aliases": [
+      "交叉口人机协同"
+    ],
+    "student_question_patterns": [
+      "平面交叉口人机分工是什么？",
+      "平面交叉口人机分工有什么作用？",
+      "平面交叉口人机分工在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面交叉口人机分工。定义：交叉口设计中，人负责方案选择和复杂判断，系统负责坐标高程计算、图形绘制、规范检查和信息反馈。。要点：人控制设计意图和方案取舍；系统承担重复计算与绘图；交互反馈提高设计可靠性。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "交叉口设计中，人负责方案选择和复杂判断，系统负责坐标高程计算、图形绘制、规范检查和信息反馈。",
+      "人控制设计意图和方案取舍；系统承担重复计算与绘图；交互反馈提高设计可靠性",
+      "平面交叉口人机分工可以理解为道路CAD系统中用于人控制设计意图和方案取舍的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_111",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "平面交叉口平面设计",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "平面设计主要确定相交道路线形、交角、转角、交通岛、渠化和附属结构的位置。",
+    "core_explanation": "公式选用得当即可程序化实现；需满足规范和交通组织要求；为立面设计提供边界条件",
+    "plain_explanation": "平面交叉口平面设计可以理解为道路CAD系统中用于公式选用得当即可程序化实现的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面交叉口平面设计”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面交叉口平面设计”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_056",
+    "keywords": [
+      "交叉口平面设计",
+      "渠化",
+      "导流岛",
+      "平面交叉口平面设计"
+    ],
+    "aliases": [
+      "交叉口平面"
+    ],
+    "student_question_patterns": [
+      "平面交叉口平面设计是什么？",
+      "平面交叉口平面设计有什么作用？",
+      "平面交叉口平面设计在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面交叉口平面设计。定义：平面设计主要确定相交道路线形、交角、转角、交通岛、渠化和附属结构的位置。。要点：公式选用得当即可程序化实现；需满足规范和交通组织要求；为立面设计提供边界条件。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "平面设计主要确定相交道路线形、交角、转角、交通岛、渠化和附属结构的位置。",
+      "公式选用得当即可程序化实现；需满足规范和交通组织要求；为立面设计提供边界条件",
+      "平面交叉口平面设计可以理解为道路CAD系统中用于公式选用得当即可程序化实现的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_112",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "平面交叉口立面设计",
+    "knowledge_type": "process",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "立面设计需要处理交叉口范围内的高程、横坡、纵坡、路脊线和排水条件，使车辆通行平顺。",
+    "core_explanation": "交叉口立面是平缓曲面；需协调相交路线纵坡和路拱横坡；排水由合成坡度控制",
+    "plain_explanation": "平面交叉口立面设计可以理解为道路CAD系统中用于交叉口立面是平缓曲面的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“平面交叉口立面设计”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“平面交叉口立面设计”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_056",
+    "keywords": [
+      "交叉口立面",
+      "路脊线",
+      "排水",
+      "平面交叉口立面设计"
+    ],
+    "aliases": [
+      "交叉口高程设计"
+    ],
+    "student_question_patterns": [
+      "平面交叉口立面设计是什么？",
+      "平面交叉口立面设计有什么作用？",
+      "平面交叉口立面设计在道路CAD中如何应用？"
+    ],
+    "embedding_text": "平面交叉口立面设计。定义：立面设计需要处理交叉口范围内的高程、横坡、纵坡、路脊线和排水条件，使车辆通行平顺。。要点：交叉口立面是平缓曲面；需协调相交路线纵坡和路拱横坡；排水由合成坡度控制。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "立面设计需要处理交叉口范围内的高程、横坡、纵坡、路脊线和排水条件，使车辆通行平顺。",
+      "交叉口立面是平缓曲面；需协调相交路线纵坡和路拱横坡；排水由合成坡度控制",
+      "平面交叉口立面设计可以理解为道路CAD系统中用于交叉口立面是平缓曲面的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_113",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "Coons曲面模型",
+    "knowledge_type": "model",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "Coons曲面模型是一种由边界曲线插值形成的三维曲面模型，可用于表达交叉口平缓立面。",
+    "core_explanation": "可较准确表达交叉口曲面；曲面片易拼合并保持平顺过渡；适合计算机查找和高程计算",
+    "plain_explanation": "Coons曲面模型可以理解为道路CAD系统中用于可较准确表达交叉口曲面的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“Coons曲面模型”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“Coons曲面模型”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_057",
+    "keywords": [
+      "Coons曲面",
+      "曲面模型",
+      "立面设计",
+      "Coons曲面模型"
+    ],
+    "aliases": [
+      "孔斯曲面"
+    ],
+    "student_question_patterns": [
+      "Coons曲面模型是什么？",
+      "Coons曲面模型有什么作用？",
+      "Coons曲面模型在道路CAD中如何应用？"
+    ],
+    "embedding_text": "Coons曲面模型。定义：Coons曲面模型是一种由边界曲线插值形成的三维曲面模型，可用于表达交叉口平缓立面。。要点：可较准确表达交叉口曲面；曲面片易拼合并保持平顺过渡；适合计算机查找和高程计算。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "Coons曲面模型是一种由边界曲线插值形成的三维曲面模型，可用于表达交叉口平缓立面。",
+      "可较准确表达交叉口曲面；曲面片易拼合并保持平顺过渡；适合计算机查找和高程计算",
+      "Coons曲面模型可以理解为道路CAD系统中用于可较准确表达交叉口曲面的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_114",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "Coons曲面片拼合特性",
+    "knowledge_type": "feature",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "Coons曲面片插值于四条边界曲线，多个曲面片之间便于拼合并保持平顺过渡。",
+    "core_explanation": "边界曲线控制曲面形态；片与片之间可平顺连接；满足车辆舒适通行要求",
+    "plain_explanation": "Coons曲面片拼合特性可以理解为道路CAD系统中用于边界曲线控制曲面形态的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“Coons曲面片拼合特性”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“Coons曲面片拼合特性”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_057",
+    "keywords": [
+      "曲面片",
+      "边界曲线",
+      "拼合",
+      "Coons曲面片拼合特性"
+    ],
+    "aliases": [
+      "Coons拼合"
+    ],
+    "student_question_patterns": [
+      "Coons曲面片拼合特性是什么？",
+      "Coons曲面片拼合特性有什么作用？",
+      "Coons曲面片拼合特性在道路CAD中如何应用？"
+    ],
+    "embedding_text": "Coons曲面片拼合特性。定义：Coons曲面片插值于四条边界曲线，多个曲面片之间便于拼合并保持平顺过渡。。要点：边界曲线控制曲面形态；片与片之间可平顺连接；满足车辆舒适通行要求。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "Coons曲面片插值于四条边界曲线，多个曲面片之间便于拼合并保持平顺过渡。",
+      "边界曲线控制曲面形态；片与片之间可平顺连接；满足车辆舒适通行要求",
+      "Coons曲面片拼合特性可以理解为道路CAD系统中用于边界曲线控制曲面形态的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_115",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "Coons曲面与排水要求",
+    "knowledge_type": "feature",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "当相交路线纵坡、路拱横坡和特征断面横坡满足排水要求时，Coons曲面表达的交叉口立面也可满足排水。",
+    "core_explanation": "排水由合成坡度决定；需控制特征断面横坡；曲面模型服务排水检查",
+    "plain_explanation": "Coons曲面与排水要求可以理解为道路CAD系统中用于排水由合成坡度决定的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“Coons曲面与排水要求”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“Coons曲面与排水要求”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_058",
+    "keywords": [
+      "排水",
+      "合成坡度",
+      "Coons曲面",
+      "Coons曲面与排水要求"
+    ],
+    "aliases": [
+      "交叉口排水"
+    ],
+    "student_question_patterns": [
+      "Coons曲面与排水要求是什么？",
+      "Coons曲面与排水要求有什么作用？",
+      "Coons曲面与排水要求在道路CAD中如何应用？"
+    ],
+    "embedding_text": "Coons曲面与排水要求。定义：当相交路线纵坡、路拱横坡和特征断面横坡满足排水要求时，Coons曲面表达的交叉口立面也可满足排水。。要点：排水由合成坡度决定；需控制特征断面横坡；曲面模型服务排水检查。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "当相交路线纵坡、路拱横坡和特征断面横坡满足排水要求时，Coons曲面表达的交叉口立面也可满足排水。",
+      "排水由合成坡度决定；需控制特征断面横坡；曲面模型服务排水检查",
+      "Coons曲面与排水要求可以理解为道路CAD系统中用于排水由合成坡度决定的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_116",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "Coons曲面片划分",
+    "knowledge_type": "process",
+    "difficulty": "高级",
+    "importance": "重要",
+    "definition": "交叉口立面设计需按十字形、T形等交叉口形式划分Coons曲面片。",
+    "core_explanation": "根据交叉口几何形态划分曲面片；曲面片数量通常不多；便于计算机快速处理",
+    "plain_explanation": "Coons曲面片划分可以理解为道路CAD系统中用于根据交叉口几何形态划分曲面片的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“Coons曲面片划分”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“Coons曲面片划分”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_058",
+    "keywords": [
+      "曲面片划分",
+      "十字形",
+      "T形",
+      "Coons曲面片划分"
+    ],
+    "aliases": [
+      "交叉口曲面划分"
+    ],
+    "student_question_patterns": [
+      "Coons曲面片划分是什么？",
+      "Coons曲面片划分有什么作用？",
+      "Coons曲面片划分在道路CAD中如何应用？"
+    ],
+    "embedding_text": "Coons曲面片划分。定义：交叉口立面设计需按十字形、T形等交叉口形式划分Coons曲面片。。要点：根据交叉口几何形态划分曲面片；曲面片数量通常不多；便于计算机快速处理。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "交叉口立面设计需按十字形、T形等交叉口形式划分Coons曲面片。",
+      "根据交叉口几何形态划分曲面片；曲面片数量通常不多；便于计算机快速处理",
+      "Coons曲面片划分可以理解为道路CAD系统中用于根据交叉口几何形态划分曲面片的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_117",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "交叉口特征断面确定",
+    "knowledge_type": "process",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "特征断面用于控制交叉口范围内曲面边界和高程变化，是Coons曲面立面设计的关键。",
+    "core_explanation": "特征断面提供边界条件；影响曲面插值结果；与纵坡、横坡和排水控制相关",
+    "plain_explanation": "交叉口特征断面确定可以理解为道路CAD系统中用于特征断面提供边界条件的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“交叉口特征断面确定”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“交叉口特征断面确定”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_059",
+    "keywords": [
+      "特征断面",
+      "边界条件",
+      "高程",
+      "交叉口特征断面确定"
+    ],
+    "aliases": [
+      "交叉口断面"
+    ],
+    "student_question_patterns": [
+      "交叉口特征断面确定是什么？",
+      "交叉口特征断面确定有什么作用？",
+      "交叉口特征断面确定在道路CAD中如何应用？"
+    ],
+    "embedding_text": "交叉口特征断面确定。定义：特征断面用于控制交叉口范围内曲面边界和高程变化，是Coons曲面立面设计的关键。。要点：特征断面提供边界条件；影响曲面插值结果；与纵坡、横坡和排水控制相关。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "特征断面用于控制交叉口范围内曲面边界和高程变化，是Coons曲面立面设计的关键。",
+      "特征断面提供边界条件；影响曲面插值结果；与纵坡、横坡和排水控制相关",
+      "交叉口特征断面确定可以理解为道路CAD系统中用于特征断面提供边界条件的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch03_118",
+    "chapter_id": "ch03",
+    "chapter_title": "道路CAD系统的设计原理",
+    "section_id": "ch03_sec05",
+    "section_title": "第五节 平面交叉口CAD系统",
+    "title": "交叉口立面设计流程",
+    "knowledge_type": "process",
+    "difficulty": "高级",
+    "importance": "核心",
+    "definition": "基于Coons曲面的交叉口立面设计通常包括曲面片划分、特征断面确定、高程计算、曲面生成、排水检查和交互调整。",
+    "core_explanation": "先确定曲面片和边界；再计算关键点高程；最后检查排水和平顺性",
+    "plain_explanation": "交叉口立面设计流程可以理解为道路CAD系统中用于先确定曲面片和边界的知识单元。",
+    "engineering_meaning": "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。",
+    "application_scenario": "适用于第五节 平面交叉口CAD系统中的相关设计、计算、校核或成果输出。",
+    "common_mistakes": [
+      "常见误区是只把“交叉口立面设计流程”理解为图纸绘制操作，而忽视其计算、数据管理或工程判断作用。"
+    ],
+    "correction_explanation": "应从设计对象、输入条件、计算规则、输出成果和与其他模块的关系来理解“交叉口立面设计流程”。",
+    "answer_strategy": "先给定义，再按条目说明任务/作用/流程，最后指出在道路CAD系统中的应用。",
+    "answer_boundary": "依据第三章内容回答，避免扩展到具体商业软件的未说明操作细节。",
+    "source_chunk_ids": "ch03_chunk_059",
+    "keywords": [
+      "立面设计流程",
+      "Coons流程",
+      "交叉口立面设计流程"
+    ],
+    "aliases": [
+      "交叉口立面流程"
+    ],
+    "student_question_patterns": [
+      "交叉口立面设计流程是什么？",
+      "交叉口立面设计流程有什么作用？",
+      "交叉口立面设计流程在道路CAD中如何应用？"
+    ],
+    "embedding_text": "交叉口立面设计流程。定义：基于Coons曲面的交叉口立面设计通常包括曲面片划分、特征断面确定、高程计算、曲面生成、排水检查和交互调整。。要点：先确定曲面片和边界；再计算关键点高程；最后检查排水和平顺性。应用于第五节 平面交叉口CAD系统。",
+    "status": "checked",
+    "key_points": [
+      "基于Coons曲面的交叉口立面设计通常包括曲面片划分、特征断面确定、高程计算、曲面生成、排水检查和交互调整。",
+      "先确定曲面片和边界；再计算关键点高程；最后检查排水和平顺性",
+      "交叉口立面设计流程可以理解为道路CAD系统中用于先确定曲面片和边界的知识单元。",
+      "有助于把道路设计任务转化为可计算、可编辑、可出图的CAD流程，提升设计效率与成果一致性。"
+    ],
+    "related_kps": []
+  }
+]

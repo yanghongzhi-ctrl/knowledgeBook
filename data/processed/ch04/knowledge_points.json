@@ -1,0 +1,5673 @@
+[
+  {
+    "kp_id": "kp_ch04_001",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "BIM定义",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM是在建设工程及设施全生命期内，对物理与功能特性进行数字化表达，并依此开展设计、施工、运营的过程和结果。",
+    "core_explanation": "BIM不是单一软件，也不是单纯三维模型，而是模型、数据、协同和生命周期管理共同构成的信息化体系。",
+    "plain_explanation": "BIM不是单一软件，也不是单纯三维模型，而是模型、数据、协同和生命周期管理共同构成的信息化体系。",
+    "engineering_meaning": "帮助学生建立“模型承载信息、信息驱动过程”的BIM基本认识。",
+    "application_scenario": "解释BIM在道路、桥梁、隧道等工程对象中的统一表达。",
+    "common_mistakes": [
+      "把BIM等同于三维效果图。"
+    ],
+    "correction_explanation": "BIM的核心是信息模型及其全生命周期协同机制。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "BIM",
+      "建筑信息模型",
+      "定义",
+      "全生命周期"
+    ],
+    "student_question_patterns": [
+      "BIM定义是什么？",
+      "BIM定义有什么作用？",
+      "如何理解BIM定义？",
+      "BIM定义在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "BIM定义。定义：BIM是在建设工程及设施全生命期内，对物理与功能特性进行数字化表达，并依此开展设计、施工、运营的过程和结果。 核心解释：BIM不是单一软件，也不是单纯三维模型，而是模型、数据、协同和生命周期管理共同构成的信息化体系。 工程意义：帮助学生建立“模型承载信息、信息驱动过程”的BIM基本认识。 关键词：BIM;建筑信息模型;定义;全生命周期",
+    "status": "checked",
+    "key_points": [
+      "BIM是在建设工程及设施全生命期内，对物理与功能特性进行数字化表达，并依此开展设计、施工、运营的过程和结果。",
+      "BIM不是单一软件，也不是单纯三维模型，而是模型、数据、协同和生命周期管理共同构成的信息化体系。",
+      "BIM不是单一软件，也不是单纯三维模型，而是模型、数据、协同和生命周期管理共同构成的信息化体系。",
+      "帮助学生建立“模型承载信息、信息驱动过程”的BIM基本认识。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_002",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "对象维度",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM表达工程对象的物理与功能特性。",
+    "core_explanation": "回答“建模对象是什么”，强调道路、桥梁、隧道等实体及其功能属性。",
+    "plain_explanation": "回答“建模对象是什么”，强调道路、桥梁、隧道等实体及其功能属性。",
+    "engineering_meaning": "用于确定模型应表达哪些工程对象及其属性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“对象维度”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "对象维度应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "对象维度",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "对象维度是什么？",
+      "对象维度有什么作用？",
+      "如何理解对象维度？",
+      "对象维度在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "对象维度。定义：BIM表达工程对象的物理与功能特性。 核心解释：回答“建模对象是什么”，强调道路、桥梁、隧道等实体及其功能属性。 工程意义：用于确定模型应表达哪些工程对象及其属性。 关键词：对象维度;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM表达工程对象的物理与功能特性。",
+      "回答“建模对象是什么”，强调道路、桥梁、隧道等实体及其功能属性。",
+      "回答“建模对象是什么”，强调道路、桥梁、隧道等实体及其功能属性。",
+      "用于确定模型应表达哪些工程对象及其属性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_003",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "时间维度",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM覆盖规划、设计、施工、运维乃至拆除等全生命周期阶段。",
+    "core_explanation": "回答“何时使用模型”，强调信息随项目阶段演进。",
+    "plain_explanation": "回答“何时使用模型”，强调信息随项目阶段演进。",
+    "engineering_meaning": "用于理解BIM为什么要服务施工、运维和数字资产传递。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“时间维度”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "时间维度应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "时间维度",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "时间维度是什么？",
+      "时间维度有什么作用？",
+      "如何理解时间维度？",
+      "时间维度在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "时间维度。定义：BIM覆盖规划、设计、施工、运维乃至拆除等全生命周期阶段。 核心解释：回答“何时使用模型”，强调信息随项目阶段演进。 工程意义：用于理解BIM为什么要服务施工、运维和数字资产传递。 关键词：时间维度;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM覆盖规划、设计、施工、运维乃至拆除等全生命周期阶段。",
+      "回答“何时使用模型”，强调信息随项目阶段演进。",
+      "回答“何时使用模型”，强调信息随项目阶段演进。",
+      "用于理解BIM为什么要服务施工、运维和数字资产传递。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_004",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "过程维度",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM是支撑设计、施工、运营的工作过程与产出成果。",
+    "core_explanation": "回答“如何使用模型”，强调协同流程与成果生成。",
+    "plain_explanation": "回答“如何使用模型”，强调协同流程与成果生成。",
+    "engineering_meaning": "用于理解BIM不是一次性建模，而是贯穿工程过程的信息组织方式。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“过程维度”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "过程维度应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "过程维度",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "过程维度是什么？",
+      "过程维度有什么作用？",
+      "如何理解过程维度？",
+      "过程维度在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "过程维度。定义：BIM是支撑设计、施工、运营的工作过程与产出成果。 核心解释：回答“如何使用模型”，强调协同流程与成果生成。 工程意义：用于理解BIM不是一次性建模，而是贯穿工程过程的信息组织方式。 关键词：过程维度;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM是支撑设计、施工、运营的工作过程与产出成果。",
+      "回答“如何使用模型”，强调协同流程与成果生成。",
+      "回答“如何使用模型”，强调协同流程与成果生成。",
+      "用于理解BIM不是一次性建模，而是贯穿工程过程的信息组织方式。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_005",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "BIM作为Model",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM作为产品表现为集成几何与属性信息的三维数字模型。",
+    "core_explanation": "它是工程对象的信息载体，由具有语义的构件组成，可派生图纸、清单和其他成果。",
+    "plain_explanation": "它是工程对象的信息载体，由具有语义的构件组成，可派生图纸、清单和其他成果。",
+    "engineering_meaning": "用于把工程实体组织成可视、可查、可计算的模型。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“BIM作为Model”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "BIM作为Model应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "BIM作为Model",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "BIM作为Model是什么？",
+      "BIM作为Model有什么作用？",
+      "如何理解BIM作为Model？",
+      "BIM作为Model在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "BIM作为Model。定义：BIM作为产品表现为集成几何与属性信息的三维数字模型。 核心解释：它是工程对象的信息载体，由具有语义的构件组成，可派生图纸、清单和其他成果。 工程意义：用于把工程实体组织成可视、可查、可计算的模型。 关键词：BIM作为Model;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM作为产品表现为集成几何与属性信息的三维数字模型。",
+      "它是工程对象的信息载体，由具有语义的构件组成，可派生图纸、清单和其他成果。",
+      "它是工程对象的信息载体，由具有语义的构件组成，可派生图纸、清单和其他成果。",
+      "用于把工程实体组织成可视、可查、可计算的模型。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_006",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "BIM作为Modeling",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM作为过程强调协同建模、信息演进和模型数据持续更新。",
+    "core_explanation": "它关注模型如何创建、传递、审查、更新和复用。",
+    "plain_explanation": "它关注模型如何创建、传递、审查、更新和复用。",
+    "engineering_meaning": "用于组织多专业协作和生命周期信息贯通。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“BIM作为Modeling”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "BIM作为Modeling应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "BIM作为Modeling",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "BIM作为Modeling是什么？",
+      "BIM作为Modeling有什么作用？",
+      "如何理解BIM作为Modeling？",
+      "BIM作为Modeling在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "BIM作为Modeling。定义：BIM作为过程强调协同建模、信息演进和模型数据持续更新。 核心解释：它关注模型如何创建、传递、审查、更新和复用。 工程意义：用于组织多专业协作和生命周期信息贯通。 关键词：BIM作为Modeling;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM作为过程强调协同建模、信息演进和模型数据持续更新。",
+      "它关注模型如何创建、传递、审查、更新和复用。",
+      "它关注模型如何创建、传递、审查、更新和复用。",
+      "用于组织多专业协作和生命周期信息贯通。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_007",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "BIM作为Management",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM作为管理理念代表以数据为核心的集成管理范式。",
+    "core_explanation": "它打破信息孤岛，推动多方共享数据并开展前置分析和全过程控制。",
+    "plain_explanation": "它打破信息孤岛，推动多方共享数据并开展前置分析和全过程控制。",
+    "engineering_meaning": "用于提升工程管理、质量控制和协同决策能力。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“BIM作为Management”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "BIM作为Management应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "BIM作为Management",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "BIM作为Management是什么？",
+      "BIM作为Management有什么作用？",
+      "如何理解BIM作为Management？",
+      "BIM作为Management在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "BIM作为Management。定义：BIM作为管理理念代表以数据为核心的集成管理范式。 核心解释：它打破信息孤岛，推动多方共享数据并开展前置分析和全过程控制。 工程意义：用于提升工程管理、质量控制和协同决策能力。 关键词：BIM作为Management;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM作为管理理念代表以数据为核心的集成管理范式。",
+      "它打破信息孤岛，推动多方共享数据并开展前置分析和全过程控制。",
+      "它打破信息孤岛，推动多方共享数据并开展前置分析和全过程控制。",
+      "用于提升工程管理、质量控制和协同决策能力。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_008",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "单一事实来源",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "统一模型成为项目数据的权威载体，图纸、清单和统计结果均从模型派生。",
+    "core_explanation": "单一事实来源减少重复录入和多版本不一致问题。",
+    "plain_explanation": "单一事实来源减少重复录入和多版本不一致问题。",
+    "engineering_meaning": "用于保证图模一致、数据统一和协同可靠。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“单一事实来源”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "单一事实来源应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "单一事实来源",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "单一事实来源是什么？",
+      "单一事实来源有什么作用？",
+      "如何理解单一事实来源？",
+      "单一事实来源在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "单一事实来源。定义：统一模型成为项目数据的权威载体，图纸、清单和统计结果均从模型派生。 核心解释：单一事实来源减少重复录入和多版本不一致问题。 工程意义：用于保证图模一致、数据统一和协同可靠。 关键词：单一事实来源;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "统一模型成为项目数据的权威载体，图纸、清单和统计结果均从模型派生。",
+      "单一事实来源减少重复录入和多版本不一致问题。",
+      "单一事实来源减少重复录入和多版本不一致问题。",
+      "用于保证图模一致、数据统一和协同可靠。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_009",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "生命周期信息演进",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "模型信息随着工程阶段推进而逐步精细化和丰富化。",
+    "core_explanation": "从初步设计到施工图、施工过程和竣工运维，模型不断累积几何、属性和管理信息。",
+    "plain_explanation": "从初步设计到施工图、施工过程和竣工运维，模型不断累积几何、属性和管理信息。",
+    "engineering_meaning": "用于支持阶段交付和后续数据复用。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“生命周期信息演进”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "生命周期信息演进应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "生命周期信息演进",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "生命周期信息演进是什么？",
+      "生命周期信息演进有什么作用？",
+      "如何理解生命周期信息演进？",
+      "生命周期信息演进在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "生命周期信息演进。定义：模型信息随着工程阶段推进而逐步精细化和丰富化。 核心解释：从初步设计到施工图、施工过程和竣工运维，模型不断累积几何、属性和管理信息。 工程意义：用于支持阶段交付和后续数据复用。 关键词：生命周期信息演进;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "模型信息随着工程阶段推进而逐步精细化和丰富化。",
+      "从初步设计到施工图、施工过程和竣工运维，模型不断累积几何、属性和管理信息。",
+      "从初步设计到施工图、施工过程和竣工运维，模型不断累积几何、属性和管理信息。",
+      "用于支持阶段交付和后续数据复用。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_010",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "协同建模机制",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "多个专业在统一模型环境下共享数据、协同建模、审查和发布。",
+    "core_explanation": "协同建模解决专业分割、数据断裂和信息重录等问题。",
+    "plain_explanation": "协同建模解决专业分割、数据断裂和信息重录等问题。",
+    "engineering_meaning": "用于道路、路基、桥隧、排水和交安等专业协同。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“协同建模机制”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "协同建模机制应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "协同建模机制",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "协同建模机制是什么？",
+      "协同建模机制有什么作用？",
+      "如何理解协同建模机制？",
+      "协同建模机制在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "协同建模机制。定义：多个专业在统一模型环境下共享数据、协同建模、审查和发布。 核心解释：协同建模解决专业分割、数据断裂和信息重录等问题。 工程意义：用于道路、路基、桥隧、排水和交安等专业协同。 关键词：协同建模机制;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "多个专业在统一模型环境下共享数据、协同建模、审查和发布。",
+      "协同建模解决专业分割、数据断裂和信息重录等问题。",
+      "协同建模解决专业分割、数据断裂和信息重录等问题。",
+      "用于道路、路基、桥隧、排水和交安等专业协同。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_011",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "可视化前置决策",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM通过三维可视化和模型分析提前暴露设计问题。",
+    "core_explanation": "可视化不仅用于展示，也用于方案比选、空间分析、安全评价和施工模拟。",
+    "plain_explanation": "可视化不仅用于展示，也用于方案比选、空间分析、安全评价和施工模拟。",
+    "engineering_meaning": "用于降低设计变更成本和提升方案评审质量。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“可视化前置决策”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "可视化前置决策应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "可视化前置决策",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "可视化前置决策是什么？",
+      "可视化前置决策有什么作用？",
+      "如何理解可视化前置决策？",
+      "可视化前置决策在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "可视化前置决策。定义：BIM通过三维可视化和模型分析提前暴露设计问题。 核心解释：可视化不仅用于展示，也用于方案比选、空间分析、安全评价和施工模拟。 工程意义：用于降低设计变更成本和提升方案评审质量。 关键词：可视化前置决策;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM通过三维可视化和模型分析提前暴露设计问题。",
+      "可视化不仅用于展示，也用于方案比选、空间分析、安全评价和施工模拟。",
+      "可视化不仅用于展示，也用于方案比选、空间分析、安全评价和施工模拟。",
+      "用于降低设计变更成本和提升方案评审质量。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_012",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "数据驱动管理范式",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM通过结构化数据推动设计、施工、监理、业主和运维之间的信息共享。",
+    "core_explanation": "数据驱动强调前置分析、提前预警和全过程控制。",
+    "plain_explanation": "数据驱动强调前置分析、提前预警和全过程控制。",
+    "engineering_meaning": "用于从项目管理层面提升协同效率和工程价值。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“数据驱动管理范式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "数据驱动管理范式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "数据驱动管理范式",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "数据驱动管理范式是什么？",
+      "数据驱动管理范式有什么作用？",
+      "如何理解数据驱动管理范式？",
+      "数据驱动管理范式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "数据驱动管理范式。定义：BIM通过结构化数据推动设计、施工、监理、业主和运维之间的信息共享。 核心解释：数据驱动强调前置分析、提前预警和全过程控制。 工程意义：用于从项目管理层面提升协同效率和工程价值。 关键词：数据驱动管理范式;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "BIM通过结构化数据推动设计、施工、监理、业主和运维之间的信息共享。",
+      "数据驱动强调前置分析、提前预警和全过程控制。",
+      "数据驱动强调前置分析、提前预警和全过程控制。",
+      "用于从项目管理层面提升协同效率和工程价值。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_013",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "道路BIM适应性需求",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路工程不能简单照搬建筑BIM，需要适应线性工程、复杂环境和分阶段设计特点。",
+    "core_explanation": "道路BIM必须结合路线基准、里程定位、GIS空间数据和构件语义重构技术路径。",
+    "plain_explanation": "道路BIM必须结合路线基准、里程定位、GIS空间数据和构件语义重构技术路径。",
+    "engineering_meaning": "用于解释为什么道路BIM需要专门方法体系。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“道路BIM适应性需求”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "道路BIM适应性需求应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "道路BIM适应性需求",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "道路BIM适应性需求是什么？",
+      "道路BIM适应性需求有什么作用？",
+      "如何理解道路BIM适应性需求？",
+      "道路BIM适应性需求在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "道路BIM适应性需求。定义：道路工程不能简单照搬建筑BIM，需要适应线性工程、复杂环境和分阶段设计特点。 核心解释：道路BIM必须结合路线基准、里程定位、GIS空间数据和构件语义重构技术路径。 工程意义：用于解释为什么道路BIM需要专门方法体系。 关键词：道路BIM适应性需求;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "道路工程不能简单照搬建筑BIM，需要适应线性工程、复杂环境和分阶段设计特点。",
+      "道路BIM必须结合路线基准、里程定位、GIS空间数据和构件语义重构技术路径。",
+      "道路BIM必须结合路线基准、里程定位、GIS空间数据和构件语义重构技术路径。",
+      "用于解释为什么道路BIM需要专门方法体系。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_014",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "道路工程空间组织差异",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路工程具有长距离线性延展和多投影带特征，空间组织方式不同于建筑工程局部场地。",
+    "core_explanation": "道路BIM需要采用路线基准与里程定位，并处理工程坐标与地理坐标映射。",
+    "plain_explanation": "道路BIM需要采用路线基准与里程定位，并处理工程坐标与地理坐标映射。",
+    "engineering_meaning": "用于解决长大线性工程模型集成问题。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“道路工程空间组织差异”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "道路工程空间组织差异应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "道路工程空间组织差异",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "道路工程空间组织差异是什么？",
+      "道路工程空间组织差异有什么作用？",
+      "如何理解道路工程空间组织差异？",
+      "道路工程空间组织差异在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "道路工程空间组织差异。定义：道路工程具有长距离线性延展和多投影带特征，空间组织方式不同于建筑工程局部场地。 核心解释：道路BIM需要采用路线基准与里程定位，并处理工程坐标与地理坐标映射。 工程意义：用于解决长大线性工程模型集成问题。 关键词：道路工程空间组织差异;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "道路工程具有长距离线性延展和多投影带特征，空间组织方式不同于建筑工程局部场地。",
+      "道路BIM需要采用路线基准与里程定位，并处理工程坐标与地理坐标映射。",
+      "道路BIM需要采用路线基准与里程定位，并处理工程坐标与地理坐标映射。",
+      "用于解决长大线性工程模型集成问题。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_015",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "线性参考系统LRS",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "LRS以路线基准和里程定位组织道路工程实体。",
+    "core_explanation": "它使构件能够沿道路中线按桩号和偏距定位，从而跨越多投影带保持一致管理。",
+    "plain_explanation": "它使构件能够沿道路中线按桩号和偏距定位，从而跨越多投影带保持一致管理。",
+    "engineering_meaning": "用于路基、桥涵、隧道、交安设施等沿线构件定位。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“线性参考系统LRS”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "线性参考系统LRS应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "线性参考系统LRS",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "线性参考系统LRS是什么？",
+      "线性参考系统LRS有什么作用？",
+      "如何理解线性参考系统LRS？",
+      "线性参考系统LRS在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "线性参考系统LRS。定义：LRS以路线基准和里程定位组织道路工程实体。 核心解释：它使构件能够沿道路中线按桩号和偏距定位，从而跨越多投影带保持一致管理。 工程意义：用于路基、桥涵、隧道、交安设施等沿线构件定位。 关键词：线性参考系统LRS;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "LRS以路线基准和里程定位组织道路工程实体。",
+      "它使构件能够沿道路中线按桩号和偏距定位，从而跨越多投影带保持一致管理。",
+      "它使构件能够沿道路中线按桩号和偏距定位，从而跨越多投影带保持一致管理。",
+      "用于路基、桥涵、隧道、交安设施等沿线构件定位。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_016",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "道路设计动态演进逻辑",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路设计从走廊到路线、从整体到局部、从方案到构造逐步深化。",
+    "core_explanation": "道路BIM需支持路线驱动的构件关联更新和阶段性信息细化。",
+    "plain_explanation": "道路BIM需支持路线驱动的构件关联更新和阶段性信息细化。",
+    "engineering_meaning": "用于理解道路BIM模型随设计阶段不断更新的原因。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“道路设计动态演进逻辑”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "道路设计动态演进逻辑应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "道路设计动态演进逻辑",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "道路设计动态演进逻辑是什么？",
+      "道路设计动态演进逻辑有什么作用？",
+      "如何理解道路设计动态演进逻辑？",
+      "道路设计动态演进逻辑在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "道路设计动态演进逻辑。定义：道路设计从走廊到路线、从整体到局部、从方案到构造逐步深化。 核心解释：道路BIM需支持路线驱动的构件关联更新和阶段性信息细化。 工程意义：用于理解道路BIM模型随设计阶段不断更新的原因。 关键词：道路设计动态演进逻辑;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "道路设计从走廊到路线、从整体到局部、从方案到构造逐步深化。",
+      "道路BIM需支持路线驱动的构件关联更新和阶段性信息细化。",
+      "道路BIM需支持路线驱动的构件关联更新和阶段性信息细化。",
+      "用于理解道路BIM模型随设计阶段不断更新的原因。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_017",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "工点依附特性",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "桥梁、涵洞、隧道和互通等结构设施依附于路线走向和控制条件。",
+    "core_explanation": "结构设施的规模、形式和参数受平曲线、纵坡等路线条件直接影响。",
+    "plain_explanation": "结构设施的规模、形式和参数受平曲线、纵坡等路线条件直接影响。",
+    "engineering_meaning": "用于建立路线模型与专业构件之间的联动逻辑。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“工点依附特性”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "工点依附特性应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "工点依附特性",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "工点依附特性是什么？",
+      "工点依附特性有什么作用？",
+      "如何理解工点依附特性？",
+      "工点依附特性在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "工点依附特性。定义：桥梁、涵洞、隧道和互通等结构设施依附于路线走向和控制条件。 核心解释：结构设施的规模、形式和参数受平曲线、纵坡等路线条件直接影响。 工程意义：用于建立路线模型与专业构件之间的联动逻辑。 关键词：工点依附特性;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "桥梁、涵洞、隧道和互通等结构设施依附于路线走向和控制条件。",
+      "结构设施的规模、形式和参数受平曲线、纵坡等路线条件直接影响。",
+      "结构设施的规模、形式和参数受平曲线、纵坡等路线条件直接影响。",
+      "用于建立路线模型与专业构件之间的联动逻辑。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_018",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "阶段性建模与数据回填",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路BIM应允许模型在不同设计阶段以不同精度和信息维度逐步演进。",
+    "core_explanation": "前期信息不完整时，可先建立概略模型，后续随勘察和设计深化进行数据补充。",
+    "plain_explanation": "前期信息不完整时，可先建立概略模型，后续随勘察和设计深化进行数据补充。",
+    "engineering_meaning": "用于保持全过程信息可追溯和语义连续。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“阶段性建模与数据回填”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "阶段性建模与数据回填应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "阶段性建模与数据回填",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "阶段性建模与数据回填是什么？",
+      "阶段性建模与数据回填有什么作用？",
+      "如何理解阶段性建模与数据回填？",
+      "阶段性建模与数据回填在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "阶段性建模与数据回填。定义：道路BIM应允许模型在不同设计阶段以不同精度和信息维度逐步演进。 核心解释：前期信息不完整时，可先建立概略模型，后续随勘察和设计深化进行数据补充。 工程意义：用于保持全过程信息可追溯和语义连续。 关键词：阶段性建模与数据回填;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "道路BIM应允许模型在不同设计阶段以不同精度和信息维度逐步演进。",
+      "前期信息不完整时，可先建立概略模型，后续随勘察和设计深化进行数据补充。",
+      "前期信息不完整时，可先建立概略模型，后续随勘察和设计深化进行数据补充。",
+      "用于保持全过程信息可追溯和语义连续。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_019",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "空间决策支持需求",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路BIM需要借助GIS和知识推理支持地质、水文、生态等空间决策。",
+    "core_explanation": "传统BIM平台以地形数模为主，难以完整表达复杂外部环境约束。",
+    "plain_explanation": "传统BIM平台以地形数模为主，难以完整表达复杂外部环境约束。",
+    "engineering_meaning": "用于选线、方案比选、敏感区避让和风险评价。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“空间决策支持需求”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "空间决策支持需求应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "空间决策支持需求",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "空间决策支持需求是什么？",
+      "空间决策支持需求有什么作用？",
+      "如何理解空间决策支持需求？",
+      "空间决策支持需求在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "空间决策支持需求。定义：道路BIM需要借助GIS和知识推理支持地质、水文、生态等空间决策。 核心解释：传统BIM平台以地形数模为主，难以完整表达复杂外部环境约束。 工程意义：用于选线、方案比选、敏感区避让和风险评价。 关键词：空间决策支持需求;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "道路BIM需要借助GIS和知识推理支持地质、水文、生态等空间决策。",
+      "传统BIM平台以地形数模为主，难以完整表达复杂外部环境约束。",
+      "传统BIM平台以地形数模为主，难以完整表达复杂外部环境约束。",
+      "用于选线、方案比选、敏感区避让和风险评价。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_020",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec01",
+    "title": "标准体系适配问题",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路BIM构件形态复杂、专业语义强，标准与平台协同仍需完善。",
+    "core_explanation": "需要构件库、编码体系、LOD定义、交付要求和跨平台格式互通共同支撑。",
+    "plain_explanation": "需要构件库、编码体系、LOD定义、交付要求和跨平台格式互通共同支撑。",
+    "engineering_meaning": "用于指导道路BIM标准化建设和平台集成。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“标准体系适配问题”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "标准体系适配问题应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "标准体系适配问题",
+      "BIM",
+      "道路工程"
+    ],
+    "student_question_patterns": [
+      "标准体系适配问题是什么？",
+      "标准体系适配问题有什么作用？",
+      "如何理解标准体系适配问题？",
+      "标准体系适配问题在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_007;ch04_src_008;ch04_src_009;ch04_src_010;ch04_src_011",
+    "embedding_text": "标准体系适配问题。定义：道路BIM构件形态复杂、专业语义强，标准与平台协同仍需完善。 核心解释：需要构件库、编码体系、LOD定义、交付要求和跨平台格式互通共同支撑。 工程意义：用于指导道路BIM标准化建设和平台集成。 关键词：标准体系适配问题;BIM;道路工程",
+    "status": "checked",
+    "key_points": [
+      "道路BIM构件形态复杂、专业语义强，标准与平台协同仍需完善。",
+      "需要构件库、编码体系、LOD定义、交付要求和跨平台格式互通共同支撑。",
+      "需要构件库、编码体系、LOD定义、交付要求和跨平台格式互通共同支撑。",
+      "用于指导道路BIM标准化建设和平台集成。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_021",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "设计范式",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "设计范式是描述设计活动认知框架、建模单位、组织机制和成果形态的整体逻辑。",
+    "core_explanation": "它决定设计者如何识别问题、组织模型、协同工作和交付成果。",
+    "plain_explanation": "它决定设计者如何识别问题、组织模型、协同工作和交付成果。",
+    "engineering_meaning": "用于理解从图纸驱动到模型驱动的根本转变。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“设计范式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "设计范式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "设计范式",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "设计范式是什么？",
+      "设计范式有什么作用？",
+      "如何理解设计范式？",
+      "设计范式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "设计范式。定义：设计范式是描述设计活动认知框架、建模单位、组织机制和成果形态的整体逻辑。 核心解释：它决定设计者如何识别问题、组织模型、协同工作和交付成果。 工程意义：用于理解从图纸驱动到模型驱动的根本转变。 关键词：设计范式;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "设计范式是描述设计活动认知框架、建模单位、组织机制和成果形态的整体逻辑。",
+      "它决定设计者如何识别问题、组织模型、协同工作和交付成果。",
+      "它决定设计者如何识别问题、组织模型、协同工作和交付成果。",
+      "用于理解从图纸驱动到模型驱动的根本转变。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_022",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "设计范式四要素",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "设计范式包括认知框架、建模单位、组织机制和成果形态四个层面。",
+    "core_explanation": "四要素构成从设计思维到成果交付的基本逻辑链条。",
+    "plain_explanation": "四要素构成从设计思维到成果交付的基本逻辑链条。",
+    "engineering_meaning": "用于比较图纸范式、翻模模式和正向设计。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“设计范式四要素”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "设计范式四要素应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "设计范式四要素",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "设计范式四要素是什么？",
+      "设计范式四要素有什么作用？",
+      "如何理解设计范式四要素？",
+      "设计范式四要素在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "设计范式四要素。定义：设计范式包括认知框架、建模单位、组织机制和成果形态四个层面。 核心解释：四要素构成从设计思维到成果交付的基本逻辑链条。 工程意义：用于比较图纸范式、翻模模式和正向设计。 关键词：设计范式四要素;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "设计范式包括认知框架、建模单位、组织机制和成果形态四个层面。",
+      "四要素构成从设计思维到成果交付的基本逻辑链条。",
+      "四要素构成从设计思维到成果交付的基本逻辑链条。",
+      "用于比较图纸范式、翻模模式和正向设计。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_023",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "认知框架",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "认知框架决定设计者如何界定问题和组织解决路径。",
+    "core_explanation": "传统设计按专业独立识别问题，模型驱动范式强调整体性和协同性。",
+    "plain_explanation": "传统设计按专业独立识别问题，模型驱动范式强调整体性和协同性。",
+    "engineering_meaning": "用于解释设计思维从局部图纸审查转向系统模型协调。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“认知框架”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "认知框架应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "认知框架",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "认知框架是什么？",
+      "认知框架有什么作用？",
+      "如何理解认知框架？",
+      "认知框架在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "认知框架。定义：认知框架决定设计者如何界定问题和组织解决路径。 核心解释：传统设计按专业独立识别问题，模型驱动范式强调整体性和协同性。 工程意义：用于解释设计思维从局部图纸审查转向系统模型协调。 关键词：认知框架;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "认知框架决定设计者如何界定问题和组织解决路径。",
+      "传统设计按专业独立识别问题，模型驱动范式强调整体性和协同性。",
+      "传统设计按专业独立识别问题，模型驱动范式强调整体性和协同性。",
+      "用于解释设计思维从局部图纸审查转向系统模型协调。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_024",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "建模单位",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "建模单位规定设计信息的基本表达单元。",
+    "core_explanation": "传统范式以二维图元为单位，模型驱动范式以具有语义、属性和逻辑关系的构件为单位。",
+    "plain_explanation": "传统范式以二维图元为单位，模型驱动范式以具有语义、属性和逻辑关系的构件为单位。",
+    "engineering_meaning": "用于区别CAD图元和BIM构件。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“建模单位”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "建模单位应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "建模单位",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "建模单位是什么？",
+      "建模单位有什么作用？",
+      "如何理解建模单位？",
+      "建模单位在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "建模单位。定义：建模单位规定设计信息的基本表达单元。 核心解释：传统范式以二维图元为单位，模型驱动范式以具有语义、属性和逻辑关系的构件为单位。 工程意义：用于区别CAD图元和BIM构件。 关键词：建模单位;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "建模单位规定设计信息的基本表达单元。",
+      "传统范式以二维图元为单位，模型驱动范式以具有语义、属性和逻辑关系的构件为单位。",
+      "传统范式以二维图元为单位，模型驱动范式以具有语义、属性和逻辑关系的构件为单位。",
+      "用于区别CAD图元和BIM构件。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_025",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "组织机制",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "组织机制决定专业协作方式和平台选择。",
+    "core_explanation": "传统模式依赖图纸交换与人工整合，模型驱动模式依托统一模型平台实现数据共享和变更联动。",
+    "plain_explanation": "传统模式依赖图纸交换与人工整合，模型驱动模式依托统一模型平台实现数据共享和变更联动。",
+    "engineering_meaning": "用于解释BIM协同平台的必要性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“组织机制”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "组织机制应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "组织机制",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "组织机制是什么？",
+      "组织机制有什么作用？",
+      "如何理解组织机制？",
+      "组织机制在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "组织机制。定义：组织机制决定专业协作方式和平台选择。 核心解释：传统模式依赖图纸交换与人工整合，模型驱动模式依托统一模型平台实现数据共享和变更联动。 工程意义：用于解释BIM协同平台的必要性。 关键词：组织机制;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "组织机制决定专业协作方式和平台选择。",
+      "传统模式依赖图纸交换与人工整合，模型驱动模式依托统一模型平台实现数据共享和变更联动。",
+      "传统模式依赖图纸交换与人工整合，模型驱动模式依托统一模型平台实现数据共享和变更联动。",
+      "用于解释BIM协同平台的必要性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_026",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "成果形态",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "成果形态决定最终交付物的表现形式及其阶段适用范围。",
+    "core_explanation": "传统成果以图纸为主，模型驱动成果以三维信息模型为主，图纸成为模型派生视图。",
+    "plain_explanation": "传统成果以图纸为主，模型驱动成果以三维信息模型为主，图纸成为模型派生视图。",
+    "engineering_meaning": "用于理解BIM交付体系。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“成果形态”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "成果形态应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "成果形态",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "成果形态是什么？",
+      "成果形态有什么作用？",
+      "如何理解成果形态？",
+      "成果形态在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "成果形态。定义：成果形态决定最终交付物的表现形式及其阶段适用范围。 核心解释：传统成果以图纸为主，模型驱动成果以三维信息模型为主，图纸成为模型派生视图。 工程意义：用于理解BIM交付体系。 关键词：成果形态;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "成果形态决定最终交付物的表现形式及其阶段适用范围。",
+      "传统成果以图纸为主，模型驱动成果以三维信息模型为主，图纸成为模型派生视图。",
+      "传统成果以图纸为主，模型驱动成果以三维信息模型为主，图纸成为模型派生视图。",
+      "用于理解BIM交付体系。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_027",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "图纸驱动范式",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "图纸驱动范式以二维图纸为表达媒介和成果载体。",
+    "core_explanation": "它曾提升制图效率，但面对复杂协同和数字交付时表现出信息割裂与复用困难。",
+    "plain_explanation": "它曾提升制图效率，但面对复杂协同和数字交付时表现出信息割裂与复用困难。",
+    "engineering_meaning": "用于解释正向设计转型的背景。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“图纸驱动范式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "图纸驱动范式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "图纸驱动范式",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "图纸驱动范式是什么？",
+      "图纸驱动范式有什么作用？",
+      "如何理解图纸驱动范式？",
+      "图纸驱动范式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "图纸驱动范式。定义：图纸驱动范式以二维图纸为表达媒介和成果载体。 核心解释：它曾提升制图效率，但面对复杂协同和数字交付时表现出信息割裂与复用困难。 工程意义：用于解释正向设计转型的背景。 关键词：图纸驱动范式;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "图纸驱动范式以二维图纸为表达媒介和成果载体。",
+      "它曾提升制图效率，但面对复杂协同和数字交付时表现出信息割裂与复用困难。",
+      "它曾提升制图效率，但面对复杂协同和数字交付时表现出信息割裂与复用困难。",
+      "用于解释正向设计转型的背景。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_028",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "图纸范式静态性",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "二维图纸只能表达有限空间关系，信息分散在多张图纸中。",
+    "core_explanation": "图纸缺乏统一语义，图纸之间的关联需人工理解。",
+    "plain_explanation": "图纸缺乏统一语义，图纸之间的关联需人工理解。",
+    "engineering_meaning": "用于分析传统图纸难以支撑智能校核。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“图纸范式静态性”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "图纸范式静态性应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "图纸范式静态性",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "图纸范式静态性是什么？",
+      "图纸范式静态性有什么作用？",
+      "如何理解图纸范式静态性？",
+      "图纸范式静态性在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "图纸范式静态性。定义：二维图纸只能表达有限空间关系，信息分散在多张图纸中。 核心解释：图纸缺乏统一语义，图纸之间的关联需人工理解。 工程意义：用于分析传统图纸难以支撑智能校核。 关键词：图纸范式静态性;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "二维图纸只能表达有限空间关系，信息分散在多张图纸中。",
+      "图纸缺乏统一语义，图纸之间的关联需人工理解。",
+      "图纸缺乏统一语义，图纸之间的关联需人工理解。",
+      "用于分析传统图纸难以支撑智能校核。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_029",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "图纸范式协同断裂",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "图纸交接和会审导致专业协同串行、沟通滞后。",
+    "core_explanation": "不同专业数据不同步容易造成错漏传达和返工。",
+    "plain_explanation": "不同专业数据不同步容易造成错漏传达和返工。",
+    "engineering_meaning": "用于说明BIM协同设计的价值。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“图纸范式协同断裂”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "图纸范式协同断裂应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "图纸范式协同断裂",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "图纸范式协同断裂是什么？",
+      "图纸范式协同断裂有什么作用？",
+      "如何理解图纸范式协同断裂？",
+      "图纸范式协同断裂在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "图纸范式协同断裂。定义：图纸交接和会审导致专业协同串行、沟通滞后。 核心解释：不同专业数据不同步容易造成错漏传达和返工。 工程意义：用于说明BIM协同设计的价值。 关键词：图纸范式协同断裂;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "图纸交接和会审导致专业协同串行、沟通滞后。",
+      "不同专业数据不同步容易造成错漏传达和返工。",
+      "不同专业数据不同步容易造成错漏传达和返工。",
+      "用于说明BIM协同设计的价值。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_030",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "图纸范式成果封闭",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "PDF、DWG等图形文档难以结构化复用。",
+    "core_explanation": "图纸成果无法直接参与造价估算、施工模拟和运维管理。",
+    "plain_explanation": "图纸成果无法直接参与造价估算、施工模拟和运维管理。",
+    "engineering_meaning": "用于说明数字化交付需要模型和数据。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“图纸范式成果封闭”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "图纸范式成果封闭应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "图纸范式成果封闭",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "图纸范式成果封闭是什么？",
+      "图纸范式成果封闭有什么作用？",
+      "如何理解图纸范式成果封闭？",
+      "图纸范式成果封闭在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "图纸范式成果封闭。定义：PDF、DWG等图形文档难以结构化复用。 核心解释：图纸成果无法直接参与造价估算、施工模拟和运维管理。 工程意义：用于说明数字化交付需要模型和数据。 关键词：图纸范式成果封闭;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "PDF、DWG等图形文档难以结构化复用。",
+      "图纸成果无法直接参与造价估算、施工模拟和运维管理。",
+      "图纸成果无法直接参与造价估算、施工模拟和运维管理。",
+      "用于说明数字化交付需要模型和数据。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_031",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "翻模模式",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "翻模模式是在CAD图纸定稿后再反向构建BIM模型的应用方式。",
+    "core_explanation": "模型滞后于设计决策，通常用于展示或交底，未成为设计核心载体。",
+    "plain_explanation": "模型滞后于设计决策，通常用于展示或交底，未成为设计核心载体。",
+    "engineering_meaning": "用于辨析“做了三维模型”与“BIM正向设计”的差别。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“翻模模式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "翻模模式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "翻模模式",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "翻模模式是什么？",
+      "翻模模式有什么作用？",
+      "如何理解翻模模式？",
+      "翻模模式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "翻模模式。定义：翻模模式是在CAD图纸定稿后再反向构建BIM模型的应用方式。 核心解释：模型滞后于设计决策，通常用于展示或交底，未成为设计核心载体。 工程意义：用于辨析“做了三维模型”与“BIM正向设计”的差别。 关键词：翻模模式;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "翻模模式是在CAD图纸定稿后再反向构建BIM模型的应用方式。",
+      "模型滞后于设计决策，通常用于展示或交底，未成为设计核心载体。",
+      "模型滞后于设计决策，通常用于展示或交底，未成为设计核心载体。",
+      "用于辨析“做了三维模型”与“BIM正向设计”的差别。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_032",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "翻模模式模型滞后",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "翻模模型在设计决策之后生成，无法参与方案比选和前期优化。",
+    "core_explanation": "它失去了BIM模型作为辅助决策工具的价值。",
+    "plain_explanation": "它失去了BIM模型作为辅助决策工具的价值。",
+    "engineering_meaning": "用于说明翻模不是正向设计。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“翻模模式模型滞后”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "翻模模式模型滞后应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "翻模模式模型滞后",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "翻模模式模型滞后是什么？",
+      "翻模模式模型滞后有什么作用？",
+      "如何理解翻模模式模型滞后？",
+      "翻模模式模型滞后在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "翻模模式模型滞后。定义：翻模模型在设计决策之后生成，无法参与方案比选和前期优化。 核心解释：它失去了BIM模型作为辅助决策工具的价值。 工程意义：用于说明翻模不是正向设计。 关键词：翻模模式模型滞后;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "翻模模型在设计决策之后生成，无法参与方案比选和前期优化。",
+      "它失去了BIM模型作为辅助决策工具的价值。",
+      "它失去了BIM模型作为辅助决策工具的价值。",
+      "用于说明翻模不是正向设计。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_033",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "翻模构件缺乏语义驱动",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "翻模构件多为几何拼装，缺少设计意图、参数约束和属性关联。",
+    "core_explanation": "这类模型不能响应设计变更，也难以自动派生图纸和数量。",
+    "plain_explanation": "这类模型不能响应设计变更，也难以自动派生图纸和数量。",
+    "engineering_meaning": "用于辨析几何模型与信息模型。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“翻模构件缺乏语义驱动”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "翻模构件缺乏语义驱动应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "翻模构件缺乏语义驱动",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "翻模构件缺乏语义驱动是什么？",
+      "翻模构件缺乏语义驱动有什么作用？",
+      "如何理解翻模构件缺乏语义驱动？",
+      "翻模构件缺乏语义驱动在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "翻模构件缺乏语义驱动。定义：翻模构件多为几何拼装，缺少设计意图、参数约束和属性关联。 核心解释：这类模型不能响应设计变更，也难以自动派生图纸和数量。 工程意义：用于辨析几何模型与信息模型。 关键词：翻模构件缺乏语义驱动;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "翻模构件多为几何拼装，缺少设计意图、参数约束和属性关联。",
+      "这类模型不能响应设计变更，也难以自动派生图纸和数量。",
+      "这类模型不能响应设计变更，也难以自动派生图纸和数量。",
+      "用于辨析几何模型与信息模型。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_034",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "翻模数据未复用",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "翻模模型通常作为静态展示，未能驱动施工模拟、清单生成和计划编制。",
+    "core_explanation": "其信息价值没有在生命周期中充分释放。",
+    "plain_explanation": "其信息价值没有在生命周期中充分释放。",
+    "engineering_meaning": "用于说明正向设计对数据集成的要求。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“翻模数据未复用”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "翻模数据未复用应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "翻模数据未复用",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "翻模数据未复用是什么？",
+      "翻模数据未复用有什么作用？",
+      "如何理解翻模数据未复用？",
+      "翻模数据未复用在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "翻模数据未复用。定义：翻模模型通常作为静态展示，未能驱动施工模拟、清单生成和计划编制。 核心解释：其信息价值没有在生命周期中充分释放。 工程意义：用于说明正向设计对数据集成的要求。 关键词：翻模数据未复用;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "翻模模型通常作为静态展示，未能驱动施工模拟、清单生成和计划编制。",
+      "其信息价值没有在生命周期中充分释放。",
+      "其信息价值没有在生命周期中充分释放。",
+      "用于说明正向设计对数据集成的要求。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_035",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "道路BIM正向设计",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路BIM正向设计强调“建模即设计、模型即成果”。",
+    "core_explanation": "它以构件为基本单位，以协同建模为核心流程，以数据派生为成果方式。",
+    "plain_explanation": "它以构件为基本单位，以协同建模为核心流程，以数据派生为成果方式。",
+    "engineering_meaning": "用于构建道路BIM设计方法论。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“道路BIM正向设计”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "道路BIM正向设计应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "道路BIM正向设计",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "道路BIM正向设计是什么？",
+      "道路BIM正向设计有什么作用？",
+      "如何理解道路BIM正向设计？",
+      "道路BIM正向设计在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "道路BIM正向设计。定义：道路BIM正向设计强调“建模即设计、模型即成果”。 核心解释：它以构件为基本单位，以协同建模为核心流程，以数据派生为成果方式。 工程意义：用于构建道路BIM设计方法论。 关键词：道路BIM正向设计;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "道路BIM正向设计强调“建模即设计、模型即成果”。",
+      "它以构件为基本单位，以协同建模为核心流程，以数据派生为成果方式。",
+      "它以构件为基本单位，以协同建模为核心流程，以数据派生为成果方式。",
+      "用于构建道路BIM设计方法论。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_036",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "建模主导逻辑",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "正向设计以建模为设计过程起点，打破先设计后建模的路径。",
+    "core_explanation": "模型是设计成果表达载体，图纸和清单由模型派生。",
+    "plain_explanation": "模型是设计成果表达载体，图纸和清单由模型派生。",
+    "engineering_meaning": "用于保证设计全过程信息连贯。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“建模主导逻辑”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "建模主导逻辑应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "建模主导逻辑",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "建模主导逻辑是什么？",
+      "建模主导逻辑有什么作用？",
+      "如何理解建模主导逻辑？",
+      "建模主导逻辑在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "建模主导逻辑。定义：正向设计以建模为设计过程起点，打破先设计后建模的路径。 核心解释：模型是设计成果表达载体，图纸和清单由模型派生。 工程意义：用于保证设计全过程信息连贯。 关键词：建模主导逻辑;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "正向设计以建模为设计过程起点，打破先设计后建模的路径。",
+      "模型是设计成果表达载体，图纸和清单由模型派生。",
+      "模型是设计成果表达载体，图纸和清单由模型派生。",
+      "用于保证设计全过程信息连贯。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_037",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "构件化信息表达",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "正向设计以具有明确语义的构件作为最小设计单元。",
+    "core_explanation": "构件包含几何、材料、结构、施工要求和参数逻辑。",
+    "plain_explanation": "构件包含几何、材料、结构、施工要求和参数逻辑。",
+    "engineering_meaning": "用于支持模型联动和自动成果派生。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件化信息表达”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件化信息表达应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件化信息表达",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "构件化信息表达是什么？",
+      "构件化信息表达有什么作用？",
+      "如何理解构件化信息表达？",
+      "构件化信息表达在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "构件化信息表达。定义：正向设计以具有明确语义的构件作为最小设计单元。 核心解释：构件包含几何、材料、结构、施工要求和参数逻辑。 工程意义：用于支持模型联动和自动成果派生。 关键词：构件化信息表达;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "正向设计以具有明确语义的构件作为最小设计单元。",
+      "构件包含几何、材料、结构、施工要求和参数逻辑。",
+      "构件包含几何、材料、结构、施工要求和参数逻辑。",
+      "用于支持模型联动和自动成果派生。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_038",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "协同统一组织模式",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "正向设计基于统一BIM平台组织路线、路基、桥隧等专业协作。",
+    "core_explanation": "共享模型数据和坐标体系，实现同步建模、信息互查与冲突预警。",
+    "plain_explanation": "共享模型数据和坐标体系，实现同步建模、信息互查与冲突预警。",
+    "engineering_meaning": "用于提升多专业协同效率。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“协同统一组织模式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "协同统一组织模式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "协同统一组织模式",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "协同统一组织模式是什么？",
+      "协同统一组织模式有什么作用？",
+      "如何理解协同统一组织模式？",
+      "协同统一组织模式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "协同统一组织模式。定义：正向设计基于统一BIM平台组织路线、路基、桥隧等专业协作。 核心解释：共享模型数据和坐标体系，实现同步建模、信息互查与冲突预警。 工程意义：用于提升多专业协同效率。 关键词：协同统一组织模式;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "正向设计基于统一BIM平台组织路线、路基、桥隧等专业协作。",
+      "共享模型数据和坐标体系，实现同步建模、信息互查与冲突预警。",
+      "共享模型数据和坐标体系，实现同步建模、信息互查与冲突预警。",
+      "用于提升多专业协同效率。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_039",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "成果派生与交付重构",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "正向设计以统一模型为单一事实来源，自动派生图纸、清单、模拟和运维接口。",
+    "core_explanation": "交付从二维图形扩展为“模型+图纸+数据”的多元体系。",
+    "plain_explanation": "交付从二维图形扩展为“模型+图纸+数据”的多元体系。",
+    "engineering_meaning": "用于支撑施工和运维阶段使用。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“成果派生与交付重构”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "成果派生与交付重构应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "成果派生与交付重构",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "成果派生与交付重构是什么？",
+      "成果派生与交付重构有什么作用？",
+      "如何理解成果派生与交付重构？",
+      "成果派生与交付重构在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "成果派生与交付重构。定义：正向设计以统一模型为单一事实来源，自动派生图纸、清单、模拟和运维接口。 核心解释：交付从二维图形扩展为“模型+图纸+数据”的多元体系。 工程意义：用于支撑施工和运维阶段使用。 关键词：成果派生与交付重构;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "正向设计以统一模型为单一事实来源，自动派生图纸、清单、模拟和运维接口。",
+      "交付从二维图形扩展为“模型+图纸+数据”的多元体系。",
+      "交付从二维图形扩展为“模型+图纸+数据”的多元体系。",
+      "用于支撑施工和运维阶段使用。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_040",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "设计行为与认知转化",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "正向设计使设计人员从绘图者转向建模与信息组织者。",
+    "core_explanation": "设计认知从图纸表达升级为数据建模、信息构造与语义驱动。",
+    "plain_explanation": "设计认知从图纸表达升级为数据建模、信息构造与语义驱动。",
+    "engineering_meaning": "用于培养数字化设计能力。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“设计行为与认知转化”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "设计行为与认知转化应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "设计行为与认知转化",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "设计行为与认知转化是什么？",
+      "设计行为与认知转化有什么作用？",
+      "如何理解设计行为与认知转化？",
+      "设计行为与认知转化在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "设计行为与认知转化。定义：正向设计使设计人员从绘图者转向建模与信息组织者。 核心解释：设计认知从图纸表达升级为数据建模、信息构造与语义驱动。 工程意义：用于培养数字化设计能力。 关键词：设计行为与认知转化;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "正向设计使设计人员从绘图者转向建模与信息组织者。",
+      "设计认知从图纸表达升级为数据建模、信息构造与语义驱动。",
+      "设计认知从图纸表达升级为数据建模、信息构造与语义驱动。",
+      "用于培养数字化设计能力。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_041",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "正向设计五环节",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路BIM正向设计流程包括建模准备、构件建模、协同设计、成果派生和信息交付。",
+    "core_explanation": "五个环节构成“建模即设计、模型即成果”的完整流程。",
+    "plain_explanation": "五个环节构成“建模即设计、模型即成果”的完整流程。",
+    "engineering_meaning": "用于组织BIM正向设计实施。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“正向设计五环节”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "正向设计五环节应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "正向设计五环节",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "正向设计五环节是什么？",
+      "正向设计五环节有什么作用？",
+      "如何理解正向设计五环节？",
+      "正向设计五环节在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "正向设计五环节。定义：道路BIM正向设计流程包括建模准备、构件建模、协同设计、成果派生和信息交付。 核心解释：五个环节构成“建模即设计、模型即成果”的完整流程。 工程意义：用于组织BIM正向设计实施。 关键词：正向设计五环节;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "道路BIM正向设计流程包括建模准备、构件建模、协同设计、成果派生和信息交付。",
+      "五个环节构成“建模即设计、模型即成果”的完整流程。",
+      "五个环节构成“建模即设计、模型即成果”的完整流程。",
+      "用于组织BIM正向设计实施。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_042",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "建模准备",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "建模准备以BIM执行计划BEP为起点，明确交付目标、模型范围、命名规则和协同机制。",
+    "core_explanation": "还需统一空间基准、模型架构、精细度等级和平台环境。",
+    "plain_explanation": "还需统一空间基准、模型架构、精细度等级和平台环境。",
+    "engineering_meaning": "用于保证后续建模和交付有统一规则。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“建模准备”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "建模准备应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "建模准备",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "建模准备是什么？",
+      "建模准备有什么作用？",
+      "如何理解建模准备？",
+      "建模准备在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "建模准备。定义：建模准备以BIM执行计划BEP为起点，明确交付目标、模型范围、命名规则和协同机制。 核心解释：还需统一空间基准、模型架构、精细度等级和平台环境。 工程意义：用于保证后续建模和交付有统一规则。 关键词：建模准备;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "建模准备以BIM执行计划BEP为起点，明确交付目标、模型范围、命名规则和协同机制。",
+      "还需统一空间基准、模型架构、精细度等级和平台环境。",
+      "还需统一空间基准、模型架构、精细度等级和平台环境。",
+      "用于保证后续建模和交付有统一规则。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_043",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "构件建模环节",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件建模是在BIM平台中构建参数化构件并嵌入几何信息与属性数据。",
+    "core_explanation": "包括路线控制模型、专业模型和构件语义。",
+    "plain_explanation": "包括路线控制模型、专业模型和构件语义。",
+    "engineering_meaning": "用于形成可分析、可派生和可协同的数字模型。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件建模环节”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件建模环节应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件建模环节",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "构件建模环节是什么？",
+      "构件建模环节有什么作用？",
+      "如何理解构件建模环节？",
+      "构件建模环节在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "构件建模环节。定义：构件建模是在BIM平台中构建参数化构件并嵌入几何信息与属性数据。 核心解释：包括路线控制模型、专业模型和构件语义。 工程意义：用于形成可分析、可派生和可协同的数字模型。 关键词：构件建模环节;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "构件建模是在BIM平台中构建参数化构件并嵌入几何信息与属性数据。",
+      "包括路线控制模型、专业模型和构件语义。",
+      "包括路线控制模型、专业模型和构件语义。",
+      "用于形成可分析、可派生和可协同的数字模型。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_044",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "协同设计环节",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "协同设计以信息模型为核心，实现多专业并行建模、模型共享和规则校核。",
+    "core_explanation": "协同平台需支持版本控制、权限分配、问题追踪和动态集成。",
+    "plain_explanation": "协同平台需支持版本控制、权限分配、问题追踪和动态集成。",
+    "engineering_meaning": "用于保证模型质量和多专业一致性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“协同设计环节”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "协同设计环节应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "协同设计环节",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "协同设计环节是什么？",
+      "协同设计环节有什么作用？",
+      "如何理解协同设计环节？",
+      "协同设计环节在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "协同设计环节。定义：协同设计以信息模型为核心，实现多专业并行建模、模型共享和规则校核。 核心解释：协同平台需支持版本控制、权限分配、问题追踪和动态集成。 工程意义：用于保证模型质量和多专业一致性。 关键词：协同设计环节;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "协同设计以信息模型为核心，实现多专业并行建模、模型共享和规则校核。",
+      "协同平台需支持版本控制、权限分配、问题追踪和动态集成。",
+      "协同平台需支持版本控制、权限分配、问题追踪和动态集成。",
+      "用于保证模型质量和多专业一致性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_045",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "成果派生环节",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "成果派生利用模型生成图纸、工程量、施工模拟和专项分析成果。",
+    "core_explanation": "一模多用是正向设计区别于图纸设计的重要特征。",
+    "plain_explanation": "一模多用是正向设计区别于图纸设计的重要特征。",
+    "engineering_meaning": "用于提高成果生成效率和一致性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“成果派生环节”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "成果派生环节应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "成果派生环节",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "成果派生环节是什么？",
+      "成果派生环节有什么作用？",
+      "如何理解成果派生环节？",
+      "成果派生环节在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "成果派生环节。定义：成果派生利用模型生成图纸、工程量、施工模拟和专项分析成果。 核心解释：一模多用是正向设计区别于图纸设计的重要特征。 工程意义：用于提高成果生成效率和一致性。 关键词：成果派生环节;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "成果派生利用模型生成图纸、工程量、施工模拟和专项分析成果。",
+      "一模多用是正向设计区别于图纸设计的重要特征。",
+      "一模多用是正向设计区别于图纸设计的重要特征。",
+      "用于提高成果生成效率和一致性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_046",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec02",
+    "title": "信息交付环节",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "信息交付以模型成果为核心，采用标准格式、精度分级和审查流程支撑生命周期应用。",
+    "core_explanation": "交付物应能接入施工平台和智慧运维系统。",
+    "plain_explanation": "交付物应能接入施工平台和智慧运维系统。",
+    "engineering_meaning": "用于实现设计成果的数字资产化。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“信息交付环节”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "信息交付环节应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "信息交付环节",
+      "正向设计",
+      "设计范式"
+    ],
+    "student_question_patterns": [
+      "信息交付环节是什么？",
+      "信息交付环节有什么作用？",
+      "如何理解信息交付环节？",
+      "信息交付环节在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_056;ch04_src_057;ch04_src_058;ch04_src_059;ch04_src_060",
+    "embedding_text": "信息交付环节。定义：信息交付以模型成果为核心，采用标准格式、精度分级和审查流程支撑生命周期应用。 核心解释：交付物应能接入施工平台和智慧运维系统。 工程意义：用于实现设计成果的数字资产化。 关键词：信息交付环节;正向设计;设计范式",
+    "status": "checked",
+    "key_points": [
+      "信息交付以模型成果为核心，采用标准格式、精度分级和审查流程支撑生命周期应用。",
+      "交付物应能接入施工平台和智慧运维系统。",
+      "交付物应能接入施工平台和智慧运维系统。",
+      "用于实现设计成果的数字资产化。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_047",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "BIM构件",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM构件是承载几何、信息和逻辑的参数化信息对象。",
+    "core_explanation": "构件不是静态图元，而是可识别、可响应、可参与计算与分析的智能单元。",
+    "plain_explanation": "构件不是静态图元，而是可识别、可响应、可参与计算与分析的智能单元。",
+    "engineering_meaning": "用于实现标准化建模、自动校核、成果派生和生命周期管理。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“BIM构件”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "BIM构件应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "BIM构件",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "BIM构件是什么？",
+      "BIM构件有什么作用？",
+      "如何理解BIM构件？",
+      "BIM构件在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "BIM构件。定义：BIM构件是承载几何、信息和逻辑的参数化信息对象。 核心解释：构件不是静态图元，而是可识别、可响应、可参与计算与分析的智能单元。 工程意义：用于实现标准化建模、自动校核、成果派生和生命周期管理。 关键词：BIM构件;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "BIM构件是承载几何、信息和逻辑的参数化信息对象。",
+      "构件不是静态图元，而是可识别、可响应、可参与计算与分析的智能单元。",
+      "构件不是静态图元，而是可识别、可响应、可参与计算与分析的智能单元。",
+      "用于实现标准化建模、自动校核、成果派生和生命周期管理。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_048",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件智能性",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件智能性源于几何信息、语义信息和非几何属性信息的集成。",
+    "core_explanation": "系统能理解构件身份、规则和属性，从而进行计算、联动和校核。",
+    "plain_explanation": "系统能理解构件身份、规则和属性，从而进行计算、联动和校核。",
+    "engineering_meaning": "用于区别BIM构件与CAD图元。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件智能性”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件智能性应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件智能性",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件智能性是什么？",
+      "构件智能性有什么作用？",
+      "如何理解构件智能性？",
+      "构件智能性在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件智能性。定义：构件智能性源于几何信息、语义信息和非几何属性信息的集成。 核心解释：系统能理解构件身份、规则和属性，从而进行计算、联动和校核。 工程意义：用于区别BIM构件与CAD图元。 关键词：构件智能性;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "构件智能性源于几何信息、语义信息和非几何属性信息的集成。",
+      "系统能理解构件身份、规则和属性，从而进行计算、联动和校核。",
+      "系统能理解构件身份、规则和属性，从而进行计算、联动和校核。",
+      "用于区别BIM构件与CAD图元。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_049",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "几何信息",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "几何信息描述构件的三维形状、尺寸、空间位置和几何约束关系。",
+    "core_explanation": "它是可视化、图纸派生和空间分析的基础。",
+    "plain_explanation": "它是可视化、图纸派生和空间分析的基础。",
+    "engineering_meaning": "用于表达桥墩、排水沟、边坡等构件的形态与位置。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“几何信息”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "几何信息应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "几何信息",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "几何信息是什么？",
+      "几何信息有什么作用？",
+      "如何理解几何信息？",
+      "几何信息在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "几何信息。定义：几何信息描述构件的三维形状、尺寸、空间位置和几何约束关系。 核心解释：它是可视化、图纸派生和空间分析的基础。 工程意义：用于表达桥墩、排水沟、边坡等构件的形态与位置。 关键词：几何信息;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "几何信息描述构件的三维形状、尺寸、空间位置和几何约束关系。",
+      "它是可视化、图纸派生和空间分析的基础。",
+      "它是可视化、图纸派生和空间分析的基础。",
+      "用于表达桥墩、排水沟、边坡等构件的形态与位置。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_050",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "语义信息",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "语义信息定义构件是什么、做什么及其工程行为规则。",
+    "core_explanation": "例如护栏被识别为交通安全设施，桥墩被识别为结构受力实体。",
+    "plain_explanation": "例如护栏被识别为交通安全设施，桥墩被识别为结构受力实体。",
+    "engineering_meaning": "用于支持规则校核、智能联动和自动分析。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“语义信息”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "语义信息应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "语义信息",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "语义信息是什么？",
+      "语义信息有什么作用？",
+      "如何理解语义信息？",
+      "语义信息在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "语义信息。定义：语义信息定义构件是什么、做什么及其工程行为规则。 核心解释：例如护栏被识别为交通安全设施，桥墩被识别为结构受力实体。 工程意义：用于支持规则校核、智能联动和自动分析。 关键词：语义信息;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "语义信息定义构件是什么、做什么及其工程行为规则。",
+      "例如护栏被识别为交通安全设施，桥墩被识别为结构受力实体。",
+      "例如护栏被识别为交通安全设施，桥墩被识别为结构受力实体。",
+      "用于支持规则校核、智能联动和自动分析。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_051",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "非几何属性信息",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "非几何属性信息描述材料、编号、施工工序、运维周期、成本等属性。",
+    "core_explanation": "它不直接表现为几何，但支撑工程量、施工模拟和运维管理。",
+    "plain_explanation": "它不直接表现为几何，但支撑工程量、施工模拟和运维管理。",
+    "engineering_meaning": "用于形成可管理、可分析、可交付的构件数据。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“非几何属性信息”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "非几何属性信息应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "非几何属性信息",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "非几何属性信息是什么？",
+      "非几何属性信息有什么作用？",
+      "如何理解非几何属性信息？",
+      "非几何属性信息在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "非几何属性信息。定义：非几何属性信息描述材料、编号、施工工序、运维周期、成本等属性。 核心解释：它不直接表现为几何，但支撑工程量、施工模拟和运维管理。 工程意义：用于形成可管理、可分析、可交付的构件数据。 关键词：非几何属性信息;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "非几何属性信息描述材料、编号、施工工序、运维周期、成本等属性。",
+      "它不直接表现为几何，但支撑工程量、施工模拟和运维管理。",
+      "它不直接表现为几何，但支撑工程量、施工模拟和运维管理。",
+      "用于形成可管理、可分析、可交付的构件数据。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_052",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "设施—子设施—构件三级结构",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路BIM通常采用设施、子设施、构件三级结构组织模型信息。",
+    "core_explanation": "三级结构便于模型分层管理、多专业协同和成果派生。",
+    "plain_explanation": "三级结构便于模型分层管理、多专业协同和成果派生。",
+    "engineering_meaning": "用于组织路基、路面、桥梁、隧道等工程对象。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“设施—子设施—构件三级结构”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "设施—子设施—构件三级结构应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "设施—子设施—构件三级结构",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "设施—子设施—构件三级结构是什么？",
+      "设施—子设施—构件三级结构有什么作用？",
+      "如何理解设施—子设施—构件三级结构？",
+      "设施—子设施—构件三级结构在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "设施—子设施—构件三级结构。定义：道路BIM通常采用设施、子设施、构件三级结构组织模型信息。 核心解释：三级结构便于模型分层管理、多专业协同和成果派生。 工程意义：用于组织路基、路面、桥梁、隧道等工程对象。 关键词：设施—子设施—构件三级结构;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "道路BIM通常采用设施、子设施、构件三级结构组织模型信息。",
+      "三级结构便于模型分层管理、多专业协同和成果派生。",
+      "三级结构便于模型分层管理、多专业协同和成果派生。",
+      "用于组织路基、路面、桥梁、隧道等工程对象。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_053",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "设施Facility",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "设施是模型顶层工程对象，如路基、路面、桥梁、隧道、交叉工程和沿线设施。",
+    "core_explanation": "设施反映道路项目的主要工程组成。",
+    "plain_explanation": "设施反映道路项目的主要工程组成。",
+    "engineering_meaning": "用于宏观组织专业模型和交付成果。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“设施Facility”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "设施Facility应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "设施Facility",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "设施Facility是什么？",
+      "设施Facility有什么作用？",
+      "如何理解设施Facility？",
+      "设施Facility在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "设施Facility。定义：设施是模型顶层工程对象，如路基、路面、桥梁、隧道、交叉工程和沿线设施。 核心解释：设施反映道路项目的主要工程组成。 工程意义：用于宏观组织专业模型和交付成果。 关键词：设施Facility;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "设施是模型顶层工程对象，如路基、路面、桥梁、隧道、交叉工程和沿线设施。",
+      "设施反映道路项目的主要工程组成。",
+      "设施反映道路项目的主要工程组成。",
+      "用于宏观组织专业模型和交付成果。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_054",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "子设施Subfacility",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "子设施是设施的细分模块，如桥梁上部结构、下部结构、桥面系和附属构造。",
+    "core_explanation": "它连接宏观设施与具体构件。",
+    "plain_explanation": "它连接宏观设施与具体构件。",
+    "engineering_meaning": "用于分专业、分系统管理模型对象。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“子设施Subfacility”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "子设施Subfacility应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "子设施Subfacility",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "子设施Subfacility是什么？",
+      "子设施Subfacility有什么作用？",
+      "如何理解子设施Subfacility？",
+      "子设施Subfacility在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "子设施Subfacility。定义：子设施是设施的细分模块，如桥梁上部结构、下部结构、桥面系和附属构造。 核心解释：它连接宏观设施与具体构件。 工程意义：用于分专业、分系统管理模型对象。 关键词：子设施Subfacility;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "子设施是设施的细分模块，如桥梁上部结构、下部结构、桥面系和附属构造。",
+      "它连接宏观设施与具体构件。",
+      "它连接宏观设施与具体构件。",
+      "用于分专业、分系统管理模型对象。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_055",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件Component",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件是子设施的组成元素，也是信息模型的最小功能单元。",
+    "core_explanation": "桥墩、盖梁、路面层、排水沟等均可作为构件。",
+    "plain_explanation": "桥墩、盖梁、路面层、排水沟等均可作为构件。",
+    "engineering_meaning": "用于参数化建模、属性管理和工程量统计。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件Component”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件Component应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件Component",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件Component是什么？",
+      "构件Component有什么作用？",
+      "如何理解构件Component？",
+      "构件Component在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件Component。定义：构件是子设施的组成元素，也是信息模型的最小功能单元。 核心解释：桥墩、盖梁、路面层、排水沟等均可作为构件。 工程意义：用于参数化建模、属性管理和工程量统计。 关键词：构件Component;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "构件是子设施的组成元素，也是信息模型的最小功能单元。",
+      "桥墩、盖梁、路面层、排水沟等均可作为构件。",
+      "桥墩、盖梁、路面层、排水沟等均可作为构件。",
+      "用于参数化建模、属性管理和工程量统计。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_056",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件分类编码",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "分类编码回答“构件是什么”，将构件归入统一标准类别。",
+    "core_explanation": "编码支持自动归类、批量处理和跨系统集成。",
+    "plain_explanation": "编码支持自动归类、批量处理和跨系统集成。",
+    "engineering_meaning": "用于构件管理、检索和标准化交付。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件分类编码”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件分类编码应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件分类编码",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件分类编码是什么？",
+      "构件分类编码有什么作用？",
+      "如何理解构件分类编码？",
+      "构件分类编码在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件分类编码。定义：分类编码回答“构件是什么”，将构件归入统一标准类别。 核心解释：编码支持自动归类、批量处理和跨系统集成。 工程意义：用于构件管理、检索和标准化交付。 关键词：构件分类编码;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "分类编码回答“构件是什么”，将构件归入统一标准类别。",
+      "编码支持自动归类、批量处理和跨系统集成。",
+      "编码支持自动归类、批量处理和跨系统集成。",
+      "用于构件管理、检索和标准化交付。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_057",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件标识码",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "标识码或命名回答“具体是哪一个构件”。",
+    "core_explanation": "命名通常由对象名称、位置和编号组成，保证唯一性和可追溯性。",
+    "plain_explanation": "命名通常由对象名称、位置和编号组成，保证唯一性和可追溯性。",
+    "engineering_meaning": "用于全生命周期追踪某一具体构件。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件标识码”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件标识码应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件标识码",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件标识码是什么？",
+      "构件标识码有什么作用？",
+      "如何理解构件标识码？",
+      "构件标识码在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件标识码。定义：标识码或命名回答“具体是哪一个构件”。 核心解释：命名通常由对象名称、位置和编号组成，保证唯一性和可追溯性。 工程意义：用于全生命周期追踪某一具体构件。 关键词：构件标识码;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "标识码或命名回答“具体是哪一个构件”。",
+      "命名通常由对象名称、位置和编号组成，保证唯一性和可追溯性。",
+      "命名通常由对象名称、位置和编号组成，保证唯一性和可追溯性。",
+      "用于全生命周期追踪某一具体构件。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_058",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件参数驱动作用",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件的几何形态和属性信息由参数控制，相关构件可联动更新。",
+    "core_explanation": "参数驱动实现“修改即更新”，降低返工风险。",
+    "plain_explanation": "参数驱动实现“修改即更新”，降低返工风险。",
+    "engineering_meaning": "用于路线调整后自动更新沿线构件。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件参数驱动作用”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件参数驱动作用应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件参数驱动作用",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件参数驱动作用是什么？",
+      "构件参数驱动作用有什么作用？",
+      "如何理解构件参数驱动作用？",
+      "构件参数驱动作用在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件参数驱动作用。定义：构件的几何形态和属性信息由参数控制，相关构件可联动更新。 核心解释：参数驱动实现“修改即更新”，降低返工风险。 工程意义：用于路线调整后自动更新沿线构件。 关键词：构件参数驱动作用;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "构件的几何形态和属性信息由参数控制，相关构件可联动更新。",
+      "参数驱动实现“修改即更新”，降低返工风险。",
+      "参数驱动实现“修改即更新”，降低返工风险。",
+      "用于路线调整后自动更新沿线构件。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_059",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件信息派生作用",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件中的材料、尺寸、工程量和施工方法信息可派生图纸、清单和模拟成果。",
+    "core_explanation": "信息派生保证图模一致和数据完整。",
+    "plain_explanation": "信息派生保证图模一致和数据完整。",
+    "engineering_meaning": "用于自动出图、工程量提取、成本估算。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件信息派生作用”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件信息派生作用应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件信息派生作用",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件信息派生作用是什么？",
+      "构件信息派生作用有什么作用？",
+      "如何理解构件信息派生作用？",
+      "构件信息派生作用在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件信息派生作用。定义：构件中的材料、尺寸、工程量和施工方法信息可派生图纸、清单和模拟成果。 核心解释：信息派生保证图模一致和数据完整。 工程意义：用于自动出图、工程量提取、成本估算。 关键词：构件信息派生作用;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "构件中的材料、尺寸、工程量和施工方法信息可派生图纸、清单和模拟成果。",
+      "信息派生保证图模一致和数据完整。",
+      "信息派生保证图模一致和数据完整。",
+      "用于自动出图、工程量提取、成本估算。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_060",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件跨阶段集成作用",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件作为最小信息载体贯通设计、施工和运维阶段。",
+    "core_explanation": "构件编码和属性信息在后续阶段持续调用与更新。",
+    "plain_explanation": "构件编码和属性信息在后续阶段持续调用与更新。",
+    "engineering_meaning": "用于智慧工地和运维平台的数据继承。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件跨阶段集成作用”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件跨阶段集成作用应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件跨阶段集成作用",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件跨阶段集成作用是什么？",
+      "构件跨阶段集成作用有什么作用？",
+      "如何理解构件跨阶段集成作用？",
+      "构件跨阶段集成作用在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件跨阶段集成作用。定义：构件作为最小信息载体贯通设计、施工和运维阶段。 核心解释：构件编码和属性信息在后续阶段持续调用与更新。 工程意义：用于智慧工地和运维平台的数据继承。 关键词：构件跨阶段集成作用;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "构件作为最小信息载体贯通设计、施工和运维阶段。",
+      "构件编码和属性信息在后续阶段持续调用与更新。",
+      "构件编码和属性信息在后续阶段持续调用与更新。",
+      "用于智慧工地和运维平台的数据继承。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_061",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件分类基本原则",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路工程构件分类应结构清晰、覆盖全面、编码统一并适配正向建模。",
+    "core_explanation": "分类体系不能过于笼统或碎片化，应服务参数化建模和信息派生。",
+    "plain_explanation": "分类体系不能过于笼统或碎片化，应服务参数化建模和信息派生。",
+    "engineering_meaning": "用于建立道路BIM构件库。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件分类基本原则”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件分类基本原则应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件分类基本原则",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件分类基本原则是什么？",
+      "构件分类基本原则有什么作用？",
+      "如何理解构件分类基本原则？",
+      "构件分类基本原则在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件分类基本原则。定义：道路工程构件分类应结构清晰、覆盖全面、编码统一并适配正向建模。 核心解释：分类体系不能过于笼统或碎片化，应服务参数化建模和信息派生。 工程意义：用于建立道路BIM构件库。 关键词：构件分类基本原则;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "道路工程构件分类应结构清晰、覆盖全面、编码统一并适配正向建模。",
+      "分类体系不能过于笼统或碎片化，应服务参数化建模和信息派生。",
+      "分类体系不能过于笼统或碎片化，应服务参数化建模和信息派生。",
+      "用于建立道路BIM构件库。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_062",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "道路构件八大类",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "道路工程构件通常包括路线、路基、路面、桥梁、隧道、涵洞、交通工程与沿线设施等类别。",
+    "core_explanation": "八大类覆盖道路工程主要专业模型。",
+    "plain_explanation": "八大类覆盖道路工程主要专业模型。",
+    "engineering_meaning": "用于组织道路工程BIM构件分类体系。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“道路构件八大类”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "道路构件八大类应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "道路构件八大类",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "道路构件八大类是什么？",
+      "道路构件八大类有什么作用？",
+      "如何理解道路构件八大类？",
+      "道路构件八大类在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "道路构件八大类。定义：道路工程构件通常包括路线、路基、路面、桥梁、隧道、涵洞、交通工程与沿线设施等类别。 核心解释：八大类覆盖道路工程主要专业模型。 工程意义：用于组织道路工程BIM构件分类体系。 关键词：道路构件八大类;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "道路工程构件通常包括路线、路基、路面、桥梁、隧道、涵洞、交通工程与沿线设施等类别。",
+      "八大类覆盖道路工程主要专业模型。",
+      "八大类覆盖道路工程主要专业模型。",
+      "用于组织道路工程BIM构件分类体系。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_063",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件分类信息精度",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件体系详细程度与设计阶段和模型精细度等级相关。",
+    "core_explanation": "初步设计可到子设施或主要构件，施工图阶段需细化到具体构件并附带属性。",
+    "plain_explanation": "初步设计可到子设施或主要构件，施工图阶段需细化到具体构件并附带属性。",
+    "engineering_meaning": "用于避免建模不足或信息过载。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件分类信息精度”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件分类信息精度应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件分类信息精度",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件分类信息精度是什么？",
+      "构件分类信息精度有什么作用？",
+      "如何理解构件分类信息精度？",
+      "构件分类信息精度在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件分类信息精度。定义：构件体系详细程度与设计阶段和模型精细度等级相关。 核心解释：初步设计可到子设施或主要构件，施工图阶段需细化到具体构件并附带属性。 工程意义：用于避免建模不足或信息过载。 关键词：构件分类信息精度;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "构件体系详细程度与设计阶段和模型精细度等级相关。",
+      "初步设计可到子设施或主要构件，施工图阶段需细化到具体构件并附带属性。",
+      "初步设计可到子设施或主要构件，施工图阶段需细化到具体构件并附带属性。",
+      "用于避免建模不足或信息过载。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_064",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "构件嵌套",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "一个构件对象本身可由更小的子构件组成。",
+    "core_explanation": "如桥墩可以嵌套盖梁和墩柱，以支持精细管理和工程量统计。",
+    "plain_explanation": "如桥墩可以嵌套盖梁和墩柱，以支持精细管理和工程量统计。",
+    "engineering_meaning": "用于复杂构件的层级表达。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件嵌套”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件嵌套应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件嵌套",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "构件嵌套是什么？",
+      "构件嵌套有什么作用？",
+      "如何理解构件嵌套？",
+      "构件嵌套在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "构件嵌套。定义：一个构件对象本身可由更小的子构件组成。 核心解释：如桥墩可以嵌套盖梁和墩柱，以支持精细管理和工程量统计。 工程意义：用于复杂构件的层级表达。 关键词：构件嵌套;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "一个构件对象本身可由更小的子构件组成。",
+      "如桥墩可以嵌套盖梁和墩柱，以支持精细管理和工程量统计。",
+      "如桥墩可以嵌套盖梁和墩柱，以支持精细管理和工程量统计。",
+      "用于复杂构件的层级表达。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_065",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec03",
+    "title": "设施聚合",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "完整道路项目BIM模型由路线、路基、桥梁、隧道等设施模型聚合而成。",
+    "core_explanation": "聚合使多专业模型在特定地理范围内形成逻辑整体。",
+    "plain_explanation": "聚合使多专业模型在特定地理范围内形成逻辑整体。",
+    "engineering_meaning": "用于总装模型、交叉工程和综合管理。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“设施聚合”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "设施聚合应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "设施聚合",
+      "BIM构件",
+      "构件体系"
+    ],
+    "student_question_patterns": [
+      "设施聚合是什么？",
+      "设施聚合有什么作用？",
+      "如何理解设施聚合？",
+      "设施聚合在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "ch04_src_123;ch04_src_124;ch04_src_125;ch04_src_126;ch04_src_127",
+    "embedding_text": "设施聚合。定义：完整道路项目BIM模型由路线、路基、桥梁、隧道等设施模型聚合而成。 核心解释：聚合使多专业模型在特定地理范围内形成逻辑整体。 工程意义：用于总装模型、交叉工程和综合管理。 关键词：设施聚合;BIM构件;构件体系",
+    "status": "checked",
+    "key_points": [
+      "完整道路项目BIM模型由路线、路基、桥梁、隧道等设施模型聚合而成。",
+      "聚合使多专业模型在特定地理范围内形成逻辑整体。",
+      "聚合使多专业模型在特定地理范围内形成逻辑整体。",
+      "用于总装模型、交叉工程和综合管理。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_066",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数化设计",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数化设计通过参数驱动控制模型几何形态、属性内容和逻辑约束。",
+    "core_explanation": "它强调先建逻辑、后控形态，以变量和规则替代手动绘制。",
+    "plain_explanation": "它强调先建逻辑、后控形态，以变量和规则替代手动绘制。",
+    "engineering_meaning": "用于实现模型动态响应和方案快速迭代。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数化设计”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数化设计应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数化设计",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数化设计是什么？",
+      "参数化设计有什么作用？",
+      "如何理解参数化设计？",
+      "参数化设计在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数化设计。定义：参数化设计通过参数驱动控制模型几何形态、属性内容和逻辑约束。 核心解释：它强调先建逻辑、后控形态，以变量和规则替代手动绘制。 工程意义：用于实现模型动态响应和方案快速迭代。 关键词：参数化设计;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数化设计通过参数驱动控制模型几何形态、属性内容和逻辑约束。",
+      "它强调先建逻辑、后控形态，以变量和规则替代手动绘制。",
+      "它强调先建逻辑、后控形态，以变量和规则替代手动绘制。",
+      "用于实现模型动态响应和方案快速迭代。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_067",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "计算设计",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "计算设计利用脚本、编程和数据处理解决设计问题或探索设计可能性。",
+    "core_explanation": "它将设计视为由算法和规则驱动的过程。",
+    "plain_explanation": "它将设计视为由算法和规则驱动的过程。",
+    "engineering_meaning": "用于理解参数化、算法化和生成式设计的上位框架。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“计算设计”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "计算设计应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "计算设计",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "计算设计是什么？",
+      "计算设计有什么作用？",
+      "如何理解计算设计？",
+      "计算设计在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "计算设计。定义：计算设计利用脚本、编程和数据处理解决设计问题或探索设计可能性。 核心解释：它将设计视为由算法和规则驱动的过程。 工程意义：用于理解参数化、算法化和生成式设计的上位框架。 关键词：计算设计;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "计算设计利用脚本、编程和数据处理解决设计问题或探索设计可能性。",
+      "它将设计视为由算法和规则驱动的过程。",
+      "它将设计视为由算法和规则驱动的过程。",
+      "用于理解参数化、算法化和生成式设计的上位框架。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_068",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数化设计PD",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数化设计是计算设计的一种方法，以参数及其关系约束控制设计结果。",
+    "core_explanation": "调整输入参数可快速生成多个方案并自动更新模型。",
+    "plain_explanation": "调整输入参数可快速生成多个方案并自动更新模型。",
+    "engineering_meaning": "用于道路平纵横参数联动和廊道建模。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数化设计PD”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数化设计PD应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数化设计PD",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数化设计PD是什么？",
+      "参数化设计PD有什么作用？",
+      "如何理解参数化设计PD？",
+      "参数化设计PD在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数化设计PD。定义：参数化设计是计算设计的一种方法，以参数及其关系约束控制设计结果。 核心解释：调整输入参数可快速生成多个方案并自动更新模型。 工程意义：用于道路平纵横参数联动和廊道建模。 关键词：参数化设计PD;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数化设计是计算设计的一种方法，以参数及其关系约束控制设计结果。",
+      "调整输入参数可快速生成多个方案并自动更新模型。",
+      "调整输入参数可快速生成多个方案并自动更新模型。",
+      "用于道路平纵横参数联动和廊道建模。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_069",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "算法化设计AD",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "算法化设计用明确逻辑步骤完成设计任务。",
+    "core_explanation": "算法定义参数如何相互作用以及如何转化为几何和属性。",
+    "plain_explanation": "算法定义参数如何相互作用以及如何转化为几何和属性。",
+    "engineering_meaning": "用于视距检查、碰撞检测和自动审查。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“算法化设计AD”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "算法化设计AD应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "算法化设计AD",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "算法化设计AD是什么？",
+      "算法化设计AD有什么作用？",
+      "如何理解算法化设计AD？",
+      "算法化设计AD在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "算法化设计AD。定义：算法化设计用明确逻辑步骤完成设计任务。 核心解释：算法定义参数如何相互作用以及如何转化为几何和属性。 工程意义：用于视距检查、碰撞检测和自动审查。 关键词：算法化设计AD;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "算法化设计用明确逻辑步骤完成设计任务。",
+      "算法定义参数如何相互作用以及如何转化为几何和属性。",
+      "算法定义参数如何相互作用以及如何转化为几何和属性。",
+      "用于视距检查、碰撞检测和自动审查。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_070",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "生成式设计GD",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "生成式设计通过算法探索满足目标和约束的多个设计结果。",
+    "core_explanation": "设计师输入目标和约束，系统自动生成、评估和筛选方案。",
+    "plain_explanation": "设计师输入目标和约束，系统自动生成、评估和筛选方案。",
+    "engineering_meaning": "用于路线优化、纵断面优化和多目标方案比选。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“生成式设计GD”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "生成式设计GD应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "生成式设计GD",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "生成式设计GD是什么？",
+      "生成式设计GD有什么作用？",
+      "如何理解生成式设计GD？",
+      "生成式设计GD在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "生成式设计GD。定义：生成式设计通过算法探索满足目标和约束的多个设计结果。 核心解释：设计师输入目标和约束，系统自动生成、评估和筛选方案。 工程意义：用于路线优化、纵断面优化和多目标方案比选。 关键词：生成式设计GD;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "生成式设计通过算法探索满足目标和约束的多个设计结果。",
+      "设计师输入目标和约束，系统自动生成、评估和筛选方案。",
+      "设计师输入目标和约束，系统自动生成、评估和筛选方案。",
+      "用于路线优化、纵断面优化和多目标方案比选。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_071",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数化与算法化区别",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数化强调变量控制和模型响应，算法化强调规则序列和自动分析。",
+    "core_explanation": "参数化常体现为给参数出结果，算法化常体现为定义规则后自动审计。",
+    "plain_explanation": "参数化常体现为给参数出结果，算法化常体现为定义规则后自动审计。",
+    "engineering_meaning": "用于辨析不同计算设计方法。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数化与算法化区别”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数化与算法化区别应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数化与算法化区别",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数化与算法化区别是什么？",
+      "参数化与算法化区别有什么作用？",
+      "如何理解参数化与算法化区别？",
+      "参数化与算法化区别在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数化与算法化区别。定义：参数化强调变量控制和模型响应，算法化强调规则序列和自动分析。 核心解释：参数化常体现为给参数出结果，算法化常体现为定义规则后自动审计。 工程意义：用于辨析不同计算设计方法。 关键词：参数化与算法化区别;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数化强调变量控制和模型响应，算法化强调规则序列和自动分析。",
+      "参数化常体现为给参数出结果，算法化常体现为定义规则后自动审计。",
+      "参数化常体现为给参数出结果，算法化常体现为定义规则后自动审计。",
+      "用于辨析不同计算设计方法。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_072",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数化与生成式设计区别",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数化通过调整参数生成模型变体，生成式设计进一步自动搜索设计空间。",
+    "core_explanation": "生成式设计通常结合优化算法，以目标函数和约束筛选方案。",
+    "plain_explanation": "生成式设计通常结合优化算法，以目标函数和约束筛选方案。",
+    "engineering_meaning": "用于理解智能设计的层级演进。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数化与生成式设计区别”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数化与生成式设计区别应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数化与生成式设计区别",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数化与生成式设计区别是什么？",
+      "参数化与生成式设计区别有什么作用？",
+      "如何理解参数化与生成式设计区别？",
+      "参数化与生成式设计区别在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数化与生成式设计区别。定义：参数化通过调整参数生成模型变体，生成式设计进一步自动搜索设计空间。 核心解释：生成式设计通常结合优化算法，以目标函数和约束筛选方案。 工程意义：用于理解智能设计的层级演进。 关键词：参数化与生成式设计区别;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数化通过调整参数生成模型变体，生成式设计进一步自动搜索设计空间。",
+      "生成式设计通常结合优化算法，以目标函数和约束筛选方案。",
+      "生成式设计通常结合优化算法，以目标函数和约束筛选方案。",
+      "用于理解智能设计的层级演进。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_073",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "PRR机制",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "PRR机制即参数—规则—结果的动态驱动机制。",
+    "core_explanation": "参数作为输入变量，规则表达逻辑约束，结果为自动生成的几何、属性和性能输出。",
+    "plain_explanation": "参数作为输入变量，规则表达逻辑约束，结果为自动生成的几何、属性和性能输出。",
+    "engineering_meaning": "用于解释参数化模型为什么能自动更新。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“PRR机制”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "PRR机制应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "PRR机制",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "PRR机制是什么？",
+      "PRR机制有什么作用？",
+      "如何理解PRR机制？",
+      "PRR机制在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "PRR机制。定义：PRR机制即参数—规则—结果的动态驱动机制。 核心解释：参数作为输入变量，规则表达逻辑约束，结果为自动生成的几何、属性和性能输出。 工程意义：用于解释参数化模型为什么能自动更新。 关键词：PRR机制;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "PRR机制即参数—规则—结果的动态驱动机制。",
+      "参数作为输入变量，规则表达逻辑约束，结果为自动生成的几何、属性和性能输出。",
+      "参数作为输入变量，规则表达逻辑约束，结果为自动生成的几何、属性和性能输出。",
+      "用于解释参数化模型为什么能自动更新。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_074",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数Parameter",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数是设计输入变量，如设计速度、曲线半径、桥梁跨径等。",
+    "core_explanation": "参数是模型变化的驱动源。",
+    "plain_explanation": "参数是模型变化的驱动源。",
+    "engineering_meaning": "用于控制模型尺寸、属性和设计条件。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数Parameter”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数Parameter应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数Parameter",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数Parameter是什么？",
+      "参数Parameter有什么作用？",
+      "如何理解参数Parameter？",
+      "参数Parameter在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数Parameter。定义：参数是设计输入变量，如设计速度、曲线半径、桥梁跨径等。 核心解释：参数是模型变化的驱动源。 工程意义：用于控制模型尺寸、属性和设计条件。 关键词：参数Parameter;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数是设计输入变量，如设计速度、曲线半径、桥梁跨径等。",
+      "参数是模型变化的驱动源。",
+      "参数是模型变化的驱动源。",
+      "用于控制模型尺寸、属性和设计条件。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_075",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "规则Rule",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "规则表达参数之间及参数与构件之间的关系逻辑。",
+    "core_explanation": "规则可体现为几何公式、条件语句、拓扑约束或规范要求。",
+    "plain_explanation": "规则可体现为几何公式、条件语句、拓扑约束或规范要求。",
+    "engineering_meaning": "用于保证模型变化符合工程逻辑。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“规则Rule”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "规则Rule应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "规则Rule",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "规则Rule是什么？",
+      "规则Rule有什么作用？",
+      "如何理解规则Rule？",
+      "规则Rule在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "规则Rule。定义：规则表达参数之间及参数与构件之间的关系逻辑。 核心解释：规则可体现为几何公式、条件语句、拓扑约束或规范要求。 工程意义：用于保证模型变化符合工程逻辑。 关键词：规则Rule;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "规则表达参数之间及参数与构件之间的关系逻辑。",
+      "规则可体现为几何公式、条件语句、拓扑约束或规范要求。",
+      "规则可体现为几何公式、条件语句、拓扑约束或规范要求。",
+      "用于保证模型变化符合工程逻辑。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_076",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "结果Result",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "结果是依据参数和规则自动生成的几何形态、属性信息和性能输出。",
+    "core_explanation": "结果可以是模型构件、图纸、工程量或分析指标。",
+    "plain_explanation": "结果可以是模型构件、图纸、工程量或分析指标。",
+    "engineering_meaning": "用于形成自动派生成果。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“结果Result”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "结果Result应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "结果Result",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "结果Result是什么？",
+      "结果Result有什么作用？",
+      "如何理解结果Result？",
+      "结果Result在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "结果Result。定义：结果是依据参数和规则自动生成的几何形态、属性信息和性能输出。 核心解释：结果可以是模型构件、图纸、工程量或分析指标。 工程意义：用于形成自动派生成果。 关键词：结果Result;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "结果是依据参数和规则自动生成的几何形态、属性信息和性能输出。",
+      "结果可以是模型构件、图纸、工程量或分析指标。",
+      "结果可以是模型构件、图纸、工程量或分析指标。",
+      "用于形成自动派生成果。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_077",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "几何关系规则",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "几何关系规则描述构件之间的空间约束，如平行、相切、垂直。",
+    "core_explanation": "它确保模型几何连续、空间关系正确。",
+    "plain_explanation": "它确保模型几何连续、空间关系正确。",
+    "engineering_meaning": "用于平面线形相切、横断面构件布置等。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“几何关系规则”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "几何关系规则应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "几何关系规则",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "几何关系规则是什么？",
+      "几何关系规则有什么作用？",
+      "如何理解几何关系规则？",
+      "几何关系规则在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "几何关系规则。定义：几何关系规则描述构件之间的空间约束，如平行、相切、垂直。 核心解释：它确保模型几何连续、空间关系正确。 工程意义：用于平面线形相切、横断面构件布置等。 关键词：几何关系规则;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "几何关系规则描述构件之间的空间约束，如平行、相切、垂直。",
+      "它确保模型几何连续、空间关系正确。",
+      "它确保模型几何连续、空间关系正确。",
+      "用于平面线形相切、横断面构件布置等。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_078",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "拓扑关系规则",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "拓扑关系规则定义构件之间的附属与连接逻辑。",
+    "core_explanation": "它表达构造层次、依附关系和空间连接。",
+    "plain_explanation": "它表达构造层次、依附关系和空间连接。",
+    "engineering_meaning": "用于桥梁构件、道路层次和排水系统关系表达。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“拓扑关系规则”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "拓扑关系规则应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "拓扑关系规则",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "拓扑关系规则是什么？",
+      "拓扑关系规则有什么作用？",
+      "如何理解拓扑关系规则？",
+      "拓扑关系规则在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "拓扑关系规则。定义：拓扑关系规则定义构件之间的附属与连接逻辑。 核心解释：它表达构造层次、依附关系和空间连接。 工程意义：用于桥梁构件、道路层次和排水系统关系表达。 关键词：拓扑关系规则;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "拓扑关系规则定义构件之间的附属与连接逻辑。",
+      "它表达构造层次、依附关系和空间连接。",
+      "它表达构造层次、依附关系和空间连接。",
+      "用于桥梁构件、道路层次和排水系统关系表达。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_079",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "方程关系规则",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "方程关系规则用数学公式表达参数之间的计算依赖。",
+    "core_explanation": "它把几何、工程量和结构参数转化为可计算约束。",
+    "plain_explanation": "它把几何、工程量和结构参数转化为可计算约束。",
+    "engineering_meaning": "用于曲线要素、坡长、工程量等计算联动。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“方程关系规则”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "方程关系规则应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "方程关系规则",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "方程关系规则是什么？",
+      "方程关系规则有什么作用？",
+      "如何理解方程关系规则？",
+      "方程关系规则在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "方程关系规则。定义：方程关系规则用数学公式表达参数之间的计算依赖。 核心解释：它把几何、工程量和结构参数转化为可计算约束。 工程意义：用于曲线要素、坡长、工程量等计算联动。 关键词：方程关系规则;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "方程关系规则用数学公式表达参数之间的计算依赖。",
+      "它把几何、工程量和结构参数转化为可计算约束。",
+      "它把几何、工程量和结构参数转化为可计算约束。",
+      "用于曲线要素、坡长、工程量等计算联动。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_080",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "条件逻辑规则",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "条件逻辑规则使用if-then-else控制不同情境下的参数行为。",
+    "core_explanation": "它使模型能够根据设计条件自动选择公式或构件形式。",
+    "plain_explanation": "它使模型能够根据设计条件自动选择公式或构件形式。",
+    "engineering_meaning": "用于超高、边坡、支护类型等规则控制。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“条件逻辑规则”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "条件逻辑规则应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "条件逻辑规则",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "条件逻辑规则是什么？",
+      "条件逻辑规则有什么作用？",
+      "如何理解条件逻辑规则？",
+      "条件逻辑规则在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "条件逻辑规则。定义：条件逻辑规则使用if-then-else控制不同情境下的参数行为。 核心解释：它使模型能够根据设计条件自动选择公式或构件形式。 工程意义：用于超高、边坡、支护类型等规则控制。 关键词：条件逻辑规则;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "条件逻辑规则使用if-then-else控制不同情境下的参数行为。",
+      "它使模型能够根据设计条件自动选择公式或构件形式。",
+      "它使模型能够根据设计条件自动选择公式或构件形式。",
+      "用于超高、边坡、支护类型等规则控制。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_081",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "冲突检测机制",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数模型可识别几何、材料或规范条件中的不一致并触发警告或调整。",
+    "core_explanation": "冲突检测降低设计问题滞后发现带来的返工成本。",
+    "plain_explanation": "冲突检测降低设计问题滞后发现带来的返工成本。",
+    "engineering_meaning": "用于横断面构件重叠、净空不足等检查。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“冲突检测机制”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "冲突检测机制应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "冲突检测机制",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "冲突检测机制是什么？",
+      "冲突检测机制有什么作用？",
+      "如何理解冲突检测机制？",
+      "冲突检测机制在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "冲突检测机制。定义：参数模型可识别几何、材料或规范条件中的不一致并触发警告或调整。 核心解释：冲突检测降低设计问题滞后发现带来的返工成本。 工程意义：用于横断面构件重叠、净空不足等检查。 关键词：冲突检测机制;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数模型可识别几何、材料或规范条件中的不一致并触发警告或调整。",
+      "冲突检测降低设计问题滞后发现带来的返工成本。",
+      "冲突检测降低设计问题滞后发现带来的返工成本。",
+      "用于横断面构件重叠、净空不足等检查。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_082",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数模型可变性",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数模型可通过修改驱动参数快速生成多种模型变体。",
+    "core_explanation": "可变性支持方案比选和灵活探索。",
+    "plain_explanation": "可变性支持方案比选和灵活探索。",
+    "engineering_meaning": "用于边坡坡率、曲线半径、构件尺寸调整。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数模型可变性”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数模型可变性应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数模型可变性",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数模型可变性是什么？",
+      "参数模型可变性有什么作用？",
+      "如何理解参数模型可变性？",
+      "参数模型可变性在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数模型可变性。定义：参数模型可通过修改驱动参数快速生成多种模型变体。 核心解释：可变性支持方案比选和灵活探索。 工程意义：用于边坡坡率、曲线半径、构件尺寸调整。 关键词：参数模型可变性;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数模型可通过修改驱动参数快速生成多种模型变体。",
+      "可变性支持方案比选和灵活探索。",
+      "可变性支持方案比选和灵活探索。",
+      "用于边坡坡率、曲线半径、构件尺寸调整。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_083",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数模型关联性",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "模型内元素之间存在父子关系、横向依赖或条件约束。",
+    "core_explanation": "一个参数变化会带动相关构件与属性同步响应。",
+    "plain_explanation": "一个参数变化会带动相关构件与属性同步响应。",
+    "engineering_meaning": "用于保证设计全局一致。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数模型关联性”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数模型关联性应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数模型关联性",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数模型关联性是什么？",
+      "参数模型关联性有什么作用？",
+      "如何理解参数模型关联性？",
+      "参数模型关联性在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数模型关联性。定义：模型内元素之间存在父子关系、横向依赖或条件约束。 核心解释：一个参数变化会带动相关构件与属性同步响应。 工程意义：用于保证设计全局一致。 关键词：参数模型关联性;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "模型内元素之间存在父子关系、横向依赖或条件约束。",
+      "一个参数变化会带动相关构件与属性同步响应。",
+      "一个参数变化会带动相关构件与属性同步响应。",
+      "用于保证设计全局一致。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_084",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数模型自动性",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数和规则建立后，模型生成、修改和更新可由系统自动完成。",
+    "core_explanation": "自动性减少重复操作和人工干预。",
+    "plain_explanation": "自动性减少重复操作和人工干预。",
+    "engineering_meaning": "用于批量生成构件和更新成果。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数模型自动性”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数模型自动性应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数模型自动性",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数模型自动性是什么？",
+      "参数模型自动性有什么作用？",
+      "如何理解参数模型自动性？",
+      "参数模型自动性在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数模型自动性。定义：参数和规则建立后，模型生成、修改和更新可由系统自动完成。 核心解释：自动性减少重复操作和人工干预。 工程意义：用于批量生成构件和更新成果。 关键词：参数模型自动性;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数和规则建立后，模型生成、修改和更新可由系统自动完成。",
+      "自动性减少重复操作和人工干预。",
+      "自动性减少重复操作和人工干预。",
+      "用于批量生成构件和更新成果。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_085",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "直接赋值控制",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "直接赋值是为参数输入具体数值的基础控制方式。",
+    "core_explanation": "如将车道宽度设定为3.75米。",
+    "plain_explanation": "如将车道宽度设定为3.75米。",
+    "engineering_meaning": "用于简单参数设置。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“直接赋值控制”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "直接赋值控制应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "直接赋值控制",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "直接赋值控制是什么？",
+      "直接赋值控制有什么作用？",
+      "如何理解直接赋值控制？",
+      "直接赋值控制在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "直接赋值控制。定义：直接赋值是为参数输入具体数值的基础控制方式。 核心解释：如将车道宽度设定为3.75米。 工程意义：用于简单参数设置。 关键词：直接赋值控制;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "直接赋值是为参数输入具体数值的基础控制方式。",
+      "如将车道宽度设定为3.75米。",
+      "如将车道宽度设定为3.75米。",
+      "用于简单参数设置。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_086",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "表达式与公式控制",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "表达式与公式控制通过数学关系建立多个参数之间的量化联动。",
+    "core_explanation": "如坡长、竖曲线半径与直坡段长度之间的计算关系。",
+    "plain_explanation": "如坡长、竖曲线半径与直坡段长度之间的计算关系。",
+    "engineering_meaning": "用于复杂几何和工程量联动。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“表达式与公式控制”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "表达式与公式控制应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "表达式与公式控制",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "表达式与公式控制是什么？",
+      "表达式与公式控制有什么作用？",
+      "如何理解表达式与公式控制？",
+      "表达式与公式控制在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "表达式与公式控制。定义：表达式与公式控制通过数学关系建立多个参数之间的量化联动。 核心解释：如坡长、竖曲线半径与直坡段长度之间的计算关系。 工程意义：用于复杂几何和工程量联动。 关键词：表达式与公式控制;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "表达式与公式控制通过数学关系建立多个参数之间的量化联动。",
+      "如坡长、竖曲线半径与直坡段长度之间的计算关系。",
+      "如坡长、竖曲线半径与直坡段长度之间的计算关系。",
+      "用于复杂几何和工程量联动。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_087",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "模板化建模与族复用",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "模板化建模把常见构件封装为带参数和规则的构件族。",
+    "core_explanation": "项目中只需调整关键参数即可生成多种实例。",
+    "plain_explanation": "项目中只需调整关键参数即可生成多种实例。",
+    "engineering_meaning": "用于挡土墙、桥台、排水沟等标准构件复用。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“模板化建模与族复用”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "模板化建模与族复用应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "模板化建模与族复用",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "模板化建模与族复用是什么？",
+      "模板化建模与族复用有什么作用？",
+      "如何理解模板化建模与族复用？",
+      "模板化建模与族复用在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "模板化建模与族复用。定义：模板化建模把常见构件封装为带参数和规则的构件族。 核心解释：项目中只需调整关键参数即可生成多种实例。 工程意义：用于挡土墙、桥台、排水沟等标准构件复用。 关键词：模板化建模与族复用;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "模板化建模把常见构件封装为带参数和规则的构件族。",
+      "项目中只需调整关键参数即可生成多种实例。",
+      "项目中只需调整关键参数即可生成多种实例。",
+      "用于挡土墙、桥台、排水沟等标准构件复用。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_088",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "几何参数",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "几何参数直接控制构件尺寸、形状、位置和形态。",
+    "core_explanation": "如曲线半径、缓和曲线长度、纵坡度、超高值、边坡坡率等。",
+    "plain_explanation": "如曲线半径、缓和曲线长度、纵坡度、超高值、边坡坡率等。",
+    "engineering_meaning": "用于构建模型几何实体。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“几何参数”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "几何参数应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "几何参数",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "几何参数是什么？",
+      "几何参数有什么作用？",
+      "如何理解几何参数？",
+      "几何参数在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "几何参数。定义：几何参数直接控制构件尺寸、形状、位置和形态。 核心解释：如曲线半径、缓和曲线长度、纵坡度、超高值、边坡坡率等。 工程意义：用于构建模型几何实体。 关键词：几何参数;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "几何参数直接控制构件尺寸、形状、位置和形态。",
+      "如曲线半径、缓和曲线长度、纵坡度、超高值、边坡坡率等。",
+      "如曲线半径、缓和曲线长度、纵坡度、超高值、边坡坡率等。",
+      "用于构建模型几何实体。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_089",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "非几何属性参数",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "非几何属性参数描述功能、材料、性能、管理、成本和施工信息。",
+    "core_explanation": "它不直接决定几何，但对分析、施工和运维至关重要。",
+    "plain_explanation": "它不直接决定几何，但对分析、施工和运维至关重要。",
+    "engineering_meaning": "用于材料管理、成本估算、施工组织和运维。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“非几何属性参数”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "非几何属性参数应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "非几何属性参数",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "非几何属性参数是什么？",
+      "非几何属性参数有什么作用？",
+      "如何理解非几何属性参数？",
+      "非几何属性参数在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "非几何属性参数。定义：非几何属性参数描述功能、材料、性能、管理、成本和施工信息。 核心解释：它不直接决定几何，但对分析、施工和运维至关重要。 工程意义：用于材料管理、成本估算、施工组织和运维。 关键词：非几何属性参数;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "非几何属性参数描述功能、材料、性能、管理、成本和施工信息。",
+      "它不直接决定几何，但对分析、施工和运维至关重要。",
+      "它不直接决定几何，但对分析、施工和运维至关重要。",
+      "用于材料管理、成本估算、施工组织和运维。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_090",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "约束参数",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "约束参数定义设计边界条件和规范限制。",
+    "core_explanation": "如最小曲线半径、最大纵坡、征地红线、噪声控制和投资限额。",
+    "plain_explanation": "如最小曲线半径、最大纵坡、征地红线、噪声控制和投资限额。",
+    "engineering_meaning": "用于控制方案合法性、安全性和经济性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“约束参数”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "约束参数应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "约束参数",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "约束参数是什么？",
+      "约束参数有什么作用？",
+      "如何理解约束参数？",
+      "约束参数在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "约束参数。定义：约束参数定义设计边界条件和规范限制。 核心解释：如最小曲线半径、最大纵坡、征地红线、噪声控制和投资限额。 工程意义：用于控制方案合法性、安全性和经济性。 关键词：约束参数;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "约束参数定义设计边界条件和规范限制。",
+      "如最小曲线半径、最大纵坡、征地红线、噪声控制和投资限额。",
+      "如最小曲线半径、最大纵坡、征地红线、噪声控制和投资限额。",
+      "用于控制方案合法性、安全性和经济性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_091",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数驱动方案优化",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数化工具通过调整关键参数自动重构模型并更新指标。",
+    "core_explanation": "支持假设分析、参数模板和设计空间探索。",
+    "plain_explanation": "支持假设分析、参数模板和设计空间探索。",
+    "engineering_meaning": "用于路线优化、结构尺寸比选和土方量控制。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数驱动方案优化”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数驱动方案优化应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数驱动方案优化",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数驱动方案优化是什么？",
+      "参数驱动方案优化有什么作用？",
+      "如何理解参数驱动方案优化？",
+      "参数驱动方案优化在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数驱动方案优化。定义：参数化工具通过调整关键参数自动重构模型并更新指标。 核心解释：支持假设分析、参数模板和设计空间探索。 工程意义：用于路线优化、结构尺寸比选和土方量控制。 关键词：参数驱动方案优化;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数化工具通过调整关键参数自动重构模型并更新指标。",
+      "支持假设分析、参数模板和设计空间探索。",
+      "支持假设分析、参数模板和设计空间探索。",
+      "用于路线优化、结构尺寸比选和土方量控制。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_092",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "参数化工程量提取",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件尺寸、材料和位置参数可直接驱动工程量计算。",
+    "core_explanation": "几何或属性变化将自动联动清单和统计结果。",
+    "plain_explanation": "几何或属性变化将自动联动清单和统计结果。",
+    "engineering_meaning": "用于提高数量提取准确性和实时性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“参数化工程量提取”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "参数化工程量提取应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "参数化工程量提取",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "参数化工程量提取是什么？",
+      "参数化工程量提取有什么作用？",
+      "如何理解参数化工程量提取？",
+      "参数化工程量提取在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "参数化工程量提取。定义：构件尺寸、材料和位置参数可直接驱动工程量计算。 核心解释：几何或属性变化将自动联动清单和统计结果。 工程意义：用于提高数量提取准确性和实时性。 关键词：参数化工程量提取;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "构件尺寸、材料和位置参数可直接驱动工程量计算。",
+      "几何或属性变化将自动联动清单和统计结果。",
+      "几何或属性变化将自动联动清单和统计结果。",
+      "用于提高数量提取准确性和实时性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_093",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "实时成本反馈",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "工程量参数与单价库联动可在设计阶段即时估算造价。",
+    "core_explanation": "成本反馈帮助设计者进行经济性比较。",
+    "plain_explanation": "成本反馈帮助设计者进行经济性比较。",
+    "engineering_meaning": "用于5D设计和方案经济性评价。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“实时成本反馈”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "实时成本反馈应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "实时成本反馈",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "实时成本反馈是什么？",
+      "实时成本反馈有什么作用？",
+      "如何理解实时成本反馈？",
+      "实时成本反馈在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "实时成本反馈。定义：工程量参数与单价库联动可在设计阶段即时估算造价。 核心解释：成本反馈帮助设计者进行经济性比较。 工程意义：用于5D设计和方案经济性评价。 关键词：实时成本反馈;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "工程量参数与单价库联动可在设计阶段即时估算造价。",
+      "成本反馈帮助设计者进行经济性比较。",
+      "成本反馈帮助设计者进行经济性比较。",
+      "用于5D设计和方案经济性评价。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_094",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "4D/5D施工模拟",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件时间、资源和成本参数与进度计划绑定后形成施工过程仿真。",
+    "core_explanation": "它使模型从设计表达扩展到施工组织管理。",
+    "plain_explanation": "它使模型从设计表达扩展到施工组织管理。",
+    "engineering_meaning": "用于工期、设备和成本优化。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“4D/5D施工模拟”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "4D/5D施工模拟应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "4D/5D施工模拟",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "4D/5D施工模拟是什么？",
+      "4D/5D施工模拟有什么作用？",
+      "如何理解4D/5D施工模拟？",
+      "4D/5D施工模拟在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "4D/5D施工模拟。定义：构件时间、资源和成本参数与进度计划绑定后形成施工过程仿真。 核心解释：它使模型从设计表达扩展到施工组织管理。 工程意义：用于工期、设备和成本优化。 关键词：4D/5D施工模拟;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "构件时间、资源和成本参数与进度计划绑定后形成施工过程仿真。",
+      "它使模型从设计表达扩展到施工组织管理。",
+      "它使模型从设计表达扩展到施工组织管理。",
+      "用于工期、设备和成本优化。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_095",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "构件间参数联动",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件间参数联动通过显性关系保证相关构件自动响应。",
+    "core_explanation": "当一个构件参数变化时，依赖图中的相关对象随之更新。",
+    "plain_explanation": "当一个构件参数变化时，依赖图中的相关对象随之更新。",
+    "engineering_meaning": "用于路线调整引发路基、路面、边沟和护栏同步更新。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件间参数联动”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件间参数联动应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件间参数联动",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "构件间参数联动是什么？",
+      "构件间参数联动有什么作用？",
+      "如何理解构件间参数联动？",
+      "构件间参数联动在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "构件间参数联动。定义：构件间参数联动通过显性关系保证相关构件自动响应。 核心解释：当一个构件参数变化时，依赖图中的相关对象随之更新。 工程意义：用于路线调整引发路基、路面、边沟和护栏同步更新。 关键词：构件间参数联动;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "构件间参数联动通过显性关系保证相关构件自动响应。",
+      "当一个构件参数变化时，依赖图中的相关对象随之更新。",
+      "当一个构件参数变化时，依赖图中的相关对象随之更新。",
+      "用于路线调整引发路基、路面、边沟和护栏同步更新。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_096",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "有向图依赖关系",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "参数化对象可被视为有向图，节点代表对象或操作，链接表示依赖或约束。",
+    "core_explanation": "解析器沿依赖关系传播参数变化并重新计算受影响对象。",
+    "plain_explanation": "解析器沿依赖关系传播参数变化并重新计算受影响对象。",
+    "engineering_meaning": "用于描述参数联动的计算机制。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“有向图依赖关系”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "有向图依赖关系应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "有向图依赖关系",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "有向图依赖关系是什么？",
+      "有向图依赖关系有什么作用？",
+      "如何理解有向图依赖关系？",
+      "有向图依赖关系在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "有向图依赖关系。定义：参数化对象可被视为有向图，节点代表对象或操作，链接表示依赖或约束。 核心解释：解析器沿依赖关系传播参数变化并重新计算受影响对象。 工程意义：用于描述参数联动的计算机制。 关键词：有向图依赖关系;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "参数化对象可被视为有向图，节点代表对象或操作，链接表示依赖或约束。",
+      "解析器沿依赖关系传播参数变化并重新计算受影响对象。",
+      "解析器沿依赖关系传播参数变化并重新计算受影响对象。",
+      "用于描述参数联动的计算机制。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_097",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "属性继承链式效应",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "非几何属性可在项目、设施、子设施和构件之间继承与传递。",
+    "core_explanation": "项目荷载等级、材料库成本等信息可自动传递给相关构件。",
+    "plain_explanation": "项目荷载等级、材料库成本等信息可自动传递给相关构件。",
+    "engineering_meaning": "用于避免重复输入并保持信息一致。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“属性继承链式效应”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "属性继承链式效应应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "属性继承链式效应",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "属性继承链式效应是什么？",
+      "属性继承链式效应有什么作用？",
+      "如何理解属性继承链式效应？",
+      "属性继承链式效应在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "属性继承链式效应。定义：非几何属性可在项目、设施、子设施和构件之间继承与传递。 核心解释：项目荷载等级、材料库成本等信息可自动传递给相关构件。 工程意义：用于避免重复输入并保持信息一致。 关键词：属性继承链式效应;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "非几何属性可在项目、设施、子设施和构件之间继承与传递。",
+      "项目荷载等级、材料库成本等信息可自动传递给相关构件。",
+      "项目荷载等级、材料库成本等信息可自动传递给相关构件。",
+      "用于避免重复输入并保持信息一致。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_098",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "路线控制参数驱动模式",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "路线作为主控骨架，其几何参数和约束条件决定工程实体空间基准。",
+    "core_explanation": "沿桩号应用横断面模板可生成连续三维道路廊道模型。",
+    "plain_explanation": "沿桩号应用横断面模板可生成连续三维道路廊道模型。",
+    "engineering_meaning": "用于道路BIM廊道建模。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“路线控制参数驱动模式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "路线控制参数驱动模式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "路线控制参数驱动模式",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "路线控制参数驱动模式是什么？",
+      "路线控制参数驱动模式有什么作用？",
+      "如何理解路线控制参数驱动模式？",
+      "路线控制参数驱动模式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "路线控制参数驱动模式。定义：路线作为主控骨架，其几何参数和约束条件决定工程实体空间基准。 核心解释：沿桩号应用横断面模板可生成连续三维道路廊道模型。 工程意义：用于道路BIM廊道建模。 关键词：路线控制参数驱动模式;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "路线作为主控骨架，其几何参数和约束条件决定工程实体空间基准。",
+      "沿桩号应用横断面模板可生成连续三维道路廊道模型。",
+      "沿桩号应用横断面模板可生成连续三维道路廊道模型。",
+      "用于道路BIM廊道建模。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_099",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "构件族标准化复用模式",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "针对典型构件建立参数化族库，实现复用和快速实例化。",
+    "core_explanation": "构件族包含几何、材料、功能和布设规则。",
+    "plain_explanation": "构件族包含几何、材料、功能和布设规则。",
+    "engineering_meaning": "用于标准构件库建设。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件族标准化复用模式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件族标准化复用模式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件族标准化复用模式",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "构件族标准化复用模式是什么？",
+      "构件族标准化复用模式有什么作用？",
+      "如何理解构件族标准化复用模式？",
+      "构件族标准化复用模式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "构件族标准化复用模式。定义：针对典型构件建立参数化族库，实现复用和快速实例化。 核心解释：构件族包含几何、材料、功能和布设规则。 工程意义：用于标准构件库建设。 关键词：构件族标准化复用模式;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "针对典型构件建立参数化族库，实现复用和快速实例化。",
+      "构件族包含几何、材料、功能和布设规则。",
+      "构件族包含几何、材料、功能和布设规则。",
+      "用于标准构件库建设。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_100",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "构造物规则驱动建模",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "桥梁、涵洞、隧道等构造物可通过规则和参数实现复杂结构一体化生成。",
+    "core_explanation": "路线调整可联动构造物位置、高程和结构参数。",
+    "plain_explanation": "路线调整可联动构造物位置、高程和结构参数。",
+    "engineering_meaning": "用于桥隧涵等复杂对象建模。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构造物规则驱动建模”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构造物规则驱动建模应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构造物规则驱动建模",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "构造物规则驱动建模是什么？",
+      "构造物规则驱动建模有什么作用？",
+      "如何理解构造物规则驱动建模？",
+      "构造物规则驱动建模在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "构造物规则驱动建模。定义：桥梁、涵洞、隧道等构造物可通过规则和参数实现复杂结构一体化生成。 核心解释：路线调整可联动构造物位置、高程和结构参数。 工程意义：用于桥隧涵等复杂对象建模。 关键词：构造物规则驱动建模;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "桥梁、涵洞、隧道等构造物可通过规则和参数实现复杂结构一体化生成。",
+      "路线调整可联动构造物位置、高程和结构参数。",
+      "路线调整可联动构造物位置、高程和结构参数。",
+      "用于桥隧涵等复杂对象建模。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_101",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "What-If分析",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "What-If分析通过调整设计假设观察模型和指标的即时响应。",
+    "core_explanation": "可快速判断避让、线位调整或参数变更的工程影响。",
+    "plain_explanation": "可快速判断避让、线位调整或参数变更的工程影响。",
+    "engineering_meaning": "用于多方案比选和设计决策。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“What-If分析”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "What-If分析应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "What-If分析",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "What-If分析是什么？",
+      "What-If分析有什么作用？",
+      "如何理解What-If分析？",
+      "What-If分析在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "What-If分析。定义：What-If分析通过调整设计假设观察模型和指标的即时响应。 核心解释：可快速判断避让、线位调整或参数变更的工程影响。 工程意义：用于多方案比选和设计决策。 关键词：What-If分析;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "What-If分析通过调整设计假设观察模型和指标的即时响应。",
+      "可快速判断避让、线位调整或参数变更的工程影响。",
+      "可快速判断避让、线位调整或参数变更的工程影响。",
+      "用于多方案比选和设计决策。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_102",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "算法化审计",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "算法化审计把规范转化为规则，自动检查模型缺陷。",
+    "core_explanation": "系统可识别视距不足、净空超限等问题。",
+    "plain_explanation": "系统可识别视距不足、净空超限等问题。",
+    "engineering_meaning": "用于提高设计审核效率。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“算法化审计”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "算法化审计应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "算法化审计",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "算法化审计是什么？",
+      "算法化审计有什么作用？",
+      "如何理解算法化审计？",
+      "算法化审计在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "算法化审计。定义：算法化审计把规范转化为规则，自动检查模型缺陷。 核心解释：系统可识别视距不足、净空超限等问题。 工程意义：用于提高设计审核效率。 关键词：算法化审计;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "算法化审计把规范转化为规则，自动检查模型缺陷。",
+      "系统可识别视距不足、净空超限等问题。",
+      "系统可识别视距不足、净空超限等问题。",
+      "用于提高设计审核效率。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_103",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec04",
+    "title": "生成式性能寻优",
+    "knowledge_type": "concept/process/formula",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "生成式性能寻优利用优化算法在设计空间中生成、评估和推荐方案。",
+    "core_explanation": "它将参数化建模推向智能决策。",
+    "plain_explanation": "它将参数化建模推向智能决策。",
+    "engineering_meaning": "用于路线方案、纵断面和结构方案优化。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“生成式性能寻优”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "生成式性能寻优应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "生成式性能寻优",
+      "参数化",
+      "PRR"
+    ],
+    "student_question_patterns": [
+      "生成式性能寻优是什么？",
+      "生成式性能寻优有什么作用？",
+      "如何理解生成式性能寻优？",
+      "生成式性能寻优在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "生成式性能寻优。定义：生成式性能寻优利用优化算法在设计空间中生成、评估和推荐方案。 核心解释：它将参数化建模推向智能决策。 工程意义：用于路线方案、纵断面和结构方案优化。 关键词：生成式性能寻优;参数化;PRR",
+    "status": "checked",
+    "key_points": [
+      "生成式性能寻优利用优化算法在设计空间中生成、评估和推荐方案。",
+      "它将参数化建模推向智能决策。",
+      "它将参数化建模推向智能决策。",
+      "用于路线方案、纵断面和结构方案优化。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_104",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "BIM设计成果体系",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM正向设计成果由信息模型成果和文档成果共同构成。",
+    "core_explanation": "模型是核心载体，图纸、工程量、进度、成本等成果由模型派生。",
+    "plain_explanation": "模型是核心载体，图纸、工程量、进度、成本等成果由模型派生。",
+    "engineering_meaning": "用于建立标准化交付体系。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“BIM设计成果体系”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "BIM设计成果体系应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "BIM设计成果体系",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "BIM设计成果体系是什么？",
+      "BIM设计成果体系有什么作用？",
+      "如何理解BIM设计成果体系？",
+      "BIM设计成果体系在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "BIM设计成果体系。定义：BIM正向设计成果由信息模型成果和文档成果共同构成。 核心解释：模型是核心载体，图纸、工程量、进度、成本等成果由模型派生。 工程意义：用于建立标准化交付体系。 关键词：BIM设计成果体系;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "BIM正向设计成果由信息模型成果和文档成果共同构成。",
+      "模型是核心载体，图纸、工程量、进度、成本等成果由模型派生。",
+      "模型是核心载体，图纸、工程量、进度、成本等成果由模型派生。",
+      "用于建立标准化交付体系。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_105",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "信息模型成果",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "信息模型成果是BIM正向设计主体成果，具备可视化、可分析、可追溯和可交付特性。",
+    "core_explanation": "其表达形式包括构件模型、派生图纸和结构化数据。",
+    "plain_explanation": "其表达形式包括构件模型、派生图纸和结构化数据。",
+    "engineering_meaning": "用于支撑施工、造价、运维和系统集成。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“信息模型成果”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "信息模型成果应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "信息模型成果",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "信息模型成果是什么？",
+      "信息模型成果有什么作用？",
+      "如何理解信息模型成果？",
+      "信息模型成果在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "信息模型成果。定义：信息模型成果是BIM正向设计主体成果，具备可视化、可分析、可追溯和可交付特性。 核心解释：其表达形式包括构件模型、派生图纸和结构化数据。 工程意义：用于支撑施工、造价、运维和系统集成。 关键词：信息模型成果;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "信息模型成果是BIM正向设计主体成果，具备可视化、可分析、可追溯和可交付特性。",
+      "其表达形式包括构件模型、派生图纸和结构化数据。",
+      "其表达形式包括构件模型、派生图纸和结构化数据。",
+      "用于支撑施工、造价、运维和系统集成。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_106",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "构件模型成果",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件模型以设施—子设施—构件三级架构组织，是BIM成果的核心组成。",
+    "core_explanation": "每个构件同时具有几何、语义和属性信息。",
+    "plain_explanation": "每个构件同时具有几何、语义和属性信息。",
+    "engineering_meaning": "用于表达数字工程实体。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“构件模型成果”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "构件模型成果应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "构件模型成果",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "构件模型成果是什么？",
+      "构件模型成果有什么作用？",
+      "如何理解构件模型成果？",
+      "构件模型成果在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "构件模型成果。定义：构件模型以设施—子设施—构件三级架构组织，是BIM成果的核心组成。 核心解释：每个构件同时具有几何、语义和属性信息。 工程意义：用于表达数字工程实体。 关键词：构件模型成果;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "构件模型以设施—子设施—构件三级架构组织，是BIM成果的核心组成。",
+      "每个构件同时具有几何、语义和属性信息。",
+      "每个构件同时具有几何、语义和属性信息。",
+      "用于表达数字工程实体。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_107",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "图纸成果",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "图纸成果是模型视图的二维法定表达。",
+    "core_explanation": "正向设计中的平面图、纵断面图、横断面图和构造详图均由模型派生。",
+    "plain_explanation": "正向设计中的平面图、纵断面图、横断面图和构造详图均由模型派生。",
+    "engineering_meaning": "用于审查、施工和归档。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“图纸成果”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "图纸成果应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "图纸成果",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "图纸成果是什么？",
+      "图纸成果有什么作用？",
+      "如何理解图纸成果？",
+      "图纸成果在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "图纸成果。定义：图纸成果是模型视图的二维法定表达。 核心解释：正向设计中的平面图、纵断面图、横断面图和构造详图均由模型派生。 工程意义：用于审查、施工和归档。 关键词：图纸成果;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "图纸成果是模型视图的二维法定表达。",
+      "正向设计中的平面图、纵断面图、横断面图和构造详图均由模型派生。",
+      "正向设计中的平面图、纵断面图、横断面图和构造详图均由模型派生。",
+      "用于审查、施工和归档。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_108",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "数据成果",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "数据成果是模型自动生成的结构化信息输出。",
+    "core_explanation": "包括工程量清单、构件属性表、坐标表、成本估算表和GIS接口等。",
+    "plain_explanation": "包括工程量清单、构件属性表、坐标表、成本估算表和GIS接口等。",
+    "engineering_meaning": "用于招投标、造价、施工计划和资产管理。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“数据成果”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "数据成果应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "数据成果",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "数据成果是什么？",
+      "数据成果有什么作用？",
+      "如何理解数据成果？",
+      "数据成果在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "数据成果。定义：数据成果是模型自动生成的结构化信息输出。 核心解释：包括工程量清单、构件属性表、坐标表、成本估算表和GIS接口等。 工程意义：用于招投标、造价、施工计划和资产管理。 关键词：数据成果;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "数据成果是模型自动生成的结构化信息输出。",
+      "包括工程量清单、构件属性表、坐标表、成本估算表和GIS接口等。",
+      "包括工程量清单、构件属性表、坐标表、成本估算表和GIS接口等。",
+      "用于招投标、造价、施工计划和资产管理。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_109",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "文档成果",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "文档成果是信息模型成果的配套说明与管理文件。",
+    "core_explanation": "包括交付物清单、BEP、模型说明书、分析报告和可视化资料。",
+    "plain_explanation": "包括交付物清单、BEP、模型说明书、分析报告和可视化资料。",
+    "engineering_meaning": "用于成果理解、复核、审查和归档。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“文档成果”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "文档成果应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "文档成果",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "文档成果是什么？",
+      "文档成果有什么作用？",
+      "如何理解文档成果？",
+      "文档成果在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "文档成果。定义：文档成果是信息模型成果的配套说明与管理文件。 核心解释：包括交付物清单、BEP、模型说明书、分析报告和可视化资料。 工程意义：用于成果理解、复核、审查和归档。 关键词：文档成果;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "文档成果是信息模型成果的配套说明与管理文件。",
+      "包括交付物清单、BEP、模型说明书、分析报告和可视化资料。",
+      "包括交付物清单、BEP、模型说明书、分析报告和可视化资料。",
+      "用于成果理解、复核、审查和归档。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_110",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "交付物清单",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "交付物清单列明模型、图纸、数据和文件的名称、格式、版本和责任单位。",
+    "core_explanation": "它是交付验收的依据。",
+    "plain_explanation": "它是交付验收的依据。",
+    "engineering_meaning": "用于明确交付边界和责任。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“交付物清单”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "交付物清单应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "交付物清单",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "交付物清单是什么？",
+      "交付物清单有什么作用？",
+      "如何理解交付物清单？",
+      "交付物清单在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "交付物清单。定义：交付物清单列明模型、图纸、数据和文件的名称、格式、版本和责任单位。 核心解释：它是交付验收的依据。 工程意义：用于明确交付边界和责任。 关键词：交付物清单;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "交付物清单列明模型、图纸、数据和文件的名称、格式、版本和责任单位。",
+      "它是交付验收的依据。",
+      "它是交付验收的依据。",
+      "用于明确交付边界和责任。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_111",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "BIM执行计划BEP",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BEP规定建模范围、组织责任、软件平台、标准接口和命名规则。",
+    "core_explanation": "它是指导全过程BIM应用和交付准备的关键文件。",
+    "plain_explanation": "它是指导全过程BIM应用和交付准备的关键文件。",
+    "engineering_meaning": "用于统一项目BIM实施规则。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“BIM执行计划BEP”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "BIM执行计划BEP应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "BIM执行计划BEP",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "BIM执行计划BEP是什么？",
+      "BIM执行计划BEP有什么作用？",
+      "如何理解BIM执行计划BEP？",
+      "BIM执行计划BEP在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "BIM执行计划BEP。定义：BEP规定建模范围、组织责任、软件平台、标准接口和命名规则。 核心解释：它是指导全过程BIM应用和交付准备的关键文件。 工程意义：用于统一项目BIM实施规则。 关键词：BIM执行计划BEP;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "BEP规定建模范围、组织责任、软件平台、标准接口和命名规则。",
+      "它是指导全过程BIM应用和交付准备的关键文件。",
+      "它是指导全过程BIM应用和交付准备的关键文件。",
+      "用于统一项目BIM实施规则。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_112",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "模型说明书",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "模型说明书说明坐标系统、高程基准、构件分类、LOD/LOI和软件版本。",
+    "core_explanation": "它帮助接收方理解模型技术条件。",
+    "plain_explanation": "它帮助接收方理解模型技术条件。",
+    "engineering_meaning": "用于模型审查与归档。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“模型说明书”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "模型说明书应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "模型说明书",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "模型说明书是什么？",
+      "模型说明书有什么作用？",
+      "如何理解模型说明书？",
+      "模型说明书在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "模型说明书。定义：模型说明书说明坐标系统、高程基准、构件分类、LOD/LOI和软件版本。 核心解释：它帮助接收方理解模型技术条件。 工程意义：用于模型审查与归档。 关键词：模型说明书;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "模型说明书说明坐标系统、高程基准、构件分类、LOD/LOI和软件版本。",
+      "它帮助接收方理解模型技术条件。",
+      "它帮助接收方理解模型技术条件。",
+      "用于模型审查与归档。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_113",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "分析应用报告",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "分析应用报告展示碰撞检查、视距分析、施工模拟等模型应用成果。",
+    "core_explanation": "它说明模型如何支持设计优化和合规检查。",
+    "plain_explanation": "它说明模型如何支持设计优化和合规检查。",
+    "engineering_meaning": "用于审查和技术论证。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“分析应用报告”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "分析应用报告应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "分析应用报告",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "分析应用报告是什么？",
+      "分析应用报告有什么作用？",
+      "如何理解分析应用报告？",
+      "分析应用报告在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "分析应用报告。定义：分析应用报告展示碰撞检查、视距分析、施工模拟等模型应用成果。 核心解释：它说明模型如何支持设计优化和合规检查。 工程意义：用于审查和技术论证。 关键词：分析应用报告;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "分析应用报告展示碰撞检查、视距分析、施工模拟等模型应用成果。",
+      "它说明模型如何支持设计优化和合规检查。",
+      "它说明模型如何支持设计优化和合规检查。",
+      "用于审查和技术论证。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_114",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "可视化展示资料",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "可视化展示资料包括效果图、模拟动画和交互浏览链接。",
+    "core_explanation": "它服务方案汇报、公众参与和展示推广。",
+    "plain_explanation": "它服务方案汇报、公众参与和展示推广。",
+    "engineering_meaning": "用于增强沟通和展示效果。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“可视化展示资料”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "可视化展示资料应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "可视化展示资料",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "可视化展示资料是什么？",
+      "可视化展示资料有什么作用？",
+      "如何理解可视化展示资料？",
+      "可视化展示资料在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "可视化展示资料。定义：可视化展示资料包括效果图、模拟动画和交互浏览链接。 核心解释：它服务方案汇报、公众参与和展示推广。 工程意义：用于增强沟通和展示效果。 关键词：可视化展示资料;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "可视化展示资料包括效果图、模拟动画和交互浏览链接。",
+      "它服务方案汇报、公众参与和展示推广。",
+      "它服务方案汇报、公众参与和展示推广。",
+      "用于增强沟通和展示效果。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_115",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "图模一致",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "图模一致指图纸中的尺寸、标注和图框内容直接来源于模型参数。",
+    "core_explanation": "模型变更后派生图纸同步更新，避免图纸与模型不一致。",
+    "plain_explanation": "模型变更后派生图纸同步更新，避免图纸与模型不一致。",
+    "engineering_meaning": "用于保证成果可靠性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“图模一致”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "图模一致应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "图模一致",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "图模一致是什么？",
+      "图模一致有什么作用？",
+      "如何理解图模一致？",
+      "图模一致在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "图模一致。定义：图模一致指图纸中的尺寸、标注和图框内容直接来源于模型参数。 核心解释：模型变更后派生图纸同步更新，避免图纸与模型不一致。 工程意义：用于保证成果可靠性。 关键词：图模一致;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "图模一致指图纸中的尺寸、标注和图框内容直接来源于模型参数。",
+      "模型变更后派生图纸同步更新，避免图纸与模型不一致。",
+      "模型变更后派生图纸同步更新，避免图纸与模型不一致。",
+      "用于保证成果可靠性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_116",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "命名规则与编码体系",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "构件应具有唯一标识并遵循统一命名和分类编码。",
+    "core_explanation": "编码用于类别管理，命名用于具体对象追踪。",
+    "plain_explanation": "编码用于类别管理，命名用于具体对象追踪。",
+    "engineering_meaning": "用于成果管理、索引和系统集成。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“命名规则与编码体系”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "命名规则与编码体系应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "命名规则与编码体系",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "命名规则与编码体系是什么？",
+      "命名规则与编码体系有什么作用？",
+      "如何理解命名规则与编码体系？",
+      "命名规则与编码体系在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "命名规则与编码体系。定义：构件应具有唯一标识并遵循统一命名和分类编码。 核心解释：编码用于类别管理，命名用于具体对象追踪。 工程意义：用于成果管理、索引和系统集成。 关键词：命名规则与编码体系;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "构件应具有唯一标识并遵循统一命名和分类编码。",
+      "编码用于类别管理，命名用于具体对象追踪。",
+      "编码用于类别管理，命名用于具体对象追踪。",
+      "用于成果管理、索引和系统集成。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_117",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "LOD与LOI区分",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "LOD描述几何表达程度，LOI描述属性信息丰富度。",
+    "core_explanation": "二者共同决定模型在不同阶段的表达深度。",
+    "plain_explanation": "二者共同决定模型在不同阶段的表达深度。",
+    "engineering_meaning": "用于避免重几何轻信息或信息过载。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“LOD与LOI区分”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "LOD与LOI区分应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "LOD与LOI区分",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "LOD与LOI区分是什么？",
+      "LOD与LOI区分有什么作用？",
+      "如何理解LOD与LOI区分？",
+      "LOD与LOI区分在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "LOD与LOI区分。定义：LOD描述几何表达程度，LOI描述属性信息丰富度。 核心解释：二者共同决定模型在不同阶段的表达深度。 工程意义：用于避免重几何轻信息或信息过载。 关键词：LOD与LOI区分;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "LOD描述几何表达程度，LOI描述属性信息丰富度。",
+      "二者共同决定模型在不同阶段的表达深度。",
+      "二者共同决定模型在不同阶段的表达深度。",
+      "用于避免重几何轻信息或信息过载。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_118",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "LOD模型精细度",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "LOD用于描述构件几何表达程度，如L2.0初步设计、L3.0施工图模型。",
+    "core_explanation": "LOD强调模型形态和几何精度。",
+    "plain_explanation": "LOD强调模型形态和几何精度。",
+    "engineering_meaning": "用于阶段性模型表达要求控制。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“LOD模型精细度”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "LOD模型精细度应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "LOD模型精细度",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "LOD模型精细度是什么？",
+      "LOD模型精细度有什么作用？",
+      "如何理解LOD模型精细度？",
+      "LOD模型精细度在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "LOD模型精细度。定义：LOD用于描述构件几何表达程度，如L2.0初步设计、L3.0施工图模型。 核心解释：LOD强调模型形态和几何精度。 工程意义：用于阶段性模型表达要求控制。 关键词：LOD模型精细度;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "LOD用于描述构件几何表达程度，如L2.0初步设计、L3.0施工图模型。",
+      "LOD强调模型形态和几何精度。",
+      "LOD强调模型形态和几何精度。",
+      "用于阶段性模型表达要求控制。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_119",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "LOI信息深度",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "LOI用于描述构件属性信息的丰富度，如材料、单价、施工顺序等。",
+    "core_explanation": "LOI强调信息内容而非几何细节。",
+    "plain_explanation": "LOI强调信息内容而非几何细节。",
+    "engineering_meaning": "用于交付属性完整性控制。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“LOI信息深度”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "LOI信息深度应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "LOI信息深度",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "LOI信息深度是什么？",
+      "LOI信息深度有什么作用？",
+      "如何理解LOI信息深度？",
+      "LOI信息深度在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "LOI信息深度。定义：LOI用于描述构件属性信息的丰富度，如材料、单价、施工顺序等。 核心解释：LOI强调信息内容而非几何细节。 工程意义：用于交付属性完整性控制。 关键词：LOI信息深度;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "LOI用于描述构件属性信息的丰富度，如材料、单价、施工顺序等。",
+      "LOI强调信息内容而非几何细节。",
+      "LOI强调信息内容而非几何细节。",
+      "用于交付属性完整性控制。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_120",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "IFC开放格式",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "IFC是开放、中立的BIM数据交换标准。",
+    "core_explanation": "它把工程实体定义为标准类，并包含标准几何和属性信息。",
+    "plain_explanation": "它把工程实体定义为标准类，并包含标准几何和属性信息。",
+    "engineering_meaning": "用于跨软件交付和打破数据孤岛。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“IFC开放格式”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "IFC开放格式应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "IFC开放格式",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "IFC开放格式是什么？",
+      "IFC开放格式有什么作用？",
+      "如何理解IFC开放格式？",
+      "IFC开放格式在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "IFC开放格式。定义：IFC是开放、中立的BIM数据交换标准。 核心解释：它把工程实体定义为标准类，并包含标准几何和属性信息。 工程意义：用于跨软件交付和打破数据孤岛。 关键词：IFC开放格式;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "IFC是开放、中立的BIM数据交换标准。",
+      "它把工程实体定义为标准类，并包含标准几何和属性信息。",
+      "它把工程实体定义为标准类，并包含标准几何和属性信息。",
+      "用于跨软件交付和打破数据孤岛。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_121",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "IFC4x3",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "IFC4x3针对道路、桥梁、隧道等线性基础设施进行了扩展。",
+    "core_explanation": "它更能满足公路工程BIM交付需求。",
+    "plain_explanation": "它更能满足公路工程BIM交付需求。",
+    "engineering_meaning": "用于道路工程信息模型标准化交换。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“IFC4x3”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "IFC4x3应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "IFC4x3",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "IFC4x3是什么？",
+      "IFC4x3有什么作用？",
+      "如何理解IFC4x3？",
+      "IFC4x3在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "IFC4x3。定义：IFC4x3针对道路、桥梁、隧道等线性基础设施进行了扩展。 核心解释：它更能满足公路工程BIM交付需求。 工程意义：用于道路工程信息模型标准化交换。 关键词：IFC4x3;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "IFC4x3针对道路、桥梁、隧道等线性基础设施进行了扩展。",
+      "它更能满足公路工程BIM交付需求。",
+      "它更能满足公路工程BIM交付需求。",
+      "用于道路工程信息模型标准化交换。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_122",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "LandXML",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "LandXML常用于交换道路线形和地形数据。",
+    "core_explanation": "它适合路线、曲线和地形表面等土木工程数据传递。",
+    "plain_explanation": "它适合路线、曲线和地形表面等土木工程数据传递。",
+    "engineering_meaning": "用于道路BIM与专业软件数据交换。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“LandXML”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "LandXML应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "LandXML",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "LandXML是什么？",
+      "LandXML有什么作用？",
+      "如何理解LandXML？",
+      "LandXML在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "LandXML。定义：LandXML常用于交换道路线形和地形数据。 核心解释：它适合路线、曲线和地形表面等土木工程数据传递。 工程意义：用于道路BIM与专业软件数据交换。 关键词：LandXML;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "LandXML常用于交换道路线形和地形数据。",
+      "它适合路线、曲线和地形表面等土木工程数据传递。",
+      "它适合路线、曲线和地形表面等土木工程数据传递。",
+      "用于道路BIM与专业软件数据交换。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_123",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "CityGML",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "CityGML更适用于与三维城市GIS平台对接。",
+    "core_explanation": "它支持城市尺度空间对象和GIS场景表达。",
+    "plain_explanation": "它支持城市尺度空间对象和GIS场景表达。",
+    "engineering_meaning": "用于BIM与GIS或城市数字底座衔接。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“CityGML”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "CityGML应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "CityGML",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "CityGML是什么？",
+      "CityGML有什么作用？",
+      "如何理解CityGML？",
+      "CityGML在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "CityGML。定义：CityGML更适用于与三维城市GIS平台对接。 核心解释：它支持城市尺度空间对象和GIS场景表达。 工程意义：用于BIM与GIS或城市数字底座衔接。 关键词：CityGML;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "CityGML更适用于与三维城市GIS平台对接。",
+      "它支持城市尺度空间对象和GIS场景表达。",
+      "它支持城市尺度空间对象和GIS场景表达。",
+      "用于BIM与GIS或城市数字底座衔接。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_124",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "CDE通用数据环境",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "CDE是交付协同和版本管理的共享数据环境。",
+    "core_explanation": "成果在WIP、Shared、Published等状态中流转并可追溯。",
+    "plain_explanation": "成果在WIP、Shared、Published等状态中流转并可追溯。",
+    "engineering_meaning": "用于透明、高效和可审计的交付协同。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“CDE通用数据环境”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "CDE通用数据环境应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "CDE通用数据环境",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "CDE通用数据环境是什么？",
+      "CDE通用数据环境有什么作用？",
+      "如何理解CDE通用数据环境？",
+      "CDE通用数据环境在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "CDE通用数据环境。定义：CDE是交付协同和版本管理的共享数据环境。 核心解释：成果在WIP、Shared、Published等状态中流转并可追溯。 工程意义：用于透明、高效和可审计的交付协同。 关键词：CDE通用数据环境;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "CDE是交付协同和版本管理的共享数据环境。",
+      "成果在WIP、Shared、Published等状态中流转并可追溯。",
+      "成果在WIP、Shared、Published等状态中流转并可追溯。",
+      "用于透明、高效和可审计的交付协同。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_125",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "交付方角色",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "交付方通常为设计单位，负责依据BEP和合同创建并提交合规成果。",
+    "core_explanation": "交付方需响应接收方审查意见并修改更新。",
+    "plain_explanation": "交付方需响应接收方审查意见并修改更新。",
+    "engineering_meaning": "用于明确交付责任。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“交付方角色”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "交付方角色应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "交付方角色",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "交付方角色是什么？",
+      "交付方角色有什么作用？",
+      "如何理解交付方角色？",
+      "交付方角色在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "交付方角色。定义：交付方通常为设计单位，负责依据BEP和合同创建并提交合规成果。 核心解释：交付方需响应接收方审查意见并修改更新。 工程意义：用于明确交付责任。 关键词：交付方角色;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "交付方通常为设计单位，负责依据BEP和合同创建并提交合规成果。",
+      "交付方需响应接收方审查意见并修改更新。",
+      "交付方需响应接收方审查意见并修改更新。",
+      "用于明确交付责任。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_126",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "接收方角色",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "接收方通常为建设单位或管理方，负责明确需求、组织审查和出具验收结论。",
+    "core_explanation": "接收方确保成果完整性、合规性和准确性。",
+    "plain_explanation": "接收方确保成果完整性、合规性和准确性。",
+    "engineering_meaning": "用于质量审查和验收。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“接收方角色”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "接收方角色应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "接收方角色",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "接收方角色是什么？",
+      "接收方角色有什么作用？",
+      "如何理解接收方角色？",
+      "接收方角色在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "接收方角色。定义：接收方通常为建设单位或管理方，负责明确需求、组织审查和出具验收结论。 核心解释：接收方确保成果完整性、合规性和准确性。 工程意义：用于质量审查和验收。 关键词：接收方角色;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "接收方通常为建设单位或管理方，负责明确需求、组织审查和出具验收结论。",
+      "接收方确保成果完整性、合规性和准确性。",
+      "接收方确保成果完整性、合规性和准确性。",
+      "用于质量审查和验收。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_127",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "交付准备",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "交付准备依据标准建立BEP、命名规则、版本管理和成果清单。",
+    "core_explanation": "它是确保交付物规范完整的前置工作。",
+    "plain_explanation": "它是确保交付物规范完整的前置工作。",
+    "engineering_meaning": "用于降低交付混乱和返工风险。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“交付准备”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "交付准备应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "交付准备",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "交付准备是什么？",
+      "交付准备有什么作用？",
+      "如何理解交付准备？",
+      "交付准备在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "交付准备。定义：交付准备依据标准建立BEP、命名规则、版本管理和成果清单。 核心解释：它是确保交付物规范完整的前置工作。 工程意义：用于降低交付混乱和返工风险。 关键词：交付准备;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "交付准备依据标准建立BEP、命名规则、版本管理和成果清单。",
+      "它是确保交付物规范完整的前置工作。",
+      "它是确保交付物规范完整的前置工作。",
+      "用于降低交付混乱和返工风险。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_128",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "交付协同流程",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "交付协同包括提交、审查、反馈修改、批准发布等闭环步骤。",
+    "core_explanation": "流程通常在CDE中进行，确保透明可追溯。",
+    "plain_explanation": "流程通常在CDE中进行，确保透明可追溯。",
+    "engineering_meaning": "用于连接设计、施工和运维。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“交付协同流程”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "交付协同流程应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "交付协同流程",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "交付协同流程是什么？",
+      "交付协同流程有什么作用？",
+      "如何理解交付协同流程？",
+      "交付协同流程在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "交付协同流程。定义：交付协同包括提交、审查、反馈修改、批准发布等闭环步骤。 核心解释：流程通常在CDE中进行，确保透明可追溯。 工程意义：用于连接设计、施工和运维。 关键词：交付协同流程;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "交付协同包括提交、审查、反馈修改、批准发布等闭环步骤。",
+      "流程通常在CDE中进行，确保透明可追溯。",
+      "流程通常在CDE中进行，确保透明可追溯。",
+      "用于连接设计、施工和运维。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_129",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "质量审查",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "质量审查包括完整性、规范性和技术性审查。",
+    "core_explanation": "需检查交付物遗漏、命名编码、LOD/LOI、几何准确性和碰撞问题。",
+    "plain_explanation": "需检查交付物遗漏、命名编码、LOD/LOI、几何准确性和碰撞问题。",
+    "engineering_meaning": "用于保证BIM成果质量和可用性。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“质量审查”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "质量审查应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "质量审查",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "质量审查是什么？",
+      "质量审查有什么作用？",
+      "如何理解质量审查？",
+      "质量审查在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "质量审查。定义：质量审查包括完整性、规范性和技术性审查。 核心解释：需检查交付物遗漏、命名编码、LOD/LOI、几何准确性和碰撞问题。 工程意义：用于保证BIM成果质量和可用性。 关键词：质量审查;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "质量审查包括完整性、规范性和技术性审查。",
+      "需检查交付物遗漏、命名编码、LOD/LOI、几何准确性和碰撞问题。",
+      "需检查交付物遗漏、命名编码、LOD/LOI、几何准确性和碰撞问题。",
+      "用于保证BIM成果质量和可用性。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_130",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "生命周期衔接",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "BIM设计成果交付不是终点，而是后续施工和运维数字化应用的起点。",
+    "core_explanation": "设计模型通过标准化交付被施工方继承并持续深化。",
+    "plain_explanation": "设计模型通过标准化交付被施工方继承并持续深化。",
+    "engineering_meaning": "用于实现数字资产传递。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“生命周期衔接”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "生命周期衔接应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "生命周期衔接",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "生命周期衔接是什么？",
+      "生命周期衔接有什么作用？",
+      "如何理解生命周期衔接？",
+      "生命周期衔接在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "生命周期衔接。定义：BIM设计成果交付不是终点，而是后续施工和运维数字化应用的起点。 核心解释：设计模型通过标准化交付被施工方继承并持续深化。 工程意义：用于实现数字资产传递。 关键词：生命周期衔接;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "BIM设计成果交付不是终点，而是后续施工和运维数字化应用的起点。",
+      "设计模型通过标准化交付被施工方继承并持续深化。",
+      "设计模型通过标准化交付被施工方继承并持续深化。",
+      "用于实现数字资产传递。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_131",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "L3.0设计模型",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "L3.0模型是施工阶段BIM应用的重要基础。",
+    "core_explanation": "它提供施工深化、过程管理和竣工模型的初始数据。",
+    "plain_explanation": "它提供施工深化、过程管理和竣工模型的初始数据。",
+    "engineering_meaning": "用于连接设计和施工阶段。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“L3.0设计模型”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "L3.0设计模型应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "L3.0设计模型",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "L3.0设计模型是什么？",
+      "L3.0设计模型有什么作用？",
+      "如何理解L3.0设计模型？",
+      "L3.0设计模型在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "L3.0设计模型。定义：L3.0模型是施工阶段BIM应用的重要基础。 核心解释：它提供施工深化、过程管理和竣工模型的初始数据。 工程意义：用于连接设计和施工阶段。 关键词：L3.0设计模型;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "L3.0模型是施工阶段BIM应用的重要基础。",
+      "它提供施工深化、过程管理和竣工模型的初始数据。",
+      "它提供施工深化、过程管理和竣工模型的初始数据。",
+      "用于连接设计和施工阶段。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_132",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "L3.5施工深化模型",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "L3.5模型是在设计模型基础上结合施工工艺、设备和场地条件深化形成。",
+    "core_explanation": "它用于指导构件加工和现场施工。",
+    "plain_explanation": "它用于指导构件加工和现场施工。",
+    "engineering_meaning": "用于施工准备和深化设计。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“L3.5施工深化模型”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "L3.5施工深化模型应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "L3.5施工深化模型",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "L3.5施工深化模型是什么？",
+      "L3.5施工深化模型有什么作用？",
+      "如何理解L3.5施工深化模型？",
+      "L3.5施工深化模型在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "L3.5施工深化模型。定义：L3.5模型是在设计模型基础上结合施工工艺、设备和场地条件深化形成。 核心解释：它用于指导构件加工和现场施工。 工程意义：用于施工准备和深化设计。 关键词：L3.5施工深化模型;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "L3.5模型是在设计模型基础上结合施工工艺、设备和场地条件深化形成。",
+      "它用于指导构件加工和现场施工。",
+      "它用于指导构件加工和现场施工。",
+      "用于施工准备和深化设计。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_133",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "L4.0施工过程模型",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "L4.0模型将进度、成本、质量、安全等过程管理信息与模型关联。",
+    "core_explanation": "它形成动态、可追溯的施工过程管理模型。",
+    "plain_explanation": "它形成动态、可追溯的施工过程管理模型。",
+    "engineering_meaning": "用于施工管理和质量追踪。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“L4.0施工过程模型”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "L4.0施工过程模型应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "L4.0施工过程模型",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "L4.0施工过程模型是什么？",
+      "L4.0施工过程模型有什么作用？",
+      "如何理解L4.0施工过程模型？",
+      "L4.0施工过程模型在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "L4.0施工过程模型。定义：L4.0模型将进度、成本、质量、安全等过程管理信息与模型关联。 核心解释：它形成动态、可追溯的施工过程管理模型。 工程意义：用于施工管理和质量追踪。 关键词：L4.0施工过程模型;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "L4.0模型将进度、成本、质量、安全等过程管理信息与模型关联。",
+      "它形成动态、可追溯的施工过程管理模型。",
+      "它形成动态、可追溯的施工过程管理模型。",
+      "用于施工管理和质量追踪。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_134",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "L5.0竣工验收模型",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "L5.0模型反映工程实体最终状态，剔除临时信息并修正与实际不符内容。",
+    "core_explanation": "它用于交工验收和运维前移。",
+    "plain_explanation": "它用于交工验收和运维前移。",
+    "engineering_meaning": "用于形成竣工数字档案。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“L5.0竣工验收模型”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "L5.0竣工验收模型应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "L5.0竣工验收模型",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "L5.0竣工验收模型是什么？",
+      "L5.0竣工验收模型有什么作用？",
+      "如何理解L5.0竣工验收模型？",
+      "L5.0竣工验收模型在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "L5.0竣工验收模型。定义：L5.0模型反映工程实体最终状态，剔除临时信息并修正与实际不符内容。 核心解释：它用于交工验收和运维前移。 工程意义：用于形成竣工数字档案。 关键词：L5.0竣工验收模型;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "L5.0模型反映工程实体最终状态，剔除临时信息并修正与实际不符内容。",
+      "它用于交工验收和运维前移。",
+      "它用于交工验收和运维前移。",
+      "用于形成竣工数字档案。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch04_135",
+    "chapter_id": "ch04",
+    "section_id": "ch04_sec05",
+    "title": "数字资产包",
+    "knowledge_type": "concept/process",
+    "importance": "核心",
+    "difficulty": "中等",
+    "definition": "设计阶段创建的模型和数据共同构成可传递的数字资产包。",
+    "core_explanation": "资产包包含设计意图和后续施工成长记录。",
+    "plain_explanation": "资产包包含设计意图和后续施工成长记录。",
+    "engineering_meaning": "用于运维管理和全生命周期价值延续。",
+    "application_scenario": "",
+    "common_mistakes": [
+      "把“数字资产包”理解为普通软件操作或静态图形对象。"
+    ],
+    "correction_explanation": "数字资产包应从模型、信息、规则、协同和交付的关系中理解，不能只看表面图形。",
+    "answer_strategy": "先给定义，再按条目解释核心构成、工程意义和常见误区；若问题问“有哪些/包括哪些/流程”，必须用编号条目回答。",
+    "answer_boundary": "优先依据第四章教材内容，必要时仅作教学化解释；不得引入与本章无关的软件操作细节或未经教材说明的标准条文扩展。",
+    "keywords": [
+      "数字资产包",
+      "BIM成果",
+      "交付"
+    ],
+    "student_question_patterns": [
+      "数字资产包是什么？",
+      "数字资产包有什么作用？",
+      "如何理解数字资产包？",
+      "数字资产包在道路BIM中怎么体现？"
+    ],
+    "source_chunks": "",
+    "embedding_text": "数字资产包。定义：设计阶段创建的模型和数据共同构成可传递的数字资产包。 核心解释：资产包包含设计意图和后续施工成长记录。 工程意义：用于运维管理和全生命周期价值延续。 关键词：数字资产包;BIM成果;交付",
+    "status": "checked",
+    "key_points": [
+      "设计阶段创建的模型和数据共同构成可传递的数字资产包。",
+      "资产包包含设计意图和后续施工成长记录。",
+      "资产包包含设计意图和后续施工成长记录。",
+      "用于运维管理和全生命周期价值延续。"
+    ],
+    "aliases": [],
+    "related_kps": []
+  }
+]

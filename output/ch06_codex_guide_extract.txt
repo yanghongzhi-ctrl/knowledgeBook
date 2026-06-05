@@ -1,0 +1,293 @@
+Codex开发指南
+第六章 AutoCAD平台功能与使用方法操作型知识库与视频分段RAG实现
+基于第6章知识库 v1.0操作完备版
+项目
+| 说明
+|
+目标
+| 指导Codex基于第六章操作型知识库实现精准问答、步骤化指导、错误排查和视频片段推荐。
+|
+适用文件
+| 第6章_AutoCAD平台功能与使用方法_知识库_v1.0操作完备版.xlsx / .json / .jsonl
+|
+核心原则
+| Operation_Tasks、Operation_Steps、Command_Cards、Common_Errors、Video_Segments 和 Answer_Cards 优先；Source_Chunks 仅作为证据层。
+|
+输出目标
+| 建立可运行的第六章RAG问答服务，使学生问题能够命中任务、步骤、命令、错误或视频片段。
+|
+1. 背景与问题定位
+第六章属于软件操作章节，建库与问答逻辑不同于前五章的概念型知识库。学生提问通常不是“是什么”，而是“怎么做、为什么失败、参数怎么设、视频在哪里看”。因此，Codex不能把Word段落作为主检索对象，而必须把“操作任务—操作步骤—参数设置—常见错误—视频片段”作为主检索链路。
+常见错误做法
+| 后果
+| 正确做法
+|
+按Word段落切块并直接检索
+| 回答冗长、无关内容多、不能形成操作步骤
+| 把Source_Chunks降级为证据层，优先检索任务和答案卡
+|
+只检索Answer_Cards
+| 能回答部分问题，但无法精准定位视频和错误原因
+| 结合Operation_Tasks、Operation_Steps、Common_Errors、Video_Segments
+|
+把整段视频作为附件推荐
+| 学生无法快速定位演示片段
+| 按任务和步骤建立Video_Segments并返回时间片段
+|
+没有错误排查链路
+| 学生遇到失败时只能得到泛泛建议
+| 用Common_Errors组织现象、原因和解决步骤
+|
+2. 必须采用的知识库主表
+表名
+| 优先级
+| 用途
+| RAG角色
+|
+Operation_Tasks
+| 最高
+| 描述每个软件操作任务的目标、输入、输出、前置条件和适用场景
+| 操作类问题的主检索对象
+|
+Operation_Steps
+| 最高
+| 保存每个任务的分步操作、命令、参数、结果检查
+| 生成步骤化回答的主体
+|
+Command_Cards
+| 高
+| 解释AutoCAD命令的用途、启动方式、典型场景和常见错误
+| 命令解释与命令操作问题的主证据
+|
+Common_Errors
+| 高
+| 保存错误现象、可能原因、解决步骤和关联视频
+| 错误排查类问题的主检索对象
+|
+Video_Segments
+| 高
+| 按时间片段绑定任务、步骤、字幕和关键帧
+| 视频推荐类问题的主检索对象
+|
+Answer_Cards
+| 高
+| 保存标准问题、答案要点、操作步骤和回答边界
+| 直接回答与模板化生成依据
+|
+Source_Chunks
+| 低
+| 保存教材原文证据和简短摘录
+| 仅用于追溯和引用，不直接作为回答主体
+|
+3. RAG检索路由要求
+Codex实现RAG服务时，必须先判断问题意图，再按不同路由选择检索表。禁止所有问题统一检索Source_Chunks。
+问题类型
+| 触发词示例
+| 检索顺序
+| 回答模板
+|
+操作步骤类
+| 怎么做、如何操作、怎么画、怎么设置、步骤
+| Operation_Tasks → Operation_Steps → Answer_Cards → Video_Segments → Source_Chunks
+| 操作目标 + 前置条件 + 操作步骤 + 关键参数 + 结果检查 + 常见错误 + 推荐视频
+|
+错误排查类
+| 失败、不显示、不能选、没反应、无法、报错、结果不对
+| Common_Errors → Operation_Steps → Video_Segments → Answer_Cards
+| 错误现象 + 可能原因 + 检查顺序 + 解决步骤 + 对应视频片段
+|
+参数解释类
+| 参数、比例、线型、线宽、基点、视口、坐标、图层
+| Parameter_Settings → Software_Objects → Operation_Steps → Answer_Cards
+| 参数含义 + 推荐设置 + 影响 + 常见错误 + 关联任务
+|
+命令解释类
+| LINE、PLINE、TRIM、BLOCK、EXTRUDE、UNION、命令、快捷键
+| Command_Cards → Operation_Tasks → Operation_Steps → Answer_Cards
+| 命令用途 + 启动方式 + 基本步骤 + 关键选项 + 常见错误
+|
+概念比较类
+| 区别、比较、不同、关系、作用
+| Concept_Comparison → Answer_Cards → Knowledge_Points
+| 比较维度表 + 关键结论 + 常见误区
+|
+伪代码：def answer(question):    intent = classify_intent(question)    if intent == "operation_howto":        candidates = search(Operation_Tasks, question) + search(Operation_Steps, question)    elif intent == "operation_error":        candidates = search(Common_Errors, question) + search(Operation_Steps, question)    elif intent == "parameter_explain":        candidates = search(Parameter_Settings, question) + search(Software_Objects, question)    elif intent == "command_explain":        candidates = search(Command_Cards, question) + search(Operation_Tasks, question)    elif intent == "concept_compare":        candidates = search(Concept_Comparison, question) + search(Answer_Cards, question)    else:        candidates = search(Answer_Cards, question) + search(Knowledge_Points, question)    evidence = add_source_chunks_only_for_citation(candidates)    return generate_with_template(intent, candidates, evidence)
+4. 回答生成硬约束
+约束
+| 具体要求
+|
+禁止Word长段落输出
+| Source_Chunks只能用于证据引用，不得整段复制到最终答案。
+|
+操作类必须步骤化
+| 至少包含操作目标、前置条件、操作步骤、结果检查四部分。
+|
+错误排查必须有检查顺序
+| 必须从命令状态、对象选择、图层状态、参数单位、视图显示等角度逐项排查。
+|
+命令问题必须讲适用场景
+| 回答命令用途时必须补充道路制图或工程图绘制场景。
+|
+视频必须推荐到片段
+| 有Video_Segments时优先返回segment_id、标题、开始时间、结束时间和关键帧。
+|
+低置信度必须提示
+| 若只命中Source_Chunks或没有命中任务/答案卡，应提示“知识库未找到明确操作任务”。
+|
+5. 数据导入与索引建议
+建议Codex将不同对象写入不同Collection或不同索引分区，并为每个对象保留object_type字段。操作型知识库不宜只做一个统一向量库。
+索引/Collection
+| 对象来源
+| 建议权重
+| 说明
+|
+ch06_operation_tasks
+| Operation_Tasks
+| 1.20
+| 操作问题最高优先级。
+|
+ch06_operation_steps
+| Operation_Steps
+| 1.15
+| 用于生成步骤答案。
+|
+ch06_command_cards
+| Command_Cards
+| 1.10
+| 用于命令解释和快捷命令问题。
+|
+ch06_common_errors
+| Common_Errors
+| 1.20
+| 错误排查问题最高优先级。
+|
+ch06_video_segments
+| Video_Segments
+| 1.05
+| 用于视频片段推荐。
+|
+ch06_answer_cards
+| Answer_Cards
+| 1.00
+| 用于标准问答。
+|
+ch06_source_chunks
+| Source_Chunks
+| 0.60
+| 只作为证据和引用层。
+|
+建议数据结构：{  "object_type": "operation_task | operation_step | command_card | common_error | video_segment | answer_card | source_chunk",  "object_id": "ch06_task_001",  "chapter_id": "ch06",  "section_id": "ch06_sec02",  "title": "设置AutoCAD绘图环境",  "embedding_text": "任务名称 + 目标 + 学生问法 + 操作步骤摘要 + 常见错误",  "metadata": {    "software": "AutoCAD",    "intent": "operation_howto",    "priority": "highest",    "answer_mode": "steps"  }}
+6. 视频资源接入规范
+第六章后续会接入操作视频。Codex应把视频拆成“视频资源”和“视频片段”两层，不要只记录整段视频文件路径。
+字段
+| 说明
+| 示例
+|
+video_id
+| 视频资源编号
+| ch06_vid_002
+|
+segment_id
+| 视频片段编号
+| ch06_vid_002_seg_03
+|
+start_time / end_time
+| 片段起止时间
+| 00:03:20 / 00:04:10
+|
+related_task
+| 关联操作任务
+| ch06_task_004
+|
+related_step
+| 关联操作步骤
+| ch06_task_004_step_03
+|
+keyframe_path
+| 关键帧截图路径
+| chapter_06/videos/keyframes/ch06_vid_002_seg_03.png
+|
+qa_trigger
+| 触发推荐的问题
+| 学生询问多段线绘制步骤时推荐。
+|
+7. API接口建议
+接口
+| 方法
+| 功能
+|
+/api/ch06/answer
+| POST
+| 输入学生问题，返回步骤化答案、证据、推荐视频和截图。
+|
+/api/ch06/tasks/search
+| GET/POST
+| 检索Operation_Tasks和Operation_Steps。
+|
+/api/ch06/commands/search
+| GET/POST
+| 检索Command_Cards，支持命令名和中文名。
+|
+/api/ch06/errors/search
+| GET/POST
+| 按错误现象检索Common_Errors。
+|
+/api/ch06/videos/recommend
+| GET/POST
+| 根据任务、步骤或问题推荐视频片段。
+|
+/api/ch06/evaluate
+| POST
+| 用QA_Evaluation_Testset测试RAG回答质量。
+|
+回答接口返回格式建议：{  "intent": "operation_howto",  "confidence": "high",  "answer": {    "operation_goal": "...",    "prerequisites": ["..."],    "steps": ["..."],    "key_parameters": ["..."],    "check_items": ["..."],    "common_errors": ["..."]  },  "evidence": [{"chunk_id": "ch06_src_001", "excerpt": "..."}],  "recommended_videos": [{"segment_id": "ch06_vid_002_seg_03", "start_time": "00:03:20", "end_time": "00:04:10"}],  "recommended_screenshots": ["ch06_shot_004_03"]}
+8. 验收测试要求
+Codex完成实现后，必须使用知识库中的QA_Evaluation_Testset进行自动评测。重点考察是否命中正确对象、是否条目化、是否避免无关长文本、是否能推荐视频片段。
+测试类型
+| 通过标准
+|
+操作步骤问题
+| 命中Operation_Tasks或Operation_Steps；输出不少于4步；包含结果检查。
+|
+错误排查问题
+| 命中Common_Errors；输出可能原因和检查顺序。
+|
+命令解释问题
+| 命中Command_Cards；说明用途、启动方式、关键选项和常见错误。
+|
+参数解释问题
+| 命中Parameter_Settings或Software_Objects；说明参数含义和影响。
+|
+视频推荐问题
+| 命中Video_Segments；返回片段标题、时间、关联任务。
+|
+防止无关文本
+| 最终回答不应直接复制超过120字的Source_Chunks原文。
+|
+9. 直接交给Codex的执行指令
+请基于第6章_AutoCAD平台功能与使用方法_知识库_v1.0操作完备版.xlsx/json/jsonl，实现第六章操作型RAG问答模块。核心要求：1. 不得把 Source_Chunks 作为主检索层。Source_Chunks 只用于证据引用和出处追溯。2. 操作类问题优先检索 Operation_Tasks、Operation_Steps、Answer_Cards 和 Video_Segments。3. 错误排查类问题优先检索 Common_Errors，再补充 Operation_Steps 和 Video_Segments。4. 命令类问题优先检索 Command_Cards，并返回用途、启动方式、关键选项、道路制图应用和常见错误。5. 参数类问题优先检索 Parameter_Settings 和 Software_Objects。6. 视频推荐必须到 Video_Segments 片段级，不能只返回整个视频。7. 回答必须使用固定模板：操作目标、前置条件、操作步骤、关键参数、结果检查、常见错误、推荐视频。8. 禁止直接复制Word长段落；source_excerpt最多用于简短依据说明。9. 用 QA_Evaluation_Testset 对回答效果进行测试，输出命中率、条目完整率、无关文本率、视频推荐准确率。10. 若知识库无法命中明确任务或答案卡，应提示低置信度，不允许编造操作步骤。
+10. 建议交付物
+交付物
+| 说明
+|
+rag_ch06_service.py / app
+| 第六章RAG问答服务主程序。
+|
+data_loader.py
+| 读取Excel/JSON/JSONL并导入检索索引。
+|
+router.py
+| 问题意图识别与检索路由。
+|
+answer_templates.py
+| 操作、错误、命令、参数、比较等回答模板。
+|
+video_recommender.py
+| 视频片段推荐模块。
+|
+evaluate_ch06.py
+| QA_Evaluation_Testset自动评测脚本。
+|
+README_ch06_rag.md
+| 运行说明、接口说明和测试结果。
+|

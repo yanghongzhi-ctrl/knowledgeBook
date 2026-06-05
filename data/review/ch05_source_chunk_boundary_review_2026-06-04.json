@@ -1,0 +1,62 @@
+{
+  "chapter_id": "ch05",
+  "review_date": "2026-06-04",
+  "scope": "resolve remaining unverified Source_Chunks by narrowing summary boundaries and documenting concept support",
+  "policy": "Source_Chunks are knowledge summaries, not verbatim textbook quotations.",
+  "items": [
+    {
+      "chunk_id": "ch05_src_025",
+      "decision": "revise_excerpt_and_confirm",
+      "line_start": 107,
+      "line_end": 109,
+      "revised_source_excerpt": "比例因子 k0 用于控制工程区域的基准变形。；LDP 通过计算最优比例因子，使工程廊道内正负变形相互抵消。；目标是将最大绝对变形控制在工程精度要求内。",
+      "matched_text_summary": "（3）比例因子的优化均衡；LDP会根据工程走廊的空间分布，计算出一个最优比例因子k0，使得廊道内的正变形和负变形相互抵消。",
+      "review_note": "将原摘要中的BIM-GIS协同和运维定位边界收窄，聚焦正式稿107-109行直接支持的比例因子优化均衡。"
+    },
+    {
+      "chunk_id": "ch05_src_052",
+      "decision": "retain_as_teaching_subdivision",
+      "line_start": 185,
+      "line_end": 191,
+      "revised_source_excerpt": "缓冲区分析用于回答邻近性问题，可表示地理空间目标的影响范围或服务范围。；缓冲区的范围由半径 R 控制。；“点缓冲区”是基于正式稿点、线、面缓冲区标题的教学细分。",
+      "matched_text_summary": "缓冲区分析是用于回答“邻近性”问题的核心工具；邻域的大小由半径R决定；点、线、面的缓冲区。",
+      "review_note": "正式稿支持缓冲区总体定义和点线面分类标题，但未展开点缓冲区具体场景；本条作教学细分保留。"
+    },
+    {
+      "chunk_id": "ch05_src_053",
+      "decision": "retain_as_teaching_subdivision",
+      "line_start": 185,
+      "line_end": 191,
+      "revised_source_excerpt": "缓冲区分析可围绕空间对象构建一定半径的邻域范围。；正式稿将缓冲区按点、线、面对象组织。；“线缓冲区”是面向道路等线性对象的教学细分。",
+      "matched_text_summary": "缓冲区分析是用于回答“邻近性”问题的核心工具；对象 Oi 的缓冲区 Bi 定义；点、线、面的缓冲区。",
+      "review_note": "正式稿支持缓冲区总体定义和点线面分类标题，但未展开线缓冲区具体应用；本条作教学细分保留。"
+    },
+    {
+      "chunk_id": "ch05_src_054",
+      "decision": "retain_as_teaching_subdivision",
+      "line_start": 185,
+      "line_end": 191,
+      "revised_source_excerpt": "缓冲区表示空间目标的影响范围或服务范围，其大小由半径 R 决定。；正式稿将缓冲区按点、线、面对象组织。；“面缓冲区”是面向面状对象范围控制的教学细分。",
+      "matched_text_summary": "缓冲区分析是用于回答“邻近性”问题的核心工具；所谓缓冲区，就是地理空间目标的影响范围或服务范围；点、线、面的缓冲区。",
+      "review_note": "正式稿支持缓冲区总体定义和点线面分类标题，但未展开面缓冲区具体应用；本条作教学细分保留。"
+    },
+    {
+      "chunk_id": "ch05_src_059",
+      "decision": "confirm_direct_concept_support",
+      "line_start": 206,
+      "line_end": 210,
+      "revised_source_excerpt": "多边形叠加的结果是新生成的多边形图层，包含输入图层的几何边界交集与属性字段。；其过程包括几何求交和属性融合两个步骤。；道路环境分析中可将坡度、地质灾害和土地利用图层合并为综合图层。",
+      "matched_text_summary": "多边形叠加是GIS中最常见的高级分析操作，其过程包括两个步骤：几何求交和属性融合。",
+      "review_note": "正式稿206-210行直接支持该摘要的两步逻辑和道路环境应用例子。"
+    },
+    {
+      "chunk_id": "ch05_src_085",
+      "decision": "revise_excerpt_and_confirm",
+      "line_start": 291,
+      "line_end": 299,
+      "revised_source_excerpt": "空间权重表示要素 i 和 j 之间的空间关系。；在全局 Moran 指数中，权重可基于邻接关系或距离来定义。；权重设定会影响空间自相关结果的解释。",
+      "matched_text_summary": "全局莫兰指数用于测度属性在整个区域内的聚集或离散程度；ωi,j为要素i和j之间的空间权重，它可以基于邻接关系或者距离来定义。",
+      "review_note": "将原摘要中的距离阈值、距离衰减和热点分析表述收窄，仅保留正式稿291-299行支持的邻接关系/距离定义与Moran指数语境。"
+    }
+  ]
+}

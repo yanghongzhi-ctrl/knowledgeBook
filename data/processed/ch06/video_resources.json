@@ -1,0 +1,162 @@
+[
+  {
+    "video_id": "ch06_vid_001",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "title": "AutoCAD绘图环境与坐标输入演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_001.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_001.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_001_preview.png",
+    "related_tasks": "ch06_task_001;ch06_task_002;ch06_task_003",
+    "teaching_use": "用于第六章环境与坐标模块的操作演示。",
+    "qa_use": "学生询问环境与坐标相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "AutoCAD绘图环境与坐标输入演示",
+      "ch06_vid_001"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_002",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "AutoCAD基本绘图命令演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_002.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_002.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_002_preview.png",
+    "related_tasks": "ch06_task_004;ch06_task_005;ch06_task_006",
+    "teaching_use": "用于第六章基本绘图模块的操作演示。",
+    "qa_use": "学生询问基本绘图相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "AutoCAD基本绘图命令演示",
+      "ch06_vid_002"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_003",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "AutoCAD图形编辑命令演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_003.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_003.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_003_preview.png",
+    "related_tasks": "ch06_task_007;ch06_task_008;ch06_task_009;ch06_task_010;ch06_task_011",
+    "teaching_use": "用于第六章图形编辑模块的操作演示。",
+    "qa_use": "学生询问图形编辑相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "AutoCAD图形编辑命令演示",
+      "ch06_vid_003"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_004",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "title": "AutoCAD精确定位工具演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_004.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_004.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_004_preview.png",
+    "related_tasks": "ch06_task_012",
+    "teaching_use": "用于第六章精确定位模块的操作演示。",
+    "qa_use": "学生询问精确定位相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "AutoCAD精确定位工具演示",
+      "ch06_vid_004"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_005",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "title": "AutoCAD文字与尺寸标注演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_005.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_005.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_005_preview.png",
+    "related_tasks": "ch06_task_013;ch06_task_014;ch06_task_015;ch06_task_016;ch06_task_017",
+    "teaching_use": "用于第六章文字标注模块的操作演示。",
+    "qa_use": "学生询问文字标注相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "AutoCAD文字与尺寸标注演示",
+      "ch06_vid_005"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_006",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "title": "AutoCAD图层管理与图块应用演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_006.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_006.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_006_preview.png",
+    "related_tasks": "ch06_task_018;ch06_task_019;ch06_task_020;ch06_task_021;ch06_task_022",
+    "teaching_use": "用于第六章图层图块模块的操作演示。",
+    "qa_use": "学生询问图层图块相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "AutoCAD图层管理与图块应用演示",
+      "ch06_vid_006"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_007",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "title": "AutoCAD三维曲面与实体建模演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_007.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_007.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_007_preview.png",
+    "related_tasks": "ch06_task_023;ch06_task_024;ch06_task_025;ch06_task_026;ch06_task_027;ch06_task_028;ch06_task_029",
+    "teaching_use": "用于第六章三维建模模块的操作演示。",
+    "qa_use": "学生询问三维建模相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "AutoCAD三维曲面与实体建模演示",
+      "ch06_vid_007"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_008",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "title": "简易道路标准横断面综合绘图演示",
+    "software": "AutoCAD",
+    "file_path": "chapter_06/videos/ch06_vid_008.mp4",
+    "duration": "待补充",
+    "transcript_path": "chapter_06/videos/ch06_vid_008.srt",
+    "preview_image": "chapter_06/videos/ch06_vid_008_preview.png",
+    "related_tasks": "ch06_task_030",
+    "teaching_use": "用于第六章综合实践模块的操作演示。",
+    "qa_use": "学生询问综合实践相关操作步骤或错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "reference_aliases": [
+      "简易道路标准横断面综合绘图演示",
+      "ch06_vid_008"
+    ]
+  }
+]

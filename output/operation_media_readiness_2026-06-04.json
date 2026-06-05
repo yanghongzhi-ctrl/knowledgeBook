@@ -1,0 +1,72 @@
+{
+  "chapters": [
+    {
+      "chapter_id": "ch06",
+      "package": "D:\\knowledgebase\\data\\raw\\ch06\\第6章_AutoCAD平台功能与使用方法_知识库_v1.0操作完备版.json",
+      "video_resources": 30,
+      "video_segments": 152,
+      "available_video_segments": 0,
+      "placeholder_video_segments": 152,
+      "missing_video_files": 152,
+      "screenshots": 150,
+      "available_screenshots": 0,
+      "placeholder_screenshots": 150,
+      "missing_screenshot_files": 150,
+      "operation_step_video_refs": 150,
+      "operation_step_screenshot_refs": 150,
+      "missing_segment_metadata": [],
+      "missing_screenshot_metadata": []
+    },
+    {
+      "chapter_id": "ch07",
+      "package": "D:\\knowledgebase\\data\\raw\\ch07\\第7章_道路CAD软件的使用_知识库_v1.0操作完备版.json",
+      "video_resources": 10,
+      "video_segments": 60,
+      "available_video_segments": 0,
+      "placeholder_video_segments": 60,
+      "missing_video_files": 60,
+      "screenshots": 300,
+      "available_screenshots": 0,
+      "placeholder_screenshots": 300,
+      "missing_screenshot_files": 300,
+      "operation_step_video_refs": 60,
+      "operation_step_screenshot_refs": 300,
+      "missing_segment_metadata": [],
+      "missing_screenshot_metadata": []
+    },
+    {
+      "chapter_id": "ch08",
+      "package": "D:\\knowledgebase\\data\\raw\\ch08\\第8章_道路BIM软件的使用_知识库_v1.0操作完备版.json",
+      "video_resources": 17,
+      "video_segments": 84,
+      "available_video_segments": 0,
+      "placeholder_video_segments": 84,
+      "missing_video_files": 84,
+      "screenshots": 360,
+      "available_screenshots": 0,
+      "placeholder_screenshots": 360,
+      "missing_screenshot_files": 360,
+      "operation_step_video_refs": 84,
+      "operation_step_screenshot_refs": 360,
+      "missing_segment_metadata": [],
+      "missing_screenshot_metadata": []
+    },
+    {
+      "chapter_id": "ch09",
+      "package": "D:\\knowledgebase\\data\\raw\\ch09\\第9章_BIM_GIS集成方法_知识库_v1.0操作完备版.json",
+      "video_resources": 16,
+      "video_segments": 80,
+      "available_video_segments": 0,
+      "placeholder_video_segments": 80,
+      "missing_video_files": 80,
+      "screenshots": 270,
+      "available_screenshots": 0,
+      "placeholder_screenshots": 270,
+      "missing_screenshot_files": 270,
+      "operation_step_video_refs": 80,
+      "operation_step_screenshot_refs": 270,
+      "missing_segment_metadata": [],
+      "missing_screenshot_metadata": []
+    }
+  ]
+}

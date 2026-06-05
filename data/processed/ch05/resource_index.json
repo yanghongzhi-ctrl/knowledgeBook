@@ -1,0 +1,1122 @@
+[
+  {
+    "resource_id": "fig_5_1",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "image",
+    "title": "图5-1 GIS的组成要素",
+    "file_path": "assets/ch05/images/fig_5_1.png",
+    "description": "展示GIS由硬件、软件、数据、方法和人员构成。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "GIS的组成要素",
+      "GIS",
+      "图5-1 GIS的组成要素"
+    ],
+    "verification_note": "原初稿文件路径未在项目中找到，等待正式稿资源绑定。",
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-1及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-1",
+      "图5.1",
+      "图 5-1"
+    ]
+  },
+  {
+    "resource_id": "fig_5_2",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "image",
+    "title": "GIS的核心功能",
+    "file_path": "assets/ch05/images/fig_5_2.tiff",
+    "description": "展示GIS面向位置、条件、趋势、模式和模型五类空间问题。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "GIS的核心功能",
+      "GIS"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图 5-2 邻近正文自动绑定。",
+    "reference_aliases": [
+      "图5-2",
+      "图 5-2",
+      "5-2"
+    ]
+  },
+  {
+    "resource_id": "fig_5_3",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "image",
+    "title": "GIS技术流程与功能模块",
+    "file_path": "assets/ch05/images/fig_5_3.png",
+    "description": "展示GIS从数据采集、数据管理、空间分析到可视化输出的技术流程与功能模块。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "GIS技术流程与功能模块",
+      "GIS",
+      "图5-3",
+      "技术流程",
+      "功能模块",
+      "数据流转"
+    ],
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch05/interactive_html/5.2GIS技术流程与数据流转.html",
+    "source_label": "IMG.data",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "5-3"
+    },
+    "reference_aliases": [
+      "图5-3",
+      "图5.3",
+      "图 5-3",
+      "GIS技术流程与功能模块"
+    ],
+    "formal_figure_no": "5-3"
+  },
+  {
+    "resource_id": "fig_5_4",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "image",
+    "title": "图5-4 按投影面形状的投影方式",
+    "file_path": "assets/ch05/images/fig_5_4.png",
+    "description": "展示圆柱投影、圆锥投影和方位投影。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "按投影面形状的投影方式",
+      "图5-4 按投影面形状的投影方式"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-4及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-4",
+      "图5.4",
+      "图 5-4"
+    ]
+  },
+  {
+    "resource_id": "fig_5_5",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "image",
+    "title": "图5-5 按投影面与地球相对位置的投影方式",
+    "file_path": "assets/ch05/images/fig_5_5.png",
+    "description": "展示正轴、横轴和斜轴投影。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "按投影面与地球相对位置的投影方式",
+      "图5-5 按投影面与地球相对位置的投影方式"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-5及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-5",
+      "图5.5",
+      "图 5-5"
+    ]
+  },
+  {
+    "resource_id": "fig_5_7",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "image",
+    "title": "图5-7 拓扑关系概念与原理图",
+    "file_path": "assets/ch05/images/fig_5_7.png",
+    "description": "展示矢量数据模型中的邻接、包含和连通等拓扑关系。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "拓扑关系概念与原理图",
+      "图5-7 拓扑关系概念与原理图"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-7及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-7",
+      "图5.7",
+      "图 5-7"
+    ]
+  },
+  {
+    "resource_id": "fig_5_9",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "resource_type": "image",
+    "title": "图5-9 点、线、面的缓冲区",
+    "file_path": "assets/ch05/images/fig_5_9.png",
+    "description": "展示点、线、面要素的缓冲区形态。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "点线面的缓冲区",
+      "图5-9 点、线、面的缓冲区",
+      "点、线、面的缓冲区"
+    ],
+    "verification_note": "原初稿文件路径未在项目中找到，等待正式稿资源绑定。",
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-9及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-9",
+      "图5.9",
+      "图 5-9"
+    ]
+  },
+  {
+    "resource_id": "fig_5_14",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "resource_type": "image",
+    "title": "图5-14 坡度和坡向图",
+    "file_path": "assets/ch05/images/fig_5_14.png",
+    "description": "展示坡度和坡向提取结果的颜色编码表达。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "坡度和坡向图",
+      "图5-14 坡度和坡向图"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-14及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-14",
+      "图5.14",
+      "图 5-14"
+    ]
+  },
+  {
+    "resource_id": "fig_5_15",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "resource_type": "image",
+    "title": "地表曲率图",
+    "file_path": "assets/ch05/images/fig_5_15.png",
+    "description": "用于说明地表曲率的凹凸变化及其在道路选线、排水和边坡判断中的含义。",
+    "related_kps": [],
+    "qa_use": "当学生问题涉及该图示主题、图号或资源查看意图时推荐作为辅助资源。",
+    "status": "bound",
+    "keywords": [
+      "地表曲率图",
+      "图5-15",
+      "地表曲率",
+      "DEM",
+      "地形分析",
+      "曲率图"
+    ],
+    "verification_note": "正式稿正文可确认该图示主题；正式稿未提供可稳定抽取的独立嵌入图片，本资源依据对应互动脚本内嵌教学图静态提取绑定。",
+    "binding_source": "interactive_script_snapshot",
+    "source_html": "assets/ch05/interactive_html/5.8数字地形与视域分析基础及道路应用.html",
+    "source_label": "THEORY.curvature.image",
+    "image_detail": {
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "source": "interactive_script_embedded_data_uri",
+      "figure_no": "5-15"
+    },
+    "reference_aliases": [
+      "图5-15",
+      "图5.15",
+      "图 5-15",
+      "地表曲率图"
+    ],
+    "formal_figure_no": "5-15"
+  },
+  {
+    "resource_id": "fig_5_17",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "resource_type": "image",
+    "title": "图5-17 视域分析原理",
+    "file_path": "assets/ch05/images/fig_5_17.png",
+    "description": "展示观察点、目标点、地形遮挡和通视判断原理。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "视域分析原理",
+      "图5-17 视域分析原理"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-17及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-17",
+      "图5.17",
+      "图 5-17"
+    ]
+  },
+  {
+    "resource_id": "fig_5_19",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "image",
+    "title": "图5-19 空间分布模式",
+    "file_path": "assets/ch05/images/fig_5_19.png",
+    "description": "展示正相关、负相关和零相关三类空间分布模式。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "空间分布模式",
+      "图5-19 空间分布模式"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-19及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-19",
+      "图5.19",
+      "图 5-19"
+    ]
+  },
+  {
+    "resource_id": "fig_5_21",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "image",
+    "title": "图5-21 变异函数的典型参数",
+    "file_path": "assets/ch05/images/fig_5_21.png",
+    "description": "展示块金值、基台值和变程等变异函数参数。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "变异函数典型参数",
+      "图5-21 变异函数的典型参数",
+      "变异函数的典型参数"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-21及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-21",
+      "图5.21",
+      "图 5-21"
+    ]
+  },
+  {
+    "resource_id": "fig_5_22",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "image",
+    "title": "图5-22 趋势面拟合与残差分析",
+    "file_path": "assets/ch05/images/fig_5_22.png",
+    "description": "展示趋势面拟合与残差分析。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "趋势面拟合与残差分析",
+      "图5-22 趋势面拟合与残差分析"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-22及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-22",
+      "图5.22",
+      "图 5-22"
+    ]
+  },
+  {
+    "resource_id": "fig_5_23",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "resource_type": "image",
+    "title": "图5-23 网络数据集的核心要素",
+    "file_path": "assets/ch05/images/fig_5_23.png",
+    "description": "展示边、节点、转向和阻抗等网络数据集核心要素。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "网络数据集核心要素",
+      "图5-23 网络数据集的核心要素",
+      "网络数据集的核心要素"
+    ],
+    "verification_note": "原初稿文件路径未在项目中找到，等待正式稿资源绑定。",
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-23及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-23",
+      "图5.23",
+      "图 5-23"
+    ]
+  },
+  {
+    "resource_id": "fig_5_24",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "resource_type": "image",
+    "title": "图5-24 Dijkstra算法与A*算法的原理",
+    "file_path": "assets/ch05/images/fig_5_24.png",
+    "description": "展示Dijkstra算法与A*算法的路径搜索原理。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "OD成本矩阵分析流程",
+      "OD",
+      "图5-24 Dijkstra算法与A*算法的原理",
+      "Dijkstra算法与A*算法的原理"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-24及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-24",
+      "图5.24",
+      "图 5-24"
+    ]
+  },
+  {
+    "resource_id": "table_ch05_dijkstra_astar",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "resource_type": "table",
+    "title": "Dijkstra 与 A* 算法比较表（知识库整理）",
+    "file_path": "",
+    "description": "依据第五章正文整理的算法比较表，不作为教材编号表引用。",
+    "related_kps": [
+      "kp_ch05_130",
+      "kp_ch05_131",
+      "kp_ch05_134"
+    ],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "Dijkstra",
+      "与",
+      "A*",
+      "算法比较表",
+      "A"
+    ],
+    "verification_note": "正式稿未发现表5-2编号；该资源为知识库整理表。",
+    "reference_aliases": [],
+    "table_detail": {
+      "label": "知识库整理表",
+      "label_key": "ch05-dijkstra-astar",
+      "title": "Dijkstra 与 A* 算法比较表（知识库整理）",
+      "columns": [
+        "比较维度",
+        "Dijkstra算法",
+        "A*算法"
+      ],
+      "rows": [
+        {
+          "比较维度": "搜索策略",
+          "Dijkstra算法": "全面扩展",
+          "A*算法": "利用启发式函数朝目标搜索"
+        },
+        {
+          "比较维度": "适用任务",
+          "Dijkstra算法": "单源多点最短路径",
+          "A*算法": "点对点快速导航"
+        }
+      ],
+      "context_before": "GIS平台中常用Dijkstra算法与A*算法求解最短路径。",
+      "source_document": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+      "extraction_status": "knowledge_base_summary"
+    }
+  },
+  {
+    "resource_id": "formula_5_1",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "formula",
+    "title": "LDP比例因子关系式",
+    "file_path": "",
+    "description": "描述实际比例因子与基础比例因子、距离和地球曲率半径的关系。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "LDP比例因子关系式",
+      "LDP",
+      "公式（5-1）",
+      "5-1"
+    ],
+    "formula_detail": {
+      "label": "公式（5-1）",
+      "label_key": "5-1",
+      "expression": "k≈k01+y22R2",
+      "context_before": "标准投影通常以固定经线作为中央子午线，但LDP选择一条更贴合工程走向的自定义轴线（如直线、圆弧或多项式曲线）作为投影基准。这种“贴合性”设计可使工程走廊始终保持在轴线两侧的较小范围内，有效减小变形。根据长度变形近似公式：",
+      "context_after": "其中：k——某点的实际比例因子，即实地长度与坐标长度的比值；",
+      "variables": [
+        "其中：k——某点的实际比例因子，即实地长度与坐标长度的比值；",
+        "k0——轴线上的基础比例因子，控制全区域的基准变形；",
+        "y——目标点到投影轴线的垂直距离，LDP通过控制y值在整个工程范围内保持较小，从而确保长度变形接近最小；",
+        "R——地球曲率半径，反映地球表面与投影平面之间的几何关系。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 100,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "formula_5_3",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "formula",
+    "title": "全局莫兰指数公式",
+    "file_path": "",
+    "description": "用于计算全局空间自相关。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "全局莫兰指数公式",
+      "公式（5-3）",
+      "5-3"
+    ],
+    "formula_detail": {
+      "label": "公式（5-3）",
+      "label_key": "5-3",
+      "expression": "I=nS0i=1nj=1nωi,jxi-xxj-xi=1nxi-x2",
+      "context_before": "空间分布模式",
+      "context_after": "其中：n——要素的总数；",
+      "variables": [
+        "其中：n——要素的总数；",
+        "xi，xj——要素i和j的属性值；",
+        "x——所有要素属性值的平均值；",
+        "ωi,j——要素i和j之间的空间权重，它可以基于邻接关系或者距离来定义；",
+        "S0——是所有空间权重的总和：S0=i=1nj=1nωi,j。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 294,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "formula_5_6",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "formula",
+    "title": "IDW插值公式",
+    "file_path": "",
+    "description": "用于反距离加权插值。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "IDW插值公式",
+      "IDW",
+      "公式（5-6）",
+      "5-6"
+    ],
+    "formula_detail": {
+      "label": "公式（5-6）",
+      "label_key": "5-6",
+      "expression": "Zx0=i=1nωiZxii=1nωi,ωi=1dx0,xip",
+      "context_before": "这类方法假设相近点之间的属性值更为相似，其插值过程不依赖统计模型，仅依靠几何关系建模，适用于数据较密集、空间变异性较小的区域。",
+      "context_after": "所示",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 326,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "formula_5_7",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "formula",
+    "title": "克里金插值公式",
+    "file_path": "",
+    "description": "用于最优线性无偏估计。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "克里金插值公式",
+      "公式（5-7）",
+      "5-7"
+    ],
+    "formula_detail": {
+      "label": "公式（5-7）",
+      "label_key": "5-7",
+      "expression": "Zx0=i=1nλiZxi",
+      "context_before": "变异函数的典型参数",
+      "context_after": "所示",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 350,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "formula_5_8",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "formula",
+    "title": "MAE公式",
+    "file_path": "",
+    "description": "用于平均绝对误差计算。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "MAE公式",
+      "MAE",
+      "公式（5-8）",
+      "5-8"
+    ],
+    "formula_detail": {
+      "label": "公式（5-8）",
+      "label_key": "5-8",
+      "expression": "MAE=1ni=1n|Zxi-Zxi|",
+      "context_before": "MAE计算的是预测误差绝对值的平均值，它直观地反映了预测值偏离真实值的平均幅度。",
+      "context_after": "",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 371,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "formula_5_9",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "formula",
+    "title": "RMSE公式",
+    "file_path": "",
+    "description": "用于均方根误差计算。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "RMSE公式",
+      "RMSE",
+      "公式（5-9）",
+      "5-9"
+    ],
+    "formula_detail": {
+      "label": "公式（5-9）",
+      "label_key": "5-9",
+      "expression": "RMSE=1ni=1nZxi-Zxi2",
+      "context_before": "",
+      "context_after": "三、趋势面分析",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 374,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "formula_5_11",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "resource_type": "formula",
+    "title": "最短路径目标函数",
+    "file_path": "",
+    "description": "用于表示路径累计阻抗最小。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "最短路径目标函数",
+      "公式（5-11）",
+      "5-11"
+    ],
+    "formula_detail": {
+      "label": "公式（5-11）",
+      "label_key": "5-11",
+      "expression": "minpaths→teϵpathωe",
+      "context_before": "在此基础上，最短路径问题的目标是：从源点s到目标点t选择一条路径，使该路径上所有边的累计权重之和最小，即：",
+      "context_after": "根据分析任务的不同，最短路径问题可分为以下几类模型：",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 443,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "formula_5_12",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "resource_type": "formula",
+    "title": "A*评价函数",
+    "file_path": "",
+    "description": "f(n)=g(n)+h(n)的启发式路径搜索函数。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "structured",
+    "keywords": [
+      "A*评价函数",
+      "A",
+      "公式（5-12）",
+      "5-12"
+    ],
+    "formula_detail": {
+      "label": "公式（5-12）",
+      "label_key": "5-12",
+      "expression": "fn=gn+hn",
+      "context_before": "",
+      "context_after": "其中：gn——从起点到当前节点n的已知路径成本；",
+      "variables": [
+        "其中：gn——从起点到当前节点n的已知路径成本；",
+        "hn——从当前节点到目标节点的启发式估算成本。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch05_rag_engine\\reports\\ch05_word_extract.txt",
+      "source_line": 462,
+      "extraction_status": "extracted"
+    },
+    "teaching_use": "用于计算类知识点解释和例题设计。"
+  },
+  {
+    "resource_id": "ch05_script_5_10",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec10",
+    "resource_type": "interactive_html",
+    "title": "空间预测结果的可靠性与趋势判读",
+    "description": "用于辅助理解空间预测结果的可靠性与趋势判读相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "空间预测结果的可靠性与趋势判读"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.10空间预测结果的可靠性与趋势判读.html",
+    "trigger_questions": [
+      "空间预测结果的可靠性与趋势判读怎么看？",
+      "空间预测结果的可靠性与趋势判读怎么操作？",
+      "我想看空间预测结果的可靠性与趋势判读。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_11",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec11",
+    "resource_type": "interactive_html",
+    "title": "道路网络分析方法",
+    "description": "用于辅助理解道路网络分析方法相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "道路网络分析方法"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.11道路网络分析方法.html",
+    "trigger_questions": [
+      "道路网络分析方法怎么看？",
+      "道路网络分析方法怎么操作？",
+      "我想看道路网络分析方法。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_1",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "interactive_html",
+    "title": "GIS工程定位与空间问题分析",
+    "description": "用于辅助理解GIS工程定位与空间问题分析相关知识点。",
+    "related_kps": [
+      "kp_ch05_001",
+      "kp_ch05_002",
+      "kp_ch05_003",
+      "kp_ch05_004",
+      "kp_ch05_005",
+      "kp_ch05_006",
+      "kp_ch05_007",
+      "kp_ch05_008"
+    ],
+    "keywords": [
+      "GIS工程定位与空间问题分析",
+      "GIS"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.1GIS工程定位与空间问题分析.html",
+    "trigger_questions": [
+      "GIS工程定位与空间问题分析怎么看？",
+      "GIS工程定位与空间问题分析怎么操作？",
+      "我想看GIS工程定位与空间问题分析。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_2",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "resource_type": "interactive_html",
+    "title": "GIS技术流程与数据流转",
+    "description": "用于辅助理解GIS技术流程与数据流转相关知识点。",
+    "related_kps": [
+      "kp_ch05_044",
+      "kp_ch05_045",
+      "kp_ch05_046",
+      "kp_ch05_047",
+      "kp_ch05_048",
+      "kp_ch05_049",
+      "kp_ch05_050",
+      "kp_ch05_051"
+    ],
+    "keywords": [
+      "GIS技术流程与数据流转",
+      "GIS"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.2GIS技术流程与数据流转.html",
+    "trigger_questions": [
+      "GIS技术流程与数据流转怎么看？",
+      "GIS技术流程与数据流转怎么操作？",
+      "我想看GIS技术流程与数据流转。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_3",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "interactive_html",
+    "title": "地图投影与道路工程低失真坐标控制",
+    "description": "用于辅助理解地图投影与道路工程低失真坐标控制相关知识点。",
+    "related_kps": [
+      "kp_ch05_080",
+      "kp_ch05_081",
+      "kp_ch05_082",
+      "kp_ch05_083",
+      "kp_ch05_084",
+      "kp_ch05_085",
+      "kp_ch05_086",
+      "kp_ch05_087"
+    ],
+    "keywords": [
+      "地图投影与道路工程低失真坐标控制"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.3地图投影与道路工程低失真坐标控制.html",
+    "trigger_questions": [
+      "地图投影与道路工程低失真坐标控制怎么看？",
+      "地图投影与道路工程低失真坐标控制怎么操作？",
+      "我想看地图投影与道路工程低失真坐标控制。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_4",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "resource_type": "interactive_html",
+    "title": "空间数据模型、拓扑结构与BIM模型差异",
+    "description": "用于辅助理解空间数据模型、拓扑结构与BIM模型差异相关知识点。",
+    "related_kps": [
+      "kp_ch05_108",
+      "kp_ch05_109",
+      "kp_ch05_110",
+      "kp_ch05_111",
+      "kp_ch05_112",
+      "kp_ch05_113",
+      "kp_ch05_114",
+      "kp_ch05_115"
+    ],
+    "keywords": [
+      "空间数据模型",
+      "拓扑结构与BIM模型差异",
+      "BIM"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.4空间数据模型、拓扑结构与BIM模型差异.html",
+    "trigger_questions": [
+      "空间数据模型、拓扑结构与BIM模型差异怎么看？",
+      "空间数据模型、拓扑结构与BIM模型差异怎么操作？",
+      "我想看空间数据模型、拓扑结构与BIM模型差异。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_5",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec05",
+    "resource_type": "interactive_html",
+    "title": "空间分析原理与道路工程应用",
+    "description": "用于辅助理解空间分析原理与道路工程应用相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "空间分析原理与道路工程应用"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.5空间分析原理与道路工程应用.html",
+    "trigger_questions": [
+      "空间分析原理与道路工程应用怎么看？",
+      "空间分析原理与道路工程应用怎么操作？",
+      "我想看空间分析原理与道路工程应用。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_6",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec06",
+    "resource_type": "interactive_html",
+    "title": "矢量空间分析基础与道路应用",
+    "description": "用于辅助理解矢量空间分析基础与道路应用相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "矢量空间分析基础与道路应用"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.6矢量空间分析基础与道路应用.html",
+    "trigger_questions": [
+      "矢量空间分析基础与道路应用怎么看？",
+      "矢量空间分析基础与道路应用怎么操作？",
+      "我想看矢量空间分析基础与道路应用。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_7",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec07",
+    "resource_type": "interactive_html",
+    "title": "栅格空间分析基础与道路应用",
+    "description": "用于辅助理解栅格空间分析基础与道路应用相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "栅格空间分析基础与道路应用"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.7栅格空间分析基础与道路应用.html",
+    "trigger_questions": [
+      "栅格空间分析基础与道路应用怎么看？",
+      "栅格空间分析基础与道路应用怎么操作？",
+      "我想看栅格空间分析基础与道路应用。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_8",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec08",
+    "resource_type": "interactive_html",
+    "title": "数字地形与视域分析基础及道路应用",
+    "description": "用于辅助理解数字地形与视域分析基础及道路应用相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "数字地形与视域分析基础及道路应用"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.8数字地形与视域分析基础及道路应用.html",
+    "trigger_questions": [
+      "数字地形与视域分析基础及道路应用怎么看？",
+      "数字地形与视域分析基础及道路应用怎么操作？",
+      "我想看数字地形与视域分析基础及道路应用。"
+    ]
+  },
+  {
+    "resource_id": "ch05_script_5_9",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec09",
+    "resource_type": "interactive_html",
+    "title": "离散采样点到连续空间表面的生成",
+    "description": "用于辅助理解离散采样点到连续空间表面的生成相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "离散采样点到连续空间表面的生成"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch05/interactive_html/5.9离散采样点到连续空间表面的生成.html",
+    "trigger_questions": [
+      "离散采样点到连续空间表面的生成怎么看？",
+      "离散采样点到连续空间表面的生成怎么操作？",
+      "我想看离散采样点到连续空间表面的生成。"
+    ]
+  },
+  {
+    "resource_id": "fig_5_11",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "resource_type": "image",
+    "title": "图5-11 栅格重分类",
+    "file_path": "assets/ch05/images/fig_5_11.png",
+    "description": "展示按规则为栅格像元重新赋值的过程。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "图5-11 栅格重分类",
+      "栅格重分类"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-11及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-11",
+      "图5.11",
+      "图 5-11"
+    ]
+  },
+  {
+    "resource_id": "fig_5_18",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "resource_type": "image",
+    "title": "图5-18 公路沿线累积视域分析",
+    "file_path": "assets/ch05/images/fig_5_18.png",
+    "description": "展示公路沿线累积视域分析结果。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "图5-18 公路沿线累积视域分析",
+      "公路沿线累积视域分析"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-18及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-18",
+      "图5.18",
+      "图 5-18"
+    ]
+  },
+  {
+    "resource_id": "fig_5_20",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "resource_type": "image",
+    "title": "图5-20 灾害点的局部自相关分析",
+    "file_path": "assets/ch05/images/fig_5_20.png",
+    "description": "展示灾害点热点、冷点和局部空间自相关分析。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "图5-20 灾害点的局部自相关分析",
+      "灾害点的局部自相关分析"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-20及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-20",
+      "图5.20",
+      "图 5-20"
+    ]
+  },
+  {
+    "resource_id": "fig_5_25",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "resource_type": "image",
+    "title": "图5-25 OD成本矩阵分析流程",
+    "file_path": "assets/ch05/images/fig_5_25.png",
+    "description": "展示OD成本矩阵的输入、参数、求解与输出流程。",
+    "related_kps": [],
+    "qa_use": "用于教材图解、AI回答推荐和互动脚本资源绑定。",
+    "status": "bound",
+    "keywords": [
+      "图5-25 OD成本矩阵分析流程",
+      "OD成本矩阵分析流程"
+    ],
+    "binding_source": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+    "binding_note": "依据正式稿图5-25及邻近正文人工确认绑定。",
+    "reference_aliases": [
+      "图5-25",
+      "图5.25",
+      "图 5-25"
+    ]
+  },
+  {
+    "resource_id": "table_5_1",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "resource_type": "table",
+    "title": "表5-1 GIS拓扑模型与BIM构件模型的差异",
+    "file_path": "",
+    "description": "比较GIS拓扑模型与BIM构件模型的关注焦点、基本单位和工程用途。",
+    "related_kps": [],
+    "qa_use": "用于教材表格查询、比较辨析和AI回答推荐。",
+    "status": "structured",
+    "keywords": [
+      "表5-1",
+      "GIS拓扑模型",
+      "BIM构件模型",
+      "差异"
+    ],
+    "table_detail": {
+      "label": "表5-1",
+      "label_key": "5-1",
+      "title": "表5-1 GIS拓扑模型与BIM构件模型的差异",
+      "columns": [
+        "维度",
+        "GIS拓扑模型",
+        "BIM构件模型"
+      ],
+      "rows": [
+        {
+          "维度": "关注焦点",
+          "GIS拓扑模型": "空间关系（邻接、包含、连通）",
+          "BIM构件模型": "构件关系（装配、连接、从属）"
+        },
+        {
+          "维度": "数据单元",
+          "GIS拓扑模型": "节点、弧段、多边形",
+          "BIM构件模型": "参数化构件（梁、板、护栏、路缘石等）"
+        },
+        {
+          "维度": "空间基准",
+          "GIS拓扑模型": "统一地理坐标系",
+          "BIM构件模型": "相对构造位置或项目坐标系"
+        },
+        {
+          "维度": "组织逻辑",
+          "GIS拓扑模型": "地理中心范式：对象之间的空间逻辑",
+          "BIM构件模型": "构件中心范式：对象内部的信息集成"
+        },
+        {
+          "维度": "适用尺度",
+          "GIS拓扑模型": "宏观空间分析（路线规划、用地管控）",
+          "BIM构件模型": "微观构造设计（结构装配、材料定义）"
+        }
+      ],
+      "context_before": "虽然GIS与BIM系统都以“模型”为核心，但二者在数据结构与建模逻辑上具有本质差异，如表 5-1所示。GIS以“空间关系”为核心，强调对象之间的位置、邻接与拓扑结构；BIM则以“构件”为基本单位，强调实体的几何属性、物理逻辑与构造关系。",
+      "source": "output/ch05_rag_engine/reports/ch05_word_extract.txt",
+      "source_document": "批注版-道路工程数字设计方法-数字化教材稿.docx",
+      "extraction_status": "extracted"
+    },
+    "reference_aliases": [
+      "表5-1",
+      "表5.1",
+      "表 5-1"
+    ]
+  }
+]

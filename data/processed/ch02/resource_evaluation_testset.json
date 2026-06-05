@@ -1,0 +1,1481 @@
+[
+  {
+    "test_id": "res_eval_ch02_fig_2_1_01",
+    "chapter_id": "ch02",
+    "question": "图2-1说明了什么？",
+    "expected_resource_id": "ch02_fig_2_1",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_002",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008",
+      "kp_ch02_009",
+      "kp_ch02_010",
+      "kp_ch02_027"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_1_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-1：图2-1 空间坐标系统说明了什么？",
+    "expected_resource_id": "ch02_fig_2_1",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_002",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008",
+      "kp_ch02_009",
+      "kp_ch02_010",
+      "kp_ch02_027"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_2_01",
+    "chapter_id": "ch02",
+    "question": "图2-2说明了什么？",
+    "expected_resource_id": "ch02_fig_2_2",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_012",
+      "kp_ch02_013",
+      "kp_ch02_014",
+      "kp_ch02_015",
+      "kp_ch02_016"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_2_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-2：图2-2 基本几何图元说明了什么？",
+    "expected_resource_id": "ch02_fig_2_2",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_012",
+      "kp_ch02_013",
+      "kp_ch02_014",
+      "kp_ch02_015",
+      "kp_ch02_016"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_3_01",
+    "chapter_id": "ch02",
+    "question": "图2-3说明了什么？",
+    "expected_resource_id": "ch02_fig_2_3",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_019",
+      "kp_ch02_020",
+      "kp_ch02_021"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_3_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-3：图2-3 构造图元、控制图元与辅助图元说明了什么？",
+    "expected_resource_id": "ch02_fig_2_3",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_019",
+      "kp_ch02_020",
+      "kp_ch02_021"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_4_01",
+    "chapter_id": "ch02",
+    "question": "图2-4说明了什么？",
+    "expected_resource_id": "ch02_fig_2_4",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_028",
+      "kp_ch02_029",
+      "kp_ch02_030",
+      "kp_ch02_031"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_4_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-4：图2-4 常见几何构造方法说明了什么？",
+    "expected_resource_id": "ch02_fig_2_4",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_028",
+      "kp_ch02_029",
+      "kp_ch02_030",
+      "kp_ch02_031"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_5_01",
+    "chapter_id": "ch02",
+    "question": "图2-5说明了什么？",
+    "expected_resource_id": "ch02_fig_2_5",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_032",
+      "kp_ch02_033",
+      "kp_ch02_034",
+      "kp_ch02_035",
+      "kp_ch02_036"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_5_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-5：图2-5 几何实体的布尔运算说明了什么？",
+    "expected_resource_id": "ch02_fig_2_5",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_032",
+      "kp_ch02_033",
+      "kp_ch02_034",
+      "kp_ch02_035",
+      "kp_ch02_036"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_6_01",
+    "chapter_id": "ch02",
+    "question": "图2-6说明了什么？",
+    "expected_resource_id": "ch02_fig_2_6",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_002",
+      "kp_ch02_006",
+      "kp_ch02_037",
+      "kp_ch02_038",
+      "kp_ch02_039",
+      "kp_ch02_040",
+      "kp_ch02_042"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_6_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-6：图2-6 平行投影与透视投影说明了什么？",
+    "expected_resource_id": "ch02_fig_2_6",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_002",
+      "kp_ch02_006",
+      "kp_ch02_037",
+      "kp_ch02_038",
+      "kp_ch02_039",
+      "kp_ch02_040",
+      "kp_ch02_042"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_7_01",
+    "chapter_id": "ch02",
+    "question": "图2-7说明了什么？",
+    "expected_resource_id": "ch02_fig_2_7",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_044",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_055",
+      "kp_ch02_056",
+      "kp_ch02_057"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_7_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-7：图2-7 数字高程模型的两种结构说明了什么？",
+    "expected_resource_id": "ch02_fig_2_7",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_044",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_055",
+      "kp_ch02_056",
+      "kp_ch02_057"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_8_01",
+    "chapter_id": "ch02",
+    "question": "图2-8说明了什么？",
+    "expected_resource_id": "ch02_fig_2_8",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_046",
+      "kp_ch02_048"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_8_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-8：图2-8 几种规则格网DEM说明了什么？",
+    "expected_resource_id": "ch02_fig_2_8",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_046",
+      "kp_ch02_048"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_9_01",
+    "chapter_id": "ch02",
+    "question": "图2-9说明了什么？",
+    "expected_resource_id": "ch02_fig_2_9",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_015",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_055",
+      "kp_ch02_056",
+      "kp_ch02_057",
+      "kp_ch02_067",
+      "kp_ch02_069",
+      "kp_ch02_077",
+      "kp_ch02_079",
+      "kp_ch02_081"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_9_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-9：图2-9 TIN的形成与含义说明了什么？",
+    "expected_resource_id": "ch02_fig_2_9",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_015",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_055",
+      "kp_ch02_056",
+      "kp_ch02_057",
+      "kp_ch02_067",
+      "kp_ch02_069",
+      "kp_ch02_077",
+      "kp_ch02_079",
+      "kp_ch02_081"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_10_01",
+    "chapter_id": "ch02",
+    "question": "图2-10说明了什么？",
+    "expected_resource_id": "ch02_fig_2_10",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_058",
+      "kp_ch02_059",
+      "kp_ch02_060",
+      "kp_ch02_061",
+      "kp_ch02_063",
+      "kp_ch02_065",
+      "kp_ch02_066"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_10_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-10：图2-10 Voronoi图说明了什么？",
+    "expected_resource_id": "ch02_fig_2_10",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_058",
+      "kp_ch02_059",
+      "kp_ch02_060",
+      "kp_ch02_061",
+      "kp_ch02_063",
+      "kp_ch02_065",
+      "kp_ch02_066"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_11_01",
+    "chapter_id": "ch02",
+    "question": "图2-11说明了什么？",
+    "expected_resource_id": "ch02_fig_2_11",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_060"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_11_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-11：图2-11 Delaunay三角网的空外接圆性质说明了什么？",
+    "expected_resource_id": "ch02_fig_2_11",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_060"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_12_01",
+    "chapter_id": "ch02",
+    "question": "图2-12说明了什么？",
+    "expected_resource_id": "ch02_fig_2_12",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_061",
+      "kp_ch02_062"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_12_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-12：图2-12 Delaunay三角网的最大最小角度性质说明了什么？",
+    "expected_resource_id": "ch02_fig_2_12",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_061",
+      "kp_ch02_062"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_13_01",
+    "chapter_id": "ch02",
+    "question": "图2-13说明了什么？",
+    "expected_resource_id": "ch02_fig_2_13",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_065"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_13_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-13：图2-13 逐点插入法算法生成三角网说明了什么？",
+    "expected_resource_id": "ch02_fig_2_13",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_065"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_14_01",
+    "chapter_id": "ch02",
+    "question": "图2-14说明了什么？",
+    "expected_resource_id": "ch02_fig_2_14",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_066",
+      "kp_ch02_067"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_fig_2_14_02",
+    "chapter_id": "ch02",
+    "question": "请查看图2-14：图2-14 DT与CDT建模结果对比说明了什么？",
+    "expected_resource_id": "ch02_fig_2_14",
+    "expected_resource_type": "image",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_066",
+      "kp_ch02_067"
+    ],
+    "resource_intent": "image",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_table_2_1_01",
+    "chapter_id": "ch02",
+    "question": "我想看表2-1。",
+    "expected_resource_id": "ch02_table_2_1",
+    "expected_resource_type": "table",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_053",
+      "kp_ch02_054",
+      "kp_ch02_055"
+    ],
+    "resource_intent": "table",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_table_2_1_02",
+    "chapter_id": "ch02",
+    "question": "表2-1对比了什么？",
+    "expected_resource_id": "ch02_table_2_1",
+    "expected_resource_type": "table",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_053",
+      "kp_ch02_054",
+      "kp_ch02_055"
+    ],
+    "resource_intent": "table",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_table_2_1_03",
+    "chapter_id": "ch02",
+    "question": "表2-1 规则格网DEM和TIN DEM对比怎么看？",
+    "expected_resource_id": "ch02_table_2_1",
+    "expected_resource_type": "table",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_053",
+      "kp_ch02_054",
+      "kp_ch02_055"
+    ],
+    "resource_intent": "table",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_table_2_2_01",
+    "chapter_id": "ch02",
+    "question": "我想看表2-2。",
+    "expected_resource_id": "ch02_table_2_2",
+    "expected_resource_type": "table",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_078",
+      "kp_ch02_079",
+      "kp_ch02_080",
+      "kp_ch02_081"
+    ],
+    "resource_intent": "table",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_table_2_2_02",
+    "chapter_id": "ch02",
+    "question": "表2-2对比了什么？",
+    "expected_resource_id": "ch02_table_2_2",
+    "expected_resource_type": "table",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_078",
+      "kp_ch02_079",
+      "kp_ch02_080",
+      "kp_ch02_081"
+    ],
+    "resource_intent": "table",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_table_2_2_03",
+    "chapter_id": "ch02",
+    "question": "表2-2 线框、表面和实体模型特点及表达能力怎么看？",
+    "expected_resource_id": "ch02_table_2_2",
+    "expected_resource_type": "table",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_078",
+      "kp_ch02_079",
+      "kp_ch02_080",
+      "kp_ch02_081"
+    ],
+    "resource_intent": "table",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_1_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-1）。",
+    "expected_resource_id": "ch02_formula_2_1",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_004"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_1_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-1）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_1",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_004"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_2_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-2）。",
+    "expected_resource_id": "ch02_formula_2_2",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_005"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_2_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-2）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_2",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_005"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_3_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-3）。",
+    "expected_resource_id": "ch02_formula_2_3",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_006"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_3_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-3）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_3",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_006"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_4_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-4）。",
+    "expected_resource_id": "ch02_formula_2_4",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_022"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_4_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-4）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_4",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_022"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_5_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-5）。",
+    "expected_resource_id": "ch02_formula_2_5",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_023"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_5_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-5）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_5",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_023"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_6_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-6）。",
+    "expected_resource_id": "ch02_formula_2_6",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_024"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_6_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-6）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_6",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_024"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_7_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-7）。",
+    "expected_resource_id": "ch02_formula_2_7",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_025"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_7_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-7）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_7",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_025"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_8_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-8）。",
+    "expected_resource_id": "ch02_formula_2_8",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_028"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_8_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-8）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_8",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_028"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_9_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-9）。",
+    "expected_resource_id": "ch02_formula_2_9",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_030"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_9_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-9）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_9",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_030"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_10_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-10）。",
+    "expected_resource_id": "ch02_formula_2_10",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_031"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_10_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-10）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_10",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_031"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_11_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-11）。",
+    "expected_resource_id": "ch02_formula_2_11",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_033"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_11_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-11）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_11",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_033"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_12_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-12）。",
+    "expected_resource_id": "ch02_formula_2_12",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_034"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_12_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-12）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_12",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_034"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_13_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-13）。",
+    "expected_resource_id": "ch02_formula_2_13",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_035"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_13_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-13）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_13",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_035"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_14_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-14）。",
+    "expected_resource_id": "ch02_formula_2_14",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_039"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_14_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-14）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_14",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_039"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_15_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-15）。",
+    "expected_resource_id": "ch02_formula_2_15",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_040"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_15_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-15）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_15",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_040"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_16_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-16）。",
+    "expected_resource_id": "ch02_formula_2_16",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_041"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_16_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-16）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_16",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_041"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_17_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-17）。",
+    "expected_resource_id": "ch02_formula_2_17",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_045"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_17_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-17）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_17",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_045"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_18_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-18）。",
+    "expected_resource_id": "ch02_formula_2_18",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050",
+      "kp_ch02_051",
+      "kp_ch02_052",
+      "kp_ch02_053",
+      "kp_ch02_054"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_18_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-18）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_18",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050",
+      "kp_ch02_051",
+      "kp_ch02_052",
+      "kp_ch02_053",
+      "kp_ch02_054"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_19_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-19）。",
+    "expected_resource_id": "ch02_formula_2_19",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_052"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_19_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-19）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_19",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_052"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_20_01",
+    "chapter_id": "ch02",
+    "question": "我想看公式（2-20）。",
+    "expected_resource_id": "ch02_formula_2_20",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_058"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_formula_2_20_02",
+    "chapter_id": "ch02",
+    "question": "公式（2-20）的变量含义是什么？",
+    "expected_resource_id": "ch02_formula_2_20",
+    "expected_resource_type": "formula",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_058"
+    ],
+    "resource_intent": "formula",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_1_01",
+    "chapter_id": "ch02",
+    "question": "坐标系统原理与模型定位怎么看？",
+    "expected_resource_id": "ch02_script_2_1",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_001",
+      "kp_ch02_002",
+      "kp_ch02_003",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_1_02",
+    "chapter_id": "ch02",
+    "question": "坐标系统原理与模型定位怎么操作？",
+    "expected_resource_id": "ch02_script_2_1",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_001",
+      "kp_ch02_002",
+      "kp_ch02_003",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_1_03",
+    "chapter_id": "ch02",
+    "question": "我想看坐标系统原理与模型定位。",
+    "expected_resource_id": "ch02_script_2_1",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_001",
+      "kp_ch02_002",
+      "kp_ch02_003",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_2_01",
+    "chapter_id": "ch02",
+    "question": "几何图元与模型表达方式怎么看？",
+    "expected_resource_id": "ch02_script_2_2",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_2_02",
+    "chapter_id": "ch02",
+    "question": "几何图元与模型表达方式怎么操作？",
+    "expected_resource_id": "ch02_script_2_2",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_2_03",
+    "chapter_id": "ch02",
+    "question": "我想看几何图元与模型表达方式。",
+    "expected_resource_id": "ch02_script_2_2",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_3_01",
+    "chapter_id": "ch02",
+    "question": "几何编号与道路构件怎么看？",
+    "expected_resource_id": "ch02_script_2_3",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_068",
+      "kp_ch02_069",
+      "kp_ch02_070",
+      "kp_ch02_071",
+      "kp_ch02_072",
+      "kp_ch02_073",
+      "kp_ch02_074",
+      "kp_ch02_075"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_3_02",
+    "chapter_id": "ch02",
+    "question": "几何编号与道路构件怎么操作？",
+    "expected_resource_id": "ch02_script_2_3",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_068",
+      "kp_ch02_069",
+      "kp_ch02_070",
+      "kp_ch02_071",
+      "kp_ch02_072",
+      "kp_ch02_073",
+      "kp_ch02_074",
+      "kp_ch02_075"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_3_03",
+    "chapter_id": "ch02",
+    "question": "我想看几何编号与道路构件。",
+    "expected_resource_id": "ch02_script_2_3",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch02_068",
+      "kp_ch02_069",
+      "kp_ch02_070",
+      "kp_ch02_071",
+      "kp_ch02_072",
+      "kp_ch02_073",
+      "kp_ch02_074",
+      "kp_ch02_075"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_4_01",
+    "chapter_id": "ch02",
+    "question": "投影方式与道路模型表达怎么看？",
+    "expected_resource_id": "ch02_script_2_4",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_4_02",
+    "chapter_id": "ch02",
+    "question": "投影方式与道路模型表达怎么操作？",
+    "expected_resource_id": "ch02_script_2_4",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_4_03",
+    "chapter_id": "ch02",
+    "question": "我想看投影方式与道路模型表达。",
+    "expected_resource_id": "ch02_script_2_4",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_5_01",
+    "chapter_id": "ch02",
+    "question": "数字高程模型与算法怎么看？",
+    "expected_resource_id": "ch02_script_2_5",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_5_02",
+    "chapter_id": "ch02",
+    "question": "数字高程模型与算法怎么操作？",
+    "expected_resource_id": "ch02_script_2_5",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_5_03",
+    "chapter_id": "ch02",
+    "question": "我想看数字高程模型与算法。",
+    "expected_resource_id": "ch02_script_2_5",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_6_01",
+    "chapter_id": "ch02",
+    "question": "道路几何建模目标怎么看？",
+    "expected_resource_id": "ch02_script_2_6",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_6_02",
+    "chapter_id": "ch02",
+    "question": "道路几何建模目标怎么操作？",
+    "expected_resource_id": "ch02_script_2_6",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_6_03",
+    "chapter_id": "ch02",
+    "question": "我想看道路几何建模目标。",
+    "expected_resource_id": "ch02_script_2_6",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_7_01",
+    "chapter_id": "ch02",
+    "question": "图元—构件—语义三层映射怎么看？",
+    "expected_resource_id": "ch02_script_2_7",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_7_02",
+    "chapter_id": "ch02",
+    "question": "图元—构件—语义三层映射怎么操作？",
+    "expected_resource_id": "ch02_script_2_7",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_7_03",
+    "chapter_id": "ch02",
+    "question": "我想看图元—构件—语义三层映射。",
+    "expected_resource_id": "ch02_script_2_7",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_8_01",
+    "chapter_id": "ch02",
+    "question": "模型表达层级与 LOD 选择怎么看？",
+    "expected_resource_id": "ch02_script_2_8",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_8_02",
+    "chapter_id": "ch02",
+    "question": "模型表达层级与 LOD 选择怎么操作？",
+    "expected_resource_id": "ch02_script_2_8",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_8_03",
+    "chapter_id": "ch02",
+    "question": "我想看模型表达层级与 LOD 选择。",
+    "expected_resource_id": "ch02_script_2_8",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_9_01",
+    "chapter_id": "ch02",
+    "question": "道路模型的表达怎么看？",
+    "expected_resource_id": "ch02_script_2_9",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_9_02",
+    "chapter_id": "ch02",
+    "question": "道路模型的表达怎么操作？",
+    "expected_resource_id": "ch02_script_2_9",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch02_script_2_9_03",
+    "chapter_id": "ch02",
+    "question": "我想看道路模型的表达。",
+    "expected_resource_id": "ch02_script_2_9",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  }
+]

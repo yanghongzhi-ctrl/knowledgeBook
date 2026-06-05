@@ -1,0 +1,115 @@
+{
+  "chapter_id": "ch02",
+  "docx": "D:\\道路工程数字设计方法\\文稿\\第二章\\第二章 道路建模的图形原理与三维表达.docx",
+  "paragraph_or_table_blocks": 327,
+  "captions": [
+    "在道路工程的数字化设计中，空间坐标系统是表达几何形态、构件位置与模型关系的基础框架。根据使用场景与功能差异，空间坐标系统通常包括以下五类：笛卡尔坐标系统、地理/投影坐标系统、世界坐标系（WCS）、用户坐标系（UCS）与工程桩号系统， REF _Ref201045718 \\r \\h 图 2-1所示。它们从几何数学描述、GIS空间定位、局部建模控制到工程语义表达，构成了完整的空间表达链条，服务于不同尺度与阶段的设计任务。",
+    "这些图元之间具有从低维到高维的组合关系：点生成线，线围成面，面构成立体，如 REF _Ref201045889 \\r \\h 图 2-2。它们不仅构成图形绘制的基本元素，也是参数驱动建模、空间布尔操作、图元识别与工程语义解析的基础。在构件族（Family）建模、断面模板设计、基于路径的参数建模等操作中，几何图元均为核心数据结构。",
+    "在构建道路工程的数字模型时，不同建模元素发挥着不同作用。根据其在建模过程中的功能角色与组织逻辑，可将图元分为以下三类（ REF _Ref201221771 \\r \\h 图 2-3）：",
+    "在三维建模中，各类实体的生成依赖于若干几何构造方法。这些方法通常基于二维截面图形（如线、面）与某种空间变换或几何控制条件的组合，从而生成具有体积与边界的三维构件。以下介绍四种常见的基本构造方法，如 REF _Ref201221976 \\r \\h 图 2-4。",
+    "布尔运算，又称布尔几何运算（Boolean Geometry Operation），是三维建模中的基础构造逻辑之一，用于通过两个或多个几何实体之间的集合关系构造出新的复合几何体。其核心思想来源于布尔代数和集合论，通过对几何实体进行并集（Union）、交集（Intersection）、差集（Difference/ Subtraction）等运算（ REF _Ref201217195 \\r \\h 图 2-5），生成新的几何模型，是构建复杂道路构造物、构件衔接部位及穿插关系的重要方法。",
+    "投影的本质是通过一组投影线将三维空间中的点 (x,y,z) 映射至二维投影面上的点 x',y'。按照投影线的几何性质，可将投影方式分为以下两大类（ REF _Ref201065692 \\r \\h 图 2-6）：",
+    "式（2-18）中，当ξ为正方形格网时，这时的DEM称为基于格网的DEM，如 REF _Ref191023164 \\r \\h 图 2-7 a）所示。当ξ为三角形时，这时的DEM称为基于不规则三角网的DEM（Irregular Triangulated Network based DEM，TIN based DEM），如 REF _Ref191023164 \\r \\h 图 2-7 b）所示。",
+    "规则格网 DEM 是指以等间距规则网格记录高程值的模型结构，其核心是二维矩阵，每个格网节点存储一个高程值。该方式结构清晰、计算效率高，广泛应用于遥感图像处理、GIS 分析等领域。 REF _Ref201070000 \\r \\h 图 2-8显示了几种规则格网的DEM。",
+    "不规则三角网实际上是二维空间上对三维地形表面的描述，也就是说，它首先对研究区域在二维平面上进行三角形剖分，形成覆盖整个区域的TIN，然后将每个节点附加高程，形成三维表面，如 REF _Ref191023026 \\r \\h 图 2-9所示。",
+    "称为Voronoi多边形（简称V－多边形），平面点集中的点则称为V－多边形的生长核。Voronoi多边形描述了一个轨迹，即多边形中的点到本多边形生长核的距离小于等于到其它生长核的距离。各点的Voronoi多边形共同组成了Voronoi图，如 REF _Ref191022993 \\r \\h 图 2-10虚线所示。连接所有相邻的V-多边形的生长核所形成的三角网称为Delaunay三角网，如 REF _Ref191022993 \\r \\h 图 2-10实线所示。",
+    "(1)空外接圆性质：在由点集V所形成的Delaunay三角网中，其每个三角形的外接圆均不包含点集V中的其他任意点，如 REF _Ref191022985 \\r \\h 图 2-11所示。",
+    "(2)最大最小角度性质：在由点集V所能形成的三角网中，Delaunay三角网中三角形的最小角度是最大的。Lawson于1972年提出了根据最大最小角度性质建立局部几何形状最优的三角网：对于由两个毗邻Delaunay三角形构成的凸四边形，如果交换此四边形的两条对角线，不会增加这两个三角形六个内角中的最小值。如果交换两条对角线时，则最小角变大而最大角变小，这说明两三角形不是Delaunay三角形，而需要优化，即交换对角线，如 REF _Ref191022975 \\r \\h 图 2-12所示。由于优化通常在局部进行，所以也称为局部优化算法（Local Optimization Procedure, LOP）。",
+    "逐点插入算法的具体步骤为（ REF _Ref191022861 \\r \\h 图 2-13）：",
+    "为此，引入约束 Delaunay 三角网（Constrained Delaunay Triangulation，简称 CDT）的建模方式，如 REF _Ref201222204 \\r \\h 图 2-14 REF _Ref191022750 \\r \\h 为Delaunay三角网与约束Delaunay三角网建模结果的对比。CDT 是在传统 Delaunay 三角剖分的基础上，通常采用“约束边插入 → 非合法三角形识别 → 局部边翻转优化”，添加“约束边”（Constraint Edges）后进行的三角形剖分，其核心思想是："
+  ],
+  "image_matches": [
+    {
+      "figure_no": "2-1",
+      "caption": "图2-1 所示。它们从几何数学描述、GIS空间定位、局部建模控制到工程语义表达，构成了完整的空间表达链条，服务于不同尺度与阶段的设计任务。",
+      "resource_id": "ch02_fig_2_1",
+      "file_path": "assets/ch02/images/ch02_fig_2_1.png",
+      "source_name": "media/image1.png"
+    },
+    {
+      "figure_no": "2-2",
+      "caption": "图2-2 。它们不仅构成图形绘制的基本元素，也是参数驱动建模、空间布尔操作、图元识别与工程语义解析的基础。在构件族（Family）建模、断面模板设计、基于路径的参数建模等操作中，几何图元均为核心数据结构。",
+      "resource_id": "ch02_fig_2_2",
+      "file_path": "assets/ch02/images/ch02_fig_2_2.png",
+      "source_name": "media/image2.png"
+    },
+    {
+      "figure_no": "2-4",
+      "caption": "图2-4 。",
+      "resource_id": "ch02_fig_2_4",
+      "file_path": "assets/ch02/images/ch02_fig_2_4.png",
+      "source_name": "media/image4.png"
+    },
+    {
+      "figure_no": "2-5",
+      "caption": "图2-5 ），生成新的几何模型，是构建复杂道路构造物、构件衔接部位及穿插关系的重要方法。",
+      "resource_id": "ch02_fig_2_5",
+      "file_path": "assets/ch02/images/ch02_fig_2_5.png",
+      "source_name": "media/image5.png"
+    },
+    {
+      "figure_no": "2-6",
+      "caption": "图2-6 ）：",
+      "resource_id": "ch02_fig_2_6",
+      "file_path": "assets/ch02/images/ch02_fig_2_6.png",
+      "source_name": "media/image6.png"
+    },
+    {
+      "figure_no": "2-7",
+      "caption": "图2-7 a）所示。当ξ为三角形时，这时的DEM称为基于不规则三角网的DEM（Irregular Triangulated Network based DEM，TIN based DEM），如 REF _Ref191023164 \\r \\h 图 2-7 b）所示。",
+      "resource_id": "ch02_fig_2_7",
+      "file_path": "assets/ch02/images/ch02_fig_2_7.jpeg",
+      "source_name": "media/image7.jpeg"
+    },
+    {
+      "figure_no": "2-8",
+      "caption": "图2-8 显示了几种规则格网的DEM。",
+      "resource_id": "ch02_fig_2_8",
+      "file_path": "assets/ch02/images/ch02_fig_2_8.jpeg",
+      "source_name": "media/image9.jpeg"
+    },
+    {
+      "figure_no": "2-9",
+      "caption": "图2-9 所示。",
+      "resource_id": "ch02_fig_2_9",
+      "file_path": "assets/ch02/images/ch02_fig_2_9.jpeg",
+      "source_name": "media/image10.jpeg"
+    },
+    {
+      "figure_no": "2-10",
+      "caption": "图2-10 虚线所示。连接所有相邻的V-多边形的生长核所形成的三角网称为Delaunay三角网，如 REF _Ref191022993 \\r \\h 图 2-10实线所示。",
+      "resource_id": "ch02_fig_2_10",
+      "file_path": "assets/ch02/images/ch02_fig_2_10.png",
+      "source_name": "media/image11.png"
+    },
+    {
+      "figure_no": "2-11",
+      "caption": "图2-11 所示。",
+      "resource_id": "ch02_fig_2_11",
+      "file_path": "assets/ch02/images/ch02_fig_2_11.png",
+      "source_name": "media/image12.png"
+    },
+    {
+      "figure_no": "2-12",
+      "caption": "图2-12 所示。由于优化通常在局部进行，所以也称为局部优化算法（Local Optimization Procedure, LOP）。",
+      "resource_id": "ch02_fig_2_12",
+      "file_path": "assets/ch02/images/ch02_fig_2_12.jpeg",
+      "source_name": "media/image13.jpeg"
+    },
+    {
+      "figure_no": "2-13",
+      "caption": "图2-13 ）：",
+      "resource_id": "ch02_fig_2_13",
+      "file_path": "assets/ch02/images/ch02_fig_2_13.png",
+      "source_name": "media/image14.png"
+    },
+    {
+      "figure_no": "2-14",
+      "caption": "图2-14 REF _Ref191022750 \\r \\h 为Delaunay三角网与约束Delaunay三角网建模结果的对比。CDT 是在传统 Delaunay 三角剖分的基础上，通常采用“约束边插入 → 非合法三角形识别 → 局部边翻转优化”，添加“约束边”（Constraint Edges）后进行的三角形剖分，其核心思想是：",
+      "resource_id": "ch02_fig_2_14",
+      "file_path": "assets/ch02/images/ch02_fig_2_14.png",
+      "source_name": "media/image15.png"
+    }
+  ],
+  "updated_resources": 13
+}

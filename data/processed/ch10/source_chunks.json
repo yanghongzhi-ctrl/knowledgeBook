@@ -1,0 +1,4832 @@
+[
+  {
+    "chunk_id": "ch10_src_001",
+    "chapter_id": "ch10",
+    "section_id": "ch10",
+    "heading_path": "第十章 AI驱动的道路设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "3.理解道路选线优化问题的核心要素，包括决策变量、目标函数及约束条件（硬约束/软约束）。理解遗传算法（GA）在单目标优化（如造价最小化）中的编码、选择、交叉与变异流程，了解多目标进化算法（MOEA/NSGA-II）的原理。理解马尔可夫决策过程（MDP）框架，掌握如何利用强化学习（如DQN算法）将设计转化为序列决策问题。",
+    "semantic_summary": "3.理解道路选线优化问题的核心要素，包括决策变量、目标函数及约束条件（硬约束/软约束）。理解遗传算法（GA）在单目标优化（如造价最小化）中的编码、选择、交叉与变异流程，了解多目标进化算法（MOEA/NSGA-II）的原理。理解马尔可夫决策过...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "3.理解道路选线优化问题的核心要素，包括决策变量、目标函数及约束条件（硬约束/软约束）。理解遗传算法（GA）在单目标优化（如造价最小化）中的编码、选择、交叉与变异流程，了解多目标进化算法（MOEA/NSGA-II）的原理。理解马尔可夫决策过...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "concept_supported",
+      "classification": "concept_supported_summary",
+      "support_terms": [
+        "GA",
+        "MOEA/NSGA-II",
+        "MDP",
+        "DQN"
+      ]
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "concept_supported",
+      "classification": "concept_supported_summary",
+      "excerpt_preview": "3.理解道路选线优化问题的核心要素，包括决策变量、目标函数及约束条件（硬约束/软约束）。理解遗传算法（GA）在单目标优化（如造价最小化）中的编码、选择、交叉与变异流程，了解多目标进化算法（MOEA/NSGA-II）的原理。理解马尔可夫决策过"
+    },
+    "evidence_boundary_note": "片段不是教材原句，但关键概念在Word中可支撑。"
+  },
+  {
+    "chunk_id": "ch10_src_002",
+    "chapter_id": "ch10",
+    "section_id": "ch10",
+    "heading_path": "第十章 AI驱动的道路设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以辅助选线 。理解协同过滤与基于内容的推荐原理及其应用。",
+    "semantic_summary": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "summary_with_term_support",
+      "support_terms": [
+        "SVM"
+      ]
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "summary_with_term_support",
+      "excerpt_preview": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以"
+    },
+    "evidence_boundary_note": "片段主体未直接命中，但存在可追溯术语支撑。",
+    "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "summary_with_term_support",
+      "review_status": "term_supported_summary_review",
+      "recommended_action": "保留为教学摘要候选；人工确认术语锚点是否足以支撑该 Source_Chunk。",
+      "best_score": 0.517533,
+      "score_margin": 0.02063,
+      "candidate_paragraph_start": 4781,
+      "candidate_paragraph_end": 4781,
+      "candidate_reasons": [
+        "excerpt:0.53",
+        "summary:0.54",
+        "terms:了解监督学习,无监督学习,及深度学习,在处理多源异构道路数据,遥感,中的作用,通过机器学习模型,进行模式识别"
+      ],
+      "matched_terms": [
+        "了解监督学习",
+        "无监督学习",
+        "及深度学习",
+        "在处理多源异构道路数据",
+        "遥感",
+        "中的作用",
+        "通过机器学习模型",
+        "进行模式识别",
+        "自动生成地质灾害风险地图",
+        "以辅助选线"
+      ],
+      "candidate_text_preview": "4.了解监督学习、无监督学习及深度学习在处理多源异构道路数据中的作用。了解利用遥感与历史数据，通过机器学习模型进行模式识别，自动生成地质灾害风险地图以辅助选线。了解推荐系统在路线设计中的应用模式。",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_003",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具知识化、智能化与数据化特征。其根本贡献在于：把过去高度依赖人工判断、结构化不足的复杂问题，转化为可表示、可计算、可优化的“可解问题”——具体体现在对非结构化信息的结构化、对定性因素的量化，以及对超大方案空间的系统性搜索。AI 并非取代工程师，而是增强其认知与决策能力：将设计人员从繁琐的计算与制图中解放出来，使其更专注于",
+    "semantic_summary": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具知识化、智能化与数据化特征。其根本贡献在于：把过去高度依赖人工判断、结构化不足的...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具知识化、智能化与数据化特征。其根本贡献在于：把过去高度依赖人工判断、结构化不足的...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI 的引入使设计活动更具知识化、智能化与数据化特征。其根本贡献在于：把过去高度依赖人工判断、结构化不足的"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_004",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "就道路工程设计而言，AI 驱动的三类范式——知识驱动、算法驱动与数据驱动——在功能定位上各有侧重：知识驱动提供规范化、可解释的设计约束与判定依据；算法驱动承担复杂问题的优化求解，探索广阔的解空间；数据驱动依托大规模样本学习，识别潜在模式并形成预测模型。随着检索增强生成（RAG）、智能体（AI Agent）、多模态模型与基础模型等技术的发展，这三类范式不断拓展其内涵边界，呈现出融合化、系统化的演进趋势。",
+    "semantic_summary": "就道路工程设计而言，AI 驱动的三类范式——知识驱动、算法驱动与数据驱动——在功能定位上各有侧重：知识驱动提供规范化、可解释的设计约束与判定依据；算法驱动承担复杂问题的优化求解，探索广阔的解空间；数据驱动依托大规模样本学习，识别潜在模式并形...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "就道路工程设计而言，AI 驱动的三类范式——知识驱动、算法驱动与数据驱动——在功能定位上各有侧重：知识驱动提供规范化、可解释的设计约束与判定依据；算法驱动承担复杂问题的优化求解，探索广阔的解空间；数据驱动依托大规模样本学习，识别潜在模式并形...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "就道路工程设计而言，AI 驱动的三类范式——知识驱动、算法驱动与数据驱动——在功能定位上各有侧重：知识驱动提供规范化、可解释的设计约束与判定依据；算法驱动承担复杂问题的优化求解，探索广阔的解空间；数据驱动依托大规模样本学习，识别潜在模式并形"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_005",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "知识驱动将工程师的显性知识形式化为机器可处理的结构，包括规范—规则库、本体与知识图谱以及两类基本推理机制：基于规则的推理（RBR）与基于案例的推理（CBR）。本体与知识图谱用于建立术语—概念—关系的语义网络，例如将“涵洞”定义为“排水构造物”的一种，并关联其适用地质条件与关键参数；在此之上，RBR 以 IF–THEN 产生式规则表达规范约束（如“若设计速度=100 km/h 且纵坡>规范上限，则触发违规警示”），CBR 则在规则难以穷尽时，按相似性检索历史工程案例的处置策略并",
+    "semantic_summary": "知识驱动将工程师的显性知识形式化为机器可处理的结构，包括规范—规则库、本体与知识图谱以及两类基本推理机制：基于规则的推理（RBR）与基于案例的推理（CBR）。本体与知识图谱用于建立术语—概念—关系的语义网络，例如将“涵洞”定义为“排水构造物...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "知识驱动将工程师的显性知识形式化为机器可处理的结构，包括规范—规则库、本体与知识图谱以及两类基本推理机制：基于规则的推理（RBR）与基于案例的推理（CBR）。本体与知识图谱用于建立术语—概念—关系的语义网络，例如将“涵洞”定义为“排水构造物...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "知识驱动将工程师的显性知识形式化为机器可处理的结构，包括规范—规则库、本体与知识图谱以及两类基本推理机制：基于规则的推理（RBR）与基于案例的推理（CBR）。本体与知识图谱用于建立术语—概念—关系的语义网络，例如将“涵洞”定义为“排水构造物"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_006",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "传统知识库“静态、难更新”的局限，正通过检索增强生成（RAG）得到突破。RAG 作为“动态知识接入层”，把大语言模型（LLM）的生成能力与外部权威知识源的实时检索结合起来，形成“检索 → 证据拼接 → 生成”的闭环：当设计者提出问题（如“盐渍土路段路基处理的最新条款与可选工法”），系统先在规范文档、企业案例库、GIS 数据库中检索相关片段，再把这些可核查的证据拼接到提示中，最后要求模型在引用证据的前提下生成建议。RAG 的引入，使知识驱动从“封闭的预编译规则集”演化为“开放的",
+    "semantic_summary": "传统知识库“静态、难更新”的局限，正通过检索增强生成（RAG）得到突破。RAG 作为“动态知识接入层”，把大语言模型（LLM）的生成能力与外部权威知识源的实时检索结合起来，形成“检索 → 证据拼接 → 生成”的闭环：当设计者提出问题（如“盐...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "传统知识库“静态、难更新”的局限，正通过检索增强生成（RAG）得到突破。RAG 作为“动态知识接入层”，把大语言模型（LLM）的生成能力与外部权威知识源的实时检索结合起来，形成“检索 → 证据拼接 → 生成”的闭环：当设计者提出问题（如“盐...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "传统知识库“静态、难更新”的局限，正通过检索增强生成（RAG）得到突破。RAG 作为“动态知识接入层”，把大语言模型（LLM）的生成能力与外部权威知识源的实时检索结合起来，形成“检索 → 证据拼接 → 生成”的闭环：当设计者提出问题（如“盐"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_007",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "heading",
+    "source_excerpt": "二、算法驱动：从“单次求解器”到“可编排的智能求解流程”",
+    "semantic_summary": "二、算法驱动：从“单次求解器”到“可编排的智能求解流程”",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "二、算法驱动：从“单次求解器”到“可编排的智能求解流程”",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "二、算法驱动：从“单次求解器”到“可编排的智能求解流程”"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_008",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "算法驱动把设计看作优化与推演问题：以目标函数与约束表达工程目标与规范要求，以搜索算法在庞大方案空间中寻找“最优/近优”解。内核方法包括：图论与网络模型（把区域抽象为节点—边网络，采用最短路/最小生成树等算法）、演化与群智能算法（遗传算法、多目标进化算法等，适合处理非线性、多目标权衡）、局部搜索与混合策略（模拟退火、禁忌搜索与演化算法耦合，提高全局—局部协同能力），以及强化学习（RL）把路线生成为“序列决策”，用奖励函数综合成本、环境与技术指标，面向离散或连续决策空间逐步改进方",
+    "semantic_summary": "算法驱动把设计看作优化与推演问题：以目标函数与约束表达工程目标与规范要求，以搜索算法在庞大方案空间中寻找“最优/近优”解。内核方法包括：图论与网络模型（把区域抽象为节点—边网络，采用最短路/最小生成树等算法）、演化与群智能算法（遗传算法、多...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "算法驱动把设计看作优化与推演问题：以目标函数与约束表达工程目标与规范要求，以搜索算法在庞大方案空间中寻找“最优/近优”解。内核方法包括：图论与网络模型（把区域抽象为节点—边网络，采用最短路/最小生成树等算法）、演化与群智能算法（遗传算法、多...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "算法驱动把设计看作优化与推演问题：以目标函数与约束表达工程目标与规范要求，以搜索算法在庞大方案空间中寻找“最优/近优”解。内核方法包括：图论与网络模型（把区域抽象为节点—边网络，采用最短路/最小生成树等算法）、演化与群智能算法（遗传算法、多"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_009",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "算法驱动擅长三个方面：其一是大尺度搜索——在人工直觉难以穷尽的可能性空间里高效遍历与筛选；其二是复杂非线性——在地形起伏大、约束耦合强的情境下仍能稳定收敛；其三是多目标权衡——用帕累托前沿给出一组侧重不同的备选方案（如“更经济—更环保—更顺适”），便于在设计审查中进行定量—定性综合判断。",
+    "semantic_summary": "算法驱动擅长三个方面：其一是大尺度搜索——在人工直觉难以穷尽的可能性空间里高效遍历与筛选；其二是复杂非线性——在地形起伏大、约束耦合强的情境下仍能稳定收敛；其三是多目标权衡——用帕累托前沿给出一组侧重不同的备选方案（如“更经济—更环保—更顺...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "算法驱动擅长三个方面：其一是大尺度搜索——在人工直觉难以穷尽的可能性空间里高效遍历与筛选；其二是复杂非线性——在地形起伏大、约束耦合强的情境下仍能稳定收敛；其三是多目标权衡——用帕累托前沿给出一组侧重不同的备选方案（如“更经济—更环保—更顺...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "算法驱动擅长三个方面：其一是大尺度搜索——在人工直觉难以穷尽的可能性空间里高效遍历与筛选；其二是复杂非线性——在地形起伏大、约束耦合强的情境下仍能稳定收敛；其三是多目标权衡——用帕累托前沿给出一组侧重不同的备选方案（如“更经济—更环保—更顺"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_010",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "近年来AI算法驱动开始从“分散的算法工具”升级为AI 智能体（Agent）编排的流程。AI Agent 是能感知数字环境、进行规划与推理并调用工具（API）的软件实体。在道路设计中，它承担“算法的组织与执行体”，围绕“规划—执行—反馈”循环运作：",
+    "semantic_summary": "近年来AI算法驱动开始从“分散的算法工具”升级为AI 智能体（Agent）编排的流程。AI Agent 是能感知数字环境、进行规划与推理并调用工具（API）的软件实体。在道路设计中，它承担“算法的组织与执行体”，围绕“规划—执行—反馈”循环...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "近年来AI算法驱动开始从“分散的算法工具”升级为AI 智能体（Agent）编排的流程。AI Agent 是能感知数字环境、进行规划与推理并调用工具（API）的软件实体。在道路设计中，它承担“算法的组织与执行体”，围绕“规划—执行—反馈”循环...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "近年来AI算法驱动开始从“分散的算法工具”升级为AI 智能体（Agent）编排的流程。AI Agent 是能感知数字环境、进行规划与推理并调用工具（API）的软件实体。在道路设计中，它承担“算法的组织与执行体”，围绕“规划—执行—反馈”循环"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_011",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "1.规划：把“为某高速公路进行线形优化”分解为可执行子任务（获取 GIS 约束、构建多目标模型、运行优化器、三维建模与评价等）；",
+    "semantic_summary": "1.规划：把“为某高速公路进行线形优化”分解为可执行子任务（获取 GIS 约束、构建多目标模型、运行优化器、三维建模与评价等）；",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "1.规划：把“为某高速公路进行线形优化”分解为可执行子任务（获取 GIS 约束、构建多目标模型、运行优化器、三维建模与评价等）；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "1.规划：把“为某高速公路进行线形优化”分解为可执行子任务（获取 GIS 约束、构建多目标模型、运行优化器、三维建模与评价等）；"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_012",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "借助 Agent，算法驱动从“单次求解器”转向“可编排、可迭代的智能求解流程”，极大降低跨平台人工操作的冲突，强化“流程级协同”的内在一致性，但更强调由智能体来完成调度与闭环。",
+    "semantic_summary": "借助 Agent，算法驱动从“单次求解器”转向“可编排、可迭代的智能求解流程”，极大降低跨平台人工操作的冲突，强化“流程级协同”的内在一致性，但更强调由智能体来完成调度与闭环。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "借助 Agent，算法驱动从“单次求解器”转向“可编排、可迭代的智能求解流程”，极大降低跨平台人工操作的冲突，强化“流程级协同”的内在一致性，但更强调由智能体来完成调度与闭环。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "借助 Agent，算法驱动从“单次求解器”转向“可编排、可迭代的智能求解流程”，极大降低跨平台人工操作的冲突，强化“流程级协同”的内在一致性，但更强调由智能体来完成调度与闭环。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_013",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "数据驱动的基本思想是：利用大规模样本学习统计规律与表达模式，并将其用于预测与生成。技术谱系经历了从统计学习到深度学习的演进，当前正迈向基础模型（Foundation Models）与多模态学习。对于道路工程，这意味着模型不仅理解结构化数值（地形参数、线形指标），还可同时处理遥感影像、LiDAR 点云、地质文本报告与交通时序等多源数据，形成更接近真实场景的“组合感知”。",
+    "semantic_summary": "数据驱动的基本思想是：利用大规模样本学习统计规律与表达模式，并将其用于预测与生成。技术谱系经历了从统计学习到深度学习的演进，当前正迈向基础模型（Foundation Models）与多模态学习。对于道路工程，这意味着模型不仅理解结构化数值（...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "数据驱动的基本思想是：利用大规模样本学习统计规律与表达模式，并将其用于预测与生成。技术谱系经历了从统计学习到深度学习的演进，当前正迈向基础模型（Foundation Models）与多模态学习。对于道路工程，这意味着模型不仅理解结构化数值（...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "数据驱动的基本思想是：利用大规模样本学习统计规律与表达模式，并将其用于预测与生成。技术谱系经历了从统计学习到深度学习的演进，当前正迈向基础模型（Foundation Models）与多模态学习。对于道路工程，这意味着模型不仅理解结构化数值（"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_014",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）数据 × 知识：用规范/本体对数据模型进行结构化约束（如在损失函数或输出校核中嵌入规则），缓解“仅相关不因果”的盲点，提升结果可解释性与合规性；",
+    "semantic_summary": "（1）数据 × 知识：用规范/本体对数据模型进行结构化约束（如在损失函数或输出校核中嵌入规则），缓解“仅相关不因果”的盲点，提升结果可解释性与合规性；",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）数据 × 知识：用规范/本体对数据模型进行结构化约束（如在损失函数或输出校核中嵌入规则），缓解“仅相关不因果”的盲点，提升结果可解释性与合规性；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（1）数据 × 知识：用规范/本体对数据模型进行结构化约束（如在损失函数或输出校核中嵌入规则），缓解“仅相关不因果”的盲点，提升结果可解释性与合规性；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_015",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）数据 × 算法：用学习得到的代理模型（surrogate）加速仿真与优化，或通过奖励重构提升如强化学习的收敛效率，使“预测—优化—再预测”的闭环更高效。",
+    "semantic_summary": "（2）数据 × 算法：用学习得到的代理模型（surrogate）加速仿真与优化，或通过奖励重构提升如强化学习的收敛效率，使“预测—优化—再预测”的闭环更高效。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）数据 × 算法：用学习得到的代理模型（surrogate）加速仿真与优化，或通过奖励重构提升如强化学习的收敛效率，使“预测—优化—再预测”的闭环更高效。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "（2）数据 × 算法：用学习得到的代理模型（surrogate）加速仿真与优化，或通过奖励重构提升如强化学习的收敛效率，使“预测—优化—再预测”的闭环更高效。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_016",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设计—评价”的智能设计流程。本节以山区公路地质选线为例，阐述知识的表达方式、管理机制、推理逻辑与平台应用。",
+    "semantic_summary": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设计—评价”的智能设计流程。本节以山区公路地质选线为例，阐述知识的表达方式、管理机...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设计—评价”的智能设计流程。本节以山区公路地质选线为例，阐述知识的表达方式、管理机...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "知识的表达与推理能力是推动道路设计智能化的重要手段。知识驱动的设计体系，致力于将设计规范、专家经验、空间约束和历史案例转化为可检索、可推理的信息，构建“认知—设计—评价”的智能设计流程。本节以山区公路地质选线为例，阐述知识的表达方式、管理机"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_017",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "传统的图形与参数模型虽能表达几何形态，但难以涵盖设计背后的规范逻辑与专家经验。因此，需要建立结构化的知识驱动设计系统，把规范条款、设计经验、空间约束与历史案例转化为可用的信息资源，在实际设计中提供及时辅助。系统的主要目标包括：",
+    "semantic_summary": "传统的图形与参数模型虽能表达几何形态，但难以涵盖设计背后的规范逻辑与专家经验。因此，需要建立结构化的知识驱动设计系统，把规范条款、设计经验、空间约束与历史案例转化为可用的信息资源，在实际设计中提供及时辅助。系统的主要目标包括：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "传统的图形与参数模型虽能表达几何形态，但难以涵盖设计背后的规范逻辑与专家经验。因此，需要建立结构化的知识驱动设计系统，把规范条款、设计经验、空间约束与历史案例转化为可用的信息资源，在实际设计中提供及时辅助。系统的主要目标包括：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "传统的图形与参数模型虽能表达几何形态，但难以涵盖设计背后的规范逻辑与专家经验。因此，需要建立结构化的知识驱动设计系统，把规范条款、设计经验、空间约束与历史案例转化为可用的信息资源，在实际设计中提供及时辅助。系统的主要目标包括："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_018",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）：",
+    "semantic_summary": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "excerpt_preview": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）："
+    },
+    "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
+    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "cross_paragraph_or_formula_fragment",
+      "review_status": "boundary_fragment_review",
+      "recommended_action": "疑似跨段、公式或列表边界片段；人工确认是否拆分、补公式上下文或仅保留为摘要。",
+      "best_score": 0.871452,
+      "score_margin": 0.091051,
+      "candidate_paragraph_start": 4815,
+      "candidate_paragraph_end": 4815,
+      "candidate_reasons": [
+        "excerpt:0.85",
+        "summary:0.85",
+        "terms:知识驱动型设计系统可分为,如下三个核心功能模块,如图,所示"
+      ],
+      "matched_terms": [
+        "知识驱动型设计系统可分为",
+        "如下三个核心功能模块",
+        "如图",
+        "所示"
+      ],
+      "candidate_text_preview": "知识驱动型设计系统可分为如下三个核心功能模块（如图 10-2所示）：",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_019",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "该模块承担对“设计知识资产”的统一建模、分类、版本控制与调用权限管理任务。涵盖以下子功能： 统一术语标准，构建多层次知识本体； 定义构件、案例、规则的分类与唯一标识；记录各类知识条目的更新过程，支持不同项目、不同时间版本的并行调用。",
+    "semantic_summary": "该模块承担对“设计知识资产”的统一建模、分类、版本控制与调用权限管理任务。涵盖以下子功能： 统一术语标准，构建多层次知识本体； 定义构件、案例、规则的分类与唯一标识；记录各类知识条目的更新过程，支持不同项目、不同时间版本的并行调用。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "该模块承担对“设计知识资产”的统一建模、分类、版本控制与调用权限管理任务。涵盖以下子功能： 统一术语标准，构建多层次知识本体； 定义构件、案例、规则的分类与唯一标识；记录各类知识条目的更新过程，支持不同项目、不同时间版本的并行调用。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "该模块承担对“设计知识资产”的统一建模、分类、版本控制与调用权限管理任务。涵盖以下子功能： 统一术语标准，构建多层次知识本体； 定义构件、案例、规则的分类与唯一标识；记录各类知识条目的更新过程，支持不同项目、不同时间版本的并行调用。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_020",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "该模块实现从非结构化文本、专家经验与历史项目中提取设计知识的功能，常用方法包括： 基于自然语言处理（NLP）的规范规则提取、策树与规则学习算法（如ID3/C4.5）生成推理规则、基于图结构的数据挖掘算法等。",
+    "semantic_summary": "该模块实现从非结构化文本、专家经验与历史项目中提取设计知识的功能，常用方法包括： 基于自然语言处理（NLP）的规范规则提取、策树与规则学习算法（如ID3/C4.5）生成推理规则、基于图结构的数据挖掘算法等。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "该模块实现从非结构化文本、专家经验与历史项目中提取设计知识的功能，常用方法包括： 基于自然语言处理（NLP）的规范规则提取、策树与规则学习算法（如ID3/C4.5）生成推理规则、基于图结构的数据挖掘算法等。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "该模块实现从非结构化文本、专家经验与历史项目中提取设计知识的功能，常用方法包括： 基于自然语言处理（NLP）的规范规则提取、策树与规则学习算法（如ID3/C4.5）生成推理规则、基于图结构的数据挖掘算法等。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_021",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "这是知识驱动体系的核心，支持设计过程中的智能判断与知识调用。推理方式包括：",
+    "semantic_summary": "这是知识驱动体系的核心，支持设计过程中的智能判断与知识调用。推理方式包括：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "这是知识驱动体系的核心，支持设计过程中的智能判断与知识调用。推理方式包括：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "这是知识驱动体系的核心，支持设计过程中的智能判断与知识调用。推理方式包括："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_022",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "空间关系描述设计对象之间的几何语义与拓扑特征，是支持空间推理（SRR）的基础。推荐采用 九交模型（DE-9IM）表达基本空间关系，如表 10-1。",
+    "semantic_summary": "空间关系描述设计对象之间的几何语义与拓扑特征，是支持空间推理（SRR）的基础。推荐采用 九交模型（DE-9IM）表达基本空间关系，如表 10-1。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "空间关系描述设计对象之间的几何语义与拓扑特征，是支持空间推理（SRR）的基础。推荐采用 九交模型（DE-9IM）表达基本空间关系，如表 10-1。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "空间关系描述设计对象之间的几何语义与拓扑特征，是支持空间推理（SRR）的基础。推荐采用 九交模型（DE-9IM）表达基本空间关系，如表 10-1。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_023",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "当前知识驱动型设计系统多依赖静态知识库，其内容更新、维护及扩展往往存在滞后性与高成本问题，为提升知识的可获取性、时效性与智能响应能力，可探索引入检索增强生成（Retrieval-Augmented Generation, RAG）机制，作为知识系统的动态接入与推理增强模块。RAG机制本质上构建了一个联通外部知识源与语言模型（LLM）的中间层，形成“查询–证据–生成”的交互链路。其典型流程包括：",
+    "semantic_summary": "当前知识驱动型设计系统多依赖静态知识库，其内容更新、维护及扩展往往存在滞后性与高成本问题，为提升知识的可获取性、时效性与智能响应能力，可探索引入检索增强生成（Retrieval-Augmented Generation, RAG）机制，作为...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "当前知识驱动型设计系统多依赖静态知识库，其内容更新、维护及扩展往往存在滞后性与高成本问题，为提升知识的可获取性、时效性与智能响应能力，可探索引入检索增强生成（Retrieval-Augmented Generation, RAG）机制，作为...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "当前知识驱动型设计系统多依赖静态知识库，其内容更新、维护及扩展往往存在滞后性与高成本问题，为提升知识的可获取性、时效性与智能响应能力，可探索引入检索增强生成（Retrieval-Augmented Generation, RAG）机制，作为"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_024",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "2.证据融合生成（Augmented Generation）：将检索到的证据与问题共同输入大型语言模型，生成回答，实现基于证据的可解释响应。",
+    "semantic_summary": "2.证据融合生成（Augmented Generation）：将检索到的证据与问题共同输入大型语言模型，生成回答，实现基于证据的可解释响应。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "2.证据融合生成（Augmented Generation）：将检索到的证据与问题共同输入大型语言模型，生成回答，实现基于证据的可解释响应。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "2.证据融合生成（Augmented Generation）：将检索到的证据与问题共同输入大型语言模型，生成回答，实现基于证据的可解释响应。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_025",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "在对象内部，每个实例对象都由一系列“属性”及其对应的“值”来定义，例如 属性: 地形地貌, 值: 高原峡谷地貌。这种方式将非结构化的文本描述拆解为结构化的数据字段，为后续的相似度计算和推理奠定了基础。",
+    "semantic_summary": "在对象内部，每个实例对象都由一系列“属性”及其对应的“值”来定义，例如 属性: 地形地貌, 值: 高原峡谷地貌。这种方式将非结构化的文本描述拆解为结构化的数据字段，为后续的相似度计算和推理奠定了基础。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在对象内部，每个实例对象都由一系列“属性”及其对应的“值”来定义，例如 属性: 地形地貌, 值: 高原峡谷地貌。这种方式将非结构化的文本描述拆解为结构化的数据字段，为后续的相似度计算和推理奠定了基础。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在对象内部，每个实例对象都由一系列“属性”及其对应的“值”来定义，例如 属性: 地形地貌, 值: 高原峡谷地貌。这种方式将非结构化的文本描述拆解为结构化的数据字段，为后续的相似度计算和推理奠定了基础。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_026",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "鉴于人工选择属性易受主观偏见影响，利用自然语言处理技术进行特征属性的自动提取。如采用TextRank算法对大量实例文本进行关键词提取，从统计层面归纳行业共识的关键因素。最终确定了包括地貌、岩性、水文、灾害规模等在内的11类地质选线核心属性，构成实例知识的统一骨架。",
+    "semantic_summary": "鉴于人工选择属性易受主观偏见影响，利用自然语言处理技术进行特征属性的自动提取。如采用TextRank算法对大量实例文本进行关键词提取，从统计层面归纳行业共识的关键因素。最终确定了包括地貌、岩性、水文、灾害规模等在内的11类地质选线核心属性，...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "鉴于人工选择属性易受主观偏见影响，利用自然语言处理技术进行特征属性的自动提取。如采用TextRank算法对大量实例文本进行关键词提取，从统计层面归纳行业共识的关键因素。最终确定了包括地貌、岩性、水文、灾害规模等在内的11类地质选线核心属性，...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "鉴于人工选择属性易受主观偏见影响，利用自然语言处理技术进行特征属性的自动提取。如采用TextRank算法对大量实例文本进行关键词提取，从统计层面归纳行业共识的关键因素。最终确定了包括地貌、岩性、水文、灾害规模等在内的11类地质选线核心属性，"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_027",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "大量的实例知识库本身就是一个蕴含着潜在规律的数据资源。通过应用数据挖掘技术，可以从案例中“学习”出新的、甚至是专家未能明确表述的隐含规则。在地质选线知识库中，可以采用经典的C4.5决策树算法来实现这一目标。",
+    "semantic_summary": "大量的实例知识库本身就是一个蕴含着潜在规律的数据资源。通过应用数据挖掘技术，可以从案例中“学习”出新的、甚至是专家未能明确表述的隐含规则。在地质选线知识库中，可以采用经典的C4.5决策树算法来实现这一目标。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "大量的实例知识库本身就是一个蕴含着潜在规律的数据资源。通过应用数据挖掘技术，可以从案例中“学习”出新的、甚至是专家未能明确表述的隐含规则。在地质选线知识库中，可以采用经典的C4.5决策树算法来实现这一目标。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "大量的实例知识库本身就是一个蕴含着潜在规律的数据资源。通过应用数据挖掘技术，可以从案例中“学习”出新的、甚至是专家未能明确表述的隐含规则。在地质选线知识库中，可以采用经典的C4.5决策树算法来实现这一目标。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_028",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "决策树的构建过程如下：首先，将实例知识库中的数据进行离散化处理（例如，将连续的坡度值划分为“缓、中、陡”等区间）。然后，以实例的特征属性作为决策树的内部节点，以最终的选线方案（如“绕避”、“隧道通过”、“桥梁跨越”）作为叶节点。C4.5算法通过计算信息增益比 (Information Gain Ratio)，在每一步都选择最具区分能力的属性来进行分支，从而递归地构建出一棵能够对选线方案进行分类的决策树。树中的每一条从根节点到叶节点的路径，都天然地对应着一条IF-THEN规则。",
+    "semantic_summary": "决策树的构建过程如下：首先，将实例知识库中的数据进行离散化处理（例如，将连续的坡度值划分为“缓、中、陡”等区间）。然后，以实例的特征属性作为决策树的内部节点，以最终的选线方案（如“绕避”、“隧道通过”、“桥梁跨越”）作为叶节点。C4.5算法...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "决策树的构建过程如下：首先，将实例知识库中的数据进行离散化处理（例如，将连续的坡度值划分为“缓、中、陡”等区间）。然后，以实例的特征属性作为决策树的内部节点，以最终的选线方案（如“绕避”、“隧道通过”、“桥梁跨越”）作为叶节点。C4.5算法...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "决策树的构建过程如下：首先，将实例知识库中的数据进行离散化处理（例如，将连续的坡度值划分为“缓、中、陡”等区间）。然后，以实例的特征属性作为决策树的内部节点，以最终的选线方案（如“绕避”、“隧道通过”、“桥梁跨越”）作为叶节点。C4.5算法"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_029",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）标准拓扑层（DE-9IM）：基于维度扩展九交模型判定线路与地质体的基本空间关系，可用 FDO 空间过滤器实现。",
+    "semantic_summary": "（1）标准拓扑层（DE-9IM）：基于维度扩展九交模型判定线路与地质体的基本空间关系，可用 FDO 空间过滤器实现。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）标准拓扑层（DE-9IM）：基于维度扩展九交模型判定线路与地质体的基本空间关系，可用 FDO 空间过滤器实现。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（1）标准拓扑层（DE-9IM）：基于维度扩展九交模型判定线路与地质体的基本空间关系，可用 FDO 空间过滤器实现。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_030",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）领域语义增强层（“坐标分区”）：在通用的拓扑模型之上，构建了一个领域专用的语义层，从而有效地将抽象的空间查询转化为具有明确工程意义的判别。",
+    "semantic_summary": "（2）领域语义增强层（“坐标分区”）：在通用的拓扑模型之上，构建了一个领域专用的语义层，从而有效地将抽象的空间查询转化为具有明确工程意义的判别。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）领域语义增强层（“坐标分区”）：在通用的拓扑模型之上，构建了一个领域专用的语义层，从而有效地将抽象的空间查询转化为具有明确工程意义的判别。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（2）领域语义增强层（“坐标分区”）：在通用的拓扑模型之上，构建了一个领域专用的语义层，从而有效地将抽象的空间查询转化为具有明确工程意义的判别。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_031",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+    "semantic_summary": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "summary_with_term_support",
+      "support_terms": [
+        "DEM-9IM"
+      ]
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "summary_with_term_support",
+      "excerpt_preview": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。"
+    },
+    "evidence_boundary_note": "片段主体未直接命中，但存在可追溯术语支撑。",
+    "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "summary_with_term_support",
+      "review_status": "term_supported_summary_review",
+      "recommended_action": "保留为教学摘要候选；人工确认术语锚点是否足以支撑该 Source_Chunk。",
+      "best_score": 0.885056,
+      "score_margin": 0.126749,
+      "candidate_paragraph_start": 4912,
+      "candidate_paragraph_end": 4912,
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:设路线为线要素,地质体为面要素,DEM-9IM,拓扑谓词,坐标分区,模型下,令地质体内部关键分区边界,集合为"
+      ],
+      "matched_terms": [
+        "设路线为线要素",
+        "地质体为面要素",
+        "DEM-9IM",
+        "拓扑谓词",
+        "坐标分区",
+        "模型下",
+        "令地质体内部关键分区边界",
+        "集合为",
+        "如滑坡前缘",
+        "后缘"
+      ],
+      "candidate_text_preview": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词TA,B∈{Intersects,Contains,Touches,Disjoint,⋯}。在“坐标分区”模型下，令地质体内部关键分区边界集合为L=lkk=1m(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_032",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "CBR 的核心目标是在给定设计输入（如地质条件、滑坡类型、空间位置等）的基础上，从知识案例库中检索多个最相似的历史案例，并输出以下可解释内容：",
+    "semantic_summary": "CBR 的核心目标是在给定设计输入（如地质条件、滑坡类型、空间位置等）的基础上，从知识案例库中检索多个最相似的历史案例，并输出以下可解释内容：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "CBR 的核心目标是在给定设计输入（如地质条件、滑坡类型、空间位置等）的基础上，从知识案例库中检索多个最相似的历史案例，并输出以下可解释内容：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "CBR 的核心目标是在给定设计输入（如地质条件、滑坡类型、空间位置等）的基础上，从知识案例库中检索多个最相似的历史案例，并输出以下可解释内容："
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_033",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "整个实例推理过程包括以下关键环节（如图 10-5）：",
+    "semantic_summary": "整个实例推理过程包括以下关键环节（如图 10-5）：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "整个实例推理过程包括以下关键环节（如图 10-5）：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "整个实例推理过程包括以下关键环节（如图 10-5）："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_034",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）目标案例构建：语义一致的属性向量表示",
+    "semantic_summary": "（1）目标案例构建：语义一致的属性向量表示",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）目标案例构建：语义一致的属性向量表示",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "excerpt_preview": "（1）目标案例构建：语义一致的属性向量表示"
+    },
+    "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
+    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "cross_paragraph_or_formula_fragment",
+      "review_status": "boundary_fragment_review",
+      "recommended_action": "疑似跨段、公式或列表边界片段；人工确认是否拆分、补公式上下文或仅保留为摘要。",
+      "best_score": 0.715594,
+      "score_margin": 0.360888,
+      "candidate_paragraph_start": 4926,
+      "candidate_paragraph_end": 4926,
+      "candidate_reasons": [
+        "excerpt:0.80",
+        "summary:0.80",
+        "terms:语义一致的属性向量表示"
+      ],
+      "matched_terms": [
+        "语义一致的属性向量表示"
+      ],
+      "candidate_text_preview": "（1）目标实例构建：语义一致的属性向量表示",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_035",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "对于枚举型字段（如滑坡类型、地貌单元），采用层级相似度模型（如树状本体结构下的路径距离或语义余弦），衡量不同枚举值之间的接近程度。",
+    "semantic_summary": "对于枚举型字段（如滑坡类型、地貌单元），采用层级相似度模型（如树状本体结构下的路径距离或语义余弦），衡量不同枚举值之间的接近程度。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "对于枚举型字段（如滑坡类型、地貌单元），采用层级相似度模型（如树状本体结构下的路径距离或语义余弦），衡量不同枚举值之间的接近程度。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "对于枚举型字段（如滑坡类型、地貌单元），采用层级相似度模型（如树状本体结构下的路径距离或语义余弦），衡量不同枚举值之间的接近程度。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_036",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "对于文本或描述型字段（如“滑坡前缘稳定性说明”），引入基于深度学习的语义匹配模型，将自然语言段落嵌入为向量，再用余弦相似度进行比较。",
+    "semantic_summary": "对于文本或描述型字段（如“滑坡前缘稳定性说明”），引入基于深度学习的语义匹配模型，将自然语言段落嵌入为向量，再用余弦相似度进行比较。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "对于文本或描述型字段（如“滑坡前缘稳定性说明”），引入基于深度学习的语义匹配模型，将自然语言段落嵌入为向量，再用余弦相似度进行比较。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "对于文本或描述型字段（如“滑坡前缘稳定性说明”），引入基于深度学习的语义匹配模型，将自然语言段落嵌入为向量，再用余弦相似度进行比较。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_037",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "对于所有历史案例，计算目标向量与其在属性空间上的加权距离，并排序返回相似度前 K的实例。同时，输出每个相似度分值的“属性贡献度”，提示用户哪些字段决定了匹配程度。",
+    "semantic_summary": "对于所有历史案例，计算目标向量与其在属性空间上的加权距离，并排序返回相似度前 K的实例。同时，输出每个相似度分值的“属性贡献度”，提示用户哪些字段决定了匹配程度。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "对于所有历史案例，计算目标向量与其在属性空间上的加权距离，并排序返回相似度前 K的实例。同时，输出每个相似度分值的“属性贡献度”，提示用户哪些字段决定了匹配程度。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "对于所有历史案例，计算目标向量与其在属性空间上的加权距离，并排序返回相似度前 K的实例。同时，输出每个相似度分值的“属性贡献度”，提示用户哪些字段决定了匹配程度。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_038",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "尽管规则推理具备良好的可解释性，但在真实场景中，地质条件与设计情境常存在不确定性，这使得规则推理系统需要具备处理模糊和冲突的能力。在实践中，可以通过CF模型与结构化策略来增强规则推理的适应性与鲁棒性。",
+    "semantic_summary": "尽管规则推理具备良好的可解释性，但在真实场景中，地质条件与设计情境常存在不确定性，这使得规则推理系统需要具备处理模糊和冲突的能力。在实践中，可以通过CF模型与结构化策略来增强规则推理的适应性与鲁棒性。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "尽管规则推理具备良好的可解释性，但在真实场景中，地质条件与设计情境常存在不确定性，这使得规则推理系统需要具备处理模糊和冲突的能力。在实践中，可以通过CF模型与结构化策略来增强规则推理的适应性与鲁棒性。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "尽管规则推理具备良好的可解释性，但在真实场景中，地质条件与设计情境常存在不确定性，这使得规则推理系统需要具备处理模糊和冲突的能力。在实践中，可以通过CF模型与结构化策略来增强规则推理的适应性与鲁棒性。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_039",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "若存在多个前提，可以取最小值或使用乘积模型，具体策略视语义而定。",
+    "semantic_summary": "若存在多个前提，可以取最小值或使用乘积模型，具体策略视语义而定。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "若存在多个前提，可以取最小值或使用乘积模型，具体策略视语义而定。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "若存在多个前提，可以取最小值或使用乘积模型，具体策略视语义而定。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_040",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方法，核心在于将传统依赖人工经验的路线设计过程，抽象为可计算的优化问题，通过形式化建模与求解策略，自动推导出满足多目标、多约束的最优路线结果。",
+    "semantic_summary": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方法，核心在于将传统依赖人工经验的路线设计过程，抽象为可计算的优化问题，通过形式化...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方法，核心在于将传统依赖人工经验的路线设计过程，抽象为可计算的优化问题，通过形式化...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在以模型为核心的正向设计体系中，如何从复杂的地理环境、工程约束与建设需求中自动生成或优化道路路线，已成为AI与BIM-GIS集成研究的关键方向。算法驱动的设计方法，核心在于将传统依赖人工经验的路线设计过程，抽象为可计算的优化问题，通过形式化"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_041",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "从道路选线的空间逻辑来看，算法驱动的设计可划分为两个层次：",
+    "semantic_summary": "从道路选线的空间逻辑来看，算法驱动的设计可划分为两个层次：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "从道路选线的空间逻辑来看，算法驱动的设计可划分为两个层次：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "从道路选线的空间逻辑来看，算法驱动的设计可划分为两个层次："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_042",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在算法驱动的道路设计中，优化模型是整个求解过程的核心。该模型主要由四个要素构成：",
+    "semantic_summary": "在算法驱动的道路设计中，优化模型是整个求解过程的核心。该模型主要由四个要素构成：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在算法驱动的道路设计中，优化模型是整个求解过程的核心。该模型主要由四个要素构成：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在算法驱动的道路设计中，优化模型是整个求解过程的核心。该模型主要由四个要素构成："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_043",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "目标函数用于量化评价设计方案的优劣，，涵盖工程造价、环境影响、安全性、运维成本等多个目标。为了简化优化过程，通常将环境影响、安全性等目标转化为以工程费用为指标的单目标函数，减少优化的复杂度。多目标函数可表示为：",
+    "semantic_summary": "目标函数用于量化评价设计方案的优劣，，涵盖工程造价、环境影响、安全性、运维成本等多个目标。为了简化优化过程，通常将环境影响、安全性等目标转化为以工程费用为指标的单目标函数，减少优化的复杂度。多目标函数可表示为：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "目标函数用于量化评价设计方案的优劣，，涵盖工程造价、环境影响、安全性、运维成本等多个目标。为了简化优化过程，通常将环境影响、安全性等目标转化为以工程费用为指标的单目标函数，减少优化的复杂度。多目标函数可表示为：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "目标函数用于量化评价设计方案的优劣，，涵盖工程造价、环境影响、安全性、运维成本等多个目标。为了简化优化过程，通常将环境影响、安全性等目标转化为以工程费用为指标的单目标函数，减少优化的复杂度。多目标函数可表示为："
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_044",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "约束条件定义了优化问题的可行解边界，确保生成的设计方案符合实际需求与限制。约束条件包括：",
+    "semantic_summary": "约束条件定义了优化问题的可行解边界，确保生成的设计方案符合实际需求与限制。约束条件包括：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "约束条件定义了优化问题的可行解边界，确保生成的设计方案符合实际需求与限制。约束条件包括：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "约束条件定义了优化问题的可行解边界，确保生成的设计方案符合实际需求与限制。约束条件包括："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_045",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）软约束：期望满足但具有一定容忍度的条件，通常反映设计中的倾向性或偏好。例如，满足视觉舒适性要求的设计指标，或尽量减少对优质耕地的占用。软约束通常通过罚函数形式整合进目标函数。",
+    "semantic_summary": "（2）软约束：期望满足但具有一定容忍度的条件，通常反映设计中的倾向性或偏好。例如，满足视觉舒适性要求的设计指标，或尽量减少对优质耕地的占用。软约束通常通过罚函数形式整合进目标函数。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）软约束：期望满足但具有一定容忍度的条件，通常反映设计中的倾向性或偏好。例如，满足视觉舒适性要求的设计指标，或尽量减少对优质耕地的占用。软约束通常通过罚函数形式整合进目标函数。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（2）软约束：期望满足但具有一定容忍度的条件，通常反映设计中的倾向性或偏好。例如，满足视觉舒适性要求的设计指标，或尽量减少对优质耕地的占用。软约束通常通过罚函数形式整合进目标函数。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_046",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "负责在可行解空间内搜索最优或近优解，常见算法包括遗传算法、粒子群优化、强化学习等。",
+    "semantic_summary": "负责在可行解空间内搜索最优或近优解，常见算法包括遗传算法、粒子群优化、强化学习等。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "负责在可行解空间内搜索最优或近优解，常见算法包括遗传算法、粒子群优化、强化学习等。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "负责在可行解空间内搜索最优或近优解，常见算法包括遗传算法、粒子群优化、强化学习等。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_047",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "结合上述四个要素，多目标优化模型可表示为：",
+    "semantic_summary": "结合上述四个要素，多目标优化模型可表示为：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "结合上述四个要素，多目标优化模型可表示为：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "结合上述四个要素，多目标优化模型可表示为："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_048",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "遗传算法（Genetic Algorithm, GA）是一种模拟生物进化机制的启发式全局优化方法，适用于解决道路路线设计中高维、复杂、非线性的参数优化问题。其核心优势在于不依赖目标函数的连续性和导数信息，具备较强的全局搜索能力，能在多个可行方案中逐步逼近最优解。本节以路线平面方案优化为例对基于遗传算法的优化模型进行介绍。",
+    "semantic_summary": "遗传算法（Genetic Algorithm, GA）是一种模拟生物进化机制的启发式全局优化方法，适用于解决道路路线设计中高维、复杂、非线性的参数优化问题。其核心优势在于不依赖目标函数的连续性和导数信息，具备较强的全局搜索能力，能在多个可行...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "遗传算法（Genetic Algorithm, GA）是一种模拟生物进化机制的启发式全局优化方法，适用于解决道路路线设计中高维、复杂、非线性的参数优化问题。其核心优势在于不依赖目标函数的连续性和导数信息，具备较强的全局搜索能力，能在多个可行...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "遗传算法（Genetic Algorithm, GA）是一种模拟生物进化机制的启发式全局优化方法，适用于解决道路路线设计中高维、复杂、非线性的参数优化问题。其核心优势在于不依赖目标函数的连续性和导数信息，具备较强的全局搜索能力，能在多个可行"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_049",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "遗传算法优化流程通常包括五个步骤：",
+    "semantic_summary": "遗传算法优化流程通常包括五个步骤：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "遗传算法优化流程通常包括五个步骤：",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "遗传算法优化流程通常包括五个步骤："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_050",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "依据预设的优化目标（如工程造价、综合成本等目标函数），计算每个个体的适应度；",
+    "semantic_summary": "依据预设的优化目标（如工程造价、综合成本等目标函数），计算每个个体的适应度；",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "依据预设的优化目标（如工程造价、综合成本等目标函数），计算每个个体的适应度；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "依据预设的优化目标（如工程造价、综合成本等目标函数），计算每个个体的适应度；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_051",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在基于遗传算法（GA）的平面方案优化中，设计变量采用交点坐标表示。一旦确定了交点坐标，随后使用布设平曲线算法来计算圆曲线半径和缓和曲线长度。适应度函数，即优化的目标函数是综合考虑工程造价、运维费用、交通事故损失等多个因素，力求最小化总费用。约束条件则通过罚函数法加以处理，即当出现违反设计规范、线路进入生态或地质禁区等情况时，系统会对该方案施加一个较大的惩罚费用，以确保设计的可行性和规范性。基于GA的平面优化算法流程如图 10-7所示。",
+    "semantic_summary": "在基于遗传算法（GA）的平面方案优化中，设计变量采用交点坐标表示。一旦确定了交点坐标，随后使用布设平曲线算法来计算圆曲线半径和缓和曲线长度。适应度函数，即优化的目标函数是综合考虑工程造价、运维费用、交通事故损失等多个因素，力求最小化总费用。...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在基于遗传算法（GA）的平面方案优化中，设计变量采用交点坐标表示。一旦确定了交点坐标，随后使用布设平曲线算法来计算圆曲线半径和缓和曲线长度。适应度函数，即优化的目标函数是综合考虑工程造价、运维费用、交通事故损失等多个因素，力求最小化总费用。...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在基于遗传算法（GA）的平面方案优化中，设计变量采用交点坐标表示。一旦确定了交点坐标，随后使用布设平曲线算法来计算圆曲线半径和缓和曲线长度。适应度函数，即优化的目标函数是综合考虑工程造价、运维费用、交通事故损失等多个因素，力求最小化总费用。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_052",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "选择操作用于确定参与交叉与变异的个体。在平面方案优化中，可采用精英选择策略，能够加快算法收敛速度，并有效避免种群早熟陷入局部最优。基本过程如下：",
+    "semantic_summary": "选择操作用于确定参与交叉与变异的个体。在平面方案优化中，可采用精英选择策略，能够加快算法收敛速度，并有效避免种群早熟陷入局部最优。基本过程如下：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "选择操作用于确定参与交叉与变异的个体。在平面方案优化中，可采用精英选择策略，能够加快算法收敛速度，并有效避免种群早熟陷入局部最优。基本过程如下：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "选择操作用于确定参与交叉与变异的个体。在平面方案优化中，可采用精英选择策略，能够加快算法收敛速度，并有效避免种群早熟陷入局部最优。基本过程如下："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_053",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "遗传算子包括变异算子和交叉算子。在平面方案优化中，变异算子通过调整局部线位来优化路线，而交叉算子则通过组合两个方案中的优质路段，创造出更优的整体路线。",
+    "semantic_summary": "遗传算子包括变异算子和交叉算子。在平面方案优化中，变异算子通过调整局部线位来优化路线，而交叉算子则通过组合两个方案中的优质路段，创造出更优的整体路线。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "遗传算子包括变异算子和交叉算子。在平面方案优化中，变异算子通过调整局部线位来优化路线，而交叉算子则通过组合两个方案中的优质路段，创造出更优的整体路线。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "遗传算子包括变异算子和交叉算子。在平面方案优化中，变异算子通过调整局部线位来优化路线，而交叉算子则通过组合两个方案中的优质路段，创造出更优的整体路线。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_054",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "根据平面方案的设计特点，变异算子包括改进均匀变异算子、直线变异算子等。改进均匀变异算子通过对选定的两交点之间的基因进行调整，达到避开高费用区的作用，如图 10-8 a）所示。直线变异用于将两任意选择的交点之间的线形取直，如图 10-8 b）所示。",
+    "semantic_summary": "根据平面方案的设计特点，变异算子包括改进均匀变异算子、直线变异算子等。改进均匀变异算子通过对选定的两交点之间的基因进行调整，达到避开高费用区的作用，如图 10-8 a）所示。直线变异用于将两任意选择的交点之间的线形取直，如图 10-8 b）...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "根据平面方案的设计特点，变异算子包括改进均匀变异算子、直线变异算子等。改进均匀变异算子通过对选定的两交点之间的基因进行调整，达到避开高费用区的作用，如图 10-8 a）所示。直线变异用于将两任意选择的交点之间的线形取直，如图 10-8 b）...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "根据平面方案的设计特点，变异算子包括改进均匀变异算子、直线变异算子等。改进均匀变异算子通过对选定的两交点之间的基因进行调整，达到避开高费用区的作用，如图 10-8 a）所示。直线变异用于将两任意选择的交点之间的线形取直，如图 10-8 b）"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_055",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "交叉算子包括简单交叉、算术交叉、启发式交叉等。简单交叉通过在父个体的随机位置进行交叉，生成的子个体有可能从父个体中继承更优的基因，如图 10-9。算术交叉算子借鉴了凸集的概念，即凸集内两点的线性组合仍然落在凸集内。算术交叉的子个体就是父个体的线性组合，如图 10-10。",
+    "semantic_summary": "交叉算子包括简单交叉、算术交叉、启发式交叉等。简单交叉通过在父个体的随机位置进行交叉，生成的子个体有可能从父个体中继承更优的基因，如图 10-9。算术交叉算子借鉴了凸集的概念，即凸集内两点的线性组合仍然落在凸集内。算术交叉的子个体就是父个体...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "交叉算子包括简单交叉、算术交叉、启发式交叉等。简单交叉通过在父个体的随机位置进行交叉，生成的子个体有可能从父个体中继承更优的基因，如图 10-9。算术交叉算子借鉴了凸集的概念，即凸集内两点的线性组合仍然落在凸集内。算术交叉的子个体就是父个体...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "交叉算子包括简单交叉、算术交叉、启发式交叉等。简单交叉通过在父个体的随机位置进行交叉，生成的子个体有可能从父个体中继承更优的基因，如图 10-9。算术交叉算子借鉴了凸集的概念，即凸集内两点的线性组合仍然落在凸集内。算术交叉的子个体就是父个体"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_056",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "heading",
+    "source_excerpt": "三、基于多目标进化算法的路线方案优化",
+    "semantic_summary": "三、基于多目标进化算法的路线方案优化",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "三、基于多目标进化算法的路线方案优化",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "三、基于多目标进化算法的路线方案优化"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_057",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在单目标优化框架中，一般将工程造价、运维费用、环境影响与安全风险等多个目标，通过加权或货币化手段聚合为一个综合成本函数，便于直接求解。然而，路线方案设计是一个多目标协调过程，涉及多个相互冲突、难以公度的因素。任何单一目标的最优化，往往以牺牲其他目标为代价。因此，引入多目标进化算法（Multi-Objective Evolutionary Algorithms, MOEAs）成为更贴合工程实际的选择。MOEAs可同时处理多个目标，生成一组具有不同侧重的最优权衡解，为设计者和决策",
+    "semantic_summary": "在单目标优化框架中，一般将工程造价、运维费用、环境影响与安全风险等多个目标，通过加权或货币化手段聚合为一个综合成本函数，便于直接求解。然而，路线方案设计是一个多目标协调过程，涉及多个相互冲突、难以公度的因素。任何单一目标的最优化，往往以牺牲...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在单目标优化框架中，一般将工程造价、运维费用、环境影响与安全风险等多个目标，通过加权或货币化手段聚合为一个综合成本函数，便于直接求解。然而，路线方案设计是一个多目标协调过程，涉及多个相互冲突、难以公度的因素。任何单一目标的最优化，往往以牺牲...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在单目标优化框架中，一般将工程造价、运维费用、环境影响与安全风险等多个目标，通过加权或货币化手段聚合为一个综合成本函数，便于直接求解。然而，路线方案设计是一个多目标协调过程，涉及多个相互冲突、难以公度的因素。任何单一目标的最优化，往往以牺牲"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_058",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "帕累托最优：多目标问题的工程“解”",
+    "semantic_summary": "帕累托最优：多目标问题的工程“解”",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "帕累托最优：多目标问题的工程“解”",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "帕累托最优：多目标问题的工程“解”"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_059",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。",
+    "semantic_summary": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_060",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于：",
+    "semantic_summary": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "excerpt_preview": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于："
+    },
+    "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
+    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "cross_paragraph_or_formula_fragment",
+      "review_status": "boundary_fragment_review",
+      "recommended_action": "疑似跨段、公式或列表边界片段；人工确认是否拆分、补公式上下文或仅保留为摘要。",
+      "best_score": 0.963469,
+      "score_margin": 8e-06,
+      "candidate_paragraph_start": 5024,
+      "candidate_paragraph_end": 5026,
+      "candidate_reasons": [
+        "excerpt:1.00",
+        "summary:1.00",
+        "terms:在多目标优化中,解支配解表示在所有目标上,都不劣于,并且在至少一个目标上优于"
+      ],
+      "matched_terms": [
+        "在多目标优化中",
+        "解支配解表示在所有目标上",
+        "都不劣于",
+        "并且在至少一个目标上优于"
+      ],
+      "candidate_text_preview": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。 1.帕累托支配与帕累托前沿 在多目标优化中，解xa支配解xb表示xa在所有目标上都不劣于xb，并且在至少一个目标上优于xb：",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_061",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "根据这种支配关系，可以得到帕累托前沿，即一组互不支配的解，这些解代表了不同目标之间的最佳折衷，如图 10-11。通常，通过非支配排序（如 NSGA-II）来获取帕累托前沿，并使用拥挤度距离来维持解集的多样性。",
+    "semantic_summary": "根据这种支配关系，可以得到帕累托前沿，即一组互不支配的解，这些解代表了不同目标之间的最佳折衷，如图 10-11。通常，通过非支配排序（如 NSGA-II）来获取帕累托前沿，并使用拥挤度距离来维持解集的多样性。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "根据这种支配关系，可以得到帕累托前沿，即一组互不支配的解，这些解代表了不同目标之间的最佳折衷，如图 10-11。通常，通过非支配排序（如 NSGA-II）来获取帕累托前沿，并使用拥挤度距离来维持解集的多样性。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "根据这种支配关系，可以得到帕累托前沿，即一组互不支配的解，这些解代表了不同目标之间的最佳折衷，如图 10-11。通常，通过非支配排序（如 NSGA-II）来获取帕累托前沿，并使用拥挤度距离来维持解集的多样性。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_062",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "帕累托前沿不仅是解集，更是用于支持设计权衡的可视化工具，承载着工程方案多目标权衡的信息，其几何形态本身即构成重要的决策线索。例如：当前沿在某一区段斜率较大时，表示在经济性上作出小幅让步（成本略增），即可显著改善环保指标；该区段可视为“高收益”区间。相反，斜率较缓的区段意味着需要付出较高经济代价才能换取有限的环境收益。基于这一特征，设计者能够直观展示不同方案的成本—效益关系，提升决策的科学性。",
+    "semantic_summary": "帕累托前沿不仅是解集，更是用于支持设计权衡的可视化工具，承载着工程方案多目标权衡的信息，其几何形态本身即构成重要的决策线索。例如：当前沿在某一区段斜率较大时，表示在经济性上作出小幅让步（成本略增），即可显著改善环保指标；该区段可视为“高收益...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "帕累托前沿不仅是解集，更是用于支持设计权衡的可视化工具，承载着工程方案多目标权衡的信息，其几何形态本身即构成重要的决策线索。例如：当前沿在某一区段斜率较大时，表示在经济性上作出小幅让步（成本略增），即可显著改善环保指标；该区段可视为“高收益...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "帕累托前沿不仅是解集，更是用于支持设计权衡的可视化工具，承载着工程方案多目标权衡的信息，其几何形态本身即构成重要的决策线索。例如：当前沿在某一区段斜率较大时，表示在经济性上作出小幅让步（成本略增），即可显著改善环保指标；该区段可视为“高收益"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_063",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "加权和法：通过设置不同目标的权重来平衡目标间的关系；",
+    "semantic_summary": "加权和法：通过设置不同目标的权重来平衡目标间的关系；",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "加权和法：通过设置不同目标的权重来平衡目标间的关系；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "加权和法：通过设置不同目标的权重来平衡目标间的关系；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_064",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "ε-约束法：将一个目标函数作为优化目标，其余目标作为约束；",
+    "semantic_summary": "ε-约束法：将一个目标函数作为优化目标，其余目标作为约束；",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "ε-约束法：将一个目标函数作为优化目标，其余目标作为约束；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "ε-约束法：将一个目标函数作为优化目标，其余目标作为约束；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_065",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "膝点法：选择帕累托前沿上弯曲度最大的点，即代表了最平衡的目标组合。",
+    "semantic_summary": "膝点法：选择帕累托前沿上弯曲度最大的点，即代表了最平衡的目标组合。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "膝点法：选择帕累托前沿上弯曲度最大的点，即代表了最平衡的目标组合。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "膝点法：选择帕累托前沿上弯曲度最大的点，即代表了最平衡的目标组合。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_066",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "这种偏好嵌入的过程帮助设计人员在多个优化目标中找到最合适的解决方案，并为后续方案评估提供清晰的对比依据。",
+    "semantic_summary": "这种偏好嵌入的过程帮助设计人员在多个优化目标中找到最合适的解决方案，并为后续方案评估提供清晰的对比依据。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "这种偏好嵌入的过程帮助设计人员在多个优化目标中找到最合适的解决方案，并为后续方案评估提供清晰的对比依据。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "这种偏好嵌入的过程帮助设计人员在多个优化目标中找到最合适的解决方案，并为后续方案评估提供清晰的对比依据。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_067",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在众多多目标进化算法中，带精英策略的非支配排序遗传算法II（Non-dominated Sorting Genetic Algorithm II, NSGA-II）因其高效性和鲁棒性而成为应用最广泛的框架之一。其核心机制可分解为三个相互关联的步骤，如图 10-12。",
+    "semantic_summary": "在众多多目标进化算法中，带精英策略的非支配排序遗传算法II（Non-dominated Sorting Genetic Algorithm II, NSGA-II）因其高效性和鲁棒性而成为应用最广泛的框架之一。其核心机制可分解为三个相互关联...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在众多多目标进化算法中，带精英策略的非支配排序遗传算法II（Non-dominated Sorting Genetic Algorithm II, NSGA-II）因其高效性和鲁棒性而成为应用最广泛的框架之一。其核心机制可分解为三个相互关联...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在众多多目标进化算法中，带精英策略的非支配排序遗传算法II（Non-dominated Sorting Genetic Algorithm II, NSGA-II）因其高效性和鲁棒性而成为应用最广泛的框架之一。其核心机制可分解为三个相互关联"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_068",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）计算方法：对于每个目标维度，首先对当前前沿内的所有个体进行排序。一个个体的拥挤度被定义为包含该个体的、由其在各个目标维度上的前后两个邻居所构成的超立方体的边长之和。直观地说，它衡量了个体周围解的密度。",
+    "semantic_summary": "（1）计算方法：对于每个目标维度，首先对当前前沿内的所有个体进行排序。一个个体的拥挤度被定义为包含该个体的、由其在各个目标维度上的前后两个邻居所构成的超立方体的边长之和。直观地说，它衡量了个体周围解的密度。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）计算方法：对于每个目标维度，首先对当前前沿内的所有个体进行排序。一个个体的拥挤度被定义为包含该个体的、由其在各个目标维度上的前后两个邻居所构成的超立方体的边长之和。直观地说，它衡量了个体周围解的密度。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（1）计算方法：对于每个目标维度，首先对当前前沿内的所有个体进行排序。一个个体的拥挤度被定义为包含该个体的、由其在各个目标维度上的前后两个邻居所构成的超立方体的边长之和。直观地说，它衡量了个体周围解的密度。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_069",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）作用：位于帕累托前沿上较为稀疏区域的解，其拥挤度值会更高。在选择时，算法会优先保留拥挤度高的个体，从而鼓励种群探索和维持在前沿的各个部分，有效防止算法过早收敛到前沿的某个局部拥挤区域。",
+    "semantic_summary": "（2）作用：位于帕累托前沿上较为稀疏区域的解，其拥挤度值会更高。在选择时，算法会优先保留拥挤度高的个体，从而鼓励种群探索和维持在前沿的各个部分，有效防止算法过早收敛到前沿的某个局部拥挤区域。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）作用：位于帕累托前沿上较为稀疏区域的解，其拥挤度值会更高。在选择时，算法会优先保留拥挤度高的个体，从而鼓励种群探索和维持在前沿的各个部分，有效防止算法过早收敛到前沿的某个局部拥挤区域。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（2）作用：位于帕累托前沿上较为稀疏区域的解，其拥挤度值会更高。在选择时，算法会优先保留拥挤度高的个体，从而鼓励种群探索和维持在前沿的各个部分，有效防止算法过早收敛到前沿的某个局部拥挤区域。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_070",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "遗传算法与多目标进化算法的区别",
+    "semantic_summary": "遗传算法与多目标进化算法的区别",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "遗传算法与多目标进化算法的区别",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "遗传算法与多目标进化算法的区别"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_071",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "多目标进化算法（MOEA）并非单目标遗传算法（GA）的简单扩展，而是在基本理念、算法机制和应用价值上的变革。它更契合道路设计这类复杂系统工程的内在要求，即在多个冲突目标之间寻求最佳平衡。",
+    "semantic_summary": "多目标进化算法（MOEA）并非单目标遗传算法（GA）的简单扩展，而是在基本理念、算法机制和应用价值上的变革。它更契合道路设计这类复杂系统工程的内在要求，即在多个冲突目标之间寻求最佳平衡。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "多目标进化算法（MOEA）并非单目标遗传算法（GA）的简单扩展，而是在基本理念、算法机制和应用价值上的变革。它更契合道路设计这类复杂系统工程的内在要求，即在多个冲突目标之间寻求最佳平衡。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "多目标进化算法（MOEA）并非单目标遗传算法（GA）的简单扩展，而是在基本理念、算法机制和应用价值上的变革。它更契合道路设计这类复杂系统工程的内在要求，即在多个冲突目标之间寻求最佳平衡。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_072",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "GA（单目标）：将经济、环保、安全等目标预先加权或货币化，聚合为单一目标函数；优化围绕这一“加权和”展开。",
+    "semantic_summary": "GA（单目标）：将经济、环保、安全等目标预先加权或货币化，聚合为单一目标函数；优化围绕这一“加权和”展开。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "GA（单目标）：将经济、环保、安全等目标预先加权或货币化，聚合为单一目标函数；优化围绕这一“加权和”展开。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "GA（单目标）：将经济、环保、安全等目标预先加权或货币化，聚合为单一目标函数；优化围绕这一“加权和”展开。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_073",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "MOEA（多目标）：各目标作为独立、可能冲突的维度同步优化，无需事先设定权重或统一量纲。",
+    "semantic_summary": "MOEA（多目标）：各目标作为独立、可能冲突的维度同步优化，无需事先设定权重或统一量纲。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "MOEA（多目标）：各目标作为独立、可能冲突的维度同步优化，无需事先设定权重或统一量纲。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "MOEA（多目标）：各目标作为独立、可能冲突的维度同步优化，无需事先设定权重或统一量纲。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_074",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "GA：以聚合目标的单个标量作为适应度，选择与进化仅依据这一分数排序。",
+    "semantic_summary": "GA：以聚合目标的单个标量作为适应度，选择与进化仅依据这一分数排序。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "GA：以聚合目标的单个标量作为适应度，选择与进化仅依据这一分数排序。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "GA：以聚合目标的单个标量作为适应度，选择与进化仅依据这一分数排序。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_075",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "从时刻  起的折扣回报与优化目标为：",
+    "semantic_summary": "从时刻  起的折扣回报与优化目标为：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "从时刻  起的折扣回报与优化目标为：",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "excerpt_preview": "从时刻  起的折扣回报与优化目标为："
+    },
+    "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
+    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "cross_paragraph_or_formula_fragment",
+      "review_status": "boundary_fragment_review",
+      "recommended_action": "疑似跨段、公式或列表边界片段；人工确认是否拆分、补公式上下文或仅保留为摘要。",
+      "best_score": 0.896091,
+      "score_margin": 0.00012,
+      "candidate_paragraph_start": 5081,
+      "candidate_paragraph_end": 5083,
+      "candidate_reasons": [
+        "excerpt:1.00",
+        "summary:1.00",
+        "terms:从时刻,起的折扣回报与优化目标为"
+      ],
+      "matched_terms": [
+        "从时刻",
+        "起的折扣回报与优化目标为"
+      ],
+      "candidate_text_preview": "（4）奖励函数 r(s,a)：对动作即时“好/坏”的量化反馈； （5）折扣因子 γ∈(0,1]：平衡近/远期收益。值越大，智能体越看重长期回报；值越小，智能体越看重当前的即时奖励。 从时刻 t 起的折扣回报与优化目标为：",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_076",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "价值函数用于评估某个状态或状态-动作对的好坏程度。通过价值函数，智能体能够知道在某一状态下执行某一动作的长期回报。最常用的价值函数是状态价值函数和动作价值函数，分别定义为：",
+    "semantic_summary": "价值函数用于评估某个状态或状态-动作对的好坏程度。通过价值函数，智能体能够知道在某一状态下执行某一动作的长期回报。最常用的价值函数是状态价值函数和动作价值函数，分别定义为：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "价值函数用于评估某个状态或状态-动作对的好坏程度。通过价值函数，智能体能够知道在某一状态下执行某一动作的长期回报。最常用的价值函数是状态价值函数和动作价值函数，分别定义为：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "价值函数用于评估某个状态或状态-动作对的好坏程度。通过价值函数，智能体能够知道在某一状态下执行某一动作的长期回报。最常用的价值函数是状态价值函数和动作价值函数，分别定义为："
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_077",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "Bellman 方程为每个状态和动作定义了递推关系。具体而言，状态价值函数和动作价值函数满足以下方程：",
+    "semantic_summary": "Bellman 方程为每个状态和动作定义了递推关系。具体而言，状态价值函数和动作价值函数满足以下方程：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "Bellman 方程为每个状态和动作定义了递推关系。具体而言，状态价值函数和动作价值函数满足以下方程：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "Bellman 方程为每个状态和动作定义了递推关系。具体而言，状态价值函数和动作价值函数满足以下方程："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_078",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在MDP框架下，智能体的目标是找到一个最优的策略来最大化长期回报。强化学习的方法主要包括三类：",
+    "semantic_summary": "在MDP框架下，智能体的目标是找到一个最优的策略来最大化长期回报。强化学习的方法主要包括三类：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在MDP框架下，智能体的目标是找到一个最优的策略来最大化长期回报。强化学习的方法主要包括三类：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在MDP框架下，智能体的目标是找到一个最优的策略来最大化长期回报。强化学习的方法主要包括三类："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_079",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "在工程化的强化学习应用中，除策略更新本身外，还必须同时处理三类共性问题：其一是探索—利用的平衡，以兼顾搜索广度与学习效率；其二是约束与安全性的落实，确保训练与推理全过程始终位于可行域；其三是多目标权衡，使方案在多个目标中实现合理取舍。",
+    "semantic_summary": "在工程化的强化学习应用中，除策略更新本身外，还必须同时处理三类共性问题：其一是探索—利用的平衡，以兼顾搜索广度与学习效率；其二是约束与安全性的落实，确保训练与推理全过程始终位于可行域；其三是多目标权衡，使方案在多个目标中实现合理取舍。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在工程化的强化学习应用中，除策略更新本身外，还必须同时处理三类共性问题：其一是探索—利用的平衡，以兼顾搜索广度与学习效率；其二是约束与安全性的落实，确保训练与推理全过程始终位于可行域；其三是多目标权衡，使方案在多个目标中实现合理取舍。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在工程化的强化学习应用中，除策略更新本身外，还必须同时处理三类共性问题：其一是探索—利用的平衡，以兼顾搜索广度与学习效率；其二是约束与安全性的落实，确保训练与推理全过程始终位于可行域；其三是多目标权衡，使方案在多个目标中实现合理取舍。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_080",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（3）多目标情形：若同时考虑工程、安全性、运营经济等，可用权重标量化或向量奖励产出一组帕累托可比解，便于设计阶段进行方案抉择。",
+    "semantic_summary": "（3）多目标情形：若同时考虑工程、安全性、运营经济等，可用权重标量化或向量奖励产出一组帕累托可比解，便于设计阶段进行方案抉择。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（3）多目标情形：若同时考虑工程、安全性、运营经济等，可用权重标量化或向量奖励产出一组帕累托可比解，便于设计阶段进行方案抉择。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（3）多目标情形：若同时考虑工程、安全性、运营经济等，可用权重标量化或向量奖励产出一组帕累托可比解，便于设计阶段进行方案抉择。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_081",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）定义环境：明确状态、动作、奖励与终止条件。",
+    "semantic_summary": "（1）定义环境：明确状态、动作、奖励与终止条件。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）定义环境：明确状态、动作、奖励与终止条件。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（1）定义环境：明确状态、动作、奖励与终止条件。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_082",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（4）策略与价值更新：依据选择的算法更新策略参数与价值网络；必要时进行目标网络软更新。",
+    "semantic_summary": "（4）策略与价值更新：依据选择的算法更新策略参数与价值网络；必要时进行目标网络软更新。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（4）策略与价值更新：依据选择的算法更新策略参数与价值网络；必要时进行目标网络软更新。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（4）策略与价值更新：依据选择的算法更新策略参数与价值网络；必要时进行目标网络软更新。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_083",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（5）重复与收敛判据：循环执行步骤（2）—（4），直到达到稳定指标（例如平均回报、约束满足率、早停条件）。",
+    "semantic_summary": "（5）重复与收敛判据：循环执行步骤（2）—（4），直到达到稳定指标（例如平均回报、约束满足率、早停条件）。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（5）重复与收敛判据：循环执行步骤（2）—（4），直到达到稳定指标（例如平均回报、约束满足率、早停条件）。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（5）重复与收敛判据：循环执行步骤（2）—（4），直到达到稳定指标（例如平均回报、约束满足率、早停条件）。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_084",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "针对上述强化学习模型，可选用任一主流RL算法进行求解。本节介绍采用DQN （Deep Q Network）算法来实现纵断面优化智能体，以说明模型的训练流程。适用于将坡度/变坡决策进行合理离散、动作空间有限的场景；其值迭代与经验回放机制有利于样本复用并提升训练稳定性。算法流程如下：",
+    "semantic_summary": "针对上述强化学习模型，可选用任一主流RL算法进行求解。本节介绍采用DQN （Deep Q Network）算法来实现纵断面优化智能体，以说明模型的训练流程。适用于将坡度/变坡决策进行合理离散、动作空间有限的场景；其值迭代与经验回放机制有利于...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "针对上述强化学习模型，可选用任一主流RL算法进行求解。本节介绍采用DQN （Deep Q Network）算法来实现纵断面优化智能体，以说明模型的训练流程。适用于将坡度/变坡决策进行合理离散、动作空间有限的场景；其值迭代与经验回放机制有利于...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "针对上述强化学习模型，可选用任一主流RL算法进行求解。本节介绍采用DQN （Deep Q Network）算法来实现纵断面优化智能体，以说明模型的训练流程。适用于将坡度/变坡决策进行合理离散、动作空间有限的场景；其值迭代与经验回放机制有利于"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_085",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "1.环境与参数初始化：读取地面高程数据，初始化仿真环境。定义状态包含当前里程、当前坡度以及后续高程等信息；动作定义为若干离散坡度调整选项。初始化DQN的价值网络参数，并构建经验回放池。",
+    "semantic_summary": "1.环境与参数初始化：读取地面高程数据，初始化仿真环境。定义状态包含当前里程、当前坡度以及后续高程等信息；动作定义为若干离散坡度调整选项。初始化DQN的价值网络参数，并构建经验回放池。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "1.环境与参数初始化：读取地面高程数据，初始化仿真环境。定义状态包含当前里程、当前坡度以及后续高程等信息；动作定义为若干离散坡度调整选项。初始化DQN的价值网络参数，并构建经验回放池。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "1.环境与参数初始化：读取地面高程数据，初始化仿真环境。定义状态包含当前里程、当前坡度以及后续高程等信息；动作定义为若干离散坡度调整选项。初始化DQN的价值网络参数，并构建经验回放池。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_086",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "4.决策循环（时序步）：在线路尚未到达终点站之前，反复执行以下步骤：",
+    "semantic_summary": "4.决策循环（时序步）：在线路尚未到达终点站之前，反复执行以下步骤：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "4.决策循环（时序步）：在线路尚未到达终点站之前，反复执行以下步骤：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "4.决策循环（时序步）：在线路尚未到达终点站之前，反复执行以下步骤："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_087",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "heading_path": "第十章 > 第三节 算法驱动的智能选线",
+    "content_type": "paragraph",
+    "source_excerpt": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+    "semantic_summary": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "cross_paragraph_or_formula_fragment",
+      "excerpt_preview": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。"
+    },
+    "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
+    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "cross_paragraph_or_formula_fragment",
+      "review_status": "boundary_fragment_review",
+      "recommended_action": "疑似跨段、公式或列表边界片段；人工确认是否拆分、补公式上下文或仅保留为摘要。",
+      "best_score": 0.920224,
+      "score_margin": 0.117956,
+      "candidate_paragraph_start": 5133,
+      "candidate_paragraph_end": 5133,
+      "candidate_reasons": [
+        "excerpt:0.94",
+        "summary:0.94",
+        "terms:计算梯度并更新,网络参数,每隔固定步数,贝至目标网络,以保持训练稳定"
+      ],
+      "matched_terms": [
+        "计算梯度并更新",
+        "网络参数",
+        "每隔固定步数",
+        "贝至目标网络",
+        "以保持训练稳定"
+      ],
+      "candidate_text_preview": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前Q网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_088",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04",
+    "heading_path": "第十章 > 第四节 数据驱动的路线设计",
+    "content_type": "paragraph",
+    "source_excerpt": "传统的工程判断根植于个体有限的项目经验，而数据驱动方法则通过训练机器学习模型，将成百上千个历史项目的集体经验进行编码和量化。随着BIM、GIS、遥感与传感网络等技术的发展，路线设计所需的地理环境与工程数据日益丰富，项目全生命周期中积累的大量异构数据也为设计智能化提供了现实基础。在此背景下，数据驱动的路线设计方法应运而生。其核心思想是通过系统性地整合多源异构数据——涵盖地形地貌、地质水文、气象环境、交通流量、历史工程案例等——并利用计算智能（特别是机器学习与深度学习技术），在设",
+    "semantic_summary": "传统的工程判断根植于个体有限的项目经验，而数据驱动方法则通过训练机器学习模型，将成百上千个历史项目的集体经验进行编码和量化。随着BIM、GIS、遥感与传感网络等技术的发展，路线设计所需的地理环境与工程数据日益丰富，项目全生命周期中积累的大量...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "传统的工程判断根植于个体有限的项目经验，而数据驱动方法则通过训练机器学习模型，将成百上千个历史项目的集体经验进行编码和量化。随着BIM、GIS、遥感与传感网络等技术的发展，路线设计所需的地理环境与工程数据日益丰富，项目全生命周期中积累的大量...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "传统的工程判断根植于个体有限的项目经验，而数据驱动方法则通过训练机器学习模型，将成百上千个历史项目的集体经验进行编码和量化。随着BIM、GIS、遥感与传感网络等技术的发展，路线设计所需的地理环境与工程数据日益丰富，项目全生命周期中积累的大量"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_089",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04",
+    "heading_path": "第十章 > 第四节 数据驱动的路线设计",
+    "content_type": "paragraph",
+    "source_excerpt": "监督学习通过学习带有“正确答案”（即标签）的数据集，来构建一个能够对新数据进行预测的模型。其在路线设计中的应用尤为广泛，主要体现在两个方面：",
+    "semantic_summary": "监督学习通过学习带有“正确答案”（即标签）的数据集，来构建一个能够对新数据进行预测的模型。其在路线设计中的应用尤为广泛，主要体现在两个方面：",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "监督学习通过学习带有“正确答案”（即标签）的数据集，来构建一个能够对新数据进行预测的模型。其在路线设计中的应用尤为广泛，主要体现在两个方面：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "监督学习通过学习带有“正确答案”（即标签）的数据集，来构建一个能够对新数据进行预测的模型。其在路线设计中的应用尤为广泛，主要体现在两个方面："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_090",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04",
+    "heading_path": "第十章 > 第四节 数据驱动的路线设计",
+    "content_type": "paragraph",
+    "source_excerpt": "当预测目标是离散的类别时，使用分类模型。一个典型的应用案例是高速公路平面线形组合的智能推荐。研究人员通过收集大量已建成高速公路的设计数据，将偏角、交点间距等几何特征作为输入，将实际采用的曲线组合类型（如“S形曲线”或“反向曲线”）作为标签，训练支持向量机（SVM）或决策树等分类模型。训练完成后，该模型便能根据新设计路段的几何特征，自动推荐最合适的曲线组合类型 。",
+    "semantic_summary": "当预测目标是离散的类别时，使用分类模型。一个典型的应用案例是高速公路平面线形组合的智能推荐。研究人员通过收集大量已建成高速公路的设计数据，将偏角、交点间距等几何特征作为输入，将实际采用的曲线组合类型（如“S形曲线”或“反向曲线”）作为标签，...",
+    "evidence_role": "definition_or_process_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "当预测目标是离散的类别时，使用分类模型。一个典型的应用案例是高速公路平面线形组合的智能推荐。研究人员通过收集大量已建成高速公路的设计数据，将偏角、交点间距等几何特征作为输入，将实际采用的曲线组合类型（如“S形曲线”或“反向曲线”）作为标签，...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "当预测目标是离散的类别时，使用分类模型。一个典型的应用案例是高速公路平面线形组合的智能推荐。研究人员通过收集大量已建成高速公路的设计数据，将偏角、交点间距等几何特征作为输入，将实际采用的曲线组合类型（如“S形曲线”或“反向曲线”）作为标签，"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_091",
+    "chapter_id": "ch10",
+    "section_id": "ch10",
+    "heading_path": "第十章 AI驱动的道路设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "1.理解道路设计如何从传统依赖经验、规范的模式，向知识化、智能化与数据化的AI驱动模式转变。能够区分知识驱动、算法驱动与数据驱动在功能定位上的差异及其相互融合的趋势 。了解检索增强生成（RAG）、AI智能体（Agent）等新技术如何拓展道路设计的内涵边界 。",
+    "semantic_summary": "1.理解道路设计如何从传统依赖经验、规范的模式，向知识化、智能化与数据化的AI驱动模式转变。能够区分知识驱动、算法驱动与数据驱动在功能定位上的差异及其相互融合的趋势 。了解检索增强生成（RAG）、AI智能体（Agent）等新技术如何拓展道路...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "1.理解道路设计如何从传统依赖经验、规范的模式，向知识化、智能化与数据化的AI驱动模式转变。能够区分知识驱动、算法驱动与数据驱动在功能定位上的差异及其相互融合的趋势 。了解检索增强生成（RAG）、AI智能体（Agent）等新技术如何拓展道路...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "1.理解道路设计如何从传统依赖经验、规范的模式，向知识化、智能化与数据化的AI驱动模式转变。能够区分知识驱动、算法驱动与数据驱动在功能定位上的差异及其相互融合的趋势 。了解检索增强生成（RAG）、AI智能体（Agent）等新技术如何拓展道路"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_092",
+    "chapter_id": "ch10",
+    "section_id": "ch10",
+    "heading_path": "第十章 AI驱动的道路设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "2.学习如何利用本体与知识图谱构建设计领域的语义网络，以及如何将规范与案例转化为结构化的规则库与案例库。了解三种核心推理方法在选线中的应用以及检索增强生成（RAG）机制如何通过“检索-证据-生成”闭环，实现知识的动态接入 。",
+    "semantic_summary": "2.学习如何利用本体与知识图谱构建设计领域的语义网络，以及如何将规范与案例转化为结构化的规则库与案例库。了解三种核心推理方法在选线中的应用以及检索增强生成（RAG）机制如何通过“检索-证据-生成”闭环，实现知识的动态接入 。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "2.学习如何利用本体与知识图谱构建设计领域的语义网络，以及如何将规范与案例转化为结构化的规则库与案例库。了解三种核心推理方法在选线中的应用以及检索增强生成（RAG）机制如何通过“检索-证据-生成”闭环，实现知识的动态接入 。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "2.学习如何利用本体与知识图谱构建设计领域的语义网络，以及如何将规范与案例转化为结构化的规则库与案例库。了解三种核心推理方法在选线中的应用以及检索增强生成（RAG）机制如何通过“检索-证据-生成”闭环，实现知识的动态接入 。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_093",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "第一节　AI驱动的道路设计范式",
+    "semantic_summary": "第一节　AI驱动的道路设计范式",
+    "evidence_role": "context_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "第一节　AI驱动的道路设计范式",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "第一节　AI驱动的道路设计范式"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_094",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "heading",
+    "source_excerpt": "一、知识驱动：从“静态规则库”到“动态知识网络”",
+    "semantic_summary": "一、知识驱动：从“静态规则库”到“动态知识网络”",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "一、知识驱动：从“静态规则库”到“动态知识网络”",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "一、知识驱动：从“静态规则库”到“动态知识网络”"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_095",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "知识驱动最擅长处理强约束、强合规、可解释的判断任务：一是在 CAD/BIM 环境中进行实时规范校核与参数建议，二是在 GIS 环境中对禁限建区进行约束判别与自动避让，三是在“经验主导”的复杂情景（如特殊地质处置）中给出可追溯的专家式建议。其价值在于：将“应该如何做”的工程理性前置到设计过程，使每个决策都可追溯到明确的条文或案例依据。",
+    "semantic_summary": "知识驱动最擅长处理强约束、强合规、可解释的判断任务：一是在 CAD/BIM 环境中进行实时规范校核与参数建议，二是在 GIS 环境中对禁限建区进行约束判别与自动避让，三是在“经验主导”的复杂情景（如特殊地质处置）中给出可追溯的专家式建议。其...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "知识驱动最擅长处理强约束、强合规、可解释的判断任务：一是在 CAD/BIM 环境中进行实时规范校核与参数建议，二是在 GIS 环境中对禁限建区进行约束判别与自动避让，三是在“经验主导”的复杂情景（如特殊地质处置）中给出可追溯的专家式建议。其...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "知识驱动最擅长处理强约束、强合规、可解释的判断任务：一是在 CAD/BIM 环境中进行实时规范校核与参数建议，二是在 GIS 环境中对禁限建区进行约束判别与自动避让，三是在“经验主导”的复杂情景（如特殊地质处置）中给出可追溯的专家式建议。其"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_096",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；",
+    "semantic_summary": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "summary_with_term_support",
+      "support_terms": [
+        "GIS"
+      ]
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "summary_with_term_support",
+      "excerpt_preview": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；"
+    },
+    "evidence_boundary_note": "片段主体未直接命中，但存在可追溯术语支撑。",
+    "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "summary_with_term_support",
+      "review_status": "term_supported_summary_review",
+      "recommended_action": "保留为教学摘要候选；人工确认术语锚点是否足以支撑该 Source_Chunk。",
+      "best_score": 0.852805,
+      "score_margin": 0.340618,
+      "candidate_paragraph_start": 4794,
+      "candidate_paragraph_end": 4794,
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:执行,跨平台调用,GIS,分析,优化库,建模与模拟评估工具,自动传递数据与参数"
+      ],
+      "matched_terms": [
+        "执行",
+        "跨平台调用",
+        "GIS",
+        "分析",
+        "优化库",
+        "建模与模拟评估工具",
+        "自动传递数据与参数"
+      ],
+      "candidate_text_preview": "（2）执行：跨平台调用GIS分析、优化库、BIM建模与模拟评估工具，自动传递数据与参数；",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_097",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "3.反馈：基于仿真、工程量与环境指标的评价结果，调整约束或优化参数，触发新一轮求解。",
+    "semantic_summary": "3.反馈：基于仿真、工程量与环境指标的评价结果，调整约束或优化参数，触发新一轮求解。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "3.反馈：基于仿真、工程量与环境指标的评价结果，调整约束或优化参数，触发新一轮求解。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "3.反馈：基于仿真、工程量与环境指标的评价结果，调整约束或优化参数，触发新一轮求解。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_098",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "heading",
+    "source_excerpt": "三、数据驱动：从“相关性学习”到“多模态的预测性认知”",
+    "semantic_summary": "三、数据驱动：从“相关性学习”到“多模态的预测性认知”",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "三、数据驱动：从“相关性学习”到“多模态的预测性认知”",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "三、数据驱动：从“相关性学习”到“多模态的预测性认知”"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_099",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "数据驱动在三类任务上表现突出：其一是模式识别与风险辨识（如滑坡敏感性、地表破碎度、生态敏感区识别）；其二是参数推荐与性能预测（如线形指标推荐、交通性能指标预测）；其三是不确定性刻画（基于概率输出与置信区间，提示数据稀疏或场景外分布带来的风险）。与知识驱动相比，数据驱动在高维、非线性、多源异质数据场景下具有更强的拟合与泛化能力。",
+    "semantic_summary": "数据驱动在三类任务上表现突出：其一是模式识别与风险辨识（如滑坡敏感性、地表破碎度、生态敏感区识别）；其二是参数推荐与性能预测（如线形指标推荐、交通性能指标预测）；其三是不确定性刻画（基于概率输出与置信区间，提示数据稀疏或场景外分布带来的风险...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "数据驱动在三类任务上表现突出：其一是模式识别与风险辨识（如滑坡敏感性、地表破碎度、生态敏感区识别）；其二是参数推荐与性能预测（如线形指标推荐、交通性能指标预测）；其三是不确定性刻画（基于概率输出与置信区间，提示数据稀疏或场景外分布带来的风险...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "数据驱动在三类任务上表现突出：其一是模式识别与风险辨识（如滑坡敏感性、地表破碎度、生态敏感区识别）；其二是参数推荐与性能预测（如线形指标推荐、交通性能指标预测）；其三是不确定性刻画（基于概率输出与置信区间，提示数据稀疏或场景外分布带来的风险"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_100",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "heading_path": "第十章 > 第一节 AI驱动的道路设计范式",
+    "content_type": "paragraph",
+    "source_excerpt": "数据驱动与知识、算法驱动存在两条融合方向：",
+    "semantic_summary": "数据驱动与知识、算法驱动存在两条融合方向：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "数据驱动与知识、算法驱动存在两条融合方向：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "数据驱动与知识、算法驱动存在两条融合方向："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_101",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "第二节　知识驱动的道路智能设计方法",
+    "semantic_summary": "第二节　知识驱动的道路智能设计方法",
+    "evidence_role": "context_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "第二节　知识驱动的道路智能设计方法",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "第二节　知识驱动的道路智能设计方法"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_102",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）清晰表达：将分散的设计知识（术语、关系、规则、案例）进行结构化、标准化，便于理解与共享；",
+    "semantic_summary": "（1）清晰表达：将分散的设计知识（术语、关系、规则、案例）进行结构化、标准化，便于理解与共享；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）清晰表达：将分散的设计知识（术语、关系、规则、案例）进行结构化、标准化，便于理解与共享；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（1）清晰表达：将分散的设计知识（术语、关系、规则、案例）进行结构化、标准化，便于理解与共享；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_103",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）按需调用：通过关键词检索、空间位置关联等方式，使设计人员在需要时快速获取相关知识；",
+    "semantic_summary": "（2）按需调用：通过关键词检索、空间位置关联等方式，使设计人员在需要时快速获取相关知识；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）按需调用：通过关键词检索、空间位置关联等方式，使设计人员在需要时快速获取相关知识；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（2）按需调用：通过关键词检索、空间位置关联等方式，使设计人员在需要时快速获取相关知识；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_104",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（3）智能判断：当出现方案选择或冲突时，综合规则、案例与空间信息，给出可执行的建议；",
+    "semantic_summary": "（3）智能判断：当出现方案选择或冲突时，综合规则、案例与空间信息，给出可执行的建议；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（3）智能判断：当出现方案选择或冲突时，综合规则、案例与空间信息，给出可执行的建议；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（3）智能判断：当出现方案选择或冲突时，综合规则、案例与空间信息，给出可执行的建议；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_105",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（4）过程反馈：记录判断结果与设计选择，持续完善与更新知识库。",
+    "semantic_summary": "（4）过程反馈：记录判断结果与设计选择，持续完善与更新知识库。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（4）过程反馈：记录判断结果与设计选择，持续完善与更新知识库。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（4）过程反馈：记录判断结果与设计选择，持续完善与更新知识库。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_106",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）空间关系推理（SRR）：通过空间拓扑与几何关系识别设计情境，例如地质要素（滑坡等）与路线的空间关系；",
+    "semantic_summary": "（1）空间关系推理（SRR）：通过空间拓扑与几何关系识别设计情境，例如地质要素（滑坡等）与路线的空间关系；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）空间关系推理（SRR）：通过空间拓扑与几何关系识别设计情境，例如地质要素（滑坡等）与路线的空间关系；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（1）空间关系推理（SRR）：通过空间拓扑与几何关系识别设计情境，例如地质要素（滑坡等）与路线的空间关系；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_107",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）案例推理（CBR）：基于相似度检索历史工程案例；",
+    "semantic_summary": "（2）案例推理（CBR）：基于相似度检索历史工程案例；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）案例推理（CBR）：基于相似度检索历史工程案例；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（2）案例推理（CBR）：基于相似度检索历史工程案例；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_108",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（3）规则推理（RBR）：基于“前提-结论”结构执行逻辑判断。",
+    "semantic_summary": "（3）规则推理（RBR）：基于“前提-结论”结构执行逻辑判断。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（3）规则推理（RBR）：基于“前提-结论”结构执行逻辑判断。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（3）规则推理（RBR）：基于“前提-结论”结构执行逻辑判断。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_109",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "在道路设计中，知识不仅包含参数规范和经验逻辑，还涉及空间关系与案例经验。为实现统一建模，系统采用四类知识结构：",
+    "semantic_summary": "在道路设计中，知识不仅包含参数规范和经验逻辑，还涉及空间关系与案例经验。为实现统一建模，系统采用四类知识结构：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在道路设计中，知识不仅包含参数规范和经验逻辑，还涉及空间关系与案例经验。为实现统一建模，系统采用四类知识结构：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在道路设计中，知识不仅包含参数规范和经验逻辑，还涉及空间关系与案例经验。为实现统一建模，系统采用四类知识结构："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_110",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "1.本体与知识图谱（Ontology & Graph）",
+    "semantic_summary": "1.本体与知识图谱（Ontology & Graph）",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "1.本体与知识图谱（Ontology & Graph）",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "1.本体与知识图谱（Ontology & Graph）"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_111",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "该结构用于表达概念术语及其关系，建立统一语义框架，构成知识网络的基础。知识图谱形式为三元组集合：",
+    "semantic_summary": "该结构用于表达概念术语及其关系，建立统一语义框架，构成知识网络的基础。知识图谱形式为三元组集合：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "该结构用于表达概念术语及其关系，建立统一语义框架，构成知识网络的基础。知识图谱形式为三元组集合：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "该结构用于表达概念术语及其关系，建立统一语义框架，构成知识网络的基础。知识图谱形式为三元组集合："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_112",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "术语节点（Term）：如 “滑坡”、“边坡”、“隧道进出口”等；",
+    "semantic_summary": "术语节点（Term）：如 “滑坡”、“边坡”、“隧道进出口”等；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "术语节点（Term）：如 “滑坡”、“边坡”、“隧道进出口”等；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "术语节点（Term）：如 “滑坡”、“边坡”、“隧道进出口”等；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_113",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "关系边（Relation）：如 “位于（located in）”、“影响（affects）”、“适配（suitable for）”；",
+    "semantic_summary": "关系边（Relation）：如 “位于（located in）”、“影响（affects）”、“适配（suitable for）”；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "关系边（Relation）：如 “位于（located in）”、“影响（affects）”、“适配（suitable for）”；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "关系边（Relation）：如 “位于（located in）”、“影响（affects）”、“适配（suitable for）”；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_114",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "属性集（Attributes）：如 “坡度=35°”、“活动性=高”；",
+    "semantic_summary": "属性集（Attributes）：如 “坡度=35°”、“活动性=高”；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "属性集（Attributes）：如 “坡度=35°”、“活动性=高”；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "属性集（Attributes）：如 “坡度=35°”、“活动性=高”；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_115",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "继承结构：如 “滑坡”是“地质灾害”的子类，构成层级语义链。",
+    "semantic_summary": "继承结构：如 “滑坡”是“地质灾害”的子类，构成层级语义链。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "继承结构：如 “滑坡”是“地质灾害”的子类，构成层级语义链。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "继承结构：如 “滑坡”是“地质灾害”的子类，构成层级语义链。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_116",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "滑坡地区选线的知识图谱示例如图 10-3所示。",
+    "semantic_summary": "滑坡地区选线的知识图谱示例如图 10-3所示。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "滑坡地区选线的知识图谱示例如图 10-3所示。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "滑坡地区选线的知识图谱示例如图 10-3所示。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_117",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "2.案例库（Case Base）",
+    "semantic_summary": "2.案例库（Case Base）",
+    "evidence_role": "context_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "2.案例库（Case Base）",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "2.案例库（Case Base）"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_118",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "用于存储实际工程经验，支持相似情境下的方案类比。每一案例结构如下三元组：",
+    "semantic_summary": "用于存储实际工程经验，支持相似情境下的方案类比。每一案例结构如下三元组：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "用于存储实际工程经验，支持相似情境下的方案类比。每一案例结构如下三元组：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "用于存储实际工程经验，支持相似情境下的方案类比。每一案例结构如下三元组："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_119",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "情境特征（Situation）：如“土质边坡 + 降雨 > 1000mm + 高填方”；",
+    "semantic_summary": "情境特征（Situation）：如“土质边坡 + 降雨 > 1000mm + 高填方”；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "情境特征（Situation）：如“土质边坡 + 降雨 > 1000mm + 高填方”；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "情境特征（Situation）：如“土质边坡 + 降雨 > 1000mm + 高填方”；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_120",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "设计方案（Design）：如“桥隧组合 + 护坡墙 + 排导系统”；",
+    "semantic_summary": "设计方案（Design）：如“桥隧组合 + 护坡墙 + 排导系统”；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "设计方案（Design）：如“桥隧组合 + 护坡墙 + 排导系统”；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "设计方案（Design）：如“桥隧组合 + 护坡墙 + 排导系统”；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_121",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "实施效果（Outcome）：如“滑坡风险降低 + 工期节约20%”。",
+    "semantic_summary": "实施效果（Outcome）：如“滑坡风险降低 + 工期节约20%”。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "实施效果（Outcome）：如“滑坡风险降低 + 工期节约20%”。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "实施效果（Outcome）：如“滑坡风险降低 + 工期节约20%”。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_122",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "所有案例均绑定空间位置信息与项目阶段、工程类别、数据来源等元属性，用于 CBR 模块的相似性检索与效果预测。",
+    "semantic_summary": "所有案例均绑定空间位置信息与项目阶段、工程类别、数据来源等元属性，用于 CBR 模块的相似性检索与效果预测。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "所有案例均绑定空间位置信息与项目阶段、工程类别、数据来源等元属性，用于 CBR 模块的相似性检索与效果预测。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "所有案例均绑定空间位置信息与项目阶段、工程类别、数据来源等元属性，用于 CBR 模块的相似性检索与效果预测。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_123",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "3.规则库（Rule Base）",
+    "semantic_summary": "3.规则库（Rule Base）",
+    "evidence_role": "context_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "3.规则库（Rule Base）",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "3.规则库（Rule Base）"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_124",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "规则用于编码设计逻辑与规范约束，采用“前提–结论”结构建模，即：",
+    "semantic_summary": "规则用于编码设计逻辑与规范约束，采用“前提–结论”结构建模，即：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "规则用于编码设计逻辑与规范约束，采用“前提–结论”结构建模，即：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "规则用于编码设计逻辑与规范约束，采用“前提–结论”结构建模，即："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_125",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "其中表示前提条件集合，为推理结果或推荐措施。例如：IF 滑坡活动性 = 强 AND 路线位于 = 滑坡中段 THEN 推荐选线避让 OR 采用隧道穿越。",
+    "semantic_summary": "其中表示前提条件集合，为推理结果或推荐措施。例如：IF 滑坡活动性 = 强 AND 路线位于 = 滑坡中段 THEN 推荐选线避让 OR 采用隧道穿越。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "其中表示前提条件集合，为推理结果或推荐措施。例如：IF 滑坡活动性 = 强 AND 路线位于 = 滑坡中段 THEN 推荐选线避让 OR 采用隧道穿越。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "其中表示前提条件集合，为推理结果或推荐措施。例如：IF 滑坡活动性 = 强 AND 路线位于 = 滑坡中段 THEN 推荐选线避让 OR 采用隧道穿越。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_126",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "4.空间关系库（Spatial Relation Base）",
+    "semantic_summary": "4.空间关系库（Spatial Relation Base）",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "4.空间关系库（Spatial Relation Base）",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "4.空间关系库（Spatial Relation Base）"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_127",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "空间关系可存储为独立库结构，或作为规则与案例中的属性字段被引用。采用统一的关系标识符实现可复用引用。",
+    "semantic_summary": "空间关系可存储为独立库结构，或作为规则与案例中的属性字段被引用。采用统一的关系标识符实现可复用引用。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "空间关系可存储为独立库结构，或作为规则与案例中的属性字段被引用。采用统一的关系标识符实现可复用引用。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "空间关系可存储为独立库结构，或作为规则与案例中的属性字段被引用。采用统一的关系标识符实现可复用引用。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_128",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "1.查询引发检索：面对特定设计场景或问题，系统从外部知识库（如实时更新的数字规范库、案例资料库等）中检索结构化或非结构化文本片段，作为问题  的上下文支持。",
+    "semantic_summary": "1.查询引发检索：面对特定设计场景或问题，系统从外部知识库（如实时更新的数字规范库、案例资料库等）中检索结构化或非结构化文本片段，作为问题  的上下文支持。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "1.查询引发检索：面对特定设计场景或问题，系统从外部知识库（如实时更新的数字规范库、案例资料库等）中检索结构化或非结构化文本片段，作为问题  的上下文支持。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "1.查询引发检索：面对特定设计场景或问题，系统从外部知识库（如实时更新的数字规范库、案例资料库等）中检索结构化或非结构化文本片段，作为问题  的上下文支持。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_129",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "3.源可追溯与调用管理：系统记录每次生成的证据来源、时间戳与置信度评分，保证设计师可追踪、可验证，有效控制 LLM 的“幻觉”问题。",
+    "semantic_summary": "3.源可追溯与调用管理：系统记录每次生成的证据来源、时间戳与置信度评分，保证设计师可追踪、可验证，有效控制 LLM 的“幻觉”问题。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "3.源可追溯与调用管理：系统记录每次生成的证据来源、时间戳与置信度评分，保证设计师可追踪、可验证，有效控制 LLM 的“幻觉”问题。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "3.源可追溯与调用管理：系统记录每次生成的证据来源、时间戳与置信度评分，保证设计师可追踪、可验证，有效控制 LLM 的“幻觉”问题。"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_130",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "这类机制的引入，为设计知识系统提供了一种“半结构化+可推理”的动态增强路径。",
+    "semantic_summary": "这类机制的引入，为设计知识系统提供了一种“半结构化+可推理”的动态增强路径。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "这类机制的引入，为设计知识系统提供了一种“半结构化+可推理”的动态增强路径。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "这类机制的引入，为设计知识系统提供了一种“半结构化+可推理”的动态增强路径。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_131",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "知识获取的任务是将规范、经验与历史数据中蕴藏的隐性知识转化为结构化、可推理的信息资源。在以公路选线设计中，知识获取工作主要聚焦于两类核心对象：实例知识与规则知识。前者提供经验类比基础，后者传达因果逻辑与决策依据。在实例知识与规则知识中，诸如“路线与滑坡前缘相交”“高程位于滑动面以下”这类判断所涉及的空间关系，并非作为独立知识类型单独建库，而是作为属性字段或前提条件，自然地嵌入在案例描述与规则表达之中。",
+    "semantic_summary": "知识获取的任务是将规范、经验与历史数据中蕴藏的隐性知识转化为结构化、可推理的信息资源。在以公路选线设计中，知识获取工作主要聚焦于两类核心对象：实例知识与规则知识。前者提供经验类比基础，后者传达因果逻辑与决策依据。在实例知识与规则知识中，诸如...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "知识获取的任务是将规范、经验与历史数据中蕴藏的隐性知识转化为结构化、可推理的信息资源。在以公路选线设计中，知识获取工作主要聚焦于两类核心对象：实例知识与规则知识。前者提供经验类比基础，后者传达因果逻辑与决策依据。在实例知识与规则知识中，诸如...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "知识获取的任务是将规范、经验与历史数据中蕴藏的隐性知识转化为结构化、可推理的信息资源。在以公路选线设计中，知识获取工作主要聚焦于两类核心对象：实例知识与规则知识。前者提供经验类比基础，后者传达因果逻辑与决策依据。在实例知识与规则知识中，诸如"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_132",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "实例知识，即源自既往项目的案例经验，实例知识的获取与建模采用了“面向对象 + 属性-值对”的混合表达方式。",
+    "semantic_summary": "实例知识，即源自既往项目的案例经验，实例知识的获取与建模采用了“面向对象 + 属性-值对”的混合表达方式。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "实例知识，即源自既往项目的案例经验，实例知识的获取与建模采用了“面向对象 + 属性-值对”的混合表达方式。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "实例知识，即源自既往项目的案例经验，实例知识的获取与建模采用了“面向对象 + 属性-值对”的混合表达方式。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_133",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "通过系统汇集既往工程与公开资料，形成面向选线的案例库。在建模上采用面向对象组织层级。例如，以“不良地质实例”为顶层类，派生“滑坡选线实例”“泥石流选线实例”等子类，每个具体项目（对象）挂载于其相应子类之下，清晰呈现知识的分类—继承关系",
+    "semantic_summary": "通过系统汇集既往工程与公开资料，形成面向选线的案例库。在建模上采用面向对象组织层级。例如，以“不良地质实例”为顶层类，派生“滑坡选线实例”“泥石流选线实例”等子类，每个具体项目（对象）挂载于其相应子类之下，清晰呈现知识的分类—继承关系",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "通过系统汇集既往工程与公开资料，形成面向选线的案例库。在建模上采用面向对象组织层级。例如，以“不良地质实例”为顶层类，派生“滑坡选线实例”“泥石流选线实例”等子类，每个具体项目（对象）挂载于其相应子类之下，清晰呈现知识的分类—继承关系",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "通过系统汇集既往工程与公开资料，形成面向选线的案例库。在建模上采用面向对象组织层级。例如，以“不良地质实例”为顶层类，派生“滑坡选线实例”“泥石流选线实例”等子类，每个具体项目（对象）挂载于其相应子类之下，清晰呈现知识的分类—继承关系"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_134",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "规则知识代表了领域内经过验证的因果关系和处理原则，通常以“如果...那么...” (IF-THEN) 的形式表达。可采用手工获取与自动获取相结合的混合策略来构建规则知识库，以确保其全面性和深度。",
+    "semantic_summary": "规则知识代表了领域内经过验证的因果关系和处理原则，通常以“如果...那么...” (IF-THEN) 的形式表达。可采用手工获取与自动获取相结合的混合策略来构建规则知识库，以确保其全面性和深度。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "规则知识代表了领域内经过验证的因果关系和处理原则，通常以“如果...那么...” (IF-THEN) 的形式表达。可采用手工获取与自动获取相结合的混合策略来构建规则知识库，以确保其全面性和深度。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "规则知识代表了领域内经过验证的因果关系和处理原则，通常以“如果...那么...” (IF-THEN) 的形式表达。可采用手工获取与自动获取相结合的混合策略来构建规则知识库，以确保其全面性和深度。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_135",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+    "semantic_summary": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "excerpt_preview": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。"
+    },
+    "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
+    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "needs_manual_textbook_anchor",
+      "review_status": "candidate_anchor_review",
+      "recommended_action": "已生成候选 Word 段落；人工确认后可作为概念依据对应，不标记为逐字原文。",
+      "best_score": 0.839208,
+      "score_margin": 0.047059,
+      "candidate_paragraph_start": 4884,
+      "candidate_paragraph_end": 4884,
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:通过对专业书籍,设计规范和专家经验的系统,性梳理,提炼出经典的,被广泛接受的设计原则"
+      ],
+      "matched_terms": [
+        "通过对专业书籍",
+        "设计规范和专家经验的系统",
+        "性梳理",
+        "提炼出经典的",
+        "被广泛接受的设计原则"
+      ],
+      "candidate_text_preview": "通过对专业书籍、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_136",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "公路地质选线中，部分规则示例如表 10-2所示。",
+    "semantic_summary": "公路地质选线中，部分规则示例如表 10-2所示。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "公路地质选线中，部分规则示例如表 10-2所示。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "公路地质选线中，部分规则示例如表 10-2所示。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_137",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "知识推理的任务，是将实例知识与规则知识转化为面向设计的结论与解释，并在建模过程中实时响应。知识驱动的设计方法融合了空间关系推理（SRR）、实例推理（CBR）与规则推理（RBR）。通过对三者的协同调用与整合，最终生成一致且可解释的设计建议。",
+    "semantic_summary": "知识推理的任务，是将实例知识与规则知识转化为面向设计的结论与解释，并在建模过程中实时响应。知识驱动的设计方法融合了空间关系推理（SRR）、实例推理（CBR）与规则推理（RBR）。通过对三者的协同调用与整合，最终生成一致且可解释的设计建议。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "知识推理的任务，是将实例知识与规则知识转化为面向设计的结论与解释，并在建模过程中实时响应。知识驱动的设计方法融合了空间关系推理（SRR）、实例推理（CBR）与规则推理（RBR）。通过对三者的协同调用与整合，最终生成一致且可解释的设计建议。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "知识推理的任务，是将实例知识与规则知识转化为面向设计的结论与解释，并在建模过程中实时响应。知识驱动的设计方法融合了空间关系推理（SRR）、实例推理（CBR）与规则推理（RBR）。通过对三者的协同调用与整合，最终生成一致且可解释的设计建议。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_138",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "空间关系推理（SRR）：从拓扑判定到工程语义",
+    "semantic_summary": "空间关系推理（SRR）：从拓扑判定到工程语义",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "空间关系推理（SRR）：从拓扑判定到工程语义",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "空间关系推理（SRR）：从拓扑判定到工程语义"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_139",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "空间关系推理把几何层面的相交/包含等拓扑判定，压缩为可直接参与设计决策的工程语义事实（如相对位置=前缘、高程关系=低于滑动面、分区形态=槽型），为 CBR/RBR 提供高质量输入。为此，SRR可以采用两层方法：",
+    "semantic_summary": "空间关系推理把几何层面的相交/包含等拓扑判定，压缩为可直接参与设计决策的工程语义事实（如相对位置=前缘、高程关系=低于滑动面、分区形态=槽型），为 CBR/RBR 提供高质量输入。为此，SRR可以采用两层方法：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "空间关系推理把几何层面的相交/包含等拓扑判定，压缩为可直接参与设计决策的工程语义事实（如相对位置=前缘、高程关系=低于滑动面、分区形态=槽型），为 CBR/RBR 提供高质量输入。为此，SRR可以采用两层方法：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "空间关系推理把几何层面的相交/包含等拓扑判定，压缩为可直接参与设计决策的工程语义事实（如相对位置=前缘、高程关系=低于滑动面、分区形态=槽型），为 CBR/RBR 提供高质量输入。为此，SRR可以采用两层方法："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_140",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "当 且 ,则生成工程语义事实：，。",
+    "semantic_summary": "当 且 ,则生成工程语义事实：，。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": false,
+    "chunk_summary": "当 且 ,则生成工程语义事实：，。",
+    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "excerpt_preview": "当 且 ,则生成工程语义事实：，。"
+    },
+    "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
+    "source_excerpt_role": "manual_textbook_anchor_required",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "needs_manual_textbook_anchor",
+      "review_status": "manual_anchor_required",
+      "recommended_action": "未形成稳定候选段落；需人工回看教材原文，决定补锚点、改写边界或降级为教学摘要。",
+      "best_score": 0.263417,
+      "score_margin": 0.068917,
+      "candidate_paragraph_start": 4913,
+      "candidate_paragraph_end": 4913,
+      "candidate_reasons": [
+        "excerpt:0.30",
+        "summary:0.30",
+        "terms:则生成工程语义事实"
+      ],
+      "matched_terms": [
+        "则生成工程语义事实"
+      ],
+      "candidate_text_preview": "当TA,B=Intersects 且 A∩lk≠ϕ,则生成工程语义事实：fk:分区=pk，pkϵ前缘、后缘、形成区-流通区-堆积扇。",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_141",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "例如，对于一条泥石流沟，会依次存储其形成区末端、流通区末端和堆积扇外缘的关键点坐标。当SRR引擎检测到路线与该泥石流面要素相交（Intersects）时，会立即启动第二层判断：它会进一步计算路线线段与这些关键点连接而成的“分区线段”的相交关系。通过判断路线与哪一条分区线段相交，系统就能精确地报告出：“路线与泥石流‘流通区’相交”。",
+    "semantic_summary": "例如，对于一条泥石流沟，会依次存储其形成区末端、流通区末端和堆积扇外缘的关键点坐标。当SRR引擎检测到路线与该泥石流面要素相交（Intersects）时，会立即启动第二层判断：它会进一步计算路线线段与这些关键点连接而成的“分区线段”的相交关...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "例如，对于一条泥石流沟，会依次存储其形成区末端、流通区末端和堆积扇外缘的关键点坐标。当SRR引擎检测到路线与该泥石流面要素相交（Intersects）时，会立即启动第二层判断：它会进一步计算路线线段与这些关键点连接而成的“分区线段”的相交关...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "例如，对于一条泥石流沟，会依次存储其形成区末端、流通区末端和堆积扇外缘的关键点坐标。当SRR引擎检测到路线与该泥石流面要素相交（Intersects）时，会立即启动第二层判断：它会进一步计算路线线段与这些关键点连接而成的“分区线段”的相交关"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_142",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "实例推理（CBR）：以相似经验提供可比证据",
+    "semantic_summary": "实例推理（CBR）：以相似经验提供可比证据",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "实例推理（CBR）：以相似经验提供可比证据",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "实例推理（CBR）：以相似经验提供可比证据"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_143",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "在AI驱动的智能设计体系中，实例推理（Case-Based Reasoning, CBR）是一种基于“经验复用”思路的推理机制。它通过检索与当前问题情境相似的历史案例，为设计者提供具备可比性的设计参考、证据链条与适用建议，从而有效应对“非结构化、专家化”的复杂决策情境。",
+    "semantic_summary": "在AI驱动的智能设计体系中，实例推理（Case-Based Reasoning, CBR）是一种基于“经验复用”思路的推理机制。它通过检索与当前问题情境相似的历史案例，为设计者提供具备可比性的设计参考、证据链条与适用建议，从而有效应对“非结...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在AI驱动的智能设计体系中，实例推理（Case-Based Reasoning, CBR）是一种基于“经验复用”思路的推理机制。它通过检索与当前问题情境相似的历史案例，为设计者提供具备可比性的设计参考、证据链条与适用建议，从而有效应对“非结...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "partial",
+      "classification": "partial_or_boundary_variation",
+      "excerpt_preview": "在AI驱动的智能设计体系中，实例推理（Case-Based Reasoning, CBR）是一种基于“经验复用”思路的推理机制。它通过检索与当前问题情境相似的历史案例，为设计者提供具备可比性的设计参考、证据链条与适用建议，从而有效应对“非结"
+    },
+    "evidence_boundary_note": "证据片段首尾或局部可命中，通常为标点、截断或跨句边界差异。"
+  },
+  {
+    "chunk_id": "ch10_src_144",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+    "semantic_summary": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "excerpt_preview": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；"
+    },
+    "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
+    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "needs_manual_textbook_anchor",
+      "review_status": "candidate_anchor_review",
+      "recommended_action": "已生成候选 Word 段落；人工确认后可作为概念依据对应，不标记为逐字原文。",
+      "best_score": 0.909516,
+      "score_margin": 0.31171,
+      "candidate_paragraph_start": 4920,
+      "candidate_paragraph_end": 4920,
+      "candidate_reasons": [
+        "excerpt:0.91",
+        "summary:0.91",
+        "terms:相似点分析,关键维度,如地貌类型,滑动方向,滑坡规模等,表现出高度一致"
+      ],
+      "matched_terms": [
+        "相似点分析",
+        "关键维度",
+        "如地貌类型",
+        "滑动方向",
+        "滑坡规模等",
+        "表现出高度一致"
+      ],
+      "candidate_text_preview": "（1）相似点分析：当前情境与历史实例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_145",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）差异点定位：哪些局部特征（如地层结构、水文条件）存在实质性偏差；",
+    "semantic_summary": "（2）差异点定位：哪些局部特征（如地层结构、水文条件）存在实质性偏差；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）差异点定位：哪些局部特征（如地层结构、水文条件）存在实质性偏差；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（2）差异点定位：哪些局部特征（如地层结构、水文条件）存在实质性偏差；"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_146",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；",
+    "semantic_summary": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "excerpt_preview": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；"
+    },
+    "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
+    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "needs_manual_textbook_anchor",
+      "review_status": "candidate_anchor_review",
+      "recommended_action": "已生成候选 Word 段落；人工确认后可作为概念依据对应，不标记为逐字原文。",
+      "best_score": 0.782241,
+      "score_margin": 0.372277,
+      "candidate_paragraph_start": 4922,
+      "candidate_paragraph_end": 4922,
+      "candidate_reasons": [
+        "excerpt:0.86",
+        "summary:0.86",
+        "terms:参考方案,是否具备迁移价值"
+      ],
+      "matched_terms": [
+        "参考方案",
+        "是否具备迁移价值"
+      ],
+      "candidate_text_preview": "（3）参考方案：历史实例中采用的设计策略是否具备迁移价值；",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_147",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（4）适用边界：该策略在当前情境下是否仍然有效，是否需要条件修正。",
+    "semantic_summary": "（4）适用边界：该策略在当前情境下是否仍然有效，是否需要条件修正。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（4）适用边界：该策略在当前情境下是否仍然有效，是否需要条件修正。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（4）适用边界：该策略在当前情境下是否仍然有效，是否需要条件修正。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_148",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。",
+    "semantic_summary": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "needs_evidence_boundary_review",
+    "keywords": [],
+    "word_alignment": {
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "missing",
+      "classification": "needs_manual_textbook_anchor",
+      "excerpt_preview": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。"
+    },
+    "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
+    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "evidence_review": {
+      "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
+      "original_classification": "needs_manual_textbook_anchor",
+      "review_status": "candidate_anchor_review",
+      "recommended_action": "已生成候选 Word 段落；人工确认后可作为概念依据对应，不标记为逐字原文。",
+      "best_score": 0.918546,
+      "score_margin": 0.080771,
+      "candidate_paragraph_start": 4927,
+      "candidate_paragraph_end": 4927,
+      "candidate_reasons": [
+        "excerpt:0.91",
+        "summary:0.91",
+        "terms:构一致,当前设计情境首先通过语义,关系重构,统一转化为属性向量,该向量包含地质地貌类型,滑坡空间位置,破坏机制,构造背景等多个字段"
+      ],
+      "matched_terms": [
+        "构一致",
+        "当前设计情境首先通过语义",
+        "关系重构",
+        "统一转化为属性向量",
+        "该向量包含地质地貌类型",
+        "滑坡空间位置",
+        "破坏机制",
+        "构造背景等多个字段",
+        "一对应"
+      ],
+      "candidate_text_preview": "为保证与知识库中实例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与实例库的属性结构一一对应。",
+      "reviewer_decision": "",
+      "reviewer_notes": ""
+    }
+  },
+  {
+    "chunk_id": "ch10_src_149",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（2）权重计算：粗糙集驱动的属性重要度挖掘",
+    "semantic_summary": "（2）权重计算：粗糙集驱动的属性重要度挖掘",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（2）权重计算：粗糙集驱动的属性重要度挖掘",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（2）权重计算：粗糙集驱动的属性重要度挖掘"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_150",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "传统基于经验赋权的方式易受主观偏差影响。因此，可采用粗糙集（Rough Set）方法，对“条件属性”与“决策属性”（即推荐设计方案）之间的依赖关系进行建模。通过构建依赖度函数,计算各属性对方案选择的影响力，并归一化得到权重向量，作为相似度匹配的加权因子。",
+    "semantic_summary": "传统基于经验赋权的方式易受主观偏差影响。因此，可采用粗糙集（Rough Set）方法，对“条件属性”与“决策属性”（即推荐设计方案）之间的依赖关系进行建模。通过构建依赖度函数,计算各属性对方案选择的影响力，并归一化得到权重向量，作为相似度匹...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "传统基于经验赋权的方式易受主观偏差影响。因此，可采用粗糙集（Rough Set）方法，对“条件属性”与“决策属性”（即推荐设计方案）之间的依赖关系进行建模。通过构建依赖度函数,计算各属性对方案选择的影响力，并归一化得到权重向量，作为相似度匹...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "传统基于经验赋权的方式易受主观偏差影响。因此，可采用粗糙集（Rough Set）方法，对“条件属性”与“决策属性”（即推荐设计方案）之间的依赖关系进行建模。通过构建依赖度函数,计算各属性对方案选择的影响力，并归一化得到权重向量，作为相似度匹"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_151",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（3）语义相似度计算：结构与语义的深度匹配",
+    "semantic_summary": "（3）语义相似度计算：结构与语义的深度匹配",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（3）语义相似度计算：结构与语义的深度匹配",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（3）语义相似度计算：结构与语义的深度匹配"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_152",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "（4）K-近邻检索与排序：加权综合相似度计算",
+    "semantic_summary": "（4）K-近邻检索与排序：加权综合相似度计算",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "（4）K-近邻检索与排序：加权综合相似度计算",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "（4）K-近邻检索与排序：加权综合相似度计算"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_153",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "规则推理（RBR）：以产生式规则给出规范性判断",
+    "semantic_summary": "规则推理（RBR）：以产生式规则给出规范性判断",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "规则推理（RBR）：以产生式规则给出规范性判断",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "规则推理（RBR）：以产生式规则给出规范性判断"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_154",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "规则推理（Rule-Based Reasoning, RBR）是一种基于“条件-动作”结构进行逻辑演绎的方法。其核心思想是：若某些条件被满足，则自动触发与之对应的动作、建议或约束，并根据推理链条中的可信度进行结果置信度评估。规则推理示例如图 10-6所示。",
+    "semantic_summary": "规则推理（Rule-Based Reasoning, RBR）是一种基于“条件-动作”结构进行逻辑演绎的方法。其核心思想是：若某些条件被满足，则自动触发与之对应的动作、建议或约束，并根据推理链条中的可信度进行结果置信度评估。规则推理示例如图...",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "规则推理（Rule-Based Reasoning, RBR）是一种基于“条件-动作”结构进行逻辑演绎的方法。其核心思想是：若某些条件被满足，则自动触发与之对应的动作、建议或约束，并根据推理链条中的可信度进行结果置信度评估。规则推理示例如图...",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "规则推理（Rule-Based Reasoning, RBR）是一种基于“条件-动作”结构进行逻辑演绎的方法。其核心思想是：若某些条件被满足，则自动触发与之对应的动作、建议或约束，并根据推理链条中的可信度进行结果置信度评估。规则推理示例如图"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_155",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "在智能化道路设计中，规则推理主要用于识别工程设计情境中可能存在的风险、规范性冲突或优化建议，尤其适用于结构清晰、依赖稳定、逻辑清楚的知识。例如：",
+    "semantic_summary": "在智能化道路设计中，规则推理主要用于识别工程设计情境中可能存在的风险、规范性冲突或优化建议，尤其适用于结构清晰、依赖稳定、逻辑清楚的知识。例如：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "在智能化道路设计中，规则推理主要用于识别工程设计情境中可能存在的风险、规范性冲突或优化建议，尤其适用于结构清晰、依赖稳定、逻辑清楚的知识。例如：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "在智能化道路设计中，规则推理主要用于识别工程设计情境中可能存在的风险、规范性冲突或优化建议，尤其适用于结构清晰、依赖稳定、逻辑清楚的知识。例如："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_156",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "IF 滑坡类型 = 推移型 AND 路线穿越滑动面 THEN 输出预警：严禁穿越前缘 + 优化建议（CF = 0.9）",
+    "semantic_summary": "IF 滑坡类型 = 推移型 AND 路线穿越滑动面 THEN 输出预警：严禁穿越前缘 + 优化建议（CF = 0.9）",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "IF 滑坡类型 = 推移型 AND 路线穿越滑动面 THEN 输出预警：严禁穿越前缘 + 优化建议（CF = 0.9）",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "IF 滑坡类型 = 推移型 AND 路线穿越滑动面 THEN 输出预警：严禁穿越前缘 + 优化建议（CF = 0.9）"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_157",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "其中，CF（Certainty Factor）即置信度，用于表达系统对结论的可信程度。",
+    "semantic_summary": "其中，CF（Certainty Factor）即置信度，用于表达系统对结论的可信程度。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "其中，CF（Certainty Factor）即置信度，用于表达系统对结论的可信程度。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "其中，CF（Certainty Factor）即置信度，用于表达系统对结论的可信程度。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_158",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "每条规则赋有初始置信度（Prior CF），同时每条事实也可附带来源可信度。推理过程中，系统根据证据合并规则计算结论置信度。形式化表达如下：",
+    "semantic_summary": "每条规则赋有初始置信度（Prior CF），同时每条事实也可附带来源可信度。推理过程中，系统根据证据合并规则计算结论置信度。形式化表达如下：",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "每条规则赋有初始置信度（Prior CF），同时每条事实也可附带来源可信度。推理过程中，系统根据证据合并规则计算结论置信度。形式化表达如下：",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "每条规则赋有初始置信度（Prior CF），同时每条事实也可附带来源可信度。推理过程中，系统根据证据合并规则计算结论置信度。形式化表达如下："
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_159",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "由于智能设计系统大多以设计输入为出发点（如“已知地质参数”），因此采用数据驱动的正向推理更为高效，支持交互式人机设计。",
+    "semantic_summary": "由于智能设计系统大多以设计输入为出发点（如“已知地质参数”），因此采用数据驱动的正向推理更为高效，支持交互式人机设计。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "由于智能设计系统大多以设计输入为出发点（如“已知地质参数”），因此采用数据驱动的正向推理更为高效，支持交互式人机设计。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "由于智能设计系统大多以设计输入为出发点（如“已知地质参数”），因此采用数据驱动的正向推理更为高效，支持交互式人机设计。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  },
+  {
+    "chunk_id": "ch10_src_160",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02",
+    "heading_path": "第十章 > 第二节 知识驱动的道路智能设计方法",
+    "content_type": "paragraph",
+    "source_excerpt": "优先探索能尽快导出结论的路径，适用于响应速度要求较高的设计决策场景。",
+    "semantic_summary": "优先探索能尽快导出结论的路径，适用于响应速度要求较高的设计决策场景。",
+    "evidence_role": "context_evidence",
+    "use_in_rag": true,
+    "chunk_summary": "优先探索能尽快导出结论的路径，适用于响应速度要求较高的设计决策场景。",
+    "answer_use": true,
+    "usable_for_answer": "no_direct_output",
+    "review_status": "checked",
+    "keywords": [],
+    "word_alignment": {
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "support_terms": []
+    },
+    "word_correspondence": {
+      "source": "word_alignment_ch10_ch11_2026-06-04",
+      "status": "exact",
+      "classification": "direct_textbook_evidence",
+      "excerpt_preview": "优先探索能尽快导出结论的路径，适用于响应速度要求较高的设计决策场景。"
+    },
+    "evidence_boundary_note": "证据片段可在Word正文中直接规整命中。"
+  }
+]

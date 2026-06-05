@@ -1,0 +1,52 @@
+{
+  "ch02": {
+    "applied": [
+      {
+        "resource_id": "ch02_fig_2_1",
+        "file_path": "assets/ch02/images/ch02_fig_2_1.png",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第二章\\坐标系统.png"
+      },
+      {
+        "resource_id": "ch02_fig_2_2",
+        "file_path": "assets/ch02/images/ch02_fig_2_2.png",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第二章\\图2.2.png"
+      },
+      {
+        "resource_id": "ch02_fig_2_3",
+        "file_path": "assets/ch02/images/ch02_fig_2_3.png",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第二章\\构造、控制与辅助图元参考1.png"
+      },
+      {
+        "resource_id": "ch02_fig_2_5",
+        "file_path": "assets/ch02/images/ch02_fig_2_5.png",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第二章\\三维布尔运算.png"
+      }
+    ],
+    "missing": []
+  },
+  "ch03": {
+    "applied": [
+      {
+        "resource_id": "fig_3_1",
+        "file_path": "assets/ch03/images/fig_3_1.png",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第三章\\图3.1.png"
+      },
+      {
+        "resource_id": "fig_3_2",
+        "file_path": "assets/ch03/images/fig_3_2.png",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第三章\\图3.2.png"
+      },
+      {
+        "resource_id": "fig_3_18",
+        "file_path": "assets/ch03/images/fig_3_18.jpg",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第三章\\戴帽规则图.jpg"
+      },
+      {
+        "resource_id": "fig_3_19",
+        "file_path": "assets/ch03/images/fig_3_19.jpg",
+        "source": "D:\\道路工程数字设计方法\\文稿\\第三章\\超高图.jpg"
+      }
+    ],
+    "missing": []
+  }
+}

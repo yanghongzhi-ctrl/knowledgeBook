@@ -1,0 +1,66 @@
+[
+  {
+    "guardrail_id": "c_ch10_001",
+    "chapter_id": "ch10",
+    "title": "禁止直接输出教材长段落",
+    "rule": "Source_Chunks只能作为证据，不得作为主回答内容；最终回答必须基于Answer_Cards、Method_Cards或Knowledge_Points重组。",
+    "severity": "hard",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "c_ch10_002",
+    "chapter_id": "ch10",
+    "title": "答案卡优先",
+    "rule": "所有问答必须优先检索Answer_Cards；只有答案卡不足时才补充Knowledge_Points和Source_Chunks。",
+    "severity": "hard",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "c_ch10_003",
+    "chapter_id": "ch10",
+    "title": "条目化回答",
+    "rule": "凡问题包含有哪些、包括哪些、区别、流程、步骤、作用、原因等，必须按条目或表格回答。",
+    "severity": "hard",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "c_ch10_004",
+    "chapter_id": "ch10",
+    "title": "AI边界提示",
+    "rule": "涉及AI自动设计、推荐系统或优化算法时，必须提示AI为辅助和增强工具，结果需工程师审查。",
+    "severity": "hard",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "c_ch10_005",
+    "chapter_id": "ch10",
+    "title": "方法型问题使用Method_Cards",
+    "rule": "涉及GA、NSGA-II、RL、CBR、RBR、SRR、监督学习等方法流程时，应优先调用Method_Cards。",
+    "severity": "hard",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "c_ch10_006",
+    "chapter_id": "ch10",
+    "title": "应用场景调用Scenario和Case",
+    "rule": "涉及地质风险评估、智能选线、指标推荐等场景时，应联合Application_Scenarios和Case_Cards。",
+    "severity": "medium",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "c_ch10_007",
+    "chapter_id": "ch10",
+    "title": "低置信度不扩展",
+    "rule": "若仅命中Source_Chunks或证据不足，应说明教材依据不足，不允许自由编造具体算法参数。",
+    "severity": "hard",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "c_ch10_008",
+    "chapter_id": "ch10",
+    "title": "公式类谨慎处理",
+    "rule": "教材公式若在抽取中出现缺失符号，应以公式名称和含义解释为主，不强行补写未核验公式。",
+    "severity": "hard",
+    "status": "checked"
+  }
+]

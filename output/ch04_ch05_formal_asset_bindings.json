@@ -1,0 +1,188 @@
+{
+  "ch04": {
+    "applied": [
+      {
+        "resource_id": "res_ch04_002",
+        "title": "图4-1 BIM内涵与基本特征",
+        "file_path": "assets/ch04/images/res_ch04_002.png",
+        "media": [
+          "word/media/image52.png"
+        ]
+      },
+      {
+        "resource_id": "res_ch04_013",
+        "title": "图4-7 道路BIM参数类型及控制逻辑",
+        "file_path": "assets/ch04/images/res_ch04_013.png",
+        "media": [
+          "word/media/image58.jpeg"
+        ]
+      }
+    ],
+    "missing": [],
+    "corrections": [
+      {
+        "resource_id": "res_ch04_009",
+        "from": "图4-8 参数化建模的应用模式",
+        "to": "图4-8 参数化建模的应用模式"
+      }
+    ],
+    "structured_tables": [
+      {
+        "resource_id": "res_ch04_001",
+        "table_no": "4-1",
+        "rows": 7,
+        "columns": 3
+      },
+      {
+        "resource_id": "res_ch04_007",
+        "table_no": "4-2",
+        "rows": 8,
+        "columns": 3
+      }
+    ]
+  },
+  "ch05": {
+    "applied": [
+      {
+        "resource_id": "fig_5_1",
+        "title": "图5-1 GIS的组成要素",
+        "file_path": "assets/ch05/images/fig_5_1.png",
+        "media": [
+          "word/media/image60.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_4",
+        "title": "图5-4 按投影面形状的投影方式",
+        "file_path": "assets/ch05/images/fig_5_4.png",
+        "media": [
+          "word/media/image63.png",
+          "word/media/image64.png",
+          "word/media/image65.png"
+        ]
+      },
+      {
+        "resource_id": "fig_5_5",
+        "title": "图5-5 按投影面与地球相对位置的投影方式",
+        "file_path": "assets/ch05/images/fig_5_5.png",
+        "media": [
+          "word/media/image66.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_7",
+        "title": "图5-7 拓扑关系概念与原理图",
+        "file_path": "assets/ch05/images/fig_5_7.png",
+        "media": [
+          "word/media/image68.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_9",
+        "title": "图5-9 点、线、面的缓冲区",
+        "file_path": "assets/ch05/images/fig_5_9.png",
+        "media": [
+          "word/media/image70.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_11",
+        "title": "图5-11 栅格重分类",
+        "file_path": "assets/ch05/images/fig_5_11.png",
+        "media": [
+          "word/media/image72.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_14",
+        "title": "图5-14 坡度和坡向图",
+        "file_path": "assets/ch05/images/fig_5_14.png",
+        "media": [
+          "word/media/image75.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_17",
+        "title": "图5-17 视域分析原理",
+        "file_path": "assets/ch05/images/fig_5_17.png",
+        "media": [
+          "word/media/image78.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_18",
+        "title": "图5-18 公路沿线累积视域分析",
+        "file_path": "assets/ch05/images/fig_5_18.png",
+        "media": [
+          "word/media/image79.png"
+        ]
+      },
+      {
+        "resource_id": "fig_5_19",
+        "title": "图5-19 空间分布模式",
+        "file_path": "assets/ch05/images/fig_5_19.png",
+        "media": [
+          "word/media/image80.jpeg"
+        ]
+      },
+      {
+        "resource_id": "fig_5_20",
+        "title": "图5-20 灾害点的局部自相关分析",
+        "file_path": "assets/ch05/images/fig_5_20.png",
+        "media": [
+          "word/media/image81.jpeg"
+        ]
+      },
+      {
+        "resource_id": "fig_5_21",
+        "title": "图5-21 变异函数的典型参数",
+        "file_path": "assets/ch05/images/fig_5_21.png",
+        "media": [
+          "word/media/image82.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_22",
+        "title": "图5-22 趋势面拟合与残差分析",
+        "file_path": "assets/ch05/images/fig_5_22.png",
+        "media": [
+          "word/media/image83.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_23",
+        "title": "图5-23 网络数据集的核心要素",
+        "file_path": "assets/ch05/images/fig_5_23.png",
+        "media": [
+          "word/media/image84.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_24",
+        "title": "图5-24 Dijkstra算法与A*算法的原理",
+        "file_path": "assets/ch05/images/fig_5_24.png",
+        "media": [
+          "word/media/image85.tiff"
+        ]
+      },
+      {
+        "resource_id": "fig_5_25",
+        "title": "图5-25 OD成本矩阵分析流程",
+        "file_path": "assets/ch05/images/fig_5_25.png",
+        "media": [
+          "word/media/image86.jpeg"
+        ]
+      }
+    ],
+    "missing": [],
+    "corrections": [],
+    "structured_tables": [
+      {
+        "resource_id": "table_5_1",
+        "table_no": "5-1",
+        "rows": 5,
+        "columns": 3
+      }
+    ]
+  }
+}

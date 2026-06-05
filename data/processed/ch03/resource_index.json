@@ -1,0 +1,1758 @@
+[
+  {
+    "resource_id": "fig_3_1",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec01",
+    "resource_type": "image",
+    "title": "CAD系统的组成",
+    "file_path": "assets/ch03/images/fig_3_1.png",
+    "description": "说明CAD系统由硬件、软件、数据与知识资源组成。",
+    "related_kps": [],
+    "teaching_use": "说明CAD系统由硬件、软件、数据与知识资源组成。",
+    "qa_use": "回答与“CAD系统的组成”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "CAD系统的组成",
+      "CAD"
+    ],
+    "caption_or_name": "CAD系统的组成"
+  },
+  {
+    "resource_id": "fig_3_2",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec01",
+    "resource_type": "image",
+    "title": "道路CAD的模块结构",
+    "file_path": "assets/ch03/images/fig_3_2.png",
+    "description": "展示道路CAD系统典型功能模块及其关系。",
+    "related_kps": [],
+    "teaching_use": "展示道路CAD系统典型功能模块及其关系。",
+    "qa_use": "回答与“道路CAD的模块结构”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "道路CAD的模块结构",
+      "CAD"
+    ],
+    "caption_or_name": "道路CAD的模块结构"
+  },
+  {
+    "resource_id": "fig_3_5",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "交互修改功能",
+    "file_path": "chapter_03/resources/fig_3_5.png",
+    "description": "用于解释平面CAD图形交互修改。",
+    "related_kps": [],
+    "teaching_use": "用于解释平面CAD图形交互修改。",
+    "qa_use": "回答与“交互修改功能”相关问题时可推荐该图。",
+    "status": "placeholder",
+    "keywords": [
+      "交互修改功能"
+    ]
+  },
+  {
+    "resource_id": "fig_3_6",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "平面CAD系统流程图",
+    "file_path": "",
+    "description": "展示平面CAD系统流程。",
+    "related_kps": [],
+    "teaching_use": "展示平面CAD系统流程。",
+    "qa_use": "回答与“平面CAD系统流程图”相关问题时可推荐该图。",
+    "status": "placeholder",
+    "keywords": [
+      "平面CAD系统流程图",
+      "CAD"
+    ],
+    "caption_or_name": "图3-6 。中间缓和曲线的长度由两圆曲线半径及两圆曲线在连心线O1O2上的错动量的大小决定。连接半径R1，R2两圆的缓和曲线的长度ln为："
+  },
+  {
+    "resource_id": "fig_3_7",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "基本型曲线计算图式",
+    "file_path": "assets/ch03/images/fig_3_7.png",
+    "description": "用于说明基本型曲线要素计算。",
+    "related_kps": [],
+    "teaching_use": "用于说明基本型曲线要素计算。",
+    "qa_use": "回答与“基本型曲线计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "基本型曲线计算图式"
+    ],
+    "caption_or_name": "基本型曲线计算图式",
+    "binding_note": "Word 媒体图为基本型平曲线计算图式。"
+  },
+  {
+    "resource_id": "fig_3_8",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "卵形曲线计算图式",
+    "file_path": "assets/ch03/images/fig_3_8.png",
+    "description": "用于说明卵形曲线设计与计算。",
+    "related_kps": [],
+    "teaching_use": "用于说明卵形曲线设计与计算。",
+    "qa_use": "回答与“卵形曲线计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "卵形曲线计算图式"
+    ],
+    "caption_or_name": "卵形曲线计算图式",
+    "binding_note": "Word 媒体图为卵形曲线计算图式。"
+  },
+  {
+    "resource_id": "fig_3_9",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "双交点曲线计算图式",
+    "file_path": "assets/ch03/images/fig_3_9.png",
+    "description": "用于说明双交点曲线设计。",
+    "related_kps": [],
+    "teaching_use": "用于说明双交点曲线设计。",
+    "qa_use": "回答与“双交点曲线计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "双交点曲线计算图式"
+    ],
+    "caption_or_name": "双交点曲线计算图式",
+    "binding_note": "Word 媒体图为双交点曲线计算图式。"
+  },
+  {
+    "resource_id": "fig_3_10",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "直线与圆曲线连接计算图式",
+    "file_path": "assets/ch03/images/fig_3_10.png",
+    "description": "用于说明曲线法中的直圆连接。",
+    "related_kps": [],
+    "teaching_use": "用于说明曲线法中的直圆连接。",
+    "qa_use": "回答与“直线与圆曲线连接计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "直线与圆曲线连接计算图式"
+    ],
+    "caption_or_name": "直线与圆曲线连接计算图式",
+    "binding_note": "Word 媒体图为直线与圆曲线连接计算图式。"
+  },
+  {
+    "resource_id": "fig_3_11",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "两反向圆曲线连接计算图式",
+    "file_path": "assets/ch03/images/fig_3_11.png",
+    "description": "用于说明S形反向曲线连接。",
+    "related_kps": [],
+    "teaching_use": "用于说明S形反向曲线连接。",
+    "qa_use": "回答与“两反向圆曲线连接计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "两反向圆曲线连接计算图式"
+    ],
+    "binding_note": "Word 媒体图包含两反向圆曲线连接示意。",
+    "caption_or_name": "两反向圆曲线连接计算图式"
+  },
+  {
+    "resource_id": "fig_3_12",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "两同向圆曲线连接",
+    "file_path": "assets/ch03/images/fig_3_12.png",
+    "description": "用于说明同向圆曲线连接。",
+    "related_kps": [],
+    "teaching_use": "用于说明同向圆曲线连接。",
+    "qa_use": "回答与“两同向圆曲线连接”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "两同向圆曲线连接"
+    ],
+    "binding_note": "Word 原稿在两同向圆曲线连接处复用同一组圆曲线连接示意。",
+    "caption_or_name": "两同向圆曲线连接"
+  },
+  {
+    "resource_id": "fig_3_13",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "image",
+    "title": "坐标计算图式",
+    "file_path": "assets/ch03/images/fig_3_13.png",
+    "description": "用于说明逐桩坐标和边线坐标计算。",
+    "related_kps": [],
+    "teaching_use": "用于说明逐桩坐标和边线坐标计算。",
+    "qa_use": "回答与“坐标计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "坐标计算图式"
+    ],
+    "caption_or_name": "坐标计算图式",
+    "binding_note": "Word 媒体图包含 X/Y 坐标轴与逐桩主点，匹配坐标计算图式。"
+  },
+  {
+    "resource_id": "fig_3_14",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "image",
+    "title": "纵断面CAD系统设计流程",
+    "file_path": "",
+    "description": "展示纵断面CAD系统流程。",
+    "related_kps": [],
+    "teaching_use": "展示纵断面CAD系统流程。",
+    "qa_use": "回答与“纵断面CAD系统设计流程”相关问题时可推荐该图。",
+    "status": "placeholder",
+    "keywords": [
+      "纵断面CAD系统设计流程",
+      "CAD"
+    ],
+    "caption_or_name": "图3-14 ）："
+  },
+  {
+    "resource_id": "fig_3_15",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "image",
+    "title": "纵断面计算流程图",
+    "file_path": "assets/ch03/images/fig_3_15.png",
+    "description": "用于组织纵坡、竖曲线和高程计算流程。",
+    "related_kps": [],
+    "teaching_use": "用于组织纵坡、竖曲线和高程计算流程。",
+    "qa_use": "回答与“纵断面计算流程图”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "纵断面计算流程图"
+    ],
+    "caption_or_name": "纵断面计算流程图",
+    "binding_note": "Word 媒体图为纵断面计算流程图。"
+  },
+  {
+    "resource_id": "fig_3_16",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "image",
+    "title": "纵断面计算图式",
+    "file_path": "assets/ch03/images/fig_3_16.png",
+    "description": "用于说明坡度、坡度差和竖曲线要素。",
+    "related_kps": [],
+    "teaching_use": "用于说明坡度、坡度差和竖曲线要素。",
+    "qa_use": "回答与“纵断面计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "纵断面计算图式"
+    ],
+    "binding_note": "Word 媒体图为纵断面计算图式。",
+    "caption_or_name": "纵断面计算图式"
+  },
+  {
+    "resource_id": "fig_3_17",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "横断面CAD系统流程图",
+    "file_path": "assets/ch03/images/fig_3_17.png",
+    "description": "展示横断面CAD自动设计与成果输出流程。",
+    "related_kps": [],
+    "teaching_use": "展示横断面CAD自动设计与成果输出流程。",
+    "qa_use": "回答与“横断面CAD系统流程图”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "横断面CAD系统流程图",
+      "CAD"
+    ],
+    "caption_or_name": "横断面CAD系统流程图",
+    "binding_note": "Word 媒体图为横断面 CAD 系统流程图。"
+  },
+  {
+    "resource_id": "fig_3_18",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "EICAD边坡模板戴帽规则",
+    "file_path": "assets/ch03/images/fig_3_18.jpg",
+    "description": "用于说明边坡模板和戴帽规则。",
+    "related_kps": [],
+    "teaching_use": "用于说明边坡模板和戴帽规则。",
+    "qa_use": "回答与“EICAD边坡模板戴帽规则”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "EICAD边坡模板戴帽规则",
+      "EICAD"
+    ],
+    "caption_or_name": "EICAD边坡模板戴帽规则"
+  },
+  {
+    "resource_id": "fig_3_19",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "可视化超高设计",
+    "file_path": "assets/ch03/images/fig_3_19.jpg",
+    "description": "用于说明超高计算界面和结果展示。",
+    "related_kps": [],
+    "teaching_use": "用于说明超高计算界面和结果展示。",
+    "qa_use": "回答与“可视化超高设计”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "可视化超高设计"
+    ],
+    "caption_or_name": "可视化超高设计"
+  },
+  {
+    "resource_id": "fig_3_20",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "无中间带超高值计算图式",
+    "file_path": "assets/ch03/images/fig_3_20.png",
+    "description": "用于说明无中间带道路超高计算。",
+    "related_kps": [],
+    "teaching_use": "用于说明无中间带道路超高计算。",
+    "qa_use": "回答与“无中间带超高值计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "无中间带超高值计算图式"
+    ],
+    "binding_note": "Word 媒体图为无中间带超高值计算图式。",
+    "caption_or_name": "无中间带超高值计算图式"
+  },
+  {
+    "resource_id": "fig_3_21",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "有中间带超高值计算图式",
+    "file_path": "assets/ch03/images/fig_3_21.png",
+    "description": "用于说明有中间带道路超高计算。",
+    "related_kps": [],
+    "teaching_use": "用于说明有中间带道路超高计算。",
+    "qa_use": "回答与“有中间带超高值计算图式”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "有中间带超高值计算图式"
+    ],
+    "caption_or_name": "有中间带超高值计算图式",
+    "binding_note": "Word 媒体图为有中间带超高值计算图式。"
+  },
+  {
+    "resource_id": "fig_3_22",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "基本边坡线单元",
+    "file_path": "assets/ch03/images/fig_3_22.png",
+    "description": "用于说明边坡设计模型。",
+    "related_kps": [],
+    "teaching_use": "用于说明边坡设计模型。",
+    "qa_use": "回答与“基本边坡线单元”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "基本边坡线单元"
+    ],
+    "binding_note": "Word 媒体图为基本边坡线单元。",
+    "caption_or_name": "基本边坡线单元"
+  },
+  {
+    "resource_id": "fig_3_23",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "横断面面积计算（积距法）",
+    "file_path": "assets/ch03/images/fig_3_23.png",
+    "description": "用于说明积距法面积计算。",
+    "related_kps": [],
+    "teaching_use": "用于说明积距法面积计算。",
+    "qa_use": "回答与“横断面面积计算（积距法）”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "横断面面积计算",
+      "积距法"
+    ],
+    "caption_or_name": "横断面面积计算（积距法）",
+    "binding_note": "Word 媒体图为横断面面积计算积距法。"
+  },
+  {
+    "resource_id": "fig_3_24",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "横断面面积计算（坐标法）",
+    "file_path": "assets/ch03/images/fig_3_24.png",
+    "description": "用于说明坐标法面积计算。",
+    "related_kps": [],
+    "teaching_use": "用于说明坐标法面积计算。",
+    "qa_use": "回答与“横断面面积计算（坐标法）”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "横断面面积计算",
+      "坐标法"
+    ],
+    "caption_or_name": "横断面面积计算（坐标法）",
+    "binding_note": "Word 媒体图为横断面面积计算坐标法。"
+  },
+  {
+    "resource_id": "fig_3_25",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "image",
+    "title": "体积计算",
+    "file_path": "assets/ch03/images/fig_3_25.png",
+    "description": "用于说明平均断面法和棱台近似。",
+    "related_kps": [],
+    "teaching_use": "用于说明平均断面法和棱台近似。",
+    "qa_use": "回答与“体积计算”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "体积计算"
+    ],
+    "binding_note": "Word 媒体图为平均断面法体积计算。",
+    "caption_or_name": "体积计算"
+  },
+  {
+    "resource_id": "fig_3_27",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec05",
+    "resource_type": "image",
+    "title": "平面交叉口CAD系统结构",
+    "file_path": "assets/ch03/images/fig_3_27.png",
+    "description": "展示交叉口CAD系统结构。",
+    "related_kps": [],
+    "teaching_use": "展示交叉口CAD系统结构。",
+    "qa_use": "回答与“平面交叉口CAD系统结构”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "平面交叉口CAD系统结构",
+      "CAD"
+    ],
+    "binding_note": "Word 媒体图为平面交叉口 CAD 系统结构。",
+    "caption_or_name": "平面交叉口CAD系统结构"
+  },
+  {
+    "resource_id": "fig_3_28",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec05",
+    "resource_type": "image",
+    "title": "交叉口Coons曲面片划分图",
+    "file_path": "assets/ch03/images/fig_3_28.png",
+    "description": "用于说明十字形、T形交叉口曲面片划分。",
+    "related_kps": [],
+    "teaching_use": "用于说明十字形、T形交叉口曲面片划分。",
+    "qa_use": "回答与“交叉口Coons曲面片划分图”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "交叉口Coons曲面片划分图",
+      "Coons"
+    ],
+    "binding_note": "Word 媒体图为交叉口 Coons 曲面片划分图。",
+    "caption_or_name": "交叉口Coons曲面片划分图"
+  },
+  {
+    "resource_id": "fig_3_29",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec05",
+    "resource_type": "image",
+    "title": "人机交互交叉口立面设计流程图",
+    "file_path": "assets/ch03/images/fig_3_29.png",
+    "description": "展示基于Coons曲面的交叉口立面设计流程。",
+    "related_kps": [],
+    "teaching_use": "展示基于Coons曲面的交叉口立面设计流程。",
+    "qa_use": "回答与“人机交互交叉口立面设计流程图”相关问题时可推荐该图。",
+    "status": "bound",
+    "keywords": [
+      "人机交互交叉口立面设计流程图"
+    ],
+    "binding_note": "Word 媒体图为人机交互交叉口立面设计流程图。",
+    "caption_or_name": "人机交互交叉口立面设计流程图"
+  },
+  {
+    "resource_id": "formula_3_1",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-1）",
+    "file_path": "",
+    "description": "第三章公式（3-1），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "1",
+      "公式（3-1）",
+      "3-1"
+    ],
+    "formula_detail": {
+      "label": "公式（3-1）",
+      "label_key": "3-1",
+      "expression": "&切线长 T1=(R+P1)tga2+q1-P1-P2sinα& T2=(R+P2)tga2+q2-P1-P2sinα&曲线长 ​​L=(α-β1-β2)Rπ180∘+Ls1+Ls2&=απR180∘+Ls1+Ls22",
+      "context_before": "基本型曲线设计与计算",
+      "context_after": "基本型曲线计算图式",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 151,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_2",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-2）",
+    "file_path": "",
+    "description": "第三章公式（3-2），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "2",
+      "公式（3-2）",
+      "3-2"
+    ],
+    "formula_detail": {
+      "label": "公式（3-2）",
+      "label_key": "3-2",
+      "expression": "由于两边切线不等长，故曲线中点可取圆曲线的中点或全曲线的中点。已知交点桩号（JD）,可得曲线各主点即直缓点（ZH）、缓圆点（HY）、曲中点（QZ）、圆缓点（YH）、缓直点（HZ）的桩号：",
+      "context_before": "基本型曲线设计与计算",
+      "context_after": "基本型曲线计算图式",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 152,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_3",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-3）",
+    "file_path": "",
+    "description": "第三章公式（3-3），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "公式（3-3）",
+      "3-3"
+    ],
+    "formula_detail": {
+      "label": "公式（3-3）",
+      "label_key": "3-3",
+      "expression": "ZH=JD-T1HY=ZH+Ls1QZ=ZH+L2+Ls14-Ls24YH=HZ-Ls2HZ=ZH+L",
+      "context_before": "基本型曲线计算图式",
+      "context_after": "（1）曲线起终点约束（切线长控制）",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 155,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_4",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-4）",
+    "file_path": "",
+    "description": "第三章公式（3-4），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "4",
+      "公式（3-4）",
+      "3-4"
+    ],
+    "formula_detail": {
+      "label": "公式（3-4）",
+      "label_key": "3-4",
+      "expression": "R=-B+B2-4AC2A",
+      "context_before": "选定T值，由切线长反算半径，当精度要求不高时，",
+      "context_after": "精度要求较高时，通过下式迭代而得：",
+      "variables": [
+        "其中：A=tgα2，B=Ls2-T，C=tgα2⋅Ls224"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 160,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_5",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-5）",
+    "file_path": "",
+    "description": "第三章公式（3-5），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "5",
+      "公式（3-5）",
+      "3-5"
+    ],
+    "formula_detail": {
+      "label": "公式（3-5）",
+      "label_key": "3-5",
+      "expression": "R=T-Ls2+Ls3240R02tgα2-Ls224R0",
+      "context_before": "精度要求较高时，通过下式迭代而得：",
+      "context_after": "（2）曲线中点位置约束（外距）",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 163,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_6",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-6）",
+    "file_path": "",
+    "description": "第三章公式（3-6），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "6",
+      "公式（3-6）",
+      "3-6"
+    ],
+    "formula_detail": {
+      "label": "公式（3-6）",
+      "label_key": "3-6",
+      "expression": "R=-B+B2-4AC2A",
+      "context_before": "（2）曲线中点位置约束（外距）",
+      "context_after": "计算",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 165,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_7",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-7）",
+    "file_path": "",
+    "description": "第三章公式（3-7），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "7",
+      "公式（3-7）",
+      "3-7"
+    ],
+    "formula_detail": {
+      "label": "公式（3-7）",
+      "label_key": "3-7",
+      "expression": "ln=24Rnpn",
+      "context_before": "卵形曲线设计与计算",
+      "context_after": "（1）曲线要素的计算：",
+      "variables": [
+        "其中：Rn—两圆曲线的曲率差对应的曲率半径值，Rn=R1R2R1-R2；",
+        "pn—两圆曲线之间的间距，即小圆半径对应于大圆半径内移值，pn＝p1－p2;"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 170,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_8",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-8）",
+    "file_path": "",
+    "description": "第三章公式（3-8），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "8",
+      "公式（3-8）",
+      "3-8"
+    ],
+    "formula_detail": {
+      "label": "公式（3-8）",
+      "label_key": "3-8",
+      "expression": "&Pn=ln224Rn&t1=R1tanα12-p1tgα1+q1&t2=R1tgα12+p1sinα1&t3=R2tgα22-pntgα2+p2sinα2&t4=R2tgα22+pnsinα2-p2tgα2+q2&T1=t1+t2+t3sinαsinα2&T2=t4+t2+t3sinαsinα1&L1=π180R1•α1+l12+ln2&L2=π180R2•α2+l22+ln2",
+      "context_before": "卵形曲线计算图式",
+      "context_after": "（2）主点桩号为：",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 175,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_9",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-9）",
+    "file_path": "",
+    "description": "第三章公式（3-9），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "9",
+      "公式（3-9）",
+      "3-9"
+    ],
+    "formula_detail": {
+      "label": "公式（3-9）",
+      "label_key": "3-9",
+      "expression": "&ZH=JDA-t1&HY1=ZH+l1&QZ1=ZH+L12+l14&YH1=ZH+L1-ln2&HY2=YH1+ln&QZ2=ZH+L1+L22-l24&HZ=ZH+L1+L2+ln&YH2=HZ-l2",
+      "context_before": "（2）主点桩号为：",
+      "context_after": "卵形曲线的设计，一般情况下是根据地形、地物及技术标准、规范等控制条件先选定缓和曲线长度及一个圆曲线半径，采用迭代法解算另一个圆曲线半径。解算完成后，还应该检查设计指标是否满足规范对卵形曲线的各项规定，如不满足，则需要反复调整和迭代。",
+      "variables": [
+        "在设计时，在已知JDA和JDB的距离AB、偏角α1和α2的情况下，由设计者试定缓和曲线长度Ls1和Ls2，求解圆曲线半径R。求解时，双交点曲线可以看作两个非对称基本型曲线在GQ点处直接相连，其中前曲线的后缓和曲线长度为0，后曲线的前缓和曲线长度为0，则有："
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 177,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_10",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-10）",
+    "file_path": "",
+    "description": "第三章公式（3-10），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "10",
+      "公式（3-10）",
+      "3-10"
+    ],
+    "formula_detail": {
+      "label": "公式（3-10）",
+      "label_key": "3-10",
+      "expression": "T1+T2=ABT1=Rtga12-P1sinα1T2=Rtga22+P2sinα2P1=Ls124RP2=Ls224R",
+      "context_before": "双交点曲线计算图式",
+      "context_after": "式（3-10）中，只有R一个未知数，求解一元二次方程即得到圆曲线半径R之后，其他曲线要素及主点桩号的计算可以参考基本型曲线的计算公式。",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 183,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_11",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-11）",
+    "file_path": "",
+    "description": "第三章公式（3-11），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "11",
+      "公式（3-11）",
+      "3-11"
+    ],
+    "formula_detail": {
+      "label": "公式（3-11）",
+      "label_key": "3-11",
+      "expression": "XM=XC1+RcosαmYM=YC1+Rsinαm",
+      "context_before": "圆心坐标为:",
+      "context_after": "（2）直线与圆曲线间距D",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 196,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_12",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-12）",
+    "file_path": "",
+    "description": "第三章公式（3-12），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "12",
+      "公式（3-12）",
+      "3-12"
+    ],
+    "formula_detail": {
+      "label": "公式（3-12）",
+      "label_key": "3-12",
+      "expression": "D=k(XM-XD1)-(YM-YD1)1+k2-R",
+      "context_before": "（2）直线与圆曲线间距D",
+      "context_after": "由回旋线的几何关系得:",
+      "variables": [
+        "式中: k=YD2-YD1XD2-XD1"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 198,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_13",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-13）",
+    "file_path": "",
+    "description": "第三章公式（3-13），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "13",
+      "公式（3-13）",
+      "3-13"
+    ],
+    "formula_detail": {
+      "label": "公式（3-13）",
+      "label_key": "3-13",
+      "expression": "p=y+Rcosτ-R",
+      "context_before": "由回旋线的几何关系得:",
+      "context_after": "两反向圆曲线连接",
+      "variables": [
+        "式中:y=Ls26R1-Ls256R2+Ls47040R4-…；τ=Ls2R。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 202,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_14",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-14）",
+    "file_path": "",
+    "description": "第三章公式（3-14），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "14",
+      "公式（3-14）",
+      "3-14"
+    ],
+    "formula_detail": {
+      "label": "公式（3-14）",
+      "label_key": "3-14",
+      "expression": "M1M2=R1+R2+D=(XM2-XM1)2+(YM2-YM1)2",
+      "context_before": "（1）计算两圆间距D",
+      "context_after": "则:",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 209,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_15",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-15）",
+    "file_path": "",
+    "description": "第三章公式（3-15），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "15",
+      "公式（3-15）",
+      "3-15"
+    ],
+    "formula_detail": {
+      "label": "公式（3-15）",
+      "label_key": "3-15",
+      "expression": "M1M2=(R1+R2+p1+p2)2+(q1+q2)2",
+      "context_before": "（2）计算回旋线参数A",
+      "context_after": "",
+      "variables": [
+        "式中:pi=yi+Ricosτi-Ri (i=1,2)；",
+        "qi=xi-Risinτi(i=1,2)；",
+        "xi=2Riτi1-τi210+τi4216-τi69 360+…(i=1,2)；",
+        "yi=23Riτi21-τi214+τi4440-τi625 200+…(i=1,2)；",
+        "τ2=1k2R1R22τ1；"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 214,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_16",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-16）",
+    "file_path": "",
+    "description": "第三章公式（3-16），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "16",
+      "公式（3-16）",
+      "3-16"
+    ],
+    "formula_detail": {
+      "label": "公式（3-16）",
+      "label_key": "3-16",
+      "expression": "A1=R12τ1A2=R22τ2",
+      "context_before": "",
+      "context_after": "计算参数",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 220,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_17",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-17）",
+    "file_path": "",
+    "description": "第三章公式（3-17），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "17",
+      "公式（3-17）",
+      "3-17"
+    ],
+    "formula_detail": {
+      "label": "公式（3-17）",
+      "label_key": "3-17",
+      "expression": "τ2=R1R22τ1A=R12τ1",
+      "context_before": "",
+      "context_after": "计算τ2和A",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 227,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_18",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-18）",
+    "file_path": "",
+    "description": "第三章公式（3-18），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "18",
+      "公式（3-18）",
+      "3-18"
+    ],
+    "formula_detail": {
+      "label": "公式（3-18）",
+      "label_key": "3-18",
+      "expression": "&Xi=XHZi-1+DicosAi-1,i&Yi=YHZi-1+DisinAi-1,i",
+      "context_before": "此段为直线，桩点的坐标按下式计算：",
+      "context_after": "",
+      "variables": [
+        "式中Ai-1,i为路线导线JDi-1至JDi的坐标方位角；Di为桩点至HZi-1点的距离，即桩点里程与HZi-1点里程之差；XHZi-1、YHZi-1为HZi-1点的坐标，由下式计算："
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 235,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_19",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-19）",
+    "file_path": "",
+    "description": "第三章公式（3-19），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "19",
+      "公式（3-19）",
+      "3-19"
+    ],
+    "formula_detail": {
+      "label": "公式（3-19）",
+      "label_key": "3-19",
+      "expression": "&XHZi-1=XJDi-1+THi-1cosAi-1,i&YHZi-1=YJDi-1+THi-1sinAi-1,i",
+      "context_before": "此段为直线，桩点的坐标按下式计算：",
+      "context_after": "此段包括第一缓和曲线及圆曲线，坐标计算公式为：",
+      "variables": [
+        "式中XJDi-1、YJDi-1为交点JDi-1的坐标；THi-1为切线长。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 237,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_20",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-20）",
+    "file_path": "",
+    "description": "第三章公式（3-20），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "20",
+      "公式（3-20）",
+      "3-20"
+    ],
+    "formula_detail": {
+      "label": "公式（3-20）",
+      "label_key": "3-20",
+      "expression": "XiYi=XZHiYZHi+cosAi-1,i-sinAi-1,isinAi-1,i-cosAi-1,ixiyi",
+      "context_before": "此段包括第一缓和曲线及圆曲线，坐标计算公式为：",
+      "context_after": "式中：",
+      "variables": [
+        "式中：",
+        "&xi=l-l540Ri2lsi2&yi=l36Rlsi-l7336Ri3lsi3（中桩在缓和曲线内）",
+        "&xi=Risinϕi+qi&yi=Ri(1-cosϕi)+pi&ϕi=l-lsRi⋅180π+β0（中桩在圆曲线内）",
+        "l为计算点至ZH点的距离。当曲线为左转角，应以yi=－yi代入。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 241,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_21",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-21）",
+    "file_path": "",
+    "description": "第三章公式（3-21），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "21",
+      "公式（3-21）",
+      "3-21"
+    ],
+    "formula_detail": {
+      "label": "公式（3-21）",
+      "label_key": "3-21",
+      "expression": "XiYi=XZHiYZHi-cosAi,i+1-sinAi,i+1sinAi,i+1-cosAi,i+1xiyi",
+      "context_before": "此段为第二缓和曲线，坐标计算公式为：",
+      "context_after": "（4）边线坐标计算",
+      "variables": [
+        "式中xi,yi仍可按前述公式计算。当曲线为右转角时，以yi=－yi代入。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 248,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_22",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "formula",
+    "title": "公式（3-22）",
+    "file_path": "",
+    "description": "第三章公式（3-22），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "22",
+      "公式（3-22）",
+      "3-22"
+    ],
+    "formula_detail": {
+      "label": "公式（3-22）",
+      "label_key": "3-22",
+      "expression": "XSi=Xi+DI×cosπ2±FWJiYSi=Yi+DI×sin(π2±FWJi)",
+      "context_before": "边线坐标（或界桩）坐标按下式计算：",
+      "context_after": "第三节 路线纵断面CAD系统",
+      "variables": [
+        "式中：DI为边桩（界桩）至中线的距离。FWJi为中桩的切线方位角。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 252,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_23",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "formula",
+    "title": "公式（3-23）",
+    "file_path": "",
+    "description": "第三章公式（3-23），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "23",
+      "公式（3-23）",
+      "3-23"
+    ],
+    "formula_detail": {
+      "label": "公式（3-23）",
+      "label_key": "3-23",
+      "expression": "ij=Hj+1-HjJPj+1-JPj",
+      "context_before": "纵断面计算图式",
+      "context_after": "其中，ij的正负表示该段纵坡的上下坡情况，上坡为“正”，下坡为“负”。",
+      "variables": [
+        "其中，ij的正负表示该段纵坡的上下坡情况，上坡为“正”，下坡为“负”。",
+        "变坡点JPj处坡度差ωj为："
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 295,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_24",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "formula",
+    "title": "公式（3-24）",
+    "file_path": "",
+    "description": "第三章公式（3-24），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "24",
+      "公式（3-24）",
+      "3-24"
+    ],
+    "formula_detail": {
+      "label": "公式（3-24）",
+      "label_key": "3-24",
+      "expression": "&Lj=Rjωj&Tj=Lj/2&Ej=(Tj/4)ωj&h=l22Rj",
+      "context_before": "2.竖曲线要素计算",
+      "context_after": "3.设计高及填挖高计算",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 302,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_25",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "formula",
+    "title": "公式（3-25）",
+    "file_path": "",
+    "description": "第三章公式（3-25），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "25",
+      "公式（3-25）",
+      "3-25"
+    ],
+    "formula_detail": {
+      "label": "公式（3-25）",
+      "label_key": "3-25",
+      "expression": "shk=Hj-1+(sk-JPj-1)ij-1",
+      "context_before": "在直坡段上：",
+      "context_after": "在竖曲线段内：",
+      "variables": [
+        "其中：shk为k桩号的设计标高；sk为k桩号处的里程桩号，其余变量含义同上。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 306,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_26",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "formula",
+    "title": "公式（3-26）",
+    "file_path": "",
+    "description": "第三章公式（3-26），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "26",
+      "公式（3-26）",
+      "3-26"
+    ],
+    "formula_detail": {
+      "label": "公式（3-26）",
+      "label_key": "3-26",
+      "expression": "shk=Hj-1+(sk-JPj-1)ij-1±h",
+      "context_before": "在竖曲线段内：",
+      "context_after": "填挖高等于相应设计线上的设计高减去地面高。",
+      "variables": [
+        "其中：h为桩号sk处的竖曲线改正值，当竖曲线为凸曲线时，h前符号取负值“－”，当竖曲线为凹曲线时，h前符号取正值“＋”。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 309,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_27",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "formula",
+    "title": "公式（3-27）",
+    "file_path": "",
+    "description": "第三章公式（3-27），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "27",
+      "公式（3-27）",
+      "3-27"
+    ],
+    "formula_detail": {
+      "label": "公式（3-27）",
+      "label_key": "3-27",
+      "expression": "LC=B'∆ip",
+      "context_before": "超高过渡段的长度",
+      "context_after": "计算",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 361,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_28",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "formula",
+    "title": "公式（3-28）",
+    "file_path": "",
+    "description": "第三章公式（3-28），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "28",
+      "公式（3-28）",
+      "3-28"
+    ],
+    "formula_detail": {
+      "label": "公式（3-28）",
+      "label_key": "3-28",
+      "expression": "wz=wo+w=wo+h∙ihz=ho+h=ho+w/i",
+      "context_before": "基本边坡线单元",
+      "context_after": "由式（3-28）可见，边坡终点的确定方式是随着控制定参数及可变参数的不同组合而不同，这也是不同边坡的设计需要决定的。",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 428,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_29",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "formula",
+    "title": "公式（3-29）",
+    "file_path": "",
+    "description": "第三章公式（3-29），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "29",
+      "公式（3-29）",
+      "3-29"
+    ],
+    "formula_detail": {
+      "label": "公式（3-29）",
+      "label_key": "3-29",
+      "expression": "Fi=bhi",
+      "context_before": "1.积距法",
+      "context_after": "则横断面面积：",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 473,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_30",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "formula",
+    "title": "公式（3-30）",
+    "file_path": "",
+    "description": "第三章公式（3-30），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "30",
+      "公式（3-30）",
+      "3-30"
+    ],
+    "formula_detail": {
+      "label": "公式（3-30）",
+      "label_key": "3-30",
+      "expression": "F=bh1+bh2+…+bhn=b∑i=1nhi",
+      "context_before": "则横断面面积：",
+      "context_after": "积距法适合手工计算面积，方法简单。若地面线较顺直，可增大b值；若要提高精度，可减小b值。b值视地面线规则程度而定。目前采用计算机辅助设计时，一般不采用。",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 476,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_31",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "formula",
+    "title": "公式（3-31）",
+    "file_path": "",
+    "description": "第三章公式（3-31），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "31",
+      "公式（3-31）",
+      "3-31"
+    ],
+    "formula_detail": {
+      "label": "公式（3-31）",
+      "label_key": "3-31",
+      "expression": "F=12∑i=1n(xiyi+1-xi+1yi)",
+      "context_before": "2.坐标法",
+      "context_after": "坐标法精度较高，计算量较大，适于计算机辅助设计计算。",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 482,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_32",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "formula",
+    "title": "公式（3-32）",
+    "file_path": "",
+    "description": "第三章公式（3-32），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "32",
+      "公式（3-32）",
+      "3-32"
+    ],
+    "formula_detail": {
+      "label": "公式（3-32）",
+      "label_key": "3-32",
+      "expression": "V=12(F1+F2)L",
+      "context_before": "土石方数量计算",
+      "context_after": "式中：V——体积，即相邻横断面之间的土石方数量(m3)；",
+      "variables": [
+        "式中：V——体积，即相邻横断面之间的土石方数量(m3)；",
+        "F1、F2——分别为相邻两断面的面积(m2)；",
+        "L——相邻断面之间的距离(m)。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 490,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_33",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "formula",
+    "title": "公式（3-33）",
+    "file_path": "",
+    "description": "第三章公式（3-33），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "33",
+      "公式（3-33）",
+      "3-33"
+    ],
+    "formula_detail": {
+      "label": "公式（3-33）",
+      "label_key": "3-33",
+      "expression": "V=13(F1+F2)L1+m1+m",
+      "context_before": "此法计算简易，较为常用，一般称之为“平均断面法”。",
+      "context_after": "采用式（3-33）的方法计算精度较高，特别是用计算机计算时，应尽量采用此方法。",
+      "variables": [
+        "式中：，m=F1F2，其中F2>F1。"
+      ],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 498,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_34",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec05",
+    "resource_type": "formula",
+    "title": "公式（3-34）",
+    "file_path": "",
+    "description": "第三章公式（3-34），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "34",
+      "公式（3-34）",
+      "3-34"
+    ],
+    "formula_detail": {
+      "label": "公式（3-34）",
+      "label_key": "3-34",
+      "expression": "Ez=z0±l1×2%",
+      "context_before": "",
+      "context_after": "计算",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 554,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "formula_3_35",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec05",
+    "resource_type": "formula",
+    "title": "公式（3-35）",
+    "file_path": "",
+    "description": "第三章公式（3-35），用于对应章节中的几何、纵断面、超高、土石方或交叉口计算。",
+    "related_kps": [],
+    "teaching_use": "用于计算类知识点解释和例题设计。",
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。",
+    "status": "structured",
+    "keywords": [
+      "公式",
+      "3",
+      "35",
+      "公式（3-35）",
+      "3-35"
+    ],
+    "formula_detail": {
+      "label": "公式（3-35）",
+      "label_key": "3-35",
+      "expression": "Ez=z0±l1×0.3%",
+      "context_before": "",
+      "context_after": "计算",
+      "variables": [],
+      "related_answer_cards": [],
+      "source": "output\\ch03_rag_engine\\reports\\ch03_word_extract.txt",
+      "source_line": 557,
+      "extraction_status": "extracted"
+    }
+  },
+  {
+    "resource_id": "ch03_script_3_1",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec01",
+    "resource_type": "interactive_html",
+    "title": "道路 CAD 系统如何支撑道路设计",
+    "description": "用于辅助理解道路 CAD 系统如何支撑道路设计相关知识点。",
+    "related_kps": [
+      "kp_ch03_001",
+      "kp_ch03_002",
+      "kp_ch03_003",
+      "kp_ch03_004",
+      "kp_ch03_005",
+      "kp_ch03_006",
+      "kp_ch03_007",
+      "kp_ch03_008"
+    ],
+    "keywords": [
+      "道路",
+      "CAD",
+      "系统如何支撑道路设计"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch03/interactive_html/3.1道路 CAD 系统如何支撑道路设计.html",
+    "trigger_questions": [
+      "道路 CAD 系统如何支撑道路设计怎么看？",
+      "道路 CAD 系统如何支撑道路设计怎么操作？",
+      "我想看道路 CAD 系统如何支撑道路设计。"
+    ]
+  },
+  {
+    "resource_id": "ch03_script_3_2",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec02",
+    "resource_type": "interactive_html",
+    "title": "路线平面CAD设计",
+    "description": "用于辅助理解路线平面CAD设计相关知识点。",
+    "related_kps": [
+      "kp_ch03_038",
+      "kp_ch03_039",
+      "kp_ch03_040",
+      "kp_ch03_041",
+      "kp_ch03_042",
+      "kp_ch03_043",
+      "kp_ch03_044",
+      "kp_ch03_045"
+    ],
+    "keywords": [
+      "路线平面CAD设计",
+      "CAD"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch03/interactive_html/3.2路线平面CAD设计.html",
+    "trigger_questions": [
+      "路线平面CAD设计怎么看？",
+      "路线平面CAD设计怎么操作？",
+      "我想看路线平面CAD设计。"
+    ]
+  },
+  {
+    "resource_id": "ch03_script_3_3",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec03",
+    "resource_type": "interactive_html",
+    "title": "路线纵断面设计",
+    "description": "用于辅助理解路线纵断面设计相关知识点。",
+    "related_kps": [
+      "kp_ch03_062",
+      "kp_ch03_063",
+      "kp_ch03_064",
+      "kp_ch03_065",
+      "kp_ch03_066",
+      "kp_ch03_067",
+      "kp_ch03_068",
+      "kp_ch03_069"
+    ],
+    "keywords": [
+      "路线纵断面设计"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch03/interactive_html/3.3路线纵断面设计.html",
+    "trigger_questions": [
+      "路线纵断面设计怎么看？",
+      "路线纵断面设计怎么操作？",
+      "我想看路线纵断面设计。"
+    ]
+  },
+  {
+    "resource_id": "ch03_script_3_4",
+    "chapter_id": "ch03",
+    "section_id": "ch03_sec04",
+    "resource_type": "interactive_html",
+    "title": "横断面CAD系统",
+    "description": "用于辅助理解横断面CAD系统相关知识点。",
+    "related_kps": [
+      "kp_ch03_079",
+      "kp_ch03_080",
+      "kp_ch03_081",
+      "kp_ch03_082",
+      "kp_ch03_083",
+      "kp_ch03_084",
+      "kp_ch03_085",
+      "kp_ch03_086"
+    ],
+    "keywords": [
+      "横断面CAD系统",
+      "CAD"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch03/interactive_html/3.4横断面CAD系统.html",
+    "trigger_questions": [
+      "横断面CAD系统怎么看？",
+      "横断面CAD系统怎么操作？",
+      "我想看横断面CAD系统。"
+    ]
+  }
+]

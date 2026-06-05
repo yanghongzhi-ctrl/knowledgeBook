@@ -1,0 +1,192 @@
+[
+  {
+    "comparison_id": "ch07_comp_001",
+    "chapter_id": "ch07",
+    "object_a": "纬地",
+    "object_b": "EICAD",
+    "dimension": "项目管理",
+    "a_explanation": "项目管理器维护文件路径、属性、图框与表格模板",
+    "b_explanation": "项目数据管理工具可新建、导入、打开和编辑项目",
+    "teaching_conclusion": "比较纬地与EICAD时，应从项目管理角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问纬地和EICAD区别时调用。",
+    "title": "纬地 vs EICAD",
+    "dimensions": [
+      "项目管理"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_002",
+    "chapter_id": "ch07",
+    "object_a": "纬地数模",
+    "object_b": "EICAD数模",
+    "dimension": "数据提取",
+    "a_explanation": "读取DWG/DXF中图层化的等高线和高程点",
+    "b_explanation": "可点选等高线和地形点，也可导入CAD图形",
+    "teaching_conclusion": "比较纬地数模与EICAD数模时，应从数据提取角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问纬地数模和EICAD数模区别时调用。",
+    "title": "纬地数模 vs EICAD数模",
+    "dimensions": [
+      "数据提取"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_003",
+    "chapter_id": "ch07",
+    "object_a": "交点法",
+    "object_b": "积木法",
+    "dimension": "设计逻辑",
+    "a_explanation": "先布设交点和直线，再设置曲线连接",
+    "b_explanation": "将路线看成直线、圆曲线、缓和曲线等线元组合",
+    "teaching_conclusion": "比较交点法与积木法时，应从设计逻辑角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问交点法和积木法区别时调用。",
+    "title": "交点法 vs 积木法",
+    "dimensions": [
+      "设计逻辑"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_004",
+    "chapter_id": "ch07",
+    "object_a": "基本模式法",
+    "object_b": "扩展模式法",
+    "dimension": "适用范围",
+    "a_explanation": "适用于典型直圆和圆圆连接模式",
+    "b_explanation": "适用于更复杂的匝道与线元组合",
+    "teaching_conclusion": "比较基本模式法与扩展模式法时，应从适用范围角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问基本模式法和扩展模式法区别时调用。",
+    "title": "基本模式法 vs 扩展模式法",
+    "dimensions": [
+      "适用范围"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_005",
+    "chapter_id": "ch07",
+    "object_a": "自动拉坡",
+    "object_b": "手工拉坡",
+    "dimension": "控制方式",
+    "a_explanation": "根据设定条件自动生成纵断面设计线",
+    "b_explanation": "通过变坡点和夹点交互调整设计线",
+    "teaching_conclusion": "比较自动拉坡与手工拉坡时，应从控制方式角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问自动拉坡和手工拉坡区别时调用。",
+    "title": "自动拉坡 vs 手工拉坡",
+    "dimensions": [
+      "控制方式"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_006",
+    "chapter_id": "ch07",
+    "object_a": "纵断面地面线",
+    "object_b": "横断面地面线",
+    "dimension": "数据方向",
+    "a_explanation": "沿路线方向表达桩号-高程关系",
+    "b_explanation": "沿路线横向表达偏距-高程关系",
+    "teaching_conclusion": "比较纵断面地面线与横断面地面线时，应从数据方向角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问纵断面地面线和横断面地面线区别时调用。",
+    "title": "纵断面地面线 vs 横断面地面线",
+    "dimensions": [
+      "数据方向"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_007",
+    "chapter_id": "ch07",
+    "object_a": "标准横断面模板",
+    "object_b": "横断面戴帽",
+    "dimension": "关系",
+    "a_explanation": "模板定义路幅、边坡、边沟等标准构造",
+    "b_explanation": "戴帽将模板套合到地面线上形成逐桩成果",
+    "teaching_conclusion": "比较标准横断面模板与横断面戴帽时，应从关系角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问标准横断面模板和横断面戴帽区别时调用。",
+    "title": "标准横断面模板 vs 横断面戴帽",
+    "dimensions": [
+      "关系"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_008",
+    "chapter_id": "ch07",
+    "object_a": "超高加宽计算",
+    "object_b": "横断面绘图",
+    "dimension": "先后关系",
+    "a_explanation": "先形成曲线路段横坡和宽度变化数据",
+    "b_explanation": "再依据数据绘制逐桩横断面",
+    "teaching_conclusion": "比较超高加宽计算与横断面绘图时，应从先后关系角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问超高加宽计算和横断面绘图区别时调用。",
+    "title": "超高加宽计算 vs 横断面绘图",
+    "dimensions": [
+      "先后关系"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_009",
+    "chapter_id": "ch07",
+    "object_a": "土石方计算",
+    "object_b": "土石方调配",
+    "dimension": "功能差异",
+    "a_explanation": "计算填挖数量和面积",
+    "b_explanation": "考虑利用、运输和取弃土形成调运方案",
+    "teaching_conclusion": "比较土石方计算与土石方调配时，应从功能差异角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问土石方计算和土石方调配区别时调用。",
+    "title": "土石方计算 vs 土石方调配",
+    "dimensions": [
+      "功能差异"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch07_comp_010",
+    "chapter_id": "ch07",
+    "object_a": "图框模板",
+    "object_b": "表格模板",
+    "dimension": "成果控制",
+    "a_explanation": "控制图纸版式和标题栏信息",
+    "b_explanation": "控制数据表格字段、格式和项目属性",
+    "teaching_conclusion": "比较图框模板与表格模板时，应从成果控制角度理解二者在操作流程中的不同角色。",
+    "related_kps": "",
+    "qa_trigger": "学生询问图框模板和表格模板区别时调用。",
+    "title": "图框模板 vs 表格模板",
+    "dimensions": [
+      "成果控制"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "chapter_id": "ch04",
+  "docx": "F:\\编书\\道路工程数字设计方法\\05脚本及图片素材\\批注版-道路工程数字设计方法-数字化教材稿.docx",
+  "chapter_blocks": 394,
+  "figure_candidates": {
+    "4-1": {
+      "label": "图 4-1",
+      "context": "BIM的内涵与基本特征可用图 4-1表示。",
+      "distance": 1,
+      "rel_id": "rId83",
+      "source_media": "media/image52.png",
+      "image_block_index": 40
+    },
+    "4-7": {
+      "label": "图 4-7",
+      "context": "道路BIM的参数控制逻辑和联动机制如图 4-7所示。",
+      "distance": 1,
+      "rel_id": "rId94",
+      "source_media": "media/image58.jpeg",
+      "image_block_index": 286
+    }
+  },
+  "copied_figures": [
+    {
+      "figure_no": "4-1",
+      "resource_id": "res_ch04_002",
+      "file_path": "assets/ch04/images/res_ch04_002.png",
+      "context": "BIM的内涵与基本特征可用图 4-1表示。",
+      "distance": 1,
+      "source_media": "word/media/image52.png"
+    }
+  ],
+  "structured_tables": [
+    {
+      "table_no": "4-1",
+      "resource_id": "res_ch04_001",
+      "columns": 3,
+      "rows": 7,
+      "context": "BIM作为工程信息化的核心体系，其关键技术与基本特征见表 4-1。",
+      "distance": 2
+    },
+    {
+      "table_no": "4-2",
+      "resource_id": "res_ch04_007",
+      "columns": 3,
+      "rows": 8,
+      "context": "道路工程构件分类体系通常按照工程对象的专业划分与建模需求，归纳为八大类，涵盖路线、路基、路面、桥梁、隧道、涵洞、交通工程与沿线设施构件，如表 4-2所示。",
+      "distance": 2
+    }
+  ],
+  "unmapped_figure_numbers": [
+    "4-7"
+  ]
+}

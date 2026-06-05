@@ -1,0 +1,6451 @@
+[
+  {
+    "kp_id": "kp_ch05_001",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS的定义",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "GIS",
+      "地理信息系统",
+      "空间数据",
+      "空间分析",
+      "道路工程"
+    ],
+    "aliases": [
+      "GIS的定义",
+      "GIS",
+      "地理信息系统",
+      "空间数据"
+    ],
+    "definition": "地理信息系统（GIS）是在计算机软硬件支持下，对具有空间位置的地理信息进行采集、存储、管理、分析、表达和应用的技术系统。",
+    "core_explanation": "GIS处理的对象具有空间位置和属性信息。；GIS不仅是制图工具，更是空间数据组织、空间分析和空间决策平台。",
+    "plain_explanation": "可以把“GIS的定义”理解为：地理信息系统（GIS）是在计算机软硬件支持下，对具有空间位置的地理信息进行采集、存储、管理、分析、表达和应用的技术系统。",
+    "engineering_meaning": "道路选线、环境约束识别、路网分析、灾害风险评估。",
+    "application_scenario": "道路选线、环境约束识别、路网分析、灾害风险评估。",
+    "common_mistakes": [
+      "把GIS等同于电子地图",
+      "只关注显示功能，忽视空间分析与建模功能"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_001"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地理信息系统（GIS）是在计算机软硬件支持下，对具有空间位置的地理信息进行采集、存储、管理、分析、表达和应用的技术系统。",
+      "GIS处理的对象具有空间位置和属性信息。；GIS不仅是制图工具，更是空间数据组织、空间分析和空间决策平台。",
+      "可以把“GIS的定义”理解为：地理信息系统（GIS）是在计算机软硬件支持下，对具有空间位置的地理信息进行采集、存储、管理、分析、表达和应用的技术系统。",
+      "道路选线、环境约束识别、路网分析、灾害风险评估。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_002",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS硬件组成",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "keywords": [
+      "GIS组成",
+      "硬件",
+      "软件",
+      "数据",
+      "方法",
+      "人员"
+    ],
+    "aliases": [
+      "GIS硬件组成",
+      "GIS组成",
+      "硬件",
+      "软件"
+    ],
+    "definition": "GIS硬件是支撑空间数据采集、存储、计算和显示的物理设备基础。",
+    "core_explanation": "GIS硬件组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+    "plain_explanation": "可以把“GIS硬件组成”理解为：GIS硬件是支撑空间数据采集、存储、计算和显示的物理设备基础。",
+    "engineering_meaning": "服务器、工作站、移动采集设备、GNSS设备和图形显示设备。",
+    "application_scenario": "服务器、工作站、移动采集设备、GNSS设备和图形显示设备。",
+    "common_mistakes": [
+      "只把GIS理解为软件，而忽视数据、方法和人员"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_002"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS硬件是支撑空间数据采集、存储、计算和显示的物理设备基础。",
+      "GIS硬件组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+      "可以把“GIS硬件组成”理解为：GIS硬件是支撑空间数据采集、存储、计算和显示的物理设备基础。",
+      "服务器、工作站、移动采集设备、GNSS设备和图形显示设备。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_003",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS软件组成",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "keywords": [
+      "GIS组成",
+      "硬件",
+      "软件",
+      "数据",
+      "方法",
+      "人员"
+    ],
+    "aliases": [
+      "GIS软件组成",
+      "GIS组成",
+      "硬件",
+      "软件"
+    ],
+    "definition": "GIS软件是执行空间数据管理、分析、建模与可视化的工具平台。",
+    "core_explanation": "GIS软件组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+    "plain_explanation": "可以把“GIS软件组成”理解为：GIS软件是执行空间数据管理、分析、建模与可视化的工具平台。",
+    "engineering_meaning": "ArcGIS、QGIS、SuperMap、MapGIS以及工程平台中的GIS模块。",
+    "application_scenario": "ArcGIS、QGIS、SuperMap、MapGIS以及工程平台中的GIS模块。",
+    "common_mistakes": [
+      "只把GIS理解为软件，而忽视数据、方法和人员"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_003"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS软件是执行空间数据管理、分析、建模与可视化的工具平台。",
+      "GIS软件组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+      "可以把“GIS软件组成”理解为：GIS软件是执行空间数据管理、分析、建模与可视化的工具平台。",
+      "ArcGIS、QGIS、SuperMap、MapGIS以及工程平台中的GIS模块。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_004",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS数据组成",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "keywords": [
+      "GIS组成",
+      "硬件",
+      "软件",
+      "数据",
+      "方法",
+      "人员"
+    ],
+    "aliases": [
+      "GIS数据组成",
+      "GIS组成",
+      "硬件",
+      "软件"
+    ],
+    "definition": "GIS数据是系统处理的对象，包含空间几何、属性信息、拓扑关系和时空信息。",
+    "core_explanation": "GIS数据组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+    "plain_explanation": "可以把“GIS数据组成”理解为：GIS数据是系统处理的对象，包含空间几何、属性信息、拓扑关系和时空信息。",
+    "engineering_meaning": "道路中心线、地形DEM、用地图层、生态红线、灾害点、交通流数据。",
+    "application_scenario": "道路中心线、地形DEM、用地图层、生态红线、灾害点、交通流数据。",
+    "common_mistakes": [
+      "只把GIS理解为软件，而忽视数据、方法和人员"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_004"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS数据是系统处理的对象，包含空间几何、属性信息、拓扑关系和时空信息。",
+      "GIS数据组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+      "可以把“GIS数据组成”理解为：GIS数据是系统处理的对象，包含空间几何、属性信息、拓扑关系和时空信息。",
+      "道路中心线、地形DEM、用地图层、生态红线、灾害点、交通流数据。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_005",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS方法组成",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "keywords": [
+      "GIS组成",
+      "硬件",
+      "软件",
+      "数据",
+      "方法",
+      "人员"
+    ],
+    "aliases": [
+      "GIS方法组成",
+      "GIS组成",
+      "硬件",
+      "软件"
+    ],
+    "definition": "GIS方法是把数据转化为空间知识的分析逻辑，涵盖数据建模、空间运算、可视化和推理。",
+    "core_explanation": "GIS方法组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+    "plain_explanation": "可以把“GIS方法组成”理解为：GIS方法是把数据转化为空间知识的分析逻辑，涵盖数据建模、空间运算、可视化和推理。",
+    "engineering_meaning": "用于缓冲区、叠加、网络、地统计和多因子适宜性分析。",
+    "application_scenario": "用于缓冲区、叠加、网络、地统计和多因子适宜性分析。",
+    "common_mistakes": [
+      "只把GIS理解为软件，而忽视数据、方法和人员"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_005"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS方法是把数据转化为空间知识的分析逻辑，涵盖数据建模、空间运算、可视化和推理。",
+      "GIS方法组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+      "可以把“GIS方法组成”理解为：GIS方法是把数据转化为空间知识的分析逻辑，涵盖数据建模、空间运算、可视化和推理。",
+      "用于缓冲区、叠加、网络、地统计和多因子适宜性分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_006",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS人员组成",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "keywords": [
+      "GIS组成",
+      "硬件",
+      "软件",
+      "数据",
+      "方法",
+      "人员"
+    ],
+    "aliases": [
+      "GIS人员组成",
+      "GIS组成",
+      "硬件",
+      "软件"
+    ],
+    "definition": "GIS人员决定系统如何建设、维护、解释和应用，是空间数据转化为工程决策的主体。",
+    "core_explanation": "GIS人员组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+    "plain_explanation": "可以把“GIS人员组成”理解为：GIS人员决定系统如何建设、维护、解释和应用，是空间数据转化为工程决策的主体。",
+    "engineering_meaning": "设计人员、数据工程师、GIS分析人员、管理人员协同工作。",
+    "application_scenario": "设计人员、数据工程师、GIS分析人员、管理人员协同工作。",
+    "common_mistakes": [
+      "只把GIS理解为软件，而忽视数据、方法和人员"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_006"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS人员决定系统如何建设、维护、解释和应用，是空间数据转化为工程决策的主体。",
+      "GIS人员组成是GIS系统五个组成要素之一。；其作用不是孤立存在，而是与数据、方法和应用场景共同构成GIS能力。",
+      "可以把“GIS人员组成”理解为：GIS人员决定系统如何建设、维护、解释和应用，是空间数据转化为工程决策的主体。",
+      "设计人员、数据工程师、GIS分析人员、管理人员协同工作。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_007",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "位置问题 Location",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "五类空间问题",
+      "Location",
+      "Condition",
+      "Trend",
+      "Pattern",
+      "Model"
+    ],
+    "aliases": [
+      "位置问题Location",
+      "五类空间问题",
+      "Location",
+      "Condition"
+    ],
+    "definition": "位置问题回答“某处有什么”，用于基于空间位置识别对象或信息。",
+    "core_explanation": "在指定位置查询对象或属性。；常用于查找滑坡点、桥梁、隧道、控制点等。",
+    "plain_explanation": "可以把“位置问题 Location”理解为：位置问题回答“某处有什么”，用于基于空间位置识别对象或信息。",
+    "engineering_meaning": "道路选线、环境评价、设施布局和风险识别。",
+    "application_scenario": "道路选线、环境评价、设施布局和风险识别。",
+    "common_mistakes": [
+      "不能把五类问题简单看成菜单功能；它们是空间分析任务的认知框架"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_007"
+    ],
+    "status": "checked",
+    "key_points": [
+      "位置问题回答“某处有什么”，用于基于空间位置识别对象或信息。",
+      "在指定位置查询对象或属性。；常用于查找滑坡点、桥梁、隧道、控制点等。",
+      "可以把“位置问题 Location”理解为：位置问题回答“某处有什么”，用于基于空间位置识别对象或信息。",
+      "道路选线、环境评价、设施布局和风险识别。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_008",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "条件问题 Condition",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "五类空间问题",
+      "Location",
+      "Condition",
+      "Trend",
+      "Pattern",
+      "Model"
+    ],
+    "aliases": [
+      "条件问题Condition",
+      "五类空间问题",
+      "Location",
+      "Condition"
+    ],
+    "definition": "条件问题回答“哪些地方符合特定条件”，用于筛选满足属性或空间约束的地理对象。",
+    "core_explanation": "根据属性阈值、空间范围或复合条件进行筛选。；常用于寻找高海拔且大坡度区域、生态敏感区、适宜选址区域。",
+    "plain_explanation": "可以把“条件问题 Condition”理解为：条件问题回答“哪些地方符合特定条件”，用于筛选满足属性或空间约束的地理对象。",
+    "engineering_meaning": "道路选线、环境评价、设施布局和风险识别。",
+    "application_scenario": "道路选线、环境评价、设施布局和风险识别。",
+    "common_mistakes": [
+      "不能把五类问题简单看成菜单功能；它们是空间分析任务的认知框架"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_008"
+    ],
+    "status": "checked",
+    "key_points": [
+      "条件问题回答“哪些地方符合特定条件”，用于筛选满足属性或空间约束的地理对象。",
+      "根据属性阈值、空间范围或复合条件进行筛选。；常用于寻找高海拔且大坡度区域、生态敏感区、适宜选址区域。",
+      "可以把“条件问题 Condition”理解为：条件问题回答“哪些地方符合特定条件”，用于筛选满足属性或空间约束的地理对象。",
+      "道路选线、环境评价、设施布局和风险识别。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_009",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "变化趋势问题 Trend",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "五类空间问题",
+      "Location",
+      "Condition",
+      "Trend",
+      "Pattern",
+      "Model"
+    ],
+    "aliases": [
+      "变化趋势问题Trend",
+      "五类空间问题",
+      "Location",
+      "Condition"
+    ],
+    "definition": "变化趋势问题回答“空间现象如何随时间变化”，用于比较不同时期空间数据的变化。",
+    "core_explanation": "关注时间维度上的空间差异。；常用于林地变化、地表形态变化、道路周边环境演变分析。",
+    "plain_explanation": "可以把“变化趋势问题 Trend”理解为：变化趋势问题回答“空间现象如何随时间变化”，用于比较不同时期空间数据的变化。",
+    "engineering_meaning": "道路选线、环境评价、设施布局和风险识别。",
+    "application_scenario": "道路选线、环境评价、设施布局和风险识别。",
+    "common_mistakes": [
+      "不能把五类问题简单看成菜单功能；它们是空间分析任务的认知框架"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_009"
+    ],
+    "status": "checked",
+    "key_points": [
+      "变化趋势问题回答“空间现象如何随时间变化”，用于比较不同时期空间数据的变化。",
+      "关注时间维度上的空间差异。；常用于林地变化、地表形态变化、道路周边环境演变分析。",
+      "可以把“变化趋势问题 Trend”理解为：变化趋势问题回答“空间现象如何随时间变化”，用于比较不同时期空间数据的变化。",
+      "道路选线、环境评价、设施布局和风险识别。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_010",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "模式问题 Pattern",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "五类空间问题",
+      "Location",
+      "Condition",
+      "Trend",
+      "Pattern",
+      "Model"
+    ],
+    "aliases": [
+      "模式问题Pattern",
+      "五类空间问题",
+      "Location",
+      "Condition"
+    ],
+    "definition": "模式问题回答“对象在空间上如何分布”，用于识别聚集、离散或随机分布模式。",
+    "core_explanation": "关注空间对象的排列规律。；常用于事故热点、灾害点聚集、污染扩散和服务设施分布分析。",
+    "plain_explanation": "可以把“模式问题 Pattern”理解为：模式问题回答“对象在空间上如何分布”，用于识别聚集、离散或随机分布模式。",
+    "engineering_meaning": "道路选线、环境评价、设施布局和风险识别。",
+    "application_scenario": "道路选线、环境评价、设施布局和风险识别。",
+    "common_mistakes": [
+      "不能把五类问题简单看成菜单功能；它们是空间分析任务的认知框架"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_010"
+    ],
+    "status": "checked",
+    "key_points": [
+      "模式问题回答“对象在空间上如何分布”，用于识别聚集、离散或随机分布模式。",
+      "关注空间对象的排列规律。；常用于事故热点、灾害点聚集、污染扩散和服务设施分布分析。",
+      "可以把“模式问题 Pattern”理解为：模式问题回答“对象在空间上如何分布”，用于识别聚集、离散或随机分布模式。",
+      "道路选线、环境评价、设施布局和风险识别。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_011",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "模型问题 Model",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "五类空间问题",
+      "Location",
+      "Condition",
+      "Trend",
+      "Pattern",
+      "Model"
+    ],
+    "aliases": [
+      "模型问题Model",
+      "五类空间问题",
+      "Location",
+      "Condition"
+    ],
+    "definition": "模型问题回答“如何构建并应用空间分析模型”，用于预测、模拟和方案优化。",
+    "core_explanation": "依赖GIS平台的空间建模工具。；常见模型包括最小成本路径、适宜性评价、位置分配和空间插值模型。",
+    "plain_explanation": "可以把“模型问题 Model”理解为：模型问题回答“如何构建并应用空间分析模型”，用于预测、模拟和方案优化。",
+    "engineering_meaning": "道路选线、环境评价、设施布局和风险识别。",
+    "application_scenario": "道路选线、环境评价、设施布局和风险识别。",
+    "common_mistakes": [
+      "不能把五类问题简单看成菜单功能；它们是空间分析任务的认知框架"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_011"
+    ],
+    "status": "checked",
+    "key_points": [
+      "模型问题回答“如何构建并应用空间分析模型”，用于预测、模拟和方案优化。",
+      "依赖GIS平台的空间建模工具。；常见模型包括最小成本路径、适宜性评价、位置分配和空间插值模型。",
+      "可以把“模型问题 Model”理解为：模型问题回答“如何构建并应用空间分析模型”，用于预测、模拟和方案优化。",
+      "道路选线、环境评价、设施布局和风险识别。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_012",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS数据采集",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "GIS技术流程",
+      "数据采集",
+      "数据管理",
+      "空间分析",
+      "可视化"
+    ],
+    "aliases": [
+      "GIS数据采集",
+      "GIS技术流程",
+      "数据采集",
+      "数据管理"
+    ],
+    "definition": "GIS数据采集是获取空间位置、属性和时序信息的起点，决定系统视野与分析精度。",
+    "core_explanation": "数据来源可包括测量、遥感、航测、既有数据库和现场调查。；数据质量直接影响后续分析可靠性。",
+    "plain_explanation": "可以把“GIS数据采集”理解为：GIS数据采集是获取空间位置、属性和时序信息的起点，决定系统视野与分析精度。",
+    "engineering_meaning": "GIS项目流程、道路数字化设计数据链。",
+    "application_scenario": "GIS项目流程、道路数字化设计数据链。",
+    "common_mistakes": [
+      "忽视数据采集和管理环节，直接进行分析会导致结果不可靠"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_012"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS数据采集是获取空间位置、属性和时序信息的起点，决定系统视野与分析精度。",
+      "数据来源可包括测量、遥感、航测、既有数据库和现场调查。；数据质量直接影响后续分析可靠性。",
+      "可以把“GIS数据采集”理解为：GIS数据采集是获取空间位置、属性和时序信息的起点，决定系统视野与分析精度。",
+      "GIS项目流程、道路数字化设计数据链。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_013",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS数据管理",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "GIS技术流程",
+      "数据采集",
+      "数据管理",
+      "空间分析",
+      "可视化"
+    ],
+    "aliases": [
+      "GIS数据管理",
+      "GIS技术流程",
+      "数据采集",
+      "数据管理"
+    ],
+    "definition": "GIS数据管理负责空间数据的组织、存储、查询、更新和版本控制。",
+    "core_explanation": "保障数据一致性、完整性和可调用性。；通常包括空间数据库、图层管理、元数据管理和拓扑检查。",
+    "plain_explanation": "可以把“GIS数据管理”理解为：GIS数据管理负责空间数据的组织、存储、查询、更新和版本控制。",
+    "engineering_meaning": "GIS项目流程、道路数字化设计数据链。",
+    "application_scenario": "GIS项目流程、道路数字化设计数据链。",
+    "common_mistakes": [
+      "忽视数据采集和管理环节，直接进行分析会导致结果不可靠"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_013"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS数据管理负责空间数据的组织、存储、查询、更新和版本控制。",
+      "保障数据一致性、完整性和可调用性。；通常包括空间数据库、图层管理、元数据管理和拓扑检查。",
+      "可以把“GIS数据管理”理解为：GIS数据管理负责空间数据的组织、存储、查询、更新和版本控制。",
+      "GIS项目流程、道路数字化设计数据链。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_014",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS空间分析与建模",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "GIS技术流程",
+      "数据采集",
+      "数据管理",
+      "空间分析",
+      "可视化"
+    ],
+    "aliases": [
+      "GIS空间分析与建模",
+      "GIS技术流程",
+      "数据采集",
+      "数据管理"
+    ],
+    "definition": "GIS空间分析与建模用于识别空间对象的几何关系、拓扑结构和分布规律。",
+    "core_explanation": "包括缓冲区、叠加、网络、地形、热点和空间统计分析。；将静态数据转化为可支持工程决策的动态知识。",
+    "plain_explanation": "可以把“GIS空间分析与建模”理解为：GIS空间分析与建模用于识别空间对象的几何关系、拓扑结构和分布规律。",
+    "engineering_meaning": "GIS项目流程、道路数字化设计数据链。",
+    "application_scenario": "GIS项目流程、道路数字化设计数据链。",
+    "common_mistakes": [
+      "忽视数据采集和管理环节，直接进行分析会导致结果不可靠"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_014"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS空间分析与建模用于识别空间对象的几何关系、拓扑结构和分布规律。",
+      "包括缓冲区、叠加、网络、地形、热点和空间统计分析。；将静态数据转化为可支持工程决策的动态知识。",
+      "可以把“GIS空间分析与建模”理解为：GIS空间分析与建模用于识别空间对象的几何关系、拓扑结构和分布规律。",
+      "GIS项目流程、道路数字化设计数据链。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_015",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS表达与可视化",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "GIS技术流程",
+      "数据采集",
+      "数据管理",
+      "空间分析",
+      "可视化"
+    ],
+    "aliases": [
+      "GIS表达与可视化",
+      "GIS技术流程",
+      "数据采集",
+      "数据管理"
+    ],
+    "definition": "GIS表达与可视化将空间分析结果以地图、专题图、三维场景或仪表板形式呈现。",
+    "core_explanation": "提高空间信息理解效率和沟通效果。；支撑协同设计、公众参与和方案汇报。",
+    "plain_explanation": "可以把“GIS表达与可视化”理解为：GIS表达与可视化将空间分析结果以地图、专题图、三维场景或仪表板形式呈现。",
+    "engineering_meaning": "GIS项目流程、道路数字化设计数据链。",
+    "application_scenario": "GIS项目流程、道路数字化设计数据链。",
+    "common_mistakes": [
+      "忽视数据采集和管理环节，直接进行分析会导致结果不可靠"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_015"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS表达与可视化将空间分析结果以地图、专题图、三维场景或仪表板形式呈现。",
+      "提高空间信息理解效率和沟通效果。；支撑协同设计、公众参与和方案汇报。",
+      "可以把“GIS表达与可视化”理解为：GIS表达与可视化将空间分析结果以地图、专题图、三维场景或仪表板形式呈现。",
+      "GIS项目流程、道路数字化设计数据链。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_016",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "空间参照系统",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "空间参照系统",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "空间参照系统用于把现实世界地理实体精确映射到数字空间，是坐标计算、图层叠加和空间分析的基础。",
+    "core_explanation": "任何GIS空间数据都必须建立在明确的参照体系之上。；参照系统错误会导致图层错位、距离计算失真和BIM-GIS集成失败。",
+    "plain_explanation": "可以把“空间参照系统”理解为：空间参照系统用于把现实世界地理实体精确映射到数字空间，是坐标计算、图层叠加和空间分析的基础。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_016"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间参照系统用于把现实世界地理实体精确映射到数字空间，是坐标计算、图层叠加和空间分析的基础。",
+      "任何GIS空间数据都必须建立在明确的参照体系之上。；参照系统错误会导致图层错位、距离计算失真和BIM-GIS集成失败。",
+      "可以把“空间参照系统”理解为：空间参照系统用于把现实世界地理实体精确映射到数字空间，是坐标计算、图层叠加和空间分析的基础。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_017",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "地图投影",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "地图投影",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "地图投影是将地球椭球面或球面上的点转换到平面坐标系统中的数学方法。",
+    "core_explanation": "地图投影不可避免产生变形。；投影设计实质是在角度、面积、距离等属性之间进行取舍。",
+    "plain_explanation": "可以把“地图投影”理解为：地图投影是将地球椭球面或球面上的点转换到平面坐标系统中的数学方法。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_017"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地图投影是将地球椭球面或球面上的点转换到平面坐标系统中的数学方法。",
+      "地图投影不可避免产生变形。；投影设计实质是在角度、面积、距离等属性之间进行取舍。",
+      "可以把“地图投影”理解为：地图投影是将地球椭球面或球面上的点转换到平面坐标系统中的数学方法。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_018",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "按投影面形状分类",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "按投影面形状分类",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "按投影面形状可将地图投影分为圆柱投影、圆锥投影和方位投影。",
+    "core_explanation": "圆柱投影适于低纬或东西向范围较大的区域。；圆锥投影适于中纬度东西延伸区域。",
+    "plain_explanation": "可以把“按投影面形状分类”理解为：按投影面形状可将地图投影分为圆柱投影、圆锥投影和方位投影。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_018"
+    ],
+    "status": "checked",
+    "key_points": [
+      "按投影面形状可将地图投影分为圆柱投影、圆锥投影和方位投影。",
+      "圆柱投影适于低纬或东西向范围较大的区域。；圆锥投影适于中纬度东西延伸区域。",
+      "可以把“按投影面形状分类”理解为：按投影面形状可将地图投影分为圆柱投影、圆锥投影和方位投影。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_019",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "按投影轴向分类",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "按投影轴向分类",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "按投影面与地轴相对关系，可分为正轴、横轴和斜轴投影。",
+    "core_explanation": "正轴投影变形最小区通常呈纬向分布。；横轴投影适合南北向延伸区域或投影带。",
+    "plain_explanation": "可以把“按投影轴向分类”理解为：按投影面与地轴相对关系，可分为正轴、横轴和斜轴投影。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_019"
+    ],
+    "status": "checked",
+    "key_points": [
+      "按投影面与地轴相对关系，可分为正轴、横轴和斜轴投影。",
+      "正轴投影变形最小区通常呈纬向分布。；横轴投影适合南北向延伸区域或投影带。",
+      "可以把“按投影轴向分类”理解为：按投影面与地轴相对关系，可分为正轴、横轴和斜轴投影。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_020",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "按变形性质分类",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "按变形性质分类",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "按变形性质可分为等角、等积、等距和综合性投影，体现制图目的不同。",
+    "core_explanation": "等角投影保持局部角度形状。；等积投影保持面积。",
+    "plain_explanation": "可以把“按变形性质分类”理解为：按变形性质可分为等角、等积、等距和综合性投影，体现制图目的不同。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_020"
+    ],
+    "status": "checked",
+    "key_points": [
+      "按变形性质可分为等角、等积、等距和综合性投影，体现制图目的不同。",
+      "等角投影保持局部角度形状。；等积投影保持面积。",
+      "可以把“按变形性质分类”理解为：按变形性质可分为等角、等积、等距和综合性投影，体现制图目的不同。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_021",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "标准投影在长距离道路工程中的局限",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "标准投影在长距离道路工程中的局限",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "标准投影系统在长距离线性工程中可能导致坐标系统不连续、变形不可控和变形分布不均。",
+    "core_explanation": "线路跨越多个投影带会造成坐标突变。；距中央子午线越远，长度变形通常越明显。",
+    "plain_explanation": "可以把“标准投影在长距离道路工程中的局限”理解为：标准投影系统在长距离线性工程中可能导致坐标系统不连续、变形不可控和变形分布不均。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_021"
+    ],
+    "status": "checked",
+    "key_points": [
+      "标准投影系统在长距离线性工程中可能导致坐标系统不连续、变形不可控和变形分布不均。",
+      "线路跨越多个投影带会造成坐标突变。；距中央子午线越远，长度变形通常越明显。",
+      "可以把“标准投影在长距离道路工程中的局限”理解为：标准投影系统在长距离线性工程中可能导致坐标系统不连续、变形不可控和变形分布不均。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_022",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "低失真投影 LDP",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "低失真投影LDP",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "低失真投影（LDP）是面向工程范围定制的投影方案，通过控制投影轴线、参考面和比例因子，使工程范围内长度变形保持在较小水平。",
+    "core_explanation": "LDP核心目标是降低道路工程坐标长度与实地长度差异。；适合长距离、线性、跨投影带或高程变化明显的工程。",
+    "plain_explanation": "可以把“低失真投影 LDP”理解为：低失真投影（LDP）是面向工程范围定制的投影方案，通过控制投影轴线、参考面和比例因子，使工程范围内长度变形保持在较小水平。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_022"
+    ],
+    "status": "checked",
+    "key_points": [
+      "低失真投影（LDP）是面向工程范围定制的投影方案，通过控制投影轴线、参考面和比例因子，使工程范围内长度变形保持在较小水平。",
+      "LDP核心目标是降低道路工程坐标长度与实地长度差异。；适合长距离、线性、跨投影带或高程变化明显的工程。",
+      "可以把“低失真投影 LDP”理解为：低失真投影（LDP）是面向工程范围定制的投影方案，通过控制投影轴线、参考面和比例因子，使工程范围内长度变形保持在较小水平。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_023",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "LDP贴合性投影轴线设计",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "LDP贴合性投影轴线设计",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "LDP通过使投影轴线尽量贴合路线走向，减小目标点到投影轴线的垂直距离，从而降低长度变形。",
+    "core_explanation": "线路走向与投影轴线越贴合，横向距离越小。；投影轴线设计是线性工程LDP的重要环节。",
+    "plain_explanation": "可以把“LDP贴合性投影轴线设计”理解为：LDP通过使投影轴线尽量贴合路线走向，减小目标点到投影轴线的垂直距离，从而降低长度变形。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_023"
+    ],
+    "status": "checked",
+    "key_points": [
+      "LDP通过使投影轴线尽量贴合路线走向，减小目标点到投影轴线的垂直距离，从而降低长度变形。",
+      "线路走向与投影轴线越贴合，横向距离越小。；投影轴线设计是线性工程LDP的重要环节。",
+      "可以把“LDP贴合性投影轴线设计”理解为：LDP通过使投影轴线尽量贴合路线走向，减小目标点到投影轴线的垂直距离，从而降低长度变形。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_024",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "LDP投影参考面高程优化",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "LDP投影参考面高程优化",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "LDP可结合项目平均高程或代表性高程设置投影参考面，减小因高程引起的长度比例差异。",
+    "core_explanation": "高程变化会影响地面距离与投影平面距离关系。；高程优化使投影面更接近工程实际作业面。",
+    "plain_explanation": "可以把“LDP投影参考面高程优化”理解为：LDP可结合项目平均高程或代表性高程设置投影参考面，减小因高程引起的长度比例差异。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_024"
+    ],
+    "status": "checked",
+    "key_points": [
+      "LDP可结合项目平均高程或代表性高程设置投影参考面，减小因高程引起的长度比例差异。",
+      "高程变化会影响地面距离与投影平面距离关系。；高程优化使投影面更接近工程实际作业面。",
+      "可以把“LDP投影参考面高程优化”理解为：LDP可结合项目平均高程或代表性高程设置投影参考面，减小因高程引起的长度比例差异。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_025",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "LDP比例因子优化均衡",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "地图投影",
+      "LDP",
+      "低失真投影",
+      "空间参照",
+      "坐标系统"
+    ],
+    "aliases": [
+      "LDP比例因子优化均衡",
+      "地图投影",
+      "LDP",
+      "低失真投影"
+    ],
+    "definition": "LDP通过调整基础比例因子，使工程范围内正负变形尽量均衡，整体长度变形最小化。",
+    "core_explanation": "比例因子控制投影坐标长度与实地长度之间的比例关系。；优化目标不是某一点完全无变形，而是全线变形均衡可控。",
+    "plain_explanation": "可以把“LDP比例因子优化均衡”理解为：LDP通过调整基础比例因子，使工程范围内正负变形尽量均衡，整体长度变形最小化。",
+    "engineering_meaning": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "application_scenario": "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。",
+    "common_mistakes": [
+      "把通用投影直接用于所有道路工程，忽视线性工程长度变形和坐标连续性"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_025"
+    ],
+    "status": "checked",
+    "key_points": [
+      "LDP通过调整基础比例因子，使工程范围内正负变形尽量均衡，整体长度变形最小化。",
+      "比例因子控制投影坐标长度与实地长度之间的比例关系。；优化目标不是某一点完全无变形，而是全线变形均衡可控。",
+      "可以把“LDP比例因子优化均衡”理解为：LDP通过调整基础比例因子，使工程范围内正负变形尽量均衡，整体长度变形最小化。",
+      "长距离道路工程坐标统一、BIM-GIS集成、测设与运维定位。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_026",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "空间数据模型",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "空间数据模型",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "空间数据模型是GIS表达现实地理对象和空间现象的基本方式，主要包括矢量模型、栅格模型和网络模型。",
+    "core_explanation": "矢量适合表达边界清晰的离散对象。；栅格适合表达连续表面和遥感影像。",
+    "plain_explanation": "可以把“空间数据模型”理解为：空间数据模型是GIS表达现实地理对象和空间现象的基本方式，主要包括矢量模型、栅格模型和网络模型。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_026"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间数据模型是GIS表达现实地理对象和空间现象的基本方式，主要包括矢量模型、栅格模型和网络模型。",
+      "矢量适合表达边界清晰的离散对象。；栅格适合表达连续表面和遥感影像。",
+      "可以把“空间数据模型”理解为：空间数据模型是GIS表达现实地理对象和空间现象的基本方式，主要包括矢量模型、栅格模型和网络模型。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_027",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "矢量数据模型",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "矢量数据模型",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "矢量数据模型用点、线、面等几何图元精确表达具有明确边界的地理实体。",
+    "core_explanation": "点表示零维对象，如控制点、交通标志、里程桩。；线表示一维对象，如道路中心线、河流、等高线。",
+    "plain_explanation": "可以把“矢量数据模型”理解为：矢量数据模型用点、线、面等几何图元精确表达具有明确边界的地理实体。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_027"
+    ],
+    "status": "checked",
+    "key_points": [
+      "矢量数据模型用点、线、面等几何图元精确表达具有明确边界的地理实体。",
+      "点表示零维对象，如控制点、交通标志、里程桩。；线表示一维对象，如道路中心线、河流、等高线。",
+      "可以把“矢量数据模型”理解为：矢量数据模型用点、线、面等几何图元精确表达具有明确边界的地理实体。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_028",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "点要素",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "点要素",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "点要素是零维矢量对象，仅具有位置属性，可附加属性信息。",
+    "core_explanation": "用于表达尺寸相对小或位置性强的对象。；道路工程中常表示控制点、里程桩、监测点、事故点。",
+    "plain_explanation": "可以把“点要素”理解为：点要素是零维矢量对象，仅具有位置属性，可附加属性信息。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_028"
+    ],
+    "status": "checked",
+    "key_points": [
+      "点要素是零维矢量对象，仅具有位置属性，可附加属性信息。",
+      "用于表达尺寸相对小或位置性强的对象。；道路工程中常表示控制点、里程桩、监测点、事故点。",
+      "可以把“点要素”理解为：点要素是零维矢量对象，仅具有位置属性，可附加属性信息。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_029",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "线要素",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "线要素",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "线要素是一维矢量对象，由有序坐标点序列构成，可表达长度和方向。",
+    "core_explanation": "用于道路中心线、河流、管线、等高线等。；线要素是网络分析中边的几何基础。",
+    "plain_explanation": "可以把“线要素”理解为：线要素是一维矢量对象，由有序坐标点序列构成，可表达长度和方向。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_029"
+    ],
+    "status": "checked",
+    "key_points": [
+      "线要素是一维矢量对象，由有序坐标点序列构成，可表达长度和方向。",
+      "用于道路中心线、河流、管线、等高线等。；线要素是网络分析中边的几何基础。",
+      "可以把“线要素”理解为：线要素是一维矢量对象，由有序坐标点序列构成，可表达长度和方向。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_030",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "面要素",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "面要素",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "面要素是由闭合边界界定的二维矢量对象，具有面积和周长属性。",
+    "core_explanation": "用于土地利用、征地范围、灾害区、生态红线。；面要素是叠加分析、包含判断和区域统计的主要对象。",
+    "plain_explanation": "可以把“面要素”理解为：面要素是由闭合边界界定的二维矢量对象，具有面积和周长属性。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_030"
+    ],
+    "status": "checked",
+    "key_points": [
+      "面要素是由闭合边界界定的二维矢量对象，具有面积和周长属性。",
+      "用于土地利用、征地范围、灾害区、生态红线。；面要素是叠加分析、包含判断和区域统计的主要对象。",
+      "可以把“面要素”理解为：面要素是由闭合边界界定的二维矢量对象，具有面积和周长属性。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_031",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "TIN作为矢量表面模型",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "TIN作为矢量表面模型",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "TIN通过连接不规则采样点形成三角网，是矢量数据在三维地形表达中的重要扩展。",
+    "core_explanation": "TIN能较好保留地形突变和采样点精度。；适合道路工程中的地形建模、纵横断面提取和土石方分析。",
+    "plain_explanation": "可以把“TIN作为矢量表面模型”理解为：TIN通过连接不规则采样点形成三角网，是矢量数据在三维地形表达中的重要扩展。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_031"
+    ],
+    "status": "checked",
+    "key_points": [
+      "TIN通过连接不规则采样点形成三角网，是矢量数据在三维地形表达中的重要扩展。",
+      "TIN能较好保留地形突变和采样点精度。；适合道路工程中的地形建模、纵横断面提取和土石方分析。",
+      "可以把“TIN作为矢量表面模型”理解为：TIN通过连接不规则采样点形成三角网，是矢量数据在三维地形表达中的重要扩展。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_032",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "栅格数据模型",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "栅格数据模型",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "栅格数据模型用规则像元矩阵表达空间现象，每个像元存储一个属性值。",
+    "core_explanation": "像元位置由行列号隐含确定。；适合表达高程、坡度、降雨、遥感影像等连续现象。",
+    "plain_explanation": "可以把“栅格数据模型”理解为：栅格数据模型用规则像元矩阵表达空间现象，每个像元存储一个属性值。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_032"
+    ],
+    "status": "checked",
+    "key_points": [
+      "栅格数据模型用规则像元矩阵表达空间现象，每个像元存储一个属性值。",
+      "像元位置由行列号隐含确定。；适合表达高程、坡度、降雨、遥感影像等连续现象。",
+      "可以把“栅格数据模型”理解为：栅格数据模型用规则像元矩阵表达空间现象，每个像元存储一个属性值。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_033",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "像元",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "像元",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "像元是栅格数据的最小单元，表示某一空间位置上的数值或类别。",
+    "core_explanation": "像元大小决定空间分辨率。；像元值可表示连续变量或离散类别。",
+    "plain_explanation": "可以把“像元”理解为：像元是栅格数据的最小单元，表示某一空间位置上的数值或类别。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_033"
+    ],
+    "status": "checked",
+    "key_points": [
+      "像元是栅格数据的最小单元，表示某一空间位置上的数值或类别。",
+      "像元大小决定空间分辨率。；像元值可表示连续变量或离散类别。",
+      "可以把“像元”理解为：像元是栅格数据的最小单元，表示某一空间位置上的数值或类别。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_034",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "空间分辨率",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "空间分辨率",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "空间分辨率是单个像元在地面上代表的实际尺寸，是栅格数据精度的关键指标。",
+    "core_explanation": "分辨率越高，表达越精细，但数据量越大。；分辨率过低会造成边界锯齿和细节损失。",
+    "plain_explanation": "可以把“空间分辨率”理解为：空间分辨率是单个像元在地面上代表的实际尺寸，是栅格数据精度的关键指标。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_034"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间分辨率是单个像元在地面上代表的实际尺寸，是栅格数据精度的关键指标。",
+      "分辨率越高，表达越精细，但数据量越大。；分辨率过低会造成边界锯齿和细节损失。",
+      "可以把“空间分辨率”理解为：空间分辨率是单个像元在地面上代表的实际尺寸，是栅格数据精度的关键指标。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_035",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "网络模型",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "网络模型",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "网络模型用于表达空间对象之间的连通、流动和阻抗关系。",
+    "core_explanation": "节点与边构成网络基本结构。；适合道路交通、管网、物流和应急救援等流动性问题。",
+    "plain_explanation": "可以把“网络模型”理解为：网络模型用于表达空间对象之间的连通、流动和阻抗关系。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_035"
+    ],
+    "status": "checked",
+    "key_points": [
+      "网络模型用于表达空间对象之间的连通、流动和阻抗关系。",
+      "节点与边构成网络基本结构。；适合道路交通、管网、物流和应急救援等流动性问题。",
+      "可以把“网络模型”理解为：网络模型用于表达空间对象之间的连通、流动和阻抗关系。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_036",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "拓扑关系",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "拓扑关系",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "拓扑关系是空间对象之间不依赖具体形状和尺寸的逻辑关系，如邻接、连通和包含。",
+    "core_explanation": "拓扑使GIS不仅能显示对象，还能理解对象之间的空间联系。；拓扑是网络分析、叠加分析和空间一致性检查的基础。",
+    "plain_explanation": "可以把“拓扑关系”理解为：拓扑关系是空间对象之间不依赖具体形状和尺寸的逻辑关系，如邻接、连通和包含。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_036"
+    ],
+    "status": "checked",
+    "key_points": [
+      "拓扑关系是空间对象之间不依赖具体形状和尺寸的逻辑关系，如邻接、连通和包含。",
+      "拓扑使GIS不仅能显示对象，还能理解对象之间的空间联系。；拓扑是网络分析、叠加分析和空间一致性检查的基础。",
+      "可以把“拓扑关系”理解为：拓扑关系是空间对象之间不依赖具体形状和尺寸的逻辑关系，如邻接、连通和包含。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_037",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "邻接关系",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "邻接关系",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "邻接关系表示两个空间对象共享边界或相互接触。",
+    "core_explanation": "常用于判断用地图斑相邻、区域边界接触。；与面要素拓扑结构关系密切。",
+    "plain_explanation": "可以把“邻接关系”理解为：邻接关系表示两个空间对象共享边界或相互接触。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_037"
+    ],
+    "status": "checked",
+    "key_points": [
+      "邻接关系表示两个空间对象共享边界或相互接触。",
+      "常用于判断用地图斑相邻、区域边界接触。；与面要素拓扑结构关系密切。",
+      "可以把“邻接关系”理解为：邻接关系表示两个空间对象共享边界或相互接触。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_038",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "连通关系",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "连通关系",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "连通关系表示线或网络对象之间是否可以通过节点相互到达。",
+    "core_explanation": "道路网络分析依赖连通关系。；连通不等于可通行，真实网络还需考虑阻抗和转向规则。",
+    "plain_explanation": "可以把“连通关系”理解为：连通关系表示线或网络对象之间是否可以通过节点相互到达。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_038"
+    ],
+    "status": "checked",
+    "key_points": [
+      "连通关系表示线或网络对象之间是否可以通过节点相互到达。",
+      "道路网络分析依赖连通关系。；连通不等于可通行，真实网络还需考虑阻抗和转向规则。",
+      "可以把“连通关系”理解为：连通关系表示线或网络对象之间是否可以通过节点相互到达。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_039",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "包含关系",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "包含关系",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "包含关系表示一个空间对象位于另一个空间对象内部。",
+    "core_explanation": "点落入多边形是典型包含判断。；用于将区域属性赋给点或判断道路是否穿越敏感区。",
+    "plain_explanation": "可以把“包含关系”理解为：包含关系表示一个空间对象位于另一个空间对象内部。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_039"
+    ],
+    "status": "checked",
+    "key_points": [
+      "包含关系表示一个空间对象位于另一个空间对象内部。",
+      "点落入多边形是典型包含判断。；用于将区域属性赋给点或判断道路是否穿越敏感区。",
+      "可以把“包含关系”理解为：包含关系表示一个空间对象位于另一个空间对象内部。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_040",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "拓扑节点表",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "拓扑节点表",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "节点表存储节点ID及其坐标，是拓扑结构中的基础点对象表。",
+    "core_explanation": "节点连接弧段并支撑网络连通判断。；节点坐标用于定位交叉口、端点和连接点。",
+    "plain_explanation": "可以把“拓扑节点表”理解为：节点表存储节点ID及其坐标，是拓扑结构中的基础点对象表。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_040"
+    ],
+    "status": "checked",
+    "key_points": [
+      "节点表存储节点ID及其坐标，是拓扑结构中的基础点对象表。",
+      "节点连接弧段并支撑网络连通判断。；节点坐标用于定位交叉口、端点和连接点。",
+      "可以把“拓扑节点表”理解为：节点表存储节点ID及其坐标，是拓扑结构中的基础点对象表。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_041",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "拓扑弧段表",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "拓扑弧段表",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "弧段表记录弧段ID、起止节点、左右多边形等信息，是拓扑结构的核心表。",
+    "core_explanation": "弧段表连接节点和多边形。；可表达线的方向、邻接和边界关系。",
+    "plain_explanation": "可以把“拓扑弧段表”理解为：弧段表记录弧段ID、起止节点、左右多边形等信息，是拓扑结构的核心表。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_041"
+    ],
+    "status": "checked",
+    "key_points": [
+      "弧段表记录弧段ID、起止节点、左右多边形等信息，是拓扑结构的核心表。",
+      "弧段表连接节点和多边形。；可表达线的方向、邻接和边界关系。",
+      "可以把“拓扑弧段表”理解为：弧段表记录弧段ID、起止节点、左右多边形等信息，是拓扑结构的核心表。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_042",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "拓扑多边形表",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "拓扑多边形表",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "多边形表记录多边形ID及其边界弧段集合，用于表达区域对象的组成关系。",
+    "core_explanation": "通过弧段列表构成面边界。；支撑面要素的邻接、包含和叠加计算。",
+    "plain_explanation": "可以把“拓扑多边形表”理解为：多边形表记录多边形ID及其边界弧段集合，用于表达区域对象的组成关系。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_042"
+    ],
+    "status": "checked",
+    "key_points": [
+      "多边形表记录多边形ID及其边界弧段集合，用于表达区域对象的组成关系。",
+      "通过弧段列表构成面边界。；支撑面要素的邻接、包含和叠加计算。",
+      "可以把“拓扑多边形表”理解为：多边形表记录多边形ID及其边界弧段集合，用于表达区域对象的组成关系。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_043",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec01",
+    "title": "GIS拓扑模型与BIM构件模型差异",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "矢量",
+      "栅格",
+      "网络模型",
+      "拓扑",
+      "空间数据模型"
+    ],
+    "aliases": [
+      "GIS拓扑模型与BIM构件模型差异",
+      "矢量",
+      "栅格",
+      "网络模型"
+    ],
+    "definition": "GIS拓扑模型侧重空间对象之间的逻辑关系，BIM构件模型侧重工程构件的几何、属性和约束语义。",
+    "core_explanation": "GIS关注“对象之间怎样相邻、连接和包含”。；BIM关注“构件是什么、有什么参数、如何受规则约束”。",
+    "plain_explanation": "可以把“GIS拓扑模型与BIM构件模型差异”理解为：GIS拓扑模型侧重空间对象之间的逻辑关系，BIM构件模型侧重工程构件的几何、属性和约束语义。",
+    "engineering_meaning": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "application_scenario": "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。",
+    "common_mistakes": [
+      "把矢量、栅格、网络模型看作相互替代，而不是服务于不同空间问题的表达方式"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_043"
+    ],
+    "status": "checked",
+    "key_points": [
+      "GIS拓扑模型侧重空间对象之间的逻辑关系，BIM构件模型侧重工程构件的几何、属性和约束语义。",
+      "GIS关注“对象之间怎样相邻、连接和包含”。；BIM关注“构件是什么、有什么参数、如何受规则约束”。",
+      "可以把“GIS拓扑模型与BIM构件模型差异”理解为：GIS拓扑模型侧重空间对象之间的逻辑关系，BIM构件模型侧重工程构件的几何、属性和约束语义。",
+      "道路空间对象表达、地形分析、网络路径分析、BIM-GIS融合。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_044",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "空间分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "空间分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "空间分析是在空间数据基础上，运用几何、拓扑、统计等方法分析空间对象关系、分布与变化规律的过程。",
+    "core_explanation": "空间分析是实现数据驱动设计的关键手段。；它将静态空间数据转化为支持工程实践的动态知识。",
+    "plain_explanation": "可以把“空间分析”理解为：空间分析是在空间数据基础上，运用几何、拓扑、统计等方法分析空间对象关系、分布与变化规律的过程。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_044"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间分析是在空间数据基础上，运用几何、拓扑、统计等方法分析空间对象关系、分布与变化规律的过程。",
+      "空间分析是实现数据驱动设计的关键手段。；它将静态空间数据转化为支持工程实践的动态知识。",
+      "可以把“空间分析”理解为：空间分析是在空间数据基础上，运用几何、拓扑、统计等方法分析空间对象关系、分布与变化规律的过程。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_045",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "矢量数据空间分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "矢量数据空间分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "矢量空间分析侧重离散对象之间的几何关系和拓扑逻辑判断。",
+    "core_explanation": "主要包括空间查询、缓冲区构建和叠加分析。；适合边界清晰的点、线、面对象。",
+    "plain_explanation": "可以把“矢量数据空间分析”理解为：矢量空间分析侧重离散对象之间的几何关系和拓扑逻辑判断。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_045"
+    ],
+    "status": "checked",
+    "key_points": [
+      "矢量空间分析侧重离散对象之间的几何关系和拓扑逻辑判断。",
+      "主要包括空间查询、缓冲区构建和叠加分析。；适合边界清晰的点、线、面对象。",
+      "可以把“矢量数据空间分析”理解为：矢量空间分析侧重离散对象之间的几何关系和拓扑逻辑判断。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_046",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "空间查询",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "空间查询",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "空间查询是基于属性条件或空间位置条件查找地理对象的分析方法。",
+    "core_explanation": "属性查图形：根据属性条件定位空间对象。；图形查属性：根据空间位置或范围查询对象属性。",
+    "plain_explanation": "可以把“空间查询”理解为：空间查询是基于属性条件或空间位置条件查找地理对象的分析方法。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_046"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间查询是基于属性条件或空间位置条件查找地理对象的分析方法。",
+      "属性查图形：根据属性条件定位空间对象。；图形查属性：根据空间位置或范围查询对象属性。",
+      "可以把“空间查询”理解为：空间查询是基于属性条件或空间位置条件查找地理对象的分析方法。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_047",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "按属性查询",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "按属性查询",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "按属性查询是依据属性字段筛选对象，即“属性查图形”。",
+    "core_explanation": "例如查询坡度大于20°区域、土地利用为耕地区域。；适合属性明确、条件清晰的对象筛选。",
+    "plain_explanation": "可以把“按属性查询”理解为：按属性查询是依据属性字段筛选对象，即“属性查图形”。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_047"
+    ],
+    "status": "checked",
+    "key_points": [
+      "按属性查询是依据属性字段筛选对象，即“属性查图形”。",
+      "例如查询坡度大于20°区域、土地利用为耕地区域。；适合属性明确、条件清晰的对象筛选。",
+      "可以把“按属性查询”理解为：按属性查询是依据属性字段筛选对象，即“属性查图形”。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_048",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "按位置查询",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "按位置查询",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "按位置查询是依据空间关系筛选对象，即“图形查属性”。",
+    "core_explanation": "例如查询缓冲区内的居民点、道路沿线的滑坡点。；依赖包含、相交、邻近等空间关系。",
+    "plain_explanation": "可以把“按位置查询”理解为：按位置查询是依据空间关系筛选对象，即“图形查属性”。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_048"
+    ],
+    "status": "checked",
+    "key_points": [
+      "按位置查询是依据空间关系筛选对象，即“图形查属性”。",
+      "例如查询缓冲区内的居民点、道路沿线的滑坡点。；依赖包含、相交、邻近等空间关系。",
+      "可以把“按位置查询”理解为：按位置查询是依据空间关系筛选对象，即“图形查属性”。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_049",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "复合查询",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "复合查询",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "复合查询同时结合属性条件与空间条件筛选对象。",
+    "core_explanation": "例如筛选“坡度大于20°且位于路线500m缓冲区内”的区域。；能表达复杂工程约束。",
+    "plain_explanation": "可以把“复合查询”理解为：复合查询同时结合属性条件与空间条件筛选对象。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_049"
+    ],
+    "status": "checked",
+    "key_points": [
+      "复合查询同时结合属性条件与空间条件筛选对象。",
+      "例如筛选“坡度大于20°且位于路线500m缓冲区内”的区域。；能表达复杂工程约束。",
+      "可以把“复合查询”理解为：复合查询同时结合属性条件与空间条件筛选对象。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_050",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "地址匹配",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "地址匹配",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "地址匹配是将地址文本或里程位置转换为地图上的空间位置。",
+    "core_explanation": "可用于事故记录、设施地址和监测点位置落图。；需要地址库或线性参考系统支持。",
+    "plain_explanation": "可以把“地址匹配”理解为：地址匹配是将地址文本或里程位置转换为地图上的空间位置。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_050"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地址匹配是将地址文本或里程位置转换为地图上的空间位置。",
+      "可用于事故记录、设施地址和监测点位置落图。；需要地址库或线性参考系统支持。",
+      "可以把“地址匹配”理解为：地址匹配是将地址文本或里程位置转换为地图上的空间位置。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_051",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "缓冲区分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "缓冲区分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "缓冲区分析是在点、线或面对象周围按给定距离构建影响范围，用于邻近性评价。",
+    "core_explanation": "缓冲区表示距离对象不超过给定阈值的空间区域。；点、线、面均可构建缓冲区。",
+    "plain_explanation": "可以把“缓冲区分析”理解为：缓冲区分析是在点、线或面对象周围按给定距离构建影响范围，用于邻近性评价。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_051"
+    ],
+    "status": "checked",
+    "key_points": [
+      "缓冲区分析是在点、线或面对象周围按给定距离构建影响范围，用于邻近性评价。",
+      "缓冲区表示距离对象不超过给定阈值的空间区域。；点、线、面均可构建缓冲区。",
+      "可以把“缓冲区分析”理解为：缓冲区分析是在点、线或面对象周围按给定距离构建影响范围，用于邻近性评价。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_052",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "点缓冲区",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "点缓冲区",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "点缓冲区是在点要素周围构建圆形或近似圆形影响范围。",
+    "core_explanation": "适用于服务设施、监测点、危险源、事故点影响范围分析。；半径可表示服务半径、风险半径或调查范围。",
+    "plain_explanation": "可以把“点缓冲区”理解为：点缓冲区是在点要素周围构建圆形或近似圆形影响范围。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_052"
+    ],
+    "status": "checked",
+    "key_points": [
+      "点缓冲区是在点要素周围构建圆形或近似圆形影响范围。",
+      "适用于服务设施、监测点、危险源、事故点影响范围分析。；半径可表示服务半径、风险半径或调查范围。",
+      "可以把“点缓冲区”理解为：点缓冲区是在点要素周围构建圆形或近似圆形影响范围。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_053",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "线缓冲区",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "线缓冲区",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "线缓冲区是沿线要素两侧构建一定宽度的带状影响范围。",
+    "core_explanation": "适用于道路、河流、管线、铁路等线性对象。；道路工程中常用于路域控制线、噪声影响带和施工影响带分析。",
+    "plain_explanation": "可以把“线缓冲区”理解为：线缓冲区是沿线要素两侧构建一定宽度的带状影响范围。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_053"
+    ],
+    "status": "checked",
+    "key_points": [
+      "线缓冲区是沿线要素两侧构建一定宽度的带状影响范围。",
+      "适用于道路、河流、管线、铁路等线性对象。；道路工程中常用于路域控制线、噪声影响带和施工影响带分析。",
+      "可以把“线缓冲区”理解为：线缓冲区是沿线要素两侧构建一定宽度的带状影响范围。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_054",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "面缓冲区",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "面缓冲区",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "面缓冲区是在面要素边界外扩或内缩形成的影响区域。",
+    "core_explanation": "适用于保护区、用地边界、湖泊和灾害区。；可用于控制区外扩、退让距离和安全距离分析。",
+    "plain_explanation": "可以把“面缓冲区”理解为：面缓冲区是在面要素边界外扩或内缩形成的影响区域。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_054"
+    ],
+    "status": "checked",
+    "key_points": [
+      "面缓冲区是在面要素边界外扩或内缩形成的影响区域。",
+      "适用于保护区、用地边界、湖泊和灾害区。；可用于控制区外扩、退让距离和安全距离分析。",
+      "可以把“面缓冲区”理解为：面缓冲区是在面要素边界外扩或内缩形成的影响区域。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_055",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "叠加分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "叠加分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "叠加分析将多个图层在同一空间参照下进行几何和属性融合，以识别复合空间关系。",
+    "core_explanation": "叠加分析是多因素综合评价的重要手段。；可分为视觉叠加、点与面叠加、线与面叠加、多边形叠加和栅格叠加。",
+    "plain_explanation": "可以把“叠加分析”理解为：叠加分析将多个图层在同一空间参照下进行几何和属性融合，以识别复合空间关系。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_055"
+    ],
+    "status": "checked",
+    "key_points": [
+      "叠加分析将多个图层在同一空间参照下进行几何和属性融合，以识别复合空间关系。",
+      "叠加分析是多因素综合评价的重要手段。；可分为视觉叠加、点与面叠加、线与面叠加、多边形叠加和栅格叠加。",
+      "可以把“叠加分析”理解为：叠加分析将多个图层在同一空间参照下进行几何和属性融合，以识别复合空间关系。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_056",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "视觉信息叠加",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "视觉信息叠加",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "视觉叠加通过透明度、符号或三维合成同时显示多个图层，不生成新图层。",
+    "core_explanation": "用于定性判断空间关系。；适合快速浏览与方案展示。",
+    "plain_explanation": "可以把“视觉信息叠加”理解为：视觉叠加通过透明度、符号或三维合成同时显示多个图层，不生成新图层。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_056"
+    ],
+    "status": "checked",
+    "key_points": [
+      "视觉叠加通过透明度、符号或三维合成同时显示多个图层，不生成新图层。",
+      "用于定性判断空间关系。；适合快速浏览与方案展示。",
+      "可以把“视觉信息叠加”理解为：视觉叠加通过透明度、符号或三维合成同时显示多个图层，不生成新图层。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_057",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "点与多边形叠加",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "点与多边形叠加",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "点与多边形叠加用于判断点是否位于某个多边形内部，并可将多边形属性赋给点。",
+    "core_explanation": "常用于统计灾害点所在地质区、居民点所在行政区。；核心是点在多边形内的包含判断。",
+    "plain_explanation": "可以把“点与多边形叠加”理解为：点与多边形叠加用于判断点是否位于某个多边形内部，并可将多边形属性赋给点。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_057"
+    ],
+    "status": "checked",
+    "key_points": [
+      "点与多边形叠加用于判断点是否位于某个多边形内部，并可将多边形属性赋给点。",
+      "常用于统计灾害点所在地质区、居民点所在行政区。；核心是点在多边形内的包含判断。",
+      "可以把“点与多边形叠加”理解为：点与多边形叠加用于判断点是否位于某个多边形内部，并可将多边形属性赋给点。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_058",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "线与多边形叠加",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "线与多边形叠加",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "线与多边形叠加用于判断线要素穿越、相交或位于多边形区域中的关系。",
+    "core_explanation": "常用于判断路线穿越生态红线、地质灾害区或土地利用类型。；可切割线段并赋予区域属性。",
+    "plain_explanation": "可以把“线与多边形叠加”理解为：线与多边形叠加用于判断线要素穿越、相交或位于多边形区域中的关系。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_058"
+    ],
+    "status": "checked",
+    "key_points": [
+      "线与多边形叠加用于判断线要素穿越、相交或位于多边形区域中的关系。",
+      "常用于判断路线穿越生态红线、地质灾害区或土地利用类型。；可切割线段并赋予区域属性。",
+      "可以把“线与多边形叠加”理解为：线与多边形叠加用于判断线要素穿越、相交或位于多边形区域中的关系。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_059",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "多边形叠加分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "多边形叠加分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "多边形叠加通过几何求交和属性融合生成包含多重属性的新多边形图层。",
+    "core_explanation": "第一步是几何求交并重构拓扑。；第二步是将输入图层属性融合到新图斑。",
+    "plain_explanation": "可以把“多边形叠加分析”理解为：多边形叠加通过几何求交和属性融合生成包含多重属性的新多边形图层。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_059"
+    ],
+    "status": "checked",
+    "key_points": [
+      "多边形叠加通过几何求交和属性融合生成包含多重属性的新多边形图层。",
+      "第一步是几何求交并重构拓扑。；第二步是将输入图层属性融合到新图斑。",
+      "可以把“多边形叠加分析”理解为：多边形叠加通过几何求交和属性融合生成包含多重属性的新多边形图层。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_060",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "栅格图层叠加/地图代数",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "栅格图层叠加/地图代数",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "栅格图层叠加通过逐像元数学运算对多个栅格进行组合，常称为地图代数。",
+    "core_explanation": "可对坡度、土地利用、灾害风险等栅格赋权叠加。；适合适宜性评价和成本面构建。",
+    "plain_explanation": "可以把“栅格图层叠加/地图代数”理解为：栅格图层叠加通过逐像元数学运算对多个栅格进行组合，常称为地图代数。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_060"
+    ],
+    "status": "checked",
+    "key_points": [
+      "栅格图层叠加通过逐像元数学运算对多个栅格进行组合，常称为地图代数。",
+      "可对坡度、土地利用、灾害风险等栅格赋权叠加。；适合适宜性评价和成本面构建。",
+      "可以把“栅格图层叠加/地图代数”理解为：栅格图层叠加通过逐像元数学运算对多个栅格进行组合，常称为地图代数。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_061",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "栅格数据空间分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "栅格数据空间分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "栅格空间分析以像元为基本计算单元，侧重对连续表面的量化计算。",
+    "core_explanation": "栅格分析包括局部、邻域、区域和距离分析。；适合DEM、遥感影像、坡度、成本面等连续或分类表面。",
+    "plain_explanation": "可以把“栅格数据空间分析”理解为：栅格空间分析以像元为基本计算单元，侧重对连续表面的量化计算。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_061"
+    ],
+    "status": "checked",
+    "key_points": [
+      "栅格空间分析以像元为基本计算单元，侧重对连续表面的量化计算。",
+      "栅格分析包括局部、邻域、区域和距离分析。；适合DEM、遥感影像、坡度、成本面等连续或分类表面。",
+      "可以把“栅格数据空间分析”理解为：栅格空间分析以像元为基本计算单元，侧重对连续表面的量化计算。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_062",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "局部分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "局部分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "局部分析对每个像元独立或逐像元计算，不考虑邻域范围。",
+    "core_explanation": "典型方法包括重分类和地图代数。；适合栅格赋值转换、条件判断和多因子叠加。",
+    "plain_explanation": "可以把“局部分析”理解为：局部分析对每个像元独立或逐像元计算，不考虑邻域范围。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_062"
+    ],
+    "status": "checked",
+    "key_points": [
+      "局部分析对每个像元独立或逐像元计算，不考虑邻域范围。",
+      "典型方法包括重分类和地图代数。；适合栅格赋值转换、条件判断和多因子叠加。",
+      "可以把“局部分析”理解为：局部分析对每个像元独立或逐像元计算，不考虑邻域范围。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_063",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "栅格重分类",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "栅格重分类",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "栅格重分类是按阈值或类别规则重新赋值，将原始像元值转换为新的等级或成本。",
+    "core_explanation": "可将坡度分为适宜、限制、禁止等级。；常用于适宜性评价和成本面构建。",
+    "plain_explanation": "可以把“栅格重分类”理解为：栅格重分类是按阈值或类别规则重新赋值，将原始像元值转换为新的等级或成本。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_063"
+    ],
+    "status": "checked",
+    "key_points": [
+      "栅格重分类是按阈值或类别规则重新赋值，将原始像元值转换为新的等级或成本。",
+      "可将坡度分为适宜、限制、禁止等级。；常用于适宜性评价和成本面构建。",
+      "可以把“栅格重分类”理解为：栅格重分类是按阈值或类别规则重新赋值，将原始像元值转换为新的等级或成本。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_064",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "地图代数",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "地图代数",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "地图代数是对一个或多个栅格图层进行逐像元数学运算。",
+    "core_explanation": "可执行加、减、乘、除、条件判断和权重叠加。；两期DEM相减可分析地表高程变化。",
+    "plain_explanation": "可以把“地图代数”理解为：地图代数是对一个或多个栅格图层进行逐像元数学运算。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_064"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地图代数是对一个或多个栅格图层进行逐像元数学运算。",
+      "可执行加、减、乘、除、条件判断和权重叠加。；两期DEM相减可分析地表高程变化。",
+      "可以把“地图代数”理解为：地图代数是对一个或多个栅格图层进行逐像元数学运算。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_065",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "邻域分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "邻域分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "邻域分析根据目标像元周围一定窗口内的像元值计算结果。",
+    "core_explanation": "坡度、坡向、曲率等地形因子属于邻域计算。；邻域大小会影响结果平滑程度和局部敏感性。",
+    "plain_explanation": "可以把“邻域分析”理解为：邻域分析根据目标像元周围一定窗口内的像元值计算结果。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_065"
+    ],
+    "status": "checked",
+    "key_points": [
+      "邻域分析根据目标像元周围一定窗口内的像元值计算结果。",
+      "坡度、坡向、曲率等地形因子属于邻域计算。；邻域大小会影响结果平滑程度和局部敏感性。",
+      "可以把“邻域分析”理解为：邻域分析根据目标像元周围一定窗口内的像元值计算结果。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_066",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "区域分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "区域分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "区域分析在指定区域单元内统计或汇总像元值。",
+    "core_explanation": "区域可由行政区、流域、缓冲区或地块定义。；可统计区域平均坡度、最大高程、土地利用比例。",
+    "plain_explanation": "可以把“区域分析”理解为：区域分析在指定区域单元内统计或汇总像元值。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_066"
+    ],
+    "status": "checked",
+    "key_points": [
+      "区域分析在指定区域单元内统计或汇总像元值。",
+      "区域可由行政区、流域、缓冲区或地块定义。；可统计区域平均坡度、最大高程、土地利用比例。",
+      "可以把“区域分析”理解为：区域分析在指定区域单元内统计或汇总像元值。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_067",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "距离分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "距离分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "距离分析用于测算每个像元到指定源点或源对象的距离或可达成本。",
+    "core_explanation": "欧氏距离反映几何直线距离。；成本距离引入坡度、地类或阻力因子。",
+    "plain_explanation": "可以把“距离分析”理解为：距离分析用于测算每个像元到指定源点或源对象的距离或可达成本。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_067"
+    ],
+    "status": "checked",
+    "key_points": [
+      "距离分析用于测算每个像元到指定源点或源对象的距离或可达成本。",
+      "欧氏距离反映几何直线距离。；成本距离引入坡度、地类或阻力因子。",
+      "可以把“距离分析”理解为：距离分析用于测算每个像元到指定源点或源对象的距离或可达成本。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_068",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "欧氏距离",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "欧氏距离",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "欧氏距离直接计算像元到源点的几何距离，适合阻力均匀的理想平面场景。",
+    "core_explanation": "计算简单、直观。；不考虑坡度、障碍和土地利用差异。",
+    "plain_explanation": "可以把“欧氏距离”理解为：欧氏距离直接计算像元到源点的几何距离，适合阻力均匀的理想平面场景。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_068"
+    ],
+    "status": "checked",
+    "key_points": [
+      "欧氏距离直接计算像元到源点的几何距离，适合阻力均匀的理想平面场景。",
+      "计算简单、直观。；不考虑坡度、障碍和土地利用差异。",
+      "可以把“欧氏距离”理解为：欧氏距离直接计算像元到源点的几何距离，适合阻力均匀的理想平面场景。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_069",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "成本距离",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "成本距离",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "成本距离在距离计算中引入栅格阻力或代价因子，反映穿越不同空间单元的实际代价差异。",
+    "core_explanation": "阻力因子可来自坡度、地表类型、生态敏感度、施工风险等。；是最小成本路径和综合选线模型基础。",
+    "plain_explanation": "可以把“成本距离”理解为：成本距离在距离计算中引入栅格阻力或代价因子，反映穿越不同空间单元的实际代价差异。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_069"
+    ],
+    "status": "checked",
+    "key_points": [
+      "成本距离在距离计算中引入栅格阻力或代价因子，反映穿越不同空间单元的实际代价差异。",
+      "阻力因子可来自坡度、地表类型、生态敏感度、施工风险等。；是最小成本路径和综合选线模型基础。",
+      "可以把“成本距离”理解为：成本距离在距离计算中引入栅格阻力或代价因子，反映穿越不同空间单元的实际代价差异。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_070",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "数字地形分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "数字地形分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "数字地形分析基于DEM等地形数据提取地形因子，揭示地表形态与工程适宜性。",
+    "core_explanation": "常见因子包括坡度、坡向、曲率、起伏度、切割深度和视域。；服务于路线选线、排水设计、景观分析和安全评价。",
+    "plain_explanation": "可以把“数字地形分析”理解为：数字地形分析基于DEM等地形数据提取地形因子，揭示地表形态与工程适宜性。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_070"
+    ],
+    "status": "checked",
+    "key_points": [
+      "数字地形分析基于DEM等地形数据提取地形因子，揭示地表形态与工程适宜性。",
+      "常见因子包括坡度、坡向、曲率、起伏度、切割深度和视域。；服务于路线选线、排水设计、景观分析和安全评价。",
+      "可以把“数字地形分析”理解为：数字地形分析基于DEM等地形数据提取地形因子，揭示地表形态与工程适宜性。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_071",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "坡度",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "坡度",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "坡度表示地表单元的倾斜程度，是道路选线和纵坡控制的重要地形因子。",
+    "core_explanation": "坡度越大，路线布设、施工和运营难度通常越高。；坡度可用于识别陡坡区和工程限制区。",
+    "plain_explanation": "可以把“坡度”理解为：坡度表示地表单元的倾斜程度，是道路选线和纵坡控制的重要地形因子。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_071"
+    ],
+    "status": "checked",
+    "key_points": [
+      "坡度表示地表单元的倾斜程度，是道路选线和纵坡控制的重要地形因子。",
+      "坡度越大，路线布设、施工和运营难度通常越高。；坡度可用于识别陡坡区和工程限制区。",
+      "可以把“坡度”理解为：坡度表示地表单元的倾斜程度，是道路选线和纵坡控制的重要地形因子。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_072",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "坡向",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "坡向",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "坡向表示地表单元倾斜方向，影响日照、积雪、排水和边坡稳定条件。",
+    "core_explanation": "坡向可辅助判断阴坡阳坡、冻融和植被差异。；山区道路选线应关注坡向与气候、地质条件的关系。",
+    "plain_explanation": "可以把“坡向”理解为：坡向表示地表单元倾斜方向，影响日照、积雪、排水和边坡稳定条件。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_072"
+    ],
+    "status": "checked",
+    "key_points": [
+      "坡向表示地表单元倾斜方向，影响日照、积雪、排水和边坡稳定条件。",
+      "坡向可辅助判断阴坡阳坡、冻融和植被差异。；山区道路选线应关注坡向与气候、地质条件的关系。",
+      "可以把“坡向”理解为：坡向表示地表单元倾斜方向，影响日照、积雪、排水和边坡稳定条件。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_073",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "地表曲率",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "地表曲率",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "地表曲率表示地形表面的弯曲程度，反映地表水流汇聚、发散与坡面形态。",
+    "core_explanation": "剖面曲率影响坡面水流加速或减速。；平面曲率影响水流汇聚或发散。",
+    "plain_explanation": "可以把“地表曲率”理解为：地表曲率表示地形表面的弯曲程度，反映地表水流汇聚、发散与坡面形态。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_073"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地表曲率表示地形表面的弯曲程度，反映地表水流汇聚、发散与坡面形态。",
+      "剖面曲率影响坡面水流加速或减速。；平面曲率影响水流汇聚或发散。",
+      "可以把“地表曲率”理解为：地表曲率表示地形表面的弯曲程度，反映地表水流汇聚、发散与坡面形态。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_074",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "剖面曲率",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "剖面曲率",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "剖面曲率沿最大坡降方向描述地形剖面的弯曲变化。",
+    "core_explanation": "正负曲率反映坡面凸凹和水流加减速。；与纵向排水、冲刷和坡面稳定有关。",
+    "plain_explanation": "可以把“剖面曲率”理解为：剖面曲率沿最大坡降方向描述地形剖面的弯曲变化。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_074"
+    ],
+    "status": "checked",
+    "key_points": [
+      "剖面曲率沿最大坡降方向描述地形剖面的弯曲变化。",
+      "正负曲率反映坡面凸凹和水流加减速。；与纵向排水、冲刷和坡面稳定有关。",
+      "可以把“剖面曲率”理解为：剖面曲率沿最大坡降方向描述地形剖面的弯曲变化。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_075",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "平面曲率",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "平面曲率",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "平面曲率沿等高线方向描述地形平面的弯曲变化。",
+    "core_explanation": "反映水流在平面上的汇聚或发散趋势。；汇聚区可能形成冲沟或积水。",
+    "plain_explanation": "可以把“平面曲率”理解为：平面曲率沿等高线方向描述地形平面的弯曲变化。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_075"
+    ],
+    "status": "checked",
+    "key_points": [
+      "平面曲率沿等高线方向描述地形平面的弯曲变化。",
+      "反映水流在平面上的汇聚或发散趋势。；汇聚区可能形成冲沟或积水。",
+      "可以把“平面曲率”理解为：平面曲率沿等高线方向描述地形平面的弯曲变化。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_076",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "地表起伏度",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "地表起伏度",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "地表起伏度反映一定区域内高程差异的大小，是宏观地形复杂程度指标。",
+    "core_explanation": "起伏度越大，地形越复杂。；适合评价山区线路走廊的工程难度。",
+    "plain_explanation": "可以把“地表起伏度”理解为：地表起伏度反映一定区域内高程差异的大小，是宏观地形复杂程度指标。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_076"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地表起伏度反映一定区域内高程差异的大小，是宏观地形复杂程度指标。",
+      "起伏度越大，地形越复杂。；适合评价山区线路走廊的工程难度。",
+      "可以把“地表起伏度”理解为：地表起伏度反映一定区域内高程差异的大小，是宏观地形复杂程度指标。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_077",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "地形切割深度",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "地形切割深度",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "地形切割深度反映地表被沟谷切割的垂向程度。",
+    "core_explanation": "切割深度大通常表示沟谷深、地形破碎。；影响桥隧比例、填挖方和施工难度。",
+    "plain_explanation": "可以把“地形切割深度”理解为：地形切割深度反映地表被沟谷切割的垂向程度。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_077"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地形切割深度反映地表被沟谷切割的垂向程度。",
+      "切割深度大通常表示沟谷深、地形破碎。；影响桥隧比例、填挖方和施工难度。",
+      "可以把“地形切割深度”理解为：地形切割深度反映地表被沟谷切割的垂向程度。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_078",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "地形切割密度",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "地形切割密度",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "地形切割密度反映单位面积内沟谷或切割线的密集程度。",
+    "core_explanation": "切割密度大表示地形破碎程度高。；对路线展线、桥涵布设和施工组织有影响。",
+    "plain_explanation": "可以把“地形切割密度”理解为：地形切割密度反映单位面积内沟谷或切割线的密集程度。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_078"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地形切割密度反映单位面积内沟谷或切割线的密集程度。",
+      "切割密度大表示地形破碎程度高。；对路线展线、桥涵布设和施工组织有影响。",
+      "可以把“地形切割密度”理解为：地形切割密度反映单位面积内沟谷或切割线的密集程度。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_079",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec02",
+    "title": "视域分析",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "空间分析",
+      "矢量分析",
+      "栅格分析",
+      "道路工程",
+      "GIS"
+    ],
+    "aliases": [
+      "视域分析",
+      "空间分析",
+      "矢量分析",
+      "栅格分析"
+    ],
+    "definition": "视域分析用于判断从观察点或线路上哪些区域可见，哪些区域被地形遮挡。",
+    "core_explanation": "依赖DEM或三维地形模型进行通视判断。；可用于景观评价、安全视距和沿线可视影响分析。",
+    "plain_explanation": "可以把“视域分析”理解为：视域分析用于判断从观察点或线路上哪些区域可见，哪些区域被地形遮挡。",
+    "engineering_meaning": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "application_scenario": "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。",
+    "common_mistakes": [
+      "把空间分析结果当成绝对结论，忽视数据精度、尺度和参数选择对结果的影响"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_079"
+    ],
+    "status": "checked",
+    "key_points": [
+      "视域分析用于判断从观察点或线路上哪些区域可见，哪些区域被地形遮挡。",
+      "依赖DEM或三维地形模型进行通视判断。；可用于景观评价、安全视距和沿线可视影响分析。",
+      "可以把“视域分析”理解为：视域分析用于判断从观察点或线路上哪些区域可见，哪些区域被地形遮挡。",
+      "道路环境影响评价、路线方案比选、选线成本面构建、排水与景观分析。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_080",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "空间自相关性",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "空间自相关性",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "空间自相关性描述空间上相近对象属性值是否具有相似或相异关系，是空间统计和插值分析的基础。",
+    "core_explanation": "正相关表示相似值聚集。；负相关表示相异值邻近或离散。",
+    "plain_explanation": "可以把“空间自相关性”理解为：空间自相关性描述空间上相近对象属性值是否具有相似或相异关系，是空间统计和插值分析的基础。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_080"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间自相关性描述空间上相近对象属性值是否具有相似或相异关系，是空间统计和插值分析的基础。",
+      "正相关表示相似值聚集。；负相关表示相异值邻近或离散。",
+      "可以把“空间自相关性”理解为：空间自相关性描述空间上相近对象属性值是否具有相似或相异关系，是空间统计和插值分析的基础。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_081",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "正空间自相关",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "正空间自相关",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "正空间自相关表示高值与高值邻近、低值与低值邻近，空间对象呈聚集分布。",
+    "core_explanation": "常见于污染、灾害、资源富集等现象。；意味着存在稳定空间结构，通常有利于插值预测。",
+    "plain_explanation": "可以把“正空间自相关”理解为：正空间自相关表示高值与高值邻近、低值与低值邻近，空间对象呈聚集分布。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_081"
+    ],
+    "status": "checked",
+    "key_points": [
+      "正空间自相关表示高值与高值邻近、低值与低值邻近，空间对象呈聚集分布。",
+      "常见于污染、灾害、资源富集等现象。；意味着存在稳定空间结构，通常有利于插值预测。",
+      "可以把“正空间自相关”理解为：正空间自相关表示高值与高值邻近、低值与低值邻近，空间对象呈聚集分布。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_082",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "负空间自相关",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "负空间自相关",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "负空间自相关表示高值与低值相邻，空间对象呈交错或离散格局。",
+    "core_explanation": "意味着相邻对象差异显著。；可能表示竞争、排斥或规则间隔。",
+    "plain_explanation": "可以把“负空间自相关”理解为：负空间自相关表示高值与低值相邻，空间对象呈交错或离散格局。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_082"
+    ],
+    "status": "checked",
+    "key_points": [
+      "负空间自相关表示高值与低值相邻，空间对象呈交错或离散格局。",
+      "意味着相邻对象差异显著。；可能表示竞争、排斥或规则间隔。",
+      "可以把“负空间自相关”理解为：负空间自相关表示高值与低值相邻，空间对象呈交错或离散格局。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_083",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "随机空间分布",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "随机空间分布",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "随机空间分布表示属性值在空间上缺乏明显聚集或离散规律。",
+    "core_explanation": "Moran指数通常接近0。；不宜简单假设相邻点更相似。",
+    "plain_explanation": "可以把“随机空间分布”理解为：随机空间分布表示属性值在空间上缺乏明显聚集或离散规律。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_083"
+    ],
+    "status": "checked",
+    "key_points": [
+      "随机空间分布表示属性值在空间上缺乏明显聚集或离散规律。",
+      "Moran指数通常接近0。；不宜简单假设相邻点更相似。",
+      "可以把“随机空间分布”理解为：随机空间分布表示属性值在空间上缺乏明显聚集或离散规律。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_084",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "全局莫兰指数 Moran's I",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "全局莫兰指数Moran'sI",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "全局莫兰指数用于度量研究区域整体空间自相关程度，判断属性值整体上是聚集、离散还是随机。",
+    "core_explanation": "I>0表示空间正相关，越接近+1聚集性越强。；I<0表示空间负相关，越接近-1离散性越强。",
+    "plain_explanation": "可以把“全局莫兰指数 Moran's I”理解为：全局莫兰指数用于度量研究区域整体空间自相关程度，判断属性值整体上是聚集、离散还是随机。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_084"
+    ],
+    "status": "checked",
+    "key_points": [
+      "全局莫兰指数用于度量研究区域整体空间自相关程度，判断属性值整体上是聚集、离散还是随机。",
+      "I>0表示空间正相关，越接近+1聚集性越强。；I<0表示空间负相关，越接近-1离散性越强。",
+      "可以把“全局莫兰指数 Moran's I”理解为：全局莫兰指数用于度量研究区域整体空间自相关程度，判断属性值整体上是聚集、离散还是随机。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_085",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "空间权重矩阵",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "空间权重矩阵",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "空间权重矩阵用于定义空间对象之间的邻近或影响关系，是计算空间自相关指标的基础。",
+    "core_explanation": "权重可基于邻接关系、距离阈值或距离衰减构建。；权重定义会影响Moran指数和热点分析结果。",
+    "plain_explanation": "可以把“空间权重矩阵”理解为：空间权重矩阵用于定义空间对象之间的邻近或影响关系，是计算空间自相关指标的基础。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_085"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间权重矩阵用于定义空间对象之间的邻近或影响关系，是计算空间自相关指标的基础。",
+      "权重可基于邻接关系、距离阈值或距离衰减构建。；权重定义会影响Moran指数和热点分析结果。",
+      "可以把“空间权重矩阵”理解为：空间权重矩阵用于定义空间对象之间的邻近或影响关系，是计算空间自相关指标的基础。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_086",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "局部自相关 LISA",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "局部自相关LISA",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "局部自相关用于识别局部区域中的热点、冷点和空间异常单元。",
+    "core_explanation": "与全局指标不同，LISA强调局部位置。；可发现高-高、低-低、高-低、低-高等空间模式。",
+    "plain_explanation": "可以把“局部自相关 LISA”理解为：局部自相关用于识别局部区域中的热点、冷点和空间异常单元。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_086"
+    ],
+    "status": "checked",
+    "key_points": [
+      "局部自相关用于识别局部区域中的热点、冷点和空间异常单元。",
+      "与全局指标不同，LISA强调局部位置。；可发现高-高、低-低、高-低、低-高等空间模式。",
+      "可以把“局部自相关 LISA”理解为：局部自相关用于识别局部区域中的热点、冷点和空间异常单元。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_087",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "局部莫兰指数",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "局部莫兰指数",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "局部莫兰指数用于衡量单个位置与其邻近对象的空间关联类型。",
+    "core_explanation": "可识别局部聚集和空间离群点。；适合判断某一灾害点周边是否形成聚集。",
+    "plain_explanation": "可以把“局部莫兰指数”理解为：局部莫兰指数用于衡量单个位置与其邻近对象的空间关联类型。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_087"
+    ],
+    "status": "checked",
+    "key_points": [
+      "局部莫兰指数用于衡量单个位置与其邻近对象的空间关联类型。",
+      "可识别局部聚集和空间离群点。；适合判断某一灾害点周边是否形成聚集。",
+      "可以把“局部莫兰指数”理解为：局部莫兰指数用于衡量单个位置与其邻近对象的空间关联类型。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_088",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "Getis-Ord Gi*指数",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "Getis-OrdGi*指数",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "Getis-Ord Gi*指数用于识别高值或低值聚集区域，即热点和冷点。",
+    "core_explanation": "高Gi*值通常表示高值热点。；低Gi*值通常表示低值冷点。",
+    "plain_explanation": "可以把“Getis-Ord Gi*指数”理解为：Getis-Ord Gi*指数用于识别高值或低值聚集区域，即热点和冷点。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_088"
+    ],
+    "status": "checked",
+    "key_points": [
+      "Getis-Ord Gi*指数用于识别高值或低值聚集区域，即热点和冷点。",
+      "高Gi*值通常表示高值热点。；低Gi*值通常表示低值冷点。",
+      "可以把“Getis-Ord Gi*指数”理解为：Getis-Ord Gi*指数用于识别高值或低值聚集区域，即热点和冷点。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_089",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "空间插值",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "核心",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "空间插值",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "空间插值是利用已知样本点属性值估计未知位置属性值的方法，用于从离散点构建连续表面。",
+    "core_explanation": "基于“空间相近者更相似”的基本思想。；可分为确定性插值和地统计插值。",
+    "plain_explanation": "可以把“空间插值”理解为：空间插值是利用已知样本点属性值估计未知位置属性值的方法，用于从离散点构建连续表面。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_089"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间插值是利用已知样本点属性值估计未知位置属性值的方法，用于从离散点构建连续表面。",
+      "基于“空间相近者更相似”的基本思想。；可分为确定性插值和地统计插值。",
+      "可以把“空间插值”理解为：空间插值是利用已知样本点属性值估计未知位置属性值的方法，用于从离散点构建连续表面。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_090",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "确定性插值",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "确定性插值",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "确定性插值依赖距离或数学函数进行估计，不显式建立随机空间相关模型。",
+    "core_explanation": "模型直观，计算效率高。；常见方法包括IDW、TIN插值和样条函数插值。",
+    "plain_explanation": "可以把“确定性插值”理解为：确定性插值依赖距离或数学函数进行估计，不显式建立随机空间相关模型。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_090"
+    ],
+    "status": "checked",
+    "key_points": [
+      "确定性插值依赖距离或数学函数进行估计，不显式建立随机空间相关模型。",
+      "模型直观，计算效率高。；常见方法包括IDW、TIN插值和样条函数插值。",
+      "可以把“确定性插值”理解为：确定性插值依赖距离或数学函数进行估计，不显式建立随机空间相关模型。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_091",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "地统计插值",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "地统计插值",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "地统计插值基于空间自相关理论建立统计模型，可同时给出预测值和不确定性评价。",
+    "core_explanation": "典型方法是克里金插值。；需要构建和拟合变异函数。",
+    "plain_explanation": "可以把“地统计插值”理解为：地统计插值基于空间自相关理论建立统计模型，可同时给出预测值和不确定性评价。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_091"
+    ],
+    "status": "checked",
+    "key_points": [
+      "地统计插值基于空间自相关理论建立统计模型，可同时给出预测值和不确定性评价。",
+      "典型方法是克里金插值。；需要构建和拟合变异函数。",
+      "可以把“地统计插值”理解为：地统计插值基于空间自相关理论建立统计模型，可同时给出预测值和不确定性评价。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_092",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "反距离加权 IDW",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "反距离加权IDW",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "IDW根据距离对周边样本点赋权，距离越近权重越大。",
+    "core_explanation": "核心假设是相近者影响大、远者影响小。；权重幂次控制距离衰减速度。",
+    "plain_explanation": "可以把“反距离加权 IDW”理解为：IDW根据距离对周边样本点赋权，距离越近权重越大。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_092"
+    ],
+    "status": "checked",
+    "key_points": [
+      "IDW根据距离对周边样本点赋权，距离越近权重越大。",
+      "核心假设是相近者影响大、远者影响小。；权重幂次控制距离衰减速度。",
+      "可以把“反距离加权 IDW”理解为：IDW根据距离对周边样本点赋权，距离越近权重越大。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_093",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "IDW权重幂次参数",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "IDW权重幂次参数",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "IDW权重幂次参数控制权重随距离增大而衰减的速度。",
+    "core_explanation": "幂次越高，近处点影响越强。；幂次过高可能导致插值表面局部突变。",
+    "plain_explanation": "可以把“IDW权重幂次参数”理解为：IDW权重幂次参数控制权重随距离增大而衰减的速度。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_093"
+    ],
+    "status": "checked",
+    "key_points": [
+      "IDW权重幂次参数控制权重随距离增大而衰减的速度。",
+      "幂次越高，近处点影响越强。；幂次过高可能导致插值表面局部突变。",
+      "可以把“IDW权重幂次参数”理解为：IDW权重幂次参数控制权重随距离增大而衰减的速度。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_094",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "TIN插值",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "TIN插值",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "TIN插值基于不规则三角网在三角形内部进行线性或局部表面估计。",
+    "core_explanation": "适合地形采样点不规则分布。；能较好保留地形断裂和采样点精度。",
+    "plain_explanation": "可以把“TIN插值”理解为：TIN插值基于不规则三角网在三角形内部进行线性或局部表面估计。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_094"
+    ],
+    "status": "checked",
+    "key_points": [
+      "TIN插值基于不规则三角网在三角形内部进行线性或局部表面估计。",
+      "适合地形采样点不规则分布。；能较好保留地形断裂和采样点精度。",
+      "可以把“TIN插值”理解为：TIN插值基于不规则三角网在三角形内部进行线性或局部表面估计。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_095",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "样条函数插值",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "样条函数插值",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "样条函数插值通过光滑曲面拟合样本点，生成连续平滑的预测表面。",
+    "core_explanation": "适合生成平滑变化的连续表面。；可能在局部剧烈变化处产生过度平滑。",
+    "plain_explanation": "可以把“样条函数插值”理解为：样条函数插值通过光滑曲面拟合样本点，生成连续平滑的预测表面。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_095"
+    ],
+    "status": "checked",
+    "key_points": [
+      "样条函数插值通过光滑曲面拟合样本点，生成连续平滑的预测表面。",
+      "适合生成平滑变化的连续表面。；可能在局部剧烈变化处产生过度平滑。",
+      "可以把“样条函数插值”理解为：样条函数插值通过光滑曲面拟合样本点，生成连续平滑的预测表面。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_096",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "变异函数",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "变异函数",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "变异函数描述样本值差异随空间距离变化的规律，是克里金插值的基础模型。",
+    "core_explanation": "用于揭示变量在空间中的结构模式。；典型参数包括块金值、基台值和变程。",
+    "plain_explanation": "可以把“变异函数”理解为：变异函数描述样本值差异随空间距离变化的规律，是克里金插值的基础模型。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_096"
+    ],
+    "status": "checked",
+    "key_points": [
+      "变异函数描述样本值差异随空间距离变化的规律，是克里金插值的基础模型。",
+      "用于揭示变量在空间中的结构模式。；典型参数包括块金值、基台值和变程。",
+      "可以把“变异函数”理解为：变异函数描述样本值差异随空间距离变化的规律，是克里金插值的基础模型。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_097",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "块金值 Nugget",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "块金值Nugget",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "块金值是距离趋近于零时变异函数的值，反映测量误差或微尺度变异。",
+    "core_explanation": "块金值大表示局部扰动或误差显著。；会降低近距离样本的相关性解释能力。",
+    "plain_explanation": "可以把“块金值 Nugget”理解为：块金值是距离趋近于零时变异函数的值，反映测量误差或微尺度变异。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_097"
+    ],
+    "status": "checked",
+    "key_points": [
+      "块金值是距离趋近于零时变异函数的值，反映测量误差或微尺度变异。",
+      "块金值大表示局部扰动或误差显著。；会降低近距离样本的相关性解释能力。",
+      "可以把“块金值 Nugget”理解为：块金值是距离趋近于零时变异函数的值，反映测量误差或微尺度变异。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_098",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "基台值 Sill",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "基台值Sill",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "基台值是变异函数趋于稳定时的最大值，表示超过一定距离后空间相关性基本消失。",
+    "core_explanation": "基台值反映总体变异程度。；与变程共同表征空间相关结构。",
+    "plain_explanation": "可以把“基台值 Sill”理解为：基台值是变异函数趋于稳定时的最大值，表示超过一定距离后空间相关性基本消失。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_098"
+    ],
+    "status": "checked",
+    "key_points": [
+      "基台值是变异函数趋于稳定时的最大值，表示超过一定距离后空间相关性基本消失。",
+      "基台值反映总体变异程度。；与变程共同表征空间相关结构。",
+      "可以把“基台值 Sill”理解为：基台值是变异函数趋于稳定时的最大值，表示超过一定距离后空间相关性基本消失。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_099",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "变程 Range",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "变程Range",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "变程是变异函数达到基台值所对应的距离，表示空间自相关的有效范围。",
+    "core_explanation": "变程以内样本对预测有明显影响。；超过变程的样本影响趋弱。",
+    "plain_explanation": "可以把“变程 Range”理解为：变程是变异函数达到基台值所对应的距离，表示空间自相关的有效范围。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_099"
+    ],
+    "status": "checked",
+    "key_points": [
+      "变程是变异函数达到基台值所对应的距离，表示空间自相关的有效范围。",
+      "变程以内样本对预测有明显影响。；超过变程的样本影响趋弱。",
+      "可以把“变程 Range”理解为：变程是变异函数达到基台值所对应的距离，表示空间自相关的有效范围。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_100",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "克里金插值 Kriging",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "核心",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "克里金插值Kriging",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "克里金插值是一种基于变异函数的最优线性无偏估计方法，通过最优权重估计未知位置值。",
+    "core_explanation": "理论上满足无偏性和最小方差条件。；能提供预测值和预测误差评价。",
+    "plain_explanation": "可以把“克里金插值 Kriging”理解为：克里金插值是一种基于变异函数的最优线性无偏估计方法，通过最优权重估计未知位置值。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_100"
+    ],
+    "status": "checked",
+    "key_points": [
+      "克里金插值是一种基于变异函数的最优线性无偏估计方法，通过最优权重估计未知位置值。",
+      "理论上满足无偏性和最小方差条件。；能提供预测值和预测误差评价。",
+      "可以把“克里金插值 Kriging”理解为：克里金插值是一种基于变异函数的最优线性无偏估计方法，通过最优权重估计未知位置值。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_101",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "克里金预测误差",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "克里金预测误差",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "克里金预测误差反映预测结果的不确定性，是地统计插值区别于确定性插值的重要优势。",
+    "core_explanation": "可用于判断预测可靠性。；误差大区域可能需要补充采样。",
+    "plain_explanation": "可以把“克里金预测误差”理解为：克里金预测误差反映预测结果的不确定性，是地统计插值区别于确定性插值的重要优势。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_101"
+    ],
+    "status": "checked",
+    "key_points": [
+      "克里金预测误差反映预测结果的不确定性，是地统计插值区别于确定性插值的重要优势。",
+      "可用于判断预测可靠性。；误差大区域可能需要补充采样。",
+      "可以把“克里金预测误差”理解为：克里金预测误差反映预测结果的不确定性，是地统计插值区别于确定性插值的重要优势。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_102",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "交叉验证",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "交叉验证",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "交叉验证通过轮流剔除样本点并预测其值来评价模型整体表现。",
+    "core_explanation": "每个样本点既参与模型构建又作为验证点被检验。；适合样本有限时评价插值模型。",
+    "plain_explanation": "可以把“交叉验证”理解为：交叉验证通过轮流剔除样本点并预测其值来评价模型整体表现。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_102"
+    ],
+    "status": "checked",
+    "key_points": [
+      "交叉验证通过轮流剔除样本点并预测其值来评价模型整体表现。",
+      "每个样本点既参与模型构建又作为验证点被检验。；适合样本有限时评价插值模型。",
+      "可以把“交叉验证”理解为：交叉验证通过轮流剔除样本点并预测其值来评价模型整体表现。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_103",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "独立验证集",
+    "knowledge_type": "method",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "独立验证集",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "独立验证集方法使用未参与建模的样本点检验预测结果，更真实评价模型泛化能力。",
+    "core_explanation": "需要额外保留验证数据。；比交叉验证更接近实际预测应用。",
+    "plain_explanation": "可以把“独立验证集”理解为：独立验证集方法使用未参与建模的样本点检验预测结果，更真实评价模型泛化能力。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_103"
+    ],
+    "status": "checked",
+    "key_points": [
+      "独立验证集方法使用未参与建模的样本点检验预测结果，更真实评价模型泛化能力。",
+      "需要额外保留验证数据。；比交叉验证更接近实际预测应用。",
+      "可以把“独立验证集”理解为：独立验证集方法使用未参与建模的样本点检验预测结果，更真实评价模型泛化能力。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_104",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "平均绝对误差 MAE",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "平均绝对误差MAE",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "MAE是预测误差绝对值的平均值，反映预测偏离真实值的平均幅度。",
+    "core_explanation": "MAE直观易解释。；对极端误差不如RMSE敏感。",
+    "plain_explanation": "可以把“平均绝对误差 MAE”理解为：MAE是预测误差绝对值的平均值，反映预测偏离真实值的平均幅度。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_104"
+    ],
+    "status": "checked",
+    "key_points": [
+      "MAE是预测误差绝对值的平均值，反映预测偏离真实值的平均幅度。",
+      "MAE直观易解释。；对极端误差不如RMSE敏感。",
+      "可以把“平均绝对误差 MAE”理解为：MAE是预测误差绝对值的平均值，反映预测偏离真实值的平均幅度。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_105",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "均方根误差 RMSE",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "均方根误差RMSE",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "RMSE先平方误差再平均开方，对较大误差更敏感。",
+    "core_explanation": "RMSE是常用精度衡量指标。；大误差会被放大。",
+    "plain_explanation": "可以把“均方根误差 RMSE”理解为：RMSE先平方误差再平均开方，对较大误差更敏感。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_105"
+    ],
+    "status": "checked",
+    "key_points": [
+      "RMSE先平方误差再平均开方，对较大误差更敏感。",
+      "RMSE是常用精度衡量指标。；大误差会被放大。",
+      "可以把“均方根误差 RMSE”理解为：RMSE先平方误差再平均开方，对较大误差更敏感。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_106",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "趋势面分析",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "趋势面分析",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "趋势面分析用简单曲面拟合空间数据的宏观变化趋势，并通过残差识别局部异常。",
+    "core_explanation": "数学基础是多元多项式回归。；一阶趋势面表示线性变化趋势。",
+    "plain_explanation": "可以把“趋势面分析”理解为：趋势面分析用简单曲面拟合空间数据的宏观变化趋势，并通过残差识别局部异常。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_106"
+    ],
+    "status": "checked",
+    "key_points": [
+      "趋势面分析用简单曲面拟合空间数据的宏观变化趋势，并通过残差识别局部异常。",
+      "数学基础是多元多项式回归。；一阶趋势面表示线性变化趋势。",
+      "可以把“趋势面分析”理解为：趋势面分析用简单曲面拟合空间数据的宏观变化趋势，并通过残差识别局部异常。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_107",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec03",
+    "title": "趋势残差",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "地统计",
+      "空间自相关",
+      "莫兰指数",
+      "插值",
+      "克里金",
+      "趋势面"
+    ],
+    "aliases": [
+      "趋势残差",
+      "地统计",
+      "空间自相关",
+      "莫兰指数"
+    ],
+    "definition": "趋势残差是样本值与趋势面估计值之间的差异，反映局部偏离宏观趋势的程度。",
+    "core_explanation": "残差可用于识别局部异常。；残差分析有助于区分区域趋势与局部扰动。",
+    "plain_explanation": "可以把“趋势残差”理解为：趋势残差是样本值与趋势面估计值之间的差异，反映局部偏离宏观趋势的程度。",
+    "engineering_meaning": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "application_scenario": "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。",
+    "common_mistakes": [
+      "直接做插值而不检验空间自相关或预测误差；把插值结果当作真实观测值"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_107"
+    ],
+    "status": "checked",
+    "key_points": [
+      "趋势残差是样本值与趋势面估计值之间的差异，反映局部偏离宏观趋势的程度。",
+      "残差可用于识别局部异常。；残差分析有助于区分区域趋势与局部扰动。",
+      "可以把“趋势残差”理解为：趋势残差是样本值与趋势面估计值之间的差异，反映局部偏离宏观趋势的程度。",
+      "灾害点空间模式识别、地质属性预测、环境变量连续表面建模。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_108",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "道路网络分析",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "道路网络分析",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "道路网络分析是在具备拓扑结构、通行规则和阻抗属性的网络模型上进行路径、可达性、服务区、OD矩阵和设施布局分析。",
+    "core_explanation": "基础是矢量数据模型和拓扑结构。；核心从“是否连通”扩展为“如何以最优方式到达”。",
+    "plain_explanation": "可以把“道路网络分析”理解为：道路网络分析是在具备拓扑结构、通行规则和阻抗属性的网络模型上进行路径、可达性、服务区、OD矩阵和设施布局分析。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_108"
+    ],
+    "status": "checked",
+    "key_points": [
+      "道路网络分析是在具备拓扑结构、通行规则和阻抗属性的网络模型上进行路径、可达性、服务区、OD矩阵和设施布局分析。",
+      "基础是矢量数据模型和拓扑结构。；核心从“是否连通”扩展为“如何以最优方式到达”。",
+      "可以把“道路网络分析”理解为：道路网络分析是在具备拓扑结构、通行规则和阻抗属性的网络模型上进行路径、可达性、服务区、OD矩阵和设施布局分析。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_109",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "网络数据集",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "网络数据集",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "网络数据集是由边、节点、转向和阻抗等要素构成的高级网络分析模型。",
+    "core_explanation": "相比普通线状图层，网络数据集包含通行规则和成本属性。；可支持路径规划、服务区划分和OD矩阵计算。",
+    "plain_explanation": "可以把“网络数据集”理解为：网络数据集是由边、节点、转向和阻抗等要素构成的高级网络分析模型。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_109"
+    ],
+    "status": "checked",
+    "key_points": [
+      "网络数据集是由边、节点、转向和阻抗等要素构成的高级网络分析模型。",
+      "相比普通线状图层，网络数据集包含通行规则和成本属性。；可支持路径规划、服务区划分和OD矩阵计算。",
+      "可以把“网络数据集”理解为：网络数据集是由边、节点、转向和阻抗等要素构成的高级网络分析模型。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_110",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "网络边 Edges",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "网络边Edges",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "边是网络中可通行的线状要素，代表道路、通道或线路段。",
+    "core_explanation": "边通常具有长度、速度、等级、方向等属性。；边是阻抗计算的基本承载对象。",
+    "plain_explanation": "可以把“网络边 Edges”理解为：边是网络中可通行的线状要素，代表道路、通道或线路段。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_110"
+    ],
+    "status": "checked",
+    "key_points": [
+      "边是网络中可通行的线状要素，代表道路、通道或线路段。",
+      "边通常具有长度、速度、等级、方向等属性。；边是阻抗计算的基本承载对象。",
+      "可以把“网络边 Edges”理解为：边是网络中可通行的线状要素，代表道路、通道或线路段。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_111",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "网络节点 Junctions",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "网络节点Junctions",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "节点是网络中边的连接点，代表交叉口、出入口、站点或连接位置。",
+    "core_explanation": "节点支撑边之间的连通关系。；节点可表达转向、换乘和连接控制。",
+    "plain_explanation": "可以把“网络节点 Junctions”理解为：节点是网络中边的连接点，代表交叉口、出入口、站点或连接位置。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_111"
+    ],
+    "status": "checked",
+    "key_points": [
+      "节点是网络中边的连接点，代表交叉口、出入口、站点或连接位置。",
+      "节点支撑边之间的连通关系。；节点可表达转向、换乘和连接控制。",
+      "可以把“网络节点 Junctions”理解为：节点是网络中边的连接点，代表交叉口、出入口、站点或连接位置。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_112",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "转向 Turns",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "转向Turns",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "转向描述车辆或流在节点处从一条边转入另一条边的行为规则和限制。",
+    "core_explanation": "可表达禁左、禁右、掉头限制等交通规则。；转向规则影响路径可行性和成本。",
+    "plain_explanation": "可以把“转向 Turns”理解为：转向描述车辆或流在节点处从一条边转入另一条边的行为规则和限制。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_112"
+    ],
+    "status": "checked",
+    "key_points": [
+      "转向描述车辆或流在节点处从一条边转入另一条边的行为规则和限制。",
+      "可表达禁左、禁右、掉头限制等交通规则。；转向规则影响路径可行性和成本。",
+      "可以把“转向 Turns”理解为：转向描述车辆或流在节点处从一条边转入另一条边的行为规则和限制。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_113",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "阻抗 Impedance",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "阻抗Impedance",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "阻抗是网络路径分析中的通行代价，可表示距离、时间、费用、能耗或复合成本。",
+    "core_explanation": "阻抗决定最短路径中的“最优”含义。；不同阻抗会产生不同最优路径。",
+    "plain_explanation": "可以把“阻抗 Impedance”理解为：阻抗是网络路径分析中的通行代价，可表示距离、时间、费用、能耗或复合成本。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_113"
+    ],
+    "status": "checked",
+    "key_points": [
+      "阻抗是网络路径分析中的通行代价，可表示距离、时间、费用、能耗或复合成本。",
+      "阻抗决定最短路径中的“最优”含义。；不同阻抗会产生不同最优路径。",
+      "可以把“阻抗 Impedance”理解为：阻抗是网络路径分析中的通行代价，可表示距离、时间、费用、能耗或复合成本。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_114",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "距离阻抗",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "距离阻抗",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "距离阻抗根据边的长度字段计算，用于寻找最短距离路径。",
+    "core_explanation": "适合几何距离最小化问题。；不考虑速度、交通和费用差异。",
+    "plain_explanation": "可以把“距离阻抗”理解为：距离阻抗根据边的长度字段计算，用于寻找最短距离路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_114"
+    ],
+    "status": "checked",
+    "key_points": [
+      "距离阻抗根据边的长度字段计算，用于寻找最短距离路径。",
+      "适合几何距离最小化问题。；不考虑速度、交通和费用差异。",
+      "可以把“距离阻抗”理解为：距离阻抗根据边的长度字段计算，用于寻找最短距离路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_115",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "时间阻抗",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "时间阻抗",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "时间阻抗根据道路长度与速度计算通行时间，用于寻找最快路径。",
+    "core_explanation": "通行时间可由距离/限速估算。；适合导航、应急救援和运营管理。",
+    "plain_explanation": "可以把“时间阻抗”理解为：时间阻抗根据道路长度与速度计算通行时间，用于寻找最快路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_115"
+    ],
+    "status": "checked",
+    "key_points": [
+      "时间阻抗根据道路长度与速度计算通行时间，用于寻找最快路径。",
+      "通行时间可由距离/限速估算。；适合导航、应急救援和运营管理。",
+      "可以把“时间阻抗”理解为：时间阻抗根据道路长度与速度计算通行时间，用于寻找最快路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_116",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "费用阻抗",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "费用阻抗",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "费用阻抗以通行费、桥梁收费、运营成本等作为路径成本。",
+    "core_explanation": "适合成本控制导向的路径选择。；可用于物流和运输经济分析。",
+    "plain_explanation": "可以把“费用阻抗”理解为：费用阻抗以通行费、桥梁收费、运营成本等作为路径成本。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_116"
+    ],
+    "status": "checked",
+    "key_points": [
+      "费用阻抗以通行费、桥梁收费、运营成本等作为路径成本。",
+      "适合成本控制导向的路径选择。；可用于物流和运输经济分析。",
+      "可以把“费用阻抗”理解为：费用阻抗以通行费、桥梁收费、运营成本等作为路径成本。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_117",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "复合阻抗",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "复合阻抗",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "复合阻抗综合距离、时间、交通流、路况、施工风险等因素形成综合通行成本。",
+    "core_explanation": "适合多目标约束路径分析。；需要合理确定权重。",
+    "plain_explanation": "可以把“复合阻抗”理解为：复合阻抗综合距离、时间、交通流、路况、施工风险等因素形成综合通行成本。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_117"
+    ],
+    "status": "checked",
+    "key_points": [
+      "复合阻抗综合距离、时间、交通流、路况、施工风险等因素形成综合通行成本。",
+      "适合多目标约束路径分析。；需要合理确定权重。",
+      "可以把“复合阻抗”理解为：复合阻抗综合距离、时间、交通流、路况、施工风险等因素形成综合通行成本。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_118",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "网络数据集构建流程",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "网络数据集构建流程",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "网络数据集构建流程包括空间数据准备、拓扑结构建立、通行规则与属性配置、模型生成与索引构建。",
+    "core_explanation": "准备道路中心线、节点、转向和属性字段。；建立拓扑连通并检查断点、悬挂线和伪节点。",
+    "plain_explanation": "可以把“网络数据集构建流程”理解为：网络数据集构建流程包括空间数据准备、拓扑结构建立、通行规则与属性配置、模型生成与索引构建。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_118"
+    ],
+    "status": "checked",
+    "key_points": [
+      "网络数据集构建流程包括空间数据准备、拓扑结构建立、通行规则与属性配置、模型生成与索引构建。",
+      "准备道路中心线、节点、转向和属性字段。；建立拓扑连通并检查断点、悬挂线和伪节点。",
+      "可以把“网络数据集构建流程”理解为：网络数据集构建流程包括空间数据准备、拓扑结构建立、通行规则与属性配置、模型生成与索引构建。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_119",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "空间数据准备",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "空间数据准备",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "空间数据准备是网络数据集构建的第一步，包括道路几何、节点、属性和坐标系统整理。",
+    "core_explanation": "要求线要素连通、坐标统一、属性完整。；道路等级、长度、速度、方向等字段需可靠。",
+    "plain_explanation": "可以把“空间数据准备”理解为：空间数据准备是网络数据集构建的第一步，包括道路几何、节点、属性和坐标系统整理。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_119"
+    ],
+    "status": "checked",
+    "key_points": [
+      "空间数据准备是网络数据集构建的第一步，包括道路几何、节点、属性和坐标系统整理。",
+      "要求线要素连通、坐标统一、属性完整。；道路等级、长度、速度、方向等字段需可靠。",
+      "可以把“空间数据准备”理解为：空间数据准备是网络数据集构建的第一步，包括道路几何、节点、属性和坐标系统整理。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_120",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "拓扑结构建立",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "拓扑结构建立",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "拓扑结构建立用于明确边与节点之间的连接关系。",
+    "core_explanation": "需要处理断线、重叠、悬挂线和节点匹配问题。；拓扑错误会导致路径中断或错误绕行。",
+    "plain_explanation": "可以把“拓扑结构建立”理解为：拓扑结构建立用于明确边与节点之间的连接关系。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_120"
+    ],
+    "status": "checked",
+    "key_points": [
+      "拓扑结构建立用于明确边与节点之间的连接关系。",
+      "需要处理断线、重叠、悬挂线和节点匹配问题。；拓扑错误会导致路径中断或错误绕行。",
+      "可以把“拓扑结构建立”理解为：拓扑结构建立用于明确边与节点之间的连接关系。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_121",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "通行规则与属性配置",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "通行规则与属性配置",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "通行规则与属性配置用于定义哪些边可通行、如何通行以及通行成本。",
+    "core_explanation": "包括单行道、禁行、限速、转向限制、阻抗属性。；使网络从几何连通升级为真实交通可达。",
+    "plain_explanation": "可以把“通行规则与属性配置”理解为：通行规则与属性配置用于定义哪些边可通行、如何通行以及通行成本。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_121"
+    ],
+    "status": "checked",
+    "key_points": [
+      "通行规则与属性配置用于定义哪些边可通行、如何通行以及通行成本。",
+      "包括单行道、禁行、限速、转向限制、阻抗属性。；使网络从几何连通升级为真实交通可达。",
+      "可以把“通行规则与属性配置”理解为：通行规则与属性配置用于定义哪些边可通行、如何通行以及通行成本。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_122",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "模型生成与索引构建",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "模型生成与索引构建",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "模型生成与索引构建将几何、拓扑和属性规则集成为可高效求解的网络分析模型。",
+    "core_explanation": "生成网络索引提高求解效率。；支持路径、服务区和OD矩阵等多种分析。",
+    "plain_explanation": "可以把“模型生成与索引构建”理解为：模型生成与索引构建将几何、拓扑和属性规则集成为可高效求解的网络分析模型。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_122"
+    ],
+    "status": "checked",
+    "key_points": [
+      "模型生成与索引构建将几何、拓扑和属性规则集成为可高效求解的网络分析模型。",
+      "生成网络索引提高求解效率。；支持路径、服务区和OD矩阵等多种分析。",
+      "可以把“模型生成与索引构建”理解为：模型生成与索引构建将几何、拓扑和属性规则集成为可高效求解的网络分析模型。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_123",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "最短路径分析",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "最短路径分析",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "最短路径分析是在带权网络中寻找起点到终点累计阻抗最小路径的方法。",
+    "core_explanation": "最短不一定是距离最短，也可以是时间、成本或风险最小。；需要完整拓扑和合理阻抗。",
+    "plain_explanation": "可以把“最短路径分析”理解为：最短路径分析是在带权网络中寻找起点到终点累计阻抗最小路径的方法。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_123"
+    ],
+    "status": "checked",
+    "key_points": [
+      "最短路径分析是在带权网络中寻找起点到终点累计阻抗最小路径的方法。",
+      "最短不一定是距离最短，也可以是时间、成本或风险最小。；需要完整拓扑和合理阻抗。",
+      "可以把“最短路径分析”理解为：最短路径分析是在带权网络中寻找起点到终点累计阻抗最小路径的方法。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_124",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "基于矢量网络的路径分析",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "基于矢量网络的路径分析",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "基于矢量网络的路径分析在边-节点网络数据集上求解最优通行路径。",
+    "core_explanation": "适合真实道路交通网络。；可考虑方向、转向、阻抗和道路属性。",
+    "plain_explanation": "可以把“基于矢量网络的路径分析”理解为：基于矢量网络的路径分析在边-节点网络数据集上求解最优通行路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_124"
+    ],
+    "status": "checked",
+    "key_points": [
+      "基于矢量网络的路径分析在边-节点网络数据集上求解最优通行路径。",
+      "适合真实道路交通网络。；可考虑方向、转向、阻抗和道路属性。",
+      "可以把“基于矢量网络的路径分析”理解为：基于矢量网络的路径分析在边-节点网络数据集上求解最优通行路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_125",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "基于栅格成本路径分析",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "基于栅格成本路径分析",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "基于栅格成本路径分析在成本面上求解从起点到终点累计穿越成本最小的路径。",
+    "core_explanation": "适合缺少明确道路网络或进行初步选线。；成本面可由坡度、地类、生态敏感度等构建。",
+    "plain_explanation": "可以把“基于栅格成本路径分析”理解为：基于栅格成本路径分析在成本面上求解从起点到终点累计穿越成本最小的路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_125"
+    ],
+    "status": "checked",
+    "key_points": [
+      "基于栅格成本路径分析在成本面上求解从起点到终点累计穿越成本最小的路径。",
+      "适合缺少明确道路网络或进行初步选线。；成本面可由坡度、地类、生态敏感度等构建。",
+      "可以把“基于栅格成本路径分析”理解为：基于栅格成本路径分析在成本面上求解从起点到终点累计穿越成本最小的路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_126",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "带权有向图模型",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "带权有向图模型",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "带权有向图用节点集合、边集合和权重函数表达可用于路径分析的网络。",
+    "core_explanation": "节点表示交叉口、站点等位置。；边表示可通行连接。",
+    "plain_explanation": "可以把“带权有向图模型”理解为：带权有向图用节点集合、边集合和权重函数表达可用于路径分析的网络。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_126"
+    ],
+    "status": "checked",
+    "key_points": [
+      "带权有向图用节点集合、边集合和权重函数表达可用于路径分析的网络。",
+      "节点表示交叉口、站点等位置。；边表示可通行连接。",
+      "可以把“带权有向图模型”理解为：带权有向图用节点集合、边集合和权重函数表达可用于路径分析的网络。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_127",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "单源单终点最短路径",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "单源单终点最短路径",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "单源单终点最短路径计算给定起点到给定终点的最优路径。",
+    "core_explanation": "适合导航和两点路径查询。；A*通常更适合此类目标明确的问题。",
+    "plain_explanation": "可以把“单源单终点最短路径”理解为：单源单终点最短路径计算给定起点到给定终点的最优路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_127"
+    ],
+    "status": "checked",
+    "key_points": [
+      "单源单终点最短路径计算给定起点到给定终点的最优路径。",
+      "适合导航和两点路径查询。；A*通常更适合此类目标明确的问题。",
+      "可以把“单源单终点最短路径”理解为：单源单终点最短路径计算给定起点到给定终点的最优路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_128",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "单源多终点最短路径",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "单源多终点最短路径",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "单源多终点最短路径计算一个起点到多个目标或所有节点的最短路径。",
+    "core_explanation": "适合服务范围、可达性和配送分析。；Dijkstra适合求解单源全网最短路径。",
+    "plain_explanation": "可以把“单源多终点最短路径”理解为：单源多终点最短路径计算一个起点到多个目标或所有节点的最短路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_128"
+    ],
+    "status": "checked",
+    "key_points": [
+      "单源多终点最短路径计算一个起点到多个目标或所有节点的最短路径。",
+      "适合服务范围、可达性和配送分析。；Dijkstra适合求解单源全网最短路径。",
+      "可以把“单源多终点最短路径”理解为：单源多终点最短路径计算一个起点到多个目标或所有节点的最短路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_129",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "全对最短路径",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "全对最短路径",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "全对最短路径计算任意两个节点之间的最优路径。",
+    "core_explanation": "常用于交通流分配和系统级可达性分析。；计算量较大。",
+    "plain_explanation": "可以把“全对最短路径”理解为：全对最短路径计算任意两个节点之间的最优路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_129"
+    ],
+    "status": "checked",
+    "key_points": [
+      "全对最短路径计算任意两个节点之间的最优路径。",
+      "常用于交通流分配和系统级可达性分析。；计算量较大。",
+      "可以把“全对最短路径”理解为：全对最短路径计算任意两个节点之间的最优路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_130",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "Dijkstra算法",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "Dijkstra算法",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "Dijkstra算法从起点开始按当前最小累计距离逐步扩展，可保证非负权重网络中的最短路径。",
+    "core_explanation": "初始化起点为0，其余为无穷大。；每轮选择暂定距离最小的未访问节点。",
+    "plain_explanation": "可以把“Dijkstra算法”理解为：Dijkstra算法从起点开始按当前最小累计距离逐步扩展，可保证非负权重网络中的最短路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_130"
+    ],
+    "status": "checked",
+    "key_points": [
+      "Dijkstra算法从起点开始按当前最小累计距离逐步扩展，可保证非负权重网络中的最短路径。",
+      "初始化起点为0，其余为无穷大。；每轮选择暂定距离最小的未访问节点。",
+      "可以把“Dijkstra算法”理解为：Dijkstra算法从起点开始按当前最小累计距离逐步扩展，可保证非负权重网络中的最短路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_131",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "Dijkstra算法局限",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "Dijkstra算法局限",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "Dijkstra算法不具备方向性，搜索过程呈水波状均匀扩散，点对导航效率相对较低。",
+    "core_explanation": "能保证最优解。；适合单源到多点或全网最短路径。",
+    "plain_explanation": "可以把“Dijkstra算法局限”理解为：Dijkstra算法不具备方向性，搜索过程呈水波状均匀扩散，点对导航效率相对较低。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_131"
+    ],
+    "status": "checked",
+    "key_points": [
+      "Dijkstra算法不具备方向性，搜索过程呈水波状均匀扩散，点对导航效率相对较低。",
+      "能保证最优解。；适合单源到多点或全网最短路径。",
+      "可以把“Dijkstra算法局限”理解为：Dijkstra算法不具备方向性，搜索过程呈水波状均匀扩散，点对导航效率相对较低。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_132",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "A*算法",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "核心",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "A*算法",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "A*算法在已知路径成本基础上引入启发式估计，引导搜索向目标方向收敛。",
+    "core_explanation": "评价函数通常为f(n)=g(n)+h(n)。；g(n)表示起点到当前节点已知成本。",
+    "plain_explanation": "可以把“A*算法”理解为：A*算法在已知路径成本基础上引入启发式估计，引导搜索向目标方向收敛。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_132"
+    ],
+    "status": "checked",
+    "key_points": [
+      "A*算法在已知路径成本基础上引入启发式估计，引导搜索向目标方向收敛。",
+      "评价函数通常为f(n)=g(n)+h(n)。；g(n)表示起点到当前节点已知成本。",
+      "可以把“A*算法”理解为：A*算法在已知路径成本基础上引入启发式估计，引导搜索向目标方向收敛。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_133",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "A*算法启发式条件",
+    "knowledge_type": "concept",
+    "difficulty": "高级",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "A*算法启发式条件",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "当A*启发式函数可采纳，即不高估实际成本时，算法仍能找到最短路径。",
+    "core_explanation": "启发式越接近真实剩余成本，搜索越高效。；若高估成本，可能失去最优性保障。",
+    "plain_explanation": "可以把“A*算法启发式条件”理解为：当A*启发式函数可采纳，即不高估实际成本时，算法仍能找到最短路径。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_133"
+    ],
+    "status": "checked",
+    "key_points": [
+      "当A*启发式函数可采纳，即不高估实际成本时，算法仍能找到最短路径。",
+      "启发式越接近真实剩余成本，搜索越高效。；若高估成本，可能失去最优性保障。",
+      "可以把“A*算法启发式条件”理解为：当A*启发式函数可采纳，即不高估实际成本时，算法仍能找到最短路径。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_134",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "Dijkstra与A*差异",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "Dijkstra与A*差异",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "Dijkstra属于全面扩展算法，A*属于启发式目标导向算法，两者在搜索范围和适用场景上不同。",
+    "core_explanation": "Dijkstra适合单源多目标或全网分析。；A*适合起终点明确的快速路径搜索。",
+    "plain_explanation": "可以把“Dijkstra与A*差异”理解为：Dijkstra属于全面扩展算法，A*属于启发式目标导向算法，两者在搜索范围和适用场景上不同。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_134"
+    ],
+    "status": "checked",
+    "key_points": [
+      "Dijkstra属于全面扩展算法，A*属于启发式目标导向算法，两者在搜索范围和适用场景上不同。",
+      "Dijkstra适合单源多目标或全网分析。；A*适合起终点明确的快速路径搜索。",
+      "可以把“Dijkstra与A*差异”理解为：Dijkstra属于全面扩展算法，A*属于启发式目标导向算法，两者在搜索范围和适用场景上不同。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_135",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "OD成本矩阵",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "OD成本矩阵",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "OD成本矩阵表示多个起点到多个目的地之间的最小通行成本。",
+    "core_explanation": "输入包括起点、目的地图层和网络数据集。；输出通常为表格，记录起点-目的地之间的最短距离、时间或成本。",
+    "plain_explanation": "可以把“OD成本矩阵”理解为：OD成本矩阵表示多个起点到多个目的地之间的最小通行成本。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_135"
+    ],
+    "status": "checked",
+    "key_points": [
+      "OD成本矩阵表示多个起点到多个目的地之间的最小通行成本。",
+      "输入包括起点、目的地图层和网络数据集。；输出通常为表格，记录起点-目的地之间的最短距离、时间或成本。",
+      "可以把“OD成本矩阵”理解为：OD成本矩阵表示多个起点到多个目的地之间的最小通行成本。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_136",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "OD矩阵参数设置",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "OD矩阵参数设置",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "OD矩阵参数包括阻抗属性、中断值、目的地数量、方向与时段参数。",
+    "core_explanation": "阻抗决定优化指标。；中断值限制搜索范围。",
+    "plain_explanation": "可以把“OD矩阵参数设置”理解为：OD矩阵参数包括阻抗属性、中断值、目的地数量、方向与时段参数。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_136"
+    ],
+    "status": "checked",
+    "key_points": [
+      "OD矩阵参数包括阻抗属性、中断值、目的地数量、方向与时段参数。",
+      "阻抗决定优化指标。；中断值限制搜索范围。",
+      "可以把“OD矩阵参数设置”理解为：OD矩阵参数包括阻抗属性、中断值、目的地数量、方向与时段参数。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_137",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "OD矩阵求解策略",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "OD矩阵求解策略",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "OD矩阵通常基于最短路径算法批量调用，并可采用并行、双向搜索和剪枝提升效率。",
+    "core_explanation": "分源并行可提高多起点计算效率。；双向搜索减少遍历节点。",
+    "plain_explanation": "可以把“OD矩阵求解策略”理解为：OD矩阵通常基于最短路径算法批量调用，并可采用并行、双向搜索和剪枝提升效率。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_137"
+    ],
+    "status": "checked",
+    "key_points": [
+      "OD矩阵通常基于最短路径算法批量调用，并可采用并行、双向搜索和剪枝提升效率。",
+      "分源并行可提高多起点计算效率。；双向搜索减少遍历节点。",
+      "可以把“OD矩阵求解策略”理解为：OD矩阵通常基于最短路径算法批量调用，并可采用并行、双向搜索和剪枝提升效率。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_138",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "位置-分配模型",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "位置-分配模型",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "位置-分配模型用于在候选设施与需求点之间进行空间优化，选择设施位置并分配服务对象。",
+    "core_explanation": "核心目标是提高服务效率、降低运行成本或增强覆盖公平性。；需要候选点、需求点、网络成本、服务标准和优化目标。",
+    "plain_explanation": "可以把“位置-分配模型”理解为：位置-分配模型用于在候选设施与需求点之间进行空间优化，选择设施位置并分配服务对象。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_138"
+    ],
+    "status": "checked",
+    "key_points": [
+      "位置-分配模型用于在候选设施与需求点之间进行空间优化，选择设施位置并分配服务对象。",
+      "核心目标是提高服务效率、降低运行成本或增强覆盖公平性。；需要候选点、需求点、网络成本、服务标准和优化目标。",
+      "可以把“位置-分配模型”理解为：位置-分配模型用于在候选设施与需求点之间进行空间优化，选择设施位置并分配服务对象。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_139",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "设施候选点",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "设施候选点",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "设施候选点是可能建设服务设施的位置。",
+    "core_explanation": "可来自规划用地、既有设施、交通节点或备选方案。；候选点质量直接影响优化结果。",
+    "plain_explanation": "可以把“设施候选点”理解为：设施候选点是可能建设服务设施的位置。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_139"
+    ],
+    "status": "checked",
+    "key_points": [
+      "设施候选点是可能建设服务设施的位置。",
+      "可来自规划用地、既有设施、交通节点或备选方案。；候选点质量直接影响优化结果。",
+      "可以把“设施候选点”理解为：设施候选点是可能建设服务设施的位置。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_140",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "需求点",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "需求点",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "需求点是需要被设施服务的人群、区域或交通发生点。",
+    "core_explanation": "可表示居民区、路段节点、收费站通行口或事故高发区。；需求可带权重，表示人口、流量或服务需求强度。",
+    "plain_explanation": "可以把“需求点”理解为：需求点是需要被设施服务的人群、区域或交通发生点。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_140"
+    ],
+    "status": "checked",
+    "key_points": [
+      "需求点是需要被设施服务的人群、区域或交通发生点。",
+      "可表示居民区、路段节点、收费站通行口或事故高发区。；需求可带权重，表示人口、流量或服务需求强度。",
+      "可以把“需求点”理解为：需求点是需要被设施服务的人群、区域或交通发生点。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_141",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "p-中位模型",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "p-中位模型",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "p-中位模型以最小化总加权阻抗为目标，追求系统总体运行效率最高。",
+    "core_explanation": "适用于物流配送中心和常规养护站布局。；强调平均服务成本最小。",
+    "plain_explanation": "可以把“p-中位模型”理解为：p-中位模型以最小化总加权阻抗为目标，追求系统总体运行效率最高。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_141"
+    ],
+    "status": "checked",
+    "key_points": [
+      "p-中位模型以最小化总加权阻抗为目标，追求系统总体运行效率最高。",
+      "适用于物流配送中心和常规养护站布局。；强调平均服务成本最小。",
+      "可以把“p-中位模型”理解为：p-中位模型以最小化总加权阻抗为目标，追求系统总体运行效率最高。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_142",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "p-中心模型",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "p-中心模型",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "p-中心模型以最小化最大服务距离或最大阻抗为目标，强调最不利需求点的服务公平性。",
+    "core_explanation": "适合应急救援、消防和医疗等时间敏感服务。；关注最大响应时间。",
+    "plain_explanation": "可以把“p-中心模型”理解为：p-中心模型以最小化最大服务距离或最大阻抗为目标，强调最不利需求点的服务公平性。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_142"
+    ],
+    "status": "checked",
+    "key_points": [
+      "p-中心模型以最小化最大服务距离或最大阻抗为目标，强调最不利需求点的服务公平性。",
+      "适合应急救援、消防和医疗等时间敏感服务。；关注最大响应时间。",
+      "可以把“p-中心模型”理解为：p-中心模型以最小化最大服务距离或最大阻抗为目标，强调最不利需求点的服务公平性。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_143",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "最大覆盖模型 MCLP",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "最大覆盖模型MCLP",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "最大覆盖模型在给定设施数量或资源约束下，最大化服务覆盖人口或需求量。",
+    "core_explanation": "适合应急救援点、服务区和监控设施布局。；强调有限资源下覆盖更多需求。",
+    "plain_explanation": "可以把“最大覆盖模型 MCLP”理解为：最大覆盖模型在给定设施数量或资源约束下，最大化服务覆盖人口或需求量。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_143"
+    ],
+    "status": "checked",
+    "key_points": [
+      "最大覆盖模型在给定设施数量或资源约束下，最大化服务覆盖人口或需求量。",
+      "适合应急救援点、服务区和监控设施布局。；强调有限资源下覆盖更多需求。",
+      "可以把“最大覆盖模型 MCLP”理解为：最大覆盖模型在给定设施数量或资源约束下，最大化服务覆盖人口或需求量。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  },
+  {
+    "kp_id": "kp_ch05_144",
+    "chapter_id": "ch05",
+    "section_id": "ch05_sec04",
+    "title": "集合覆盖模型 LSCP",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "keywords": [
+      "网络分析",
+      "网络数据集",
+      "最短路径",
+      "Dijkstra",
+      "A*",
+      "OD矩阵",
+      "位置分配"
+    ],
+    "aliases": [
+      "集合覆盖模型LSCP",
+      "网络分析",
+      "网络数据集",
+      "最短路径"
+    ],
+    "definition": "集合覆盖模型以最少设施数量覆盖所有需求点为目标。",
+    "core_explanation": "适合强制性普遍服务要求。；例如确保高速公路一定距离内有服务区。",
+    "plain_explanation": "可以把“集合覆盖模型 LSCP”理解为：集合覆盖模型以最少设施数量覆盖所有需求点为目标。",
+    "engineering_meaning": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "application_scenario": "路径规划、服务区分析、OD矩阵、设施选址、应急调度。",
+    "common_mistakes": [
+      "把普通道路线图层等同于可用于真实路径分析的网络数据集；忽视阻抗和通行规则"
+    ],
+    "correction_explanation": "应根据数据模型、空间尺度、工程目的和分析假设综合判断，不能只看软件输出结果。",
+    "answer_strategy": "先给出定义，再按条目概括关键点，最后结合道路工程应用场景说明。",
+    "answer_boundary": "优先依据第五章教材内容回答；若涉及软件实现或高级算法，只作必要补充，不扩展到教材未讲的具体操作。",
+    "source_chunks": [
+      "ch05_src_144"
+    ],
+    "status": "checked",
+    "key_points": [
+      "集合覆盖模型以最少设施数量覆盖所有需求点为目标。",
+      "适合强制性普遍服务要求。；例如确保高速公路一定距离内有服务区。",
+      "可以把“集合覆盖模型 LSCP”理解为：集合覆盖模型以最少设施数量覆盖所有需求点为目标。",
+      "路径规划、服务区分析、OD矩阵、设施选址、应急调度。"
+    ],
+    "related_kps": []
+  }
+]

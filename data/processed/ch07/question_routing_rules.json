@@ -1,0 +1,62 @@
+[
+  {
+    "rule_id": "ch07_route_001",
+    "question_pattern": "如何/怎么/步骤/操作",
+    "primary_table": "Operation_Tasks",
+    "secondary_tables": "Operation_Steps;Answer_Cards;Video_Segments",
+    "answer_template": "操作目标—前置条件—操作步骤—结果检查—推荐视频",
+    "routing_id": "ch07_route_001",
+    "pattern": "如何/怎么/步骤/操作",
+    "target_table": "Operation_Tasks",
+    "answer_mode": "操作目标—前置条件—操作步骤—结果检查—推荐视频",
+    "description": ""
+  },
+  {
+    "rule_id": "ch07_route_002",
+    "question_pattern": "出错/失败/不显示/无法生成/结果不对",
+    "primary_table": "Common_Errors",
+    "secondary_tables": "Operation_Steps;Video_Segments;Answer_Cards",
+    "answer_template": "错误现象—可能原因—排查步骤—对应视频",
+    "routing_id": "ch07_route_002",
+    "pattern": "出错/失败/不显示/无法生成/结果不对",
+    "target_table": "Common_Errors",
+    "answer_mode": "错误现象—可能原因—排查步骤—对应视频",
+    "description": ""
+  },
+  {
+    "rule_id": "ch07_route_003",
+    "question_pattern": "参数/设置/取值/图层/模板/比例",
+    "primary_table": "Parameter_Settings",
+    "secondary_tables": "Software_Objects;Operation_Steps",
+    "answer_template": "参数含义—推荐设置—影响—常见错误",
+    "routing_id": "ch07_route_003",
+    "pattern": "参数/设置/取值/图层/模板/比例",
+    "target_table": "Parameter_Settings",
+    "answer_mode": "参数含义—推荐设置—影响—常见错误",
+    "description": ""
+  },
+  {
+    "rule_id": "ch07_route_004",
+    "question_pattern": "是什么/作用/区别",
+    "primary_table": "Answer_Cards",
+    "secondary_tables": "Knowledge_Points;Concept_Comparison",
+    "answer_template": "定义—作用—区别/应用场景",
+    "routing_id": "ch07_route_004",
+    "pattern": "是什么/作用/区别",
+    "target_table": "Answer_Cards",
+    "answer_mode": "定义—作用—区别/应用场景",
+    "description": ""
+  },
+  {
+    "rule_id": "ch07_route_005",
+    "question_pattern": "视频/演示/在哪看",
+    "primary_table": "Video_Segments",
+    "secondary_tables": "Operation_Tasks;Answer_Cards",
+    "answer_template": "推荐视频—时间片段—对应任务—学习提示",
+    "routing_id": "ch07_route_005",
+    "pattern": "视频/演示/在哪看",
+    "target_table": "Video_Segments",
+    "answer_mode": "推荐视频—时间片段—对应任务—学习提示",
+    "description": ""
+  }
+]

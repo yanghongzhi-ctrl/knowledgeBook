@@ -1,0 +1,138 @@
+{
+  "applied": [
+    {
+      "resource_id": "fig_3_7",
+      "title": "基本型曲线计算图式",
+      "file_path": "assets/ch03/images/fig_3_7.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image7.png",
+      "rationale": "Word 媒体图为基本型平曲线计算图式。"
+    },
+    {
+      "resource_id": "fig_3_8",
+      "title": "卵形曲线计算图式",
+      "file_path": "assets/ch03/images/fig_3_8.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image8.png",
+      "rationale": "Word 媒体图为卵形曲线计算图式。"
+    },
+    {
+      "resource_id": "fig_3_9",
+      "title": "双交点曲线计算图式",
+      "file_path": "assets/ch03/images/fig_3_9.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image9.png",
+      "rationale": "Word 媒体图为双交点曲线计算图式。"
+    },
+    {
+      "resource_id": "fig_3_10",
+      "title": "直线与圆曲线连接计算图式",
+      "file_path": "assets/ch03/images/fig_3_10.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image10.png",
+      "rationale": "Word 媒体图为直线与圆曲线连接计算图式。"
+    },
+    {
+      "resource_id": "fig_3_11",
+      "title": "两反向圆曲线连接计算图式",
+      "file_path": "assets/ch03/images/fig_3_11.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image11.png",
+      "rationale": "Word 媒体图包含两反向圆曲线连接示意。"
+    },
+    {
+      "resource_id": "fig_3_12",
+      "title": "两同向圆曲线连接",
+      "file_path": "assets/ch03/images/fig_3_12.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image11.png",
+      "rationale": "Word 原稿在两同向圆曲线连接处复用同一组圆曲线连接示意。"
+    },
+    {
+      "resource_id": "fig_3_13",
+      "title": "坐标计算图式",
+      "file_path": "assets/ch03/images/fig_3_13.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image12.png",
+      "rationale": "Word 媒体图包含 X/Y 坐标轴与逐桩主点，匹配坐标计算图式。"
+    },
+    {
+      "resource_id": "fig_3_15",
+      "title": "纵断面计算流程图",
+      "file_path": "assets/ch03/images/fig_3_15.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image13.png",
+      "rationale": "Word 媒体图为纵断面计算流程图。"
+    },
+    {
+      "resource_id": "fig_3_16",
+      "title": "纵断面计算图式",
+      "file_path": "assets/ch03/images/fig_3_16.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image14.png",
+      "rationale": "Word 媒体图为纵断面计算图式。"
+    },
+    {
+      "resource_id": "fig_3_17",
+      "title": "横断面CAD系统流程图",
+      "file_path": "assets/ch03/images/fig_3_17.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image15.png",
+      "rationale": "Word 媒体图为横断面 CAD 系统流程图。"
+    },
+    {
+      "resource_id": "fig_3_20",
+      "title": "无中间带超高值计算图式",
+      "file_path": "assets/ch03/images/fig_3_20.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image18.png",
+      "rationale": "Word 媒体图为无中间带超高值计算图式。"
+    },
+    {
+      "resource_id": "fig_3_21",
+      "title": "有中间带超高值计算图式",
+      "file_path": "assets/ch03/images/fig_3_21.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image19.png",
+      "rationale": "Word 媒体图为有中间带超高值计算图式。"
+    },
+    {
+      "resource_id": "fig_3_22",
+      "title": "基本边坡线单元",
+      "file_path": "assets/ch03/images/fig_3_22.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image20.png",
+      "rationale": "Word 媒体图为基本边坡线单元。"
+    },
+    {
+      "resource_id": "fig_3_23",
+      "title": "横断面面积计算（积距法）",
+      "file_path": "assets/ch03/images/fig_3_23.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image21.png",
+      "rationale": "Word 媒体图为横断面面积计算积距法。"
+    },
+    {
+      "resource_id": "fig_3_24",
+      "title": "横断面面积计算（坐标法）",
+      "file_path": "assets/ch03/images/fig_3_24.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image22.png",
+      "rationale": "Word 媒体图为横断面面积计算坐标法。"
+    },
+    {
+      "resource_id": "fig_3_25",
+      "title": "体积计算",
+      "file_path": "assets/ch03/images/fig_3_25.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image23.png",
+      "rationale": "Word 媒体图为平均断面法体积计算。"
+    },
+    {
+      "resource_id": "fig_3_27",
+      "title": "平面交叉口CAD系统结构",
+      "file_path": "assets/ch03/images/fig_3_27.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image24.png",
+      "rationale": "Word 媒体图为平面交叉口 CAD 系统结构。"
+    },
+    {
+      "resource_id": "fig_3_28",
+      "title": "交叉口Coons曲面片划分图",
+      "file_path": "assets/ch03/images/fig_3_28.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image25.png",
+      "rationale": "Word 媒体图为交叉口 Coons 曲面片划分图。"
+    },
+    {
+      "resource_id": "fig_3_29",
+      "title": "人机交互交叉口立面设计流程图",
+      "file_path": "assets/ch03/images/fig_3_29.png",
+      "source": "D:\\knowledgebase\\output\\ch03_rag_engine\\word_media_preview\\png\\image26.png",
+      "rationale": "Word 媒体图为人机交互交叉口立面设计流程图。"
+    }
+  ],
+  "missing": []
+}

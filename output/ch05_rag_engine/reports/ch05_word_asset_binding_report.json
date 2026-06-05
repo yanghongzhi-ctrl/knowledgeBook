@@ -1,0 +1,187 @@
+{
+  "chapter_id": "ch05",
+  "docx": "F:\\编书\\道路工程数字设计方法\\05脚本及图片素材\\批注版-道路工程数字设计方法-数字化教材稿.docx",
+  "chapter_blocks": 561,
+  "figure_candidates": {
+    "5-2": {
+      "label": "图 5-2",
+      "context": "GIS系统的根本任务是帮助用户理解与解决空间相关的问题。从应用视角来看，GIS的功能可归纳为五类核心空间问题，即“位置、条件、变化、模式与模型”，如图 5-2。",
+      "distance": 3,
+      "rel_id": "rId97",
+      "source_media": "media/image60.tiff",
+      "image_block_index": 23
+    },
+    "5-4": {
+      "label": "图 5-4",
+      "context": "此分类方法基于构建投影所借助的几何体，非常直观（图 5-4），主要分为三类：",
+      "distance": 4,
+      "rel_id": "rId102",
+      "source_media": "media/image63.png",
+      "image_block_index": 72
+    },
+    "5-5": {
+      "label": "图 5-5",
+      "context": "此分类描述了投影几何体（圆柱、圆锥、平面）的中心轴与地球自转轴之间的关系，决定了投影变形最小的区域（图 5-5）。",
+      "distance": 4,
+      "rel_id": "rId105",
+      "source_media": "media/image66.tiff",
+      "image_block_index": 80
+    },
+    "5-7": {
+      "label": "图 5-7",
+      "context": "在矢量数据模型中，几何表达仅是基础，真正支撑GIS系统实现空间分析的，是其对拓扑关系（Topology）的建模能力（图 5-7）。拓扑关系描述的是空间对象之间不依赖具体形状的逻辑联系，例如谁与谁相邻、谁包含了谁、谁与谁连接。通过拓扑结构，GIS不仅“画出”对象，还能“理解”它们之间的空间联系。",
+      "distance": 1,
+      "rel_id": "rId108",
+      "source_media": "media/image68.tiff",
+      "image_block_index": 139
+    },
+    "5-9": {
+      "label": "图 5-9",
+      "context": "在进行缓冲区分析时，可根据实际需求定义不同的分析参数，以控制生成结果的形态与属性。当多个输入要素的缓冲区在空间上产生重叠时，可以选择将这些重叠的缓冲区融合成一个连续的、无内部边界的单一面要素；也可以选择保持每个缓冲区独立，允许它们相互压盖，如图 5-9所示。根据需要也可生成双向不对称缓冲区，或设定缓冲区内属性随距离递减的“影响强度模型”。",
+      "distance": 1,
+      "rel_id": "rId111",
+      "source_media": "media/image70.tiff",
+      "image_block_index": 181
+    },
+    "5-11": {
+      "label": "图 5-11",
+      "context": "（1）栅格重分类：根据特定规则为像元赋予新值，如图 5-11，如将坡度值划分为“微坡（≤3°）”、“缓斜坡（3°～20°）”、 “斜坡（>20°）”，为道路地貌区划提供参考。",
+      "distance": 2,
+      "rel_id": "rId114",
+      "source_media": "media/image72.tiff",
+      "image_block_index": 214
+    },
+    "5-14": {
+      "label": "图 5-14",
+      "context": "将坡度和坡向提取结果分别以颜色编码方式渲染，可形成直观的坡度图与坡向图，如图 5-14所示。坡度图采用冷暖色调反映陡缓程度，便于快速识别高差集中区；坡向图采用不同色相编码方向，有助于识别迎阳坡、背风坡等。",
+      "distance": 1,
+      "rel_id": "rId119",
+      "source_media": "media/image75.tiff",
+      "image_block_index": 239
+    },
+    "5-17": {
+      "label": "图 5-17",
+      "context": "视域分析的理论基础是几何光学中的视线原理。该原理假定光沿直线传播，如果观察点与目标点之间的连线未被任何障碍物遮挡，则两点相互通视。其算法如下（图 5-17）：",
+      "distance": 6,
+      "rel_id": "rId122",
+      "source_media": "media/image77.tiff",
+      "image_block_index": 261
+    },
+    "5-18": {
+      "label": "图 5-18",
+      "context": "为适应道路景观资源分析与视觉影响评价的需求，累积视域分析被广泛应用于可视性定量研究中（图 5-18所示）。该分析方法的目标是确定区域中每一个位置被多少个观察点“看到”，其输出结果是一张反映可视频度的等级图：数值越高，表示该区域被看见的频率越高，可视性越强、视觉暴露程度越大。在道路景观设计中，累积视域分析可用于识别沿线景观价值最突出的“黄金视域点”，或用于评估沿线道路对周边敏感区域（如居民区、生态保护区等）的视觉入侵影响。",
+      "distance": 1,
+      "rel_id": "rId124",
+      "source_media": "media/image79.png",
+      "image_block_index": 276
+    },
+    "5-19": {
+      "label": "图 5-19",
+      "context": "根据相关性的性质，空间分布模式可分为三类（图 5-19所示）。",
+      "distance": 7,
+      "rel_id": "rId125",
+      "source_media": "media/image80.jpeg",
+      "image_block_index": 291
+    },
+    "5-20": {
+      "label": "图 5-20",
+      "context": "指标衡量的是第单元及其邻域中属性值之总和与全局期望值之间的偏离程度。如果显著高于期望，说明这里是“热点”；显著低于期望，则为“冷点”。Getis-Ord Gi*常用于识别道路中的“事故热点区”或者识别地质灾害点的聚集规律，如图 5-20。",
+      "distance": 1,
+      "rel_id": "rId126",
+      "source_media": "media/image81.jpeg",
+      "image_block_index": 319
+    },
+    "5-21": {
+      "label": "图 5-21",
+      "context": "变异函数的典型参数（如图 5-21）包括：",
+      "distance": 5,
+      "rel_id": "rId127",
+      "source_media": "media/image82.tiff",
+      "image_block_index": 350
+    },
+    "5-22": {
+      "label": "图 5-22",
+      "context": "它是一个抛物面，形状像一个大碗或穹顶，表面只存在一个弯曲，可以模拟更复杂的变化，如盆地效应或拱起现象，如图 5-22。",
+      "distance": 5,
+      "rel_id": "rId128",
+      "source_media": "media/image83.tiff",
+      "image_block_index": 395
+    },
+    "5-24": {
+      "label": "图 5-24",
+      "context": "在构建了具备拓扑结构与阻抗信息的网络数据集后，路径分析的核心任务便是求解最短路径问题。实现这一目标，需要依赖图论中的路径搜索算法。GIS平台中最常用的两类算法为 Dijkstra 算法与 A*（A-Star）算法，两者各具特点，适用于不同的路径分析需求（图 5-24）。",
+      "distance": 1,
+      "rel_id": "rId130",
+      "source_media": "media/image85.tiff",
+      "image_block_index": 456
+    }
+  },
+  "copied_figures": [
+    {
+      "figure_no": "5-4",
+      "resource_id": "fig_5_4",
+      "file_path": "assets/ch05/images/fig_5_4.png",
+      "context": "此分类方法基于构建投影所借助的几何体，非常直观（图 5-4），主要分为三类：",
+      "distance": 4,
+      "source_media": "word/media/image63.png"
+    },
+    {
+      "figure_no": "5-5",
+      "resource_id": "fig_5_5",
+      "file_path": "assets/ch05/images/fig_5_5.tiff",
+      "context": "此分类描述了投影几何体（圆柱、圆锥、平面）的中心轴与地球自转轴之间的关系，决定了投影变形最小的区域（图 5-5）。",
+      "distance": 4,
+      "source_media": "word/media/image66.tiff"
+    },
+    {
+      "figure_no": "5-7",
+      "resource_id": "fig_5_7",
+      "file_path": "assets/ch05/images/fig_5_7.tiff",
+      "context": "在矢量数据模型中，几何表达仅是基础，真正支撑GIS系统实现空间分析的，是其对拓扑关系（Topology）的建模能力（图 5-7）。拓扑关系描述的是空间对象之间不依赖具体形状的逻辑联系，例如谁与谁相邻、谁包含了谁、谁与谁连接。通过拓扑结构，GIS不仅“画出”对象，还能“理解”它们之间的空间联系。",
+      "distance": 1,
+      "source_media": "word/media/image68.tiff"
+    },
+    {
+      "figure_no": "5-14",
+      "resource_id": "fig_5_14",
+      "file_path": "assets/ch05/images/fig_5_14.tiff",
+      "context": "将坡度和坡向提取结果分别以颜色编码方式渲染，可形成直观的坡度图与坡向图，如图 5-14所示。坡度图采用冷暖色调反映陡缓程度，便于快速识别高差集中区；坡向图采用不同色相编码方向，有助于识别迎阳坡、背风坡等。",
+      "distance": 1,
+      "source_media": "word/media/image75.tiff"
+    },
+    {
+      "figure_no": "5-19",
+      "resource_id": "fig_5_19",
+      "file_path": "assets/ch05/images/fig_5_19.jpeg",
+      "context": "根据相关性的性质，空间分布模式可分为三类（图 5-19所示）。",
+      "distance": 7,
+      "source_media": "word/media/image80.jpeg"
+    },
+    {
+      "figure_no": "5-21",
+      "resource_id": "fig_5_21",
+      "file_path": "assets/ch05/images/fig_5_21.tiff",
+      "context": "变异函数的典型参数（如图 5-21）包括：",
+      "distance": 5,
+      "source_media": "word/media/image82.tiff"
+    },
+    {
+      "figure_no": "5-22",
+      "resource_id": "fig_5_22",
+      "file_path": "assets/ch05/images/fig_5_22.tiff",
+      "context": "它是一个抛物面，形状像一个大碗或穹顶，表面只存在一个弯曲，可以模拟更复杂的变化，如盆地效应或拱起现象，如图 5-22。",
+      "distance": 5,
+      "source_media": "word/media/image83.tiff"
+    }
+  ],
+  "structured_tables": [],
+  "unmapped_figure_numbers": [
+    "5-11",
+    "5-17",
+    "5-18",
+    "5-2",
+    "5-20",
+    "5-24",
+    "5-9"
+  ]
+}

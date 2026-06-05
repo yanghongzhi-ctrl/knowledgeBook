@@ -1,0 +1,62 @@
+[
+  {
+    "test_id": "res_eval_ch08_script_01_01",
+    "chapter_id": "ch08",
+    "question": "8.1OpenRoads Designer参数化架构怎么看？",
+    "expected_resource_id": "ch08_script_01",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch08_script_01_02",
+    "chapter_id": "ch08",
+    "question": "我想看8.1OpenRoads Designer参数化架构。",
+    "expected_resource_id": "ch08_script_01",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch08_script_02_01",
+    "chapter_id": "ch08",
+    "question": "8.2ORD软件功能总览与道路设计流程怎么看？",
+    "expected_resource_id": "ch08_script_02",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch08_script_02_02",
+    "chapter_id": "ch08",
+    "question": "我想看8.2ORD软件功能总览与道路设计流程。",
+    "expected_resource_id": "ch08_script_02",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  }
+]

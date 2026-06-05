@@ -1,0 +1,207 @@
+{
+  "chapter_id": "ch02",
+  "version_id": "ch02_kb_v1.0",
+  "package_path": "data\\raw\\ch02\\第2章_道路建模的图形原理与三维表达_知识库_v1.0完备版.json",
+  "source_checksum": "c83e3f22c08f6bc23e3cb04dee4a861b30fb06d331749eb071790a0e4387cf37",
+  "started_at": "2026-06-03T20:19:28",
+  "finished_at": "2026-06-03T20:21:20",
+  "status": "released",
+  "table_counts": {
+    "README": 1,
+    "Chapter_Structure": 19,
+    "Source_Chunks": 110,
+    "Knowledge_Points": 91,
+    "Answer_Cards": 150,
+    "Concept_Comparison": 15,
+    "Synonyms_Questions": 669,
+    "Knowledge_Relations": 79,
+    "Resources": 45,
+    "Exercises": 6,
+    "QA_Testset": 85,
+    "QA_Evaluation_Testset": 450,
+    "RAG_Config": 241,
+    "Embedding_Corpus": 256,
+    "Question_Routing_Rules": 5,
+    "Answer_Policies": 6,
+    "Quality_Checklist": 8,
+    "Interactive_Scripts": 9,
+    "Prompt_Templates": 2,
+    "Resource_Evaluation_Testset": 101
+  },
+  "steps": [
+    {
+      "name": "validate",
+      "status": "passed",
+      "summary": "errors=0, warnings=0",
+      "details": {
+        "counts": {
+          "README": 1,
+          "Chapter_Structure": 19,
+          "Source_Chunks": 110,
+          "Knowledge_Points": 91,
+          "Answer_Cards": 150,
+          "Concept_Comparison": 15,
+          "Synonyms_Questions": 669,
+          "Knowledge_Relations": 79,
+          "Resources": 45,
+          "Exercises": 6,
+          "QA_Testset": 85,
+          "QA_Evaluation_Testset": 450,
+          "RAG_Config": 241,
+          "Embedding_Corpus": 256,
+          "Question_Routing_Rules": 5,
+          "Answer_Policies": 6,
+          "Quality_Checklist": 8,
+          "Interactive_Scripts": 9,
+          "Prompt_Templates": 2,
+          "Resource_Evaluation_Testset": 101
+        },
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "name": "quality",
+      "status": "passed",
+      "summary": "ambiguous_qa=0, duplicate_canonical=0",
+      "details": {
+        "report": "D:\\knowledgebase\\output\\ch02_rag_engine\\reports\\kb_quality_report_ch02.json",
+        "ambiguous_qa_cases": [],
+        "duplicate_canonical_questions": []
+      }
+    },
+    {
+      "name": "export",
+      "status": "passed",
+      "summary": "exported_files=13",
+      "details": {
+        "output_dir": "D:\\knowledgebase\\data\\processed\\ch02",
+        "counts": {
+          "answer_cards.json": 150,
+          "knowledge_points.json": 91,
+          "source_chunks.json": 110,
+          "qa_evaluation_testset.json": 450,
+          "resource_evaluation_testset.json": 101,
+          "rag_config.json": 241,
+          "resource_index.json": 45,
+          "interactive_scripts.json": 9,
+          "embedding_corpus.json": 256,
+          "synonym_questions.json": 669,
+          "knowledge_relations.json": 79,
+          "concept_comparisons.json": 15,
+          "exercises.json": 6
+        }
+      }
+    },
+    {
+      "name": "sql_export",
+      "status": "passed",
+      "summary": "seed_sql_bytes=4912229",
+      "details": {
+        "seed_sql": "D:\\knowledgebase\\output\\ch02_rag_engine\\db_load\\ch02_seed.sql"
+      }
+    },
+    {
+      "name": "local_qa_evaluation",
+      "status": "passed",
+      "summary": "passed=450/450 (100.00%)",
+      "details": {
+        "total": 450,
+        "top1_hits": 450,
+        "top3_hits": 450,
+        "passed": 450,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch02_rag_engine\\reports\\eval_report_ch02.md",
+        "failures": "D:\\knowledgebase\\output\\ch02_rag_engine\\reports\\failed_cases_ch02.json"
+      }
+    },
+    {
+      "name": "local_resource_evaluation",
+      "status": "passed",
+      "summary": "passed=101/101 (100.00%)",
+      "details": {
+        "total": 101,
+        "top1_hits": 101,
+        "passed": 101,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch02_rag_engine\\reports\\resource_eval_report_ch02.md",
+        "failures": "D:\\knowledgebase\\output\\ch02_rag_engine\\reports\\resource_failed_cases_ch02.json"
+      }
+    },
+    {
+      "name": "embeddings",
+      "status": "skipped",
+      "summary": "embedding generation not requested",
+      "details": {
+        "existing_jsonl": "D:\\knowledgebase\\output\\ch02_rag_engine\\embeddings\\ch02_embedding_vectors.jsonl",
+        "existing_sql": "D:\\knowledgebase\\output\\ch02_rag_engine\\db_load\\ch02_embedding_updates.sql"
+      }
+    },
+    {
+      "name": "db_import",
+      "status": "passed",
+      "summary": "counts_ok=True, embedded_vectors=256",
+      "details": {
+        "version_id": "ch02_kb_v1.0",
+        "counts": {
+          "answer_cards": 150,
+          "knowledge_points": 91,
+          "source_chunks": 110,
+          "qa_evaluation_testset": 450,
+          "resources": 45,
+          "interactive_scripts": 9,
+          "resource_evaluation_testset": 101,
+          "embedding_corpus": 256,
+          "embedded_vectors": 256
+        },
+        "expected_counts": {
+          "answer_cards": 150,
+          "knowledge_points": 91,
+          "source_chunks": 110,
+          "qa_evaluation_testset": 450,
+          "resources": 45,
+          "interactive_scripts": 9,
+          "resource_evaluation_testset": 101,
+          "embedding_corpus": 256
+        },
+        "mismatches": {}
+      }
+    },
+    {
+      "name": "db_keyword_evaluation",
+      "status": "passed",
+      "summary": "passed=450/450 (100.00%)",
+      "details": {
+        "retriever": "keyword",
+        "total": 450,
+        "top1_hits": 450,
+        "top1_rate": 1.0,
+        "top3_hits": 450,
+        "top3_rate": 1.0,
+        "passed": 450,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "db_hybrid_evaluation",
+      "status": "passed",
+      "summary": "passed=30/30 (100.00%)",
+      "details": {
+        "retriever": "db-hybrid",
+        "total": 30,
+        "top1_hits": 30,
+        "top1_rate": 1.0,
+        "top3_hits": 30,
+        "top3_rate": 1.0,
+        "passed": 30,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "mark_released",
+      "status": "passed",
+      "summary": "version_id=ch02_kb_v1.0",
+      "details": {}
+    }
+  ]
+}

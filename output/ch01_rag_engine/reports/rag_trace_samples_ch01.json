@@ -1,0 +1,451 @@
+[
+  {
+    "question": "道路工程数字化设计经历了哪些主要阶段？",
+    "top_hits": [
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 185.0,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "token_overlap:48"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_014",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:21"
+        ],
+        "canonical_question": "什么是道路工程数字化设计？"
+      },
+      {
+        "answer_id": "ans_ch01_015",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:22"
+        ],
+        "canonical_question": "道路工程数字化设计的四大核心理念包括哪些？"
+      },
+      {
+        "answer_id": "ans_ch01_022",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:21"
+        ],
+        "canonical_question": "AI在道路工程数字化设计体系中的角色是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_034",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:22"
+        ],
+        "canonical_question": "如何理解道路工程数字化设计的发展主线？"
+      }
+    ],
+    "answer_id": "ans_ch01_001",
+    "answer_mode": "bullet",
+    "rendered_answer": "针对“道路工程数字化设计经历了哪些主要阶段？”，教材知识库可概括为：\n\n1. CAD辅助设计阶段：以二维电子制图、参数计算和标准图纸输出为主要特征。\n2. BIM正向设计阶段：以三维构件模型、参数化建模和信息集成为主要特征。\n3. BIM+GIS协同设计阶段：将精细模型与空间数据、环境约束和方案评价结合。\n4. 数字孪生与智能化阶段：接入实时感知、仿真预测和反馈控制，形成虚实闭环。\n\n教材依据：使用Source_Chunks作为依据，不直接输出长段原文。",
+    "recommended_resources": [
+      {
+        "resource_id": "ch01_script_timeline",
+        "title": "道路设计数字化演进时间轴",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.1设计阶段的演进.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_fig_1_1",
+        "title": "道路数字化设计发展阶段图",
+        "file_path": "chapter_01/image/ch01_fig_1_1",
+        "status": "placeholder_to_bind"
+      },
+      {
+        "resource_id": "ch01_script_digital_twin",
+        "title": "数字孪生虚实闭环脚本",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.5数字孪生虚实闭环交互脚本.html",
+        "status": "bound"
+      }
+    ]
+  },
+  {
+    "question": "为什么说BIM不是简单的三维模型？",
+    "top_hits": [
+      {
+        "answer_id": "ans_ch01_007",
+        "score": 385.0,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "exact_pattern",
+          "synonym",
+          "token_overlap:29"
+        ],
+        "canonical_question": "为什么说BIM不是简单的三维模型？"
+      },
+      {
+        "answer_id": "ans_ch01_002",
+        "score": 63.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:16"
+        ],
+        "canonical_question": "为什么说道路数字化设计不是简单的软件升级？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 44.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:3",
+          "must_include_match"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_024",
+        "score": 42.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:9"
+        ],
+        "canonical_question": "二维、三维和全息表达分别指什么？"
+      },
+      {
+        "answer_id": "ans_ch01_012",
+        "score": 39.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:8"
+        ],
+        "canonical_question": "数字孪生与BIM有什么区别？"
+      }
+    ],
+    "answer_id": "ans_ch01_007",
+    "answer_mode": "bullet",
+    "rendered_answer": "针对“为什么说BIM不是简单的三维模型？”，教材知识库可概括为：\n\n1. 三维模型主要表达形态，BIM还表达工程语义。\n2. BIM构件包含材料、尺寸、编码、工程量等属性。\n3. BIM可嵌入参数、约束和规则，支持联动更新。\n4. BIM能够支撑协同设计、成果交付和后续运维。\n\n教材依据：使用Source_Chunks作为依据，不直接输出长段原文。",
+    "recommended_resources": [
+      {
+        "resource_id": "ch01_script_bim_prr",
+        "title": "道路BIM构件语义与PRR机制",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.3道路BIM概念与特点.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_cad_semantics",
+        "title": "CAD阶段图元语义与设计变更联动",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.2CAD阶段图元语义与设计变更联动.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_concepts",
+        "title": "道路工程数字化设计四大理念脚本",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.6道路工程数字化设计理念.html",
+        "status": "bound"
+      }
+    ]
+  },
+  {
+    "question": "CAD图元和BIM构件有什么本质区别？",
+    "top_hits": [
+      {
+        "answer_id": "ans_ch01_005",
+        "score": 385.0,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "exact_pattern",
+          "synonym",
+          "token_overlap:27"
+        ],
+        "canonical_question": "CAD图元和BIM构件有什么本质区别？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 53.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:6",
+          "must_include_match"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_111",
+        "score": 36.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:7"
+        ],
+        "canonical_question": "与传统CAD设计相比，BIM在信息组织和设计表达方面有哪些根本区别？"
+      },
+      {
+        "answer_id": "ans_ch01_003",
+        "score": 33.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:6"
+        ],
+        "canonical_question": "CAD阶段的主要技术特征是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_012",
+        "score": 33.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:6"
+        ],
+        "canonical_question": "数字孪生与BIM有什么区别？"
+      }
+    ],
+    "answer_id": "ans_ch01_005",
+    "answer_mode": "table",
+    "rendered_answer": "针对“CAD图元和BIM构件有什么本质区别？”，教材知识库可概括为：\n\n| 维度 | 教材要点 |\n|---|---|\n| 表达对象不同 | CAD图元主要表达几何形状，BIM构件表达工程对象。 |\n| 信息内容不同 | CAD图元通常缺少材料、功能、工程量等属性，BIM构件包含属性和语义。 |\n| 联动能力不同 | CAD变更多依赖人工修改，BIM可通过参数和规则联动更新。 |\n| 交付价值不同 | CAD偏图纸成果，BIM可作为后续施工、运维和数字孪生的数据基础。 |\n\n教材依据：使用Source_Chunks作为依据，不直接输出长段原文。",
+    "recommended_resources": [
+      {
+        "resource_id": "ch01_script_bim_prr",
+        "title": "道路BIM构件语义与PRR机制",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.3道路BIM概念与特点.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_cad_semantics",
+        "title": "CAD阶段图元语义与设计变更联动",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.2CAD阶段图元语义与设计变更联动.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_tech_system",
+        "title": "道路工程数字化设计技术体系",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.7道路工程数字化设计技术体系.html",
+        "status": "bound"
+      }
+    ]
+  },
+  {
+    "question": "BIM+GIS在路线适宜性分析中有什么作用？",
+    "top_hits": [
+      {
+        "answer_id": "ans_ch01_010",
+        "score": 51.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:12"
+        ],
+        "canonical_question": "GIS在现代道路设计中的主要作用是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_112",
+        "score": 51.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:12"
+        ],
+        "canonical_question": "GIS技术在现代道路设计中的主要作用是什么？它与BIM之间的融合体现在哪些方面？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 50.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:5",
+          "must_include_match"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_051",
+        "score": 48.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:11"
+        ],
+        "canonical_question": "如何理解GIS适宜性分析？"
+      },
+      {
+        "answer_id": "ans_ch01_062",
+        "score": 27.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:4"
+        ],
+        "canonical_question": "如何理解数字孪生全生命周期应用？"
+      }
+    ],
+    "answer_id": "ans_ch01_010",
+    "answer_mode": "bullet",
+    "rendered_answer": "针对“GIS在现代道路设计中的主要作用是什么？”，教材知识库可概括为：\n\n1. 组织和管理地形、土地、生态、地质、水文等空间数据。\n2. 开展路线走廊适宜性分析和敏感区识别。\n3. 支持路径优化、方案比选和环境影响评价。\n4. 为BIM建模提供宏观空间背景和约束条件。\n\n教材依据：使用Source_Chunks作为依据，不直接输出长段原文。",
+    "recommended_resources": [
+      {
+        "resource_id": "ch01_script_bim_gis_overlay",
+        "title": "BIM+GIS图层叠加与路线适宜性分析",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.4BIM+GIS 图层叠加与路线适宜性分析.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_timeline",
+        "title": "道路设计数字化演进时间轴",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.1设计阶段的演进.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_tech_system",
+        "title": "道路工程数字化设计技术体系",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.7道路工程数字化设计技术体系.html",
+        "status": "bound"
+      }
+    ]
+  },
+  {
+    "question": "数字孪生为什么强调虚实闭环？",
+    "top_hits": [
+      {
+        "answer_id": "ans_ch01_012",
+        "score": 57.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:14"
+        ],
+        "canonical_question": "数字孪生与BIM有什么区别？"
+      },
+      {
+        "answer_id": "ans_ch01_058",
+        "score": 57.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:14"
+        ],
+        "canonical_question": "如何理解数字孪生阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 56.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:7",
+          "must_include_match"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 54.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:13"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_013",
+        "score": 51.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:12"
+        ],
+        "canonical_question": "数字孪生的虚实闭环包括哪些环节？"
+      }
+    ],
+    "answer_id": "ans_ch01_012",
+    "answer_mode": "table",
+    "rendered_answer": "针对“数字孪生与BIM有什么区别？”，教材知识库可概括为：\n\n| 维度 | 教材要点 |\n|---|---|\n| 比较要点 | BIM侧重静态或准静态的工程构件模型和属性集成。 |\n| 比较要点 | 数字孪生在BIM/GIS基础上增加实时感知、运行状态和时间维度。 |\n| 比较要点 | BIM主要服务设计建模和交付，数字孪生强调仿真预测与反馈控制。 |\n| 比较要点 | 数字孪生的核心是虚实闭环，而不仅是三维模型展示。 |\n\n教材依据：使用Source_Chunks作为依据，不直接输出长段原文。",
+    "recommended_resources": [
+      {
+        "resource_id": "ch01_script_digital_twin",
+        "title": "数字孪生虚实闭环脚本",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.5数字孪生虚实闭环交互脚本.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_timeline",
+        "title": "道路设计数字化演进时间轴",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.1设计阶段的演进.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_script_tech_system",
+        "title": "道路工程数字化设计技术体系",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.7道路工程数字化设计技术体系.html",
+        "status": "bound"
+      }
+    ]
+  },
+  {
+    "question": "以模型为核心的设计流程包括哪些环节？",
+    "top_hits": [
+      {
+        "answer_id": "ans_ch01_027",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:33"
+        ],
+        "canonical_question": "以模型为核心的数字化设计流程包括哪些步骤？"
+      },
+      {
+        "answer_id": "ans_ch01_088",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:21"
+        ],
+        "canonical_question": "如何理解以模型为核心的数字化设计流程？"
+      },
+      {
+        "answer_id": "ans_ch01_109",
+        "score": 60.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:15"
+        ],
+        "canonical_question": "如何理解“以图纸为中心”与“以模型为核心”的设计范式转变？"
+      },
+      {
+        "answer_id": "ans_ch01_013",
+        "score": 54.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:13"
+        ],
+        "canonical_question": "数字孪生的虚实闭环包括哪些环节？"
+      },
+      {
+        "answer_id": "ans_ch01_032",
+        "score": 45.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:10"
+        ],
+        "canonical_question": "数据驱动的设计控制机制包括哪些方面？"
+      }
+    ],
+    "answer_id": "ans_ch01_027",
+    "answer_mode": "step",
+    "rendered_answer": "针对“以模型为核心的数字化设计流程包括哪些步骤？”，教材知识库可概括为：\n\n步骤1：GIS空间选线与数据整合：组织地形、生态、土地和环境约束。\n步骤2：BIM参数化建模与构件表达：建立路线、横断面和道路构件模型。\n步骤3：多专业模型协同与冲突预警：围绕统一模型审查和调整。\n步骤4：模型驱动图纸、清单和交付文件输出。\n步骤5：模型直通施工、运维和数字孪生平台。\n\n教材依据：使用Source_Chunks作为依据，不直接输出长段原文。",
+    "recommended_resources": [
+      {
+        "resource_id": "ch01_script_model_flow",
+        "title": "以模型为核心的设计流程脚本",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.8以模型为核心的设计流程.html",
+        "status": "bound"
+      },
+      {
+        "resource_id": "ch01_fig_1_4",
+        "title": "以模型为核心的设计流程图",
+        "file_path": "chapter_01/image/ch01_fig_1_4",
+        "status": "placeholder_to_bind"
+      },
+      {
+        "resource_id": "ch01_script_data_control",
+        "title": "数据驱动的设计控制脚本",
+        "file_path": "D:\\道路工程数字设计方法\\教材脚本\\1.9数据驱动的设计控制.html",
+        "status": "bound"
+      }
+    ]
+  }
+]

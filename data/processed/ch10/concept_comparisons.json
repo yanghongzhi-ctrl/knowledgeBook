@@ -1,0 +1,442 @@
+[
+  {
+    "comparison_id": "ch10_cmp_001",
+    "chapter_id": "ch10",
+    "object_a": "知识驱动",
+    "object_b": "算法驱动",
+    "comparison_dimension": "功能定位",
+    "key_differences": "前者侧重规则、案例和可解释判断；后者侧重方案空间搜索和优化求解。",
+    "teaching_conclusion": "强约束校核优先用知识驱动；复杂优化优先用算法驱动。",
+    "related_kps": [
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_003_algorithm_driven"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "知识驱动和算法驱动有什么区别？",
+    "title": "知识驱动与算法驱动对比：功能定位",
+    "dimensions": "功能定位",
+    "answer_use": "强约束校核优先用知识驱动；复杂优化优先用算法驱动。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_002",
+    "chapter_id": "ch10",
+    "object_a": "知识驱动",
+    "object_b": "数据驱动",
+    "comparison_dimension": "知识来源",
+    "key_differences": "前者来自规范、专家经验和案例结构化；后者来自样本数据学习。",
+    "teaching_conclusion": "二者应结合，既保证可解释性，又提高预测能力。",
+    "related_kps": [
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "知识驱动和数据驱动有什么区别？",
+    "title": "知识驱动与数据驱动对比：知识来源",
+    "dimensions": "知识来源",
+    "answer_use": "二者应结合，既保证可解释性，又提高预测能力。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_003",
+    "chapter_id": "ch10",
+    "object_a": "算法驱动",
+    "object_b": "数据驱动",
+    "comparison_dimension": "解决问题类型",
+    "key_differences": "算法驱动解决可形式化优化问题；数据驱动解决模式识别、预测和推荐问题。",
+    "teaching_conclusion": "选线优化与风险预测通常需要结合使用。",
+    "related_kps": [
+      "kp_ch10_003_algorithm_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "算法驱动和数据驱动有什么区别？",
+    "title": "算法驱动与数据驱动对比：解决问题类型",
+    "dimensions": "解决问题类型",
+    "answer_use": "选线优化与风险预测通常需要结合使用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_004",
+    "chapter_id": "ch10",
+    "object_a": "RBR规则推理",
+    "object_b": "CBR案例推理",
+    "comparison_dimension": "适用场景",
+    "key_differences": "RBR适合规范明确的强约束问题；CBR适合经验类比和相似情境参考。",
+    "teaching_conclusion": "设计系统应区分强制性判断和经验性推荐。",
+    "related_kps": [
+      "kp_ch10_027_rule_based_reasoning",
+      "kp_ch10_026_case_based_reasoning"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "RBR规则推理和CBR案例推理有什么区别？",
+    "title": "RBR规则推理与CBR案例推理对比：适用场景",
+    "dimensions": "适用场景",
+    "answer_use": "设计系统应区分强制性判断和经验性推荐。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_005",
+    "chapter_id": "ch10",
+    "object_a": "SRR空间关系推理",
+    "object_b": "RBR规则推理",
+    "comparison_dimension": "推理对象",
+    "key_differences": "SRR从空间关系推出工程语义；RBR从前提事实和规则推出结论。",
+    "teaching_conclusion": "SRR可为RBR提供空间事实输入。",
+    "related_kps": [
+      "kp_ch10_025_spatial_relation_reasoning",
+      "kp_ch10_027_rule_based_reasoning"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "SRR空间关系推理和RBR规则推理有什么区别？",
+    "title": "SRR空间关系推理与RBR规则推理对比：推理对象",
+    "dimensions": "推理对象",
+    "answer_use": "SRR可为RBR提供空间事实输入。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_006",
+    "chapter_id": "ch10",
+    "object_a": "规则库",
+    "object_b": "案例库",
+    "comparison_dimension": "知识组织方式",
+    "key_differences": "规则库保存前提—结论规则；案例库存储情境—方案—效果三元组。",
+    "teaching_conclusion": "规则用于判断，案例用于参考。",
+    "related_kps": [
+      "kp_ch10_016_rule_base",
+      "kp_ch10_015_case_base"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "规则库和案例库有什么区别？",
+    "title": "规则库与案例库对比：知识组织方式",
+    "dimensions": "知识组织方式",
+    "answer_use": "规则用于判断，案例用于参考。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_007",
+    "chapter_id": "ch10",
+    "object_a": "本体知识图谱",
+    "object_b": "传统表格数据库",
+    "comparison_dimension": "语义表达能力",
+    "key_differences": "知识图谱能表达概念关系和层级语义；表格数据库更适合结构化记录。",
+    "teaching_conclusion": "智能设计需要二者结合。",
+    "related_kps": [
+      "kp_ch10_013_ontology_graph",
+      "kp_ch10_010_knowledge_management_module"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "本体知识图谱和传统表格数据库有什么区别？",
+    "title": "本体知识图谱与传统表格数据库对比：语义表达能力",
+    "dimensions": "语义表达能力",
+    "answer_use": "智能设计需要二者结合。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_008",
+    "chapter_id": "ch10",
+    "object_a": "硬约束",
+    "object_b": "软约束",
+    "comparison_dimension": "约束性质",
+    "key_differences": "硬约束必须满足；软约束可通过权重、罚函数或偏好处理。",
+    "teaching_conclusion": "道路选线模型必须先满足硬约束。",
+    "related_kps": [
+      "kp_ch10_041_hard_soft_constraints",
+      "kp_ch10_040_constraints"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "硬约束和软约束有什么区别？",
+    "title": "硬约束与软约束对比：约束性质",
+    "dimensions": "约束性质",
+    "answer_use": "道路选线模型必须先满足硬约束。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_009",
+    "chapter_id": "ch10",
+    "object_a": "GA",
+    "object_b": "NSGA-II",
+    "comparison_dimension": "优化目标",
+    "key_differences": "GA多用于单目标或聚合目标；NSGA-II用于多目标并输出帕累托解集。",
+    "teaching_conclusion": "多目标路线比选更适合NSGA-II。",
+    "related_kps": [
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_051_nsga2"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "GA和NSGA-II有什么区别？",
+    "title": "GA与NSGA-II对比：优化目标",
+    "dimensions": "优化目标",
+    "answer_use": "多目标路线比选更适合NSGA-II。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_010",
+    "chapter_id": "ch10",
+    "object_a": "单目标优化",
+    "object_b": "多目标优化",
+    "comparison_dimension": "输出形式",
+    "key_differences": "单目标优化通常给出一个最优解；多目标优化给出方案集和折中关系。",
+    "teaching_conclusion": "道路工程真实决策常属于多目标问题。",
+    "related_kps": [
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_042_multi_objective_optimization_model"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "单目标优化和多目标优化有什么区别？",
+    "title": "单目标优化与多目标优化对比：输出形式",
+    "dimensions": "输出形式",
+    "answer_use": "道路工程真实决策常属于多目标问题。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_011",
+    "chapter_id": "ch10",
+    "object_a": "加权和法",
+    "object_b": "ε约束法",
+    "comparison_dimension": "偏好处理",
+    "key_differences": "加权和法通过权重聚合目标；ε约束法将部分目标转化为约束。",
+    "teaching_conclusion": "二者都需要工程师设定偏好。",
+    "related_kps": [
+      "kp_ch10_055_weighted_sum_method",
+      "kp_ch10_056_epsilon_constraint"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "加权和法和ε约束法有什么区别？",
+    "title": "加权和法与ε约束法对比：偏好处理",
+    "dimensions": "偏好处理",
+    "answer_use": "二者都需要工程师设定偏好。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_012",
+    "chapter_id": "ch10",
+    "object_a": "帕累托前沿",
+    "object_b": "膝点方案",
+    "comparison_dimension": "多目标决策",
+    "key_differences": "帕累托前沿是一组折中方案；膝点是前沿中较均衡的候选方案。",
+    "teaching_conclusion": "膝点可作为推荐方案但不是唯一正确答案。",
+    "related_kps": [
+      "kp_ch10_050_pareto_front",
+      "kp_ch10_057_knee_point"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "帕累托前沿和膝点方案有什么区别？",
+    "title": "帕累托前沿与膝点方案对比：多目标决策",
+    "dimensions": "多目标决策",
+    "answer_use": "膝点可作为推荐方案但不是唯一正确答案。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_013",
+    "chapter_id": "ch10",
+    "object_a": "监督学习",
+    "object_b": "无监督学习",
+    "comparison_dimension": "标签需求",
+    "key_differences": "监督学习需要标签样本；无监督学习不需要标签但需人工解释类别。",
+    "teaching_conclusion": "滑坡/非滑坡样本明确时优先监督学习。",
+    "related_kps": [
+      "kp_ch10_069_supervised_learning",
+      "kp_ch10_072_unsupervised_learning"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "监督学习和无监督学习有什么区别？",
+    "title": "监督学习与无监督学习对比：标签需求",
+    "dimensions": "标签需求",
+    "answer_use": "滑坡/非滑坡样本明确时优先监督学习。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_014",
+    "chapter_id": "ch10",
+    "object_a": "分类",
+    "object_b": "回归",
+    "comparison_dimension": "输出类型",
+    "key_differences": "分类输出离散类别；回归输出连续数值。",
+    "teaching_conclusion": "风险等级识别用分类，半径推荐可用回归。",
+    "related_kps": [
+      "kp_ch10_070_classification",
+      "kp_ch10_071_regression"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "分类和回归有什么区别？",
+    "title": "分类与回归对比：输出类型",
+    "dimensions": "输出类型",
+    "answer_use": "风险等级识别用分类，半径推荐可用回归。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_015",
+    "chapter_id": "ch10",
+    "object_a": "CNN",
+    "object_b": "RNN",
+    "comparison_dimension": "数据类型",
+    "key_differences": "CNN适合图像和栅格空间特征；RNN适合时序数据。",
+    "teaching_conclusion": "遥感识别用CNN，交通序列预测可用RNN。",
+    "related_kps": [
+      "kp_ch10_074_cnn",
+      "kp_ch10_075_rnn"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "CNN和RNN有什么区别？",
+    "title": "CNN与RNN对比：数据类型",
+    "dimensions": "数据类型",
+    "answer_use": "遥感识别用CNN，交通序列预测可用RNN。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_016",
+    "chapter_id": "ch10",
+    "object_a": "GAN",
+    "object_b": "传统预测模型",
+    "comparison_dimension": "用途",
+    "key_differences": "GAN侧重生成或数据增强；传统预测模型侧重分类和回归。",
+    "teaching_conclusion": "GAN不应直接代替工程评价。",
+    "related_kps": [
+      "kp_ch10_076_gan",
+      "kp_ch10_073_deep_learning"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "GAN和传统预测模型有什么区别？",
+    "title": "GAN与传统预测模型对比：用途",
+    "dimensions": "用途",
+    "answer_use": "GAN不应直接代替工程评价。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_017",
+    "chapter_id": "ch10",
+    "object_a": "协同过滤推荐",
+    "object_b": "基于内容推荐",
+    "comparison_dimension": "推荐依据",
+    "key_differences": "协同过滤依据相似用户或行为；基于内容推荐依据项目和方案特征。",
+    "teaching_conclusion": "道路设计更常需要结合工程内容特征。",
+    "related_kps": [
+      "kp_ch10_089_collaborative_filtering",
+      "kp_ch10_090_content_based_recommendation"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "协同过滤推荐和基于内容推荐有什么区别？",
+    "title": "协同过滤推荐与基于内容推荐对比：推荐依据",
+    "dimensions": "推荐依据",
+    "answer_use": "道路设计更常需要结合工程内容特征。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_018",
+    "chapter_id": "ch10",
+    "object_a": "机器学习推荐",
+    "object_b": "工程规则筛选",
+    "comparison_dimension": "作用边界",
+    "key_differences": "机器学习提供数据驱动建议；工程规则保证方案可行与合规。",
+    "teaching_conclusion": "推荐系统必须与规则约束结合。",
+    "related_kps": [
+      "kp_ch10_082_recommendation_system",
+      "kp_ch10_016_rule_base"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "机器学习推荐和工程规则筛选有什么区别？",
+    "title": "机器学习推荐与工程规则筛选对比：作用边界",
+    "dimensions": "作用边界",
+    "answer_use": "推荐系统必须与规则约束结合。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_019",
+    "chapter_id": "ch10",
+    "object_a": "AI辅助设计",
+    "object_b": "传统CAD辅助绘图",
+    "comparison_dimension": "核心差异",
+    "key_differences": "AI辅助设计强调推理、预测、优化和推荐；CAD主要提高绘图效率。",
+    "teaching_conclusion": "AI是设计认知与决策增强，不只是绘图工具。",
+    "related_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_096_human_ai_collaboration"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "AI辅助设计和传统CAD辅助绘图有什么区别？",
+    "title": "AI辅助设计与传统CAD辅助绘图对比：核心差异",
+    "dimensions": "核心差异",
+    "answer_use": "AI是设计认知与决策增强，不只是绘图工具。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_020",
+    "chapter_id": "ch10",
+    "object_a": "AI自动生成",
+    "object_b": "人机协同设计",
+    "comparison_dimension": "责任边界",
+    "key_differences": "自动生成强调算法产出；人机协同强调工程师审查、修正和责任承担。",
+    "teaching_conclusion": "道路设计应采用人机协同模式。",
+    "related_kps": [
+      "kp_ch10_096_human_ai_collaboration",
+      "kp_ch10_097_ai_limitations"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "AI自动生成和人机协同设计有什么区别？",
+    "title": "AI自动生成与人机协同设计对比：责任边界",
+    "dimensions": "责任边界",
+    "answer_use": "道路设计应采用人机协同模式。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_021",
+    "chapter_id": "ch10",
+    "object_a": "RAG问答",
+    "object_b": "普通大模型问答",
+    "comparison_dimension": "依据来源",
+    "key_differences": "RAG先检索知识库证据再生成；普通问答主要依赖模型参数记忆。",
+    "teaching_conclusion": "教材平台应优先使用RAG。",
+    "related_kps": [
+      "kp_ch10_005_rag_ai_agent",
+      "kp_ch10_098_explainability"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "RAG问答和普通大模型问答有什么区别？",
+    "title": "RAG问答与普通大模型问答对比：依据来源",
+    "dimensions": "依据来源",
+    "answer_use": "教材平台应优先使用RAG。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "ch10_cmp_022",
+    "chapter_id": "ch10",
+    "object_a": "知识图谱",
+    "object_b": "RAG知识库",
+    "comparison_dimension": "功能差异",
+    "key_differences": "知识图谱强调关系推理；RAG知识库强调证据检索与答案生成。",
+    "teaching_conclusion": "二者结合可提高回答准确性和可解释性。",
+    "related_kps": [
+      "kp_ch10_013_ontology_graph",
+      "kp_ch10_005_rag_ai_agent"
+    ],
+    "answer_mode": "table",
+    "qa_trigger": "知识图谱和RAG知识库有什么区别？",
+    "title": "知识图谱与RAG知识库对比：功能差异",
+    "dimensions": "功能差异",
+    "answer_use": "二者结合可提高回答准确性和可解释性。",
+    "related_answer_cards": [],
+    "status": "checked"
+  }
+]

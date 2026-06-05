@@ -1,0 +1,62 @@
+[
+  {
+    "exercise_id": "ex_ch09_01",
+    "chapter_id": "ch09",
+    "question": "BIM+GIS集成的三个层次有什么区别？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": "",
+    "standard_answer_points": "数据级集成：解决数据互通和空间背景引入问题。; 流程级集成：实现BIM建模与GIS分析联动，形成分析—建模—反馈闭环。; 语义级集成：引入知识库、规则库和推理机制，使系统能够进行智能判断。; 递进关系：从数据共享到流程联动，再到语义理解和智能决策。",
+    "grading_rubric": "每个关键点2分，逻辑完整与工程例子2分。",
+    "common_mistakes": "概念混淆；只讲软件按钮不讲数据流；忽略递进关系。",
+    "feedback_template": "指出已答要点、缺失要点，并推荐对应Answer_Cards与操作任务。"
+  },
+  {
+    "exercise_id": "ex_ch09_02",
+    "chapter_id": "ch09",
+    "question": "Alignment、Profile、Assembly与Corridor之间是什么关系？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": "",
+    "standard_answer_points": "Alignment提供平面路线和桩号控制。; Profile提供沿路线方向的设计高程。; Assembly定义标准横断面和部件组合。; Corridor沿Alignment和Profile套用Assembly，生成连续三维道路模型。",
+    "grading_rubric": "每个关键点2分，逻辑完整与工程例子2分。",
+    "common_mistakes": "概念混淆；只讲软件按钮不讲数据流；忽略递进关系。",
+    "feedback_template": "指出已答要点、缺失要点，并推荐对应Answer_Cards与操作任务。"
+  },
+  {
+    "exercise_id": "ex_ch09_03",
+    "chapter_id": "ch09",
+    "question": "FDO技术相比传统导入有什么优势？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": "",
+    "standard_answer_points": "FDO保持与外部数据源动态连接。; FDO可直接访问属性和几何，不必复制到DWG。; FDO便于图层样式、属性查询和空间查询。; FDO更适合多源数据协同和实时更新。",
+    "grading_rubric": "每个关键点2分，逻辑完整与工程例子2分。",
+    "common_mistakes": "概念混淆；只讲软件按钮不讲数据流；忽略递进关系。",
+    "feedback_template": "指出已答要点、缺失要点，并推荐对应Answer_Cards与操作任务。"
+  },
+  {
+    "exercise_id": "ex_ch09_04",
+    "chapter_id": "ch09",
+    "question": "GDAL在BIM+GIS协同中扮演什么角色？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": "",
+    "standard_answer_points": "GDAL是空间数据预处理和栅格分析枢纽。; Civil 3D可导出地形或道路曲面。; GDAL对DEM进行重采样、裁剪、坡度坡向和重分类。; Map 3D加载GDAL处理成果，用于约束识别和方案评价。",
+    "grading_rubric": "每个关键点2分，逻辑完整与工程例子2分。",
+    "common_mistakes": "概念混淆；只讲软件按钮不讲数据流；忽略递进关系。",
+    "feedback_template": "指出已答要点、缺失要点，并推荐对应Answer_Cards与操作任务。"
+  },
+  {
+    "exercise_id": "ex_ch09_05",
+    "chapter_id": "ch09",
+    "question": "BIM+GIS如何改变三尺度地质选线模式？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": "",
+    "standard_answer_points": "宏观尺度：通过成本面和敏感性图确定走廊带。; 中观尺度：通过地形重构和扰动后风险再评价比选路线方案。; 微观尺度：通过知识库、空间推理、CBR和RBR辅助定线决策。",
+    "grading_rubric": "每个关键点2分，逻辑完整与工程例子2分。",
+    "common_mistakes": "概念混淆；只讲软件按钮不讲数据流；忽略递进关系。",
+    "feedback_template": "指出已答要点、缺失要点，并推荐对应Answer_Cards与操作任务。"
+  }
+]

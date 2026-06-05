@@ -1,0 +1,405 @@
+{
+  "ok": true,
+  "mode": "preview",
+  "generated_at": "2026-06-05T11:04:30",
+  "draft": "D:\\knowledgebase\\data\\review\\ch10_ch11_source_boundary_manual_approvals.draft.json",
+  "formal": "D:\\knowledgebase\\data\\review\\ch10_ch11_source_boundary_manual_approvals.json",
+  "formal_exists": false,
+  "validation": {
+    "ok": true,
+    "approvals": "D:\\knowledgebase\\data\\review\\ch10_ch11_source_boundary_manual_approvals.draft.json",
+    "errors": [],
+    "warnings": [],
+    "summary": {
+      "items": 51,
+      "decisions_by_value": {
+        "": 46,
+        "confirm_candidate_anchor": 4,
+        "manual_anchor_pending": 1
+      },
+      "non_empty_decisions": 5,
+      "non_empty_by_value": {
+        "confirm_candidate_anchor": 4,
+        "manual_anchor_pending": 1
+      }
+    }
+  },
+  "summary": {
+    "known_review_items": 51,
+    "draft_items": 51,
+    "non_empty_decisions": 5,
+    "open_decisions": 46,
+    "chapters": {
+      "ch10": {
+        "items": 13,
+        "open": 8,
+        "filled": 5
+      },
+      "ch11": {
+        "items": 38,
+        "open": 38,
+        "filled": 0
+      }
+    },
+    "priorities": {
+      "P1_ch10_formula_gap": {
+        "items": 1,
+        "open": 0,
+        "filled": 1
+      },
+      "P1_ch10_quick_confirm": {
+        "items": 4,
+        "open": 0,
+        "filled": 4
+      },
+      "P2_ch10_boundary_summary": {
+        "items": 8,
+        "open": 8,
+        "filled": 0
+      },
+      "P2_ch11_quick_confirm": {
+        "items": 1,
+        "open": 1,
+        "filled": 0
+      },
+      "P3_ch11_application_scene_manual": {
+        "items": 29,
+        "open": 29,
+        "filled": 0
+      },
+      "P4_ch11_boundary_summary": {
+        "items": 8,
+        "open": 8,
+        "filled": 0
+      }
+    }
+  },
+  "open_items": [
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_018",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_034",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_060",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_075",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_087",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_002",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_031",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_096",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_046",
+      "priority_group": "P2_ch11_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_117",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_119",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_121",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_122",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_124",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_125",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_126",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_127",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_128",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_134",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_135",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_136",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_137",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_139",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_140",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_142",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_143",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_144",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_145",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_146",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_147",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_148",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_150",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_151",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_152",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_155",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_156",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_158",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_160",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_123",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_154",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_118",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_120",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_130",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_138",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_149",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_157",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary"
+    }
+  ],
+  "formal_written": false,
+  "formal_write_blockers": [
+    "Dry run only. Add --write-formal --confirm-reviewed to write the formal approval file."
+  ]
+}

@@ -1,0 +1,2552 @@
+[
+  {
+    "screenshot_id": "ch06_shot_001_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_001",
+    "step_id": "ch06_task_001_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_001_01.png",
+    "title": "设置AutoCAD绘图环境-明确操作目标与前置条件截图",
+    "description": "用于展示“设置AutoCAD绘图环境”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或设置AutoCAD绘图环境时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置AutoCAD绘图环境-明确操作目标与前置条件截图",
+      "ch06_shot_001_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_001_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_001",
+    "step_id": "ch06_task_001_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_001_02.png",
+    "title": "设置AutoCAD绘图环境-启动对应命令或工具截图",
+    "description": "用于展示“设置AutoCAD绘图环境”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或设置AutoCAD绘图环境时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置AutoCAD绘图环境-启动对应命令或工具截图",
+      "ch06_shot_001_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_001_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_001",
+    "step_id": "ch06_task_001_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_001_03.png",
+    "title": "设置AutoCAD绘图环境-选择对象或指定点位截图",
+    "description": "用于展示“设置AutoCAD绘图环境”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或设置AutoCAD绘图环境时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置AutoCAD绘图环境-选择对象或指定点位截图",
+      "ch06_shot_001_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_001_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_001",
+    "step_id": "ch06_task_001_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_001_04.png",
+    "title": "设置AutoCAD绘图环境-输入关键参数并确认截图",
+    "description": "用于展示“设置AutoCAD绘图环境”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或设置AutoCAD绘图环境时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置AutoCAD绘图环境-输入关键参数并确认截图",
+      "ch06_shot_001_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_001_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_001",
+    "step_id": "ch06_task_001_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_001_05.png",
+    "title": "设置AutoCAD绘图环境-检查结果并修正截图",
+    "description": "用于展示“设置AutoCAD绘图环境”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或设置AutoCAD绘图环境时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置AutoCAD绘图环境-检查结果并修正截图",
+      "ch06_shot_001_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_002_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_002",
+    "step_id": "ch06_task_002_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_002_01.png",
+    "title": "使用坐标精确绘制线段-明确操作目标与前置条件截图",
+    "description": "用于展示“使用坐标精确绘制线段”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或使用坐标精确绘制线段时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用坐标精确绘制线段-明确操作目标与前置条件截图",
+      "ch06_shot_002_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_002_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_002",
+    "step_id": "ch06_task_002_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_002_02.png",
+    "title": "使用坐标精确绘制线段-启动对应命令或工具截图",
+    "description": "用于展示“使用坐标精确绘制线段”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或使用坐标精确绘制线段时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用坐标精确绘制线段-启动对应命令或工具截图",
+      "ch06_shot_002_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_002_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_002",
+    "step_id": "ch06_task_002_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_002_03.png",
+    "title": "使用坐标精确绘制线段-选择对象或指定点位截图",
+    "description": "用于展示“使用坐标精确绘制线段”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或使用坐标精确绘制线段时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用坐标精确绘制线段-选择对象或指定点位截图",
+      "ch06_shot_002_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_002_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_002",
+    "step_id": "ch06_task_002_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_002_04.png",
+    "title": "使用坐标精确绘制线段-输入关键参数并确认截图",
+    "description": "用于展示“使用坐标精确绘制线段”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或使用坐标精确绘制线段时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用坐标精确绘制线段-输入关键参数并确认截图",
+      "ch06_shot_002_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_002_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_002",
+    "step_id": "ch06_task_002_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_002_05.png",
+    "title": "使用坐标精确绘制线段-检查结果并修正截图",
+    "description": "用于展示“使用坐标精确绘制线段”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或使用坐标精确绘制线段时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用坐标精确绘制线段-检查结果并修正截图",
+      "ch06_shot_002_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_003_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_003",
+    "step_id": "ch06_task_003_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_003_01.png",
+    "title": "完成模型空间与图纸空间布局-明确操作目标与前置条件截图",
+    "description": "用于展示“完成模型空间与图纸空间布局”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或完成模型空间与图纸空间布局时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "完成模型空间与图纸空间布局-明确操作目标与前置条件截图",
+      "ch06_shot_003_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_003_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_003",
+    "step_id": "ch06_task_003_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_003_02.png",
+    "title": "完成模型空间与图纸空间布局-启动对应命令或工具截图",
+    "description": "用于展示“完成模型空间与图纸空间布局”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或完成模型空间与图纸空间布局时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "完成模型空间与图纸空间布局-启动对应命令或工具截图",
+      "ch06_shot_003_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_003_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_003",
+    "step_id": "ch06_task_003_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_003_03.png",
+    "title": "完成模型空间与图纸空间布局-选择对象或指定点位截图",
+    "description": "用于展示“完成模型空间与图纸空间布局”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或完成模型空间与图纸空间布局时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "完成模型空间与图纸空间布局-选择对象或指定点位截图",
+      "ch06_shot_003_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_003_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_003",
+    "step_id": "ch06_task_003_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_003_04.png",
+    "title": "完成模型空间与图纸空间布局-输入关键参数并确认截图",
+    "description": "用于展示“完成模型空间与图纸空间布局”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或完成模型空间与图纸空间布局时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "完成模型空间与图纸空间布局-输入关键参数并确认截图",
+      "ch06_shot_003_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_003_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_003",
+    "step_id": "ch06_task_003_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_003_05.png",
+    "title": "完成模型空间与图纸空间布局-检查结果并修正截图",
+    "description": "用于展示“完成模型空间与图纸空间布局”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或完成模型空间与图纸空间布局时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "完成模型空间与图纸空间布局-检查结果并修正截图",
+      "ch06_shot_003_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_004_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_004",
+    "step_id": "ch06_task_004_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_004_01.png",
+    "title": "绘制道路横断面基本线形-明确操作目标与前置条件截图",
+    "description": "用于展示“绘制道路横断面基本线形”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或绘制道路横断面基本线形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制道路横断面基本线形-明确操作目标与前置条件截图",
+      "ch06_shot_004_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_004_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_004",
+    "step_id": "ch06_task_004_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_004_02.png",
+    "title": "绘制道路横断面基本线形-启动对应命令或工具截图",
+    "description": "用于展示“绘制道路横断面基本线形”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或绘制道路横断面基本线形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制道路横断面基本线形-启动对应命令或工具截图",
+      "ch06_shot_004_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_004_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_004",
+    "step_id": "ch06_task_004_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_004_03.png",
+    "title": "绘制道路横断面基本线形-选择对象或指定点位截图",
+    "description": "用于展示“绘制道路横断面基本线形”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或绘制道路横断面基本线形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制道路横断面基本线形-选择对象或指定点位截图",
+      "ch06_shot_004_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_004_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_004",
+    "step_id": "ch06_task_004_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_004_04.png",
+    "title": "绘制道路横断面基本线形-输入关键参数并确认截图",
+    "description": "用于展示“绘制道路横断面基本线形”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或绘制道路横断面基本线形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制道路横断面基本线形-输入关键参数并确认截图",
+      "ch06_shot_004_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_004_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_004",
+    "step_id": "ch06_task_004_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_004_05.png",
+    "title": "绘制道路横断面基本线形-检查结果并修正截图",
+    "description": "用于展示“绘制道路横断面基本线形”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或绘制道路横断面基本线形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制道路横断面基本线形-检查结果并修正截图",
+      "ch06_shot_004_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_005_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_005",
+    "step_id": "ch06_task_005_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_005_01.png",
+    "title": "绘制圆及内接/外切正多边形-明确操作目标与前置条件截图",
+    "description": "用于展示“绘制圆及内接/外切正多边形”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或绘制圆及内接/外切正多边形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆及内接/外切正多边形-明确操作目标与前置条件截图",
+      "ch06_shot_005_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_005_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_005",
+    "step_id": "ch06_task_005_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_005_02.png",
+    "title": "绘制圆及内接/外切正多边形-启动对应命令或工具截图",
+    "description": "用于展示“绘制圆及内接/外切正多边形”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或绘制圆及内接/外切正多边形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆及内接/外切正多边形-启动对应命令或工具截图",
+      "ch06_shot_005_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_005_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_005",
+    "step_id": "ch06_task_005_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_005_03.png",
+    "title": "绘制圆及内接/外切正多边形-选择对象或指定点位截图",
+    "description": "用于展示“绘制圆及内接/外切正多边形”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或绘制圆及内接/外切正多边形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆及内接/外切正多边形-选择对象或指定点位截图",
+      "ch06_shot_005_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_005_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_005",
+    "step_id": "ch06_task_005_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_005_04.png",
+    "title": "绘制圆及内接/外切正多边形-输入关键参数并确认截图",
+    "description": "用于展示“绘制圆及内接/外切正多边形”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或绘制圆及内接/外切正多边形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆及内接/外切正多边形-输入关键参数并确认截图",
+      "ch06_shot_005_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_005_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_005",
+    "step_id": "ch06_task_005_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_005_05.png",
+    "title": "绘制圆及内接/外切正多边形-检查结果并修正截图",
+    "description": "用于展示“绘制圆及内接/外切正多边形”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或绘制圆及内接/外切正多边形时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆及内接/外切正多边形-检查结果并修正截图",
+      "ch06_shot_005_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_006_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_006",
+    "step_id": "ch06_task_006_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_006_01.png",
+    "title": "绘制圆弧与样条曲线-明确操作目标与前置条件截图",
+    "description": "用于展示“绘制圆弧与样条曲线”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或绘制圆弧与样条曲线时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆弧与样条曲线-明确操作目标与前置条件截图",
+      "ch06_shot_006_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_006_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_006",
+    "step_id": "ch06_task_006_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_006_02.png",
+    "title": "绘制圆弧与样条曲线-启动对应命令或工具截图",
+    "description": "用于展示“绘制圆弧与样条曲线”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或绘制圆弧与样条曲线时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆弧与样条曲线-启动对应命令或工具截图",
+      "ch06_shot_006_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_006_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_006",
+    "step_id": "ch06_task_006_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_006_03.png",
+    "title": "绘制圆弧与样条曲线-选择对象或指定点位截图",
+    "description": "用于展示“绘制圆弧与样条曲线”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或绘制圆弧与样条曲线时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆弧与样条曲线-选择对象或指定点位截图",
+      "ch06_shot_006_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_006_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_006",
+    "step_id": "ch06_task_006_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_006_04.png",
+    "title": "绘制圆弧与样条曲线-输入关键参数并确认截图",
+    "description": "用于展示“绘制圆弧与样条曲线”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或绘制圆弧与样条曲线时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆弧与样条曲线-输入关键参数并确认截图",
+      "ch06_shot_006_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_006_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_006",
+    "step_id": "ch06_task_006_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_006_05.png",
+    "title": "绘制圆弧与样条曲线-检查结果并修正截图",
+    "description": "用于展示“绘制圆弧与样条曲线”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或绘制圆弧与样条曲线时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制圆弧与样条曲线-检查结果并修正截图",
+      "ch06_shot_006_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_007_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_007",
+    "step_id": "ch06_task_007_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_007_01.png",
+    "title": "移动与复制图形对象-明确操作目标与前置条件截图",
+    "description": "用于展示“移动与复制图形对象”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或移动与复制图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "移动与复制图形对象-明确操作目标与前置条件截图",
+      "ch06_shot_007_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_007_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_007",
+    "step_id": "ch06_task_007_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_007_02.png",
+    "title": "移动与复制图形对象-启动对应命令或工具截图",
+    "description": "用于展示“移动与复制图形对象”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或移动与复制图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "移动与复制图形对象-启动对应命令或工具截图",
+      "ch06_shot_007_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_007_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_007",
+    "step_id": "ch06_task_007_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_007_03.png",
+    "title": "移动与复制图形对象-选择对象或指定点位截图",
+    "description": "用于展示“移动与复制图形对象”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或移动与复制图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "移动与复制图形对象-选择对象或指定点位截图",
+      "ch06_shot_007_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_007_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_007",
+    "step_id": "ch06_task_007_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_007_04.png",
+    "title": "移动与复制图形对象-输入关键参数并确认截图",
+    "description": "用于展示“移动与复制图形对象”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或移动与复制图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "移动与复制图形对象-输入关键参数并确认截图",
+      "ch06_shot_007_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_007_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_007",
+    "step_id": "ch06_task_007_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_007_05.png",
+    "title": "移动与复制图形对象-检查结果并修正截图",
+    "description": "用于展示“移动与复制图形对象”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或移动与复制图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "移动与复制图形对象-检查结果并修正截图",
+      "ch06_shot_007_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_008_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_008",
+    "step_id": "ch06_task_008_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_008_01.png",
+    "title": "拉伸与缩放图形对象-明确操作目标与前置条件截图",
+    "description": "用于展示“拉伸与缩放图形对象”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或拉伸与缩放图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸与缩放图形对象-明确操作目标与前置条件截图",
+      "ch06_shot_008_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_008_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_008",
+    "step_id": "ch06_task_008_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_008_02.png",
+    "title": "拉伸与缩放图形对象-启动对应命令或工具截图",
+    "description": "用于展示“拉伸与缩放图形对象”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或拉伸与缩放图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸与缩放图形对象-启动对应命令或工具截图",
+      "ch06_shot_008_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_008_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_008",
+    "step_id": "ch06_task_008_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_008_03.png",
+    "title": "拉伸与缩放图形对象-选择对象或指定点位截图",
+    "description": "用于展示“拉伸与缩放图形对象”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或拉伸与缩放图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸与缩放图形对象-选择对象或指定点位截图",
+      "ch06_shot_008_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_008_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_008",
+    "step_id": "ch06_task_008_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_008_04.png",
+    "title": "拉伸与缩放图形对象-输入关键参数并确认截图",
+    "description": "用于展示“拉伸与缩放图形对象”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或拉伸与缩放图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸与缩放图形对象-输入关键参数并确认截图",
+      "ch06_shot_008_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_008_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_008",
+    "step_id": "ch06_task_008_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_008_05.png",
+    "title": "拉伸与缩放图形对象-检查结果并修正截图",
+    "description": "用于展示“拉伸与缩放图形对象”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或拉伸与缩放图形对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸与缩放图形对象-检查结果并修正截图",
+      "ch06_shot_008_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_009_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_009",
+    "step_id": "ch06_task_009_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_009_01.png",
+    "title": "旋转与镜像对象-明确操作目标与前置条件截图",
+    "description": "用于展示“旋转与镜像对象”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或旋转与镜像对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "旋转与镜像对象-明确操作目标与前置条件截图",
+      "ch06_shot_009_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_009_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_009",
+    "step_id": "ch06_task_009_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_009_02.png",
+    "title": "旋转与镜像对象-启动对应命令或工具截图",
+    "description": "用于展示“旋转与镜像对象”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或旋转与镜像对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "旋转与镜像对象-启动对应命令或工具截图",
+      "ch06_shot_009_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_009_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_009",
+    "step_id": "ch06_task_009_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_009_03.png",
+    "title": "旋转与镜像对象-选择对象或指定点位截图",
+    "description": "用于展示“旋转与镜像对象”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或旋转与镜像对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "旋转与镜像对象-选择对象或指定点位截图",
+      "ch06_shot_009_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_009_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_009",
+    "step_id": "ch06_task_009_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_009_04.png",
+    "title": "旋转与镜像对象-输入关键参数并确认截图",
+    "description": "用于展示“旋转与镜像对象”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或旋转与镜像对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "旋转与镜像对象-输入关键参数并确认截图",
+      "ch06_shot_009_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_009_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_009",
+    "step_id": "ch06_task_009_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_009_05.png",
+    "title": "旋转与镜像对象-检查结果并修正截图",
+    "description": "用于展示“旋转与镜像对象”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或旋转与镜像对象时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "旋转与镜像对象-检查结果并修正截图",
+      "ch06_shot_009_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_010_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_010",
+    "step_id": "ch06_task_010_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_010_01.png",
+    "title": "修剪、延伸与圆角处理-明确操作目标与前置条件截图",
+    "description": "用于展示“修剪、延伸与圆角处理”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或修剪、延伸与圆角处理时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修剪、延伸与圆角处理-明确操作目标与前置条件截图",
+      "ch06_shot_010_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_010_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_010",
+    "step_id": "ch06_task_010_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_010_02.png",
+    "title": "修剪、延伸与圆角处理-启动对应命令或工具截图",
+    "description": "用于展示“修剪、延伸与圆角处理”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或修剪、延伸与圆角处理时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修剪、延伸与圆角处理-启动对应命令或工具截图",
+      "ch06_shot_010_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_010_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_010",
+    "step_id": "ch06_task_010_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_010_03.png",
+    "title": "修剪、延伸与圆角处理-选择对象或指定点位截图",
+    "description": "用于展示“修剪、延伸与圆角处理”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或修剪、延伸与圆角处理时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修剪、延伸与圆角处理-选择对象或指定点位截图",
+      "ch06_shot_010_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_010_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_010",
+    "step_id": "ch06_task_010_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_010_04.png",
+    "title": "修剪、延伸与圆角处理-输入关键参数并确认截图",
+    "description": "用于展示“修剪、延伸与圆角处理”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或修剪、延伸与圆角处理时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修剪、延伸与圆角处理-输入关键参数并确认截图",
+      "ch06_shot_010_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_010_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_010",
+    "step_id": "ch06_task_010_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_010_05.png",
+    "title": "修剪、延伸与圆角处理-检查结果并修正截图",
+    "description": "用于展示“修剪、延伸与圆角处理”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或修剪、延伸与圆角处理时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修剪、延伸与圆角处理-检查结果并修正截图",
+      "ch06_shot_010_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_011_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_011",
+    "step_id": "ch06_task_011_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_011_01.png",
+    "title": "阵列、定距与定数分布-明确操作目标与前置条件截图",
+    "description": "用于展示“阵列、定距与定数分布”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或阵列、定距与定数分布时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "阵列、定距与定数分布-明确操作目标与前置条件截图",
+      "ch06_shot_011_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_011_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_011",
+    "step_id": "ch06_task_011_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_011_02.png",
+    "title": "阵列、定距与定数分布-启动对应命令或工具截图",
+    "description": "用于展示“阵列、定距与定数分布”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或阵列、定距与定数分布时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "阵列、定距与定数分布-启动对应命令或工具截图",
+      "ch06_shot_011_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_011_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_011",
+    "step_id": "ch06_task_011_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_011_03.png",
+    "title": "阵列、定距与定数分布-选择对象或指定点位截图",
+    "description": "用于展示“阵列、定距与定数分布”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或阵列、定距与定数分布时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "阵列、定距与定数分布-选择对象或指定点位截图",
+      "ch06_shot_011_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_011_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_011",
+    "step_id": "ch06_task_011_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_011_04.png",
+    "title": "阵列、定距与定数分布-输入关键参数并确认截图",
+    "description": "用于展示“阵列、定距与定数分布”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或阵列、定距与定数分布时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "阵列、定距与定数分布-输入关键参数并确认截图",
+      "ch06_shot_011_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_011_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec02",
+    "task_id": "ch06_task_011",
+    "step_id": "ch06_task_011_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_011_05.png",
+    "title": "阵列、定距与定数分布-检查结果并修正截图",
+    "description": "用于展示“阵列、定距与定数分布”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或阵列、定距与定数分布时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "阵列、定距与定数分布-检查结果并修正截图",
+      "ch06_shot_011_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_012_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_012",
+    "step_id": "ch06_task_012_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_012_01.png",
+    "title": "设置并使用精确定位工具-明确操作目标与前置条件截图",
+    "description": "用于展示“设置并使用精确定位工具”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或设置并使用精确定位工具时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置并使用精确定位工具-明确操作目标与前置条件截图",
+      "ch06_shot_012_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_012_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_012",
+    "step_id": "ch06_task_012_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_012_02.png",
+    "title": "设置并使用精确定位工具-启动对应命令或工具截图",
+    "description": "用于展示“设置并使用精确定位工具”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或设置并使用精确定位工具时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置并使用精确定位工具-启动对应命令或工具截图",
+      "ch06_shot_012_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_012_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_012",
+    "step_id": "ch06_task_012_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_012_03.png",
+    "title": "设置并使用精确定位工具-选择对象或指定点位截图",
+    "description": "用于展示“设置并使用精确定位工具”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或设置并使用精确定位工具时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置并使用精确定位工具-选择对象或指定点位截图",
+      "ch06_shot_012_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_012_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_012",
+    "step_id": "ch06_task_012_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_012_04.png",
+    "title": "设置并使用精确定位工具-输入关键参数并确认截图",
+    "description": "用于展示“设置并使用精确定位工具”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或设置并使用精确定位工具时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置并使用精确定位工具-输入关键参数并确认截图",
+      "ch06_shot_012_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_012_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec01",
+    "task_id": "ch06_task_012",
+    "step_id": "ch06_task_012_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_012_05.png",
+    "title": "设置并使用精确定位工具-检查结果并修正截图",
+    "description": "用于展示“设置并使用精确定位工具”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或设置并使用精确定位工具时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置并使用精确定位工具-检查结果并修正截图",
+      "ch06_shot_012_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_013_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_013",
+    "step_id": "ch06_task_013_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_013_01.png",
+    "title": "创建文字样式并输入单行文字-明确操作目标与前置条件截图",
+    "description": "用于展示“创建文字样式并输入单行文字”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建文字样式并输入单行文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建文字样式并输入单行文字-明确操作目标与前置条件截图",
+      "ch06_shot_013_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_013_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_013",
+    "step_id": "ch06_task_013_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_013_02.png",
+    "title": "创建文字样式并输入单行文字-启动对应命令或工具截图",
+    "description": "用于展示“创建文字样式并输入单行文字”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建文字样式并输入单行文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建文字样式并输入单行文字-启动对应命令或工具截图",
+      "ch06_shot_013_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_013_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_013",
+    "step_id": "ch06_task_013_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_013_03.png",
+    "title": "创建文字样式并输入单行文字-选择对象或指定点位截图",
+    "description": "用于展示“创建文字样式并输入单行文字”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建文字样式并输入单行文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建文字样式并输入单行文字-选择对象或指定点位截图",
+      "ch06_shot_013_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_013_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_013",
+    "step_id": "ch06_task_013_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_013_04.png",
+    "title": "创建文字样式并输入单行文字-输入关键参数并确认截图",
+    "description": "用于展示“创建文字样式并输入单行文字”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建文字样式并输入单行文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建文字样式并输入单行文字-输入关键参数并确认截图",
+      "ch06_shot_013_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_013_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_013",
+    "step_id": "ch06_task_013_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_013_05.png",
+    "title": "创建文字样式并输入单行文字-检查结果并修正截图",
+    "description": "用于展示“创建文字样式并输入单行文字”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建文字样式并输入单行文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建文字样式并输入单行文字-检查结果并修正截图",
+      "ch06_shot_013_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_014_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_014",
+    "step_id": "ch06_task_014_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_014_01.png",
+    "title": "创建多行文字说明-明确操作目标与前置条件截图",
+    "description": "用于展示“创建多行文字说明”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建多行文字说明时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建多行文字说明-明确操作目标与前置条件截图",
+      "ch06_shot_014_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_014_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_014",
+    "step_id": "ch06_task_014_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_014_02.png",
+    "title": "创建多行文字说明-启动对应命令或工具截图",
+    "description": "用于展示“创建多行文字说明”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建多行文字说明时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建多行文字说明-启动对应命令或工具截图",
+      "ch06_shot_014_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_014_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_014",
+    "step_id": "ch06_task_014_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_014_03.png",
+    "title": "创建多行文字说明-选择对象或指定点位截图",
+    "description": "用于展示“创建多行文字说明”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建多行文字说明时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建多行文字说明-选择对象或指定点位截图",
+      "ch06_shot_014_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_014_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_014",
+    "step_id": "ch06_task_014_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_014_04.png",
+    "title": "创建多行文字说明-输入关键参数并确认截图",
+    "description": "用于展示“创建多行文字说明”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建多行文字说明时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建多行文字说明-输入关键参数并确认截图",
+      "ch06_shot_014_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_014_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_014",
+    "step_id": "ch06_task_014_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_014_05.png",
+    "title": "创建多行文字说明-检查结果并修正截图",
+    "description": "用于展示“创建多行文字说明”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建多行文字说明时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建多行文字说明-检查结果并修正截图",
+      "ch06_shot_014_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_015_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_015",
+    "step_id": "ch06_task_015_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_015_01.png",
+    "title": "创建道路设计标注样式-明确操作目标与前置条件截图",
+    "description": "用于展示“创建道路设计标注样式”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建道路设计标注样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建道路设计标注样式-明确操作目标与前置条件截图",
+      "ch06_shot_015_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_015_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_015",
+    "step_id": "ch06_task_015_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_015_02.png",
+    "title": "创建道路设计标注样式-启动对应命令或工具截图",
+    "description": "用于展示“创建道路设计标注样式”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建道路设计标注样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建道路设计标注样式-启动对应命令或工具截图",
+      "ch06_shot_015_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_015_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_015",
+    "step_id": "ch06_task_015_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_015_03.png",
+    "title": "创建道路设计标注样式-选择对象或指定点位截图",
+    "description": "用于展示“创建道路设计标注样式”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建道路设计标注样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建道路设计标注样式-选择对象或指定点位截图",
+      "ch06_shot_015_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_015_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_015",
+    "step_id": "ch06_task_015_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_015_04.png",
+    "title": "创建道路设计标注样式-输入关键参数并确认截图",
+    "description": "用于展示“创建道路设计标注样式”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建道路设计标注样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建道路设计标注样式-输入关键参数并确认截图",
+      "ch06_shot_015_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_015_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_015",
+    "step_id": "ch06_task_015_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_015_05.png",
+    "title": "创建道路设计标注样式-检查结果并修正截图",
+    "description": "用于展示“创建道路设计标注样式”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建道路设计标注样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建道路设计标注样式-检查结果并修正截图",
+      "ch06_shot_015_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_016_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_016",
+    "step_id": "ch06_task_016_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_016_01.png",
+    "title": "创建线性、半径、直径与角度标注-明确操作目标与前置条件截图",
+    "description": "用于展示“创建线性、半径、直径与角度标注”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建线性、半径、直径与角度标注时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建线性、半径、直径与角度标注-明确操作目标与前置条件截图",
+      "ch06_shot_016_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_016_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_016",
+    "step_id": "ch06_task_016_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_016_02.png",
+    "title": "创建线性、半径、直径与角度标注-启动对应命令或工具截图",
+    "description": "用于展示“创建线性、半径、直径与角度标注”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建线性、半径、直径与角度标注时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建线性、半径、直径与角度标注-启动对应命令或工具截图",
+      "ch06_shot_016_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_016_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_016",
+    "step_id": "ch06_task_016_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_016_03.png",
+    "title": "创建线性、半径、直径与角度标注-选择对象或指定点位截图",
+    "description": "用于展示“创建线性、半径、直径与角度标注”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建线性、半径、直径与角度标注时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建线性、半径、直径与角度标注-选择对象或指定点位截图",
+      "ch06_shot_016_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_016_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_016",
+    "step_id": "ch06_task_016_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_016_04.png",
+    "title": "创建线性、半径、直径与角度标注-输入关键参数并确认截图",
+    "description": "用于展示“创建线性、半径、直径与角度标注”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建线性、半径、直径与角度标注时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建线性、半径、直径与角度标注-输入关键参数并确认截图",
+      "ch06_shot_016_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_016_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_016",
+    "step_id": "ch06_task_016_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_016_05.png",
+    "title": "创建线性、半径、直径与角度标注-检查结果并修正截图",
+    "description": "用于展示“创建线性、半径、直径与角度标注”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建线性、半径、直径与角度标注时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建线性、半径、直径与角度标注-检查结果并修正截图",
+      "ch06_shot_016_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_017_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_017",
+    "step_id": "ch06_task_017_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_017_01.png",
+    "title": "修改标注样式与标注文字-明确操作目标与前置条件截图",
+    "description": "用于展示“修改标注样式与标注文字”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或修改标注样式与标注文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修改标注样式与标注文字-明确操作目标与前置条件截图",
+      "ch06_shot_017_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_017_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_017",
+    "step_id": "ch06_task_017_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_017_02.png",
+    "title": "修改标注样式与标注文字-启动对应命令或工具截图",
+    "description": "用于展示“修改标注样式与标注文字”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或修改标注样式与标注文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修改标注样式与标注文字-启动对应命令或工具截图",
+      "ch06_shot_017_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_017_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_017",
+    "step_id": "ch06_task_017_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_017_03.png",
+    "title": "修改标注样式与标注文字-选择对象或指定点位截图",
+    "description": "用于展示“修改标注样式与标注文字”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或修改标注样式与标注文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修改标注样式与标注文字-选择对象或指定点位截图",
+      "ch06_shot_017_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_017_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_017",
+    "step_id": "ch06_task_017_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_017_04.png",
+    "title": "修改标注样式与标注文字-输入关键参数并确认截图",
+    "description": "用于展示“修改标注样式与标注文字”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或修改标注样式与标注文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修改标注样式与标注文字-输入关键参数并确认截图",
+      "ch06_shot_017_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_017_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec03",
+    "task_id": "ch06_task_017",
+    "step_id": "ch06_task_017_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_017_05.png",
+    "title": "修改标注样式与标注文字-检查结果并修正截图",
+    "description": "用于展示“修改标注样式与标注文字”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或修改标注样式与标注文字时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "修改标注样式与标注文字-检查结果并修正截图",
+      "ch06_shot_017_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_018_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_018",
+    "step_id": "ch06_task_018_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_018_01.png",
+    "title": "创建图层并设置颜色线型线宽-明确操作目标与前置条件截图",
+    "description": "用于展示“创建图层并设置颜色线型线宽”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建图层并设置颜色线型线宽时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建图层并设置颜色线型线宽-明确操作目标与前置条件截图",
+      "ch06_shot_018_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_018_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_018",
+    "step_id": "ch06_task_018_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_018_02.png",
+    "title": "创建图层并设置颜色线型线宽-启动对应命令或工具截图",
+    "description": "用于展示“创建图层并设置颜色线型线宽”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建图层并设置颜色线型线宽时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建图层并设置颜色线型线宽-启动对应命令或工具截图",
+      "ch06_shot_018_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_018_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_018",
+    "step_id": "ch06_task_018_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_018_03.png",
+    "title": "创建图层并设置颜色线型线宽-选择对象或指定点位截图",
+    "description": "用于展示“创建图层并设置颜色线型线宽”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建图层并设置颜色线型线宽时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建图层并设置颜色线型线宽-选择对象或指定点位截图",
+      "ch06_shot_018_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_018_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_018",
+    "step_id": "ch06_task_018_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_018_04.png",
+    "title": "创建图层并设置颜色线型线宽-输入关键参数并确认截图",
+    "description": "用于展示“创建图层并设置颜色线型线宽”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建图层并设置颜色线型线宽时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建图层并设置颜色线型线宽-输入关键参数并确认截图",
+      "ch06_shot_018_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_018_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_018",
+    "step_id": "ch06_task_018_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_018_05.png",
+    "title": "创建图层并设置颜色线型线宽-检查结果并修正截图",
+    "description": "用于展示“创建图层并设置颜色线型线宽”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建图层并设置颜色线型线宽时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建图层并设置颜色线型线宽-检查结果并修正截图",
+      "ch06_shot_018_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_019_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_019",
+    "step_id": "ch06_task_019_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_019_01.png",
+    "title": "管理图层开关、冻结、隔离和锁定-明确操作目标与前置条件截图",
+    "description": "用于展示“管理图层开关、冻结、隔离和锁定”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或管理图层开关、冻结、隔离和锁定时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "管理图层开关、冻结、隔离和锁定-明确操作目标与前置条件截图",
+      "ch06_shot_019_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_019_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_019",
+    "step_id": "ch06_task_019_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_019_02.png",
+    "title": "管理图层开关、冻结、隔离和锁定-启动对应命令或工具截图",
+    "description": "用于展示“管理图层开关、冻结、隔离和锁定”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或管理图层开关、冻结、隔离和锁定时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "管理图层开关、冻结、隔离和锁定-启动对应命令或工具截图",
+      "ch06_shot_019_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_019_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_019",
+    "step_id": "ch06_task_019_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_019_03.png",
+    "title": "管理图层开关、冻结、隔离和锁定-选择对象或指定点位截图",
+    "description": "用于展示“管理图层开关、冻结、隔离和锁定”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或管理图层开关、冻结、隔离和锁定时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "管理图层开关、冻结、隔离和锁定-选择对象或指定点位截图",
+      "ch06_shot_019_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_019_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_019",
+    "step_id": "ch06_task_019_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_019_04.png",
+    "title": "管理图层开关、冻结、隔离和锁定-输入关键参数并确认截图",
+    "description": "用于展示“管理图层开关、冻结、隔离和锁定”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或管理图层开关、冻结、隔离和锁定时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "管理图层开关、冻结、隔离和锁定-输入关键参数并确认截图",
+      "ch06_shot_019_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_019_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_019",
+    "step_id": "ch06_task_019_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_019_05.png",
+    "title": "管理图层开关、冻结、隔离和锁定-检查结果并修正截图",
+    "description": "用于展示“管理图层开关、冻结、隔离和锁定”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或管理图层开关、冻结、隔离和锁定时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "管理图层开关、冻结、隔离和锁定-检查结果并修正截图",
+      "ch06_shot_019_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_020_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_020",
+    "step_id": "ch06_task_020_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_020_01.png",
+    "title": "定义并插入图块-明确操作目标与前置条件截图",
+    "description": "用于展示“定义并插入图块”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或定义并插入图块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义并插入图块-明确操作目标与前置条件截图",
+      "ch06_shot_020_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_020_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_020",
+    "step_id": "ch06_task_020_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_020_02.png",
+    "title": "定义并插入图块-启动对应命令或工具截图",
+    "description": "用于展示“定义并插入图块”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或定义并插入图块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义并插入图块-启动对应命令或工具截图",
+      "ch06_shot_020_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_020_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_020",
+    "step_id": "ch06_task_020_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_020_03.png",
+    "title": "定义并插入图块-选择对象或指定点位截图",
+    "description": "用于展示“定义并插入图块”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或定义并插入图块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义并插入图块-选择对象或指定点位截图",
+      "ch06_shot_020_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_020_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_020",
+    "step_id": "ch06_task_020_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_020_04.png",
+    "title": "定义并插入图块-输入关键参数并确认截图",
+    "description": "用于展示“定义并插入图块”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或定义并插入图块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义并插入图块-输入关键参数并确认截图",
+      "ch06_shot_020_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_020_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_020",
+    "step_id": "ch06_task_020_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_020_05.png",
+    "title": "定义并插入图块-检查结果并修正截图",
+    "description": "用于展示“定义并插入图块”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或定义并插入图块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义并插入图块-检查结果并修正截图",
+      "ch06_shot_020_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_021_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_021",
+    "step_id": "ch06_task_021_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_021_01.png",
+    "title": "使用WBLOCK输出共享块-明确操作目标与前置条件截图",
+    "description": "用于展示“使用WBLOCK输出共享块”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或使用WBLOCK输出共享块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用WBLOCK输出共享块-明确操作目标与前置条件截图",
+      "ch06_shot_021_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_021_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_021",
+    "step_id": "ch06_task_021_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_021_02.png",
+    "title": "使用WBLOCK输出共享块-启动对应命令或工具截图",
+    "description": "用于展示“使用WBLOCK输出共享块”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或使用WBLOCK输出共享块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用WBLOCK输出共享块-启动对应命令或工具截图",
+      "ch06_shot_021_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_021_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_021",
+    "step_id": "ch06_task_021_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_021_03.png",
+    "title": "使用WBLOCK输出共享块-选择对象或指定点位截图",
+    "description": "用于展示“使用WBLOCK输出共享块”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或使用WBLOCK输出共享块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用WBLOCK输出共享块-选择对象或指定点位截图",
+      "ch06_shot_021_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_021_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_021",
+    "step_id": "ch06_task_021_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_021_04.png",
+    "title": "使用WBLOCK输出共享块-输入关键参数并确认截图",
+    "description": "用于展示“使用WBLOCK输出共享块”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或使用WBLOCK输出共享块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用WBLOCK输出共享块-输入关键参数并确认截图",
+      "ch06_shot_021_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_021_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_021",
+    "step_id": "ch06_task_021_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_021_05.png",
+    "title": "使用WBLOCK输出共享块-检查结果并修正截图",
+    "description": "用于展示“使用WBLOCK输出共享块”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或使用WBLOCK输出共享块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用WBLOCK输出共享块-检查结果并修正截图",
+      "ch06_shot_021_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_022_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_022",
+    "step_id": "ch06_task_022_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_022_01.png",
+    "title": "定义和管理带属性块-明确操作目标与前置条件截图",
+    "description": "用于展示“定义和管理带属性块”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或定义和管理带属性块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义和管理带属性块-明确操作目标与前置条件截图",
+      "ch06_shot_022_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_022_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_022",
+    "step_id": "ch06_task_022_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_022_02.png",
+    "title": "定义和管理带属性块-启动对应命令或工具截图",
+    "description": "用于展示“定义和管理带属性块”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或定义和管理带属性块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义和管理带属性块-启动对应命令或工具截图",
+      "ch06_shot_022_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_022_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_022",
+    "step_id": "ch06_task_022_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_022_03.png",
+    "title": "定义和管理带属性块-选择对象或指定点位截图",
+    "description": "用于展示“定义和管理带属性块”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或定义和管理带属性块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义和管理带属性块-选择对象或指定点位截图",
+      "ch06_shot_022_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_022_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_022",
+    "step_id": "ch06_task_022_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_022_04.png",
+    "title": "定义和管理带属性块-输入关键参数并确认截图",
+    "description": "用于展示“定义和管理带属性块”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或定义和管理带属性块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义和管理带属性块-输入关键参数并确认截图",
+      "ch06_shot_022_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_022_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec04",
+    "task_id": "ch06_task_022",
+    "step_id": "ch06_task_022_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_022_05.png",
+    "title": "定义和管理带属性块-检查结果并修正截图",
+    "description": "用于展示“定义和管理带属性块”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或定义和管理带属性块时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "定义和管理带属性块-检查结果并修正截图",
+      "ch06_shot_022_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_023_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_023",
+    "step_id": "ch06_task_023_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_023_01.png",
+    "title": "设置三维工作空间与视觉样式-明确操作目标与前置条件截图",
+    "description": "用于展示“设置三维工作空间与视觉样式”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或设置三维工作空间与视觉样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置三维工作空间与视觉样式-明确操作目标与前置条件截图",
+      "ch06_shot_023_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_023_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_023",
+    "step_id": "ch06_task_023_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_023_02.png",
+    "title": "设置三维工作空间与视觉样式-启动对应命令或工具截图",
+    "description": "用于展示“设置三维工作空间与视觉样式”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或设置三维工作空间与视觉样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置三维工作空间与视觉样式-启动对应命令或工具截图",
+      "ch06_shot_023_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_023_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_023",
+    "step_id": "ch06_task_023_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_023_03.png",
+    "title": "设置三维工作空间与视觉样式-选择对象或指定点位截图",
+    "description": "用于展示“设置三维工作空间与视觉样式”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或设置三维工作空间与视觉样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置三维工作空间与视觉样式-选择对象或指定点位截图",
+      "ch06_shot_023_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_023_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_023",
+    "step_id": "ch06_task_023_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_023_04.png",
+    "title": "设置三维工作空间与视觉样式-输入关键参数并确认截图",
+    "description": "用于展示“设置三维工作空间与视觉样式”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或设置三维工作空间与视觉样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置三维工作空间与视觉样式-输入关键参数并确认截图",
+      "ch06_shot_023_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_023_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_023",
+    "step_id": "ch06_task_023_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_023_05.png",
+    "title": "设置三维工作空间与视觉样式-检查结果并修正截图",
+    "description": "用于展示“设置三维工作空间与视觉样式”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或设置三维工作空间与视觉样式时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "设置三维工作空间与视觉样式-检查结果并修正截图",
+      "ch06_shot_023_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_024_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_024",
+    "step_id": "ch06_task_024_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_024_01.png",
+    "title": "创建网格或空间平面-明确操作目标与前置条件截图",
+    "description": "用于展示“创建网格或空间平面”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建网格或空间平面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建网格或空间平面-明确操作目标与前置条件截图",
+      "ch06_shot_024_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_024_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_024",
+    "step_id": "ch06_task_024_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_024_02.png",
+    "title": "创建网格或空间平面-启动对应命令或工具截图",
+    "description": "用于展示“创建网格或空间平面”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建网格或空间平面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建网格或空间平面-启动对应命令或工具截图",
+      "ch06_shot_024_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_024_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_024",
+    "step_id": "ch06_task_024_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_024_03.png",
+    "title": "创建网格或空间平面-选择对象或指定点位截图",
+    "description": "用于展示“创建网格或空间平面”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建网格或空间平面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建网格或空间平面-选择对象或指定点位截图",
+      "ch06_shot_024_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_024_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_024",
+    "step_id": "ch06_task_024_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_024_04.png",
+    "title": "创建网格或空间平面-输入关键参数并确认截图",
+    "description": "用于展示“创建网格或空间平面”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建网格或空间平面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建网格或空间平面-输入关键参数并确认截图",
+      "ch06_shot_024_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_024_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_024",
+    "step_id": "ch06_task_024_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_024_05.png",
+    "title": "创建网格或空间平面-检查结果并修正截图",
+    "description": "用于展示“创建网格或空间平面”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建网格或空间平面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建网格或空间平面-检查结果并修正截图",
+      "ch06_shot_024_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_025_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_025",
+    "step_id": "ch06_task_025_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_025_01.png",
+    "title": "创建平移曲面与旋转曲面-明确操作目标与前置条件截图",
+    "description": "用于展示“创建平移曲面与旋转曲面”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建平移曲面与旋转曲面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建平移曲面与旋转曲面-明确操作目标与前置条件截图",
+      "ch06_shot_025_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_025_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_025",
+    "step_id": "ch06_task_025_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_025_02.png",
+    "title": "创建平移曲面与旋转曲面-启动对应命令或工具截图",
+    "description": "用于展示“创建平移曲面与旋转曲面”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建平移曲面与旋转曲面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建平移曲面与旋转曲面-启动对应命令或工具截图",
+      "ch06_shot_025_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_025_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_025",
+    "step_id": "ch06_task_025_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_025_03.png",
+    "title": "创建平移曲面与旋转曲面-选择对象或指定点位截图",
+    "description": "用于展示“创建平移曲面与旋转曲面”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建平移曲面与旋转曲面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建平移曲面与旋转曲面-选择对象或指定点位截图",
+      "ch06_shot_025_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_025_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_025",
+    "step_id": "ch06_task_025_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_025_04.png",
+    "title": "创建平移曲面与旋转曲面-输入关键参数并确认截图",
+    "description": "用于展示“创建平移曲面与旋转曲面”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建平移曲面与旋转曲面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建平移曲面与旋转曲面-输入关键参数并确认截图",
+      "ch06_shot_025_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_025_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_025",
+    "step_id": "ch06_task_025_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_025_05.png",
+    "title": "创建平移曲面与旋转曲面-检查结果并修正截图",
+    "description": "用于展示“创建平移曲面与旋转曲面”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建平移曲面与旋转曲面时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建平移曲面与旋转曲面-检查结果并修正截图",
+      "ch06_shot_025_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_026_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_026",
+    "step_id": "ch06_task_026_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_026_01.png",
+    "title": "创建边界曲面并设置标高厚度-明确操作目标与前置条件截图",
+    "description": "用于展示“创建边界曲面并设置标高厚度”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建边界曲面并设置标高厚度时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建边界曲面并设置标高厚度-明确操作目标与前置条件截图",
+      "ch06_shot_026_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_026_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_026",
+    "step_id": "ch06_task_026_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_026_02.png",
+    "title": "创建边界曲面并设置标高厚度-启动对应命令或工具截图",
+    "description": "用于展示“创建边界曲面并设置标高厚度”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建边界曲面并设置标高厚度时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建边界曲面并设置标高厚度-启动对应命令或工具截图",
+      "ch06_shot_026_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_026_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_026",
+    "step_id": "ch06_task_026_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_026_03.png",
+    "title": "创建边界曲面并设置标高厚度-选择对象或指定点位截图",
+    "description": "用于展示“创建边界曲面并设置标高厚度”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建边界曲面并设置标高厚度时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建边界曲面并设置标高厚度-选择对象或指定点位截图",
+      "ch06_shot_026_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_026_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_026",
+    "step_id": "ch06_task_026_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_026_04.png",
+    "title": "创建边界曲面并设置标高厚度-输入关键参数并确认截图",
+    "description": "用于展示“创建边界曲面并设置标高厚度”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建边界曲面并设置标高厚度时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建边界曲面并设置标高厚度-输入关键参数并确认截图",
+      "ch06_shot_026_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_026_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_026",
+    "step_id": "ch06_task_026_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_026_05.png",
+    "title": "创建边界曲面并设置标高厚度-检查结果并修正截图",
+    "description": "用于展示“创建边界曲面并设置标高厚度”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建边界曲面并设置标高厚度时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建边界曲面并设置标高厚度-检查结果并修正截图",
+      "ch06_shot_026_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_027_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_027",
+    "step_id": "ch06_task_027_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_027_01.png",
+    "title": "创建长方体与圆柱体-明确操作目标与前置条件截图",
+    "description": "用于展示“创建长方体与圆柱体”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或创建长方体与圆柱体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建长方体与圆柱体-明确操作目标与前置条件截图",
+      "ch06_shot_027_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_027_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_027",
+    "step_id": "ch06_task_027_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_027_02.png",
+    "title": "创建长方体与圆柱体-启动对应命令或工具截图",
+    "description": "用于展示“创建长方体与圆柱体”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或创建长方体与圆柱体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建长方体与圆柱体-启动对应命令或工具截图",
+      "ch06_shot_027_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_027_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_027",
+    "step_id": "ch06_task_027_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_027_03.png",
+    "title": "创建长方体与圆柱体-选择对象或指定点位截图",
+    "description": "用于展示“创建长方体与圆柱体”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或创建长方体与圆柱体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建长方体与圆柱体-选择对象或指定点位截图",
+      "ch06_shot_027_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_027_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_027",
+    "step_id": "ch06_task_027_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_027_04.png",
+    "title": "创建长方体与圆柱体-输入关键参数并确认截图",
+    "description": "用于展示“创建长方体与圆柱体”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或创建长方体与圆柱体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建长方体与圆柱体-输入关键参数并确认截图",
+      "ch06_shot_027_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_027_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_027",
+    "step_id": "ch06_task_027_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_027_05.png",
+    "title": "创建长方体与圆柱体-检查结果并修正截图",
+    "description": "用于展示“创建长方体与圆柱体”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或创建长方体与圆柱体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "创建长方体与圆柱体-检查结果并修正截图",
+      "ch06_shot_027_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_028_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_028",
+    "step_id": "ch06_task_028_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_028_01.png",
+    "title": "拉伸或旋转二维轮廓生成实体-明确操作目标与前置条件截图",
+    "description": "用于展示“拉伸或旋转二维轮廓生成实体”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或拉伸或旋转二维轮廓生成实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸或旋转二维轮廓生成实体-明确操作目标与前置条件截图",
+      "ch06_shot_028_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_028_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_028",
+    "step_id": "ch06_task_028_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_028_02.png",
+    "title": "拉伸或旋转二维轮廓生成实体-启动对应命令或工具截图",
+    "description": "用于展示“拉伸或旋转二维轮廓生成实体”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或拉伸或旋转二维轮廓生成实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸或旋转二维轮廓生成实体-启动对应命令或工具截图",
+      "ch06_shot_028_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_028_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_028",
+    "step_id": "ch06_task_028_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_028_03.png",
+    "title": "拉伸或旋转二维轮廓生成实体-选择对象或指定点位截图",
+    "description": "用于展示“拉伸或旋转二维轮廓生成实体”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或拉伸或旋转二维轮廓生成实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸或旋转二维轮廓生成实体-选择对象或指定点位截图",
+      "ch06_shot_028_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_028_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_028",
+    "step_id": "ch06_task_028_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_028_04.png",
+    "title": "拉伸或旋转二维轮廓生成实体-输入关键参数并确认截图",
+    "description": "用于展示“拉伸或旋转二维轮廓生成实体”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或拉伸或旋转二维轮廓生成实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸或旋转二维轮廓生成实体-输入关键参数并确认截图",
+      "ch06_shot_028_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_028_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_028",
+    "step_id": "ch06_task_028_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_028_05.png",
+    "title": "拉伸或旋转二维轮廓生成实体-检查结果并修正截图",
+    "description": "用于展示“拉伸或旋转二维轮廓生成实体”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或拉伸或旋转二维轮廓生成实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "拉伸或旋转二维轮廓生成实体-检查结果并修正截图",
+      "ch06_shot_028_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_029_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_029",
+    "step_id": "ch06_task_029_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_029_01.png",
+    "title": "使用并集、差集、交集构建组合实体-明确操作目标与前置条件截图",
+    "description": "用于展示“使用并集、差集、交集构建组合实体”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或使用并集、差集、交集构建组合实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用并集、差集、交集构建组合实体-明确操作目标与前置条件截图",
+      "ch06_shot_029_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_029_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_029",
+    "step_id": "ch06_task_029_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_029_02.png",
+    "title": "使用并集、差集、交集构建组合实体-启动对应命令或工具截图",
+    "description": "用于展示“使用并集、差集、交集构建组合实体”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或使用并集、差集、交集构建组合实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用并集、差集、交集构建组合实体-启动对应命令或工具截图",
+      "ch06_shot_029_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_029_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_029",
+    "step_id": "ch06_task_029_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_029_03.png",
+    "title": "使用并集、差集、交集构建组合实体-选择对象或指定点位截图",
+    "description": "用于展示“使用并集、差集、交集构建组合实体”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或使用并集、差集、交集构建组合实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用并集、差集、交集构建组合实体-选择对象或指定点位截图",
+      "ch06_shot_029_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_029_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_029",
+    "step_id": "ch06_task_029_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_029_04.png",
+    "title": "使用并集、差集、交集构建组合实体-输入关键参数并确认截图",
+    "description": "用于展示“使用并集、差集、交集构建组合实体”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或使用并集、差集、交集构建组合实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用并集、差集、交集构建组合实体-输入关键参数并确认截图",
+      "ch06_shot_029_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_029_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_sec05",
+    "task_id": "ch06_task_029",
+    "step_id": "ch06_task_029_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_029_05.png",
+    "title": "使用并集、差集、交集构建组合实体-检查结果并修正截图",
+    "description": "用于展示“使用并集、差集、交集构建组合实体”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或使用并集、差集、交集构建组合实体时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "使用并集、差集、交集构建组合实体-检查结果并修正截图",
+      "ch06_shot_029_05"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_030_01",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "task_id": "ch06_task_030",
+    "step_id": "ch06_task_030_step_01",
+    "file_path": "chapter_06/screenshots/ch06_shot_030_01.png",
+    "title": "绘制简易道路标准横断面图-明确操作目标与前置条件截图",
+    "description": "用于展示“绘制简易道路标准横断面图”任务中“明确操作目标与前置条件”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问明确操作目标与前置条件或绘制简易道路标准横断面图时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制简易道路标准横断面图-明确操作目标与前置条件截图",
+      "ch06_shot_030_01"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_030_02",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "task_id": "ch06_task_030",
+    "step_id": "ch06_task_030_step_02",
+    "file_path": "chapter_06/screenshots/ch06_shot_030_02.png",
+    "title": "绘制简易道路标准横断面图-启动对应命令或工具截图",
+    "description": "用于展示“绘制简易道路标准横断面图”任务中“启动对应命令或工具”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问启动对应命令或工具或绘制简易道路标准横断面图时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制简易道路标准横断面图-启动对应命令或工具截图",
+      "ch06_shot_030_02"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_030_03",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "task_id": "ch06_task_030",
+    "step_id": "ch06_task_030_step_03",
+    "file_path": "chapter_06/screenshots/ch06_shot_030_03.png",
+    "title": "绘制简易道路标准横断面图-选择对象或指定点位截图",
+    "description": "用于展示“绘制简易道路标准横断面图”任务中“选择对象或指定点位”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问选择对象或指定点位或绘制简易道路标准横断面图时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制简易道路标准横断面图-选择对象或指定点位截图",
+      "ch06_shot_030_03"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_030_04",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "task_id": "ch06_task_030",
+    "step_id": "ch06_task_030_step_04",
+    "file_path": "chapter_06/screenshots/ch06_shot_030_04.png",
+    "title": "绘制简易道路标准横断面图-输入关键参数并确认截图",
+    "description": "用于展示“绘制简易道路标准横断面图”任务中“输入关键参数并确认”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问输入关键参数并确认或绘制简易道路标准横断面图时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制简易道路标准横断面图-输入关键参数并确认截图",
+      "ch06_shot_030_04"
+    ]
+  },
+  {
+    "screenshot_id": "ch06_shot_030_05",
+    "chapter_id": "ch06",
+    "section_id": "ch06_ex",
+    "task_id": "ch06_task_030",
+    "step_id": "ch06_task_030_step_05",
+    "file_path": "chapter_06/screenshots/ch06_shot_030_05.png",
+    "title": "绘制简易道路标准横断面图-检查结果并修正截图",
+    "description": "用于展示“绘制简易道路标准横断面图”任务中“检查结果并修正”步骤的关键界面或结果。",
+    "related_kps": [],
+    "qa_use": "学生询问检查结果并修正或绘制简易道路标准横断面图时可推荐该截图。",
+    "status": "placeholder",
+    "reference_aliases": [
+      "绘制简易道路标准横断面图-检查结果并修正截图",
+      "ch06_shot_030_05"
+    ]
+  }
+]

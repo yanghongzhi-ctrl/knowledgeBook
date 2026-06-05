@@ -1,0 +1,32 @@
+[
+  {
+    "test_id": "res_eval_ch07_script_01_01",
+    "chapter_id": "ch07",
+    "question": "7.道路CAD软件使用流程怎么看？",
+    "expected_resource_id": "ch07_script_01",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch07_001",
+      "kp_ch07_002",
+      "kp_ch07_003"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch07_script_01_02",
+    "chapter_id": "ch07",
+    "question": "我想看7.道路CAD软件使用流程。",
+    "expected_resource_id": "ch07_script_01",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch07_001",
+      "kp_ch07_002",
+      "kp_ch07_003"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  }
+]

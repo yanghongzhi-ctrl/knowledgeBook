@@ -1,0 +1,100 @@
+[
+  {
+    "exercise_id": "ex_ch01_01",
+    "chapter_id": "ch01",
+    "question": "请简述道路工程数字化设计的发展历程，并指出各阶段的主要技术特征与演进逻辑。",
+    "question_type": "short_answer",
+    "related_kps": [
+      "kp_ch01_001"
+    ],
+    "standard_answer_points": [
+      "发展历程包括CAD、BIM、BIM+GIS、数字孪生四个阶段。",
+      "演进逻辑是从图纸表达到模型表达，再到空间数据协同和虚实闭环。",
+      "各阶段分别解决制图效率、模型信息集成、空间约束决策和动态反馈问题。"
+    ],
+    "grading_rubric": "每个关键点2分，逻辑表达与工程例子2分，共10分",
+    "common_mistakes": "只背术语、缺少阶段特征；混淆BIM与三维模型；忽视GIS和数字孪生差异",
+    "feedback_template": "已答出要点将标记为通过；缺失项按相关知识点推荐复习。",
+    "expected_answer_card": "ans_ch01_034"
+  },
+  {
+    "exercise_id": "ex_ch01_02",
+    "chapter_id": "ch01",
+    "question": "如何理解“以图纸为中心”与“以模型为核心”的设计范式转变？",
+    "question_type": "short_answer",
+    "related_kps": [
+      "kp_ch01_002",
+      "kp_ch01_062"
+    ],
+    "standard_answer_points": [
+      "图纸中心以二维图纸为主要成果和组织对象。",
+      "模型核心以构件模型、属性数据和参数规则为组织对象。",
+      "这种转变使设计协同、变更联动和成果交付都围绕模型展开。"
+    ],
+    "grading_rubric": "每个关键点2分，逻辑表达与工程例子2分，共10分",
+    "common_mistakes": "只背术语、缺少阶段特征；混淆BIM与三维模型；忽视GIS和数字孪生差异",
+    "feedback_template": "已答出要点将标记为通过；缺失项按相关知识点推荐复习。",
+    "expected_answer_card": "ans_ch01_035"
+  },
+  {
+    "exercise_id": "ex_ch01_03",
+    "chapter_id": "ch01",
+    "question": "CAD、BIM、GIS和数字孪生四类技术平台在道路设计中的功能定位有何差异？",
+    "question_type": "short_answer",
+    "related_kps": [
+      "kp_ch01_050",
+      "kp_ch01_051",
+      "kp_ch01_052",
+      "kp_ch01_053"
+    ],
+    "standard_answer_points": [
+      "CAD主要承担二维绘图和标准出图。",
+      "BIM主要承担三维构件建模、信息集成和参数化协同。",
+      "GIS主要承担空间数据组织、环境约束分析和路线方案评价。",
+      "数字孪生主要承担实时感知、仿真预测和动态反馈。"
+    ],
+    "grading_rubric": "每个关键点2分，逻辑表达与工程例子2分，共10分",
+    "common_mistakes": "只背术语、缺少阶段特征；混淆BIM与三维模型；忽视GIS和数字孪生差异",
+    "feedback_template": "已答出要点将标记为通过；缺失项按相关知识点推荐复习。",
+    "expected_answer_card": "ans_ch01_036"
+  },
+  {
+    "exercise_id": "ex_ch01_04",
+    "chapter_id": "ch01",
+    "question": "与传统CAD设计相比，BIM在信息组织和设计表达方面有哪些根本区别？",
+    "question_type": "short_answer",
+    "related_kps": [
+      "kp_ch01_005",
+      "kp_ch01_011"
+    ],
+    "standard_answer_points": [
+      "CAD主要组织图元和图纸，BIM组织构件和工程信息。",
+      "CAD侧重二维表达，BIM侧重三维构件、属性和语义集成。",
+      "CAD变更多依赖人工同步，BIM可通过参数和规则联动。"
+    ],
+    "grading_rubric": "每个关键点2分，逻辑表达与工程例子2分，共10分",
+    "common_mistakes": "只背术语、缺少阶段特征；混淆BIM与三维模型；忽视GIS和数字孪生差异",
+    "feedback_template": "已答出要点将标记为通过；缺失项按相关知识点推荐复习。",
+    "expected_answer_card": "ans_ch01_037"
+  },
+  {
+    "exercise_id": "ex_ch01_05",
+    "chapter_id": "ch01",
+    "question": "GIS技术在现代道路设计中的主要作用是什么？它与BIM之间的融合体现在哪些方面？",
+    "question_type": "short_answer",
+    "related_kps": [
+      "kp_ch01_017",
+      "kp_ch01_021",
+      "kp_ch01_024"
+    ],
+    "standard_answer_points": [
+      "GIS用于空间数据组织、适宜性分析、敏感区识别和路线方案评价。",
+      "GIS与BIM融合体现在数据互通、平台集成和流程协同三个层次。",
+      "融合后的流程可形成GIS选线、BIM建模、GIS评价和方案优化的工作链。"
+    ],
+    "grading_rubric": "每个关键点2分，逻辑表达与工程例子2分，共10分",
+    "common_mistakes": "只背术语、缺少阶段特征；混淆BIM与三维模型；忽视GIS和数字孪生差异",
+    "feedback_template": "已答出要点将标记为通过；缺失项按相关知识点推荐复习。",
+    "expected_answer_card": "ans_ch01_038"
+  }
+]

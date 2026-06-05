@@ -1,0 +1,47 @@
+[
+  {
+    "script_id": "ch11_interactive_01",
+    "chapter_id": "ch11",
+    "resource_id": "ch11_script_01",
+    "title": "11.1道路数字孪生内涵与系统框架",
+    "file_path": "assets/ch11/interactive_html/11.1道路数字孪生内涵与系统框架.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  },
+  {
+    "script_id": "ch11_interactive_02",
+    "chapter_id": "ch11",
+    "resource_id": "ch11_script_02",
+    "title": "11.2多源异构数据采集与时空对齐",
+    "file_path": "assets/ch11/interactive_html/11.2多源异构数据采集与时空对齐.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  },
+  {
+    "script_id": "ch11_interactive_03",
+    "chapter_id": "ch11",
+    "resource_id": "ch11_script_03",
+    "title": "11.3多尺度高保真建模与BIM+GIS集成",
+    "file_path": "assets/ch11/interactive_html/11.3多尺度高保真建模与BIM+GIS集成.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  },
+  {
+    "script_id": "ch11_interactive_04",
+    "chapter_id": "ch11",
+    "resource_id": "ch11_script_04",
+    "title": "11.4数字主线与全生命周期数据管理",
+    "file_path": "assets/ch11/interactive_html/11.4数字主线与全生命周期数据管理.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  },
+  {
+    "script_id": "ch11_interactive_05",
+    "chapter_id": "ch11",
+    "resource_id": "ch11_script_05",
+    "title": "11.5智能仿真预测虚实交互与典型应用场景",
+    "file_path": "assets/ch11/interactive_html/11.5智能仿真预测虚实交互与典型应用场景.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  }
+]

@@ -1,0 +1,2558 @@
+{
+  "scope": "ch01-ch05 resource coverage, asset availability, resource evaluation coverage, and source verification summary",
+  "chapters": [
+    {
+      "chapter_id": "ch01",
+      "package_path": "data/raw/ch01/第1章_道路工程数字化设计概述_知识库_v1.0完备版.json",
+      "resource_count": 14,
+      "resource_type_counts": {
+        "interactive_html": 10,
+        "image": 4
+      },
+      "resource_status_counts": {
+        "bound": 14
+      },
+      "resource_eval_cases": 65,
+      "source_word_verification": {
+        "missing": 31
+      },
+      "problem_resources": [],
+      "asset_duplicates": []
+    },
+    {
+      "chapter_id": "ch02",
+      "package_path": "data/raw/ch02/第2章_道路建模的图形原理与三维表达_知识库_v1.0完备版.json",
+      "resource_count": 45,
+      "resource_type_counts": {
+        "image": 14,
+        "table": 2,
+        "formula": 20,
+        "interactive_html": 9
+      },
+      "resource_status_counts": {
+        "bound": 23,
+        "structured": 22
+      },
+      "resource_eval_cases": 101,
+      "source_word_verification": {
+        "missing": 110
+      },
+      "problem_resources": [
+        {
+          "resource_id": "ch02_script_2_4",
+          "resource_type": "interactive_html",
+          "title": "投影方式与道路模型表达",
+          "status": "bound",
+          "file_path": "assets/ch02/interactive_html/2.4投影方式与道路模型表达.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch02_script_2_5",
+          "resource_type": "interactive_html",
+          "title": "数字高程模型与算法",
+          "status": "bound",
+          "file_path": "assets/ch02/interactive_html/2.5数字高程模型与算法.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch02_script_2_6",
+          "resource_type": "interactive_html",
+          "title": "道路几何建模目标",
+          "status": "bound",
+          "file_path": "assets/ch02/interactive_html/2.6道路几何建模目标.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch02_script_2_7",
+          "resource_type": "interactive_html",
+          "title": "图元—构件—语义三层映射",
+          "status": "bound",
+          "file_path": "assets/ch02/interactive_html/2.7图元—构件—语义三层映射.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch02_script_2_8",
+          "resource_type": "interactive_html",
+          "title": "模型表达层级与 LOD 选择",
+          "status": "bound",
+          "file_path": "assets/ch02/interactive_html/2.8模型表达层级与 LOD 选择.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch02_script_2_9",
+          "resource_type": "interactive_html",
+          "title": "道路模型的表达",
+          "status": "bound",
+          "file_path": "assets/ch02/interactive_html/2.9道路模型的表达.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        }
+      ],
+      "asset_duplicates": []
+    },
+    {
+      "chapter_id": "ch03",
+      "package_path": "data/raw/ch03/第3章_道路CAD系统的设计原理_知识库_v1.0完备版.json",
+      "resource_count": 65,
+      "resource_type_counts": {
+        "image": 26,
+        "formula": 35,
+        "interactive_html": 4
+      },
+      "resource_status_counts": {
+        "bound": 27,
+        "placeholder": 3,
+        "structured": 35
+      },
+      "resource_eval_cases": 134,
+      "source_word_verification": {
+        "missing": 110
+      },
+      "problem_resources": [
+        {
+          "resource_id": "fig_3_1",
+          "resource_type": "image",
+          "title": "CAD系统的组成",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_1.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_2",
+          "resource_type": "image",
+          "title": "道路CAD的模块结构",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_2.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_5",
+          "resource_type": "image",
+          "title": "交互修改功能",
+          "status": "placeholder",
+          "file_path": "chapter_03/resources/fig_3_5.png",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_6",
+          "resource_type": "image",
+          "title": "平面CAD系统流程图",
+          "status": "placeholder",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_6.emf",
+            "assets/ch03/images/fig_3_6.png"
+          ],
+          "issues": [
+            "placeholder_status",
+            "candidate_asset_unbound",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_7",
+          "resource_type": "image",
+          "title": "基本型曲线计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_7.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_8",
+          "resource_type": "image",
+          "title": "卵形曲线计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_8.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_8.jpeg"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_9",
+          "resource_type": "image",
+          "title": "双交点曲线计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_9.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_9.jpeg"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_10",
+          "resource_type": "image",
+          "title": "直线与圆曲线连接计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_10.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_10.jpeg"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_11",
+          "resource_type": "image",
+          "title": "两反向圆曲线连接计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_11.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_12",
+          "resource_type": "image",
+          "title": "两同向圆曲线连接",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_12.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_13",
+          "resource_type": "image",
+          "title": "坐标计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_13.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_14",
+          "resource_type": "image",
+          "title": "纵断面CAD系统设计流程",
+          "status": "placeholder",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_14.png"
+          ],
+          "issues": [
+            "placeholder_status",
+            "candidate_asset_unbound",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_15",
+          "resource_type": "image",
+          "title": "纵断面计算流程图",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_15.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_16",
+          "resource_type": "image",
+          "title": "纵断面计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_16.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_17",
+          "resource_type": "image",
+          "title": "横断面CAD系统流程图",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_17.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_18",
+          "resource_type": "image",
+          "title": "EICAD边坡模板戴帽规则",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_18.jpg",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_18.png"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_19",
+          "resource_type": "image",
+          "title": "可视化超高设计",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_19.jpg",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_19.emf"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_20",
+          "resource_type": "image",
+          "title": "无中间带超高值计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_20.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_21",
+          "resource_type": "image",
+          "title": "有中间带超高值计算图式",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_21.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_22",
+          "resource_type": "image",
+          "title": "基本边坡线单元",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_22.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_23",
+          "resource_type": "image",
+          "title": "横断面面积计算（积距法）",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_23.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch03/images/fig_3_23.emf"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_24",
+          "resource_type": "image",
+          "title": "横断面面积计算（坐标法）",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_24.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_25",
+          "resource_type": "image",
+          "title": "体积计算",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_25.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_27",
+          "resource_type": "image",
+          "title": "平面交叉口CAD系统结构",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_27.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_28",
+          "resource_type": "image",
+          "title": "交叉口Coons曲面片划分图",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_28.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_3_29",
+          "resource_type": "image",
+          "title": "人机交互交叉口立面设计流程图",
+          "status": "bound",
+          "file_path": "assets/ch03/images/fig_3_29.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_1",
+          "resource_type": "formula",
+          "title": "公式（3-1）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_2",
+          "resource_type": "formula",
+          "title": "公式（3-2）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_3",
+          "resource_type": "formula",
+          "title": "公式（3-3）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_4",
+          "resource_type": "formula",
+          "title": "公式（3-4）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_5",
+          "resource_type": "formula",
+          "title": "公式（3-5）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_6",
+          "resource_type": "formula",
+          "title": "公式（3-6）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_7",
+          "resource_type": "formula",
+          "title": "公式（3-7）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_8",
+          "resource_type": "formula",
+          "title": "公式（3-8）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_9",
+          "resource_type": "formula",
+          "title": "公式（3-9）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_10",
+          "resource_type": "formula",
+          "title": "公式（3-10）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_11",
+          "resource_type": "formula",
+          "title": "公式（3-11）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_12",
+          "resource_type": "formula",
+          "title": "公式（3-12）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_13",
+          "resource_type": "formula",
+          "title": "公式（3-13）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_14",
+          "resource_type": "formula",
+          "title": "公式（3-14）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_15",
+          "resource_type": "formula",
+          "title": "公式（3-15）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_16",
+          "resource_type": "formula",
+          "title": "公式（3-16）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_17",
+          "resource_type": "formula",
+          "title": "公式（3-17）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_18",
+          "resource_type": "formula",
+          "title": "公式（3-18）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_19",
+          "resource_type": "formula",
+          "title": "公式（3-19）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_20",
+          "resource_type": "formula",
+          "title": "公式（3-20）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_21",
+          "resource_type": "formula",
+          "title": "公式（3-21）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_22",
+          "resource_type": "formula",
+          "title": "公式（3-22）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_23",
+          "resource_type": "formula",
+          "title": "公式（3-23）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_24",
+          "resource_type": "formula",
+          "title": "公式（3-24）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_25",
+          "resource_type": "formula",
+          "title": "公式（3-25）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_26",
+          "resource_type": "formula",
+          "title": "公式（3-26）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_27",
+          "resource_type": "formula",
+          "title": "公式（3-27）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_28",
+          "resource_type": "formula",
+          "title": "公式（3-28）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_29",
+          "resource_type": "formula",
+          "title": "公式（3-29）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_30",
+          "resource_type": "formula",
+          "title": "公式（3-30）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_31",
+          "resource_type": "formula",
+          "title": "公式（3-31）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_32",
+          "resource_type": "formula",
+          "title": "公式（3-32）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_33",
+          "resource_type": "formula",
+          "title": "公式（3-33）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_34",
+          "resource_type": "formula",
+          "title": "公式（3-34）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_3_35",
+          "resource_type": "formula",
+          "title": "公式（3-35）",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        }
+      ],
+      "asset_duplicates": [
+        {
+          "sha256": "37414af421cef4d05553dc683765d78b29618b8e4559f47ceedb50af5eb246fd",
+          "files": [
+            "assets/ch03/images/fig_3_10.jpeg",
+            "assets/ch03/images/fig_3_9.jpeg"
+          ]
+        },
+        {
+          "sha256": "8d6a3ea140beb10e5f71f253046ec2b686937d9ee052c68d1f656a577ff6dac9",
+          "files": [
+            "assets/ch03/images/fig_3_11.png",
+            "assets/ch03/images/fig_3_12.png"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch04",
+      "package_path": "data/raw/ch04/第4章_道路BIM正向设计的原理与方法_知识库_v1.0完备版.json",
+      "resource_count": 21,
+      "resource_type_counts": {
+        "table": 2,
+        "image": 11,
+        "interactive_html": 8
+      },
+      "resource_status_counts": {
+        "structured": 2,
+        "bound": 19
+      },
+      "resource_eval_cases": 52,
+      "source_word_verification": {
+        "exact": 110,
+        "partial": 20
+      },
+      "problem_resources": [
+        {
+          "resource_id": "res_ch04_001",
+          "resource_type": "table",
+          "title": "表4-1 BIM的关键技术与基本特征",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_002",
+          "resource_type": "image",
+          "title": "图4-1 BIM内涵与基本特征",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_002.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_003",
+          "resource_type": "image",
+          "title": "图4-2 设计范式的四要素",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_003.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_004",
+          "resource_type": "image",
+          "title": "图4-3 设计范式的演变过程",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_004.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_005",
+          "resource_type": "image",
+          "title": "图4-4 道路BIM正向设计流程",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_005.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_006",
+          "resource_type": "image",
+          "title": "图4-5 构件层级体系及信息构成模型",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_006.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_007",
+          "resource_type": "table",
+          "title": "表4-2 道路工程构件分类体系",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_008",
+          "resource_type": "image",
+          "title": "图4-6 PRR动态驱动机制",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_008.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_009",
+          "resource_type": "image",
+          "title": "图4-8 参数化建模的应用模式",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_009.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_010",
+          "resource_type": "image",
+          "title": "成果交付流程示意",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_010.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch04_script_4_6",
+          "resource_type": "interactive_html",
+          "title": "BIM中的参数-规则-结果机制_PPR",
+          "status": "bound",
+          "file_path": "assets/ch04/interactive_html/4.6BIM中的参数-规则-结果机制_PPR.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch04_script_4_7",
+          "resource_type": "interactive_html",
+          "title": "道路BIM参数化建模应用模式",
+          "status": "bound",
+          "file_path": "assets/ch04/interactive_html/4.7道路BIM参数化建模应用模式.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch04_script_4_8",
+          "resource_type": "interactive_html",
+          "title": "道路BIM正向设计成果表达与交付",
+          "status": "bound",
+          "file_path": "assets/ch04/interactive_html/4.8道路BIM正向设计成果表达与交付.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "res_ch04_013",
+          "resource_type": "image",
+          "title": "图4-7 道路BIM参数类型及控制逻辑",
+          "status": "bound",
+          "file_path": "assets/ch04/images/res_ch04_013.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        }
+      ],
+      "asset_duplicates": []
+    },
+    {
+      "chapter_id": "ch05",
+      "package_path": "data/raw/ch05/第5章_GIS理论基础与空间分析方法_知识库_v1.0完备版.json",
+      "resource_count": 40,
+      "resource_type_counts": {
+        "image": 19,
+        "table": 2,
+        "formula": 8,
+        "interactive_html": 11
+      },
+      "resource_status_counts": {
+        "bound": 30,
+        "structured": 10
+      },
+      "resource_eval_cases": 93,
+      "source_word_verification": {
+        "concept_supported": 148
+      },
+      "problem_resources": [
+        {
+          "resource_id": "fig_5_1",
+          "resource_type": "image",
+          "title": "图5-1 GIS的组成要素",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_1.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_2",
+          "resource_type": "image",
+          "title": "GIS的核心功能",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_2.tiff",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_3",
+          "resource_type": "image",
+          "title": "GIS技术流程与功能模块",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_3.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_4",
+          "resource_type": "image",
+          "title": "图5-4 按投影面形状的投影方式",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_4.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_5",
+          "resource_type": "image",
+          "title": "图5-5 按投影面与地球相对位置的投影方式",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_5.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_5.tiff"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_7",
+          "resource_type": "image",
+          "title": "图5-7 拓扑关系概念与原理图",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_7.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_7.tiff"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_9",
+          "resource_type": "image",
+          "title": "图5-9 点、线、面的缓冲区",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_9.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_14",
+          "resource_type": "image",
+          "title": "图5-14 坡度和坡向图",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_14.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_14.tiff"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_15",
+          "resource_type": "image",
+          "title": "地表曲率图",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_15.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_17",
+          "resource_type": "image",
+          "title": "图5-17 视域分析原理",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_17.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_17.tiff"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_19",
+          "resource_type": "image",
+          "title": "图5-19 空间分布模式",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_19.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_19.jpeg"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_21",
+          "resource_type": "image",
+          "title": "图5-21 变异函数的典型参数",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_21.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_21.tiff"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_22",
+          "resource_type": "image",
+          "title": "图5-22 趋势面拟合与残差分析",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_22.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_22.tiff"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_23",
+          "resource_type": "image",
+          "title": "图5-23 网络数据集的核心要素",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_23.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_24",
+          "resource_type": "image",
+          "title": "图5-24 Dijkstra算法与A*算法的原理",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_24.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [
+            "assets/ch05/images/fig_5_24.tiff"
+          ],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_1",
+          "resource_type": "formula",
+          "title": "LDP比例因子关系式",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_3",
+          "resource_type": "formula",
+          "title": "全局莫兰指数公式",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_6",
+          "resource_type": "formula",
+          "title": "IDW插值公式",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_7",
+          "resource_type": "formula",
+          "title": "克里金插值公式",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_8",
+          "resource_type": "formula",
+          "title": "MAE公式",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_9",
+          "resource_type": "formula",
+          "title": "RMSE公式",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_11",
+          "resource_type": "formula",
+          "title": "最短路径目标函数",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "formula_5_12",
+          "resource_type": "formula",
+          "title": "A*评价函数",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch05_script_5_10",
+          "resource_type": "interactive_html",
+          "title": "空间预测结果的可靠性与趋势判读",
+          "status": "bound",
+          "file_path": "assets/ch05/interactive_html/5.10空间预测结果的可靠性与趋势判读.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch05_script_5_11",
+          "resource_type": "interactive_html",
+          "title": "道路网络分析方法",
+          "status": "bound",
+          "file_path": "assets/ch05/interactive_html/5.11道路网络分析方法.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch05_script_5_5",
+          "resource_type": "interactive_html",
+          "title": "空间分析原理与道路工程应用",
+          "status": "bound",
+          "file_path": "assets/ch05/interactive_html/5.5空间分析原理与道路工程应用.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch05_script_5_6",
+          "resource_type": "interactive_html",
+          "title": "矢量空间分析基础与道路应用",
+          "status": "bound",
+          "file_path": "assets/ch05/interactive_html/5.6矢量空间分析基础与道路应用.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch05_script_5_7",
+          "resource_type": "interactive_html",
+          "title": "栅格空间分析基础与道路应用",
+          "status": "bound",
+          "file_path": "assets/ch05/interactive_html/5.7栅格空间分析基础与道路应用.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch05_script_5_8",
+          "resource_type": "interactive_html",
+          "title": "数字地形与视域分析基础及道路应用",
+          "status": "bound",
+          "file_path": "assets/ch05/interactive_html/5.8数字地形与视域分析基础及道路应用.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch05_script_5_9",
+          "resource_type": "interactive_html",
+          "title": "离散采样点到连续空间表面的生成",
+          "status": "bound",
+          "file_path": "assets/ch05/interactive_html/5.9离散采样点到连续空间表面的生成.html",
+          "file_exists": true,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_11",
+          "resource_type": "image",
+          "title": "图5-11 栅格重分类",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_11.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_18",
+          "resource_type": "image",
+          "title": "图5-18 公路沿线累积视域分析",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_18.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_20",
+          "resource_type": "image",
+          "title": "图5-20 灾害点的局部自相关分析",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_20.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "fig_5_25",
+          "resource_type": "image",
+          "title": "图5-25 OD成本矩阵分析流程",
+          "status": "bound",
+          "file_path": "assets/ch05/images/fig_5_25.png",
+          "file_exists": true,
+          "eval_cases": 2,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "table_5_1",
+          "resource_type": "table",
+          "title": "表5-1 GIS拓扑模型与BIM构件模型的差异",
+          "status": "structured",
+          "file_path": "",
+          "file_exists": false,
+          "eval_cases": 3,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "no_related_kps"
+          ]
+        }
+      ],
+      "asset_duplicates": []
+    },
+    {
+      "chapter_id": "ch06",
+      "package_path": "data/raw/ch06/第6章_AutoCAD平台功能与使用方法_知识库_v1.0操作完备版.json",
+      "resource_count": 45,
+      "resource_type_counts": {
+        "image": 36,
+        "video": 8,
+        "interactive_html": 1
+      },
+      "resource_status_counts": {
+        "placeholder": 44,
+        "bound": 1
+      },
+      "resource_eval_cases": 3,
+      "source_word_verification": {
+        "missing": 150
+      },
+      "problem_resources": [
+        {
+          "resource_id": "ch06_res_fig_001",
+          "resource_type": "image",
+          "title": "图6-1 AutoCAD界面",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_001.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_002",
+          "resource_type": "image",
+          "title": "图6-2 选项对话框",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_002.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_003",
+          "resource_type": "image",
+          "title": "图6-3 相对坐标输入",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_003.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_004",
+          "resource_type": "image",
+          "title": "图6-4 图纸空间页面设置",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_004.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_005",
+          "resource_type": "image",
+          "title": "图6-5 圆的绘制方式",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_005.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_006",
+          "resource_type": "image",
+          "title": "图6-6 样条曲线示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_006.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_007",
+          "resource_type": "image",
+          "title": "图6-7 正多边形绘制方法",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_007.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_008",
+          "resource_type": "image",
+          "title": "图6-8 矩形选择方法",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_008.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_009",
+          "resource_type": "image",
+          "title": "图6-9 不规则选择示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_009.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_010",
+          "resource_type": "image",
+          "title": "图6-10 栏选示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_010.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_011",
+          "resource_type": "image",
+          "title": "图6-11 拉伸示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_011.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_012",
+          "resource_type": "image",
+          "title": "图6-12 旋转示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_012.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_013",
+          "resource_type": "image",
+          "title": "图6-13 修剪对象示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_013.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_014",
+          "resource_type": "image",
+          "title": "图6-14 圆角示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_014.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_015",
+          "resource_type": "image",
+          "title": "图6-15 阵列示意图",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_015.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_016",
+          "resource_type": "image",
+          "title": "图6-18 状态栏精确定位工具",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_016.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_017",
+          "resource_type": "image",
+          "title": "图6-24 标注类型",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_017.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_018",
+          "resource_type": "image",
+          "title": "图6-25 标注组成",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_018.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_019",
+          "resource_type": "image",
+          "title": "图6-26 标注样式管理器",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_019.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_020",
+          "resource_type": "image",
+          "title": "图6-31 图层管理器",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_020.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_021",
+          "resource_type": "image",
+          "title": "图6-32 图块插入示意",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_021.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_022",
+          "resource_type": "image",
+          "title": "图6-33 块定义对话框",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_022.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_023",
+          "resource_type": "image",
+          "title": "图6-34 插入对话框",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_023.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_024",
+          "resource_type": "image",
+          "title": "图6-35 属性定义对话框",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_024.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_025",
+          "resource_type": "image",
+          "title": "图6-36 块属性管理器",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_025.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_026",
+          "resource_type": "image",
+          "title": "图6-40 视觉样式管理器",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_026.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_027",
+          "resource_type": "image",
+          "title": "图6-42 3DFACE空间平面",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_027.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_028",
+          "resource_type": "image",
+          "title": "图6-43 平移曲面",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_028.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_029",
+          "resource_type": "image",
+          "title": "图6-44 旋转曲面",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_029.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_030",
+          "resource_type": "image",
+          "title": "图6-47 长方体",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_030.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_031",
+          "resource_type": "image",
+          "title": "图6-48 圆柱体",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_031.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_032",
+          "resource_type": "image",
+          "title": "图6-49 拉伸实体",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_032.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_033",
+          "resource_type": "image",
+          "title": "图6-50 旋转实体",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_033.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_034",
+          "resource_type": "image",
+          "title": "图6-51 并集命令",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_034.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_035",
+          "resource_type": "image",
+          "title": "图6-52 差集命令",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_035.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_res_fig_036",
+          "resource_type": "image",
+          "title": "图6-53 交集命令",
+          "status": "placeholder",
+          "file_path": "chapter_06/images/ch06_fig_036.png",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_001",
+          "resource_type": "video",
+          "title": "AutoCAD绘图环境与坐标输入演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_001.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_002",
+          "resource_type": "video",
+          "title": "AutoCAD基本绘图命令演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_002.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_003",
+          "resource_type": "video",
+          "title": "AutoCAD图形编辑命令演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_003.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_004",
+          "resource_type": "video",
+          "title": "AutoCAD精确定位工具演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_004.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_005",
+          "resource_type": "video",
+          "title": "AutoCAD文字与尺寸标注演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_005.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_006",
+          "resource_type": "video",
+          "title": "AutoCAD图层管理与图块应用演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_006.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_007",
+          "resource_type": "video",
+          "title": "AutoCAD三维曲面与实体建模演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_007.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        },
+        {
+          "resource_id": "ch06_vid_008",
+          "resource_type": "video",
+          "title": "简易道路标准横断面综合绘图演示",
+          "status": "placeholder",
+          "file_path": "chapter_06/videos/ch06_vid_008.mp4",
+          "file_exists": false,
+          "eval_cases": 0,
+          "related_kps_count": 0,
+          "candidate_assets": [],
+          "issues": [
+            "placeholder_status",
+            "missing_file",
+            "no_resource_eval_case",
+            "no_related_kps"
+          ]
+        }
+      ],
+      "asset_duplicates": []
+    }
+  ]
+}

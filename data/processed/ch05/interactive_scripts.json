@@ -1,0 +1,332 @@
+[
+  {
+    "script_id": "ch05_interactive_5_10",
+    "resource_id": "ch05_script_5_10",
+    "chapter_id": "ch05",
+    "title": "空间预测结果的可靠性与趋势判读",
+    "file_path": "assets/ch05/interactive_html/5.10空间预测结果的可靠性与趋势判读.html",
+    "interaction_theme": "空间预测结果的可靠性与趋势判读",
+    "display_objects": [
+      "空间预测结果的可靠性与趋势判读"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "空间预测结果的可靠性与趋势判读怎么看？",
+      "空间预测结果的可靠性与趋势判读怎么操作？",
+      "我想看空间预测结果的可靠性与趋势判读。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "空间预测结果的可靠性与趋势判读"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_11",
+    "resource_id": "ch05_script_5_11",
+    "chapter_id": "ch05",
+    "title": "道路网络分析方法",
+    "file_path": "assets/ch05/interactive_html/5.11道路网络分析方法.html",
+    "interaction_theme": "道路网络分析方法",
+    "display_objects": [
+      "道路网络分析方法"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "道路网络分析方法怎么看？",
+      "道路网络分析方法怎么操作？",
+      "我想看道路网络分析方法。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "道路网络分析方法"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_1",
+    "resource_id": "ch05_script_5_1",
+    "chapter_id": "ch05",
+    "title": "GIS工程定位与空间问题分析",
+    "file_path": "assets/ch05/interactive_html/5.1GIS工程定位与空间问题分析.html",
+    "interaction_theme": "GIS工程定位与空间问题分析",
+    "display_objects": [
+      "GIS工程定位与空间问题分析",
+      "GIS"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "GIS工程定位与空间问题分析怎么看？",
+      "GIS工程定位与空间问题分析怎么操作？",
+      "我想看GIS工程定位与空间问题分析。"
+    ],
+    "related_kps": [
+      "kp_ch05_001",
+      "kp_ch05_002",
+      "kp_ch05_003",
+      "kp_ch05_004",
+      "kp_ch05_005",
+      "kp_ch05_006",
+      "kp_ch05_007",
+      "kp_ch05_008"
+    ],
+    "extracted_labels": [
+      "GIS工程定位与空间问题分析",
+      "GIS"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_2",
+    "resource_id": "ch05_script_5_2",
+    "chapter_id": "ch05",
+    "title": "GIS技术流程与数据流转",
+    "file_path": "assets/ch05/interactive_html/5.2GIS技术流程与数据流转.html",
+    "interaction_theme": "GIS技术流程与数据流转",
+    "display_objects": [
+      "GIS技术流程与数据流转",
+      "GIS"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "GIS技术流程与数据流转怎么看？",
+      "GIS技术流程与数据流转怎么操作？",
+      "我想看GIS技术流程与数据流转。"
+    ],
+    "related_kps": [
+      "kp_ch05_044",
+      "kp_ch05_045",
+      "kp_ch05_046",
+      "kp_ch05_047",
+      "kp_ch05_048",
+      "kp_ch05_049",
+      "kp_ch05_050",
+      "kp_ch05_051"
+    ],
+    "extracted_labels": [
+      "GIS技术流程与数据流转",
+      "GIS"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_3",
+    "resource_id": "ch05_script_5_3",
+    "chapter_id": "ch05",
+    "title": "地图投影与道路工程低失真坐标控制",
+    "file_path": "assets/ch05/interactive_html/5.3地图投影与道路工程低失真坐标控制.html",
+    "interaction_theme": "地图投影与道路工程低失真坐标控制",
+    "display_objects": [
+      "地图投影与道路工程低失真坐标控制"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "地图投影与道路工程低失真坐标控制怎么看？",
+      "地图投影与道路工程低失真坐标控制怎么操作？",
+      "我想看地图投影与道路工程低失真坐标控制。"
+    ],
+    "related_kps": [
+      "kp_ch05_080",
+      "kp_ch05_081",
+      "kp_ch05_082",
+      "kp_ch05_083",
+      "kp_ch05_084",
+      "kp_ch05_085",
+      "kp_ch05_086",
+      "kp_ch05_087"
+    ],
+    "extracted_labels": [
+      "地图投影与道路工程低失真坐标控制"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_4",
+    "resource_id": "ch05_script_5_4",
+    "chapter_id": "ch05",
+    "title": "空间数据模型、拓扑结构与BIM模型差异",
+    "file_path": "assets/ch05/interactive_html/5.4空间数据模型、拓扑结构与BIM模型差异.html",
+    "interaction_theme": "空间数据模型、拓扑结构与BIM模型差异",
+    "display_objects": [
+      "空间数据模型",
+      "拓扑结构与BIM模型差异",
+      "BIM"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "空间数据模型、拓扑结构与BIM模型差异怎么看？",
+      "空间数据模型、拓扑结构与BIM模型差异怎么操作？",
+      "我想看空间数据模型、拓扑结构与BIM模型差异。"
+    ],
+    "related_kps": [
+      "kp_ch05_108",
+      "kp_ch05_109",
+      "kp_ch05_110",
+      "kp_ch05_111",
+      "kp_ch05_112",
+      "kp_ch05_113",
+      "kp_ch05_114",
+      "kp_ch05_115"
+    ],
+    "extracted_labels": [
+      "空间数据模型",
+      "拓扑结构与BIM模型差异",
+      "BIM"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_5",
+    "resource_id": "ch05_script_5_5",
+    "chapter_id": "ch05",
+    "title": "空间分析原理与道路工程应用",
+    "file_path": "assets/ch05/interactive_html/5.5空间分析原理与道路工程应用.html",
+    "interaction_theme": "空间分析原理与道路工程应用",
+    "display_objects": [
+      "空间分析原理与道路工程应用"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "空间分析原理与道路工程应用怎么看？",
+      "空间分析原理与道路工程应用怎么操作？",
+      "我想看空间分析原理与道路工程应用。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "空间分析原理与道路工程应用"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_6",
+    "resource_id": "ch05_script_5_6",
+    "chapter_id": "ch05",
+    "title": "矢量空间分析基础与道路应用",
+    "file_path": "assets/ch05/interactive_html/5.6矢量空间分析基础与道路应用.html",
+    "interaction_theme": "矢量空间分析基础与道路应用",
+    "display_objects": [
+      "矢量空间分析基础与道路应用"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "矢量空间分析基础与道路应用怎么看？",
+      "矢量空间分析基础与道路应用怎么操作？",
+      "我想看矢量空间分析基础与道路应用。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "矢量空间分析基础与道路应用"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_7",
+    "resource_id": "ch05_script_5_7",
+    "chapter_id": "ch05",
+    "title": "栅格空间分析基础与道路应用",
+    "file_path": "assets/ch05/interactive_html/5.7栅格空间分析基础与道路应用.html",
+    "interaction_theme": "栅格空间分析基础与道路应用",
+    "display_objects": [
+      "栅格空间分析基础与道路应用"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "栅格空间分析基础与道路应用怎么看？",
+      "栅格空间分析基础与道路应用怎么操作？",
+      "我想看栅格空间分析基础与道路应用。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "栅格空间分析基础与道路应用"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_8",
+    "resource_id": "ch05_script_5_8",
+    "chapter_id": "ch05",
+    "title": "数字地形与视域分析基础及道路应用",
+    "file_path": "assets/ch05/interactive_html/5.8数字地形与视域分析基础及道路应用.html",
+    "interaction_theme": "数字地形与视域分析基础及道路应用",
+    "display_objects": [
+      "数字地形与视域分析基础及道路应用"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "数字地形与视域分析基础及道路应用怎么看？",
+      "数字地形与视域分析基础及道路应用怎么操作？",
+      "我想看数字地形与视域分析基础及道路应用。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "数字地形与视域分析基础及道路应用"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch05_interactive_5_9",
+    "resource_id": "ch05_script_5_9",
+    "chapter_id": "ch05",
+    "title": "离散采样点到连续空间表面的生成",
+    "file_path": "assets/ch05/interactive_html/5.9离散采样点到连续空间表面的生成.html",
+    "interaction_theme": "离散采样点到连续空间表面的生成",
+    "display_objects": [
+      "离散采样点到连续空间表面的生成"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "离散采样点到连续空间表面的生成怎么看？",
+      "离散采样点到连续空间表面的生成怎么操作？",
+      "我想看离散采样点到连续空间表面的生成。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "离散采样点到连续空间表面的生成"
+    ],
+    "status": "bound"
+  }
+]

@@ -1,0 +1,244 @@
+{
+  "chapter_id": "ch10",
+  "version_id": "ch10_kb_v1.0",
+  "package_path": "D:\\knowledgebase\\data\\raw\\ch10\\第10章_AI驱动的道路设计方法_知识库_v1.0方法完备版.json",
+  "source_checksum": "30503c7260d72a0614f90f609f3f86c1b721a65e7aac17289728c3f2f4edee2c",
+  "started_at": "2026-06-05T08:21:05",
+  "finished_at": "2026-06-05T08:27:58",
+  "status": "released",
+  "table_counts": {
+    "metadata": 1,
+    "Chapter_Structure": 20,
+    "Source_Chunks": 160,
+    "Knowledge_Points": 98,
+    "Answer_Cards": 308,
+    "Method_Cards": 20,
+    "Application_Scenarios": 24,
+    "Case_Cards": 18,
+    "Concept_Comparison": 22,
+    "Risk_and_Limitations": 10,
+    "Synonyms": 651,
+    "Knowledge_Relations": 118,
+    "Resources": 30,
+    "Exercises": 10,
+    "QA_Testset": 301,
+    "QA_Evaluation_Testset": 301,
+    "RAG_Config": 450,
+    "Embedding_Corpus": 450,
+    "Question_Routing_Rules": 6,
+    "Answer_Constraints": 8,
+    "Quality_Checklist": 8,
+    "Synonyms_Questions": 669,
+    "Interactive_Scripts": 4,
+    "Prompt_Templates": 2,
+    "Resource_Evaluation_Testset": 4,
+    "Answer_Guardrails": 8
+  },
+  "steps": [
+    {
+      "name": "validate",
+      "status": "passed",
+      "summary": "errors=0, warnings=0",
+      "details": {
+        "counts": {
+          "metadata": 1,
+          "Chapter_Structure": 20,
+          "Source_Chunks": 160,
+          "Knowledge_Points": 98,
+          "Answer_Cards": 308,
+          "Method_Cards": 20,
+          "Application_Scenarios": 24,
+          "Case_Cards": 18,
+          "Concept_Comparison": 22,
+          "Risk_and_Limitations": 10,
+          "Synonyms": 651,
+          "Knowledge_Relations": 118,
+          "Resources": 30,
+          "Exercises": 10,
+          "QA_Testset": 301,
+          "QA_Evaluation_Testset": 301,
+          "RAG_Config": 450,
+          "Embedding_Corpus": 450,
+          "Question_Routing_Rules": 6,
+          "Answer_Constraints": 8,
+          "Quality_Checklist": 8,
+          "Synonyms_Questions": 669,
+          "Interactive_Scripts": 4,
+          "Prompt_Templates": 2,
+          "Resource_Evaluation_Testset": 4,
+          "Answer_Guardrails": 8
+        },
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "name": "quality",
+      "status": "passed",
+      "summary": "ambiguous_qa=0, duplicate_canonical=0",
+      "details": {
+        "report": "D:\\knowledgebase\\output\\ch10_rag_engine\\reports\\kb_quality_report_ch10.json",
+        "ambiguous_qa_cases": [],
+        "duplicate_canonical_questions": []
+      }
+    },
+    {
+      "name": "export",
+      "status": "passed",
+      "summary": "exported_files=25",
+      "details": {
+        "output_dir": "D:\\knowledgebase\\data\\processed\\ch10",
+        "counts": {
+          "answer_cards.json": 308,
+          "knowledge_points.json": 98,
+          "source_chunks.json": 160,
+          "qa_evaluation_testset.json": 301,
+          "resource_evaluation_testset.json": 4,
+          "rag_config.json": 450,
+          "resource_index.json": 30,
+          "interactive_scripts.json": 4,
+          "embedding_corpus.json": 450,
+          "synonym_questions.json": 669,
+          "knowledge_relations.json": 118,
+          "concept_comparisons.json": 22,
+          "exercises.json": 10,
+          "operation_tasks.json": 0,
+          "operation_steps.json": 0,
+          "command_cards.json": 0,
+          "software_objects.json": 0,
+          "parameter_settings.json": 0,
+          "common_errors.json": 0,
+          "video_resources.json": 0,
+          "video_segments.json": 0,
+          "screenshot_resources.json": 0,
+          "resource_relations.json": 0,
+          "question_routing_rules.json": 6,
+          "answer_guardrails.json": 8
+        }
+      }
+    },
+    {
+      "name": "sql_export",
+      "status": "passed",
+      "summary": "seed_sql_bytes=5535302",
+      "details": {
+        "seed_sql": "D:\\knowledgebase\\output\\ch10_rag_engine\\db_load\\ch10_seed.sql"
+      }
+    },
+    {
+      "name": "local_qa_evaluation",
+      "status": "passed",
+      "summary": "passed=301/301 (100.00%)",
+      "details": {
+        "total": 301,
+        "top1_hits": 301,
+        "top3_hits": 301,
+        "passed": 301,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch10_rag_engine\\reports\\eval_report_ch10.md",
+        "failures": "D:\\knowledgebase\\output\\ch10_rag_engine\\reports\\failed_cases_ch10.json"
+      }
+    },
+    {
+      "name": "local_resource_evaluation",
+      "status": "passed",
+      "summary": "passed=4/4 (100.00%)",
+      "details": {
+        "total": 4,
+        "top1_hits": 4,
+        "passed": 4,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch10_rag_engine\\reports\\resource_eval_report_ch10.md",
+        "failures": "D:\\knowledgebase\\output\\ch10_rag_engine\\reports\\resource_failed_cases_ch10.json"
+      }
+    },
+    {
+      "name": "embeddings",
+      "status": "passed",
+      "summary": "generated=450/450, dimensions=[1024]",
+      "details": {
+        "jsonl": "D:\\knowledgebase\\output\\ch10_rag_engine\\embeddings\\ch10_embedding_vectors.jsonl",
+        "sql": "D:\\knowledgebase\\output\\ch10_rag_engine\\db_load\\ch10_embedding_updates.sql",
+        "count": 450,
+        "dimensions": [
+          1024
+        ],
+        "models": [
+          "bge-m3"
+        ],
+        "by_source_type": {
+          "answer_card": 308,
+          "knowledge_point": 98,
+          "method_card": 20,
+          "application_scenario": 24
+        }
+      }
+    },
+    {
+      "name": "db_import",
+      "status": "passed",
+      "summary": "counts_ok=True, embedded_vectors=450",
+      "details": {
+        "version_id": "ch10_kb_v1.0",
+        "counts": {
+          "answer_cards": 308,
+          "knowledge_points": 98,
+          "source_chunks": 160,
+          "qa_evaluation_testset": 301,
+          "resources": 30,
+          "interactive_scripts": 4,
+          "resource_evaluation_testset": 4,
+          "embedding_corpus": 450,
+          "embedded_vectors": 450
+        },
+        "expected_counts": {
+          "answer_cards": 308,
+          "knowledge_points": 98,
+          "source_chunks": 160,
+          "qa_evaluation_testset": 301,
+          "resources": 30,
+          "interactive_scripts": 4,
+          "resource_evaluation_testset": 4,
+          "embedding_corpus": 450
+        },
+        "mismatches": {}
+      }
+    },
+    {
+      "name": "db_keyword_evaluation",
+      "status": "passed",
+      "summary": "passed=301/301 (100.00%)",
+      "details": {
+        "retriever": "keyword",
+        "total": 301,
+        "top1_hits": 301,
+        "top1_rate": 1.0,
+        "top3_hits": 301,
+        "top3_rate": 1.0,
+        "passed": 301,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "db_hybrid_evaluation",
+      "status": "passed",
+      "summary": "passed=30/30 (100.00%)",
+      "details": {
+        "retriever": "db-hybrid",
+        "total": 30,
+        "top1_hits": 30,
+        "top1_rate": 1.0,
+        "top3_hits": 30,
+        "top3_rate": 1.0,
+        "passed": 30,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "mark_released",
+      "status": "passed",
+      "summary": "version_id=ch10_kb_v1.0",
+      "details": {}
+    }
+  ]
+}

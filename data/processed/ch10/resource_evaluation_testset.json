@@ -1,0 +1,38 @@
+[
+  {
+    "test_id": "ch10_res_eval_027",
+    "chapter_id": "ch10",
+    "question": "我想看10.1_AI驱动道路设计范式。",
+    "expected_resource_id": "ch10_script_01",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  },
+  {
+    "test_id": "ch10_res_eval_028",
+    "chapter_id": "ch10",
+    "question": "我想看10.2_知识驱动道路智能设计方法。",
+    "expected_resource_id": "ch10_script_02",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  },
+  {
+    "test_id": "ch10_res_eval_029",
+    "chapter_id": "ch10",
+    "question": "我想看10.3_算法驱动的智能选线。",
+    "expected_resource_id": "ch10_script_03",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  },
+  {
+    "test_id": "ch10_res_eval_030",
+    "chapter_id": "ch10",
+    "question": "我想看10.4_数据驱动的路线设计。",
+    "expected_resource_id": "ch10_script_04",
+    "expected_resource_type": "interactive_html",
+    "pass_criteria": "能够返回并打开已绑定资源。",
+    "status": "checked"
+  }
+]

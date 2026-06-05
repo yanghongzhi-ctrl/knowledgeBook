@@ -1,0 +1,215 @@
+[
+  {
+    "exercise_id": "ex_ch05_01",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "什么是低失真投影（LDP）？为什么长距离的道路线性工程通常不能直接使用通用标准投影系统，而需要构建LDP？",
+    "exercise_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [
+      "kp_ch05_016",
+      "kp_ch05_017",
+      "kp_ch05_018",
+      "kp_ch05_019",
+      "kp_ch05_020",
+      "kp_ch05_021",
+      "kp_ch05_022",
+      "kp_ch05_023"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_02",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "矢量数据模型与栅格数据模型在表达地理实体上有何本质区别？请结合道路工程说明适用场景。",
+    "exercise_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [
+      "kp_ch05_026",
+      "kp_ch05_027",
+      "kp_ch05_028",
+      "kp_ch05_029",
+      "kp_ch05_030",
+      "kp_ch05_031",
+      "kp_ch05_032",
+      "kp_ch05_033"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_03",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "简述缓冲区分析与叠加分析的基本原理，并举例说明其在道路环境影响评价中的应用。",
+    "exercise_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [
+      "kp_ch05_051",
+      "kp_ch05_055"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_04",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "在数字地形分析中，坡度、坡向与地表曲率分别揭示哪些地形特征？对道路选线及排水设计有何指导意义？",
+    "exercise_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [
+      "kp_ch05_070",
+      "kp_ch05_071",
+      "kp_ch05_072",
+      "kp_ch05_073"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_05",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "什么是空间自相关性？如何利用莫兰指数判断地质灾害点呈聚集、离散还是随机分布？",
+    "exercise_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [
+      "kp_ch05_080",
+      "kp_ch05_081",
+      "kp_ch05_082",
+      "kp_ch05_083",
+      "kp_ch05_084",
+      "kp_ch05_085",
+      "kp_ch05_086",
+      "kp_ch05_087"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_06",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "确定性插值与地统计插值的核心区别是什么？哪种方法能提供预测误差评估？",
+    "exercise_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [
+      "kp_ch05_080",
+      "kp_ch05_081",
+      "kp_ch05_082",
+      "kp_ch05_083",
+      "kp_ch05_084",
+      "kp_ch05_085",
+      "kp_ch05_086",
+      "kp_ch05_087"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_07",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "完整的网络数据集由哪四类核心要素构成？阻抗在路径分析中起什么作用？",
+    "exercise_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [
+      "kp_ch05_108",
+      "kp_ch05_109",
+      "kp_ch05_110",
+      "kp_ch05_111",
+      "kp_ch05_112",
+      "kp_ch05_113",
+      "kp_ch05_114",
+      "kp_ch05_115"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_08",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "解释位置-分配模型的基本原理，并说明p-中位模型与最大覆盖模型在优化目标上的差异。",
+    "exercise_type": "short_answer",
+    "difficulty": "综合",
+    "related_kps": [
+      "kp_ch05_138",
+      "kp_ch05_141",
+      "kp_ch05_143"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  },
+  {
+    "exercise_id": "ex_ch05_09",
+    "chapter_id": "ch05",
+    "section_id": "ch05",
+    "question": "利用GIS构建复杂山区高速公路“最小成本与环境最优”选线模型，需要哪些基础数据和技术路线？",
+    "exercise_type": "short_answer",
+    "difficulty": "综合",
+    "related_kps": [
+      "kp_ch05_001",
+      "kp_ch05_084"
+    ],
+    "standard_answer_points": [
+      "准确解释核心概念。",
+      "按条目说明关键组成、流程或差异。",
+      "结合道路工程应用场景举例。",
+      "指出常见误区或使用条件。"
+    ],
+    "scoring_rule": "概念准确2分；条目完整4分；工程应用2分；表达清晰2分",
+    "status": "checked"
+  }
+]

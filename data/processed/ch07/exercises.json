@@ -1,0 +1,110 @@
+[
+  {
+    "exercise_id": "ex_ch07_001",
+    "chapter_id": "ch07",
+    "question": "纬地或EICAD中新建项目并检查项目路径。",
+    "question_type": "operation_practice",
+    "difficulty": "中等",
+    "related_tasks": "ch07_task_001",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_002",
+    "chapter_id": "ch07",
+    "question": "利用DWG地形图建立并优化三角网数模。",
+    "question_type": "operation_practice",
+    "difficulty": "中等",
+    "related_tasks": "ch07_task_002",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_003",
+    "chapter_id": "ch07",
+    "question": "采用交点法完成一段路线平面设计并输出直曲转角表。",
+    "question_type": "operation_practice",
+    "difficulty": "中等",
+    "related_tasks": "ch07_task_003",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_004",
+    "chapter_id": "ch07",
+    "question": "使用EICAD积木法设计一个匝道线元组合。",
+    "question_type": "operation_practice",
+    "difficulty": "中等",
+    "related_tasks": "ch07_task_004",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_005",
+    "chapter_id": "ch07",
+    "question": "输入纵断面地面线和控制点并进行交互拉坡。",
+    "question_type": "operation_practice",
+    "difficulty": "中等",
+    "related_tasks": "ch07_task_005",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_006",
+    "chapter_id": "ch07",
+    "question": "定义标准横断面模板并完成超高加宽计算。",
+    "question_type": "operation_practice",
+    "difficulty": "中等",
+    "related_tasks": "ch07_task_006",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_007",
+    "chapter_id": "ch07",
+    "question": "完成横断面戴帽设计并浏览特殊断面。",
+    "question_type": "operation_practice",
+    "difficulty": "中等",
+    "related_tasks": "ch07_task_007",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_008",
+    "chapter_id": "ch07",
+    "question": "完成土石方调配并输出土石方数量表。",
+    "question_type": "operation_practice",
+    "difficulty": "综合",
+    "related_tasks": "ch07_task_008",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  },
+  {
+    "exercise_id": "ex_ch07_009",
+    "chapter_id": "ch07",
+    "question": "修改图框与表格模板并输出平纵横设计图。",
+    "question_type": "operation_practice",
+    "difficulty": "综合",
+    "related_tasks": "ch07_task_009",
+    "standard_answer": "应说明操作目标、前置数据、菜单入口、参数设置、成果检查和常见错误处理。",
+    "grading_rubric": "前置数据2分；操作步骤4分；参数设置2分；成果检查2分。",
+    "common_mistakes": "只截图不说明参数；未保存项目；未检查输出成果。",
+    "feedback_template": "请按“前置条件—步骤—参数—检查—错误处理”补充答案。"
+  }
+]

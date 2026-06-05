@@ -1,0 +1,4568 @@
+{
+  "chapter_id": "ch07",
+  "title": "道路CAD软件的使用",
+  "raw_package": "D:\\knowledgebase\\data\\raw\\ch07\\第7章_道路CAD软件的使用_知识库_v1.0操作完备版.json",
+  "word_range": {
+    "start_paragraph": 3439,
+    "end_paragraph": 3873,
+    "paragraphs": 434
+  },
+  "word_characters": 21439,
+  "kb_counts": {
+    "Knowledge_Points": 141,
+    "Answer_Cards": 265,
+    "Source_Chunks": 150,
+    "Operation_Tasks": 60,
+    "Operation_Steps": 300,
+    "Common_Errors": 176
+  },
+  "source_chunk_alignment": {
+    "missing": 142,
+    "concept_supported": 8,
+    "total": 150
+  },
+  "knowledge_point_alignment": {
+    "hit": 141,
+    "miss": 0,
+    "total": 141
+  },
+  "operation_task_alignment": {
+    "hit": 60,
+    "miss": 0,
+    "total": 60
+  },
+  "answer_card_alignment": {
+    "hit": 265,
+    "miss": 0,
+    "total": 265
+  },
+  "heading_coverage": {
+    "hit": 1,
+    "miss": 16,
+    "total": 17
+  },
+  "samples": {
+    "missing_source_chunks": [
+      {
+        "chunk_id": "ch07_src_001",
+        "heading_path": "第7章 > 学习目标 > 学习目标",
+        "status": "missing",
+        "support_terms": [
+          "EICAD"
+        ],
+        "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+      },
+      {
+        "chunk_id": "ch07_src_002",
+        "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+      },
+      {
+        "chunk_id": "ch07_src_003",
+        "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+      },
+      {
+        "chunk_id": "ch07_src_004",
+        "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+        "status": "missing",
+        "support_terms": [
+          "DWG/DXF"
+        ],
+        "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+      },
+      {
+        "chunk_id": "ch07_src_005",
+        "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+      },
+      {
+        "chunk_id": "ch07_src_006",
+        "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+        "status": "missing",
+        "support_terms": [
+          "EICAD"
+        ],
+        "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+      },
+      {
+        "chunk_id": "ch07_src_008",
+        "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+      },
+      {
+        "chunk_id": "ch07_src_009",
+        "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+      },
+      {
+        "chunk_id": "ch07_src_010",
+        "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+      },
+      {
+        "chunk_id": "ch07_src_011",
+        "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+        "status": "missing",
+        "support_terms": [
+          "EICAD"
+        ],
+        "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+      },
+      {
+        "chunk_id": "ch07_src_012",
+        "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+      },
+      {
+        "chunk_id": "ch07_src_013",
+        "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+      }
+    ],
+    "kp_not_in_word": [],
+    "tasks_not_in_word": [],
+    "answers_not_in_word": [],
+    "headings_not_in_kb": [
+      {
+        "paragraph": 3446,
+        "style": "",
+        "heading": "第一节 项目管理与数模建立",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3448,
+        "style": "",
+        "heading": "一、纬地的项目管理与数模建立",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3469,
+        "style": "",
+        "heading": "二、EICAD的项目管理与数模建立",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3490,
+        "style": "",
+        "heading": "第二节 路线与立交平面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3491,
+        "style": "",
+        "heading": "一、纬地路线及立交平面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3576,
+        "style": "",
+        "heading": "二、EICAD路线平面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3616,
+        "style": "",
+        "heading": "第三节 纵断面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3617,
+        "style": "",
+        "heading": "一、纬地纵断面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3662,
+        "style": "",
+        "heading": "二、EICAD纵断面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3684,
+        "style": "",
+        "heading": "第四节 横断面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3685,
+        "style": "",
+        "heading": "一、纬地横断面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3727,
+        "style": "",
+        "heading": "二、EICAD横断面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3775,
+        "style": "",
+        "heading": "一、图框的管理与修改",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3787,
+        "style": "",
+        "heading": "二、平面设计图表的输出",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3817,
+        "style": "",
+        "heading": "三、纵断面设计图表的输出",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3837,
+        "style": "",
+        "heading": "四、横断面设计图表的输出",
+        "kb_hit": false
+      }
+    ],
+    "candidate_supplement_terms": [
+      {
+        "term": "JD2",
+        "word_count": 5,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "JD1",
+        "word_count": 4,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "STA1",
+        "word_count": 4,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Ls1",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Ls2",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Alpha",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      }
+    ]
+  },
+  "source_rows": [
+    {
+      "chunk_id": "ch07_src_001",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_002",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_003",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_004",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_005",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_006",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_007",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_008",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_009",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_010",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    },
+    {
+      "chunk_id": "ch07_src_011",
+      "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+    },
+    {
+      "chunk_id": "ch07_src_012",
+      "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+    },
+    {
+      "chunk_id": "ch07_src_013",
+      "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+    },
+    {
+      "chunk_id": "ch07_src_014",
+      "heading_path": "第7章 > 纵断面设计 > 纬地拉坡",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。"
+    },
+    {
+      "chunk_id": "ch07_src_015",
+      "heading_path": "第7章 > 纵断面设计 > EICAD纵断面流程",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD纵断面设计包括创建拉坡图、输入控制点、创建和编辑竖曲线以及审核。"
+    },
+    {
+      "chunk_id": "ch07_src_016",
+      "heading_path": "第7章 > 横断面设计 > 纬地横断面流程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。"
+    },
+    {
+      "chunk_id": "ch07_src_017",
+      "heading_path": "第7章 > 横断面设计 > EICAD模板",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD可创建和编辑路基模板、边坡模板、边沟截水沟模板。"
+    },
+    {
+      "chunk_id": "ch07_src_018",
+      "heading_path": "第7章 > 横断面设计 > 横断面戴帽",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。"
+    },
+    {
+      "chunk_id": "ch07_src_019",
+      "heading_path": "第7章 > 横断面设计 > 土石方调配",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD土石方调配支持跨项目和多路线调运，并考虑利用方式、构造物通行和运输路径。"
+    },
+    {
+      "chunk_id": "ch07_src_020",
+      "heading_path": "第7章 > 成果图表输出 > 成果输出",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。"
+    },
+    {
+      "chunk_id": "ch07_src_021",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_022",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_023",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_024",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_025",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_026",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_027",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_028",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_029",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_030",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    },
+    {
+      "chunk_id": "ch07_src_031",
+      "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+    },
+    {
+      "chunk_id": "ch07_src_032",
+      "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+    },
+    {
+      "chunk_id": "ch07_src_033",
+      "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+    },
+    {
+      "chunk_id": "ch07_src_034",
+      "heading_path": "第7章 > 纵断面设计 > 纬地拉坡",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。"
+    },
+    {
+      "chunk_id": "ch07_src_035",
+      "heading_path": "第7章 > 纵断面设计 > EICAD纵断面流程",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD纵断面设计包括创建拉坡图、输入控制点、创建和编辑竖曲线以及审核。"
+    },
+    {
+      "chunk_id": "ch07_src_036",
+      "heading_path": "第7章 > 横断面设计 > 纬地横断面流程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。"
+    },
+    {
+      "chunk_id": "ch07_src_037",
+      "heading_path": "第7章 > 横断面设计 > EICAD模板",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD可创建和编辑路基模板、边坡模板、边沟截水沟模板。"
+    },
+    {
+      "chunk_id": "ch07_src_038",
+      "heading_path": "第7章 > 横断面设计 > 横断面戴帽",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。"
+    },
+    {
+      "chunk_id": "ch07_src_039",
+      "heading_path": "第7章 > 横断面设计 > 土石方调配",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD土石方调配支持跨项目和多路线调运，并考虑利用方式、构造物通行和运输路径。"
+    },
+    {
+      "chunk_id": "ch07_src_040",
+      "heading_path": "第7章 > 成果图表输出 > 成果输出",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。"
+    },
+    {
+      "chunk_id": "ch07_src_041",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_042",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_043",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_044",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_045",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_046",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_047",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_048",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_049",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_050",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    },
+    {
+      "chunk_id": "ch07_src_051",
+      "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+    },
+    {
+      "chunk_id": "ch07_src_052",
+      "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+    },
+    {
+      "chunk_id": "ch07_src_053",
+      "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+    },
+    {
+      "chunk_id": "ch07_src_054",
+      "heading_path": "第7章 > 纵断面设计 > 纬地拉坡",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。"
+    },
+    {
+      "chunk_id": "ch07_src_055",
+      "heading_path": "第7章 > 纵断面设计 > EICAD纵断面流程",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD纵断面设计包括创建拉坡图、输入控制点、创建和编辑竖曲线以及审核。"
+    },
+    {
+      "chunk_id": "ch07_src_056",
+      "heading_path": "第7章 > 横断面设计 > 纬地横断面流程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。"
+    },
+    {
+      "chunk_id": "ch07_src_057",
+      "heading_path": "第7章 > 横断面设计 > EICAD模板",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD可创建和编辑路基模板、边坡模板、边沟截水沟模板。"
+    },
+    {
+      "chunk_id": "ch07_src_058",
+      "heading_path": "第7章 > 横断面设计 > 横断面戴帽",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。"
+    },
+    {
+      "chunk_id": "ch07_src_059",
+      "heading_path": "第7章 > 横断面设计 > 土石方调配",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD土石方调配支持跨项目和多路线调运，并考虑利用方式、构造物通行和运输路径。"
+    },
+    {
+      "chunk_id": "ch07_src_060",
+      "heading_path": "第7章 > 成果图表输出 > 成果输出",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。"
+    },
+    {
+      "chunk_id": "ch07_src_061",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_062",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_063",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_064",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_065",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_066",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_067",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_068",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_069",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_070",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    },
+    {
+      "chunk_id": "ch07_src_071",
+      "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+    },
+    {
+      "chunk_id": "ch07_src_072",
+      "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+    },
+    {
+      "chunk_id": "ch07_src_073",
+      "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+    },
+    {
+      "chunk_id": "ch07_src_074",
+      "heading_path": "第7章 > 纵断面设计 > 纬地拉坡",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。"
+    },
+    {
+      "chunk_id": "ch07_src_075",
+      "heading_path": "第7章 > 纵断面设计 > EICAD纵断面流程",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD纵断面设计包括创建拉坡图、输入控制点、创建和编辑竖曲线以及审核。"
+    },
+    {
+      "chunk_id": "ch07_src_076",
+      "heading_path": "第7章 > 横断面设计 > 纬地横断面流程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。"
+    },
+    {
+      "chunk_id": "ch07_src_077",
+      "heading_path": "第7章 > 横断面设计 > EICAD模板",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD可创建和编辑路基模板、边坡模板、边沟截水沟模板。"
+    },
+    {
+      "chunk_id": "ch07_src_078",
+      "heading_path": "第7章 > 横断面设计 > 横断面戴帽",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。"
+    },
+    {
+      "chunk_id": "ch07_src_079",
+      "heading_path": "第7章 > 横断面设计 > 土石方调配",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD土石方调配支持跨项目和多路线调运，并考虑利用方式、构造物通行和运输路径。"
+    },
+    {
+      "chunk_id": "ch07_src_080",
+      "heading_path": "第7章 > 成果图表输出 > 成果输出",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。"
+    },
+    {
+      "chunk_id": "ch07_src_081",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_082",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_083",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_084",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_085",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_086",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_087",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_088",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_089",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_090",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    },
+    {
+      "chunk_id": "ch07_src_091",
+      "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+    },
+    {
+      "chunk_id": "ch07_src_092",
+      "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+    },
+    {
+      "chunk_id": "ch07_src_093",
+      "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+    },
+    {
+      "chunk_id": "ch07_src_094",
+      "heading_path": "第7章 > 纵断面设计 > 纬地拉坡",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。"
+    },
+    {
+      "chunk_id": "ch07_src_095",
+      "heading_path": "第7章 > 纵断面设计 > EICAD纵断面流程",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD纵断面设计包括创建拉坡图、输入控制点、创建和编辑竖曲线以及审核。"
+    },
+    {
+      "chunk_id": "ch07_src_096",
+      "heading_path": "第7章 > 横断面设计 > 纬地横断面流程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。"
+    },
+    {
+      "chunk_id": "ch07_src_097",
+      "heading_path": "第7章 > 横断面设计 > EICAD模板",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD可创建和编辑路基模板、边坡模板、边沟截水沟模板。"
+    },
+    {
+      "chunk_id": "ch07_src_098",
+      "heading_path": "第7章 > 横断面设计 > 横断面戴帽",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。"
+    },
+    {
+      "chunk_id": "ch07_src_099",
+      "heading_path": "第7章 > 横断面设计 > 土石方调配",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD土石方调配支持跨项目和多路线调运，并考虑利用方式、构造物通行和运输路径。"
+    },
+    {
+      "chunk_id": "ch07_src_100",
+      "heading_path": "第7章 > 成果图表输出 > 成果输出",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。"
+    },
+    {
+      "chunk_id": "ch07_src_101",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_102",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_103",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_104",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_105",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_106",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_107",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_108",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_109",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_110",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    },
+    {
+      "chunk_id": "ch07_src_111",
+      "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+    },
+    {
+      "chunk_id": "ch07_src_112",
+      "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+    },
+    {
+      "chunk_id": "ch07_src_113",
+      "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+    },
+    {
+      "chunk_id": "ch07_src_114",
+      "heading_path": "第7章 > 纵断面设计 > 纬地拉坡",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。"
+    },
+    {
+      "chunk_id": "ch07_src_115",
+      "heading_path": "第7章 > 纵断面设计 > EICAD纵断面流程",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD纵断面设计包括创建拉坡图、输入控制点、创建和编辑竖曲线以及审核。"
+    },
+    {
+      "chunk_id": "ch07_src_116",
+      "heading_path": "第7章 > 横断面设计 > 纬地横断面流程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。"
+    },
+    {
+      "chunk_id": "ch07_src_117",
+      "heading_path": "第7章 > 横断面设计 > EICAD模板",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD可创建和编辑路基模板、边坡模板、边沟截水沟模板。"
+    },
+    {
+      "chunk_id": "ch07_src_118",
+      "heading_path": "第7章 > 横断面设计 > 横断面戴帽",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。"
+    },
+    {
+      "chunk_id": "ch07_src_119",
+      "heading_path": "第7章 > 横断面设计 > 土石方调配",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD土石方调配支持跨项目和多路线调运，并考虑利用方式、构造物通行和运输路径。"
+    },
+    {
+      "chunk_id": "ch07_src_120",
+      "heading_path": "第7章 > 成果图表输出 > 成果输出",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。"
+    },
+    {
+      "chunk_id": "ch07_src_121",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_122",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_123",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_124",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_125",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_126",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_127",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_128",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_129",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_130",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    },
+    {
+      "chunk_id": "ch07_src_131",
+      "heading_path": "第7章 > 路线平面设计 > EICAD积木法",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD积木法将路线或匝道看成直线、圆曲线、缓和曲线等线元组合。"
+    },
+    {
+      "chunk_id": "ch07_src_132",
+      "heading_path": "第7章 > 路线平面设计 > EICAD基本模式法",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。"
+    },
+    {
+      "chunk_id": "ch07_src_133",
+      "heading_path": "第7章 > 纵断面设计 > 纵断面地面线",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面地面线可由外业中桩高程输入，也可从数模内插。"
+    },
+    {
+      "chunk_id": "ch07_src_134",
+      "heading_path": "第7章 > 纵断面设计 > 纬地拉坡",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。"
+    },
+    {
+      "chunk_id": "ch07_src_135",
+      "heading_path": "第7章 > 纵断面设计 > EICAD纵断面流程",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD纵断面设计包括创建拉坡图、输入控制点、创建和编辑竖曲线以及审核。"
+    },
+    {
+      "chunk_id": "ch07_src_136",
+      "heading_path": "第7章 > 横断面设计 > 纬地横断面流程",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。"
+    },
+    {
+      "chunk_id": "ch07_src_137",
+      "heading_path": "第7章 > 横断面设计 > EICAD模板",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD可创建和编辑路基模板、边坡模板、边沟截水沟模板。"
+    },
+    {
+      "chunk_id": "ch07_src_138",
+      "heading_path": "第7章 > 横断面设计 > 横断面戴帽",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。"
+    },
+    {
+      "chunk_id": "ch07_src_139",
+      "heading_path": "第7章 > 横断面设计 > 土石方调配",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD土石方调配支持跨项目和多路线调运，并考虑利用方式、构造物通行和运输路径。"
+    },
+    {
+      "chunk_id": "ch07_src_140",
+      "heading_path": "第7章 > 成果图表输出 > 成果输出",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。"
+    },
+    {
+      "chunk_id": "ch07_src_141",
+      "heading_path": "第7章 > 学习目标 > 学习目标",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "第七章学习目标强调纬地和EICAD项目管理、数模建立、平面设计、纵断面设计、横断面设计和成果输出。"
+    },
+    {
+      "chunk_id": "ch07_src_142",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。"
+    },
+    {
+      "chunk_id": "ch07_src_143",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地项目管理器",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。"
+    },
+    {
+      "chunk_id": "ch07_src_144",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模建立",
+      "status": "missing",
+      "support_terms": [
+        "DWG/DXF"
+      ],
+      "excerpt_preview": "纬地可读取DWG/DXF中的等高线和高程点，通过三角构网生成数模。"
+    },
+    {
+      "chunk_id": "ch07_src_145",
+      "heading_path": "第7章 > 项目管理与数模建立 > 纬地数模优化",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。"
+    },
+    {
+      "chunk_id": "ch07_src_146",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD项目管理",
+      "status": "missing",
+      "support_terms": [
+        "EICAD"
+      ],
+      "excerpt_preview": "EICAD采用项目文件夹管理，项目新建后会自动生成相关文件和目录。"
+    },
+    {
+      "chunk_id": "ch07_src_147",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模建立",
+      "status": "concept_supported",
+      "support_terms": [
+        "EICAD",
+        "CAD",
+        "DEM"
+      ],
+      "excerpt_preview": "EICAD可通过点选等高线和地形点、导入CAD图形等方式建立DEM。"
+    },
+    {
+      "chunk_id": "ch07_src_148",
+      "heading_path": "第7章 > 项目管理与数模建立 > EICAD数模检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "构网后应检查数模范围，必要时排除高程异常点。"
+    },
+    {
+      "chunk_id": "ch07_src_149",
+      "heading_path": "第7章 > 路线平面设计 > 平面设计目标",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。"
+    },
+    {
+      "chunk_id": "ch07_src_150",
+      "heading_path": "第7章 > 路线平面设计 > 复杂曲线组合",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。"
+    }
+  ],
+  "knowledge_point_rows": [
+    {
+      "id": "kp_ch07_001",
+      "title": "新建纬地项目",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_002",
+      "title": "查看与维护项目管理器",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_003",
+      "title": "导入DWG/DXF高程数据",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_004",
+      "title": "设置等高线与高程点类型",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_005",
+      "title": "三角构网并保存数模",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_006",
+      "title": "优化数模边界和三角网",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_007",
+      "title": "新建EICAD项目",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_008",
+      "title": "导入或打开项目数据",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_009",
+      "title": "点选方式建立数模",
+      "word_hit": true,
+      "matched_term": "点选方式建立数模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_010",
+      "title": "排除高程异常并优化数模",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_011",
+      "title": "直线型交点法平面定线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_012",
+      "title": "修改平曲线参数",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_013",
+      "title": "设计S型曲线组合",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_014",
+      "title": "设计卵形曲线组合",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_015",
+      "title": "设计C型曲线与回头曲线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_016",
+      "title": "互通匝道文件控制接线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_017",
+      "title": "互通匝道圆+缓+直接线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_018",
+      "title": "积木法构造匝道线形",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_019",
+      "title": "EICAD直线单元设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_020",
+      "title": "EICAD圆曲线单元设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_021",
+      "title": "EICAD缓和曲线单元设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_022",
+      "title": "连接两缓和曲线",
+      "word_hit": true,
+      "matched_term": "连接两缓和曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_023",
+      "title": "基本模式法圆圆模式设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_024",
+      "title": "扩展模式法立交匝道设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_025",
+      "title": "生成桩号文件",
+      "word_hit": true,
+      "matched_term": "生成桩号文件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_026",
+      "title": "数模内插纵断面地面线",
+      "word_hit": true,
+      "matched_term": "数模内插纵断面地面线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_027",
+      "title": "手工输入或修改纵断面地面线",
+      "word_hit": true,
+      "matched_term": "手工输入或修改纵断面地面线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_028",
+      "title": "输入桥梁涵洞通道控制点",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_029",
+      "title": "创建纵断面拉坡图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_030",
+      "title": "交互式设置变坡点",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_031",
+      "title": "修改变坡点与竖曲线半径",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_032",
+      "title": "输出纵横地面线",
+      "word_hit": true,
+      "matched_term": "输出纵横地面线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_033",
+      "title": "创建拉坡图",
+      "word_hit": true,
+      "matched_term": "创建拉坡图",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_034",
+      "title": "输入拉坡控制点",
+      "word_hit": true,
+      "matched_term": "输入拉坡控制点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_035",
+      "title": "自动拉坡设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_036",
+      "title": "手工拉坡与夹点调整",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_037",
+      "title": "输入横断面地面线",
+      "word_hit": true,
+      "matched_term": "输入横断面地面线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_038",
+      "title": "数模内插横断面地面线",
+      "word_hit": true,
+      "matched_term": "数模内插横断面地面线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_039",
+      "title": "运行设计向导定义标准横断面",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_040",
+      "title": "自动计算超高加宽",
+      "word_hit": true,
+      "matched_term": "自动计算超高加宽",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_041",
+      "title": "路基设计计算",
+      "word_hit": true,
+      "matched_term": "路基设计计算",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_042",
+      "title": "录入支挡防护工程",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_043",
+      "title": "横断面设计绘图与戴帽",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_044",
+      "title": "横断面交互修改",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_045",
+      "title": "创建路基模板",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_046",
+      "title": "创建边坡模板",
+      "word_hit": true,
+      "matched_term": "创建边坡模板",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_047",
+      "title": "创建边沟与截水沟模板",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_048",
+      "title": "生成和修改超高渐变图",
+      "word_hit": true,
+      "matched_term": "生成和修改超高渐变图",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_049",
+      "title": "执行横断面戴帽设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_050",
+      "title": "查看与绘制横断面成果",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_051",
+      "title": "土石方调配数据预处理",
+      "word_hit": true,
+      "matched_term": "土石方调配数据预处理",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_052",
+      "title": "设置构造物运距",
+      "word_hit": true,
+      "matched_term": "设置构造物运距",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_053",
+      "title": "绘制土石方调配成果",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_054",
+      "title": "管理图框和表格模板",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_055",
+      "title": "生成路线平面图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_056",
+      "title": "生成纵断面设计图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_057",
+      "title": "生成横断面设计图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_058",
+      "title": "输出设计表格",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_059",
+      "title": "设置EICAD成果输出模板",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_060",
+      "title": "批量输出图纸和表格",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_061",
+      "title": "道路CAD软件的功能定位",
+      "word_hit": true,
+      "matched_term": "道路CAD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_062",
+      "title": "纬地与EICAD的共同点",
+      "word_hit": true,
+      "matched_term": "道路CAD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_063",
+      "title": "纬地与EICAD的差异",
+      "word_hit": true,
+      "matched_term": "道路CAD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_064",
+      "title": "项目文件夹管理",
+      "word_hit": true,
+      "matched_term": "项目管理",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_065",
+      "title": "三角网数模在路线设计中的作用",
+      "word_hit": true,
+      "matched_term": "数模建立",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_066",
+      "title": "直线型交点法定线",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_067",
+      "title": "积木法设计思想",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_068",
+      "title": "基本模式法",
+      "word_hit": true,
+      "matched_term": "基本模式法",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_069",
+      "title": "纵断面拉坡",
+      "word_hit": true,
+      "matched_term": "纵断面拉坡",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_070",
+      "title": "变坡点",
+      "word_hit": true,
+      "matched_term": "变坡点",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_071",
+      "title": "横断面戴帽",
+      "word_hit": true,
+      "matched_term": "横断面戴帽",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_072",
+      "title": "超高加宽数据",
+      "word_hit": true,
+      "matched_term": "超高加宽数据",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_073",
+      "title": "土石方调配",
+      "word_hit": true,
+      "matched_term": "土石方调配",
+      "kb_hit_count": 7
+    },
+    {
+      "id": "kp_ch07_074",
+      "title": "成果图表输出",
+      "word_hit": true,
+      "matched_term": "成果图表输出",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_075",
+      "title": "图框与表格模板",
+      "word_hit": true,
+      "matched_term": "成果输出",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch07_076",
+      "title": "项目文件夹",
+      "word_hit": true,
+      "matched_term": "项目文件夹",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_077",
+      "title": "项目管理器",
+      "word_hit": true,
+      "matched_term": "项目管理器",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_078",
+      "title": "项目数据管理",
+      "word_hit": true,
+      "matched_term": "项目数据管理",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_079",
+      "title": "DWG/DXF地形图",
+      "word_hit": true,
+      "matched_term": "道路CAD软件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_080",
+      "title": "计曲线",
+      "word_hit": true,
+      "matched_term": "计曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_081",
+      "title": "首曲线",
+      "word_hit": true,
+      "matched_term": "首曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_082",
+      "title": "高程点",
+      "word_hit": true,
+      "matched_term": "高程点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_083",
+      "title": "约束线",
+      "word_hit": true,
+      "matched_term": "约束线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_084",
+      "title": "地形点",
+      "word_hit": true,
+      "matched_term": "地形点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_085",
+      "title": "三角网数模",
+      "word_hit": true,
+      "matched_term": "三角网数模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_086",
+      "title": "DEM",
+      "word_hit": true,
+      "matched_term": "DEM",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_087",
+      "title": "高程异常点",
+      "word_hit": true,
+      "matched_term": "高程异常点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_088",
+      "title": "路线中线",
+      "word_hit": true,
+      "matched_term": "路线中线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_089",
+      "title": "交点",
+      "word_hit": true,
+      "matched_term": "交点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_090",
+      "title": "圆曲线",
+      "word_hit": true,
+      "matched_term": "圆曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_091",
+      "title": "缓和曲线",
+      "word_hit": true,
+      "matched_term": "缓和曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_092",
+      "title": "S型曲线",
+      "word_hit": true,
+      "matched_term": "S型曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_093",
+      "title": "卵形曲线",
+      "word_hit": true,
+      "matched_term": "卵形曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_094",
+      "title": "C型曲线",
+      "word_hit": true,
+      "matched_term": "C型曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_095",
+      "title": "回头曲线",
+      "word_hit": true,
+      "matched_term": "回头曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_096",
+      "title": "匝道",
+      "word_hit": true,
+      "matched_term": "匝道",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_097",
+      "title": "积木法",
+      "word_hit": true,
+      "matched_term": "积木法",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_098",
+      "title": "EI_LINE",
+      "word_hit": true,
+      "matched_term": "EI_LINE",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_099",
+      "title": "EI_ARC",
+      "word_hit": true,
+      "matched_term": "EI_ARC",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_100",
+      "title": "EI_CLOTHOID",
+      "word_hit": true,
+      "matched_term": "EI_CLOTHOID",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_101",
+      "title": "EI_LINKCLOTHOID",
+      "word_hit": true,
+      "matched_term": "EI_LINKCLOTHOID",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_102",
+      "title": "圆圆模式",
+      "word_hit": true,
+      "matched_term": "圆圆模式",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_103",
+      "title": "扩展模式法",
+      "word_hit": true,
+      "matched_term": "扩展模式法",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_104",
+      "title": "桩号文件",
+      "word_hit": true,
+      "matched_term": "桩号文件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_105",
+      "title": "纵断面地面线",
+      "word_hit": true,
+      "matched_term": "纵断面地面线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_106",
+      "title": "拉坡图",
+      "word_hit": true,
+      "matched_term": "拉坡图",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_107",
+      "title": "竖曲线",
+      "word_hit": true,
+      "matched_term": "竖曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_108",
+      "title": "控制点",
+      "word_hit": true,
+      "matched_term": "控制点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_109",
+      "title": "横断面地面线",
+      "word_hit": true,
+      "matched_term": "横断面地面线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_110",
+      "title": "设计向导",
+      "word_hit": true,
+      "matched_term": "设计向导",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_111",
+      "title": "标准横断面模板",
+      "word_hit": true,
+      "matched_term": "标准横断面模板",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_112",
+      "title": "支挡防护工程",
+      "word_hit": true,
+      "matched_term": "支挡防护工程",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_113",
+      "title": "土石比文件",
+      "word_hit": true,
+      "matched_term": "土石比文件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_114",
+      "title": "填挖面积文件",
+      "word_hit": true,
+      "matched_term": "填挖面积文件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_115",
+      "title": "构造物运距",
+      "word_hit": true,
+      "matched_term": "构造物运距",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_116",
+      "title": "图框模板",
+      "word_hit": true,
+      "matched_term": "图框模板",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_117",
+      "title": "表格模板",
+      "word_hit": true,
+      "matched_term": "表格模板",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_118",
+      "title": "直曲转角表",
+      "word_hit": true,
+      "matched_term": "直曲转角表",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_119",
+      "title": "竖曲线表",
+      "word_hit": true,
+      "matched_term": "竖曲线表",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_120",
+      "title": "路基设计表",
+      "word_hit": true,
+      "matched_term": "路基设计表",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_121",
+      "title": "土石方数量表",
+      "word_hit": true,
+      "matched_term": "土石方数量表",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_122",
+      "title": "平面线文件",
+      "word_hit": true,
+      "matched_term": "平面线文件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_123",
+      "title": "AutoCAD保存文件",
+      "word_hit": true,
+      "matched_term": "道路CAD软件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_124",
+      "title": "曲线参数",
+      "word_hit": true,
+      "matched_term": "曲线参数",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_125",
+      "title": "缓和曲线长度",
+      "word_hit": true,
+      "matched_term": "缓和曲线长度",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_126",
+      "title": "圆曲线半径",
+      "word_hit": true,
+      "matched_term": "圆曲线半径",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_127",
+      "title": "起终点桩号",
+      "word_hit": true,
+      "matched_term": "起终点桩号",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_128",
+      "title": "横断面插值宽度",
+      "word_hit": true,
+      "matched_term": "道路CAD软件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_129",
+      "title": "横断面采样间距",
+      "word_hit": true,
+      "matched_term": "道路CAD软件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_130",
+      "title": "设计控制",
+      "word_hit": true,
+      "matched_term": "设计控制",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_131",
+      "title": "土方控制",
+      "word_hit": true,
+      "matched_term": "土方控制",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_132",
+      "title": "绘图控制",
+      "word_hit": true,
+      "matched_term": "绘图控制",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_133",
+      "title": "本桩利用方式",
+      "word_hit": true,
+      "matched_term": "本桩利用方式",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_134",
+      "title": "取土场",
+      "word_hit": true,
+      "matched_term": "道路CAD软件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_135",
+      "title": "弃土场",
+      "word_hit": true,
+      "matched_term": "弃土场",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_136",
+      "title": "运输路径",
+      "word_hit": true,
+      "matched_term": "运输路径",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_137",
+      "title": "上路桩号",
+      "word_hit": true,
+      "matched_term": "上路桩号",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_138",
+      "title": "图纸比例",
+      "word_hit": true,
+      "matched_term": "道路CAD软件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_139",
+      "title": "项目属性",
+      "word_hit": true,
+      "matched_term": "项目属性",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_140",
+      "title": "块属性",
+      "word_hit": true,
+      "matched_term": "块属性",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch07_141",
+      "title": "成果路径",
+      "word_hit": true,
+      "matched_term": "道路CAD软件",
+      "kb_hit_count": 8
+    }
+  ],
+  "operation_task_rows": [
+    {
+      "id": "ch07_task_001",
+      "title": "新建纬地项目",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_002",
+      "title": "查看与维护项目管理器",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_003",
+      "title": "导入DWG/DXF高程数据",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_004",
+      "title": "设置等高线与高程点类型",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_005",
+      "title": "三角构网并保存数模",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_006",
+      "title": "优化数模边界和三角网",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_007",
+      "title": "新建EICAD项目",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_008",
+      "title": "导入或打开项目数据",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_009",
+      "title": "点选方式建立数模",
+      "word_hit": true,
+      "matched_term": "点选方式建立数模",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_010",
+      "title": "排除高程异常并优化数模",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_011",
+      "title": "直线型交点法平面定线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_012",
+      "title": "修改平曲线参数",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_013",
+      "title": "设计S型曲线组合",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_014",
+      "title": "设计卵形曲线组合",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_015",
+      "title": "设计C型曲线与回头曲线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_016",
+      "title": "互通匝道文件控制接线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_017",
+      "title": "互通匝道圆+缓+直接线",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_018",
+      "title": "积木法构造匝道线形",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_019",
+      "title": "EICAD直线单元设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_020",
+      "title": "EICAD圆曲线单元设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_021",
+      "title": "EICAD缓和曲线单元设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_022",
+      "title": "连接两缓和曲线",
+      "word_hit": true,
+      "matched_term": "连接两缓和曲线",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_023",
+      "title": "基本模式法圆圆模式设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_024",
+      "title": "扩展模式法立交匝道设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_025",
+      "title": "生成桩号文件",
+      "word_hit": true,
+      "matched_term": "生成桩号文件",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_026",
+      "title": "数模内插纵断面地面线",
+      "word_hit": true,
+      "matched_term": "数模内插纵断面地面线",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_027",
+      "title": "手工输入或修改纵断面地面线",
+      "word_hit": true,
+      "matched_term": "手工输入或修改纵断面地面线",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_028",
+      "title": "输入桥梁涵洞通道控制点",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_029",
+      "title": "创建纵断面拉坡图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_030",
+      "title": "交互式设置变坡点",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_031",
+      "title": "修改变坡点与竖曲线半径",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_032",
+      "title": "输出纵横地面线",
+      "word_hit": true,
+      "matched_term": "输出纵横地面线",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_033",
+      "title": "创建拉坡图",
+      "word_hit": true,
+      "matched_term": "创建拉坡图",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_034",
+      "title": "输入拉坡控制点",
+      "word_hit": true,
+      "matched_term": "输入拉坡控制点",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_035",
+      "title": "自动拉坡设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_036",
+      "title": "手工拉坡与夹点调整",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_037",
+      "title": "输入横断面地面线",
+      "word_hit": true,
+      "matched_term": "输入横断面地面线",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_038",
+      "title": "数模内插横断面地面线",
+      "word_hit": true,
+      "matched_term": "数模内插横断面地面线",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_039",
+      "title": "运行设计向导定义标准横断面",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_040",
+      "title": "自动计算超高加宽",
+      "word_hit": true,
+      "matched_term": "自动计算超高加宽",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_041",
+      "title": "路基设计计算",
+      "word_hit": true,
+      "matched_term": "路基设计计算",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_042",
+      "title": "录入支挡防护工程",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_043",
+      "title": "横断面设计绘图与戴帽",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_044",
+      "title": "横断面交互修改",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_045",
+      "title": "创建路基模板",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_046",
+      "title": "创建边坡模板",
+      "word_hit": true,
+      "matched_term": "创建边坡模板",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_047",
+      "title": "创建边沟与截水沟模板",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_048",
+      "title": "生成和修改超高渐变图",
+      "word_hit": true,
+      "matched_term": "生成和修改超高渐变图",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_049",
+      "title": "执行横断面戴帽设计",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_050",
+      "title": "查看与绘制横断面成果",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_051",
+      "title": "土石方调配数据预处理",
+      "word_hit": true,
+      "matched_term": "土石方调配数据预处理",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_052",
+      "title": "设置构造物运距",
+      "word_hit": true,
+      "matched_term": "设置构造物运距",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_053",
+      "title": "绘制土石方调配成果",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_054",
+      "title": "管理图框和表格模板",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_055",
+      "title": "生成路线平面图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_056",
+      "title": "生成纵断面设计图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_057",
+      "title": "生成横断面设计图",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_058",
+      "title": "输出设计表格",
+      "word_hit": true,
+      "matched_term": "纬地",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_059",
+      "title": "设置EICAD成果输出模板",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch07_task_060",
+      "title": "批量输出图纸和表格",
+      "word_hit": true,
+      "matched_term": "EICAD",
+      "kb_hit_count": 2
+    }
+  ],
+  "answer_card_rows": [
+    {
+      "answer_id": "ans_ch07_001",
+      "canonical_question": "纬地如何新建纬地项目？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_002",
+      "canonical_question": "新建纬地项目需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_003",
+      "canonical_question": "新建纬地项目常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_004",
+      "canonical_question": "纬地如何查看与维护项目管理器？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_005",
+      "canonical_question": "查看与维护项目管理器需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "图框模板"
+    },
+    {
+      "answer_id": "ans_ch07_006",
+      "canonical_question": "查看与维护项目管理器常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_007",
+      "canonical_question": "纬地如何导入DWG/DXF高程数据？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_008",
+      "canonical_question": "导入DWG/DXF高程数据需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_009",
+      "canonical_question": "导入DWG/DXF高程数据常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_010",
+      "canonical_question": "纬地如何设置等高线与高程点类型？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_011",
+      "canonical_question": "设置等高线与高程点类型需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "设置类型"
+    },
+    {
+      "answer_id": "ans_ch07_012",
+      "canonical_question": "设置等高线与高程点类型常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_013",
+      "canonical_question": "纬地如何三角构网并保存数模？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_014",
+      "canonical_question": "三角构网并保存数模需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_015",
+      "canonical_question": "三角构网并保存数模常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_016",
+      "canonical_question": "纬地如何优化数模边界和三角网？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_017",
+      "canonical_question": "优化数模边界和三角网需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_018",
+      "canonical_question": "优化数模边界和三角网常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_019",
+      "canonical_question": "EICAD如何新建EICAD项目？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_020",
+      "canonical_question": "新建EICAD项目需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "项目路径"
+    },
+    {
+      "answer_id": "ans_ch07_021",
+      "canonical_question": "新建EICAD项目常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_022",
+      "canonical_question": "EICAD如何导入或打开项目数据？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_023",
+      "canonical_question": "导入或打开项目数据需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "设计数据"
+    },
+    {
+      "answer_id": "ans_ch07_024",
+      "canonical_question": "导入或打开项目数据常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_025",
+      "canonical_question": "EICAD如何点选方式建立数模？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_026",
+      "canonical_question": "点选方式建立数模需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_027",
+      "canonical_question": "点选方式建立数模常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_028",
+      "canonical_question": "EICAD如何排除高程异常并优化数模？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_029",
+      "canonical_question": "排除高程异常并优化数模需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "数模范围"
+    },
+    {
+      "answer_id": "ans_ch07_030",
+      "canonical_question": "排除高程异常并优化数模常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_031",
+      "canonical_question": "纬地如何直线型交点法平面定线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_032",
+      "canonical_question": "直线型交点法平面定线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "圆曲线半径"
+    },
+    {
+      "answer_id": "ans_ch07_033",
+      "canonical_question": "直线型交点法平面定线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_034",
+      "canonical_question": "纬地如何修改平曲线参数？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_035",
+      "canonical_question": "修改平曲线参数需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "缓和曲线长度"
+    },
+    {
+      "answer_id": "ans_ch07_036",
+      "canonical_question": "修改平曲线参数常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_037",
+      "canonical_question": "纬地如何设计S型曲线组合？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_038",
+      "canonical_question": "设计S型曲线组合需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "缓和曲线"
+    },
+    {
+      "answer_id": "ans_ch07_039",
+      "canonical_question": "设计S型曲线组合常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_040",
+      "canonical_question": "纬地如何设计卵形曲线组合？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_041",
+      "canonical_question": "设计卵形曲线组合需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_042",
+      "canonical_question": "设计卵形曲线组合常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_043",
+      "canonical_question": "纬地如何设计C型曲线与回头曲线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_044",
+      "canonical_question": "设计C型曲线与回头曲线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_045",
+      "canonical_question": "设计C型曲线与回头曲线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_046",
+      "canonical_question": "纬地如何互通匝道文件控制接线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_047",
+      "canonical_question": "互通匝道文件控制接线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_048",
+      "canonical_question": "互通匝道文件控制接线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_049",
+      "canonical_question": "纬地如何互通匝道圆+缓+直接线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_050",
+      "canonical_question": "互通匝道圆+缓+直接线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "缓和曲线长度"
+    },
+    {
+      "answer_id": "ans_ch07_051",
+      "canonical_question": "互通匝道圆+缓+直接线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_052",
+      "canonical_question": "纬地如何积木法构造匝道线形？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_053",
+      "canonical_question": "积木法构造匝道线形需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "圆曲线单元"
+    },
+    {
+      "answer_id": "ans_ch07_054",
+      "canonical_question": "积木法构造匝道线形常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_055",
+      "canonical_question": "EICAD如何EICAD直线单元设计？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_056",
+      "canonical_question": "EICAD直线单元设计需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "终点"
+    },
+    {
+      "answer_id": "ans_ch07_057",
+      "canonical_question": "EICAD直线单元设计常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_058",
+      "canonical_question": "EICAD如何EICAD圆曲线单元设计？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_059",
+      "canonical_question": "EICAD圆曲线单元设计需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_060",
+      "canonical_question": "EICAD圆曲线单元设计常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_061",
+      "canonical_question": "EICAD如何EICAD缓和曲线单元设计？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_062",
+      "canonical_question": "EICAD缓和曲线单元设计需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_063",
+      "canonical_question": "EICAD缓和曲线单元设计常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_064",
+      "canonical_question": "EICAD如何连接两缓和曲线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_065",
+      "canonical_question": "连接两缓和曲线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_066",
+      "canonical_question": "连接两缓和曲线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_067",
+      "canonical_question": "EICAD如何基本模式法圆圆模式设计？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_068",
+      "canonical_question": "基本模式法圆圆模式设计需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "圆心距"
+    },
+    {
+      "answer_id": "ans_ch07_069",
+      "canonical_question": "基本模式法圆圆模式设计常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_070",
+      "canonical_question": "EICAD如何扩展模式法立交匝道设计？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_071",
+      "canonical_question": "扩展模式法立交匝道设计需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_072",
+      "canonical_question": "扩展模式法立交匝道设计常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_073",
+      "canonical_question": "纬地如何生成桩号文件？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_074",
+      "canonical_question": "生成桩号文件需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_075",
+      "canonical_question": "生成桩号文件常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_076",
+      "canonical_question": "纬地如何数模内插纵断面地面线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_077",
+      "canonical_question": "数模内插纵断面地面线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_078",
+      "canonical_question": "数模内插纵断面地面线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_079",
+      "canonical_question": "纬地如何手工输入或修改纵断面地面线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_080",
+      "canonical_question": "手工输入或修改纵断面地面线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "高程"
+    },
+    {
+      "answer_id": "ans_ch07_081",
+      "canonical_question": "手工输入或修改纵断面地面线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_082",
+      "canonical_question": "纬地如何输入桥梁涵洞通道控制点？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_083",
+      "canonical_question": "输入桥梁涵洞通道控制点需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "控制高程"
+    },
+    {
+      "answer_id": "ans_ch07_084",
+      "canonical_question": "输入桥梁涵洞通道控制点常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_085",
+      "canonical_question": "纬地如何创建纵断面拉坡图？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_086",
+      "canonical_question": "创建纵断面拉坡图需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_087",
+      "canonical_question": "创建纵断面拉坡图常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_088",
+      "canonical_question": "纬地如何交互式设置变坡点？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_089",
+      "canonical_question": "交互式设置变坡点需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "高程"
+    },
+    {
+      "answer_id": "ans_ch07_090",
+      "canonical_question": "交互式设置变坡点常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_091",
+      "canonical_question": "纬地如何修改变坡点与竖曲线半径？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_092",
+      "canonical_question": "修改变坡点与竖曲线半径需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "高程"
+    },
+    {
+      "answer_id": "ans_ch07_093",
+      "canonical_question": "修改变坡点与竖曲线半径常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_094",
+      "canonical_question": "EICAD如何输出纵横地面线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_095",
+      "canonical_question": "输出纵横地面线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "桩号间距"
+    },
+    {
+      "answer_id": "ans_ch07_096",
+      "canonical_question": "输出纵横地面线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_097",
+      "canonical_question": "EICAD如何创建拉坡图？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_098",
+      "canonical_question": "创建拉坡图需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "桩号范围"
+    },
+    {
+      "answer_id": "ans_ch07_099",
+      "canonical_question": "创建拉坡图常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_100",
+      "canonical_question": "EICAD如何输入拉坡控制点？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_101",
+      "canonical_question": "输入拉坡控制点需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "桩号"
+    },
+    {
+      "answer_id": "ans_ch07_102",
+      "canonical_question": "输入拉坡控制点常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_103",
+      "canonical_question": "EICAD如何自动拉坡设计？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_104",
+      "canonical_question": "自动拉坡设计需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "竖曲线参数"
+    },
+    {
+      "answer_id": "ans_ch07_105",
+      "canonical_question": "自动拉坡设计常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_106",
+      "canonical_question": "EICAD如何手工拉坡与夹点调整？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_107",
+      "canonical_question": "手工拉坡与夹点调整需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "高程"
+    },
+    {
+      "answer_id": "ans_ch07_108",
+      "canonical_question": "手工拉坡与夹点调整常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_109",
+      "canonical_question": "纬地如何输入横断面地面线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_110",
+      "canonical_question": "输入横断面地面线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_111",
+      "canonical_question": "输入横断面地面线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_112",
+      "canonical_question": "纬地如何数模内插横断面地面线？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_113",
+      "canonical_question": "数模内插横断面地面线需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_114",
+      "canonical_question": "数模内插横断面地面线常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_115",
+      "canonical_question": "纬地如何运行设计向导定义标准横断面？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_116",
+      "canonical_question": "运行设计向导定义标准横断面需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "设计速度"
+    },
+    {
+      "answer_id": "ans_ch07_117",
+      "canonical_question": "运行设计向导定义标准横断面常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_118",
+      "canonical_question": "纬地如何自动计算超高加宽？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_119",
+      "canonical_question": "自动计算超高加宽需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_120",
+      "canonical_question": "自动计算超高加宽常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_121",
+      "canonical_question": "纬地如何路基设计计算？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_122",
+      "canonical_question": "路基设计计算需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_123",
+      "canonical_question": "路基设计计算常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_124",
+      "canonical_question": "纬地如何录入支挡防护工程？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_125",
+      "canonical_question": "录入支挡防护工程需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "左右侧"
+    },
+    {
+      "answer_id": "ans_ch07_126",
+      "canonical_question": "录入支挡防护工程常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_127",
+      "canonical_question": "纬地如何横断面设计绘图与戴帽？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_128",
+      "canonical_question": "横断面设计绘图与戴帽需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "土方控制"
+    },
+    {
+      "answer_id": "ans_ch07_129",
+      "canonical_question": "横断面设计绘图与戴帽常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_130",
+      "canonical_question": "纬地如何横断面交互修改？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_131",
+      "canonical_question": "横断面交互修改需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_132",
+      "canonical_question": "横断面交互修改常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_133",
+      "canonical_question": "EICAD如何创建路基模板？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_134",
+      "canonical_question": "创建路基模板需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "路肩"
+    },
+    {
+      "answer_id": "ans_ch07_135",
+      "canonical_question": "创建路基模板常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_136",
+      "canonical_question": "EICAD如何创建边坡模板？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_137",
+      "canonical_question": "创建边坡模板需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "平台宽度"
+    },
+    {
+      "answer_id": "ans_ch07_138",
+      "canonical_question": "创建边坡模板常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_139",
+      "canonical_question": "EICAD如何创建边沟与截水沟模板？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_140",
+      "canonical_question": "创建边沟与截水沟模板需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "尺寸"
+    },
+    {
+      "answer_id": "ans_ch07_141",
+      "canonical_question": "创建边沟与截水沟模板常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_142",
+      "canonical_question": "EICAD如何生成和修改超高渐变图？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_143",
+      "canonical_question": "生成和修改超高渐变图需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_144",
+      "canonical_question": "生成和修改超高渐变图常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_145",
+      "canonical_question": "EICAD如何执行横断面戴帽设计？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_146",
+      "canonical_question": "执行横断面戴帽设计需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "桩号范围"
+    },
+    {
+      "answer_id": "ans_ch07_147",
+      "canonical_question": "执行横断面戴帽设计常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_148",
+      "canonical_question": "EICAD如何查看与绘制横断面成果？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_149",
+      "canonical_question": "查看与绘制横断面成果需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_150",
+      "canonical_question": "查看与绘制横断面成果常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_151",
+      "canonical_question": "EICAD如何土石方调配数据预处理？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_152",
+      "canonical_question": "土石方调配数据预处理需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "利用方式"
+    },
+    {
+      "answer_id": "ans_ch07_153",
+      "canonical_question": "土石方调配数据预处理常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_154",
+      "canonical_question": "EICAD如何设置构造物运距？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_155",
+      "canonical_question": "设置构造物运距需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "是否通行"
+    },
+    {
+      "answer_id": "ans_ch07_156",
+      "canonical_question": "设置构造物运距常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_157",
+      "canonical_question": "EICAD如何绘制土石方调配成果？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_158",
+      "canonical_question": "绘制土石方调配成果需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "运输路径"
+    },
+    {
+      "answer_id": "ans_ch07_159",
+      "canonical_question": "绘制土石方调配成果常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_160",
+      "canonical_question": "纬地如何管理图框和表格模板？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_161",
+      "canonical_question": "管理图框和表格模板需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_162",
+      "canonical_question": "管理图框和表格模板常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_163",
+      "canonical_question": "纬地如何生成路线平面图？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_164",
+      "canonical_question": "生成路线平面图需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "图框"
+    },
+    {
+      "answer_id": "ans_ch07_165",
+      "canonical_question": "生成路线平面图常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_166",
+      "canonical_question": "纬地如何生成纵断面设计图？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_167",
+      "canonical_question": "生成纵断面设计图需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_168",
+      "canonical_question": "生成纵断面设计图常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_169",
+      "canonical_question": "纬地如何生成横断面设计图？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_170",
+      "canonical_question": "生成横断面设计图需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "比例"
+    },
+    {
+      "answer_id": "ans_ch07_171",
+      "canonical_question": "生成横断面设计图常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_172",
+      "canonical_question": "纬地如何输出设计表格？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_173",
+      "canonical_question": "输出设计表格需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_174",
+      "canonical_question": "输出设计表格常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_175",
+      "canonical_question": "EICAD如何设置EICAD成果输出模板？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_176",
+      "canonical_question": "设置EICAD成果输出模板需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "表格模板"
+    },
+    {
+      "answer_id": "ans_ch07_177",
+      "canonical_question": "设置EICAD成果输出模板常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_178",
+      "canonical_question": "EICAD如何批量输出图纸和表格？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_179",
+      "canonical_question": "批量输出图纸和表格需要检查哪些内容？",
+      "word_hit": true,
+      "matched_term": "比例"
+    },
+    {
+      "answer_id": "ans_ch07_180",
+      "canonical_question": "批量输出图纸和表格常见错误如何排查？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_181",
+      "canonical_question": "新建纬地项目是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_182",
+      "canonical_question": "查看与维护项目管理器是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_183",
+      "canonical_question": "导入DWG/DXF高程数据是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_184",
+      "canonical_question": "设置等高线与高程点类型是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_185",
+      "canonical_question": "三角构网并保存数模是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_186",
+      "canonical_question": "优化数模边界和三角网是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_187",
+      "canonical_question": "新建EICAD项目是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_188",
+      "canonical_question": "导入或打开项目数据是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_189",
+      "canonical_question": "点选方式建立数模是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_190",
+      "canonical_question": "排除高程异常并优化数模是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_191",
+      "canonical_question": "直线型交点法平面定线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_192",
+      "canonical_question": "修改平曲线参数是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_193",
+      "canonical_question": "设计S型曲线组合是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_194",
+      "canonical_question": "设计卵形曲线组合是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_195",
+      "canonical_question": "设计C型曲线与回头曲线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_196",
+      "canonical_question": "互通匝道文件控制接线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_197",
+      "canonical_question": "互通匝道圆+缓+直接线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_198",
+      "canonical_question": "积木法构造匝道线形是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_199",
+      "canonical_question": "EICAD直线单元设计是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_200",
+      "canonical_question": "EICAD圆曲线单元设计是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_201",
+      "canonical_question": "EICAD缓和曲线单元设计是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_202",
+      "canonical_question": "连接两缓和曲线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_203",
+      "canonical_question": "基本模式法圆圆模式设计是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_204",
+      "canonical_question": "扩展模式法立交匝道设计是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_205",
+      "canonical_question": "生成桩号文件是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_206",
+      "canonical_question": "数模内插纵断面地面线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_207",
+      "canonical_question": "手工输入或修改纵断面地面线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_208",
+      "canonical_question": "输入桥梁涵洞通道控制点是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_209",
+      "canonical_question": "创建纵断面拉坡图是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_210",
+      "canonical_question": "交互式设置变坡点是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_211",
+      "canonical_question": "修改变坡点与竖曲线半径是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_212",
+      "canonical_question": "输出纵横地面线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_213",
+      "canonical_question": "创建拉坡图是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_214",
+      "canonical_question": "输入拉坡控制点是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_215",
+      "canonical_question": "自动拉坡设计是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_216",
+      "canonical_question": "手工拉坡与夹点调整是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_217",
+      "canonical_question": "输入横断面地面线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_218",
+      "canonical_question": "数模内插横断面地面线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_219",
+      "canonical_question": "运行设计向导定义标准横断面是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_220",
+      "canonical_question": "自动计算超高加宽是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_221",
+      "canonical_question": "路基设计计算是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_222",
+      "canonical_question": "录入支挡防护工程是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_223",
+      "canonical_question": "横断面设计绘图与戴帽是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_224",
+      "canonical_question": "横断面交互修改是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_225",
+      "canonical_question": "创建路基模板是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_226",
+      "canonical_question": "创建边坡模板是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_227",
+      "canonical_question": "创建边沟与截水沟模板是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_228",
+      "canonical_question": "生成和修改超高渐变图是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_229",
+      "canonical_question": "执行横断面戴帽设计是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_230",
+      "canonical_question": "查看与绘制横断面成果是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_231",
+      "canonical_question": "土石方调配数据预处理是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_232",
+      "canonical_question": "设置构造物运距是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_233",
+      "canonical_question": "绘制土石方调配成果是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_234",
+      "canonical_question": "管理图框和表格模板是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_235",
+      "canonical_question": "生成路线平面图是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_236",
+      "canonical_question": "生成纵断面设计图是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_237",
+      "canonical_question": "生成横断面设计图是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_238",
+      "canonical_question": "输出设计表格是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_239",
+      "canonical_question": "设置EICAD成果输出模板是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_240",
+      "canonical_question": "批量输出图纸和表格是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_241",
+      "canonical_question": "道路CAD软件的功能定位是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_242",
+      "canonical_question": "纬地与EICAD的共同点是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_243",
+      "canonical_question": "纬地与EICAD的差异是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_244",
+      "canonical_question": "项目文件夹管理是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_245",
+      "canonical_question": "三角网数模在路线设计中的作用是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_246",
+      "canonical_question": "直线型交点法定线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_247",
+      "canonical_question": "积木法设计思想是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_248",
+      "canonical_question": "基本模式法是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_249",
+      "canonical_question": "纵断面拉坡是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_250",
+      "canonical_question": "变坡点是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_251",
+      "canonical_question": "横断面戴帽是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_252",
+      "canonical_question": "超高加宽数据是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_253",
+      "canonical_question": "土石方调配是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_254",
+      "canonical_question": "成果图表输出是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_255",
+      "canonical_question": "图框与表格模板是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_256",
+      "canonical_question": "项目文件夹是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_257",
+      "canonical_question": "项目管理器是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_258",
+      "canonical_question": "项目数据管理是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_259",
+      "canonical_question": "DWG/DXF地形图是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_260",
+      "canonical_question": "计曲线是什么？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_261",
+      "canonical_question": "纬地与EICAD项目管理有什么区别？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_262",
+      "canonical_question": "纬地和EICAD建立数模有什么区别？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_263",
+      "canonical_question": "直线型交点法与积木法有什么区别？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_264",
+      "canonical_question": "纬地横断面设计和EICAD横断面设计有什么区别？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    },
+    {
+      "answer_id": "ans_ch07_265",
+      "canonical_question": "成果输出前为什么要检查图框和表格模板？",
+      "word_hit": true,
+      "matched_term": "参数设置"
+    }
+  ],
+  "heading_rows": [
+    {
+      "paragraph": 3439,
+      "style": "ab",
+      "heading": "道路CAD软件的使用",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3446,
+      "style": "",
+      "heading": "第一节 项目管理与数模建立",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3448,
+      "style": "",
+      "heading": "一、纬地的项目管理与数模建立",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3469,
+      "style": "",
+      "heading": "二、EICAD的项目管理与数模建立",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3490,
+      "style": "",
+      "heading": "第二节 路线与立交平面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3491,
+      "style": "",
+      "heading": "一、纬地路线及立交平面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3576,
+      "style": "",
+      "heading": "二、EICAD路线平面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3616,
+      "style": "",
+      "heading": "第三节 纵断面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3617,
+      "style": "",
+      "heading": "一、纬地纵断面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3662,
+      "style": "",
+      "heading": "二、EICAD纵断面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3684,
+      "style": "",
+      "heading": "第四节 横断面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3685,
+      "style": "",
+      "heading": "一、纬地横断面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3727,
+      "style": "",
+      "heading": "二、EICAD横断面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3775,
+      "style": "",
+      "heading": "一、图框的管理与修改",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3787,
+      "style": "",
+      "heading": "二、平面设计图表的输出",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3817,
+      "style": "",
+      "heading": "三、纵断面设计图表的输出",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3837,
+      "style": "",
+      "heading": "四、横断面设计图表的输出",
+      "kb_hit": false
+    }
+  ]
+}

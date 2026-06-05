@@ -1,0 +1,1516 @@
+[
+  {
+    "resource_id": "ch02_fig_2_1",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "image",
+    "title": "图2-1 空间坐标系统",
+    "caption_or_name": "图2-1 空间坐标系统",
+    "description": "展示笛卡尔坐标、地理/投影坐标、WCS、UCS与工程桩号系统的关系。",
+    "file_path": "assets/ch02/images/ch02_fig_2_1.png",
+    "related_kps": [
+      "kp_ch02_002",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008",
+      "kp_ch02_009",
+      "kp_ch02_010",
+      "kp_ch02_027"
+    ],
+    "keywords": [
+      "2-1",
+      "空间坐标系统"
+    ],
+    "teaching_use": "用于解释图2-1 空间坐标系统对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_2",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "image",
+    "title": "图2-2 基本几何图元",
+    "caption_or_name": "图2-2 基本几何图元",
+    "description": "展示点、线、面、体从低维到高维的组合关系。",
+    "file_path": "assets/ch02/images/ch02_fig_2_2.png",
+    "related_kps": [
+      "kp_ch02_012",
+      "kp_ch02_013",
+      "kp_ch02_014",
+      "kp_ch02_015",
+      "kp_ch02_016"
+    ],
+    "keywords": [
+      "2-2",
+      "基本几何元"
+    ],
+    "teaching_use": "用于解释图2-2 基本几何图元对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_3",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "image",
+    "title": "图2-3 构造图元、控制图元与辅助图元",
+    "caption_or_name": "图2-3 构造图元、控制图元与辅助图元",
+    "description": "对比三类图元在建模中的功能角色。",
+    "file_path": "assets/ch02/images/ch02_fig_2_3.png",
+    "related_kps": [
+      "kp_ch02_019",
+      "kp_ch02_020",
+      "kp_ch02_021"
+    ],
+    "keywords": [
+      "2-3",
+      "构造元、控制元与辅助元"
+    ],
+    "teaching_use": "用于解释图2-3 构造图元、控制图元与辅助图元对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_4",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "image",
+    "title": "图2-4 常见几何构造方法",
+    "caption_or_name": "图2-4 。",
+    "description": "展示拉伸、旋转、扫掠、放样等三维构造方法。",
+    "file_path": "assets/ch02/images/ch02_fig_2_4.png",
+    "related_kps": [
+      "kp_ch02_028",
+      "kp_ch02_029",
+      "kp_ch02_030",
+      "kp_ch02_031"
+    ],
+    "keywords": [
+      "2-4",
+      "常见几何构造方法"
+    ],
+    "teaching_use": "用于解释图2-4 常见几何构造方法对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_5",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "image",
+    "title": "图2-5 几何实体的布尔运算",
+    "caption_or_name": "图2-5 几何实体的布尔运算",
+    "description": "展示交集、并集、差集等布尔运算。",
+    "file_path": "assets/ch02/images/ch02_fig_2_5.png",
+    "related_kps": [
+      "kp_ch02_032",
+      "kp_ch02_033",
+      "kp_ch02_034",
+      "kp_ch02_035",
+      "kp_ch02_036"
+    ],
+    "keywords": [
+      "2-5",
+      "几何实体的布尔运算"
+    ],
+    "teaching_use": "用于解释图2-5 几何实体的布尔运算对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_6",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "image",
+    "title": "图2-6 平行投影与透视投影",
+    "caption_or_name": "图2-6 ）：",
+    "description": "展示平行投影和透视投影的几何差异。",
+    "file_path": "assets/ch02/images/ch02_fig_2_6.png",
+    "related_kps": [
+      "kp_ch02_002",
+      "kp_ch02_006",
+      "kp_ch02_037",
+      "kp_ch02_038",
+      "kp_ch02_039",
+      "kp_ch02_040",
+      "kp_ch02_042"
+    ],
+    "keywords": [
+      "2-6",
+      "平行投影与透视投影"
+    ],
+    "teaching_use": "用于解释图2-6 平行投影与透视投影对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_7",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-7 数字高程模型的两种结构",
+    "caption_or_name": "图2-7 a）所示。当ξ为三角形时，这时的DEM称为基于不规则三角网的DEM（Irregular Triangulated Network based DEM，TIN based DEM），如 REF _Ref191023164 \\r \\h 图 2-7 b）所示。",
+    "description": "展示规则格网DEM和TIN based DEM。",
+    "file_path": "assets/ch02/images/ch02_fig_2_7.jpeg",
+    "related_kps": [
+      "kp_ch02_044",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_055",
+      "kp_ch02_056",
+      "kp_ch02_057"
+    ],
+    "keywords": [
+      "2-7",
+      "数字高程模型的两种结构"
+    ],
+    "teaching_use": "用于解释图2-7 数字高程模型的两种结构对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_8",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-8 几种规则格网DEM",
+    "caption_or_name": "图2-8 显示了几种规则格网的DEM。",
+    "description": "展示不同规则格网布设形式。",
+    "file_path": "assets/ch02/images/ch02_fig_2_8.jpeg",
+    "related_kps": [
+      "kp_ch02_046",
+      "kp_ch02_048"
+    ],
+    "keywords": [
+      "2-8",
+      "几种规则格网DEM"
+    ],
+    "teaching_use": "用于解释图2-8 几种规则格网DEM对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_9",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-9 TIN的形成与含义",
+    "caption_or_name": "图2-9 所示。",
+    "description": "展示TIN由节点、边、三角面构成地形表面。",
+    "file_path": "assets/ch02/images/ch02_fig_2_9.jpeg",
+    "related_kps": [
+      "kp_ch02_015",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_055",
+      "kp_ch02_056",
+      "kp_ch02_057",
+      "kp_ch02_067",
+      "kp_ch02_069",
+      "kp_ch02_077",
+      "kp_ch02_079",
+      "kp_ch02_081"
+    ],
+    "keywords": [
+      "2-9",
+      "TIN的形成与含义"
+    ],
+    "teaching_use": "用于解释图2-9 TIN的形成与含义对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_10",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-10 Voronoi图",
+    "caption_or_name": "图2-10 虚线所示。连接所有相邻的V-多边形的生长核所形成的三角网称为Delaunay三角网，如 REF _Ref191022993 \\r \\h 图 2-10实线所示。",
+    "description": "展示Voronoi图与Delaunay三角网的对偶关系。",
+    "file_path": "assets/ch02/images/ch02_fig_2_10.png",
+    "related_kps": [
+      "kp_ch02_058",
+      "kp_ch02_059",
+      "kp_ch02_060",
+      "kp_ch02_061",
+      "kp_ch02_063",
+      "kp_ch02_065",
+      "kp_ch02_066"
+    ],
+    "keywords": [
+      "2-10",
+      "Voronoi"
+    ],
+    "teaching_use": "用于解释图2-10 Voronoi图对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_11",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-11 Delaunay三角网的空外接圆性质",
+    "caption_or_name": "图2-11 所示。",
+    "description": "展示空外接圆判定和对角线交换。",
+    "file_path": "assets/ch02/images/ch02_fig_2_11.png",
+    "related_kps": [
+      "kp_ch02_060"
+    ],
+    "keywords": [
+      "2-11",
+      "Delaunay三角网的空外接圆性质"
+    ],
+    "teaching_use": "用于解释图2-11 Delaunay三角网的空外接圆性质对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_12",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-12 Delaunay三角网的最大最小角度性质",
+    "caption_or_name": "图2-12 所示。由于优化通常在局部进行，所以也称为局部优化算法（Local Optimization Procedure, LOP）。",
+    "description": "展示通过交换对角线改善局部三角形质量。",
+    "file_path": "assets/ch02/images/ch02_fig_2_12.jpeg",
+    "related_kps": [
+      "kp_ch02_061",
+      "kp_ch02_062"
+    ],
+    "keywords": [
+      "2-12",
+      "Delaunay三角网的最大最小角度性质"
+    ],
+    "teaching_use": "用于解释图2-12 Delaunay三角网的最大最小角度性质对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_13",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-13 逐点插入法算法生成三角网",
+    "caption_or_name": "图2-13 ）：",
+    "description": "展示插入点与局部优化的Delaunay构网过程。",
+    "file_path": "assets/ch02/images/ch02_fig_2_13.png",
+    "related_kps": [
+      "kp_ch02_065"
+    ],
+    "keywords": [
+      "2-13",
+      "逐点插入法算法生成三角网"
+    ],
+    "teaching_use": "用于解释图2-13 逐点插入法算法生成三角网对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_fig_2_14",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "image",
+    "title": "图2-14 DT与CDT建模结果对比",
+    "caption_or_name": "图2-14 REF _Ref191022750 \\r \\h 为Delaunay三角网与约束Delaunay三角网建模结果的对比。CDT 是在传统 Delaunay 三角剖分的基础上，通常采用“约束边插入 → 非合法三角形识别 → 局部边翻转优化”，添加“约束边”（Constraint Edges）后进行的三角形剖分，其核心思想是：",
+    "description": "对比标准Delaunay三角网与约束Delaunay三角网。",
+    "file_path": "assets/ch02/images/ch02_fig_2_14.png",
+    "related_kps": [
+      "kp_ch02_066",
+      "kp_ch02_067"
+    ],
+    "keywords": [
+      "2-14",
+      "DT与CDT建模结果对比"
+    ],
+    "teaching_use": "用于解释图2-14 DT与CDT建模结果对比对应的知识点。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch02_table_2_1",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "table",
+    "title": "表2-1 规则格网DEM和TIN DEM对比",
+    "caption_or_name": "表2-1 规则格网DEM和TIN DEM对比",
+    "description": "对比规则格网DEM与不规则三角网DEM的优缺点。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_053",
+      "kp_ch02_054",
+      "kp_ch02_055"
+    ],
+    "keywords": [
+      "2-1",
+      "规则格网DEM和TIN",
+      "DEM对比",
+      "表2-1",
+      "规则格网DEM和不规则三角网（TIN）DEM的对比",
+      "表2-1 规则格网DEM和TIN DEM对比",
+      "数据模型",
+      "优点",
+      "缺点"
+    ],
+    "teaching_use": "用于解释表2-1 规则格网DEM和TIN DEM对比对应的知识点。",
+    "status": "structured",
+    "table_detail": {
+      "label": "表2-1",
+      "label_key": "2-1",
+      "title": "规则格网DEM和不规则三角网（TIN）DEM的对比",
+      "columns": [
+        "数据模型",
+        "优点",
+        "缺点"
+      ],
+      "rows": [
+        {
+          "数据模型": "规则格网DEM",
+          "优点": "简单的数据存储结构与遥感影像数据的相合性良好的地形分析功能",
+          "缺点": "计算效率较低数据冗余格网结构规则"
+        },
+        {
+          "数据模型": "不规则三角网(TIN)DEM",
+          "优点": "较少的点可获取较高的精度可变分辨率良好的拓扑结构",
+          "缺点": "地形分析功能较差构建比较费时算法设计比较复杂"
+        }
+      ],
+      "context_before": "（4）原始数据的比例尺和分辨率。",
+      "related_answer_cards": [
+        "ans_ch02_053",
+        "ans_ch02_054",
+        "ans_ch02_055",
+        "ans_ch02_111",
+        "ans_ch02_112",
+        "ans_ch02_114",
+        "ans_ch02_131",
+        "ans_ch02_147"
+      ],
+      "source": "output/ch02_rag_engine/reports/ch02_word_extract.txt",
+      "source_line": 192,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应教材表格、对比项或适用场景时作为结构化资源。"
+  },
+  {
+    "resource_id": "ch02_table_2_2",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec03",
+    "resource_type": "table",
+    "title": "表2-2 线框、表面和实体模型特点及表达能力",
+    "caption_or_name": "表2-2 线框、表面和实体模型特点及表达能力",
+    "description": "对比线框模型、表面模型和实体模型的定义、表达能力、适用场景与设计阶段。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_078",
+      "kp_ch02_079",
+      "kp_ch02_080",
+      "kp_ch02_081"
+    ],
+    "keywords": [
+      "2-2",
+      "线框、面和实体模型特点及达能力",
+      "表2-2",
+      "线框、表面和实体模型特点及表达能力",
+      "表2-2 线框、表面和实体模型特点及表达能力",
+      "模型类型",
+      "线框模型",
+      "表面模型",
+      "实体模型"
+    ],
+    "teaching_use": "用于解释表2-2 线框、表面和实体模型特点及表达能力对应的知识点。",
+    "status": "structured",
+    "table_detail": {
+      "label": "表2-2",
+      "label_key": "2-2",
+      "title": "线框、表面和实体模型特点及表达能力",
+      "columns": [
+        "模型类型",
+        "线框模型",
+        "表面模型",
+        "实体模型"
+      ],
+      "rows": [
+        {
+          "模型类型": "定义",
+          "线框模型": "通过点与边之间的拓扑关系表达几何轮廓",
+          "表面模型": "在点线基础上构建连续曲面，用于表达外部几何形态",
+          "实体模型": "封闭曲面构成立体结构，具有体积、边界与拓扑信息"
+        },
+        {
+          "模型类型": "表达能力",
+          "线框模型": "表达轮廓结构，无法表示遮挡、材质或体积",
+          "表面模型": "可表达曲率、坡度、贴图等表面特征，但不具备体积信息",
+          "实体模型": "可表达完整的拓扑、属性与语义，支持分析与BIM集成"
+        },
+        {
+          "模型类型": "适用场景",
+          "线框模型": "方案拟定及几何控制、公路中线、边缘线、边坡线",
+          "表面模型": "地形建模、边坡分析、桥面结构拟合、三维视效渲染",
+          "实体模型": "构造物建模、交付成果、BIM协同"
+        },
+        {
+          "模型类型": "优缺点",
+          "线框模型": "数据轻便，操作简洁；但表达力弱，无法用于工程分析或渲染",
+          "表面模型": "视觉效果佳，适用于分析与展示；缺乏体积属性，不适合结构计算",
+          "实体模型": "表达最完整，支持计算与集成；但数据量大、建模复杂"
+        },
+        {
+          "模型类型": "设计阶段",
+          "线框模型": "方案设计",
+          "表面模型": "初步设计",
+          "实体模型": "施工图设计"
+        }
+      ],
+      "context_before": "模型精细度LOD（Level of Development 或Level of Definition）是BIM建模中用于描述构件信息表达精度的核心概念，它反映了模型中构件的几何表达深度、信息完备程度与可应用性水平，是几何建模中连接设计阶段与模型用途之间的桥梁。",
+      "related_answer_cards": [
+        "ans_ch02_078",
+        "ans_ch02_079",
+        "ans_ch02_080",
+        "ans_ch02_081",
+        "ans_ch02_124"
+      ],
+      "source": "output/ch02_rag_engine/reports/ch02_word_extract.txt",
+      "source_line": 310,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应教材表格、对比项或适用场景时作为结构化资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_1",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-1) 笛卡尔三维点坐标表达",
+    "caption_or_name": "式(2-1) 笛卡尔三维点坐标表达",
+    "description": "用于说明笛卡尔三维点坐标表达的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_004"
+    ],
+    "keywords": [
+      "式(2-1)",
+      "笛卡尔三维点坐标达",
+      "公式（2-1）",
+      "2-1",
+      "式(2-1) 笛卡尔三维点坐标表达"
+    ],
+    "teaching_use": "用于解释式(2-1) 笛卡尔三维点坐标表达对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-1）",
+      "label_key": "2-1",
+      "expression": "P=(x,y,z)",
+      "context_before": "笛卡尔坐标系统：建模表达的数学基础",
+      "context_after": "式中：x—横向坐标；y—纵向坐标；z—竖向坐标。",
+      "variables": [
+        "式中：x—横向坐标；y—纵向坐标；z—竖向坐标。"
+      ],
+      "related_answer_cards": [
+        "ans_ch02_004",
+        "ans_ch02_095"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 10,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_2",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-2) 地理坐标表达",
+    "caption_or_name": "式(2-2) 地理坐标表达",
+    "description": "用于说明地理坐标表达的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_005"
+    ],
+    "keywords": [
+      "式(2-2)",
+      "地理坐标达",
+      "公式（2-2）",
+      "2-2",
+      "式(2-2) 地理坐标表达"
+    ],
+    "teaching_use": "用于解释式(2-2) 地理坐标表达对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-2）",
+      "label_key": "2-2",
+      "expression": "PGCS=λ,φ,h",
+      "context_before": "地理坐标系与投影系统：实现GIS融合的空间参考体系",
+      "context_after": "式中：λ—经度；φ—纬度；h—高程。",
+      "variables": [
+        "式中：λ—经度；φ—纬度；h—高程。",
+        "为了便于设计计算与制图表达，地理坐标需通过投影函数 f转换为投影坐标："
+      ],
+      "related_answer_cards": [
+        "ans_ch02_005",
+        "ans_ch02_095",
+        "ans_ch02_096",
+        "ans_ch02_128",
+        "ans_ch02_129",
+        "ans_ch02_133"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 15,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_3",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-3) 地理坐标到投影坐标转换",
+    "caption_or_name": "式(2-3) 地理坐标到投影坐标转换",
+    "description": "用于说明地理坐标到投影坐标转换的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_006"
+    ],
+    "keywords": [
+      "式(2-3)",
+      "地理坐标到投影坐标转换",
+      "公式（2-3）",
+      "2-3",
+      "式(2-3) 地理坐标到投影坐标转换"
+    ],
+    "teaching_use": "用于解释式(2-3) 地理坐标到投影坐标转换对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-3）",
+      "label_key": "2-3",
+      "expression": "PPCS=fλ,φ",
+      "context_before": "为了便于设计计算与制图表达，地理坐标需通过投影函数 f转换为投影坐标：",
+      "context_after": "世界坐标系（WCS）：建模平台的全局参考系统",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_006",
+        "ans_ch02_096",
+        "ans_ch02_128",
+        "ans_ch02_129",
+        "ans_ch02_133"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 18,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_4",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-4) 三维平移变换矩阵/向量",
+    "caption_or_name": "式(2-4) 三维平移变换矩阵/向量",
+    "description": "用于说明三维平移变换矩阵/向量的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_022"
+    ],
+    "keywords": [
+      "式(2-4)",
+      "三维平移变换矩阵/向量",
+      "公式（2-4）",
+      "2-4",
+      "式(2-4) 三维平移变换矩阵/向量"
+    ],
+    "teaching_use": "用于解释式(2-4) 三维平移变换矩阵/向量对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-4）",
+      "label_key": "2-4",
+      "expression": "100tx010ty001tz0001",
+      "context_before": "几何变换方式",
+      "context_after": "",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_022",
+        "ans_ch02_103",
+        "ans_ch02_145"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 83,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_5",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-5) 三维旋转变换矩阵",
+    "caption_or_name": "式(2-5) 三维旋转变换矩阵",
+    "description": "用于说明三维旋转变换矩阵的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_023"
+    ],
+    "keywords": [
+      "式(2-5)",
+      "三维旋转变换矩阵",
+      "公式（2-5）",
+      "2-5",
+      "式(2-5) 三维旋转变换矩阵"
+    ],
+    "teaching_use": "用于解释式(2-5) 三维旋转变换矩阵对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-5）",
+      "label_key": "2-5",
+      "expression": "10000cosθ-sinθ00sinθcosθ00001",
+      "context_before": "",
+      "context_after": "（4）镜像变换：是相对某一对称轴或对称面进行反射操作，常用于构建对称结构或布设镜像构件。在三维平台中，镜像常通过对称面控制或坐标负值设置实现。二维关于X轴镜像矩阵为：",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_023",
+        "ans_ch02_103",
+        "ans_ch02_145"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 85,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_6",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-6) 三维缩放变换矩阵",
+    "caption_or_name": "式(2-6) 三维缩放变换矩阵",
+    "description": "用于说明三维缩放变换矩阵的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_024"
+    ],
+    "keywords": [
+      "式(2-6)",
+      "三维缩放变换矩阵",
+      "公式（2-6）",
+      "2-6",
+      "式(2-6) 三维缩放变换矩阵"
+    ],
+    "teaching_use": "用于解释式(2-6) 三维缩放变换矩阵对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-6）",
+      "label_key": "2-6",
+      "expression": "sx0000sy000s0sz00001",
+      "context_before": "",
+      "context_after": "（4）镜像变换：是相对某一对称轴或对称面进行反射操作，常用于构建对称结构或布设镜像构件。在三维平台中，镜像常通过对称面控制或坐标负值设置实现。二维关于X轴镜像矩阵为：",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_024",
+        "ans_ch02_103",
+        "ans_ch02_145"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 87,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_7",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-7) 二维镜像变换矩阵",
+    "caption_or_name": "式(2-7) 二维镜像变换矩阵",
+    "description": "用于说明二维镜像变换矩阵的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_025"
+    ],
+    "keywords": [
+      "式(2-7)",
+      "二维镜像变换矩阵",
+      "公式（2-7）",
+      "2-7",
+      "式(2-7) 二维镜像变换矩阵"
+    ],
+    "teaching_use": "用于解释式(2-7) 二维镜像变换矩阵对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-7）",
+      "label_key": "2-7",
+      "expression": "1000-100s01",
+      "context_before": "（4）镜像变换：是相对某一对称轴或对称面进行反射操作，常用于构建对称结构或布设镜像构件。在三维平台中，镜像常通过对称面控制或坐标负值设置实现。二维关于X轴镜像矩阵为：",
+      "context_after": "几何变换具有高度的组合性与可逆性。多个变换可按顺序复合形成变换链，支持复杂构件的自动构建与派生。由于矩阵乘法不满足交换律，变换顺序将直接影响最终模型效果：",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_025",
+        "ans_ch02_103",
+        "ans_ch02_145"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 89,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_8",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-8) 拉伸实体构造表达",
+    "caption_or_name": "式(2-8) 拉伸实体构造表达",
+    "description": "用于说明拉伸实体构造表达的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_028"
+    ],
+    "keywords": [
+      "式(2-8)",
+      "拉伸实体构造达",
+      "公式（2-8）",
+      "2-8",
+      "式(2-8) 拉伸实体构造表达"
+    ],
+    "teaching_use": "用于解释式(2-8) 拉伸实体构造表达对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-8）",
+      "label_key": "2-8",
+      "expression": "Solid = {p ∈ A}p+td|t∈0,h",
+      "context_before": "设二维封闭图形为区域 A，方向向量为 d，拉伸高度为 h，则三维实体为：",
+      "context_after": "该方法具有几何定义明确、参数控制清晰、建模效率高等优点。适用于规则构件的快速生成，并可与参数化约束系统协同使用实现构件尺寸的快速调整。",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_028",
+        "ans_ch02_105",
+        "ans_ch02_137"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 101,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_9",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-9) 扫掠实体构造表达",
+    "caption_or_name": "式(2-9) 扫掠实体构造表达",
+    "description": "用于说明扫掠实体构造表达的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_030"
+    ],
+    "keywords": [
+      "式(2-9)",
+      "扫掠实体构造达",
+      "公式（2-9）",
+      "2-9",
+      "式(2-9) 扫掠实体构造表达"
+    ],
+    "teaching_use": "用于解释式(2-9) 扫掠实体构造表达对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-9）",
+      "label_key": "2-9",
+      "expression": "Solid = s∈|0,1|TSA",
+      "context_before": "路径为Ps，截面为A，则扫掠实体为：",
+      "context_after": "该方法具备高自由度，适用于表达几何体沿复杂路径的空间展布，是构造线性构件常用的基础逻辑。",
+      "variables": [
+        "其中Ts表示沿路径Ps的截面变换与定位运算。"
+      ],
+      "related_answer_cards": [
+        "ans_ch02_030",
+        "ans_ch02_105",
+        "ans_ch02_106",
+        "ans_ch02_137"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 109,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_10",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-10) 放样实体构造表达",
+    "caption_or_name": "式(2-10) 放样实体构造表达",
+    "description": "用于说明放样实体构造表达的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_031"
+    ],
+    "keywords": [
+      "式(2-10)",
+      "放样实体构造达",
+      "公式（2-10）",
+      "2-10",
+      "式(2-10) 放样实体构造表达"
+    ],
+    "teaching_use": "用于解释式(2-10) 放样实体构造表达对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-10）",
+      "label_key": "2-10",
+      "expression": "Solid = i=1n-1fAi，Ai+1",
+      "context_before": "放样是通过多个二维截面在空间中沿一定顺序插值连接而形成三维实体的方法，其核心是生成一条穿越所有截面的连续光滑曲面或体面。各截面形状可不同，位置和朝向可变化。",
+      "context_after": "放样方法在表达形状连续性与截面变化方面具有强大能力，尤其适合复杂曲面或变截面结构的建模需求。",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_031",
+        "ans_ch02_105",
+        "ans_ch02_137"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 115,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_11",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-11) 布尔交集定义",
+    "caption_or_name": "式(2-11) 布尔交集定义",
+    "description": "用于说明布尔交集定义的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_033"
+    ],
+    "keywords": [
+      "式(2-11)",
+      "布尔交集定义",
+      "公式（2-11）",
+      "2-11",
+      "式(2-11) 布尔交集定义"
+    ],
+    "teaching_use": "用于解释式(2-11) 布尔交集定义对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-11）",
+      "label_key": "2-11",
+      "expression": "A∪B=x∈R3|x∈A or x∈B",
+      "context_before": "几何定义：将两个几何实体 A 和 B 合并为一个新体，包含二者所有面积或体积部分。",
+      "context_after": "其图形意义是两个几何体无论是否相交，其所有空间点构成新的复合体。常用于表达构件组合（如桥梁盖梁与墩柱）的拼装合体。",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_033",
+        "ans_ch02_107"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 123,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_12",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-12) 布尔并集定义",
+    "caption_or_name": "式(2-12) 布尔并集定义",
+    "description": "用于说明布尔并集定义的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_034"
+    ],
+    "keywords": [
+      "式(2-12)",
+      "布尔并集定义",
+      "公式（2-12）",
+      "2-12",
+      "式(2-12) 布尔并集定义"
+    ],
+    "teaching_use": "用于解释式(2-12) 布尔并集定义对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-12）",
+      "label_key": "2-12",
+      "expression": "A∩B=x∈R3|x∈A and x∈B",
+      "context_before": "几何定义：获取两个几何体A 和 B共同占据的空间区域。",
+      "context_after": "其图形意义是仅保留 A 与 B 的重叠区域。常用于分析构件间是否发生碰撞、重叠，或用于提取穿插区域。",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_034",
+        "ans_ch02_107"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 127,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_13",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-13) 布尔差集定义",
+    "caption_or_name": "式(2-13) 布尔差集定义",
+    "description": "用于说明布尔差集定义的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_035"
+    ],
+    "keywords": [
+      "式(2-13)",
+      "布尔差集定义",
+      "公式（2-13）",
+      "2-13",
+      "式(2-13) 布尔差集定义"
+    ],
+    "teaching_use": "用于解释式(2-13) 布尔差集定义对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-13）",
+      "label_key": "2-13",
+      "expression": "A-B=x∈R3|x∈A and x∉B",
+      "context_before": "其图形意义是仅保留 A 与 B 的重叠区域。常用于分析构件间是否发生碰撞、重叠，或用于提取穿插区域。",
+      "context_after": "其图形意义是实现掏空、打孔、切割等操作。常用于孔洞、槽口、管线穿越结构、构件开孔等情况建模。",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_035",
+        "ans_ch02_107"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 131,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_14",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-14) 正投影矩阵",
+    "caption_or_name": "式(2-14) 正投影矩阵",
+    "description": "用于说明正投影矩阵的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_039"
+    ],
+    "keywords": [
+      "式(2-14)",
+      "正投影矩阵",
+      "公式（2-14）",
+      "2-14",
+      "式(2-14) 正投影矩阵"
+    ],
+    "teaching_use": "用于解释式(2-14) 正投影矩阵对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-14）",
+      "label_key": "2-14",
+      "expression": "Porth=1000010000000001",
+      "context_before": "其对应的投影矩阵如下：",
+      "context_after": "透视投影：增强真实感的三维表达",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_039",
+        "ans_ch02_108"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 155,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_15",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-15) 透视投影矩阵",
+    "caption_or_name": "式(2-15) 透视投影矩阵",
+    "description": "用于说明透视投影矩阵的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_040"
+    ],
+    "keywords": [
+      "式(2-15)",
+      "透视投影矩阵",
+      "公式（2-15）",
+      "2-15",
+      "式(2-15) 透视投影矩阵"
+    ],
+    "teaching_use": "用于解释式(2-15) 透视投影矩阵对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-15）",
+      "label_key": "2-15",
+      "expression": "Ppersp=10000100001-1/d0011",
+      "context_before": "其典型投影矩阵形式如下：",
+      "context_after": "其中 d为视点到投影面的距离。该变换后的点需经过齐次除法，得到二维投影坐标，形成有透视深度的图形表达。",
+      "variables": [
+        "其中 d为视点到投影面的距离。该变换后的点需经过齐次除法，得到二维投影坐标，形成有透视深度的图形表达。"
+      ],
+      "related_answer_cards": [
+        "ans_ch02_040",
+        "ans_ch02_108"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 162,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_16",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "formula",
+    "title": "式(2-16) 标准化透视投影矩阵",
+    "caption_or_name": "式(2-16) 标准化透视投影矩阵",
+    "description": "用于说明标准化透视投影矩阵的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_041"
+    ],
+    "keywords": [
+      "式(2-16)",
+      "标准化透视投影矩阵",
+      "公式（2-16）",
+      "2-16",
+      "式(2-16) 标准化透视投影矩阵"
+    ],
+    "teaching_use": "用于解释式(2-16) 标准化透视投影矩阵对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-16）",
+      "label_key": "2-16",
+      "expression": "P=1tanθ/200001tanθ/20000f+nn-f2fnn-f00-10",
+      "context_before": "（4）视口变换：将结果映射至屏幕或图纸坐标系。",
+      "context_after": "第二节 数字高程模型的原理与建模方法",
+      "variables": [
+        "其中 θ为视场角，n,f 分别为近平面与远平面距离。通过该变换，Z坐标被重新编码为深度信息，用于后续图形消隐与真实感模拟。"
+      ],
+      "related_answer_cards": [
+        "ans_ch02_041",
+        "ans_ch02_109",
+        "ans_ch02_146"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 171,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_17",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "formula",
+    "title": "式(2-17) 数字地形模型函数集合表达",
+    "caption_or_name": "式(2-17) 数字地形模型函数集合表达",
+    "description": "用于说明数字地形模型函数集合表达的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_045"
+    ],
+    "keywords": [
+      "式(2-17)",
+      "数字地形模型函数集合达",
+      "公式（2-17）",
+      "2-17",
+      "式(2-17) 数字地形模型函数集合表达"
+    ],
+    "teaching_use": "用于解释式(2-17) 数字地形模型函数集合表达对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-17）",
+      "label_key": "2-17",
+      "expression": "Kp=fup,vp k=1,2,3,⋯,m;p=1,2,3,⋯n",
+      "context_before": "地形的数学建模通常以基本地形图中的地形要素，特别是高程信息，作为建模的核心内容。因此，地形数学模型本质上是由地面要素的平面坐标 (x,y) 及其对应属性信息所构成的数据集合。该集合从微分几何的角度，三维地刻画了特定区域内地形地貌的空间分布特征。",
+      "context_after": "",
+      "variables": [
+        "式中，Kp为第p号地面点上的第K类地面特征信息取值；up,vp为第p号地面点的二维坐标；m（m大于等于1）为地面特性信息类型的数目，n为地面点的个数。"
+      ],
+      "related_answer_cards": [
+        "ans_ch02_043",
+        "ans_ch02_045",
+        "ans_ch02_110",
+        "ans_ch02_127",
+        "ans_ch02_136",
+        "ans_ch02_146"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 177,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_18",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "formula",
+    "title": "式(2-18) 数字高程模型面片集合表达",
+    "caption_or_name": "式(2-18) 数字高程模型面片集合表达",
+    "description": "用于说明数字高程模型面片集合表达的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050",
+      "kp_ch02_051",
+      "kp_ch02_052",
+      "kp_ch02_053",
+      "kp_ch02_054"
+    ],
+    "keywords": [
+      "式(2-18)",
+      "数字高程模型面片集合达",
+      "公式（2-18）",
+      "2-18",
+      "式(2-18) 数字高程模型面片集合表达"
+    ],
+    "teaching_use": "用于解释式(2-18) 数字高程模型面片集合表达对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-18）",
+      "label_key": "2-18",
+      "expression": "DEM=Mi=ξPj|Pj(xj,yj,Hj)∈D,j=1,⋯,n;i=1,⋯,m",
+      "context_before": "",
+      "context_after": "",
+      "variables": [
+        "式中，xj,yj为Pj点的地理坐标；Hj为Pj点的高程。连接规则ξ构成DEM的数据结构，可以是规则分布的格网或不规则分布的格网。"
+      ],
+      "related_answer_cards": [
+        "ans_ch02_044",
+        "ans_ch02_045",
+        "ans_ch02_046",
+        "ans_ch02_048",
+        "ans_ch02_049",
+        "ans_ch02_050",
+        "ans_ch02_051",
+        "ans_ch02_052",
+        "ans_ch02_053",
+        "ans_ch02_054",
+        "ans_ch02_110",
+        "ans_ch02_111",
+        "ans_ch02_112",
+        "ans_ch02_113",
+        "ans_ch02_127",
+        "ans_ch02_130",
+        "ans_ch02_131",
+        "ans_ch02_136",
+        "ans_ch02_146",
+        "ans_ch02_147"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 182,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_19",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "formula",
+    "title": "式(2-19) 激光扫描点云坐标转换模型",
+    "caption_or_name": "式(2-19) 激光扫描点云坐标转换模型",
+    "description": "用于说明激光扫描点云坐标转换模型的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_052"
+    ],
+    "keywords": [
+      "式(2-19)",
+      "激光扫描点云坐标转换模型",
+      "公式（2-19）",
+      "2-19",
+      "式(2-19) 激光扫描点云坐标转换模型"
+    ],
+    "teaching_use": "用于解释式(2-19) 激光扫描点云坐标转换模型对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-19）",
+      "label_key": "2-19",
+      "expression": "Pd=Tf+R∙Ps",
+      "context_before": "激光扫描数据测量方法",
+      "context_after": "激光扫描不仅可获取单次回波的地面点，还能识别树冠、建筑等地物的多次回波信息，支持地物类型分类与精细建模。其标准流程包括：",
+      "variables": [
+        "式中，Pd为激光点的地理坐标，Tf为飞行器的位置，R为飞行器姿态对应的旋转矩阵，Ps为激光点在扫描仪坐标系中的坐标。"
+      ],
+      "related_answer_cards": [
+        "ans_ch02_052",
+        "ans_ch02_111",
+        "ans_ch02_130"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 212,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_formula_2_20",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "formula",
+    "title": "式(2-20) Voronoi多边形定义",
+    "caption_or_name": "式(2-20) Voronoi多边形定义",
+    "description": "用于说明Voronoi多边形定义的数学表达或建模含义。",
+    "file_path": "",
+    "related_kps": [
+      "kp_ch02_058"
+    ],
+    "keywords": [
+      "式(2-20)",
+      "Voronoi多边形定义",
+      "公式（2-20）",
+      "2-20",
+      "式(2-20) Voronoi多边形定义"
+    ],
+    "teaching_use": "用于解释式(2-20) Voronoi多边形定义对应的知识点。",
+    "status": "structured",
+    "formula_detail": {
+      "label": "公式（2-20）",
+      "label_key": "2-20",
+      "expression": "V(i)=p∈E2d(p,vi)≤d(p,vj),j=1,2,⋯N,j≠i",
+      "context_before": "",
+      "context_after": "",
+      "variables": [],
+      "related_answer_cards": [
+        "ans_ch02_058",
+        "ans_ch02_115",
+        "ans_ch02_148"
+      ],
+      "source": "output\\ch02_rag_engine\\reports\\ch02_word_extract.txt",
+      "source_line": 247,
+      "extraction_status": "extracted"
+    },
+    "qa_use": "当学生询问对应计算公式、变量含义或计算流程时作为证据资源。"
+  },
+  {
+    "resource_id": "ch02_script_2_1",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec01",
+    "resource_type": "interactive_html",
+    "title": "坐标系统原理与模型定位",
+    "description": "用于辅助理解坐标系统原理与模型定位相关知识点。",
+    "related_kps": [
+      "kp_ch02_001",
+      "kp_ch02_002",
+      "kp_ch02_003",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008"
+    ],
+    "keywords": [
+      "坐标系统原理与模型定位"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.1坐标系统原理与模型定位.html",
+    "trigger_questions": [
+      "坐标系统原理与模型定位怎么看？",
+      "坐标系统原理与模型定位怎么操作？",
+      "我想看坐标系统原理与模型定位。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_2",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec02",
+    "resource_type": "interactive_html",
+    "title": "几何图元与模型表达方式",
+    "description": "用于辅助理解几何图元与模型表达方式相关知识点。",
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050"
+    ],
+    "keywords": [
+      "几何图元与模型表达方式"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.2几何图元与模型表达方式.html",
+    "trigger_questions": [
+      "几何图元与模型表达方式怎么看？",
+      "几何图元与模型表达方式怎么操作？",
+      "我想看几何图元与模型表达方式。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_3",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec03",
+    "resource_type": "interactive_html",
+    "title": "几何编号与道路构件",
+    "description": "用于辅助理解几何编号与道路构件相关知识点。",
+    "related_kps": [
+      "kp_ch02_068",
+      "kp_ch02_069",
+      "kp_ch02_070",
+      "kp_ch02_071",
+      "kp_ch02_072",
+      "kp_ch02_073",
+      "kp_ch02_074",
+      "kp_ch02_075"
+    ],
+    "keywords": [
+      "几何编号与道路构件"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.3几何编号与道路构件.html",
+    "trigger_questions": [
+      "几何编号与道路构件怎么看？",
+      "几何编号与道路构件怎么操作？",
+      "我想看几何编号与道路构件。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_4",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec04",
+    "resource_type": "interactive_html",
+    "title": "投影方式与道路模型表达",
+    "description": "用于辅助理解投影方式与道路模型表达相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "投影方式与道路模型表达"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.4投影方式与道路模型表达.html",
+    "trigger_questions": [
+      "投影方式与道路模型表达怎么看？",
+      "投影方式与道路模型表达怎么操作？",
+      "我想看投影方式与道路模型表达。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_5",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec05",
+    "resource_type": "interactive_html",
+    "title": "数字高程模型与算法",
+    "description": "用于辅助理解数字高程模型与算法相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "数字高程模型与算法"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.5数字高程模型与算法.html",
+    "trigger_questions": [
+      "数字高程模型与算法怎么看？",
+      "数字高程模型与算法怎么操作？",
+      "我想看数字高程模型与算法。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_6",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec06",
+    "resource_type": "interactive_html",
+    "title": "道路几何建模目标",
+    "description": "用于辅助理解道路几何建模目标相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "道路几何建模目标"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.6道路几何建模目标.html",
+    "trigger_questions": [
+      "道路几何建模目标怎么看？",
+      "道路几何建模目标怎么操作？",
+      "我想看道路几何建模目标。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_7",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec07",
+    "resource_type": "interactive_html",
+    "title": "图元—构件—语义三层映射",
+    "description": "用于辅助理解图元—构件—语义三层映射相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "图元",
+      "构件",
+      "语义三层映射"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.7图元—构件—语义三层映射.html",
+    "trigger_questions": [
+      "图元—构件—语义三层映射怎么看？",
+      "图元—构件—语义三层映射怎么操作？",
+      "我想看图元—构件—语义三层映射。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_8",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec08",
+    "resource_type": "interactive_html",
+    "title": "模型表达层级与 LOD 选择",
+    "description": "用于辅助理解模型表达层级与 LOD 选择相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "模型表达层级与",
+      "LOD",
+      "选择"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.8模型表达层级与 LOD 选择.html",
+    "trigger_questions": [
+      "模型表达层级与 LOD 选择怎么看？",
+      "模型表达层级与 LOD 选择怎么操作？",
+      "我想看模型表达层级与 LOD 选择。"
+    ]
+  },
+  {
+    "resource_id": "ch02_script_2_9",
+    "chapter_id": "ch02",
+    "section_id": "ch02_sec09",
+    "resource_type": "interactive_html",
+    "title": "道路模型的表达",
+    "description": "用于辅助理解道路模型的表达相关知识点。",
+    "related_kps": [],
+    "keywords": [
+      "道路模型的表达"
+    ],
+    "teaching_use": "自学复习、课堂讲解参考和AI回答后的资源推荐",
+    "qa_use": "当学习问题询问脚本、演示或操作方式时推荐",
+    "status": "bound",
+    "file_path": "assets/ch02/interactive_html/2.9道路模型的表达.html",
+    "trigger_questions": [
+      "道路模型的表达怎么看？",
+      "道路模型的表达怎么操作？",
+      "我想看道路模型的表达。"
+    ]
+  }
+]

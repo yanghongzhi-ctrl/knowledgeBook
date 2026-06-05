@@ -1,0 +1,1182 @@
+[
+  {
+    "relation_id": "rel_ch10_001",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_001_ai_design_paradigm",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_002_knowledge_driven",
+    "weight": 5,
+    "description": "AI驱动范式包含知识驱动。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_002",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_001_ai_design_paradigm",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_003_algorithm_driven",
+    "weight": 5,
+    "description": "AI驱动范式包含算法驱动。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_003",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_001_ai_design_paradigm",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_004_data_driven",
+    "weight": 5,
+    "description": "AI驱动范式包含数据驱动。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_004",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_002_knowledge_driven",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_013_ontology_graph",
+    "weight": 5,
+    "description": "知识驱动需要本体和知识图谱表达领域语义。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_005",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_002_knowledge_driven",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_015_case_base",
+    "weight": 5,
+    "description": "知识驱动使用案例库存储历史经验。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_006",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_002_knowledge_driven",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_016_rule_base",
+    "weight": 5,
+    "description": "知识驱动使用规则库表达规范和经验规则。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_007",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_002_knowledge_driven",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_017_spatial_relation_base",
+    "weight": 4,
+    "description": "知识驱动使用空间关系库进行空间语义表达。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_008",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_012_design_reasoning_module",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_025_spatial_relation_reasoning",
+    "weight": 5,
+    "description": "设计推理模块包含空间关系推理。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_009",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_012_design_reasoning_module",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_026_case_based_reasoning",
+    "weight": 5,
+    "description": "设计推理模块包含案例推理。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_010",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_012_design_reasoning_module",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_027_rule_based_reasoning",
+    "weight": 5,
+    "description": "设计推理模块包含规则推理。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_011",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_025_spatial_relation_reasoning",
+    "relation_type": "supports",
+    "target_id": "kp_ch10_027_rule_based_reasoning",
+    "weight": 4,
+    "description": "空间推理可为规则推理提供工程语义事实。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_012",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_015_case_base",
+    "relation_type": "supports",
+    "target_id": "kp_ch10_026_case_based_reasoning",
+    "weight": 5,
+    "description": "案例库是案例推理的基础。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_013",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_016_rule_base",
+    "relation_type": "supports",
+    "target_id": "kp_ch10_027_rule_based_reasoning",
+    "weight": 5,
+    "description": "规则库是规则推理的基础。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_014",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_013_ontology_graph",
+    "relation_type": "supports",
+    "target_id": "kp_ch10_006_knowledge_network",
+    "weight": 4,
+    "description": "知识图谱支撑动态知识网络。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_015",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_003_algorithm_driven",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_043_genetic_algorithm",
+    "weight": 5,
+    "description": "算法驱动可使用遗传算法。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_016",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_003_algorithm_driven",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_051_nsga2",
+    "weight": 5,
+    "description": "算法驱动可使用多目标进化算法。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_017",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_003_algorithm_driven",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_059_reinforcement_learning",
+    "weight": 5,
+    "description": "算法驱动可使用强化学习。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_018",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_035_intelligent_route_selection",
+    "relation_type": "has_level",
+    "target_id": "kp_ch10_036_corridor_level_optimization",
+    "weight": 4,
+    "description": "智能选线包括走廊带层次。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_019",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_035_intelligent_route_selection",
+    "relation_type": "has_level",
+    "target_id": "kp_ch10_037_alignment_level_optimization",
+    "weight": 4,
+    "description": "智能选线包括路线方案层次。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_020",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_042_multi_objective_optimization_model",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_049_pareto_optimality",
+    "weight": 5,
+    "description": "多目标优化以帕累托最优表达折中。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_021",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_050_pareto_front",
+    "relation_type": "supports",
+    "target_id": "kp_ch10_057_knee_point",
+    "weight": 4,
+    "description": "膝点法用于从帕累托前沿中选择均衡方案。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_022",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_051_nsga2",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_052_non_dominated_sorting",
+    "weight": 5,
+    "description": "NSGA-II使用非支配排序。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_023",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_051_nsga2",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_053_crowding_distance",
+    "weight": 5,
+    "description": "NSGA-II使用拥挤度保持多样性。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_024",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_051_nsga2",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_054_elite_selection",
+    "weight": 5,
+    "description": "NSGA-II使用精英选择保持优良解。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_025",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_043_genetic_algorithm",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_044_chromosome_encoding",
+    "weight": 5,
+    "description": "遗传算法需要染色体编码。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_026",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_043_genetic_algorithm",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_045_fitness_evaluation",
+    "weight": 5,
+    "description": "遗传算法需要适应度评估。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_027",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_043_genetic_algorithm",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_047_crossover_mutation",
+    "weight": 5,
+    "description": "遗传算法使用交叉与变异。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_028",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_059_reinforcement_learning",
+    "relation_type": "formalized_by",
+    "target_id": "kp_ch10_060_mdp",
+    "weight": 5,
+    "description": "强化学习通常用MDP形式化。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_029",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_060_mdp",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_061_state_space",
+    "weight": 5,
+    "description": "MDP包含状态空间。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_030",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_060_mdp",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_062_action_space",
+    "weight": 5,
+    "description": "MDP包含动作空间。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_031",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_060_mdp",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_063_reward_function",
+    "weight": 5,
+    "description": "MDP包含奖励函数。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_032",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_066_dqn",
+    "relation_type": "applied_in",
+    "target_id": "kp_ch10_067_vertical_profile_rl",
+    "weight": 4,
+    "description": "DQN可用于纵断面强化学习优化。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_033",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_004_data_driven",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_068_machine_learning",
+    "weight": 5,
+    "description": "数据驱动以机器学习为基础。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_034",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_068_machine_learning",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_069_supervised_learning",
+    "weight": 5,
+    "description": "机器学习包括监督学习。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_035",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_068_machine_learning",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_072_unsupervised_learning",
+    "weight": 5,
+    "description": "机器学习包括无监督学习。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_036",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_069_supervised_learning",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_070_classification",
+    "weight": 4,
+    "description": "监督学习包括分类任务。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_037",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_069_supervised_learning",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_071_regression",
+    "weight": 4,
+    "description": "监督学习包括回归任务。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_038",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_073_deep_learning",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_074_cnn",
+    "weight": 4,
+    "description": "深度学习包括CNN等模型。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_039",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_073_deep_learning",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_075_rnn",
+    "weight": 4,
+    "description": "深度学习包括RNN等模型。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_040",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_073_deep_learning",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_076_gan",
+    "weight": 4,
+    "description": "深度学习包括GAN等模型。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_041",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_083_geological_risk_assessment",
+    "relation_type": "requires",
+    "target_id": "kp_ch10_084_risk_data_sources",
+    "weight": 5,
+    "description": "地质风险评估需要多源数据。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_042",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_083_geological_risk_assessment",
+    "relation_type": "requires",
+    "target_id": "kp_ch10_085_data_preprocessing",
+    "weight": 5,
+    "description": "地质风险评估需要数据预处理。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_043",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_083_geological_risk_assessment",
+    "relation_type": "requires",
+    "target_id": "kp_ch10_086_feature_extraction",
+    "weight": 5,
+    "description": "地质风险评估需要特征提取。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_044",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_083_geological_risk_assessment",
+    "relation_type": "uses",
+    "target_id": "kp_ch10_087_model_training_prediction",
+    "weight": 5,
+    "description": "地质风险评估需要模型训练和预测。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_045",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_087_model_training_prediction",
+    "relation_type": "outputs",
+    "target_id": "kp_ch10_088_risk_map_generation",
+    "weight": 5,
+    "description": "模型预测结果可生成风险图。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_046",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_082_recommendation_system",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_089_collaborative_filtering",
+    "weight": 4,
+    "description": "推荐系统包括协同过滤。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_047",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_082_recommendation_system",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_090_content_based_recommendation",
+    "weight": 4,
+    "description": "推荐系统包括基于内容推荐。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_048",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_082_recommendation_system",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_091_hybrid_recommendation",
+    "weight": 4,
+    "description": "推荐系统包括混合推荐。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_049",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_092_alignment_indicator_recommendation",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_093_line_combination_recommendation",
+    "weight": 4,
+    "description": "平面指标推荐包含线形组合推荐。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_050",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_092_alignment_indicator_recommendation",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_094_basic_curve_recommendation",
+    "weight": 4,
+    "description": "平面指标推荐包含基本型曲线推荐。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_051",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_092_alignment_indicator_recommendation",
+    "relation_type": "includes",
+    "target_id": "kp_ch10_095_s_curve_reverse_curve_recommendation",
+    "weight": 4,
+    "description": "平面指标推荐包含S形和反向曲线推荐。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_052",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_096_human_ai_collaboration",
+    "relation_type": "guards",
+    "target_id": "kp_ch10_097_ai_limitations",
+    "weight": 5,
+    "description": "人机协同用于控制AI应用风险。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_053",
+    "chapter_id": "ch10",
+    "source_id": "kp_ch10_098_explainability",
+    "relation_type": "supports",
+    "target_id": "kp_ch10_096_human_ai_collaboration",
+    "weight": 5,
+    "description": "可解释性支撑工程师审查AI结果。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_054",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_knowledge_driven",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_002_knowledge_driven",
+    "weight": 4,
+    "description": "知识驱动道路智能设计解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_055",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_knowledge_driven",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_009_knowledge_system_structure",
+    "weight": 4,
+    "description": "知识驱动道路智能设计解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_056",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_knowledge_driven",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_027_rule_based_reasoning",
+    "weight": 4,
+    "description": "知识驱动道路智能设计解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_057",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_knowledge_driven",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_026_case_based_reasoning",
+    "weight": 4,
+    "description": "知识驱动道路智能设计解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_058",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_ontology_graph",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_013_ontology_graph",
+    "weight": 4,
+    "description": "本体与知识图谱建模解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_059",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_ontology_graph",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_014_term_node",
+    "weight": 4,
+    "description": "本体与知识图谱建模解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_060",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_ontology_graph",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_006_knowledge_network",
+    "weight": 4,
+    "description": "本体与知识图谱建模解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_061",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_case_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_015_case_base",
+    "weight": 4,
+    "description": "案例库构建与CBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_062",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_case_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_026_case_based_reasoning",
+    "weight": 4,
+    "description": "案例库构建与CBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_063",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_case_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_028_cbr_similarity",
+    "weight": 4,
+    "description": "案例库构建与CBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_064",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_case_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_030_knn_case_retrieval",
+    "weight": 4,
+    "description": "案例库构建与CBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_065",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rule_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_016_rule_base",
+    "weight": 4,
+    "description": "规则库与RBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_066",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rule_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_027_rule_based_reasoning",
+    "weight": 4,
+    "description": "规则库与RBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_067",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rule_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_031_rbr_cf_model",
+    "weight": 4,
+    "description": "规则库与RBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_068",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rule_base",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_032_forward_chaining",
+    "weight": 4,
+    "description": "规则库与RBR解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_069",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_srr",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_025_spatial_relation_reasoning",
+    "weight": 4,
+    "description": "空间关系推理解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_070",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_srr",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_018_nine_intersection_model",
+    "weight": 4,
+    "description": "空间关系推理解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_071",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_srr",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_017_spatial_relation_base",
+    "weight": 4,
+    "description": "空间关系推理解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_072",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_ga",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_043_genetic_algorithm",
+    "weight": 4,
+    "description": "遗传算法路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_073",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_ga",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_044_chromosome_encoding",
+    "weight": 4,
+    "description": "遗传算法路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_074",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_ga",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_045_fitness_evaluation",
+    "weight": 4,
+    "description": "遗传算法路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_075",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_ga",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_047_crossover_mutation",
+    "weight": 4,
+    "description": "遗传算法路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_076",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_moea",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_042_multi_objective_optimization_model",
+    "weight": 4,
+    "description": "多目标进化路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_077",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_moea",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_049_pareto_optimality",
+    "weight": 4,
+    "description": "多目标进化路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_078",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_moea",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_050_pareto_front",
+    "weight": 4,
+    "description": "多目标进化路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_079",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_moea",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_051_nsga2",
+    "weight": 4,
+    "description": "多目标进化路线优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_080",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_nsga2",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_051_nsga2",
+    "weight": 4,
+    "description": "NSGA-II算法框架解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_081",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_nsga2",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_052_non_dominated_sorting",
+    "weight": 4,
+    "description": "NSGA-II算法框架解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_082",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_nsga2",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_053_crowding_distance",
+    "weight": 4,
+    "description": "NSGA-II算法框架解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_083",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_nsga2",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_054_elite_selection",
+    "weight": 4,
+    "description": "NSGA-II算法框架解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_084",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rl_profile",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_059_reinforcement_learning",
+    "weight": 4,
+    "description": "强化学习纵断面优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_085",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rl_profile",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_060_mdp",
+    "weight": 4,
+    "description": "强化学习纵断面优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_086",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rl_profile",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_067_vertical_profile_rl",
+    "weight": 4,
+    "description": "强化学习纵断面优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_087",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rl_profile",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_066_dqn",
+    "weight": 4,
+    "description": "强化学习纵断面优化解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_088",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_supervised_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_069_supervised_learning",
+    "weight": 4,
+    "description": "监督学习地质风险评估解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_089",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_supervised_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_070_classification",
+    "weight": 4,
+    "description": "监督学习地质风险评估解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_090",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_supervised_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_083_geological_risk_assessment",
+    "weight": 4,
+    "description": "监督学习地质风险评估解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_091",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_supervised_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_087_model_training_prediction",
+    "weight": 4,
+    "description": "监督学习地质风险评估解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_092",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_unsupervised_zone",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_072_unsupervised_learning",
+    "weight": 4,
+    "description": "无监督聚类空间分区解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_093",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_unsupervised_zone",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_083_geological_risk_assessment",
+    "weight": 4,
+    "description": "无监督聚类空间分区解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_094",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_cnn_remote",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_074_cnn",
+    "weight": 4,
+    "description": "CNN遥感识别解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_095",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_cnn_remote",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_073_deep_learning",
+    "weight": 4,
+    "description": "CNN遥感识别解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_096",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_cnn_remote",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_080_rs_support",
+    "weight": 4,
+    "description": "CNN遥感识别解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_097",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_recommendation",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_082_recommendation_system",
+    "weight": 4,
+    "description": "路线设计推荐系统解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_098",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_recommendation",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_092_alignment_indicator_recommendation",
+    "weight": 4,
+    "description": "路线设计推荐系统解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_099",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_recommendation",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_096_human_ai_collaboration",
+    "weight": 4,
+    "description": "路线设计推荐系统解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_100",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_content_based",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_090_content_based_recommendation",
+    "weight": 4,
+    "description": "基于内容的设计推荐解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_101",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_content_based",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_094_basic_curve_recommendation",
+    "weight": 4,
+    "description": "基于内容的设计推荐解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_102",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_hybrid_recommendation",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_091_hybrid_recommendation",
+    "weight": 4,
+    "description": "混合推荐方法解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_103",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_hybrid_recommendation",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_095_s_curve_reverse_curve_recommendation",
+    "weight": 4,
+    "description": "混合推荐方法解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_104",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rag_design",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_005_rag_ai_agent",
+    "weight": 4,
+    "description": "RAG增强设计知识问答解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_105",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_rag_design",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_006_knowledge_network",
+    "weight": 4,
+    "description": "RAG增强设计知识问答解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_106",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_agent_workflow",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_005_rag_ai_agent",
+    "weight": 4,
+    "description": "AI智能体设计流程解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_107",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_agent_workflow",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_078_mult_agent_system",
+    "weight": 4,
+    "description": "AI智能体设计流程解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_108",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_pareto_selection",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_055_weighted_sum_method",
+    "weight": 4,
+    "description": "帕累托方案筛选解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_109",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_pareto_selection",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_056_epsilon_constraint",
+    "weight": 4,
+    "description": "帕累托方案筛选解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_110",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_pareto_selection",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_057_knee_point",
+    "weight": 4,
+    "description": "帕累托方案筛选解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_111",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_pareto_selection",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_050_pareto_front",
+    "weight": 4,
+    "description": "帕累托方案筛选解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_112",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_multimodal_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_008_multimodal_prediction",
+    "weight": 4,
+    "description": "多模态地质风险预测解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_113",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_multimodal_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_084_risk_data_sources",
+    "weight": 4,
+    "description": "多模态地质风险预测解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_114",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_multimodal_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_086_feature_extraction",
+    "weight": 4,
+    "description": "多模态地质风险预测解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_115",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_multimodal_risk",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_088_risk_map_generation",
+    "weight": 4,
+    "description": "多模态地质风险预测解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_116",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_human_ai_collab",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_096_human_ai_collaboration",
+    "weight": 4,
+    "description": "人机协同智能设计解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_117",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_human_ai_collab",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_097_ai_limitations",
+    "weight": 4,
+    "description": "人机协同智能设计解释或应用该知识点。",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch10_118",
+    "chapter_id": "ch10",
+    "source_id": "ch10_method_human_ai_collab",
+    "relation_type": "method_explains",
+    "target_id": "kp_ch10_098_explainability",
+    "weight": 4,
+    "description": "人机协同智能设计解释或应用该知识点。",
+    "use_in_rag": true
+  }
+]

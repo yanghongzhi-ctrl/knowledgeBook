@@ -1,0 +1,5162 @@
+[
+  {
+    "eval_id": "eval_ch06_0001",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何设置AutoCAD绘图环境？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_001_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0001",
+    "expected_answer_card": "ans_ch06_task_001_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0002",
+    "chapter_id": "ch06",
+    "question": "设置AutoCAD绘图环境失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_001_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0002",
+    "expected_answer_card": "ans_ch06_task_001_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0003",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何使用坐标精确绘制线段？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_002_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0003",
+    "expected_answer_card": "ans_ch06_task_002_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0004",
+    "chapter_id": "ch06",
+    "question": "使用坐标精确绘制线段失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_002_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0004",
+    "expected_answer_card": "ans_ch06_task_002_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0005",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何完成模型空间与图纸空间布局？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_003_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0005",
+    "expected_answer_card": "ans_ch06_task_003_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0006",
+    "chapter_id": "ch06",
+    "question": "完成模型空间与图纸空间布局失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_003_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0006",
+    "expected_answer_card": "ans_ch06_task_003_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0007",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何绘制道路横断面基本线形？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_004_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0007",
+    "expected_answer_card": "ans_ch06_task_004_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0008",
+    "chapter_id": "ch06",
+    "question": "绘制道路横断面基本线形失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_004_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0008",
+    "expected_answer_card": "ans_ch06_task_004_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0009",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何绘制圆及内接/外切正多边形？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_005_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0009",
+    "expected_answer_card": "ans_ch06_task_005_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0010",
+    "chapter_id": "ch06",
+    "question": "绘制圆及内接/外切正多边形失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_005_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0010",
+    "expected_answer_card": "ans_ch06_task_005_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0011",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何绘制圆弧与样条曲线？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_006_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0011",
+    "expected_answer_card": "ans_ch06_task_006_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0012",
+    "chapter_id": "ch06",
+    "question": "绘制圆弧与样条曲线失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_006_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0012",
+    "expected_answer_card": "ans_ch06_task_006_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0013",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何移动与复制图形对象？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_007_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0013",
+    "expected_answer_card": "ans_ch06_task_007_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0014",
+    "chapter_id": "ch06",
+    "question": "移动与复制图形对象失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_007_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0014",
+    "expected_answer_card": "ans_ch06_task_007_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0015",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何拉伸与缩放图形对象？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_008_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0015",
+    "expected_answer_card": "ans_ch06_task_008_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0016",
+    "chapter_id": "ch06",
+    "question": "拉伸与缩放图形对象失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_008_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0016",
+    "expected_answer_card": "ans_ch06_task_008_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0017",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何旋转与镜像对象？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_009_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0017",
+    "expected_answer_card": "ans_ch06_task_009_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0018",
+    "chapter_id": "ch06",
+    "question": "旋转与镜像对象失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_009_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0018",
+    "expected_answer_card": "ans_ch06_task_009_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0019",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何修剪、延伸与圆角处理？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_010_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0019",
+    "expected_answer_card": "ans_ch06_task_010_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0020",
+    "chapter_id": "ch06",
+    "question": "修剪、延伸与圆角处理失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_010_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0020",
+    "expected_answer_card": "ans_ch06_task_010_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0021",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何阵列、定距与定数分布？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_011_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0021",
+    "expected_answer_card": "ans_ch06_task_011_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0022",
+    "chapter_id": "ch06",
+    "question": "阵列、定距与定数分布失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_011_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0022",
+    "expected_answer_card": "ans_ch06_task_011_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0023",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何设置并使用精确定位工具？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_012_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0023",
+    "expected_answer_card": "ans_ch06_task_012_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0024",
+    "chapter_id": "ch06",
+    "question": "设置并使用精确定位工具失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_012_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0024",
+    "expected_answer_card": "ans_ch06_task_012_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0025",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建文字样式并输入单行文字？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_013_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0025",
+    "expected_answer_card": "ans_ch06_task_013_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0026",
+    "chapter_id": "ch06",
+    "question": "创建文字样式并输入单行文字失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_013_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0026",
+    "expected_answer_card": "ans_ch06_task_013_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0027",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建多行文字说明？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_014_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0027",
+    "expected_answer_card": "ans_ch06_task_014_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0028",
+    "chapter_id": "ch06",
+    "question": "创建多行文字说明失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_014_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0028",
+    "expected_answer_card": "ans_ch06_task_014_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0029",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建道路设计标注样式？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_015_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0029",
+    "expected_answer_card": "ans_ch06_task_015_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0030",
+    "chapter_id": "ch06",
+    "question": "创建道路设计标注样式失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_015_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0030",
+    "expected_answer_card": "ans_ch06_task_015_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0031",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建线性、半径、直径与角度标注？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_016_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0031",
+    "expected_answer_card": "ans_ch06_task_016_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0032",
+    "chapter_id": "ch06",
+    "question": "创建线性、半径、直径与角度标注失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_016_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0032",
+    "expected_answer_card": "ans_ch06_task_016_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0033",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何修改标注样式与标注文字？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_017_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0033",
+    "expected_answer_card": "ans_ch06_task_017_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0034",
+    "chapter_id": "ch06",
+    "question": "修改标注样式与标注文字失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_017_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0034",
+    "expected_answer_card": "ans_ch06_task_017_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0035",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建图层并设置颜色线型线宽？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_018_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0035",
+    "expected_answer_card": "ans_ch06_task_018_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0036",
+    "chapter_id": "ch06",
+    "question": "创建图层并设置颜色线型线宽失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_018_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0036",
+    "expected_answer_card": "ans_ch06_task_018_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0037",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何管理图层开关、冻结、隔离和锁定？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_019_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0037",
+    "expected_answer_card": "ans_ch06_task_019_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0038",
+    "chapter_id": "ch06",
+    "question": "管理图层开关、冻结、隔离和锁定失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_019_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0038",
+    "expected_answer_card": "ans_ch06_task_019_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0039",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何定义并插入图块？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_020_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0039",
+    "expected_answer_card": "ans_ch06_task_020_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0040",
+    "chapter_id": "ch06",
+    "question": "定义并插入图块失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_020_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0040",
+    "expected_answer_card": "ans_ch06_task_020_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0041",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何使用WBLOCK输出共享块？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_021_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0041",
+    "expected_answer_card": "ans_ch06_task_021_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0042",
+    "chapter_id": "ch06",
+    "question": "使用WBLOCK输出共享块失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_021_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0042",
+    "expected_answer_card": "ans_ch06_task_021_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0043",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何定义和管理带属性块？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_022_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0043",
+    "expected_answer_card": "ans_ch06_task_022_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0044",
+    "chapter_id": "ch06",
+    "question": "定义和管理带属性块失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_022_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0044",
+    "expected_answer_card": "ans_ch06_task_022_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0045",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何设置三维工作空间与视觉样式？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_023_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0045",
+    "expected_answer_card": "ans_ch06_task_023_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0046",
+    "chapter_id": "ch06",
+    "question": "设置三维工作空间与视觉样式失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_023_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0046",
+    "expected_answer_card": "ans_ch06_task_023_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0047",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建网格或空间平面？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_024_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0047",
+    "expected_answer_card": "ans_ch06_task_024_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0048",
+    "chapter_id": "ch06",
+    "question": "创建网格或空间平面失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_024_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0048",
+    "expected_answer_card": "ans_ch06_task_024_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0049",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建平移曲面与旋转曲面？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_025_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0049",
+    "expected_answer_card": "ans_ch06_task_025_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0050",
+    "chapter_id": "ch06",
+    "question": "创建平移曲面与旋转曲面失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_025_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0050",
+    "expected_answer_card": "ans_ch06_task_025_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0051",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建边界曲面并设置标高厚度？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_026_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0051",
+    "expected_answer_card": "ans_ch06_task_026_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0052",
+    "chapter_id": "ch06",
+    "question": "创建边界曲面并设置标高厚度失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_026_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0052",
+    "expected_answer_card": "ans_ch06_task_026_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0053",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何创建长方体与圆柱体？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_027_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0053",
+    "expected_answer_card": "ans_ch06_task_027_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0054",
+    "chapter_id": "ch06",
+    "question": "创建长方体与圆柱体失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_027_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0054",
+    "expected_answer_card": "ans_ch06_task_027_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0055",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何拉伸或旋转二维轮廓生成实体？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_028_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0055",
+    "expected_answer_card": "ans_ch06_task_028_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0056",
+    "chapter_id": "ch06",
+    "question": "拉伸或旋转二维轮廓生成实体失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_028_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0056",
+    "expected_answer_card": "ans_ch06_task_028_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0057",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何使用并集、差集、交集构建组合实体？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_029_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0057",
+    "expected_answer_card": "ans_ch06_task_029_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0058",
+    "chapter_id": "ch06",
+    "question": "使用并集、差集、交集构建组合实体失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_029_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0058",
+    "expected_answer_card": "ans_ch06_task_029_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0059",
+    "chapter_id": "ch06",
+    "question": "AutoCAD如何绘制简易道路标准横断面图？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_030_howto",
+    "must_include": "当前图层;对象选择;基点/坐标;参数单位;结果显示",
+    "must_not_include": "不要整段复制教材命令行提示；不要扩展到未讲授的高级插件。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0059",
+    "expected_answer_card": "ans_ch06_task_030_howto",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "当前图层",
+      "对象选择",
+      "基点/坐标",
+      "参数单位",
+      "结果显示"
+    ],
+    "should_not_include": [
+      "不要整段复制教材命令行提示",
+      "不要扩展到未讲授的高级插件。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0060",
+    "chapter_id": "ch06",
+    "question": "绘制简易道路标准横断面图失败或结果不对怎么办？",
+    "route_expected": "operation_route",
+    "must_hit": "ans_ch06_task_030_error",
+    "must_include": "命令状态;图层锁定/冻结;对象类型;参数值;视图显示",
+    "must_not_include": "不要泛泛地说重新操作；必须给出检查顺序。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0060",
+    "expected_answer_card": "ans_ch06_task_030_error",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "命令状态",
+      "图层锁定/冻结",
+      "对象类型",
+      "参数值",
+      "视图显示"
+    ],
+    "should_not_include": [
+      "不要泛泛地说重新操作",
+      "必须给出检查顺序。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0061",
+    "chapter_id": "ch06",
+    "question": "AutoCAD功能体系是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_001",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0061",
+    "expected_answer_card": "ans_ch06_concept_001",
+    "expected_kps": [
+      "kp_ch06_001"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0062",
+    "chapter_id": "ch06",
+    "question": "AutoCAD功能体系在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_002",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0062",
+    "expected_answer_card": "ans_ch06_concept_002",
+    "expected_kps": [
+      "kp_ch06_001"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0063",
+    "chapter_id": "ch06",
+    "question": "绘图环境与界面是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_003",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0063",
+    "expected_answer_card": "ans_ch06_concept_003",
+    "expected_kps": [
+      "kp_ch06_002"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0064",
+    "chapter_id": "ch06",
+    "question": "绘图环境与界面在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_004",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0064",
+    "expected_answer_card": "ans_ch06_concept_004",
+    "expected_kps": [
+      "kp_ch06_002"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0065",
+    "chapter_id": "ch06",
+    "question": "坐标系统与坐标输入是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_005",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0065",
+    "expected_answer_card": "ans_ch06_concept_005",
+    "expected_kps": [
+      "kp_ch06_003"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0066",
+    "chapter_id": "ch06",
+    "question": "坐标系统与坐标输入在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_006",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0066",
+    "expected_answer_card": "ans_ch06_concept_006",
+    "expected_kps": [
+      "kp_ch06_003"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0067",
+    "chapter_id": "ch06",
+    "question": "模型空间与图纸空间是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_007",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0067",
+    "expected_answer_card": "ans_ch06_concept_007",
+    "expected_kps": [
+      "kp_ch06_004"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0068",
+    "chapter_id": "ch06",
+    "question": "模型空间与图纸空间在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_008",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0068",
+    "expected_answer_card": "ans_ch06_concept_008",
+    "expected_kps": [
+      "kp_ch06_004"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0069",
+    "chapter_id": "ch06",
+    "question": "命令机制与基本绘图是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_009",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0069",
+    "expected_answer_card": "ans_ch06_concept_009",
+    "expected_kps": [
+      "kp_ch06_005"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0070",
+    "chapter_id": "ch06",
+    "question": "命令机制与基本绘图在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_010",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0070",
+    "expected_answer_card": "ans_ch06_concept_010",
+    "expected_kps": [
+      "kp_ch06_005"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0071",
+    "chapter_id": "ch06",
+    "question": "基本绘图命令是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_011",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0071",
+    "expected_answer_card": "ans_ch06_concept_011",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0072",
+    "chapter_id": "ch06",
+    "question": "基本绘图命令在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_012",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0072",
+    "expected_answer_card": "ans_ch06_concept_012",
+    "expected_kps": [
+      "kp_ch06_006"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0073",
+    "chapter_id": "ch06",
+    "question": "图形编辑与修改是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_013",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0073",
+    "expected_answer_card": "ans_ch06_concept_013",
+    "expected_kps": [
+      "kp_ch06_007"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0074",
+    "chapter_id": "ch06",
+    "question": "图形编辑与修改在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_014",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0074",
+    "expected_answer_card": "ans_ch06_concept_014",
+    "expected_kps": [
+      "kp_ch06_007"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0075",
+    "chapter_id": "ch06",
+    "question": "精确定位工具是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_015",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0075",
+    "expected_answer_card": "ans_ch06_concept_015",
+    "expected_kps": [
+      "kp_ch06_008"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0076",
+    "chapter_id": "ch06",
+    "question": "精确定位工具在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_016",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0076",
+    "expected_answer_card": "ans_ch06_concept_016",
+    "expected_kps": [
+      "kp_ch06_008"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0077",
+    "chapter_id": "ch06",
+    "question": "文字标注是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_017",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0077",
+    "expected_answer_card": "ans_ch06_concept_017",
+    "expected_kps": [
+      "kp_ch06_009"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0078",
+    "chapter_id": "ch06",
+    "question": "文字标注在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_018",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0078",
+    "expected_answer_card": "ans_ch06_concept_018",
+    "expected_kps": [
+      "kp_ch06_009"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0079",
+    "chapter_id": "ch06",
+    "question": "尺寸标注是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_019",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0079",
+    "expected_answer_card": "ans_ch06_concept_019",
+    "expected_kps": [
+      "kp_ch06_010"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0080",
+    "chapter_id": "ch06",
+    "question": "尺寸标注在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_020",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0080",
+    "expected_answer_card": "ans_ch06_concept_020",
+    "expected_kps": [
+      "kp_ch06_010"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0081",
+    "chapter_id": "ch06",
+    "question": "图层管理是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_021",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0081",
+    "expected_answer_card": "ans_ch06_concept_021",
+    "expected_kps": [
+      "kp_ch06_011"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0082",
+    "chapter_id": "ch06",
+    "question": "图层管理在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_022",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0082",
+    "expected_answer_card": "ans_ch06_concept_022",
+    "expected_kps": [
+      "kp_ch06_011"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0083",
+    "chapter_id": "ch06",
+    "question": "图块与属性块是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_023",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0083",
+    "expected_answer_card": "ans_ch06_concept_023",
+    "expected_kps": [
+      "kp_ch06_012"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0084",
+    "chapter_id": "ch06",
+    "question": "图块与属性块在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_024",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0084",
+    "expected_answer_card": "ans_ch06_concept_024",
+    "expected_kps": [
+      "kp_ch06_012"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0085",
+    "chapter_id": "ch06",
+    "question": "三维绘图环境与观察是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_025",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0085",
+    "expected_answer_card": "ans_ch06_concept_025",
+    "expected_kps": [
+      "kp_ch06_013"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0086",
+    "chapter_id": "ch06",
+    "question": "三维绘图环境与观察在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_026",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0086",
+    "expected_answer_card": "ans_ch06_concept_026",
+    "expected_kps": [
+      "kp_ch06_013"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0087",
+    "chapter_id": "ch06",
+    "question": "曲面模型创建是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_027",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0087",
+    "expected_answer_card": "ans_ch06_concept_027",
+    "expected_kps": [
+      "kp_ch06_014"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0088",
+    "chapter_id": "ch06",
+    "question": "曲面模型创建在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_028",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0088",
+    "expected_answer_card": "ans_ch06_concept_028",
+    "expected_kps": [
+      "kp_ch06_014"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0089",
+    "chapter_id": "ch06",
+    "question": "实体模型创建与布尔运算是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_029",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0089",
+    "expected_answer_card": "ans_ch06_concept_029",
+    "expected_kps": [
+      "kp_ch06_015"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0090",
+    "chapter_id": "ch06",
+    "question": "实体模型创建与布尔运算在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_030",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0090",
+    "expected_answer_card": "ans_ch06_concept_030",
+    "expected_kps": [
+      "kp_ch06_015"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0091",
+    "chapter_id": "ch06",
+    "question": "道路横断面综合绘图实训是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_031",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0091",
+    "expected_answer_card": "ans_ch06_concept_031",
+    "expected_kps": [
+      "kp_ch06_016"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0092",
+    "chapter_id": "ch06",
+    "question": "道路横断面综合绘图实训在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_032",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0092",
+    "expected_answer_card": "ans_ch06_concept_032",
+    "expected_kps": [
+      "kp_ch06_016"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0093",
+    "chapter_id": "ch06",
+    "question": "绘制直线（LINE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_033",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0093",
+    "expected_answer_card": "ans_ch06_concept_033",
+    "expected_kps": [
+      "kp_ch06_017"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0094",
+    "chapter_id": "ch06",
+    "question": "绘制直线（LINE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_034",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0094",
+    "expected_answer_card": "ans_ch06_concept_034",
+    "expected_kps": [
+      "kp_ch06_017"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0095",
+    "chapter_id": "ch06",
+    "question": "绘制多段线（PLINE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_035",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0095",
+    "expected_answer_card": "ans_ch06_concept_035",
+    "expected_kps": [
+      "kp_ch06_018"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0096",
+    "chapter_id": "ch06",
+    "question": "绘制多段线（PLINE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_036",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0096",
+    "expected_answer_card": "ans_ch06_concept_036",
+    "expected_kps": [
+      "kp_ch06_018"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0097",
+    "chapter_id": "ch06",
+    "question": "绘制圆弧（ARC）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_037",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0097",
+    "expected_answer_card": "ans_ch06_concept_037",
+    "expected_kps": [
+      "kp_ch06_019"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0098",
+    "chapter_id": "ch06",
+    "question": "绘制圆弧（ARC）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_038",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0098",
+    "expected_answer_card": "ans_ch06_concept_038",
+    "expected_kps": [
+      "kp_ch06_019"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0099",
+    "chapter_id": "ch06",
+    "question": "绘制圆（CIRCLE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_039",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0099",
+    "expected_answer_card": "ans_ch06_concept_039",
+    "expected_kps": [
+      "kp_ch06_020"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0100",
+    "chapter_id": "ch06",
+    "question": "绘制圆（CIRCLE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_040",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0100",
+    "expected_answer_card": "ans_ch06_concept_040",
+    "expected_kps": [
+      "kp_ch06_020"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0101",
+    "chapter_id": "ch06",
+    "question": "绘制样条曲线（SPLINE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_041",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0101",
+    "expected_answer_card": "ans_ch06_concept_041",
+    "expected_kps": [
+      "kp_ch06_021"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0102",
+    "chapter_id": "ch06",
+    "question": "绘制样条曲线（SPLINE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_042",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0102",
+    "expected_answer_card": "ans_ch06_concept_042",
+    "expected_kps": [
+      "kp_ch06_021"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0103",
+    "chapter_id": "ch06",
+    "question": "绘制正多边形（POLYGON）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_043",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0103",
+    "expected_answer_card": "ans_ch06_concept_043",
+    "expected_kps": [
+      "kp_ch06_022"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0104",
+    "chapter_id": "ch06",
+    "question": "绘制正多边形（POLYGON）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_044",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0104",
+    "expected_answer_card": "ans_ch06_concept_044",
+    "expected_kps": [
+      "kp_ch06_022"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0105",
+    "chapter_id": "ch06",
+    "question": "绘制矩形（RECTANGLE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_045",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0105",
+    "expected_answer_card": "ans_ch06_concept_045",
+    "expected_kps": [
+      "kp_ch06_023"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0106",
+    "chapter_id": "ch06",
+    "question": "绘制矩形（RECTANGLE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_046",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0106",
+    "expected_answer_card": "ans_ch06_concept_046",
+    "expected_kps": [
+      "kp_ch06_023"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0107",
+    "chapter_id": "ch06",
+    "question": "图案填充（HATCH）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_047",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0107",
+    "expected_answer_card": "ans_ch06_concept_047",
+    "expected_kps": [
+      "kp_ch06_024"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0108",
+    "chapter_id": "ch06",
+    "question": "图案填充（HATCH）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_048",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0108",
+    "expected_answer_card": "ans_ch06_concept_048",
+    "expected_kps": [
+      "kp_ch06_024"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0109",
+    "chapter_id": "ch06",
+    "question": "偏移对象（OFFSET）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_049",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0109",
+    "expected_answer_card": "ans_ch06_concept_049",
+    "expected_kps": [
+      "kp_ch06_025"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0110",
+    "chapter_id": "ch06",
+    "question": "偏移对象（OFFSET）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_050",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0110",
+    "expected_answer_card": "ans_ch06_concept_050",
+    "expected_kps": [
+      "kp_ch06_025"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0111",
+    "chapter_id": "ch06",
+    "question": "移动对象（MOVE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_051",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0111",
+    "expected_answer_card": "ans_ch06_concept_051",
+    "expected_kps": [
+      "kp_ch06_026"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0112",
+    "chapter_id": "ch06",
+    "question": "移动对象（MOVE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_052",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0112",
+    "expected_answer_card": "ans_ch06_concept_052",
+    "expected_kps": [
+      "kp_ch06_026"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0113",
+    "chapter_id": "ch06",
+    "question": "复制对象（COPY）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_053",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0113",
+    "expected_answer_card": "ans_ch06_concept_053",
+    "expected_kps": [
+      "kp_ch06_027"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0114",
+    "chapter_id": "ch06",
+    "question": "复制对象（COPY）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_054",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0114",
+    "expected_answer_card": "ans_ch06_concept_054",
+    "expected_kps": [
+      "kp_ch06_027"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0115",
+    "chapter_id": "ch06",
+    "question": "拉伸对象（STRETCH）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_055",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0115",
+    "expected_answer_card": "ans_ch06_concept_055",
+    "expected_kps": [
+      "kp_ch06_028"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0116",
+    "chapter_id": "ch06",
+    "question": "拉伸对象（STRETCH）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_056",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0116",
+    "expected_answer_card": "ans_ch06_concept_056",
+    "expected_kps": [
+      "kp_ch06_028"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0117",
+    "chapter_id": "ch06",
+    "question": "旋转对象（ROTATE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_057",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0117",
+    "expected_answer_card": "ans_ch06_concept_057",
+    "expected_kps": [
+      "kp_ch06_029"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0118",
+    "chapter_id": "ch06",
+    "question": "旋转对象（ROTATE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_058",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0118",
+    "expected_answer_card": "ans_ch06_concept_058",
+    "expected_kps": [
+      "kp_ch06_029"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0119",
+    "chapter_id": "ch06",
+    "question": "镜像对象（MIRROR）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_059",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0119",
+    "expected_answer_card": "ans_ch06_concept_059",
+    "expected_kps": [
+      "kp_ch06_030"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0120",
+    "chapter_id": "ch06",
+    "question": "镜像对象（MIRROR）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_060",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0120",
+    "expected_answer_card": "ans_ch06_concept_060",
+    "expected_kps": [
+      "kp_ch06_030"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0121",
+    "chapter_id": "ch06",
+    "question": "缩放对象（SCALE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_061",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0121",
+    "expected_answer_card": "ans_ch06_concept_061",
+    "expected_kps": [
+      "kp_ch06_031"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0122",
+    "chapter_id": "ch06",
+    "question": "缩放对象（SCALE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_062",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0122",
+    "expected_answer_card": "ans_ch06_concept_062",
+    "expected_kps": [
+      "kp_ch06_031"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0123",
+    "chapter_id": "ch06",
+    "question": "修剪对象（TRIM）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_063",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0123",
+    "expected_answer_card": "ans_ch06_concept_063",
+    "expected_kps": [
+      "kp_ch06_032"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0124",
+    "chapter_id": "ch06",
+    "question": "修剪对象（TRIM）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_064",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0124",
+    "expected_answer_card": "ans_ch06_concept_064",
+    "expected_kps": [
+      "kp_ch06_032"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0125",
+    "chapter_id": "ch06",
+    "question": "延伸对象（EXTEND）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_065",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0125",
+    "expected_answer_card": "ans_ch06_concept_065",
+    "expected_kps": [
+      "kp_ch06_033"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0126",
+    "chapter_id": "ch06",
+    "question": "延伸对象（EXTEND）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_066",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0126",
+    "expected_answer_card": "ans_ch06_concept_066",
+    "expected_kps": [
+      "kp_ch06_033"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0127",
+    "chapter_id": "ch06",
+    "question": "圆角连接（FILLET）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_067",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0127",
+    "expected_answer_card": "ans_ch06_concept_067",
+    "expected_kps": [
+      "kp_ch06_034"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0128",
+    "chapter_id": "ch06",
+    "question": "圆角连接（FILLET）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_068",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0128",
+    "expected_answer_card": "ans_ch06_concept_068",
+    "expected_kps": [
+      "kp_ch06_034"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0129",
+    "chapter_id": "ch06",
+    "question": "阵列对象（ARRAY）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_069",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0129",
+    "expected_answer_card": "ans_ch06_concept_069",
+    "expected_kps": [
+      "kp_ch06_035"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0130",
+    "chapter_id": "ch06",
+    "question": "阵列对象（ARRAY）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_070",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0130",
+    "expected_answer_card": "ans_ch06_concept_070",
+    "expected_kps": [
+      "kp_ch06_035"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0131",
+    "chapter_id": "ch06",
+    "question": "删除对象（ERASE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_071",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0131",
+    "expected_answer_card": "ans_ch06_concept_071",
+    "expected_kps": [
+      "kp_ch06_036"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0132",
+    "chapter_id": "ch06",
+    "question": "删除对象（ERASE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_072",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0132",
+    "expected_answer_card": "ans_ch06_concept_072",
+    "expected_kps": [
+      "kp_ch06_036"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0133",
+    "chapter_id": "ch06",
+    "question": "分解对象（EXPLODE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_073",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0133",
+    "expected_answer_card": "ans_ch06_concept_073",
+    "expected_kps": [
+      "kp_ch06_037"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0134",
+    "chapter_id": "ch06",
+    "question": "分解对象（EXPLODE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_074",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0134",
+    "expected_answer_card": "ans_ch06_concept_074",
+    "expected_kps": [
+      "kp_ch06_037"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0135",
+    "chapter_id": "ch06",
+    "question": "定距等分对象（MEASURE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_075",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0135",
+    "expected_answer_card": "ans_ch06_concept_075",
+    "expected_kps": [
+      "kp_ch06_038"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0136",
+    "chapter_id": "ch06",
+    "question": "定距等分对象（MEASURE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_076",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0136",
+    "expected_answer_card": "ans_ch06_concept_076",
+    "expected_kps": [
+      "kp_ch06_038"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0137",
+    "chapter_id": "ch06",
+    "question": "定数等分对象（DIVIDE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_077",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0137",
+    "expected_answer_card": "ans_ch06_concept_077",
+    "expected_kps": [
+      "kp_ch06_039"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0138",
+    "chapter_id": "ch06",
+    "question": "定数等分对象（DIVIDE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_078",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0138",
+    "expected_answer_card": "ans_ch06_concept_078",
+    "expected_kps": [
+      "kp_ch06_039"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0139",
+    "chapter_id": "ch06",
+    "question": "单行文字（TEXT）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_079",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0139",
+    "expected_answer_card": "ans_ch06_concept_079",
+    "expected_kps": [
+      "kp_ch06_040"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0140",
+    "chapter_id": "ch06",
+    "question": "单行文字（TEXT）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_080",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0140",
+    "expected_answer_card": "ans_ch06_concept_080",
+    "expected_kps": [
+      "kp_ch06_040"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0141",
+    "chapter_id": "ch06",
+    "question": "多行文字（MTEXT）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_081",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0141",
+    "expected_answer_card": "ans_ch06_concept_081",
+    "expected_kps": [
+      "kp_ch06_041"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0142",
+    "chapter_id": "ch06",
+    "question": "多行文字（MTEXT）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_082",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0142",
+    "expected_answer_card": "ans_ch06_concept_082",
+    "expected_kps": [
+      "kp_ch06_041"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0143",
+    "chapter_id": "ch06",
+    "question": "标注样式管理（DIMSTYLE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_083",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0143",
+    "expected_answer_card": "ans_ch06_concept_083",
+    "expected_kps": [
+      "kp_ch06_042"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0144",
+    "chapter_id": "ch06",
+    "question": "标注样式管理（DIMSTYLE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_084",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0144",
+    "expected_answer_card": "ans_ch06_concept_084",
+    "expected_kps": [
+      "kp_ch06_042"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0145",
+    "chapter_id": "ch06",
+    "question": "线性标注（DIMLINEAR）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_085",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0145",
+    "expected_answer_card": "ans_ch06_concept_085",
+    "expected_kps": [
+      "kp_ch06_043"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0146",
+    "chapter_id": "ch06",
+    "question": "线性标注（DIMLINEAR）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_086",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0146",
+    "expected_answer_card": "ans_ch06_concept_086",
+    "expected_kps": [
+      "kp_ch06_043"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0147",
+    "chapter_id": "ch06",
+    "question": "对齐标注（DIMALIGNED）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_087",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0147",
+    "expected_answer_card": "ans_ch06_concept_087",
+    "expected_kps": [
+      "kp_ch06_044"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0148",
+    "chapter_id": "ch06",
+    "question": "对齐标注（DIMALIGNED）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_088",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0148",
+    "expected_answer_card": "ans_ch06_concept_088",
+    "expected_kps": [
+      "kp_ch06_044"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0149",
+    "chapter_id": "ch06",
+    "question": "半径标注（DIMRADIUS）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_089",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0149",
+    "expected_answer_card": "ans_ch06_concept_089",
+    "expected_kps": [
+      "kp_ch06_045"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0150",
+    "chapter_id": "ch06",
+    "question": "半径标注（DIMRADIUS）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_090",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0150",
+    "expected_answer_card": "ans_ch06_concept_090",
+    "expected_kps": [
+      "kp_ch06_045"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0151",
+    "chapter_id": "ch06",
+    "question": "直径标注（DIMDIAMETER）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_091",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0151",
+    "expected_answer_card": "ans_ch06_concept_091",
+    "expected_kps": [
+      "kp_ch06_046"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0152",
+    "chapter_id": "ch06",
+    "question": "直径标注（DIMDIAMETER）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_092",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0152",
+    "expected_answer_card": "ans_ch06_concept_092",
+    "expected_kps": [
+      "kp_ch06_046"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0153",
+    "chapter_id": "ch06",
+    "question": "角度标注（DIMANGULAR）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_093",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0153",
+    "expected_answer_card": "ans_ch06_concept_093",
+    "expected_kps": [
+      "kp_ch06_047"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0154",
+    "chapter_id": "ch06",
+    "question": "角度标注（DIMANGULAR）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_094",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0154",
+    "expected_answer_card": "ans_ch06_concept_094",
+    "expected_kps": [
+      "kp_ch06_047"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0155",
+    "chapter_id": "ch06",
+    "question": "图层管理（LAYER）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_095",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0155",
+    "expected_answer_card": "ans_ch06_concept_095",
+    "expected_kps": [
+      "kp_ch06_048"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0156",
+    "chapter_id": "ch06",
+    "question": "图层管理（LAYER）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_096",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0156",
+    "expected_answer_card": "ans_ch06_concept_096",
+    "expected_kps": [
+      "kp_ch06_048"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0157",
+    "chapter_id": "ch06",
+    "question": "清理未使用项目（PURGE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_097",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0157",
+    "expected_answer_card": "ans_ch06_concept_097",
+    "expected_kps": [
+      "kp_ch06_049"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0158",
+    "chapter_id": "ch06",
+    "question": "清理未使用项目（PURGE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_098",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0158",
+    "expected_answer_card": "ans_ch06_concept_098",
+    "expected_kps": [
+      "kp_ch06_049"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0159",
+    "chapter_id": "ch06",
+    "question": "定义块（BLOCK）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_099",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0159",
+    "expected_answer_card": "ans_ch06_concept_099",
+    "expected_kps": [
+      "kp_ch06_050"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0160",
+    "chapter_id": "ch06",
+    "question": "定义块（BLOCK）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_100",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0160",
+    "expected_answer_card": "ans_ch06_concept_100",
+    "expected_kps": [
+      "kp_ch06_050"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0161",
+    "chapter_id": "ch06",
+    "question": "插入块（INSERT）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_101",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0161",
+    "expected_answer_card": "ans_ch06_concept_101",
+    "expected_kps": [
+      "kp_ch06_051"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0162",
+    "chapter_id": "ch06",
+    "question": "插入块（INSERT）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_102",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0162",
+    "expected_answer_card": "ans_ch06_concept_102",
+    "expected_kps": [
+      "kp_ch06_051"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0163",
+    "chapter_id": "ch06",
+    "question": "写块（WBLOCK）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_103",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0163",
+    "expected_answer_card": "ans_ch06_concept_103",
+    "expected_kps": [
+      "kp_ch06_052"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0164",
+    "chapter_id": "ch06",
+    "question": "写块（WBLOCK）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_104",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0164",
+    "expected_answer_card": "ans_ch06_concept_104",
+    "expected_kps": [
+      "kp_ch06_052"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0165",
+    "chapter_id": "ch06",
+    "question": "属性定义（ATTDEF）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_105",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0165",
+    "expected_answer_card": "ans_ch06_concept_105",
+    "expected_kps": [
+      "kp_ch06_053"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0166",
+    "chapter_id": "ch06",
+    "question": "属性定义（ATTDEF）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_106",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0166",
+    "expected_answer_card": "ans_ch06_concept_106",
+    "expected_kps": [
+      "kp_ch06_053"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0167",
+    "chapter_id": "ch06",
+    "question": "块属性管理（BATTMAN）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_107",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0167",
+    "expected_answer_card": "ans_ch06_concept_107",
+    "expected_kps": [
+      "kp_ch06_054"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0168",
+    "chapter_id": "ch06",
+    "question": "块属性管理（BATTMAN）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_108",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0168",
+    "expected_answer_card": "ans_ch06_concept_108",
+    "expected_kps": [
+      "kp_ch06_054"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0169",
+    "chapter_id": "ch06",
+    "question": "用户坐标系（UCS）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_109",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0169",
+    "expected_answer_card": "ans_ch06_concept_109",
+    "expected_kps": [
+      "kp_ch06_055"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0170",
+    "chapter_id": "ch06",
+    "question": "用户坐标系（UCS）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_110",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0170",
+    "expected_answer_card": "ans_ch06_concept_110",
+    "expected_kps": [
+      "kp_ch06_055"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0171",
+    "chapter_id": "ch06",
+    "question": "视觉样式（SHADEMODE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_111",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0171",
+    "expected_answer_card": "ans_ch06_concept_111",
+    "expected_kps": [
+      "kp_ch06_056"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0172",
+    "chapter_id": "ch06",
+    "question": "视觉样式（SHADEMODE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_112",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0172",
+    "expected_answer_card": "ans_ch06_concept_112",
+    "expected_kps": [
+      "kp_ch06_056"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0173",
+    "chapter_id": "ch06",
+    "question": "三维动态观察（3DORBIT）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_113",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0173",
+    "expected_answer_card": "ans_ch06_concept_113",
+    "expected_kps": [
+      "kp_ch06_057"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0174",
+    "chapter_id": "ch06",
+    "question": "三维动态观察（3DORBIT）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_114",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0174",
+    "expected_answer_card": "ans_ch06_concept_114",
+    "expected_kps": [
+      "kp_ch06_057"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0175",
+    "chapter_id": "ch06",
+    "question": "设置视点（VPOINT）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_115",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0175",
+    "expected_answer_card": "ans_ch06_concept_115",
+    "expected_kps": [
+      "kp_ch06_058"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0176",
+    "chapter_id": "ch06",
+    "question": "设置视点（VPOINT）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_116",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0176",
+    "expected_answer_card": "ans_ch06_concept_116",
+    "expected_kps": [
+      "kp_ch06_058"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0177",
+    "chapter_id": "ch06",
+    "question": "创建多边形网格（3DMESH）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_117",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0177",
+    "expected_answer_card": "ans_ch06_concept_117",
+    "expected_kps": [
+      "kp_ch06_059"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0178",
+    "chapter_id": "ch06",
+    "question": "创建多边形网格（3DMESH）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_118",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0178",
+    "expected_answer_card": "ans_ch06_concept_118",
+    "expected_kps": [
+      "kp_ch06_059"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0179",
+    "chapter_id": "ch06",
+    "question": "创建空间平面（3DFACE）是什么？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_119",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0179",
+    "expected_answer_card": "ans_ch06_concept_119",
+    "expected_kps": [
+      "kp_ch06_060"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  },
+  {
+    "eval_id": "eval_ch06_0180",
+    "chapter_id": "ch06",
+    "question": "创建空间平面（3DFACE）在道路制图中有什么作用？",
+    "route_expected": "concept_route",
+    "must_hit": "ans_ch06_concept_120",
+    "must_include": "术语定义;操作作用;适用场景",
+    "must_not_include": "不要整段复制教材原文；应使用条目化解释。",
+    "pass_criteria": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "status": "checked",
+    "test_id": "eval_ch06_0180",
+    "expected_answer_card": "ans_ch06_concept_120",
+    "expected_kps": [
+      "kp_ch06_060"
+    ],
+    "expected_answer_points": [
+      "术语定义",
+      "操作作用",
+      "适用场景"
+    ],
+    "should_not_include": [
+      "不要整段复制教材原文",
+      "应使用条目化解释。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "命中正确答案卡；回答条目化；包含检查项；不复制长原文。",
+    "error_reason": ""
+  }
+]

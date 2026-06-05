@@ -1,0 +1,192 @@
+[
+  {
+    "comparison_id": "cmp_ch08_001",
+    "chapter_id": "ch08",
+    "title": "ORD几何与CAD图形",
+    "object_a": "ORD几何",
+    "object_b": "CAD图形",
+    "dimension": "是否保存设计意图",
+    "a_description": "保存创建方法、规则和依赖",
+    "b_description": "通常只保存最终图形位置",
+    "teaching_conclusion": "ORD几何可以联动更新，CAD图形多为静态表达",
+    "related_kps": "",
+    "qa_use": "学生询问ORD几何与CAD图形区别时调用。",
+    "dimensions": [
+      "是否保存设计意图"
+    ],
+    "answer_use": "学生询问ORD几何与CAD图形区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_002",
+    "chapter_id": "ch08",
+    "title": "Geometry、Template与Feature",
+    "object_a": "Geometry",
+    "object_b": "Template / Feature",
+    "dimension": "核心职责",
+    "a_description": "解决空间位置Where",
+    "b_description": "Template解决断面形态，Feature解决对象语义",
+    "teaching_conclusion": "三者共同构成ORD参数化架构",
+    "related_kps": "",
+    "qa_use": "学生询问Geometry、Template与Feature区别时调用。",
+    "dimensions": [
+      "核心职责"
+    ],
+    "answer_use": "学生询问Geometry、Template与Feature区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_003",
+    "chapter_id": "ch08",
+    "title": "交点法与积木法",
+    "object_a": "交点法",
+    "object_b": "积木法",
+    "dimension": "操作逻辑",
+    "a_description": "以交点和曲线参数控制整体线形",
+    "b_description": "以线元逐段拼接复杂组合",
+    "teaching_conclusion": "复杂S型或卵形曲线常需组合使用",
+    "related_kps": "",
+    "qa_use": "学生询问交点法与积木法区别时调用。",
+    "dimensions": [
+      "操作逻辑"
+    ],
+    "answer_use": "学生询问交点法与积木法区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_004",
+    "chapter_id": "ch08",
+    "title": "平面线形与纵断面线形",
+    "object_a": "Alignment",
+    "object_b": "Profile",
+    "dimension": "控制维度",
+    "a_description": "控制道路平面位置",
+    "b_description": "控制道路竖向高程变化",
+    "teaching_conclusion": "廊道基线需要两者共同参与",
+    "related_kps": "",
+    "qa_use": "学生询问平面线形与纵断面线形区别时调用。",
+    "dimensions": [
+      "控制维度"
+    ],
+    "answer_use": "学生询问平面线形与纵断面线形区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_005",
+    "chapter_id": "ch08",
+    "title": "常规点与空点",
+    "object_a": "常规点",
+    "object_b": "空点",
+    "dimension": "是否生成实体构造",
+    "a_description": "参与组件几何边界",
+    "b_description": "不生成实体，多用于控制逻辑",
+    "teaching_conclusion": "空点是复杂模板约束的重要辅助对象",
+    "related_kps": "",
+    "qa_use": "学生询问常规点与空点区别时调用。",
+    "dimensions": [
+      "是否生成实体构造"
+    ],
+    "answer_use": "学生询问常规点与空点区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_006",
+    "chapter_id": "ch08",
+    "title": "约束与末端条件",
+    "object_a": "Constraint",
+    "object_b": "End Condition",
+    "dimension": "作用范围",
+    "a_description": "控制模板内部点间关系",
+    "b_description": "控制模板向地形或目标延伸",
+    "teaching_conclusion": "二者共同决定断面变形和地形适配",
+    "related_kps": "",
+    "qa_use": "学生询问约束与末端条件区别时调用。",
+    "dimensions": [
+      "作用范围"
+    ],
+    "answer_use": "学生询问约束与末端条件区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_007",
+    "chapter_id": "ch08",
+    "title": "自然边坡与挡墙末端条件",
+    "object_a": "自然边坡",
+    "object_b": "挡墙",
+    "dimension": "适用场景",
+    "a_description": "空间允许且坡率满足时采用",
+    "b_description": "放坡受限或地形陡峭时采用",
+    "teaching_conclusion": "通过Priority和目标条件自动选择",
+    "related_kps": "",
+    "qa_use": "学生询问自然边坡与挡墙末端条件区别时调用。",
+    "dimensions": [
+      "适用场景"
+    ],
+    "answer_use": "学生询问自然边坡与挡墙末端条件区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_008",
+    "chapter_id": "ch08",
+    "title": "模板投放与点控制",
+    "object_a": "Template Drop",
+    "object_b": "Point Control",
+    "dimension": "驱动对象",
+    "a_description": "控制整套模板在桩号范围内生成",
+    "b_description": "控制某个模板点随外部线变化",
+    "teaching_conclusion": "局部加宽常依赖点控制",
+    "related_kps": "",
+    "qa_use": "学生询问模板投放与点控制区别时调用。",
+    "dimensions": [
+      "驱动对象"
+    ],
+    "answer_use": "学生询问模板投放与点控制区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_009",
+    "chapter_id": "ch08",
+    "title": "廊道法与线形法生成超高车道",
+    "object_a": "廊道法",
+    "object_b": "线形法",
+    "dimension": "生成依据",
+    "a_description": "基于廊道和模板车道识别",
+    "b_description": "基于路线和边线规则生成",
+    "teaching_conclusion": "车道结构明确时廊道法更直观",
+    "related_kps": "",
+    "qa_use": "学生询问廊道法与线形法生成超高车道区别时调用。",
+    "dimensions": [
+      "生成依据"
+    ],
+    "answer_use": "学生询问廊道法与线形法生成超高车道区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch08_010",
+    "chapter_id": "ch08",
+    "title": "命名边界与普通裁剪框",
+    "object_a": "Named Boundary",
+    "object_b": "普通裁剪框",
+    "dimension": "出图能力",
+    "a_description": "可联动图纸创建、比例和图种",
+    "b_description": "仅控制显示或裁剪范围",
+    "teaching_conclusion": "自动出图应使用命名边界",
+    "related_kps": "",
+    "qa_use": "学生询问命名边界与普通裁剪框区别时调用。",
+    "dimensions": [
+      "出图能力"
+    ],
+    "answer_use": "学生询问命名边界与普通裁剪框区别时调用。",
+    "related_answer_cards": [],
+    "status": "checked"
+  }
+]

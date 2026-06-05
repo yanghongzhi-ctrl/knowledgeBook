@@ -1,0 +1,8 @@
+[
+  {
+    "rule": "禁止把Source_Chunks作为主答案输出",
+    "severity": "high",
+    "guardrail_id": "ch08_guardrail_001",
+    "title": "禁止把Source_Chunks作为主答案输出"
+  }
+]

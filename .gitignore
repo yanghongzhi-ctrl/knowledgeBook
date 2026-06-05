@@ -1,0 +1,39 @@
+# Local runtimes and databases
+.mamba/
+.pgdata/
+.vs/
+.venv/
+venv/
+env/
+node_modules/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets and machine-specific config
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+
+# Generated RAG engine artifacts that can be rebuilt
+output/**/embeddings/
+output/**/db_load/
+output/frontend/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

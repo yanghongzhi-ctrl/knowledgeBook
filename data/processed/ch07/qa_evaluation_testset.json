@@ -1,0 +1,6112 @@
+[
+  {
+    "test_id": "eval_ans_ch07_001",
+    "chapter_id": "ch07",
+    "question": "纬地如何新建纬地项目？",
+    "expected_answer_card": "ans_ch07_001",
+    "expected_kps": [
+      "kp_ch07_task_001",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_002",
+    "chapter_id": "ch07",
+    "question": "新建纬地项目需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_002",
+    "expected_kps": [
+      "kp_ch07_task_001",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_003",
+    "chapter_id": "ch07",
+    "question": "新建纬地项目常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_003",
+    "expected_kps": [
+      "kp_ch07_task_001",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "新建纬地项目无法执行、输出为空或后续模块无法调用。",
+      "新建纬地项目结果异常、图形显示不完整或计算结果不可信。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_004",
+    "chapter_id": "ch07",
+    "question": "纬地如何查看与维护项目管理器？",
+    "expected_answer_card": "ans_ch07_004",
+    "expected_kps": [
+      "kp_ch07_task_002",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_005",
+    "chapter_id": "ch07",
+    "question": "查看与维护项目管理器需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_005",
+    "expected_kps": [
+      "kp_ch07_task_002",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_006",
+    "chapter_id": "ch07",
+    "question": "查看与维护项目管理器常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_006",
+    "expected_kps": [
+      "kp_ch07_task_002",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "查看与维护项目管理器无法执行、输出为空或后续模块无法调用。",
+      "查看与维护项目管理器结果异常、图形显示不完整或计算结果不可信。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_007",
+    "chapter_id": "ch07",
+    "question": "纬地如何导入DWG/DXF高程数据？",
+    "expected_answer_card": "ans_ch07_007",
+    "expected_kps": [
+      "kp_ch07_task_003",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_008",
+    "chapter_id": "ch07",
+    "question": "导入DWG/DXF高程数据需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_008",
+    "expected_kps": [
+      "kp_ch07_task_003",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_009",
+    "chapter_id": "ch07",
+    "question": "导入DWG/DXF高程数据常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_009",
+    "expected_kps": [
+      "kp_ch07_task_003",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "导入DWG/DXF高程数据无法执行、输出为空或后续模块无法调用。",
+      "导入DWG/DXF高程数据结果异常、图形显示不完整或计算结果不可信。",
+      "构网后地形面变形、缺少局部区域或三角形异常。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_010",
+    "chapter_id": "ch07",
+    "question": "纬地如何设置等高线与高程点类型？",
+    "expected_answer_card": "ans_ch07_010",
+    "expected_kps": [
+      "kp_ch07_task_004",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_011",
+    "chapter_id": "ch07",
+    "question": "设置等高线与高程点类型需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_011",
+    "expected_kps": [
+      "kp_ch07_task_004",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_012",
+    "chapter_id": "ch07",
+    "question": "设置等高线与高程点类型常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_012",
+    "expected_kps": [
+      "kp_ch07_task_004",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "设置等高线与高程点类型无法执行、输出为空或后续模块无法调用。",
+      "设置等高线与高程点类型结果异常、图形显示不完整或计算结果不可信。",
+      "构网后地形面变形、缺少局部区域或三角形异常。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_013",
+    "chapter_id": "ch07",
+    "question": "纬地如何三角构网并保存数模？",
+    "expected_answer_card": "ans_ch07_013",
+    "expected_kps": [
+      "kp_ch07_task_005",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_014",
+    "chapter_id": "ch07",
+    "question": "三角构网并保存数模需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_014",
+    "expected_kps": [
+      "kp_ch07_task_005",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_015",
+    "chapter_id": "ch07",
+    "question": "三角构网并保存数模常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_015",
+    "expected_kps": [
+      "kp_ch07_task_005",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "三角构网并保存数模无法执行、输出为空或后续模块无法调用。",
+      "三角构网并保存数模结果异常、图形显示不完整或计算结果不可信。",
+      "构网后地形面变形、缺少局部区域或三角形异常。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_016",
+    "chapter_id": "ch07",
+    "question": "纬地如何优化数模边界和三角网？",
+    "expected_answer_card": "ans_ch07_016",
+    "expected_kps": [
+      "kp_ch07_task_006",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_017",
+    "chapter_id": "ch07",
+    "question": "优化数模边界和三角网需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_017",
+    "expected_kps": [
+      "kp_ch07_task_006",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_018",
+    "chapter_id": "ch07",
+    "question": "优化数模边界和三角网常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_018",
+    "expected_kps": [
+      "kp_ch07_task_006",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "优化数模边界和三角网无法执行、输出为空或后续模块无法调用。",
+      "优化数模边界和三角网结果异常、图形显示不完整或计算结果不可信。",
+      "构网后地形面变形、缺少局部区域或三角形异常。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_019",
+    "chapter_id": "ch07",
+    "question": "EICAD如何新建EICAD项目？",
+    "expected_answer_card": "ans_ch07_019",
+    "expected_kps": [
+      "kp_ch07_task_007",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_020",
+    "chapter_id": "ch07",
+    "question": "新建EICAD项目需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_020",
+    "expected_kps": [
+      "kp_ch07_task_007",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_021",
+    "chapter_id": "ch07",
+    "question": "新建EICAD项目常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_021",
+    "expected_kps": [
+      "kp_ch07_task_007",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "新建EICAD项目无法执行、输出为空或后续模块无法调用。",
+      "新建EICAD项目结果异常、图形显示不完整或计算结果不可信。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_022",
+    "chapter_id": "ch07",
+    "question": "EICAD如何导入或打开项目数据？",
+    "expected_answer_card": "ans_ch07_022",
+    "expected_kps": [
+      "kp_ch07_task_008",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_023",
+    "chapter_id": "ch07",
+    "question": "导入或打开项目数据需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_023",
+    "expected_kps": [
+      "kp_ch07_task_008",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_024",
+    "chapter_id": "ch07",
+    "question": "导入或打开项目数据常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_024",
+    "expected_kps": [
+      "kp_ch07_task_008",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "导入或打开项目数据无法执行、输出为空或后续模块无法调用。",
+      "导入或打开项目数据结果异常、图形显示不完整或计算结果不可信。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_025",
+    "chapter_id": "ch07",
+    "question": "EICAD如何点选方式建立数模？",
+    "expected_answer_card": "ans_ch07_025",
+    "expected_kps": [
+      "kp_ch07_task_009",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_026",
+    "chapter_id": "ch07",
+    "question": "点选方式建立数模需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_026",
+    "expected_kps": [
+      "kp_ch07_task_009",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_027",
+    "chapter_id": "ch07",
+    "question": "点选方式建立数模常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_027",
+    "expected_kps": [
+      "kp_ch07_task_009",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "点选方式建立数模无法执行、输出为空或后续模块无法调用。",
+      "点选方式建立数模结果异常、图形显示不完整或计算结果不可信。",
+      "构网后地形面变形、缺少局部区域或三角形异常。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_028",
+    "chapter_id": "ch07",
+    "question": "EICAD如何排除高程异常并优化数模？",
+    "expected_answer_card": "ans_ch07_028",
+    "expected_kps": [
+      "kp_ch07_task_010",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_029",
+    "chapter_id": "ch07",
+    "question": "排除高程异常并优化数模需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_029",
+    "expected_kps": [
+      "kp_ch07_task_010",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_030",
+    "chapter_id": "ch07",
+    "question": "排除高程异常并优化数模常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_030",
+    "expected_kps": [
+      "kp_ch07_task_010",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "排除高程异常并优化数模无法执行、输出为空或后续模块无法调用。",
+      "排除高程异常并优化数模结果异常、图形显示不完整或计算结果不可信。",
+      "构网后地形面变形、缺少局部区域或三角形异常。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_031",
+    "chapter_id": "ch07",
+    "question": "纬地如何直线型交点法平面定线？",
+    "expected_answer_card": "ans_ch07_031",
+    "expected_kps": [
+      "kp_ch07_task_011",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_032",
+    "chapter_id": "ch07",
+    "question": "直线型交点法平面定线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_032",
+    "expected_kps": [
+      "kp_ch07_task_011",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_033",
+    "chapter_id": "ch07",
+    "question": "直线型交点法平面定线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_033",
+    "expected_kps": [
+      "kp_ch07_task_011",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "直线型交点法平面定线无法执行、输出为空或后续模块无法调用。",
+      "直线型交点法平面定线结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_034",
+    "chapter_id": "ch07",
+    "question": "纬地如何修改平曲线参数？",
+    "expected_answer_card": "ans_ch07_034",
+    "expected_kps": [
+      "kp_ch07_task_012",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_035",
+    "chapter_id": "ch07",
+    "question": "修改平曲线参数需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_035",
+    "expected_kps": [
+      "kp_ch07_task_012",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_036",
+    "chapter_id": "ch07",
+    "question": "修改平曲线参数常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_036",
+    "expected_kps": [
+      "kp_ch07_task_012",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "修改平曲线参数无法执行、输出为空或后续模块无法调用。",
+      "修改平曲线参数结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_037",
+    "chapter_id": "ch07",
+    "question": "纬地如何设计S型曲线组合？",
+    "expected_answer_card": "ans_ch07_037",
+    "expected_kps": [
+      "kp_ch07_task_013",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_038",
+    "chapter_id": "ch07",
+    "question": "设计S型曲线组合需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_038",
+    "expected_kps": [
+      "kp_ch07_task_013",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_039",
+    "chapter_id": "ch07",
+    "question": "设计S型曲线组合常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_039",
+    "expected_kps": [
+      "kp_ch07_task_013",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "设计S型曲线组合无法执行、输出为空或后续模块无法调用。",
+      "设计S型曲线组合结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_040",
+    "chapter_id": "ch07",
+    "question": "纬地如何设计卵形曲线组合？",
+    "expected_answer_card": "ans_ch07_040",
+    "expected_kps": [
+      "kp_ch07_task_014",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_041",
+    "chapter_id": "ch07",
+    "question": "设计卵形曲线组合需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_041",
+    "expected_kps": [
+      "kp_ch07_task_014",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_042",
+    "chapter_id": "ch07",
+    "question": "设计卵形曲线组合常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_042",
+    "expected_kps": [
+      "kp_ch07_task_014",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "设计卵形曲线组合无法执行、输出为空或后续模块无法调用。",
+      "设计卵形曲线组合结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_043",
+    "chapter_id": "ch07",
+    "question": "纬地如何设计C型曲线与回头曲线？",
+    "expected_answer_card": "ans_ch07_043",
+    "expected_kps": [
+      "kp_ch07_task_015",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_044",
+    "chapter_id": "ch07",
+    "question": "设计C型曲线与回头曲线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_044",
+    "expected_kps": [
+      "kp_ch07_task_015",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_045",
+    "chapter_id": "ch07",
+    "question": "设计C型曲线与回头曲线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_045",
+    "expected_kps": [
+      "kp_ch07_task_015",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "设计C型曲线与回头曲线无法执行、输出为空或后续模块无法调用。",
+      "设计C型曲线与回头曲线结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_046",
+    "chapter_id": "ch07",
+    "question": "纬地如何互通匝道文件控制接线？",
+    "expected_answer_card": "ans_ch07_046",
+    "expected_kps": [
+      "kp_ch07_task_016",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_047",
+    "chapter_id": "ch07",
+    "question": "互通匝道文件控制接线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_047",
+    "expected_kps": [
+      "kp_ch07_task_016",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_048",
+    "chapter_id": "ch07",
+    "question": "互通匝道文件控制接线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_048",
+    "expected_kps": [
+      "kp_ch07_task_016",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "互通匝道文件控制接线无法执行、输出为空或后续模块无法调用。",
+      "互通匝道文件控制接线结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_049",
+    "chapter_id": "ch07",
+    "question": "纬地如何互通匝道圆+缓+直接线？",
+    "expected_answer_card": "ans_ch07_049",
+    "expected_kps": [
+      "kp_ch07_task_017",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_050",
+    "chapter_id": "ch07",
+    "question": "互通匝道圆+缓+直接线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_050",
+    "expected_kps": [
+      "kp_ch07_task_017",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_051",
+    "chapter_id": "ch07",
+    "question": "互通匝道圆+缓+直接线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_051",
+    "expected_kps": [
+      "kp_ch07_task_017",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "互通匝道圆+缓+直接线无法执行、输出为空或后续模块无法调用。",
+      "互通匝道圆+缓+直接线结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_052",
+    "chapter_id": "ch07",
+    "question": "纬地如何积木法构造匝道线形？",
+    "expected_answer_card": "ans_ch07_052",
+    "expected_kps": [
+      "kp_ch07_task_018",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_053",
+    "chapter_id": "ch07",
+    "question": "积木法构造匝道线形需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_053",
+    "expected_kps": [
+      "kp_ch07_task_018",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_054",
+    "chapter_id": "ch07",
+    "question": "积木法构造匝道线形常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_054",
+    "expected_kps": [
+      "kp_ch07_task_018",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "积木法构造匝道线形无法执行、输出为空或后续模块无法调用。",
+      "积木法构造匝道线形结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_055",
+    "chapter_id": "ch07",
+    "question": "EICAD如何EICAD直线单元设计？",
+    "expected_answer_card": "ans_ch07_055",
+    "expected_kps": [
+      "kp_ch07_task_019",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_056",
+    "chapter_id": "ch07",
+    "question": "EICAD直线单元设计需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_056",
+    "expected_kps": [
+      "kp_ch07_task_019",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_057",
+    "chapter_id": "ch07",
+    "question": "EICAD直线单元设计常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_057",
+    "expected_kps": [
+      "kp_ch07_task_019",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "EICAD直线单元设计无法执行、输出为空或后续模块无法调用。",
+      "EICAD直线单元设计结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_058",
+    "chapter_id": "ch07",
+    "question": "EICAD如何EICAD圆曲线单元设计？",
+    "expected_answer_card": "ans_ch07_058",
+    "expected_kps": [
+      "kp_ch07_task_020",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_059",
+    "chapter_id": "ch07",
+    "question": "EICAD圆曲线单元设计需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_059",
+    "expected_kps": [
+      "kp_ch07_task_020",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_060",
+    "chapter_id": "ch07",
+    "question": "EICAD圆曲线单元设计常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_060",
+    "expected_kps": [
+      "kp_ch07_task_020",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "EICAD圆曲线单元设计无法执行、输出为空或后续模块无法调用。",
+      "EICAD圆曲线单元设计结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_061",
+    "chapter_id": "ch07",
+    "question": "EICAD如何EICAD缓和曲线单元设计？",
+    "expected_answer_card": "ans_ch07_061",
+    "expected_kps": [
+      "kp_ch07_task_021",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_062",
+    "chapter_id": "ch07",
+    "question": "EICAD缓和曲线单元设计需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_062",
+    "expected_kps": [
+      "kp_ch07_task_021",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_063",
+    "chapter_id": "ch07",
+    "question": "EICAD缓和曲线单元设计常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_063",
+    "expected_kps": [
+      "kp_ch07_task_021",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "EICAD缓和曲线单元设计无法执行、输出为空或后续模块无法调用。",
+      "EICAD缓和曲线单元设计结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_064",
+    "chapter_id": "ch07",
+    "question": "EICAD如何连接两缓和曲线？",
+    "expected_answer_card": "ans_ch07_064",
+    "expected_kps": [
+      "kp_ch07_task_022",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_065",
+    "chapter_id": "ch07",
+    "question": "连接两缓和曲线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_065",
+    "expected_kps": [
+      "kp_ch07_task_022",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_066",
+    "chapter_id": "ch07",
+    "question": "连接两缓和曲线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_066",
+    "expected_kps": [
+      "kp_ch07_task_022",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "连接两缓和曲线无法执行、输出为空或后续模块无法调用。",
+      "连接两缓和曲线结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_067",
+    "chapter_id": "ch07",
+    "question": "EICAD如何基本模式法圆圆模式设计？",
+    "expected_answer_card": "ans_ch07_067",
+    "expected_kps": [
+      "kp_ch07_task_023",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_068",
+    "chapter_id": "ch07",
+    "question": "基本模式法圆圆模式设计需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_068",
+    "expected_kps": [
+      "kp_ch07_task_023",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_069",
+    "chapter_id": "ch07",
+    "question": "基本模式法圆圆模式设计常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_069",
+    "expected_kps": [
+      "kp_ch07_task_023",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "基本模式法圆圆模式设计无法执行、输出为空或后续模块无法调用。",
+      "基本模式法圆圆模式设计结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_070",
+    "chapter_id": "ch07",
+    "question": "EICAD如何扩展模式法立交匝道设计？",
+    "expected_answer_card": "ans_ch07_070",
+    "expected_kps": [
+      "kp_ch07_task_024",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_071",
+    "chapter_id": "ch07",
+    "question": "扩展模式法立交匝道设计需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_071",
+    "expected_kps": [
+      "kp_ch07_task_024",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_072",
+    "chapter_id": "ch07",
+    "question": "扩展模式法立交匝道设计常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_072",
+    "expected_kps": [
+      "kp_ch07_task_024",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "扩展模式法立交匝道设计无法执行、输出为空或后续模块无法调用。",
+      "扩展模式法立交匝道设计结果异常、图形显示不完整或计算结果不可信。",
+      "路线或匝道出现断裂、反向异常或曲线组合不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_073",
+    "chapter_id": "ch07",
+    "question": "纬地如何生成桩号文件？",
+    "expected_answer_card": "ans_ch07_073",
+    "expected_kps": [
+      "kp_ch07_task_025",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_074",
+    "chapter_id": "ch07",
+    "question": "生成桩号文件需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_074",
+    "expected_kps": [
+      "kp_ch07_task_025",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_075",
+    "chapter_id": "ch07",
+    "question": "生成桩号文件常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_075",
+    "expected_kps": [
+      "kp_ch07_task_025",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "生成桩号文件无法执行、输出为空或后续模块无法调用。",
+      "生成桩号文件结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_076",
+    "chapter_id": "ch07",
+    "question": "纬地如何数模内插纵断面地面线？",
+    "expected_answer_card": "ans_ch07_076",
+    "expected_kps": [
+      "kp_ch07_task_026",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_077",
+    "chapter_id": "ch07",
+    "question": "数模内插纵断面地面线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_077",
+    "expected_kps": [
+      "kp_ch07_task_026",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_078",
+    "chapter_id": "ch07",
+    "question": "数模内插纵断面地面线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_078",
+    "expected_kps": [
+      "kp_ch07_task_026",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "数模内插纵断面地面线无法执行、输出为空或后续模块无法调用。",
+      "数模内插纵断面地面线结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_079",
+    "chapter_id": "ch07",
+    "question": "纬地如何手工输入或修改纵断面地面线？",
+    "expected_answer_card": "ans_ch07_079",
+    "expected_kps": [
+      "kp_ch07_task_027",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_080",
+    "chapter_id": "ch07",
+    "question": "手工输入或修改纵断面地面线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_080",
+    "expected_kps": [
+      "kp_ch07_task_027",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_081",
+    "chapter_id": "ch07",
+    "question": "手工输入或修改纵断面地面线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_081",
+    "expected_kps": [
+      "kp_ch07_task_027",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "手工输入或修改纵断面地面线无法执行、输出为空或后续模块无法调用。",
+      "手工输入或修改纵断面地面线结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_082",
+    "chapter_id": "ch07",
+    "question": "纬地如何输入桥梁涵洞通道控制点？",
+    "expected_answer_card": "ans_ch07_082",
+    "expected_kps": [
+      "kp_ch07_task_028",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_083",
+    "chapter_id": "ch07",
+    "question": "输入桥梁涵洞通道控制点需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_083",
+    "expected_kps": [
+      "kp_ch07_task_028",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_084",
+    "chapter_id": "ch07",
+    "question": "输入桥梁涵洞通道控制点常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_084",
+    "expected_kps": [
+      "kp_ch07_task_028",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "输入桥梁涵洞通道控制点无法执行、输出为空或后续模块无法调用。",
+      "输入桥梁涵洞通道控制点结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_085",
+    "chapter_id": "ch07",
+    "question": "纬地如何创建纵断面拉坡图？",
+    "expected_answer_card": "ans_ch07_085",
+    "expected_kps": [
+      "kp_ch07_task_029",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_086",
+    "chapter_id": "ch07",
+    "question": "创建纵断面拉坡图需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_086",
+    "expected_kps": [
+      "kp_ch07_task_029",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_087",
+    "chapter_id": "ch07",
+    "question": "创建纵断面拉坡图常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_087",
+    "expected_kps": [
+      "kp_ch07_task_029",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "创建纵断面拉坡图无法执行、输出为空或后续模块无法调用。",
+      "创建纵断面拉坡图结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_088",
+    "chapter_id": "ch07",
+    "question": "纬地如何交互式设置变坡点？",
+    "expected_answer_card": "ans_ch07_088",
+    "expected_kps": [
+      "kp_ch07_task_030",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_089",
+    "chapter_id": "ch07",
+    "question": "交互式设置变坡点需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_089",
+    "expected_kps": [
+      "kp_ch07_task_030",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_090",
+    "chapter_id": "ch07",
+    "question": "交互式设置变坡点常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_090",
+    "expected_kps": [
+      "kp_ch07_task_030",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "交互式设置变坡点无法执行、输出为空或后续模块无法调用。",
+      "交互式设置变坡点结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_091",
+    "chapter_id": "ch07",
+    "question": "纬地如何修改变坡点与竖曲线半径？",
+    "expected_answer_card": "ans_ch07_091",
+    "expected_kps": [
+      "kp_ch07_task_031",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_092",
+    "chapter_id": "ch07",
+    "question": "修改变坡点与竖曲线半径需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_092",
+    "expected_kps": [
+      "kp_ch07_task_031",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_093",
+    "chapter_id": "ch07",
+    "question": "修改变坡点与竖曲线半径常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_093",
+    "expected_kps": [
+      "kp_ch07_task_031",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "修改变坡点与竖曲线半径无法执行、输出为空或后续模块无法调用。",
+      "修改变坡点与竖曲线半径结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_094",
+    "chapter_id": "ch07",
+    "question": "EICAD如何输出纵横地面线？",
+    "expected_answer_card": "ans_ch07_094",
+    "expected_kps": [
+      "kp_ch07_task_032",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_095",
+    "chapter_id": "ch07",
+    "question": "输出纵横地面线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_095",
+    "expected_kps": [
+      "kp_ch07_task_032",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_096",
+    "chapter_id": "ch07",
+    "question": "输出纵横地面线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_096",
+    "expected_kps": [
+      "kp_ch07_task_032",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "输出纵横地面线无法执行、输出为空或后续模块无法调用。",
+      "输出纵横地面线结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_097",
+    "chapter_id": "ch07",
+    "question": "EICAD如何创建拉坡图？",
+    "expected_answer_card": "ans_ch07_097",
+    "expected_kps": [
+      "kp_ch07_task_033",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_098",
+    "chapter_id": "ch07",
+    "question": "创建拉坡图需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_098",
+    "expected_kps": [
+      "kp_ch07_task_033",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_099",
+    "chapter_id": "ch07",
+    "question": "创建拉坡图常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_099",
+    "expected_kps": [
+      "kp_ch07_task_033",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "创建拉坡图无法执行、输出为空或后续模块无法调用。",
+      "创建拉坡图结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_100",
+    "chapter_id": "ch07",
+    "question": "EICAD如何输入拉坡控制点？",
+    "expected_answer_card": "ans_ch07_100",
+    "expected_kps": [
+      "kp_ch07_task_034",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_101",
+    "chapter_id": "ch07",
+    "question": "输入拉坡控制点需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_101",
+    "expected_kps": [
+      "kp_ch07_task_034",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_102",
+    "chapter_id": "ch07",
+    "question": "输入拉坡控制点常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_102",
+    "expected_kps": [
+      "kp_ch07_task_034",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "输入拉坡控制点无法执行、输出为空或后续模块无法调用。",
+      "输入拉坡控制点结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_103",
+    "chapter_id": "ch07",
+    "question": "EICAD如何自动拉坡设计？",
+    "expected_answer_card": "ans_ch07_103",
+    "expected_kps": [
+      "kp_ch07_task_035",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_104",
+    "chapter_id": "ch07",
+    "question": "自动拉坡设计需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_104",
+    "expected_kps": [
+      "kp_ch07_task_035",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_105",
+    "chapter_id": "ch07",
+    "question": "自动拉坡设计常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_105",
+    "expected_kps": [
+      "kp_ch07_task_035",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "自动拉坡设计无法执行、输出为空或后续模块无法调用。",
+      "自动拉坡设计结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_106",
+    "chapter_id": "ch07",
+    "question": "EICAD如何手工拉坡与夹点调整？",
+    "expected_answer_card": "ans_ch07_106",
+    "expected_kps": [
+      "kp_ch07_task_036",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_107",
+    "chapter_id": "ch07",
+    "question": "手工拉坡与夹点调整需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_107",
+    "expected_kps": [
+      "kp_ch07_task_036",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_108",
+    "chapter_id": "ch07",
+    "question": "手工拉坡与夹点调整常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_108",
+    "expected_kps": [
+      "kp_ch07_task_036",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "手工拉坡与夹点调整无法执行、输出为空或后续模块无法调用。",
+      "手工拉坡与夹点调整结果异常、图形显示不完整或计算结果不可信。",
+      "纵断面设计线局部突变或竖曲线无法正确显示。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_109",
+    "chapter_id": "ch07",
+    "question": "纬地如何输入横断面地面线？",
+    "expected_answer_card": "ans_ch07_109",
+    "expected_kps": [
+      "kp_ch07_task_037",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_110",
+    "chapter_id": "ch07",
+    "question": "输入横断面地面线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_110",
+    "expected_kps": [
+      "kp_ch07_task_037",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_111",
+    "chapter_id": "ch07",
+    "question": "输入横断面地面线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_111",
+    "expected_kps": [
+      "kp_ch07_task_037",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "输入横断面地面线无法执行、输出为空或后续模块无法调用。",
+      "输入横断面地面线结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_112",
+    "chapter_id": "ch07",
+    "question": "纬地如何数模内插横断面地面线？",
+    "expected_answer_card": "ans_ch07_112",
+    "expected_kps": [
+      "kp_ch07_task_038",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_113",
+    "chapter_id": "ch07",
+    "question": "数模内插横断面地面线需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_113",
+    "expected_kps": [
+      "kp_ch07_task_038",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_114",
+    "chapter_id": "ch07",
+    "question": "数模内插横断面地面线常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_114",
+    "expected_kps": [
+      "kp_ch07_task_038",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "数模内插横断面地面线无法执行、输出为空或后续模块无法调用。",
+      "数模内插横断面地面线结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_115",
+    "chapter_id": "ch07",
+    "question": "纬地如何运行设计向导定义标准横断面？",
+    "expected_answer_card": "ans_ch07_115",
+    "expected_kps": [
+      "kp_ch07_task_039",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_116",
+    "chapter_id": "ch07",
+    "question": "运行设计向导定义标准横断面需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_116",
+    "expected_kps": [
+      "kp_ch07_task_039",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_117",
+    "chapter_id": "ch07",
+    "question": "运行设计向导定义标准横断面常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_117",
+    "expected_kps": [
+      "kp_ch07_task_039",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "运行设计向导定义标准横断面无法执行、输出为空或后续模块无法调用。",
+      "运行设计向导定义标准横断面结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_118",
+    "chapter_id": "ch07",
+    "question": "纬地如何自动计算超高加宽？",
+    "expected_answer_card": "ans_ch07_118",
+    "expected_kps": [
+      "kp_ch07_task_040",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_119",
+    "chapter_id": "ch07",
+    "question": "自动计算超高加宽需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_119",
+    "expected_kps": [
+      "kp_ch07_task_040",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_120",
+    "chapter_id": "ch07",
+    "question": "自动计算超高加宽常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_120",
+    "expected_kps": [
+      "kp_ch07_task_040",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "自动计算超高加宽无法执行、输出为空或后续模块无法调用。",
+      "自动计算超高加宽结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_121",
+    "chapter_id": "ch07",
+    "question": "纬地如何路基设计计算？",
+    "expected_answer_card": "ans_ch07_121",
+    "expected_kps": [
+      "kp_ch07_task_041",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_122",
+    "chapter_id": "ch07",
+    "question": "路基设计计算需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_122",
+    "expected_kps": [
+      "kp_ch07_task_041",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_123",
+    "chapter_id": "ch07",
+    "question": "路基设计计算常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_123",
+    "expected_kps": [
+      "kp_ch07_task_041",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "路基设计计算无法执行、输出为空或后续模块无法调用。",
+      "路基设计计算结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_124",
+    "chapter_id": "ch07",
+    "question": "纬地如何录入支挡防护工程？",
+    "expected_answer_card": "ans_ch07_124",
+    "expected_kps": [
+      "kp_ch07_task_042",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_125",
+    "chapter_id": "ch07",
+    "question": "录入支挡防护工程需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_125",
+    "expected_kps": [
+      "kp_ch07_task_042",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_126",
+    "chapter_id": "ch07",
+    "question": "录入支挡防护工程常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_126",
+    "expected_kps": [
+      "kp_ch07_task_042",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "录入支挡防护工程无法执行、输出为空或后续模块无法调用。",
+      "录入支挡防护工程结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_127",
+    "chapter_id": "ch07",
+    "question": "纬地如何横断面设计绘图与戴帽？",
+    "expected_answer_card": "ans_ch07_127",
+    "expected_kps": [
+      "kp_ch07_task_043",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_128",
+    "chapter_id": "ch07",
+    "question": "横断面设计绘图与戴帽需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_128",
+    "expected_kps": [
+      "kp_ch07_task_043",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_129",
+    "chapter_id": "ch07",
+    "question": "横断面设计绘图与戴帽常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_129",
+    "expected_kps": [
+      "kp_ch07_task_043",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "横断面设计绘图与戴帽无法执行、输出为空或后续模块无法调用。",
+      "横断面设计绘图与戴帽结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_130",
+    "chapter_id": "ch07",
+    "question": "纬地如何横断面交互修改？",
+    "expected_answer_card": "ans_ch07_130",
+    "expected_kps": [
+      "kp_ch07_task_044",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_131",
+    "chapter_id": "ch07",
+    "question": "横断面交互修改需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_131",
+    "expected_kps": [
+      "kp_ch07_task_044",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_132",
+    "chapter_id": "ch07",
+    "question": "横断面交互修改常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_132",
+    "expected_kps": [
+      "kp_ch07_task_044",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "横断面交互修改无法执行、输出为空或后续模块无法调用。",
+      "横断面交互修改结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_133",
+    "chapter_id": "ch07",
+    "question": "EICAD如何创建路基模板？",
+    "expected_answer_card": "ans_ch07_133",
+    "expected_kps": [
+      "kp_ch07_task_045",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_134",
+    "chapter_id": "ch07",
+    "question": "创建路基模板需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_134",
+    "expected_kps": [
+      "kp_ch07_task_045",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_135",
+    "chapter_id": "ch07",
+    "question": "创建路基模板常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_135",
+    "expected_kps": [
+      "kp_ch07_task_045",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "创建路基模板无法执行、输出为空或后续模块无法调用。",
+      "创建路基模板结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_136",
+    "chapter_id": "ch07",
+    "question": "EICAD如何创建边坡模板？",
+    "expected_answer_card": "ans_ch07_136",
+    "expected_kps": [
+      "kp_ch07_task_046",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_137",
+    "chapter_id": "ch07",
+    "question": "创建边坡模板需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_137",
+    "expected_kps": [
+      "kp_ch07_task_046",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_138",
+    "chapter_id": "ch07",
+    "question": "创建边坡模板常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_138",
+    "expected_kps": [
+      "kp_ch07_task_046",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "创建边坡模板无法执行、输出为空或后续模块无法调用。",
+      "创建边坡模板结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_139",
+    "chapter_id": "ch07",
+    "question": "EICAD如何创建边沟与截水沟模板？",
+    "expected_answer_card": "ans_ch07_139",
+    "expected_kps": [
+      "kp_ch07_task_047",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_140",
+    "chapter_id": "ch07",
+    "question": "创建边沟与截水沟模板需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_140",
+    "expected_kps": [
+      "kp_ch07_task_047",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_141",
+    "chapter_id": "ch07",
+    "question": "创建边沟与截水沟模板常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_141",
+    "expected_kps": [
+      "kp_ch07_task_047",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "创建边沟与截水沟模板无法执行、输出为空或后续模块无法调用。",
+      "创建边沟与截水沟模板结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_142",
+    "chapter_id": "ch07",
+    "question": "EICAD如何生成和修改超高渐变图？",
+    "expected_answer_card": "ans_ch07_142",
+    "expected_kps": [
+      "kp_ch07_task_048",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_143",
+    "chapter_id": "ch07",
+    "question": "生成和修改超高渐变图需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_143",
+    "expected_kps": [
+      "kp_ch07_task_048",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_144",
+    "chapter_id": "ch07",
+    "question": "生成和修改超高渐变图常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_144",
+    "expected_kps": [
+      "kp_ch07_task_048",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "生成和修改超高渐变图无法执行、输出为空或后续模块无法调用。",
+      "生成和修改超高渐变图结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_145",
+    "chapter_id": "ch07",
+    "question": "EICAD如何执行横断面戴帽设计？",
+    "expected_answer_card": "ans_ch07_145",
+    "expected_kps": [
+      "kp_ch07_task_049",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_146",
+    "chapter_id": "ch07",
+    "question": "执行横断面戴帽设计需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_146",
+    "expected_kps": [
+      "kp_ch07_task_049",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_147",
+    "chapter_id": "ch07",
+    "question": "执行横断面戴帽设计常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_147",
+    "expected_kps": [
+      "kp_ch07_task_049",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "执行横断面戴帽设计无法执行、输出为空或后续模块无法调用。",
+      "执行横断面戴帽设计结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_148",
+    "chapter_id": "ch07",
+    "question": "EICAD如何查看与绘制横断面成果？",
+    "expected_answer_card": "ans_ch07_148",
+    "expected_kps": [
+      "kp_ch07_task_050",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_149",
+    "chapter_id": "ch07",
+    "question": "查看与绘制横断面成果需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_149",
+    "expected_kps": [
+      "kp_ch07_task_050",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_150",
+    "chapter_id": "ch07",
+    "question": "查看与绘制横断面成果常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_150",
+    "expected_kps": [
+      "kp_ch07_task_050",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "查看与绘制横断面成果无法执行、输出为空或后续模块无法调用。",
+      "查看与绘制横断面成果结果异常、图形显示不完整或计算结果不可信。",
+      "个别桩号断面无法生成或边坡边沟与地面线不相交。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_151",
+    "chapter_id": "ch07",
+    "question": "EICAD如何土石方调配数据预处理？",
+    "expected_answer_card": "ans_ch07_151",
+    "expected_kps": [
+      "kp_ch07_task_051",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_152",
+    "chapter_id": "ch07",
+    "question": "土石方调配数据预处理需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_152",
+    "expected_kps": [
+      "kp_ch07_task_051",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_153",
+    "chapter_id": "ch07",
+    "question": "土石方调配数据预处理常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_153",
+    "expected_kps": [
+      "kp_ch07_task_051",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "土石方调配数据预处理无法执行、输出为空或后续模块无法调用。",
+      "土石方调配数据预处理结果异常、图形显示不完整或计算结果不可信。",
+      "土方块位置、挖余填缺或运输路径不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_154",
+    "chapter_id": "ch07",
+    "question": "EICAD如何设置构造物运距？",
+    "expected_answer_card": "ans_ch07_154",
+    "expected_kps": [
+      "kp_ch07_task_052",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_155",
+    "chapter_id": "ch07",
+    "question": "设置构造物运距需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_155",
+    "expected_kps": [
+      "kp_ch07_task_052",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_156",
+    "chapter_id": "ch07",
+    "question": "设置构造物运距常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_156",
+    "expected_kps": [
+      "kp_ch07_task_052",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "设置构造物运距无法执行、输出为空或后续模块无法调用。",
+      "设置构造物运距结果异常、图形显示不完整或计算结果不可信。",
+      "土方块位置、挖余填缺或运输路径不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_157",
+    "chapter_id": "ch07",
+    "question": "EICAD如何绘制土石方调配成果？",
+    "expected_answer_card": "ans_ch07_157",
+    "expected_kps": [
+      "kp_ch07_task_053",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_158",
+    "chapter_id": "ch07",
+    "question": "绘制土石方调配成果需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_158",
+    "expected_kps": [
+      "kp_ch07_task_053",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_159",
+    "chapter_id": "ch07",
+    "question": "绘制土石方调配成果常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_159",
+    "expected_kps": [
+      "kp_ch07_task_053",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "绘制土石方调配成果无法执行、输出为空或后续模块无法调用。",
+      "绘制土石方调配成果结果异常、图形显示不完整或计算结果不可信。",
+      "土方块位置、挖余填缺或运输路径不合理。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_160",
+    "chapter_id": "ch07",
+    "question": "纬地如何管理图框和表格模板？",
+    "expected_answer_card": "ans_ch07_160",
+    "expected_kps": [
+      "kp_ch07_task_054",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_161",
+    "chapter_id": "ch07",
+    "question": "管理图框和表格模板需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_161",
+    "expected_kps": [
+      "kp_ch07_task_054",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_162",
+    "chapter_id": "ch07",
+    "question": "管理图框和表格模板常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_162",
+    "expected_kps": [
+      "kp_ch07_task_054",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "管理图框和表格模板无法执行、输出为空或后续模块无法调用。",
+      "管理图框和表格模板结果异常、图形显示不完整或计算结果不可信。",
+      "图纸中的项目名称、比例、日期或表格字段不符合要求。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_163",
+    "chapter_id": "ch07",
+    "question": "纬地如何生成路线平面图？",
+    "expected_answer_card": "ans_ch07_163",
+    "expected_kps": [
+      "kp_ch07_task_055",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_164",
+    "chapter_id": "ch07",
+    "question": "生成路线平面图需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_164",
+    "expected_kps": [
+      "kp_ch07_task_055",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_165",
+    "chapter_id": "ch07",
+    "question": "生成路线平面图常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_165",
+    "expected_kps": [
+      "kp_ch07_task_055",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "生成路线平面图无法执行、输出为空或后续模块无法调用。",
+      "生成路线平面图结果异常、图形显示不完整或计算结果不可信。",
+      "图纸中的项目名称、比例、日期或表格字段不符合要求。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_166",
+    "chapter_id": "ch07",
+    "question": "纬地如何生成纵断面设计图？",
+    "expected_answer_card": "ans_ch07_166",
+    "expected_kps": [
+      "kp_ch07_task_056",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_167",
+    "chapter_id": "ch07",
+    "question": "生成纵断面设计图需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_167",
+    "expected_kps": [
+      "kp_ch07_task_056",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_168",
+    "chapter_id": "ch07",
+    "question": "生成纵断面设计图常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_168",
+    "expected_kps": [
+      "kp_ch07_task_056",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "生成纵断面设计图无法执行、输出为空或后续模块无法调用。",
+      "生成纵断面设计图结果异常、图形显示不完整或计算结果不可信。",
+      "图纸中的项目名称、比例、日期或表格字段不符合要求。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_169",
+    "chapter_id": "ch07",
+    "question": "纬地如何生成横断面设计图？",
+    "expected_answer_card": "ans_ch07_169",
+    "expected_kps": [
+      "kp_ch07_task_057",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_170",
+    "chapter_id": "ch07",
+    "question": "生成横断面设计图需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_170",
+    "expected_kps": [
+      "kp_ch07_task_057",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_171",
+    "chapter_id": "ch07",
+    "question": "生成横断面设计图常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_171",
+    "expected_kps": [
+      "kp_ch07_task_057",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "生成横断面设计图无法执行、输出为空或后续模块无法调用。",
+      "生成横断面设计图结果异常、图形显示不完整或计算结果不可信。",
+      "图纸中的项目名称、比例、日期或表格字段不符合要求。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_172",
+    "chapter_id": "ch07",
+    "question": "纬地如何输出设计表格？",
+    "expected_answer_card": "ans_ch07_172",
+    "expected_kps": [
+      "kp_ch07_task_058",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_173",
+    "chapter_id": "ch07",
+    "question": "输出设计表格需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_173",
+    "expected_kps": [
+      "kp_ch07_task_058",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_174",
+    "chapter_id": "ch07",
+    "question": "输出设计表格常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_174",
+    "expected_kps": [
+      "kp_ch07_task_058",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "输出设计表格无法执行、输出为空或后续模块无法调用。",
+      "输出设计表格结果异常、图形显示不完整或计算结果不可信。",
+      "图纸中的项目名称、比例、日期或表格字段不符合要求。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_175",
+    "chapter_id": "ch07",
+    "question": "EICAD如何设置EICAD成果输出模板？",
+    "expected_answer_card": "ans_ch07_175",
+    "expected_kps": [
+      "kp_ch07_task_059",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_176",
+    "chapter_id": "ch07",
+    "question": "设置EICAD成果输出模板需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_176",
+    "expected_kps": [
+      "kp_ch07_task_059",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_177",
+    "chapter_id": "ch07",
+    "question": "设置EICAD成果输出模板常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_177",
+    "expected_kps": [
+      "kp_ch07_task_059",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "设置EICAD成果输出模板无法执行、输出为空或后续模块无法调用。",
+      "设置EICAD成果输出模板结果异常、图形显示不完整或计算结果不可信。",
+      "图纸中的项目名称、比例、日期或表格字段不符合要求。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_178",
+    "chapter_id": "ch07",
+    "question": "EICAD如何批量输出图纸和表格？",
+    "expected_answer_card": "ans_ch07_178",
+    "expected_kps": [
+      "kp_ch07_task_060",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "1. 准备项目与数据",
+      "2. 打开功能入口",
+      "3. 输入或选择数据",
+      "4. 设置关键参数并执行"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "step",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_179",
+    "chapter_id": "ch07",
+    "question": "批量输出图纸和表格需要检查哪些内容？",
+    "expected_answer_card": "ans_ch07_179",
+    "expected_kps": [
+      "kp_ch07_task_060",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "检查前置条件",
+      "检查输入数据",
+      "检查输出成果",
+      "检查成果能否被后续模块调用。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "checklist",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_180",
+    "chapter_id": "ch07",
+    "question": "批量输出图纸和表格常见错误如何排查？",
+    "expected_answer_card": "ans_ch07_180",
+    "expected_kps": [
+      "kp_ch07_task_060",
+      "kp_ch07_"
+    ],
+    "expected_answer_points": [
+      "批量输出图纸和表格无法执行、输出为空或后续模块无法调用。",
+      "批量输出图纸和表格结果异常、图形显示不完整或计算结果不可信。",
+      "图纸中的项目名称、比例、日期或表格字段不符合要求。"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "troubleshoot",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_181",
+    "chapter_id": "ch07",
+    "question": "新建纬地项目是什么？",
+    "expected_answer_card": "ans_ch07_181",
+    "expected_kps": [
+      "kp_ch07_001"
+    ],
+    "expected_answer_points": [
+      "通过【项目】-【新建项目】建立项目文件夹",
+      "可以把“新建纬地项目”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_182",
+    "chapter_id": "ch07",
+    "question": "查看与维护项目管理器是什么？",
+    "expected_answer_card": "ans_ch07_182",
+    "expected_kps": [
+      "kp_ch07_002"
+    ],
+    "expected_answer_points": [
+      "通过项目管理器检查设计文件路径、项目属性",
+      "可以把“查看与维护项目管理器”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_183",
+    "chapter_id": "ch07",
+    "question": "导入DWG/DXF高程数据是什么？",
+    "expected_answer_card": "ans_ch07_183",
+    "expected_kps": [
+      "kp_ch07_003"
+    ],
+    "expected_answer_points": [
+      "读取地形图中的等高线和高程点，将其转换为",
+      "可以把“导入DWG/DXF高程数据”理解",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_184",
+    "chapter_id": "ch07",
+    "question": "设置等高线与高程点类型是什么？",
+    "expected_answer_card": "ans_ch07_184",
+    "expected_kps": [
+      "kp_ch07_004"
+    ],
+    "expected_answer_points": [
+      "把等高线图层设置为约束线，把高程点图层设",
+      "可以把“设置等高线与高程点类型”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_185",
+    "chapter_id": "ch07",
+    "question": "三角构网并保存数模是什么？",
+    "expected_answer_card": "ans_ch07_185",
+    "expected_kps": [
+      "kp_ch07_005"
+    ],
+    "expected_answer_points": [
+      "执行三角构网，生成TIN数模并保存当前数",
+      "可以把“三角构网并保存数模”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_186",
+    "chapter_id": "ch07",
+    "question": "优化数模边界和三角网是什么？",
+    "expected_answer_card": "ans_ch07_186",
+    "expected_kps": [
+      "kp_ch07_006"
+    ],
+    "expected_answer_points": [
+      "对不理想的三角网边界或局部异常进行优化。",
+      "可以把“优化数模边界和三角网”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_187",
+    "chapter_id": "ch07",
+    "question": "新建EICAD项目是什么？",
+    "expected_answer_card": "ans_ch07_187",
+    "expected_kps": [
+      "kp_ch07_007"
+    ],
+    "expected_answer_points": [
+      "使用项目数据管理工具新建项目文件夹并生成",
+      "可以把“新建EICAD项目”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_188",
+    "chapter_id": "ch07",
+    "question": "导入或打开项目数据是什么？",
+    "expected_answer_card": "ans_ch07_188",
+    "expected_kps": [
+      "kp_ch07_008"
+    ],
+    "expected_answer_points": [
+      "通过项目数据管理工具打开、导入、浏览和编",
+      "可以把“导入或打开项目数据”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_189",
+    "chapter_id": "ch07",
+    "question": "点选方式建立数模是什么？",
+    "expected_answer_card": "ans_ch07_189",
+    "expected_kps": [
+      "kp_ch07_009"
+    ],
+    "expected_answer_points": [
+      "在地形图上点选计曲线、首曲线和地形点，提",
+      "可以把“点选方式建立数模”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_190",
+    "chapter_id": "ch07",
+    "question": "排除高程异常并优化数模是什么？",
+    "expected_answer_card": "ans_ch07_190",
+    "expected_kps": [
+      "kp_ch07_010"
+    ],
+    "expected_answer_points": [
+      "检查数模范围和高程异常，必要时排除异常点",
+      "可以把“排除高程异常并优化数模”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_191",
+    "chapter_id": "ch07",
+    "question": "直线型交点法平面定线是什么？",
+    "expected_answer_card": "ans_ch07_191",
+    "expected_kps": [
+      "kp_ch07_011"
+    ],
+    "expected_answer_points": [
+      "输入交点坐标并设置平曲线参数，完成路线平",
+      "可以把“直线型交点法平面定线”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_192",
+    "chapter_id": "ch07",
+    "question": "修改平曲线参数是什么？",
+    "expected_answer_card": "ans_ch07_192",
+    "expected_kps": [
+      "kp_ch07_012"
+    ],
+    "expected_answer_points": [
+      "调整圆曲线半径、缓和曲线长度、转角等参数",
+      "可以把“修改平曲线参数”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_193",
+    "chapter_id": "ch07",
+    "question": "设计S型曲线组合是什么？",
+    "expected_answer_card": "ans_ch07_193",
+    "expected_kps": [
+      "kp_ch07_013"
+    ],
+    "expected_answer_points": [
+      "按相邻反向曲线组合要求设置曲线参数并检查",
+      "可以把“设计S型曲线组合”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_194",
+    "chapter_id": "ch07",
+    "question": "设计卵形曲线组合是什么？",
+    "expected_answer_card": "ans_ch07_194",
+    "expected_kps": [
+      "kp_ch07_014"
+    ],
+    "expected_answer_points": [
+      "用不同半径圆曲线及过渡段构造卵形曲线。",
+      "可以把“设计卵形曲线组合”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_195",
+    "chapter_id": "ch07",
+    "question": "设计C型曲线与回头曲线是什么？",
+    "expected_answer_card": "ans_ch07_195",
+    "expected_kps": [
+      "kp_ch07_015"
+    ],
+    "expected_answer_points": [
+      "根据地形受限条件构造C型或回头曲线并检查",
+      "可以把“设计C型曲线与回头曲线”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_196",
+    "chapter_id": "ch07",
+    "question": "互通匝道文件控制接线是什么？",
+    "expected_answer_card": "ans_ch07_196",
+    "expected_kps": [
+      "kp_ch07_016"
+    ],
+    "expected_answer_points": [
+      "通过文件控制方式指定匝道与主线或被交线的",
+      "可以把“互通匝道文件控制接线”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_197",
+    "chapter_id": "ch07",
+    "question": "互通匝道圆+缓+直接线是什么？",
+    "expected_answer_card": "ans_ch07_197",
+    "expected_kps": [
+      "kp_ch07_017"
+    ],
+    "expected_answer_points": [
+      "采用圆曲线、缓和曲线和直线组合方式完成匝",
+      "可以把“互通匝道圆+缓+直接线”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_198",
+    "chapter_id": "ch07",
+    "question": "积木法构造匝道线形是什么？",
+    "expected_answer_card": "ans_ch07_198",
+    "expected_kps": [
+      "kp_ch07_018"
+    ],
+    "expected_answer_points": [
+      "将匝道看作若干线形单元组合，逐段构造并动",
+      "可以把“积木法构造匝道线形”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_199",
+    "chapter_id": "ch07",
+    "question": "EICAD直线单元设计是什么？",
+    "expected_answer_card": "ans_ch07_199",
+    "expected_kps": [
+      "kp_ch07_019"
+    ],
+    "expected_answer_points": [
+      "使用EI_LINE构造直线单元，作为路线",
+      "可以把“EICAD直线单元设计”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_200",
+    "chapter_id": "ch07",
+    "question": "EICAD圆曲线单元设计是什么？",
+    "expected_answer_card": "ans_ch07_200",
+    "expected_kps": [
+      "kp_ch07_020"
+    ],
+    "expected_answer_points": [
+      "使用EI_ARC设置圆曲线半径和控制点，",
+      "可以把“EICAD圆曲线单元设计”理解为",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_201",
+    "chapter_id": "ch07",
+    "question": "EICAD缓和曲线单元设计是什么？",
+    "expected_answer_card": "ans_ch07_201",
+    "expected_kps": [
+      "kp_ch07_021"
+    ],
+    "expected_answer_points": [
+      "使用EI_CLOTHOID设置缓和曲线参",
+      "可以把“EICAD缓和曲线单元设计”理解",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_202",
+    "chapter_id": "ch07",
+    "question": "连接两缓和曲线是什么？",
+    "expected_answer_card": "ans_ch07_202",
+    "expected_kps": [
+      "kp_ch07_022"
+    ],
+    "expected_answer_points": [
+      "使用EI_LINKCLOTHOID连接两",
+      "可以把“连接两缓和曲线”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_203",
+    "chapter_id": "ch07",
+    "question": "基本模式法圆圆模式设计是什么？",
+    "expected_answer_card": "ans_ch07_203",
+    "expected_kps": [
+      "kp_ch07_023"
+    ],
+    "expected_answer_points": [
+      "使用圆圆模式处理S形、C形和卵形曲线连接",
+      "可以把“基本模式法圆圆模式设计”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_204",
+    "chapter_id": "ch07",
+    "question": "扩展模式法立交匝道设计是什么？",
+    "expected_answer_card": "ans_ch07_204",
+    "expected_kps": [
+      "kp_ch07_024"
+    ],
+    "expected_answer_points": [
+      "基于复杂单元组合或扩展模式完成匝道平面设",
+      "可以把“扩展模式法立交匝道设计”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_205",
+    "chapter_id": "ch07",
+    "question": "生成桩号文件是什么？",
+    "expected_answer_card": "ans_ch07_205",
+    "expected_kps": [
+      "kp_ch07_025"
+    ],
+    "expected_answer_points": [
+      "通过工具或设计向导生成纵断面和横断面需要",
+      "可以把“生成桩号文件”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_206",
+    "chapter_id": "ch07",
+    "question": "数模内插纵断面地面线是什么？",
+    "expected_answer_card": "ans_ch07_206",
+    "expected_kps": [
+      "kp_ch07_026"
+    ],
+    "expected_answer_points": [
+      "基于数模提取桩号-高程纵断面地面线。",
+      "可以把“数模内插纵断面地面线”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_207",
+    "chapter_id": "ch07",
+    "question": "手工输入或修改纵断面地面线是什么？",
+    "expected_answer_card": "ans_ch07_207",
+    "expected_kps": [
+      "kp_ch07_027"
+    ],
+    "expected_answer_points": [
+      "录入或修正桩号-高程数据，保证地面线可靠",
+      "可以把“手工输入或修改纵断面地面线”理解",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_208",
+    "chapter_id": "ch07",
+    "question": "输入桥梁涵洞通道控制点是什么？",
+    "expected_answer_card": "ans_ch07_208",
+    "expected_kps": [
+      "kp_ch07_028"
+    ],
+    "expected_answer_points": [
+      "录入高程控制点，为拉坡提供约束。",
+      "可以把“输入桥梁涵洞通道控制点”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_209",
+    "chapter_id": "ch07",
+    "question": "创建纵断面拉坡图是什么？",
+    "expected_answer_card": "ans_ch07_209",
+    "expected_kps": [
+      "kp_ch07_029"
+    ],
+    "expected_answer_points": [
+      "绘制纵断面地面线、里程桩号和平曲线，为交",
+      "可以把“创建纵断面拉坡图”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_210",
+    "chapter_id": "ch07",
+    "question": "交互式设置变坡点是什么？",
+    "expected_answer_card": "ans_ch07_210",
+    "expected_kps": [
+      "kp_ch07_030"
+    ],
+    "expected_answer_points": [
+      "在拉坡线中增加、拖动和修改变坡点，确定坡",
+      "可以把“交互式设置变坡点”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_211",
+    "chapter_id": "ch07",
+    "question": "修改变坡点与竖曲线半径是什么？",
+    "expected_answer_card": "ans_ch07_211",
+    "expected_kps": [
+      "kp_ch07_031"
+    ],
+    "expected_answer_points": [
+      "通过修改变坡点对话框调整桩号、高程和竖曲",
+      "可以把“修改变坡点与竖曲线半径”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_212",
+    "chapter_id": "ch07",
+    "question": "输出纵横地面线是什么？",
+    "expected_answer_card": "ans_ch07_212",
+    "expected_kps": [
+      "kp_ch07_032"
+    ],
+    "expected_answer_points": [
+      "从数字地面模型输出纵断面和横断面地面线。",
+      "可以把“输出纵横地面线”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_213",
+    "chapter_id": "ch07",
+    "question": "创建拉坡图是什么？",
+    "expected_answer_card": "ans_ch07_213",
+    "expected_kps": [
+      "kp_ch07_033"
+    ],
+    "expected_answer_points": [
+      "生成纵断面拉坡图，为自动或手工拉坡提供环",
+      "可以把“创建拉坡图”理解为第七章软件操作",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_214",
+    "chapter_id": "ch07",
+    "question": "输入拉坡控制点是什么？",
+    "expected_answer_card": "ans_ch07_214",
+    "expected_kps": [
+      "kp_ch07_034"
+    ],
+    "expected_answer_points": [
+      "录入桥梁、涵洞、通道等控制点，为纵坡设计",
+      "可以把“输入拉坡控制点”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_215",
+    "chapter_id": "ch07",
+    "question": "自动拉坡设计是什么？",
+    "expected_answer_card": "ans_ch07_215",
+    "expected_kps": [
+      "kp_ch07_035"
+    ],
+    "expected_answer_points": [
+      "依据控制条件自动生成纵断面设计线并进行初",
+      "可以把“自动拉坡设计”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_216",
+    "chapter_id": "ch07",
+    "question": "手工拉坡与夹点调整是什么？",
+    "expected_answer_card": "ans_ch07_216",
+    "expected_kps": [
+      "kp_ch07_036"
+    ],
+    "expected_answer_points": [
+      "通过拖动夹点调整变坡点与竖曲线参数。",
+      "可以把“手工拉坡与夹点调整”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_217",
+    "chapter_id": "ch07",
+    "question": "输入横断面地面线是什么？",
+    "expected_answer_card": "ans_ch07_217",
+    "expected_kps": [
+      "kp_ch07_037"
+    ],
+    "expected_answer_points": [
+      "通过横断面数据输入工具录入逐桩横断面地面",
+      "可以把“输入横断面地面线”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_218",
+    "chapter_id": "ch07",
+    "question": "数模内插横断面地面线是什么？",
+    "expected_answer_card": "ans_ch07_218",
+    "expected_kps": [
+      "kp_ch07_038"
+    ],
+    "expected_answer_points": [
+      "基于数模按桩号内插横断面地面线。",
+      "可以把“数模内插横断面地面线”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_219",
+    "chapter_id": "ch07",
+    "question": "运行设计向导定义标准横断面是什么？",
+    "expected_answer_card": "ans_ch07_219",
+    "expected_kps": [
+      "kp_ch07_039"
+    ],
+    "expected_answer_points": [
+      "通过设计向导定义路线等级、路幅、边坡、边",
+      "可以把“运行设计向导定义标准横断面”理解",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_220",
+    "chapter_id": "ch07",
+    "question": "自动计算超高加宽是什么？",
+    "expected_answer_card": "ans_ch07_220",
+    "expected_kps": [
+      "kp_ch07_040"
+    ],
+    "expected_answer_points": [
+      "根据平面线形和规范参数计算超高与加宽。",
+      "可以把“自动计算超高加宽”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_221",
+    "chapter_id": "ch07",
+    "question": "路基设计计算是什么？",
+    "expected_answer_card": "ans_ch07_221",
+    "expected_kps": [
+      "kp_ch07_041"
+    ],
+    "expected_answer_points": [
+      "计算逐桩超高横坡、设计标高、路幅参数和高",
+      "可以把“路基设计计算”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_222",
+    "chapter_id": "ch07",
+    "question": "录入支挡防护工程是什么？",
+    "expected_answer_card": "ans_ch07_222",
+    "expected_kps": [
+      "kp_ch07_042"
+    ],
+    "expected_answer_points": [
+      "录入挡墙、护坡等支挡防护工程的型式和段落",
+      "可以把“录入支挡防护工程”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_223",
+    "chapter_id": "ch07",
+    "question": "横断面设计绘图与戴帽是什么？",
+    "expected_answer_card": "ans_ch07_223",
+    "expected_kps": [
+      "kp_ch07_043"
+    ],
+    "expected_answer_points": [
+      "打开横断面设计绘图界面，按设计控制、土方",
+      "可以把“横断面设计绘图与戴帽”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_224",
+    "chapter_id": "ch07",
+    "question": "横断面交互修改是什么？",
+    "expected_answer_card": "ans_ch07_224",
+    "expected_kps": [
+      "kp_ch07_044"
+    ],
+    "expected_answer_points": [
+      "浏览特殊断面并进行人工调整。",
+      "可以把“横断面交互修改”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_225",
+    "chapter_id": "ch07",
+    "question": "创建路基模板是什么？",
+    "expected_answer_card": "ans_ch07_225",
+    "expected_kps": [
+      "kp_ch07_045"
+    ],
+    "expected_answer_points": [
+      "创建或编辑自定义路基模板。",
+      "可以把“创建路基模板”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_226",
+    "chapter_id": "ch07",
+    "question": "创建边坡模板是什么？",
+    "expected_answer_card": "ans_ch07_226",
+    "expected_kps": [
+      "kp_ch07_046"
+    ],
+    "expected_answer_points": [
+      "设置填挖方边坡坡率、平台和防护规则。",
+      "可以把“创建边坡模板”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_227",
+    "chapter_id": "ch07",
+    "question": "创建边沟与截水沟模板是什么？",
+    "expected_answer_card": "ans_ch07_227",
+    "expected_kps": [
+      "kp_ch07_047"
+    ],
+    "expected_answer_points": [
+      "编辑边沟、排水沟、截水沟等模板。",
+      "可以把“创建边沟与截水沟模板”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_228",
+    "chapter_id": "ch07",
+    "question": "生成和修改超高渐变图是什么？",
+    "expected_answer_card": "ans_ch07_228",
+    "expected_kps": [
+      "kp_ch07_048"
+    ],
+    "expected_answer_points": [
+      "设置超高加宽计算并生成超高渐变图。",
+      "可以把“生成和修改超高渐变图”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_229",
+    "chapter_id": "ch07",
+    "question": "执行横断面戴帽设计是什么？",
+    "expected_answer_card": "ans_ch07_229",
+    "expected_kps": [
+      "kp_ch07_049"
+    ],
+    "expected_answer_points": [
+      "根据模板与地面线进行横断面戴帽。",
+      "可以把“执行横断面戴帽设计”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_230",
+    "chapter_id": "ch07",
+    "question": "查看与绘制横断面成果是什么？",
+    "expected_answer_card": "ans_ch07_230",
+    "expected_kps": [
+      "kp_ch07_050"
+    ],
+    "expected_answer_points": [
+      "逐桩查看横断面戴帽结果并绘制横断面图。",
+      "可以把“查看与绘制横断面成果”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_231",
+    "chapter_id": "ch07",
+    "question": "土石方调配数据预处理是什么？",
+    "expected_answer_card": "ans_ch07_231",
+    "expected_kps": [
+      "kp_ch07_051"
+    ],
+    "expected_answer_points": [
+      "创建土石比文件并进行本桩利用方式选择。",
+      "可以把“土石方调配数据预处理”理解为第七",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_232",
+    "chapter_id": "ch07",
+    "question": "设置构造物运距是什么？",
+    "expected_answer_card": "ans_ch07_232",
+    "expected_kps": [
+      "kp_ch07_052"
+    ],
+    "expected_answer_points": [
+      "设置构造物是否通行以及运输限制。",
+      "可以把“设置构造物运距”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_233",
+    "chapter_id": "ch07",
+    "question": "绘制土石方调配成果是什么？",
+    "expected_answer_card": "ans_ch07_233",
+    "expected_kps": [
+      "kp_ch07_053"
+    ],
+    "expected_answer_points": [
+      "在平面图上绘制挖余与填缺土方块及运输路径",
+      "可以把“绘制土石方调配成果”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_234",
+    "chapter_id": "ch07",
+    "question": "管理图框和表格模板是什么？",
+    "expected_answer_card": "ans_ch07_234",
+    "expected_kps": [
+      "kp_ch07_054"
+    ],
+    "expected_answer_points": [
+      "浏览、指定或修改纬地图框与表格模板。",
+      "可以把“管理图框和表格模板”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_235",
+    "chapter_id": "ch07",
+    "question": "生成路线平面图是什么？",
+    "expected_answer_card": "ans_ch07_235",
+    "expected_kps": [
+      "kp_ch07_055"
+    ],
+    "expected_answer_points": [
+      "按设定比例和图框输出路线平面设计图。",
+      "可以把“生成路线平面图”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_236",
+    "chapter_id": "ch07",
+    "question": "生成纵断面设计图是什么？",
+    "expected_answer_card": "ans_ch07_236",
+    "expected_kps": [
+      "kp_ch07_056"
+    ],
+    "expected_answer_points": [
+      "按横向和纵向比例输出纵断面图。",
+      "可以把“生成纵断面设计图”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_237",
+    "chapter_id": "ch07",
+    "question": "生成横断面设计图是什么？",
+    "expected_answer_card": "ans_ch07_237",
+    "expected_kps": [
+      "kp_ch07_057"
+    ],
+    "expected_answer_points": [
+      "批量生成逐桩横断面设计图。",
+      "可以把“生成横断面设计图”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_238",
+    "chapter_id": "ch07",
+    "question": "输出设计表格是什么？",
+    "expected_answer_card": "ans_ch07_238",
+    "expected_kps": [
+      "kp_ch07_058"
+    ],
+    "expected_answer_points": [
+      "输出直曲转角表、竖曲线表、路基设计表、土",
+      "可以把“输出设计表格”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_239",
+    "chapter_id": "ch07",
+    "question": "设置EICAD成果输出模板是什么？",
+    "expected_answer_card": "ans_ch07_239",
+    "expected_kps": [
+      "kp_ch07_059"
+    ],
+    "expected_answer_points": [
+      "配置EICAD图纸和表格输出模板。",
+      "可以把“设置EICAD成果输出模板”理解",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_240",
+    "chapter_id": "ch07",
+    "question": "批量输出图纸和表格是什么？",
+    "expected_answer_card": "ans_ch07_240",
+    "expected_kps": [
+      "kp_ch07_060"
+    ],
+    "expected_answer_points": [
+      "批量生成平面、纵断面、横断面与土石方成果",
+      "可以把“批量输出图纸和表格”理解为第七章",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_241",
+    "chapter_id": "ch07",
+    "question": "道路CAD软件的功能定位是什么？",
+    "expected_answer_card": "ans_ch07_241",
+    "expected_kps": [
+      "kp_ch07_061"
+    ],
+    "expected_answer_points": [
+      "纬地和EICAD覆盖数模、平面、纵断面、",
+      "可以把“道路CAD软件的功能定位”理解为",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_242",
+    "chapter_id": "ch07",
+    "question": "纬地与EICAD的共同点是什么？",
+    "expected_answer_card": "ans_ch07_242",
+    "expected_kps": [
+      "kp_ch07_062"
+    ],
+    "expected_answer_points": [
+      "二者均采用项目文件夹管理，支持数模建立、",
+      "可以把“纬地与EICAD的共同点”理解为",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_243",
+    "chapter_id": "ch07",
+    "question": "纬地与EICAD的差异是什么？",
+    "expected_answer_card": "ans_ch07_243",
+    "expected_kps": [
+      "kp_ch07_063"
+    ],
+    "expected_answer_points": [
+      "纬地更强调道路三维集成CAD流程，EIC",
+      "可以把“纬地与EICAD的差异”理解为第",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_244",
+    "chapter_id": "ch07",
+    "question": "项目文件夹管理是什么？",
+    "expected_answer_card": "ans_ch07_244",
+    "expected_kps": [
+      "kp_ch07_064"
+    ],
+    "expected_answer_points": [
+      "道路CAD软件通过项目文件夹集中管理平面",
+      "可以把“项目文件夹管理”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_245",
+    "chapter_id": "ch07",
+    "question": "三角网数模在路线设计中的作用是什么？",
+    "expected_answer_card": "ans_ch07_245",
+    "expected_kps": [
+      "kp_ch07_065"
+    ],
+    "expected_answer_points": [
+      "三角网数模为纵断面地面线提取、横断面插值",
+      "可以把“三角网数模在路线设计中的作用”理",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_246",
+    "chapter_id": "ch07",
+    "question": "直线型交点法定线是什么？",
+    "expected_answer_card": "ans_ch07_246",
+    "expected_kps": [
+      "kp_ch07_066"
+    ],
+    "expected_answer_points": [
+      "先布设交点和直线，再在转折处设置圆曲线与",
+      "可以把“直线型交点法定线”理解为第七章软",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_247",
+    "chapter_id": "ch07",
+    "question": "积木法设计思想是什么？",
+    "expected_answer_card": "ans_ch07_247",
+    "expected_kps": [
+      "kp_ch07_067"
+    ],
+    "expected_answer_points": [
+      "把路线或匝道看成直线、圆曲线、缓和曲线等",
+      "可以把“积木法设计思想”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_248",
+    "chapter_id": "ch07",
+    "question": "基本模式法是什么？",
+    "expected_answer_card": "ans_ch07_248",
+    "expected_kps": [
+      "kp_ch07_068"
+    ],
+    "expected_answer_points": [
+      "以直线与圆、圆与圆之间的连接模式为基础构",
+      "可以把“基本模式法”理解为第七章软件操作",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_249",
+    "chapter_id": "ch07",
+    "question": "纵断面拉坡是什么？",
+    "expected_answer_card": "ans_ch07_249",
+    "expected_kps": [
+      "kp_ch07_069"
+    ],
+    "expected_answer_points": [
+      "在纵断面地面线和控制点基础上，通过变坡点",
+      "可以把“纵断面拉坡”理解为第七章软件操作",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_250",
+    "chapter_id": "ch07",
+    "question": "变坡点是什么？",
+    "expected_answer_card": "ans_ch07_250",
+    "expected_kps": [
+      "kp_ch07_070"
+    ],
+    "expected_answer_points": [
+      "变坡点是相邻纵坡变化的位置，是竖曲线设置",
+      "可以把“变坡点”理解为第七章软件操作流程",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_251",
+    "chapter_id": "ch07",
+    "question": "横断面戴帽是什么？",
+    "expected_answer_card": "ans_ch07_251",
+    "expected_kps": [
+      "kp_ch07_071"
+    ],
+    "expected_answer_points": [
+      "根据地面线、标准横断面模板、超高加宽和支",
+      "可以把“横断面戴帽”理解为第七章软件操作",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_252",
+    "chapter_id": "ch07",
+    "question": "超高加宽数据是什么？",
+    "expected_answer_card": "ans_ch07_252",
+    "expected_kps": [
+      "kp_ch07_072"
+    ],
+    "expected_answer_points": [
+      "超高加宽数据控制曲线路段横坡和路幅宽度变",
+      "可以把“超高加宽数据”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_253",
+    "chapter_id": "ch07",
+    "question": "土石方调配是什么？",
+    "expected_answer_card": "ans_ch07_253",
+    "expected_kps": [
+      "kp_ch07_073"
+    ],
+    "expected_answer_points": [
+      "在填挖面积基础上考虑利用、运输、取弃土场",
+      "可以把“土石方调配”理解为第七章软件操作",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_254",
+    "chapter_id": "ch07",
+    "question": "成果图表输出是什么？",
+    "expected_answer_card": "ans_ch07_254",
+    "expected_kps": [
+      "kp_ch07_074"
+    ],
+    "expected_answer_points": [
+      "道路CAD软件最终需要输出平面图、纵断面",
+      "可以把“成果图表输出”理解为第七章软件操",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_255",
+    "chapter_id": "ch07",
+    "question": "图框与表格模板是什么？",
+    "expected_answer_card": "ans_ch07_255",
+    "expected_kps": [
+      "kp_ch07_075"
+    ],
+    "expected_answer_points": [
+      "图框与表格模板控制成果图表的版式、工程名",
+      "可以把“图框与表格模板”理解为第七章软件",
+      "支撑道路CAD软件从数据准备到设计计算、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_256",
+    "chapter_id": "ch07",
+    "question": "项目文件夹是什么？",
+    "expected_answer_card": "ans_ch07_256",
+    "expected_kps": [
+      "kp_ch07_076"
+    ],
+    "expected_answer_points": [
+      "集中保存设计文件、数模、线形、模板和成果",
+      "在第七章中，项目文件夹不是孤立名词，而是",
+      "项目文件夹是第七章道路CAD软件操作流程"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_257",
+    "chapter_id": "ch07",
+    "question": "项目管理器是什么？",
+    "expected_answer_card": "ans_ch07_257",
+    "expected_kps": [
+      "kp_ch07_077"
+    ],
+    "expected_answer_points": [
+      "浏览和维护项目文件、属性、图框与表格模板",
+      "在第七章中，项目管理器不是孤立名词，而是",
+      "项目管理器是第七章道路CAD软件操作流程"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_258",
+    "chapter_id": "ch07",
+    "question": "项目数据管理是什么？",
+    "expected_answer_card": "ans_ch07_258",
+    "expected_kps": [
+      "kp_ch07_078"
+    ],
+    "expected_answer_points": [
+      "用于新建、导入、打开和查看项目信息的工具",
+      "在第七章中，项目数据管理不是孤立名词，而",
+      "项目数据管理是第七章道路CAD软件操作流"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_259",
+    "chapter_id": "ch07",
+    "question": "DWG/DXF地形图是什么？",
+    "expected_answer_card": "ans_ch07_259",
+    "expected_kps": [
+      "kp_ch07_079"
+    ],
+    "expected_answer_points": [
+      "道路CAD软件建立数模时常用的外部三维数",
+      "在第七章中，DWG/DXF地形图不是孤立",
+      "DWG/DXF地形图是第七章道路CAD软"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_260",
+    "chapter_id": "ch07",
+    "question": "计曲线是什么？",
+    "expected_answer_card": "ans_ch07_260",
+    "expected_kps": [
+      "kp_ch07_080"
+    ],
+    "expected_answer_points": [
+      "地形图中用于表达高程变化的主等高线。",
+      "在第七章中，计曲线不是孤立名词，而是道路",
+      "计曲线是第七章道路CAD软件操作流程中的"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_261",
+    "chapter_id": "ch07",
+    "question": "纬地与EICAD项目管理有什么区别？",
+    "expected_answer_card": "ans_ch07_261",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "纬地通过项目管理器维护文件、属性和图表模",
+      "EICAD通过项目数据管理工具新建、导入"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_262",
+    "chapter_id": "ch07",
+    "question": "纬地和EICAD建立数模有什么区别？",
+    "expected_answer_card": "ans_ch07_262",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "纬地强调读取DWG/DXF图层中的等高线",
+      "EICAD既可点选地形对象也可导入CAD"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_263",
+    "chapter_id": "ch07",
+    "question": "直线型交点法与积木法有什么区别？",
+    "expected_answer_card": "ans_ch07_263",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "交点法以交点和曲线参数为主",
+      "积木法将路线拆成直线、圆曲线、缓和曲线等"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_264",
+    "chapter_id": "ch07",
+    "question": "纬地横断面设计和EICAD横断面设计有什么区别？",
+    "expected_answer_card": "ans_ch07_264",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "纬地强调设计向导、路基设计计算和横断面绘",
+      "EICAD强调自定义路基、边坡、边沟模板"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  },
+  {
+    "test_id": "eval_ans_ch07_265",
+    "chapter_id": "ch07",
+    "question": "成果输出前为什么要检查图框和表格模板？",
+    "expected_answer_card": "ans_ch07_265",
+    "expected_kps": [],
+    "expected_answer_points": [
+      "图框和表格模板控制项目名称、比例、日期、"
+    ],
+    "should_not_include": [
+      "不要输出整段教材原文",
+      "不要加入软件未提及的版本细节。"
+    ],
+    "required_response_mode": "bullet",
+    "pass_rule": "top1_answer_and_point_coverage",
+    "error_reason": "",
+    "status": "checked"
+  }
+]

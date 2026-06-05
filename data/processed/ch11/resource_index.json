@@ -1,0 +1,333 @@
+[
+  {
+    "resource_id": "res_ch11_fig_11_1",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-1 道路数字孪生的特点",
+    "file_path": "chapter_11/images/ch11_fig_11_1.png",
+    "related_kps": [],
+    "description": "用于解释道路数字孪生的特点相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-1 道路数字孪生的特点",
+      "res_ch11_fig_11_1"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_2",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-2 数字孪生框架体系",
+    "file_path": "chapter_11/images/ch11_fig_11_2.png",
+    "related_kps": [],
+    "description": "用于解释数字孪生框架体系相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-2 数字孪生框架体系",
+      "res_ch11_fig_11_2"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_3",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-3 多源异构数据采集与时空对齐技术体系",
+    "file_path": "chapter_11/images/ch11_fig_11_3.png",
+    "related_kps": [],
+    "description": "用于解释多源异构数据采集与时空对齐技术体系相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-3 多源异构数据采集与时空对齐技术体系",
+      "res_ch11_fig_11_3",
+      "一、多源异构数据采集与时空对齐技术"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_4",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-4 多尺度高保真建模与集成技术",
+    "file_path": "chapter_11/images/ch11_fig_11_4.png",
+    "related_kps": [],
+    "description": "用于解释多尺度高保真建模与集成技术相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-4 多尺度高保真建模与集成技术",
+      "res_ch11_fig_11_4"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_5",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-5 智能化分析与仿真技术体系图",
+    "file_path": "chapter_11/images/ch11_fig_11_5.png",
+    "related_kps": [],
+    "description": "用于解释智能化分析与仿真技术体系图相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-5 智能化分析与仿真技术体系图",
+      "res_ch11_fig_11_5"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_6",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-6 虚实交互控制与决策支持体系",
+    "file_path": "chapter_11/images/ch11_fig_11_6.png",
+    "related_kps": [],
+    "description": "用于解释虚实交互控制与决策支持体系相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-6 虚实交互控制与决策支持体系",
+      "res_ch11_fig_11_6"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_7",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-7 基于实景三维的环境-道路耦合设计",
+    "file_path": "chapter_11/images/ch11_fig_11_7.png",
+    "related_kps": [],
+    "description": "用于解释基于实景三维的环境-道路耦合设计相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-7 基于实景三维的环境-道路耦合设计",
+      "res_ch11_fig_11_7"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_8",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-8 施工全过程智能管控与数字交付",
+    "file_path": "chapter_11/images/ch11_fig_11_8.png",
+    "related_kps": [],
+    "description": "用于解释施工全过程智能管控与数字交付相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-8 施工全过程智能管控与数字交付",
+      "res_ch11_fig_11_8"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_9",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-9 预防性养护与全生命周期资产管理",
+    "file_path": "chapter_11/images/ch11_fig_11_9.png",
+    "related_kps": [],
+    "description": "用于解释预防性养护与全生命周期资产管理相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-9 预防性养护与全生命周期资产管理",
+      "res_ch11_fig_11_9"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_fig_11_10",
+    "chapter_id": "ch11",
+    "resource_type": "figure",
+    "title": "图11-10 智慧交通治理与韧性服务",
+    "file_path": "chapter_11/images/ch11_fig_11_10.png",
+    "related_kps": [],
+    "description": "用于解释智慧交通治理与韧性服务相关概念、流程或应用场景。",
+    "qa_use": "回答相关理论、流程、应用场景问题时推荐展示。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "图11-10 智慧交通治理与韧性服务",
+      "res_ch11_fig_11_10"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_script_01",
+    "chapter_id": "ch11",
+    "resource_type": "interactive_script",
+    "title": "数字孪生虚实闭环互动脚本",
+    "file_path": "chapter_11/scripts/ch11_script_01/index.html",
+    "related_kps": [],
+    "description": "用于支撑数字孪生虚实闭环互动脚本的交互式学习。",
+    "qa_use": "学生需要图示或流程演示时推荐。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "数字孪生虚实闭环互动脚本",
+      "res_ch11_script_01"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_script_02",
+    "chapter_id": "ch11",
+    "resource_type": "interactive_script",
+    "title": "五维模型交互图",
+    "file_path": "chapter_11/scripts/ch11_script_02/index.html",
+    "related_kps": [],
+    "description": "用于支撑五维模型交互图的交互式学习。",
+    "qa_use": "学生需要图示或流程演示时推荐。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "五维模型交互图",
+      "res_ch11_script_02"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_script_03",
+    "chapter_id": "ch11",
+    "resource_type": "interactive_script",
+    "title": "数字主线流程演示",
+    "file_path": "chapter_11/scripts/ch11_script_03/index.html",
+    "related_kps": [],
+    "description": "用于支撑数字主线流程演示的交互式学习。",
+    "qa_use": "学生需要图示或流程演示时推荐。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "数字主线流程演示",
+      "res_ch11_script_03"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_script_04",
+    "chapter_id": "ch11",
+    "resource_type": "interactive_script",
+    "title": "预测性养护案例动画",
+    "file_path": "chapter_11/scripts/ch11_script_04/index.html",
+    "related_kps": [],
+    "description": "用于支撑预测性养护案例动画的交互式学习。",
+    "qa_use": "学生需要图示或流程演示时推荐。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "预测性养护案例动画",
+      "res_ch11_script_04"
+    ]
+  },
+  {
+    "resource_id": "res_ch11_script_05",
+    "chapter_id": "ch11",
+    "resource_type": "interactive_script",
+    "title": "智慧交通韧性服务演示",
+    "file_path": "chapter_11/scripts/ch11_script_05/index.html",
+    "related_kps": [],
+    "description": "用于支撑智慧交通韧性服务演示的交互式学习。",
+    "qa_use": "学生需要图示或流程演示时推荐。",
+    "status": "placeholder",
+    "priority": 1,
+    "reference_aliases": [
+      "智慧交通韧性服务演示",
+      "res_ch11_script_05"
+    ]
+  },
+  {
+    "resource_id": "ch11_script_01",
+    "chapter_id": "ch11",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "11.1道路数字孪生内涵与系统框架",
+    "description": "道路数字孪生的概念与方法体系互动脚本：11.1道路数字孪生内涵与系统框架",
+    "file_path": "assets/ch11/interactive_html/11.1道路数字孪生内涵与系统框架.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "11.1道路数字孪生内涵与系统框架",
+      "ch11_script_01"
+    ]
+  },
+  {
+    "resource_id": "ch11_script_02",
+    "chapter_id": "ch11",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "11.2多源异构数据采集与时空对齐",
+    "description": "道路数字孪生的概念与方法体系互动脚本：11.2多源异构数据采集与时空对齐",
+    "file_path": "assets/ch11/interactive_html/11.2多源异构数据采集与时空对齐.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "11.2多源异构数据采集与时空对齐",
+      "ch11_script_02"
+    ]
+  },
+  {
+    "resource_id": "ch11_script_03",
+    "chapter_id": "ch11",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "11.3多尺度高保真建模与BIM+GIS集成",
+    "description": "道路数字孪生的概念与方法体系互动脚本：11.3多尺度高保真建模与BIM+GIS集成",
+    "file_path": "assets/ch11/interactive_html/11.3多尺度高保真建模与BIM+GIS集成.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "11.3多尺度高保真建模与BIM+GIS集成",
+      "ch11_script_03"
+    ]
+  },
+  {
+    "resource_id": "ch11_script_04",
+    "chapter_id": "ch11",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "11.4数字主线与全生命周期数据管理",
+    "description": "道路数字孪生的概念与方法体系互动脚本：11.4数字主线与全生命周期数据管理",
+    "file_path": "assets/ch11/interactive_html/11.4数字主线与全生命周期数据管理.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "11.4数字主线与全生命周期数据管理",
+      "ch11_script_04"
+    ]
+  },
+  {
+    "resource_id": "ch11_script_05",
+    "chapter_id": "ch11",
+    "section_id": "",
+    "resource_type": "interactive_html",
+    "title": "11.5智能仿真预测虚实交互与典型应用场景",
+    "description": "道路数字孪生的概念与方法体系互动脚本：11.5智能仿真预测虚实交互与典型应用场景",
+    "file_path": "assets/ch11/interactive_html/11.5智能仿真预测虚实交互与典型应用场景.html",
+    "related_kps": [],
+    "teaching_use": "用于按主题浏览本章方法、框架或案例逻辑。",
+    "qa_use": "学生明确要求查看互动脚本或学习流程时推荐。",
+    "priority": 1,
+    "status": "bound",
+    "reference_aliases": [
+      "11.5智能仿真预测虚实交互与典型应用场景",
+      "ch11_script_05"
+    ]
+  }
+]

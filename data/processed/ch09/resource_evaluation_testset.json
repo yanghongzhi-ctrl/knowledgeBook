@@ -1,0 +1,182 @@
+[
+  {
+    "test_id": "res_eval_ch09_script_01_01",
+    "chapter_id": "ch09",
+    "question": "9.1从模型驱动到数据驱动怎么看？",
+    "expected_resource_id": "ch09_script_01",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_01_02",
+    "chapter_id": "ch09",
+    "question": "我想看9.1从模型驱动到数据驱动。",
+    "expected_resource_id": "ch09_script_01",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_02_01",
+    "chapter_id": "ch09",
+    "question": "9.2BIM+GIS集成层次怎么看？",
+    "expected_resource_id": "ch09_script_02",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_02_02",
+    "chapter_id": "ch09",
+    "question": "我想看9.2BIM+GIS集成层次。",
+    "expected_resource_id": "ch09_script_02",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_03_01",
+    "chapter_id": "ch09",
+    "question": "9.3BIM+GIS协同设计流程怎么看？",
+    "expected_resource_id": "ch09_script_03",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_03_02",
+    "chapter_id": "ch09",
+    "question": "我想看9.3BIM+GIS协同设计流程。",
+    "expected_resource_id": "ch09_script_03",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_04_01",
+    "chapter_id": "ch09",
+    "question": "9.4Civil3D平台的道路BIM正向设计怎么看？",
+    "expected_resource_id": "ch09_script_04",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_04_02",
+    "chapter_id": "ch09",
+    "question": "我想看9.4Civil3D平台的道路BIM正向设计。",
+    "expected_resource_id": "ch09_script_04",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_05_01",
+    "chapter_id": "ch09",
+    "question": "9.5Map3D平台的道路BIM_GIS集成怎么看？",
+    "expected_resource_id": "ch09_script_05",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_05_02",
+    "chapter_id": "ch09",
+    "question": "我想看9.5Map3D平台的道路BIM_GIS集成。",
+    "expected_resource_id": "ch09_script_05",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_06_01",
+    "chapter_id": "ch09",
+    "question": "9.6BIM_GIS在公路地质选线中的应用怎么看？",
+    "expected_resource_id": "ch09_script_06",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch09_script_06_02",
+    "chapter_id": "ch09",
+    "question": "我想看9.6BIM_GIS在公路地质选线中的应用。",
+    "expected_resource_id": "ch09_script_06",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  }
+]

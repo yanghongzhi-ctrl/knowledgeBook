@@ -1,0 +1,857 @@
+[
+  {
+    "relation_id": "rel_ch11_001",
+    "source_id": "kp_ch11_001_digital_twin_definition",
+    "relation_type": "explained_by",
+    "target_id": "kp_ch11_010_five_dimensional_model",
+    "weight": 5,
+    "description": "digital_twin_definition explained_by five_dimensional_model",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_002",
+    "source_id": "kp_ch11_001_digital_twin_definition",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_004_accurate_mapping",
+    "weight": 5,
+    "description": "digital_twin_definition includes accurate_mapping",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_003",
+    "source_id": "kp_ch11_001_digital_twin_definition",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_005_virtual_real_interaction",
+    "weight": 5,
+    "description": "digital_twin_definition includes virtual_real_interaction",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_004",
+    "source_id": "kp_ch11_001_digital_twin_definition",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_006_intelligent_intervention",
+    "weight": 5,
+    "description": "digital_twin_definition includes intelligent_intervention",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_005",
+    "source_id": "kp_ch11_001_digital_twin_definition",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_007_lifecycle_coverage",
+    "weight": 5,
+    "description": "digital_twin_definition includes lifecycle_coverage",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_006",
+    "source_id": "kp_ch11_009_digital_thread",
+    "relation_type": "supports",
+    "target_id": "kp_ch11_038_digital_asset_identity",
+    "weight": 5,
+    "description": "digital_thread supports digital_asset_identity",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_007",
+    "source_id": "kp_ch11_009_digital_thread",
+    "relation_type": "supports",
+    "target_id": "kp_ch11_039_cde_twin_evolution",
+    "weight": 5,
+    "description": "digital_thread supports cde_twin_evolution",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_008",
+    "source_id": "kp_ch11_017_multisource_data_collection",
+    "relation_type": "requires",
+    "target_id": "kp_ch11_018_spatiotemporal_alignment",
+    "weight": 5,
+    "description": "multisource_data_collection requires spatiotemporal_alignment",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_009",
+    "source_id": "kp_ch11_029_high_fidelity_modeling",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_033_lod_dynamic_loading",
+    "weight": 5,
+    "description": "high_fidelity_modeling includes lod_dynamic_loading",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_010",
+    "source_id": "kp_ch11_035_hybrid_modeling",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_036_rom_online_compute",
+    "weight": 5,
+    "description": "hybrid_modeling includes rom_online_compute",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_011",
+    "source_id": "kp_ch11_041_simulation_prediction_center",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_042_pavement_decay_prediction",
+    "weight": 5,
+    "description": "simulation_prediction_center includes pavement_decay_prediction",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_012",
+    "source_id": "kp_ch11_041_simulation_prediction_center",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_044_traffic_flow_online_simulation",
+    "weight": 5,
+    "description": "simulation_prediction_center includes traffic_flow_online_simulation",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_013",
+    "source_id": "kp_ch11_047_closed_loop_control",
+    "relation_type": "requires",
+    "target_id": "kp_ch11_048_human_in_loop_safety",
+    "weight": 5,
+    "description": "closed_loop_control requires human_in_loop_safety",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_014",
+    "source_id": "kp_ch11_051_environment_road_coupling",
+    "relation_type": "includes",
+    "target_id": "kp_ch11_052_transparent_geology",
+    "weight": 5,
+    "description": "environment_road_coupling includes transparent_geology",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_015",
+    "source_id": "kp_ch11_055_generative_design_twin",
+    "relation_type": "supports",
+    "target_id": "kp_ch11_057_pareto_decision_support",
+    "weight": 5,
+    "description": "generative_design_twin supports pareto_decision_support",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_016",
+    "source_id": "kp_ch11_062_predictive_maintenance",
+    "relation_type": "requires",
+    "target_id": "kp_ch11_063_structural_health_monitoring",
+    "weight": 5,
+    "description": "predictive_maintenance requires structural_health_monitoring",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_017",
+    "source_id": "kp_ch11_065_smart_traffic_governance",
+    "relation_type": "supports",
+    "target_id": "kp_ch11_067_v2x_active_safety",
+    "weight": 5,
+    "description": "smart_traffic_governance supports v2x_active_safety",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_018",
+    "source_id": "kp_ch11_068_resilience_service",
+    "relation_type": "requires",
+    "target_id": "kp_ch11_046_emergency_simulation_resilience",
+    "weight": 5,
+    "description": "resilience_service requires emergency_simulation_resilience",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_019",
+    "source_id": "kp_ch11_001_digital_twin_definition",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_002_cad_bim_gis_twin_evolution",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_020",
+    "source_id": "kp_ch11_002_cad_bim_gis_twin_evolution",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_003_road_twin_necessity",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_021",
+    "source_id": "kp_ch11_003_road_twin_necessity",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_004_accurate_mapping",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_022",
+    "source_id": "kp_ch11_004_accurate_mapping",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_005_virtual_real_interaction",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_023",
+    "source_id": "kp_ch11_005_virtual_real_interaction",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_006_intelligent_intervention",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_024",
+    "source_id": "kp_ch11_006_intelligent_intervention",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_007_lifecycle_coverage",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_025",
+    "source_id": "kp_ch11_007_lifecycle_coverage",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_008_multi_scale_twin",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_026",
+    "source_id": "kp_ch11_008_multi_scale_twin",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_009_digital_thread",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_027",
+    "source_id": "kp_ch11_009_digital_thread",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_010_five_dimensional_model",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_028",
+    "source_id": "kp_ch11_010_five_dimensional_model",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_011_typical_system_framework",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_029",
+    "source_id": "kp_ch11_011_typical_system_framework",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_012_bim_in_twin",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_030",
+    "source_id": "kp_ch11_012_bim_in_twin",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_013_gis_in_twin",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_031",
+    "source_id": "kp_ch11_013_gis_in_twin",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_014_iot_in_twin",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_032",
+    "source_id": "kp_ch11_014_iot_in_twin",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_015_data_hub_algorithms",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_033",
+    "source_id": "kp_ch11_015_data_hub_algorithms",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_016_visualization_platform",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_034",
+    "source_id": "kp_ch11_016_visualization_platform",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_017_multisource_data_collection",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_035",
+    "source_id": "kp_ch11_017_multisource_data_collection",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_018_spatiotemporal_alignment",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_036",
+    "source_id": "kp_ch11_018_spatiotemporal_alignment",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_019_static_reconstruction",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_037",
+    "source_id": "kp_ch11_019_static_reconstruction",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_020_cgcs2000_height_datum",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_038",
+    "source_id": "kp_ch11_020_cgcs2000_height_datum",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_021_lidar_point_cloud",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_039",
+    "source_id": "kp_ch11_021_lidar_point_cloud",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_022_reality_mesh",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_040",
+    "source_id": "kp_ch11_022_reality_mesh",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_023_physical_semantic_integration",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_041",
+    "source_id": "kp_ch11_023_physical_semantic_integration",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_024_dynamic_sensing_network",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_042",
+    "source_id": "kp_ch11_024_dynamic_sensing_network",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_025_structural_health_sensing",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_043",
+    "source_id": "kp_ch11_025_structural_health_sensing",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_026_traffic_behavior_sensing",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_044",
+    "source_id": "kp_ch11_026_traffic_behavior_sensing",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_027_environment_boundary_sensing",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_045",
+    "source_id": "kp_ch11_027_environment_boundary_sensing",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_028_edge_preprocessing",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_046",
+    "source_id": "kp_ch11_028_edge_preprocessing",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_029_high_fidelity_modeling",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_047",
+    "source_id": "kp_ch11_029_high_fidelity_modeling",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_030_bim_gis_semantic_integration",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_048",
+    "source_id": "kp_ch11_030_bim_gis_semantic_integration",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_031_guid_spatial_index",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_049",
+    "source_id": "kp_ch11_031_guid_spatial_index",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_032_web_lightweight_model",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_050",
+    "source_id": "kp_ch11_032_web_lightweight_model",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_033_lod_dynamic_loading",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_051",
+    "source_id": "kp_ch11_033_lod_dynamic_loading",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_034_sse_scheduling",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_052",
+    "source_id": "kp_ch11_034_sse_scheduling",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_035_hybrid_modeling",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_053",
+    "source_id": "kp_ch11_035_hybrid_modeling",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_036_rom_online_compute",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_054",
+    "source_id": "kp_ch11_036_rom_online_compute",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_037_model_update_calibration",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_055",
+    "source_id": "kp_ch11_037_model_update_calibration",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_038_digital_asset_identity",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_056",
+    "source_id": "kp_ch11_038_digital_asset_identity",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_039_cde_twin_evolution",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_057",
+    "source_id": "kp_ch11_039_cde_twin_evolution",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_040_twin_data_security",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_058",
+    "source_id": "kp_ch11_040_twin_data_security",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_041_simulation_prediction_center",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_059",
+    "source_id": "kp_ch11_041_simulation_prediction_center",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_042_pavement_decay_prediction",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_060",
+    "source_id": "kp_ch11_042_pavement_decay_prediction",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_043_bridge_tunnel_fatigue_prediction",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_061",
+    "source_id": "kp_ch11_043_bridge_tunnel_fatigue_prediction",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_044_traffic_flow_online_simulation",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_062",
+    "source_id": "kp_ch11_044_traffic_flow_online_simulation",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_045_traffic_safety_dynamic_risk",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_063",
+    "source_id": "kp_ch11_045_traffic_safety_dynamic_risk",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_046_emergency_simulation_resilience",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_064",
+    "source_id": "kp_ch11_046_emergency_simulation_resilience",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_047_closed_loop_control",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_065",
+    "source_id": "kp_ch11_047_closed_loop_control",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_048_human_in_loop_safety",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_066",
+    "source_id": "kp_ch11_048_human_in_loop_safety",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_049_ar_vr_interaction",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_067",
+    "source_id": "kp_ch11_049_ar_vr_interaction",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_050_collaborative_governance",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_068",
+    "source_id": "kp_ch11_050_collaborative_governance",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_051_environment_road_coupling",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_069",
+    "source_id": "kp_ch11_051_environment_road_coupling",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_052_transparent_geology",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_070",
+    "source_id": "kp_ch11_052_transparent_geology",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_053_hydrological_drainage_optimization",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_071",
+    "source_id": "kp_ch11_053_hydrological_drainage_optimization",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_054_wind_structure_safety",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_072",
+    "source_id": "kp_ch11_054_wind_structure_safety",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_055_generative_design_twin",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_073",
+    "source_id": "kp_ch11_055_generative_design_twin",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_056_parameter_optimization_layout",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_074",
+    "source_id": "kp_ch11_056_parameter_optimization_layout",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_057_pareto_decision_support",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_075",
+    "source_id": "kp_ch11_057_pareto_decision_support",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_058_virtual_driving_safety",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_076",
+    "source_id": "kp_ch11_058_virtual_driving_safety",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_059_dynamic_sight_distance",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_077",
+    "source_id": "kp_ch11_059_dynamic_sight_distance",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_060_construction_cps",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_078",
+    "source_id": "kp_ch11_060_construction_cps",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_061_digital_construction_delivery",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_079",
+    "source_id": "kp_ch11_061_digital_construction_delivery",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_062_predictive_maintenance",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_080",
+    "source_id": "kp_ch11_062_predictive_maintenance",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_063_structural_health_monitoring",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_081",
+    "source_id": "kp_ch11_063_structural_health_monitoring",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_064_lcc_asset_management",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_082",
+    "source_id": "kp_ch11_064_lcc_asset_management",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_065_smart_traffic_governance",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_083",
+    "source_id": "kp_ch11_065_smart_traffic_governance",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_066_digital_vehicle_flow",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_084",
+    "source_id": "kp_ch11_066_digital_vehicle_flow",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_067_v2x_active_safety",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_085",
+    "source_id": "kp_ch11_067_v2x_active_safety",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_068_resilience_service",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_086",
+    "source_id": "kp_ch11_068_resilience_service",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_069_data_connection",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_087",
+    "source_id": "kp_ch11_069_data_connection",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_070_twin_data",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_088",
+    "source_id": "kp_ch11_070_twin_data",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_071_services_applications",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_089",
+    "source_id": "kp_ch11_071_services_applications",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_072_federated_architecture",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_090",
+    "source_id": "kp_ch11_072_federated_architecture",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_073_semantic_mapping",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_091",
+    "source_id": "kp_ch11_073_semantic_mapping",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_074_holographic_traffic_sensing",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_092",
+    "source_id": "kp_ch11_074_holographic_traffic_sensing",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_075_what_if_simulation",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_093",
+    "source_id": "kp_ch11_075_what_if_simulation",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_076_as_built_twin",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_094",
+    "source_id": "kp_ch11_076_as_built_twin",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_077_closed_loop_verification",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch11_095",
+    "source_id": "kp_ch11_077_closed_loop_verification",
+    "relation_type": "related_to",
+    "target_id": "kp_ch11_078_knowledge_driven_decision",
+    "weight": 3,
+    "description": "相邻主题或教学递进关系",
+    "use_in_rag": true
+  }
+]

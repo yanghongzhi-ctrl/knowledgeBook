@@ -1,0 +1,450 @@
+[
+  {
+    "resource_id": "video_ch09_001",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "resource_type": "video",
+    "title": "Civil 3D曲面建模与断裂线处理",
+    "file_path": "chapter_09/videos/video_ch09_001.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Civil 3D曲面建模与断裂线处理"
+    ],
+    "reference_aliases": [
+      "Civil 3D曲面建模与断裂线处理",
+      "video_ch09_001"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_002",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "resource_type": "video",
+    "title": "Civil 3D路线与桩号坐标查询",
+    "file_path": "chapter_09/videos/video_ch09_002.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Civil 3D路线与桩号坐标查询"
+    ],
+    "reference_aliases": [
+      "Civil 3D路线与桩号坐标查询",
+      "video_ch09_002"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_003",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "resource_type": "video",
+    "title": "Civil 3D纵断面与PVI编辑",
+    "file_path": "chapter_09/videos/video_ch09_003.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Civil 3D纵断面与PVI编辑"
+    ],
+    "reference_aliases": [
+      "Civil 3D纵断面与PVI编辑",
+      "video_ch09_003"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_004",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "resource_type": "video",
+    "title": "Civil 3D装配、廊道与道路曲面",
+    "file_path": "chapter_09/videos/video_ch09_004.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Civil 3D装配、廊道与道路曲面"
+    ],
+    "reference_aliases": [
+      "Civil 3D装配、廊道与道路曲面",
+      "video_ch09_004"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_005",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "resource_type": "video",
+    "title": "Civil 3D .NET API对象访问",
+    "file_path": "chapter_09/videos/video_ch09_005.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Civil 3D .NET API对象访问"
+    ],
+    "reference_aliases": [
+      "Civil 3D .NET API对象访问",
+      "video_ch09_005"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_006",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "resource_type": "video",
+    "title": "Map 3D FDO连接与图层可视化",
+    "file_path": "chapter_09/videos/video_ch09_006.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Map 3D FDO连接与图层可视化"
+    ],
+    "reference_aliases": [
+      "Map 3D FDO连接与图层可视化",
+      "video_ch09_006"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_007",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "resource_type": "video",
+    "title": "Map 3D属性查询与空间查询",
+    "file_path": "chapter_09/videos/video_ch09_007.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Map 3D属性查询与空间查询"
+    ],
+    "reference_aliases": [
+      "Map 3D属性查询与空间查询",
+      "video_ch09_007"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_008",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "resource_type": "video",
+    "title": "Map 3D .NET API遍历FDO数据",
+    "file_path": "chapter_09/videos/video_ch09_008.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "Map 3D .NET API遍历FDO数据"
+    ],
+    "reference_aliases": [
+      "Map 3D .NET API遍历FDO数据",
+      "video_ch09_008"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_009",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "resource_type": "video",
+    "title": "GDAL DEM重采样裁剪与坡度坡向分析",
+    "file_path": "chapter_09/videos/video_ch09_009.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "GDAL DEM重采样裁剪与坡度坡向分析"
+    ],
+    "reference_aliases": [
+      "GDAL DEM重采样裁剪与坡度坡向分析",
+      "video_ch09_009"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_010",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "resource_type": "video",
+    "title": "GDAL重分类与栅格矢量转换",
+    "file_path": "chapter_09/videos/video_ch09_010.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "GDAL重分类与栅格矢量转换"
+    ],
+    "reference_aliases": [
+      "GDAL重分类与栅格矢量转换",
+      "video_ch09_010"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_011",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "resource_type": "video",
+    "title": "BIM+GIS地质选线走廊带生成",
+    "file_path": "chapter_09/videos/video_ch09_011.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "BIM+GIS地质选线走廊带生成"
+    ],
+    "reference_aliases": [
+      "BIM+GIS地质选线走廊带生成",
+      "video_ch09_011"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_012",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "resource_type": "video",
+    "title": "地形重构与扰动后风险再评价",
+    "file_path": "chapter_09/videos/video_ch09_012.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "地形重构与扰动后风险再评价"
+    ],
+    "reference_aliases": [
+      "地形重构与扰动后风险再评价",
+      "video_ch09_012"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_013",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "resource_type": "video",
+    "title": "地质选线知识推理与交互反馈",
+    "file_path": "chapter_09/videos/video_ch09_013.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "地质选线知识推理与交互反馈"
+    ],
+    "reference_aliases": [
+      "地质选线知识推理与交互反馈",
+      "video_ch09_013"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "video_ch09_014",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "resource_type": "video",
+    "title": "GDAL—Map 3D—Civil 3D协同闭环",
+    "file_path": "chapter_09/videos/video_ch09_014.mp4",
+    "description": "用于软件操作演示和课后复习。",
+    "related_kps": [],
+    "qa_use": "学生询问对应操作时推荐到具体视频片段。",
+    "status": "placeholder",
+    "keywords": [
+      "GDAL—Map 3D—Civil 3D协同闭环"
+    ],
+    "reference_aliases": [
+      "GDAL—Map 3D—Civil 3D协同闭环",
+      "video_ch09_014"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch09_script_01",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "9.1从模型驱动到数据驱动",
+    "file_path": "assets/ch09/interactive_html/9.1从模型驱动到数据驱动.html",
+    "description": "用于浏览第9章 BIM_GIS集成方法的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "keywords": [
+      "9.1从模型驱动到数据驱动",
+      "BIM+GIS集成互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "9.1从模型驱动到数据驱动怎么看？",
+      "我想看9.1从模型驱动到数据驱动。",
+      "第9章 BIM_GIS集成方法互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch09_script_02",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "9.2BIM+GIS集成层次",
+    "file_path": "assets/ch09/interactive_html/9.2BIM+GIS集成层次.html",
+    "description": "用于浏览第9章 BIM_GIS集成方法的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "keywords": [
+      "9.2BIM+GIS集成层次",
+      "BIM+GIS集成互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "9.2BIM+GIS集成层次怎么看？",
+      "我想看9.2BIM+GIS集成层次。",
+      "第9章 BIM_GIS集成方法互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch09_script_03",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "9.3BIM+GIS协同设计流程",
+    "file_path": "assets/ch09/interactive_html/9.3BIM+GIS协同设计流程.html",
+    "description": "用于浏览第9章 BIM_GIS集成方法的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "keywords": [
+      "9.3BIM+GIS协同设计流程",
+      "BIM+GIS集成互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "9.3BIM+GIS协同设计流程怎么看？",
+      "我想看9.3BIM+GIS协同设计流程。",
+      "第9章 BIM_GIS集成方法互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch09_script_04",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "9.4Civil3D平台的道路BIM正向设计",
+    "file_path": "assets/ch09/interactive_html/9.4Civil3D平台的道路BIM正向设计.html",
+    "description": "用于浏览第9章 BIM_GIS集成方法的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "keywords": [
+      "9.4Civil3D平台的道路BIM正向设计",
+      "BIM+GIS集成互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "9.4Civil3D平台的道路BIM正向设计怎么看？",
+      "我想看9.4Civil3D平台的道路BIM正向设计。",
+      "第9章 BIM_GIS集成方法互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch09_script_05",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "9.5Map3D平台的道路BIM_GIS集成",
+    "file_path": "assets/ch09/interactive_html/9.5Map3D平台的道路BIM_GIS集成.html",
+    "description": "用于浏览第9章 BIM_GIS集成方法的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "keywords": [
+      "9.5Map3D平台的道路BIM_GIS集成",
+      "BIM+GIS集成互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "9.5Map3D平台的道路BIM_GIS集成怎么看？",
+      "我想看9.5Map3D平台的道路BIM_GIS集成。",
+      "第9章 BIM_GIS集成方法互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch09_script_06",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "9.6BIM_GIS在公路地质选线中的应用",
+    "file_path": "assets/ch09/interactive_html/9.6BIM_GIS在公路地质选线中的应用.html",
+    "description": "用于浏览第9章 BIM_GIS集成方法的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch09_001_bimgis_paradigm",
+      "kp_ch09_002_model_to_data",
+      "kp_ch09_004_integration_levels"
+    ],
+    "keywords": [
+      "9.6BIM_GIS在公路地质选线中的应用",
+      "BIM+GIS集成互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "9.6BIM_GIS在公路地质选线中的应用怎么看？",
+      "我想看9.6BIM_GIS在公路地质选线中的应用。",
+      "第9章 BIM_GIS集成方法互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  }
+]

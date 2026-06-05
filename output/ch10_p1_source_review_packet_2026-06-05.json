@@ -1,0 +1,286 @@
+{
+  "source_template": "D:\\knowledgebase\\data\\review\\ch10_ch11_source_boundary_manual_approvals.template.json",
+  "source_docx": "F:\\编书\\道路工程数字设计方法\\05脚本及图片素材\\批注版-道路工程数字设计方法-数字化教材稿.docx",
+  "chapter_id": "ch10",
+  "purpose": "Focused P1 review packet. Suggestions are not manual approvals.",
+  "items": [
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_135",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "source_excerpt": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+      "candidate_score": 0.839208,
+      "score_margin": 0.047059,
+      "candidate_span": {
+        "start": 4884,
+        "end": 4884
+      },
+      "candidate_text": "通过对专业书籍、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:通过对专业书籍,设计规范和专家经验的系统,性梳理,提炼出经典的,被广泛接受的设计原则"
+      ],
+      "matched_terms": [
+        "通过对专业书籍",
+        "设计规范和专家经验的系统",
+        "性梳理",
+        "提炼出经典的",
+        "被广泛接受的设计原则"
+      ],
+      "context": [
+        {
+          "paragraph": 4882,
+          "role": "context",
+          "text": "规则知识代表了领域内经过验证的因果关系和处理原则，通常以“如果...那么...” (IF-THEN)的形式表达。可采用手工获取与自动获取相结合的混合策略来构建规则知识库，以确保其全面性和深度。"
+        },
+        {
+          "paragraph": 4883,
+          "role": "context",
+          "text": "1.手工获取"
+        },
+        {
+          "paragraph": 4884,
+          "role": "candidate",
+          "text": "通过对专业书籍、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。"
+        },
+        {
+          "paragraph": 4885,
+          "role": "context",
+          "text": "2.自动获取"
+        },
+        {
+          "paragraph": 4886,
+          "role": "context",
+          "text": "大量的实例知识库本身就是一个蕴含着潜在规律的数据资源。通过应用数据挖掘技术，可以从案例中“学习”出新的，甚至是专家未能明确表述的隐含规则。在地质选线知识库中，可以采用经典的C4.5决策树算法来实现这一目标。"
+        }
+      ],
+      "review_prompt": "核对 Source_Chunk 与候选 Word 段落是否表达同一概念；若是，仅确认概念锚点，不标记为逐字引用。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_144",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "source_excerpt": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+      "candidate_score": 0.909516,
+      "score_margin": 0.31171,
+      "candidate_span": {
+        "start": 4920,
+        "end": 4920
+      },
+      "candidate_text": "（1）相似点分析：当前情境与历史实例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
+      "candidate_reasons": [
+        "excerpt:0.91",
+        "summary:0.91",
+        "terms:相似点分析,关键维度,如地貌类型,滑动方向,滑坡规模等,表现出高度一致"
+      ],
+      "matched_terms": [
+        "相似点分析",
+        "关键维度",
+        "如地貌类型",
+        "滑动方向",
+        "滑坡规模等",
+        "表现出高度一致"
+      ],
+      "context": [
+        {
+          "paragraph": 4918,
+          "role": "context",
+          "text": "1.推理目标与基本思想"
+        },
+        {
+          "paragraph": 4919,
+          "role": "context",
+          "text": "CBR的核心目标是在给定设计输入（如地质条件、滑坡类型、空间位置等）的基础上，从知识实例库中检索多个最相似的历史实例，并输出以下可解释内容："
+        },
+        {
+          "paragraph": 4920,
+          "role": "candidate",
+          "text": "（1）相似点分析：当前情境与历史实例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；"
+        },
+        {
+          "paragraph": 4921,
+          "role": "context",
+          "text": "（2）差异点定位：哪些局部特征（如地层结构、水文条件）存在实质性偏差；"
+        },
+        {
+          "paragraph": 4922,
+          "role": "context",
+          "text": "（3）参考方案：历史实例中采用的设计策略是否具备迁移价值；"
+        }
+      ],
+      "review_prompt": "核对 Source_Chunk 与候选 Word 段落是否表达同一概念；若是，仅确认概念锚点，不标记为逐字引用。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_146",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "source_excerpt": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；",
+      "candidate_score": 0.782241,
+      "score_margin": 0.372277,
+      "candidate_span": {
+        "start": 4922,
+        "end": 4922
+      },
+      "candidate_text": "（3）参考方案：历史实例中采用的设计策略是否具备迁移价值；",
+      "candidate_reasons": [
+        "excerpt:0.86",
+        "summary:0.86",
+        "terms:参考方案,是否具备迁移价值"
+      ],
+      "matched_terms": [
+        "参考方案",
+        "是否具备迁移价值"
+      ],
+      "context": [
+        {
+          "paragraph": 4920,
+          "role": "context",
+          "text": "（1）相似点分析：当前情境与历史实例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；"
+        },
+        {
+          "paragraph": 4921,
+          "role": "context",
+          "text": "（2）差异点定位：哪些局部特征（如地层结构、水文条件）存在实质性偏差；"
+        },
+        {
+          "paragraph": 4922,
+          "role": "candidate",
+          "text": "（3）参考方案：历史实例中采用的设计策略是否具备迁移价值；"
+        },
+        {
+          "paragraph": 4923,
+          "role": "context",
+          "text": "（4）适用边界：该策略在当前情境下是否仍然有效，是否需要条件修正。"
+        },
+        {
+          "paragraph": 4924,
+          "role": "context",
+          "text": "2.推理流程"
+        }
+      ],
+      "review_prompt": "核对 Source_Chunk 与候选 Word 段落是否表达同一概念；若是，仅确认概念锚点，不标记为逐字引用。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_148",
+      "priority_group": "P1_ch10_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "source_excerpt": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。",
+      "candidate_score": 0.918546,
+      "score_margin": 0.080771,
+      "candidate_span": {
+        "start": 4927,
+        "end": 4927
+      },
+      "candidate_text": "为保证与知识库中实例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与实例库的属性结构一一对应。",
+      "candidate_reasons": [
+        "excerpt:0.91",
+        "summary:0.91",
+        "terms:构一致,当前设计情境首先通过语义,关系重构,统一转化为属性向量,该向量包含地质地貌类型,滑坡空间位置,破坏机制,构造背景等多个字段"
+      ],
+      "matched_terms": [
+        "构一致",
+        "当前设计情境首先通过语义",
+        "关系重构",
+        "统一转化为属性向量",
+        "该向量包含地质地貌类型",
+        "滑坡空间位置",
+        "破坏机制",
+        "构造背景等多个字段",
+        "一对应"
+      ],
+      "context": [
+        {
+          "paragraph": 4925,
+          "role": "context",
+          "text": "整个实例推理过程包括以下关键环节（如图 10-5）："
+        },
+        {
+          "paragraph": 4926,
+          "role": "context",
+          "text": "（1）目标实例构建：语义一致的属性向量表示"
+        },
+        {
+          "paragraph": 4927,
+          "role": "candidate",
+          "text": "为保证与知识库中实例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与实例库的属性结构一一对应。"
+        },
+        {
+          "paragraph": 4928,
+          "role": "context",
+          "text": "（2）权重计算：粗糙集驱动的属性重要度挖掘"
+        },
+        {
+          "paragraph": 4929,
+          "role": "context",
+          "text": "传统基于经验赋权的方式易受主观偏差影响。因此，可采用粗糙集（Rough Set）方法，对“条件属性”与“决策属性”（即推荐设计方案）之间的依赖关系进行建模。通过构建依赖度函数,计算各属性对方案选择的影响力，并归一化得到权重向量，作为相似度匹配的加权因子。"
+        }
+      ],
+      "review_prompt": "核对 Source_Chunk 与候选 Word 段落是否表达同一概念；若是，仅确认概念锚点，不标记为逐字引用。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_140",
+      "priority_group": "P1_ch10_formula_gap",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "source_excerpt": "当 且 ,则生成工程语义事实：，。",
+      "candidate_score": 0.263417,
+      "score_margin": 0.068917,
+      "candidate_span": {
+        "start": 4913,
+        "end": 4913
+      },
+      "candidate_text": "当TA,B=Intersects 且 A∩lk≠ϕ,则生成工程语义事实：fk:分区=pk，pkϵ前缘、后缘、形成区-流通区-堆积扇。",
+      "candidate_reasons": [
+        "excerpt:0.30",
+        "summary:0.30",
+        "terms:则生成工程语义事实"
+      ],
+      "matched_terms": [
+        "则生成工程语义事实"
+      ],
+      "context": [
+        {
+          "paragraph": 4911,
+          "role": "context",
+          "text": "（2）领域语义增强层（“坐标分区”）：在通用的拓扑模型之上，构建了一个领域专用的语义层，从而有效地将抽象的空间查询转化为具有明确工程意义的判别。"
+        },
+        {
+          "paragraph": 4912,
+          "role": "context",
+          "text": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词TA,B∈{Intersects,Contains,Touches,Disjoint,⋯}。在“坐标分区”模型下，令地质体内部关键分区边界集合为L=lkk=1m(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。"
+        },
+        {
+          "paragraph": 4913,
+          "role": "candidate",
+          "text": "当TA,B=Intersects 且 A∩lk≠ϕ,则生成工程语义事实：fk:分区=pk，pkϵ前缘、后缘、形成区-流通区-堆积扇。"
+        },
+        {
+          "paragraph": 4914,
+          "role": "context",
+          "text": "例如，对于一条泥石流沟，会依次存储其形成区末端、流通区末端和堆积扇外缘的关键点坐标。当SRR引擎检测到路线与该泥石流面要素相交（Intersects）时，会立即启动第二层判断：它会进一步计算路线线段与这些关键点连接而成的“分区线段”的相交关系。通过判断路线与哪一条分区线段相交，系统就能精确地报告出：“路线与泥石流‘流通区’相交”。"
+        },
+        {
+          "paragraph": 4915,
+          "role": "context",
+          "text": "路线与泥石流轴线分区关系图"
+        }
+      ],
+      "review_prompt": "重点核对公式/变量是否在 Word 段落中被截断；若候选仍不完整，应标记 split_required 或 manual_anchor_pending。"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "quick_confirm": 4,
+    "formula_gap": 1
+  }
+}

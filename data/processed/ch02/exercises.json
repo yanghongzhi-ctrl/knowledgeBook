@@ -1,0 +1,127 @@
+[
+  {
+    "exercise_id": "ex_ch02_001",
+    "question": "三维几何变换中常见的操作有哪些？它们如何支持道路构件的空间布置？",
+    "question_type": "简答",
+    "difficulty": "中等",
+    "standard_answer_points": [
+      "平移、旋转、缩放、镜像",
+      "说明空间定位、方向调整、尺寸变化、对称布设",
+      "结合道路构件举例。"
+    ],
+    "grading_rubric": "平移变换:2;旋转变换:2;缩放变换:1.5;镜像变换:1.5;道路应用示例:2;表达清晰:1",
+    "related_kps": [
+      "kp_ch02_022",
+      "kp_ch02_023",
+      "kp_ch02_024",
+      "kp_ch02_025"
+    ],
+    "feedback_template": "你的答案应围绕教材第2章对应知识点，补充定义、差异、工程作用和道路应用示例。",
+    "recommended_review": "优先复习相关知识点卡片、对应图表和公式资源。",
+    "chapter_id": "ch02"
+  },
+  {
+    "exercise_id": "ex_ch02_002",
+    "question": "为什么在道路工程中必须理解三维投影机制？正投影与透视投影有何差异？",
+    "question_type": "简答",
+    "difficulty": "中等",
+    "standard_answer_points": [
+      "说明三维模型需转换为图纸或屏幕表达",
+      "正投影比例真实，适合图纸",
+      "透视投影有近大远小，适合三维展示。"
+    ],
+    "grading_rubric": "投影必要性:3;正投影特点:2;透视投影特点:2;适用场景:2;误区辨析:1",
+    "related_kps": [
+      "kp_ch02_041",
+      "kp_ch02_043",
+      "kp_ch02_044",
+      "kp_ch02_046"
+    ],
+    "feedback_template": "你的答案应围绕教材第2章对应知识点，补充定义、差异、工程作用和道路应用示例。",
+    "recommended_review": "优先复习相关知识点卡片、对应图表和公式资源。",
+    "chapter_id": "ch02"
+  },
+  {
+    "exercise_id": "ex_ch02_003",
+    "question": "简述TIN（不规则三角网）与栅格DEM在表示地形时的优缺点比较。",
+    "question_type": "简答",
+    "difficulty": "中等",
+    "standard_answer_points": [
+      "规则格网存储简单、适合栅格分析但可能冗余",
+      "TIN点少精度高、可变分辨率、拓扑好但构建复杂。"
+    ],
+    "grading_rubric": "规则格网优点:2;规则格网局限:2;TIN优点:2;TIN局限:2;适用场景判断:2",
+    "related_kps": [
+      "kp_ch02_053",
+      "kp_ch02_054",
+      "kp_ch02_055"
+    ],
+    "feedback_template": "你的答案应围绕教材第2章对应知识点，补充定义、差异、工程作用和道路应用示例。",
+    "recommended_review": "优先复习相关知识点卡片、对应图表和公式资源。",
+    "chapter_id": "ch02"
+  },
+  {
+    "exercise_id": "ex_ch02_004",
+    "question": "DEM的数据来源和获取方式有哪几种？优缺点是什么？",
+    "question_type": "简答",
+    "difficulty": "中等",
+    "standard_answer_points": [
+      "包括传统测量、地形图数字化、摄影测量、激光雷达和已有DEM数据",
+      "分别说明精度、效率、成本和适用范围。"
+    ],
+    "grading_rubric": "传统测量:2;地形图数字化:2;摄影测量:2;激光雷达:2;已有DEM与质量判断:2",
+    "related_kps": [
+      "kp_ch02_056",
+      "kp_ch02_057",
+      "kp_ch02_058",
+      "kp_ch02_059",
+      "kp_ch02_060",
+      "kp_ch02_061"
+    ],
+    "feedback_template": "你的答案应围绕教材第2章对应知识点，补充定义、差异、工程作用和道路应用示例。",
+    "recommended_review": "优先复习相关知识点卡片、对应图表和公式资源。",
+    "chapter_id": "ch02"
+  },
+  {
+    "exercise_id": "ex_ch02_005",
+    "question": "简述构造图元、控制图元与辅助图元在道路建模中的区别与协作关系，并举例说明它们如何共同作用于构件生成过程。",
+    "question_type": "简答",
+    "difficulty": "较难",
+    "standard_answer_points": [
+      "构造图元表达实体形态，控制图元控制路径和规则，辅助图元支撑定位和参照",
+      "例如路线中心线控制廊道，横断面模板生成构造实体，定位点和参考面辅助装配。"
+    ],
+    "grading_rubric": "三类定义:3;差异辨析:2;协作关系:2;工程示例:2;表述准确:1",
+    "related_kps": [
+      "kp_ch02_019",
+      "kp_ch02_020",
+      "kp_ch02_021",
+      "kp_ch02_090"
+    ],
+    "feedback_template": "你的答案应围绕教材第2章对应知识点，补充定义、差异、工程作用和道路应用示例。",
+    "recommended_review": "优先复习相关知识点卡片、对应图表和公式资源。",
+    "chapter_id": "ch02"
+  },
+  {
+    "exercise_id": "ex_ch02_006",
+    "question": "线框模型、表面模型与实体模型在表达构件特征上各有何优势与局限？如何选取合适的表达方式？",
+    "question_type": "简答",
+    "difficulty": "中等",
+    "standard_answer_points": [
+      "线框轻便但表达力弱",
+      "表面可表达外形和坡度但无体积",
+      "实体表达完整但数据量大",
+      "应按设计阶段、用途和LOD选择。"
+    ],
+    "grading_rubric": "线框:2;表面:2;实体:2;选择原则:3;工程例子:1",
+    "related_kps": [
+      "kp_ch02_094",
+      "kp_ch02_095",
+      "kp_ch02_096",
+      "kp_ch02_097"
+    ],
+    "feedback_template": "你的答案应围绕教材第2章对应知识点，补充定义、差异、工程作用和道路应用示例。",
+    "recommended_review": "优先复习相关知识点卡片、对应图表和公式资源。",
+    "chapter_id": "ch02"
+  }
+]

@@ -1,0 +1,1852 @@
+[
+  {
+    "relation_id": "rel_ch01_0001",
+    "source_id": "kp_ch01_003",
+    "relation_type": "evolves_to",
+    "target_id": "kp_ch01_010",
+    "weight": 5,
+    "description": "CAD阶段演进到BIM模型中心阶段",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0002",
+    "source_id": "kp_ch01_010",
+    "relation_type": "evolves_to",
+    "target_id": "kp_ch01_017",
+    "weight": 5,
+    "description": "BIM模型进一步与GIS空间数据融合",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0003",
+    "source_id": "kp_ch01_017",
+    "relation_type": "evolves_to",
+    "target_id": "kp_ch01_025",
+    "weight": 5,
+    "description": "BIM+GIS发展为数字孪生虚实闭环",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0004",
+    "source_id": "kp_ch01_033",
+    "relation_type": "supports",
+    "target_id": "kp_ch01_038",
+    "weight": 5,
+    "description": "构件化为参数化提供对象基础",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0005",
+    "source_id": "kp_ch01_038",
+    "relation_type": "supports",
+    "target_id": "kp_ch01_042",
+    "weight": 5,
+    "description": "参数联动支撑协同化变更传递",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0006",
+    "source_id": "kp_ch01_042",
+    "relation_type": "supports",
+    "target_id": "kp_ch01_046",
+    "weight": 4,
+    "description": "协同过程促进生命周期数据连续",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0007",
+    "source_id": "kp_ch01_050",
+    "relation_type": "contrasts_with",
+    "target_id": "kp_ch01_051",
+    "weight": 5,
+    "description": "CAD与BIM在平台定位上存在差异",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0008",
+    "source_id": "kp_ch01_051",
+    "relation_type": "supports",
+    "target_id": "kp_ch01_053",
+    "weight": 4,
+    "description": "BIM模型是数字孪生的基础之一",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0009",
+    "source_id": "kp_ch01_052",
+    "relation_type": "supports",
+    "target_id": "kp_ch01_057",
+    "weight": 5,
+    "description": "GIS是空间—构件协同的空间基础",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0010",
+    "source_id": "kp_ch01_060",
+    "relation_type": "supports",
+    "target_id": "kp_ch01_071",
+    "weight": 5,
+    "description": "标准接口支撑模型交付",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0011",
+    "source_id": "kp_ch01_001",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_001",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0012",
+    "source_id": "kp_ch01_003",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_001",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0013",
+    "source_id": "kp_ch01_010",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_001",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0014",
+    "source_id": "kp_ch01_017",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_001",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0015",
+    "source_id": "kp_ch01_001",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_002",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0016",
+    "source_id": "kp_ch01_002",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_002",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0017",
+    "source_id": "kp_ch01_031",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_002",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0018",
+    "source_id": "kp_ch01_079",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_002",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0019",
+    "source_id": "kp_ch01_003",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_003",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0020",
+    "source_id": "kp_ch01_004",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_003",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0021",
+    "source_id": "kp_ch01_006",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_003",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0022",
+    "source_id": "kp_ch01_007",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_003",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0023",
+    "source_id": "kp_ch01_003",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_004",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0024",
+    "source_id": "kp_ch01_006",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_004",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0025",
+    "source_id": "kp_ch01_007",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_004",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0026",
+    "source_id": "kp_ch01_005",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_005",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0027",
+    "source_id": "kp_ch01_011",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_005",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0028",
+    "source_id": "kp_ch01_012",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_005",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0029",
+    "source_id": "kp_ch01_010",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_006",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0030",
+    "source_id": "kp_ch01_011",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_006",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0031",
+    "source_id": "kp_ch01_015",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_006",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0032",
+    "source_id": "kp_ch01_011",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_007",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0033",
+    "source_id": "kp_ch01_012",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_007",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0034",
+    "source_id": "kp_ch01_015",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_007",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0035",
+    "source_id": "kp_ch01_013",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_008",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0036",
+    "source_id": "kp_ch01_064",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_008",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0037",
+    "source_id": "kp_ch01_065",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_008",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0038",
+    "source_id": "kp_ch01_016",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_009",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0039",
+    "source_id": "kp_ch01_017",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_010",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0040",
+    "source_id": "kp_ch01_018",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_010",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0041",
+    "source_id": "kp_ch01_019",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_010",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0042",
+    "source_id": "kp_ch01_020",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_010",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0043",
+    "source_id": "kp_ch01_021",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_011",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0044",
+    "source_id": "kp_ch01_022",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_011",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0045",
+    "source_id": "kp_ch01_023",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_011",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0046",
+    "source_id": "kp_ch01_024",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_011",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0047",
+    "source_id": "kp_ch01_025",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_012",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0048",
+    "source_id": "kp_ch01_026",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_012",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0049",
+    "source_id": "kp_ch01_027",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_012",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0050",
+    "source_id": "kp_ch01_028",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_012",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0051",
+    "source_id": "kp_ch01_027",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_013",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0052",
+    "source_id": "kp_ch01_028",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_013",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0053",
+    "source_id": "kp_ch01_029",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_013",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0054",
+    "source_id": "kp_ch01_031",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_014",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0055",
+    "source_id": "kp_ch01_032",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_014",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0056",
+    "source_id": "kp_ch01_033",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_015",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0057",
+    "source_id": "kp_ch01_038",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_015",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0058",
+    "source_id": "kp_ch01_042",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_015",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0059",
+    "source_id": "kp_ch01_046",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_015",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0060",
+    "source_id": "kp_ch01_033",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_016",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0061",
+    "source_id": "kp_ch01_034",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_016",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0062",
+    "source_id": "kp_ch01_035",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_016",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0063",
+    "source_id": "kp_ch01_038",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_017",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0064",
+    "source_id": "kp_ch01_039",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_017",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0065",
+    "source_id": "kp_ch01_040",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_017",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0066",
+    "source_id": "kp_ch01_042",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_018",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0067",
+    "source_id": "kp_ch01_043",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_018",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0068",
+    "source_id": "kp_ch01_044",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_018",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0069",
+    "source_id": "kp_ch01_046",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_019",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0070",
+    "source_id": "kp_ch01_047",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_019",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0071",
+    "source_id": "kp_ch01_050",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_020",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0072",
+    "source_id": "kp_ch01_051",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_020",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0073",
+    "source_id": "kp_ch01_052",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_020",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0074",
+    "source_id": "kp_ch01_053",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_020",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0075",
+    "source_id": "kp_ch01_050",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_021",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0076",
+    "source_id": "kp_ch01_075",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_021",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0077",
+    "source_id": "kp_ch01_054",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_022",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0078",
+    "source_id": "kp_ch01_057",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_023",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0079",
+    "source_id": "kp_ch01_058",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_024",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0080",
+    "source_id": "kp_ch01_059",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_025",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0081",
+    "source_id": "kp_ch01_060",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_025",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0082",
+    "source_id": "kp_ch01_061",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_026",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0083",
+    "source_id": "kp_ch01_062",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_027",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0084",
+    "source_id": "kp_ch01_063",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_027",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0085",
+    "source_id": "kp_ch01_066",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_027",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0086",
+    "source_id": "kp_ch01_070",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_027",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0087",
+    "source_id": "kp_ch01_063",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_028",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0088",
+    "source_id": "kp_ch01_066",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_029",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0089",
+    "source_id": "kp_ch01_067",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_029",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0090",
+    "source_id": "kp_ch01_069",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_030",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0091",
+    "source_id": "kp_ch01_043",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_030",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0092",
+    "source_id": "kp_ch01_070",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_031",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0093",
+    "source_id": "kp_ch01_071",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_031",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0094",
+    "source_id": "kp_ch01_072",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_032",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0095",
+    "source_id": "kp_ch01_073",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_032",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0096",
+    "source_id": "kp_ch01_074",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_032",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0097",
+    "source_id": "kp_ch01_076",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_033",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0098",
+    "source_id": "kp_ch01_077",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_033",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0099",
+    "source_id": "kp_ch01_078",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_033",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0100",
+    "source_id": "kp_ch01_001",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_034",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0101",
+    "source_id": "kp_ch01_002",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_035",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0102",
+    "source_id": "kp_ch01_003",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_036",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0103",
+    "source_id": "kp_ch01_004",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_037",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0104",
+    "source_id": "kp_ch01_005",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_038",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0105",
+    "source_id": "kp_ch01_006",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_039",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0106",
+    "source_id": "kp_ch01_007",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_040",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0107",
+    "source_id": "kp_ch01_008",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_041",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0108",
+    "source_id": "kp_ch01_009",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_042",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0109",
+    "source_id": "kp_ch01_010",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_043",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0110",
+    "source_id": "kp_ch01_011",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_044",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0111",
+    "source_id": "kp_ch01_012",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_045",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0112",
+    "source_id": "kp_ch01_013",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_046",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0113",
+    "source_id": "kp_ch01_014",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_047",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0114",
+    "source_id": "kp_ch01_015",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_048",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0115",
+    "source_id": "kp_ch01_016",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_049",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0116",
+    "source_id": "kp_ch01_017",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_050",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0117",
+    "source_id": "kp_ch01_018",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_051",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0118",
+    "source_id": "kp_ch01_019",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_052",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0119",
+    "source_id": "kp_ch01_020",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_053",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0120",
+    "source_id": "kp_ch01_021",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_054",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0121",
+    "source_id": "kp_ch01_022",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_055",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0122",
+    "source_id": "kp_ch01_023",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_056",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0123",
+    "source_id": "kp_ch01_024",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_057",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0124",
+    "source_id": "kp_ch01_025",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_058",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0125",
+    "source_id": "kp_ch01_026",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_059",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0126",
+    "source_id": "kp_ch01_027",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_060",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0127",
+    "source_id": "kp_ch01_028",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_061",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0128",
+    "source_id": "kp_ch01_029",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_062",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0129",
+    "source_id": "kp_ch01_030",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_063",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0130",
+    "source_id": "kp_ch01_031",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_064",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0131",
+    "source_id": "kp_ch01_032",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_065",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0132",
+    "source_id": "kp_ch01_033",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_066",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0133",
+    "source_id": "kp_ch01_034",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_067",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0134",
+    "source_id": "kp_ch01_035",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_068",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0135",
+    "source_id": "kp_ch01_036",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_069",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0136",
+    "source_id": "kp_ch01_037",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_070",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0137",
+    "source_id": "kp_ch01_038",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_071",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0138",
+    "source_id": "kp_ch01_039",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_072",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0139",
+    "source_id": "kp_ch01_040",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_073",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0140",
+    "source_id": "kp_ch01_041",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_074",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0141",
+    "source_id": "kp_ch01_042",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_075",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0142",
+    "source_id": "kp_ch01_043",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_076",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0143",
+    "source_id": "kp_ch01_044",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_077",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0144",
+    "source_id": "kp_ch01_045",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_078",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0145",
+    "source_id": "kp_ch01_046",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_079",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0146",
+    "source_id": "kp_ch01_047",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_080",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0147",
+    "source_id": "kp_ch01_048",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_081",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0148",
+    "source_id": "kp_ch01_049",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_082",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0149",
+    "source_id": "kp_ch01_050",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_083",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0150",
+    "source_id": "kp_ch01_051",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_084",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0151",
+    "source_id": "kp_ch01_052",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_085",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0152",
+    "source_id": "kp_ch01_053",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_086",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0153",
+    "source_id": "kp_ch01_054",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_087",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0154",
+    "source_id": "kp_ch01_055",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_088",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0155",
+    "source_id": "kp_ch01_056",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_089",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0156",
+    "source_id": "kp_ch01_057",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_090",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0157",
+    "source_id": "kp_ch01_058",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_091",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0158",
+    "source_id": "kp_ch01_059",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_092",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0159",
+    "source_id": "kp_ch01_060",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_093",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0160",
+    "source_id": "kp_ch01_061",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_094",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0161",
+    "source_id": "kp_ch01_062",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_095",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0162",
+    "source_id": "kp_ch01_063",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_096",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0163",
+    "source_id": "kp_ch01_064",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_097",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0164",
+    "source_id": "kp_ch01_065",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_098",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0165",
+    "source_id": "kp_ch01_066",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_099",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0166",
+    "source_id": "kp_ch01_067",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_100",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0167",
+    "source_id": "kp_ch01_068",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_101",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0168",
+    "source_id": "kp_ch01_069",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_102",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0169",
+    "source_id": "kp_ch01_070",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_103",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0170",
+    "source_id": "kp_ch01_071",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_104",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0171",
+    "source_id": "kp_ch01_072",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_105",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0172",
+    "source_id": "kp_ch01_073",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_106",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0173",
+    "source_id": "kp_ch01_074",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_107",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0174",
+    "source_id": "kp_ch01_001",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_108",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0175",
+    "source_id": "kp_ch01_002",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_109",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0176",
+    "source_id": "kp_ch01_062",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_109",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0177",
+    "source_id": "kp_ch01_050",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_110",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0178",
+    "source_id": "kp_ch01_051",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_110",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0179",
+    "source_id": "kp_ch01_052",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_110",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0180",
+    "source_id": "kp_ch01_053",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_110",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0181",
+    "source_id": "kp_ch01_005",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_111",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0182",
+    "source_id": "kp_ch01_011",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_111",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0183",
+    "source_id": "kp_ch01_017",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_112",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0184",
+    "source_id": "kp_ch01_021",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_112",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  },
+  {
+    "relation_id": "rel_ch01_0185",
+    "source_id": "kp_ch01_024",
+    "relation_type": "answered_by",
+    "target_id": "ans_ch01_112",
+    "weight": 5,
+    "description": "该知识点可由答案卡直接回答",
+    "use_in_recommendation": true,
+    "use_in_rag": true
+  }
+]

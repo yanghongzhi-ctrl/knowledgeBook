@@ -1,0 +1,893 @@
+{
+  "chapter_id": "ch08",
+  "version_id": "ch08_kb_v1.0",
+  "package_path": "D:\\knowledgebase\\data\\raw\\ch08\\第8章_道路BIM软件的使用_知识库_v1.0操作完备版.json",
+  "source_checksum": "1f460c9a040de534b95cada6c1de384058e0c80a4236cf87855e713249ed9c16",
+  "started_at": "2026-06-04T15:32:07",
+  "finished_at": "2026-06-04T15:39:00",
+  "status": "released",
+  "table_counts": {
+    "README": 5,
+    "Dashboard": 18,
+    "Chapter_Structure": 9,
+    "Source_Chunks": 160,
+    "Knowledge_Points": 144,
+    "Answer_Cards": 262,
+    "Operation_Tasks": 72,
+    "Operation_Steps": 360,
+    "Software_Objects": 57,
+    "Parameter_Settings": 228,
+    "Common_Errors": 144,
+    "Video_Resources": 12,
+    "Video_Segments": 60,
+    "Screenshot_Resources": 220,
+    "Resource_Relations": 552,
+    "Resources": 114,
+    "Concept_Comparison": 10,
+    "Synonyms": 212,
+    "QA_Testset": 262,
+    "QA_Evaluation_Testset": 262,
+    "RAG_Config": 334,
+    "Embedding_Corpus": 478,
+    "Quality_Checklist": 10,
+    "Command_Cards": 0,
+    "Knowledge_Relations": 552,
+    "Exercises": 0,
+    "Synonyms_Questions": 212,
+    "Question_Routing_Rules": 2,
+    "Answer_Guardrails": 1,
+    "Prompt_Templates": 2,
+    "Interactive_Scripts": 2,
+    "Resource_Evaluation_Testset": 4,
+    "metadata": 1
+  },
+  "steps": [
+    {
+      "name": "validate",
+      "status": "passed",
+      "summary": "errors=0, warnings=13",
+      "details": {
+        "counts": {
+          "README": 5,
+          "Dashboard": 18,
+          "Chapter_Structure": 9,
+          "Source_Chunks": 160,
+          "Knowledge_Points": 144,
+          "Answer_Cards": 262,
+          "Operation_Tasks": 72,
+          "Operation_Steps": 360,
+          "Software_Objects": 57,
+          "Parameter_Settings": 228,
+          "Common_Errors": 144,
+          "Video_Resources": 12,
+          "Video_Segments": 60,
+          "Screenshot_Resources": 220,
+          "Resource_Relations": 552,
+          "Resources": 114,
+          "Concept_Comparison": 10,
+          "Synonyms": 212,
+          "QA_Testset": 262,
+          "QA_Evaluation_Testset": 262,
+          "RAG_Config": 334,
+          "Embedding_Corpus": 478,
+          "Quality_Checklist": 10,
+          "Command_Cards": 0,
+          "Knowledge_Relations": 552,
+          "Exercises": 0,
+          "Synonyms_Questions": 212,
+          "Question_Routing_Rules": 2,
+          "Answer_Guardrails": 1,
+          "Prompt_Templates": 2,
+          "Interactive_Scripts": 2,
+          "Resource_Evaluation_Testset": 4,
+          "metadata": 1
+        },
+        "errors": [],
+        "warnings": [
+          "Answer cards have duplicate canonical question 'pdf输出比例不对怎么办': ans_ch08_0186, ans_ch08_0187, ans_ch08_0189, ans_ch08_0193, ans_ch08_0202, ans_ch08_0223, ans_ch08_0231, ans_ch08_0248, ans_ch08_0252",
+          "Answer cards have duplicate canonical question '加宽未应用怎么办': ans_ch08_0184, ans_ch08_0196, ans_ch08_0242, ans_ch08_0257",
+          "Answer cards have duplicate canonical question '命名边界出图缺失怎么办': ans_ch08_0192, ans_ch08_0205, ans_ch08_0224, ans_ch08_0225, ans_ch08_0230, ans_ch08_0233, ans_ch08_0238, ans_ch08_0243, ans_ch08_0246, ans_ch08_0254, ans_ch08_0259",
+          "Answer cards have duplicate canonical question '工程量统计不完整怎么办': ans_ch08_0173, ans_ch08_0183, ans_ch08_0209, ans_ch08_0216, ans_ch08_0236, ans_ch08_0253, ans_ch08_0261",
+          "Answer cards have duplicate canonical question '平面线形修改后未联动怎么办': ans_ch08_0182, ans_ch08_0206, ans_ch08_0218",
+          "Answer cards have duplicate canonical question '廊道模型是什么': ans_ch08_0009, ans_ch08_0034",
+          "Answer cards have duplicate canonical question '廊道没有生成怎么办': ans_ch08_0191, ans_ch08_0194, ans_ch08_0200, ans_ch08_0210, ans_ch08_0214, ans_ch08_0228, ans_ch08_0232, ans_ch08_0256",
+          "Answer cards have duplicate canonical question '模型不显示怎么办': ans_ch08_0180, ans_ch08_0181, ans_ch08_0185, ans_ch08_0198, ans_ch08_0204, ans_ch08_0219, ans_ch08_0258",
+          "Answer cards have duplicate canonical question '模板结构变形异常怎么办': ans_ch08_0174, ans_ch08_0177, ans_ch08_0190, ans_ch08_0212, ans_ch08_0221, ans_ch08_0229, ans_ch08_0249",
+          "Answer cards have duplicate canonical question '纵断面图标注缺失怎么办': ans_ch08_0178, ans_ch08_0207, ans_ch08_0226, ans_ch08_0234, ans_ch08_0237, ans_ch08_0244, ans_ch08_0251, ans_ch08_0255",
+          "Answer cards have duplicate canonical question '纵断面地面线不更新怎么办': ans_ch08_0176, ans_ch08_0188, ans_ch08_0201, ans_ch08_0203, ans_ch08_0208, ans_ch08_0215, ans_ch08_0240, ans_ch08_0241, ans_ch08_0262",
+          "Answer cards have duplicate canonical question '超高横坡不正确怎么办': ans_ch08_0195, ans_ch08_0199, ans_ch08_0213, ans_ch08_0217, ans_ch08_0220, ans_ch08_0227",
+          "Answer cards have duplicate canonical question '边坡不能连接地形怎么办': ans_ch08_0175, ans_ch08_0179, ans_ch08_0197, ans_ch08_0211, ans_ch08_0222, ans_ch08_0235, ans_ch08_0239, ans_ch08_0245, ans_ch08_0247, ans_ch08_0250, ans_ch08_0260"
+        ]
+      }
+    },
+    {
+      "name": "quality",
+      "status": "passed",
+      "summary": "ambiguous_qa=0, duplicate_canonical=13",
+      "details": {
+        "report": "D:\\knowledgebase\\output\\ch08_rag_engine\\reports\\kb_quality_report_ch08.json",
+        "ambiguous_qa_cases": [],
+        "duplicate_canonical_questions": [
+          {
+            "normalized_question": "pdf输出比例不对怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0186",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0187",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0189",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0193",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0202",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0223",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0231",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0248",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0252",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "PDF输出比例不对怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "加宽未应用怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0184",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "加宽未应用怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0196",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "加宽未应用怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0242",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "加宽未应用怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0257",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "加宽未应用怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "命名边界出图缺失怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0192",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0205",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0224",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0225",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0230",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0233",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0238",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0243",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0246",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0254",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0259",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "命名边界出图缺失怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "工程量统计不完整怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0173",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "工程量统计不完整怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0183",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "工程量统计不完整怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0209",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "工程量统计不完整怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0216",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "工程量统计不完整怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0236",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "工程量统计不完整怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0253",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "工程量统计不完整怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0261",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "工程量统计不完整怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "平面线形修改后未联动怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0182",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "平面线形修改后未联动怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0206",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "平面线形修改后未联动怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0218",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "平面线形修改后未联动怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "廊道模型是什么",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0009",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道模型是什么？",
+                "related_kps": [
+                  "kp_ch08_corridor_model"
+                ]
+              },
+              {
+                "answer_id": "ans_ch08_0034",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道模型是什么？",
+                "related_kps": [
+                  "kp_ch08_corridor"
+                ]
+              }
+            ]
+          },
+          {
+            "normalized_question": "廊道没有生成怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0191",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0194",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0200",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0210",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0214",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0228",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0232",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0256",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "廊道没有生成怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "模型不显示怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0180",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模型不显示怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0181",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模型不显示怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0185",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模型不显示怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0198",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模型不显示怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0204",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模型不显示怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0219",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模型不显示怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0258",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模型不显示怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "模板结构变形异常怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0174",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模板结构变形异常怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0177",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模板结构变形异常怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0190",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模板结构变形异常怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0212",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模板结构变形异常怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0221",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模板结构变形异常怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0229",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模板结构变形异常怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0249",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "模板结构变形异常怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "纵断面图标注缺失怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0178",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0207",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0226",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0234",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0237",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0244",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0251",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0255",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面图标注缺失怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "纵断面地面线不更新怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0176",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0188",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0201",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0203",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0208",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0215",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0240",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0241",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0262",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "纵断面地面线不更新怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "超高横坡不正确怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0195",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "超高横坡不正确怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0199",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "超高横坡不正确怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0213",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "超高横坡不正确怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0217",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "超高横坡不正确怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0220",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "超高横坡不正确怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0227",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "超高横坡不正确怎么办？",
+                "related_kps": []
+              }
+            ]
+          },
+          {
+            "normalized_question": "边坡不能连接地形怎么办",
+            "answer_cards": [
+              {
+                "answer_id": "ans_ch08_0175",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0179",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0197",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0211",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0222",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0235",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0239",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0245",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0247",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0250",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              },
+              {
+                "answer_id": "ans_ch08_0260",
+                "section_id": "ch08_sec_all",
+                "canonical_question": "边坡不能连接地形怎么办？",
+                "related_kps": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "export",
+      "status": "passed",
+      "summary": "exported_files=25",
+      "details": {
+        "output_dir": "D:\\knowledgebase\\data\\processed\\ch08",
+        "counts": {
+          "answer_cards.json": 262,
+          "knowledge_points.json": 144,
+          "source_chunks.json": 160,
+          "qa_evaluation_testset.json": 262,
+          "resource_evaluation_testset.json": 4,
+          "rag_config.json": 334,
+          "resource_index.json": 114,
+          "interactive_scripts.json": 2,
+          "embedding_corpus.json": 478,
+          "synonym_questions.json": 212,
+          "knowledge_relations.json": 552,
+          "concept_comparisons.json": 10,
+          "exercises.json": 0,
+          "operation_tasks.json": 72,
+          "operation_steps.json": 360,
+          "command_cards.json": 0,
+          "software_objects.json": 57,
+          "parameter_settings.json": 228,
+          "common_errors.json": 144,
+          "video_resources.json": 12,
+          "video_segments.json": 60,
+          "screenshot_resources.json": 220,
+          "resource_relations.json": 552,
+          "question_routing_rules.json": 2,
+          "answer_guardrails.json": 1
+        }
+      }
+    },
+    {
+      "name": "sql_export",
+      "status": "passed",
+      "summary": "seed_sql_bytes=4908233",
+      "details": {
+        "seed_sql": "D:\\knowledgebase\\output\\ch08_rag_engine\\db_load\\ch08_seed.sql"
+      }
+    },
+    {
+      "name": "local_qa_evaluation",
+      "status": "passed",
+      "summary": "passed=262/262 (100.00%)",
+      "details": {
+        "total": 262,
+        "top1_hits": 262,
+        "top3_hits": 262,
+        "passed": 262,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch08_rag_engine\\reports\\eval_report_ch08.md",
+        "failures": "D:\\knowledgebase\\output\\ch08_rag_engine\\reports\\failed_cases_ch08.json"
+      }
+    },
+    {
+      "name": "local_resource_evaluation",
+      "status": "passed",
+      "summary": "passed=4/4 (100.00%)",
+      "details": {
+        "total": 4,
+        "top1_hits": 4,
+        "passed": 4,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch08_rag_engine\\reports\\resource_eval_report_ch08.md",
+        "failures": "D:\\knowledgebase\\output\\ch08_rag_engine\\reports\\resource_failed_cases_ch08.json"
+      }
+    },
+    {
+      "name": "embeddings",
+      "status": "passed",
+      "summary": "generated=478/478, dimensions=[1024]",
+      "details": {
+        "jsonl": "D:\\knowledgebase\\output\\ch08_rag_engine\\embeddings\\ch08_embedding_vectors.jsonl",
+        "sql": "D:\\knowledgebase\\output\\ch08_rag_engine\\db_load\\ch08_embedding_updates.sql",
+        "count": 478,
+        "dimensions": [
+          1024
+        ],
+        "models": [
+          "bge-m3"
+        ],
+        "by_source_type": {
+          "knowledge_point": 144,
+          "answer_card": 262,
+          "operation_task": 72
+        }
+      }
+    },
+    {
+      "name": "db_import",
+      "status": "passed",
+      "summary": "counts_ok=True, embedded_vectors=478",
+      "details": {
+        "version_id": "ch08_kb_v1.0",
+        "counts": {
+          "answer_cards": 262,
+          "knowledge_points": 144,
+          "source_chunks": 160,
+          "qa_evaluation_testset": 262,
+          "resources": 114,
+          "interactive_scripts": 2,
+          "resource_evaluation_testset": 4,
+          "embedding_corpus": 478,
+          "embedded_vectors": 478
+        },
+        "expected_counts": {
+          "answer_cards": 262,
+          "knowledge_points": 144,
+          "source_chunks": 160,
+          "qa_evaluation_testset": 262,
+          "resources": 114,
+          "interactive_scripts": 2,
+          "resource_evaluation_testset": 4,
+          "embedding_corpus": 478
+        },
+        "mismatches": {}
+      }
+    },
+    {
+      "name": "db_keyword_evaluation",
+      "status": "passed",
+      "summary": "passed=262/262 (100.00%)",
+      "details": {
+        "retriever": "keyword",
+        "total": 262,
+        "top1_hits": 262,
+        "top1_rate": 1.0,
+        "top3_hits": 262,
+        "top3_rate": 1.0,
+        "passed": 262,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "db_hybrid_evaluation",
+      "status": "passed",
+      "summary": "passed=30/30 (100.00%)",
+      "details": {
+        "retriever": "db-hybrid",
+        "total": 30,
+        "top1_hits": 30,
+        "top1_rate": 1.0,
+        "top3_hits": 30,
+        "top3_rate": 1.0,
+        "passed": 30,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "mark_released",
+      "status": "passed",
+      "summary": "version_id=ch08_kb_v1.0",
+      "details": {}
+    }
+  ]
+}

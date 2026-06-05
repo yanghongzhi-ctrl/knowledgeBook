@@ -1,0 +1,6420 @@
+[
+  {
+    "eval_id": "eval_ch03_001",
+    "question": "计算机辅助设计CAD的定义是什么？",
+    "expected_answer_card": "ans_ch03_001",
+    "must_include": [
+      "CAD是利用计算机辅助完成工程设计的技术系统。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_001",
+    "expected_answer_points": [
+      "CAD是利用计算机辅助完成工程设计的技术系统。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_002",
+    "question": "CAD系统有哪些技术特征？",
+    "expected_answer_card": "ans_ch03_002",
+    "must_include": [
+      "精确的几何建模与可视化能力。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_002",
+    "expected_answer_points": [
+      "精确的几何建模与可视化能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_003",
+    "question": "完整CAD系统由哪些部分组成？",
+    "expected_answer_card": "ans_ch03_003",
+    "must_include": [
+      "硬件系统：主机、输入设备、输出设备和显示设备。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_003",
+    "expected_answer_points": [
+      "硬件系统：主机、输入设备、输出设备和显示设备。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_004",
+    "question": "道路工程CAD系统的设计理念体现在哪些方面？",
+    "expected_answer_card": "ans_ch03_004",
+    "must_include": [
+      "以图纸交付为核心，满足施工图成果输出要求。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_004",
+    "expected_answer_points": [
+      "以图纸交付为核心，满足施工图成果输出要求。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_005",
+    "question": "道路CAD系统通常包括哪些功能模块？",
+    "expected_answer_card": "ans_ch03_005",
+    "must_include": [
+      "数模模块：支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_005",
+    "expected_answer_points": [
+      "数模模块：支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_006",
+    "question": "路线平面CAD系统的主要任务是什么？",
+    "expected_answer_card": "ans_ch03_006",
+    "must_include": [
+      "确定和调整道路中线平面位置。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_006",
+    "expected_answer_points": [
+      "确定和调整道路中线平面位置。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_007",
+    "question": "直线型设计方法和曲线型设计方法有什么区别？",
+    "expected_answer_card": "ans_ch03_007",
+    "must_include": [
+      "直线型方法以交点、切线和转角为主要控制对象。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_007",
+    "expected_answer_points": [
+      "直线型方法以交点、切线和转角为主要控制对象。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "table"
+  },
+  {
+    "eval_id": "eval_ch03_008",
+    "question": "传统路线平面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_008",
+    "must_include": [
+      "根据地形图或实地条件初步确定交点、平曲线半径和缓和曲线长度。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_008",
+    "expected_answer_points": [
+      "根据地形图或实地条件初步确定交点、平曲线半径和缓和曲线长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_009",
+    "question": "平面CAD系统中人机分工的基本原则是什么？",
+    "expected_answer_card": "ans_ch03_009",
+    "must_include": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_009",
+    "expected_answer_points": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_010",
+    "question": "平面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_010",
+    "must_include": [
+      "完整的几何计算功能。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_010",
+    "expected_answer_points": [
+      "完整的几何计算功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_011",
+    "question": "基本型曲线设计模型的作用是什么？",
+    "expected_answer_card": "ans_ch03_011",
+    "must_include": [
+      "用于描述前缓和曲线、圆曲线、后缓和曲线组合。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_011",
+    "expected_answer_points": [
+      "用于描述前缓和曲线、圆曲线、后缓和曲线组合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_012",
+    "question": "逐桩坐标计算的基本思路是什么？",
+    "expected_answer_card": "ans_ch03_012",
+    "must_include": [
+      "先判断计算桩号位于直线、第一缓和曲线、圆曲线或第二缓和曲线区段。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_012",
+    "expected_answer_points": [
+      "先判断计算桩号位于直线、第一缓和曲线、圆曲线或第二缓和曲线区段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_013",
+    "question": "纵断面CAD系统的设计流程可分为哪几个阶段？",
+    "expected_answer_card": "ans_ch03_013",
+    "must_include": [
+      "准备与初始化阶段。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_013",
+    "expected_answer_points": [
+      "准备与初始化阶段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_014",
+    "question": "纵断面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_014",
+    "must_include": [
+      "控制条件的查询与检查。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_014",
+    "expected_answer_points": [
+      "控制条件的查询与检查。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_015",
+    "question": "纵坡度和坡度差分别如何理解？",
+    "expected_answer_card": "ans_ch03_015",
+    "must_include": [
+      "纵坡度表示相邻变坡点之间设计线的倾斜程度，由高程差与桩号距离确定。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_015",
+    "expected_answer_points": [
+      "纵坡度表示相邻变坡点之间设计线的倾斜程度，由高程差与桩号距离确定。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_016",
+    "question": "设计高程如何计算？",
+    "expected_answer_card": "ans_ch03_016",
+    "must_include": [
+      "判断桩号位于直坡段还是竖曲线段。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_016",
+    "expected_answer_points": [
+      "判断桩号位于直坡段还是竖曲线段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_017",
+    "question": "横断面CAD系统的工作流程是什么？",
+    "expected_answer_card": "ans_ch03_017",
+    "must_include": [
+      "输入或生成横断面地面线。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_017",
+    "expected_answer_points": [
+      "输入或生成横断面地面线。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_018",
+    "question": "什么是横断面自动设计中的“戴帽”？",
+    "expected_answer_card": "ans_ch03_018",
+    "must_include": [
+      "戴帽是系统按横断面地面线、设计模板和规则自动生成断面设计线的过程。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_018",
+    "expected_answer_points": [
+      "戴帽是系统按横断面地面线、设计模板和规则自动生成断面设计线的过程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_019",
+    "question": "横断面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_019",
+    "must_include": [
+      "完善的横断面设计策略和模板规则。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_019",
+    "expected_answer_points": [
+      "完善的横断面设计策略和模板规则。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_020",
+    "question": "超高设计与计算的主要内容是什么？",
+    "expected_answer_card": "ans_ch03_020",
+    "must_include": [
+      "确定曲线上的超高值，使超高和横向摩阻共同分担离心力。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_020",
+    "expected_answer_points": [
+      "确定曲线上的超高值，使超高和横向摩阻共同分担离心力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_021",
+    "question": "边坡设计模型中基本边坡线单元有什么作用？",
+    "expected_answer_card": "ans_ch03_021",
+    "must_include": [
+      "它是描述边坡段几何和控制条件的基本单元。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_021",
+    "expected_answer_points": [
+      "它是描述边坡段几何和控制条件的基本单元。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_022",
+    "question": "横断面面积和土石方数量如何计算？",
+    "expected_answer_card": "ans_ch03_022",
+    "must_include": [
+      "先根据地面线与设计线确定填方面积和挖方面积。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_022",
+    "expected_answer_points": [
+      "先根据地面线与设计线确定填方面积和挖方面积。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_023",
+    "question": "平面交叉口CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_023",
+    "must_include": [
+      "支持多种平面交叉口的平面和立面交互设计。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_023",
+    "expected_answer_points": [
+      "支持多种平面交叉口的平面和立面交互设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_024",
+    "question": "Coons曲面模型为什么适合交叉口立面设计？",
+    "expected_answer_card": "ans_ch03_024",
+    "must_include": [
+      "交叉口立面本质上是较平缓的三维曲面。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_024",
+    "expected_answer_points": [
+      "交叉口立面本质上是较平缓的三维曲面。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_025",
+    "question": "基于Coons曲面的交叉口立面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_025",
+    "must_include": [
+      "根据交叉口类型划分Coons曲面片。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_025",
+    "expected_answer_points": [
+      "根据交叉口类型划分Coons曲面片。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_026",
+    "question": "计算机辅助设计CAD的基本定义是什么？",
+    "expected_answer_card": "ans_ch03_026",
+    "must_include": [
+      "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_026",
+    "expected_answer_points": [
+      "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_027",
+    "question": "CAD的工程内涵是什么？",
+    "expected_answer_card": "ans_ch03_027",
+    "must_include": [
+      "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_027",
+    "expected_answer_points": [
+      "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_028",
+    "question": "CAD精确几何建模能力是什么？",
+    "expected_answer_card": "ans_ch03_028",
+    "must_include": [
+      "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_028",
+    "expected_answer_points": [
+      "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_029",
+    "question": "CAD可视化表达能力是什么？",
+    "expected_answer_card": "ans_ch03_029",
+    "must_include": [
+      "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_029",
+    "expected_answer_points": [
+      "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_030",
+    "question": "以图纸为中心的CAD设计逻辑是什么？",
+    "expected_answer_card": "ans_ch03_030",
+    "must_include": [
+      "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_030",
+    "expected_answer_points": [
+      "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_031",
+    "question": "CAD标准化输出能力是什么？",
+    "expected_answer_card": "ans_ch03_031",
+    "must_include": [
+      "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_031",
+    "expected_answer_points": [
+      "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_032",
+    "question": "CAD高效编辑机制是什么？",
+    "expected_answer_card": "ans_ch03_032",
+    "must_include": [
+      "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_032",
+    "expected_answer_points": [
+      "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_033",
+    "question": "CAD数据管理机制是什么？",
+    "expected_answer_card": "ans_ch03_033",
+    "must_include": [
+      "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_033",
+    "expected_answer_points": [
+      "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_034",
+    "question": "CAD参数化潜力是什么？",
+    "expected_answer_card": "ans_ch03_034",
+    "must_include": [
+      "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_034",
+    "expected_answer_points": [
+      "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_035",
+    "question": "CAD开放性与系统衔接能力是什么？",
+    "expected_answer_card": "ans_ch03_035",
+    "must_include": [
+      "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_035",
+    "expected_answer_points": [
+      "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_036",
+    "question": "CAD硬件系统是什么？",
+    "expected_answer_card": "ans_ch03_036",
+    "must_include": [
+      "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_036",
+    "expected_answer_points": [
+      "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_037",
+    "question": "CAD软件系统层级是什么？",
+    "expected_answer_card": "ans_ch03_037",
+    "must_include": [
+      "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_037",
+    "expected_answer_points": [
+      "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_038",
+    "question": "CAD数据与知识资源是什么？",
+    "expected_answer_card": "ans_ch03_038",
+    "must_include": [
+      "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_038",
+    "expected_answer_points": [
+      "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_039",
+    "question": "图形元素库是什么？",
+    "expected_answer_card": "ans_ch03_039",
+    "must_include": [
+      "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_039",
+    "expected_answer_points": [
+      "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_040",
+    "question": "样式与标注库是什么？",
+    "expected_answer_card": "ans_ch03_040",
+    "must_include": [
+      "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_040",
+    "expected_answer_points": [
+      "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_041",
+    "question": "工程数据库是什么？",
+    "expected_answer_card": "ans_ch03_041",
+    "must_include": [
+      "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_041",
+    "expected_answer_points": [
+      "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_042",
+    "question": "用户自定义资源是什么？",
+    "expected_answer_card": "ans_ch03_042",
+    "must_include": [
+      "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_042",
+    "expected_answer_points": [
+      "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_043",
+    "question": "道路工程设计阶段是什么？",
+    "expected_answer_card": "ans_ch03_043",
+    "must_include": [
+      "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_043",
+    "expected_answer_points": [
+      "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_044",
+    "question": "道路基本设计流程是什么？",
+    "expected_answer_card": "ans_ch03_044",
+    "must_include": [
+      "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_044",
+    "expected_answer_points": [
+      "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_045",
+    "question": "测绘与地形建模流程是什么？",
+    "expected_answer_card": "ans_ch03_045",
+    "must_include": [
+      "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_045",
+    "expected_answer_points": [
+      "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_046",
+    "question": "路线平纵面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_046",
+    "must_include": [
+      "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_046",
+    "expected_answer_points": [
+      "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_047",
+    "question": "横断面与路基设计流程是什么？",
+    "expected_answer_card": "ans_ch03_047",
+    "must_include": [
+      "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_047",
+    "expected_answer_points": [
+      "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_048",
+    "question": "CAD成果输出流程是什么？",
+    "expected_answer_card": "ans_ch03_048",
+    "must_include": [
+      "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_048",
+    "expected_answer_points": [
+      "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_049",
+    "question": "道路CAD图纸交付理念是什么？",
+    "expected_answer_card": "ans_ch03_049",
+    "must_include": [
+      "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_049",
+    "expected_answer_points": [
+      "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_050",
+    "question": "几何中线驱动建模逻辑是什么？",
+    "expected_answer_card": "ans_ch03_050",
+    "must_include": [
+      "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_050",
+    "expected_answer_points": [
+      "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_051",
+    "question": "工程流程导向功能集成是什么？",
+    "expected_answer_card": "ans_ch03_051",
+    "must_include": [
+      "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_051",
+    "expected_answer_points": [
+      "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_052",
+    "question": "道路CAD向智能化与BIM协同演进是什么？",
+    "expected_answer_card": "ans_ch03_052",
+    "must_include": [
+      "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_052",
+    "expected_answer_points": [
+      "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_053",
+    "question": "数模模块是什么？",
+    "expected_answer_card": "ans_ch03_053",
+    "must_include": [
+      "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_053",
+    "expected_answer_points": [
+      "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_054",
+    "question": "平面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_054",
+    "must_include": [
+      "实现道路中线布设、平面曲线组合计算和设计图自动生成。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_054",
+    "expected_answer_points": [
+      "实现道路中线布设、平面曲线组合计算和设计图自动生成。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_055",
+    "question": "纵断面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_055",
+    "must_include": [
+      "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_055",
+    "expected_answer_points": [
+      "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_056",
+    "question": "横断面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_056",
+    "must_include": [
+      "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_056",
+    "expected_answer_points": [
+      "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_057",
+    "question": "路基支挡设计模块是什么？",
+    "expected_answer_card": "ans_ch03_057",
+    "must_include": [
+      "用于布设支挡防护构造物并完成绘图和工程量统计。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_057",
+    "expected_answer_points": [
+      "用于布设支挡防护构造物并完成绘图和工程量统计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_058",
+    "question": "排水与构造物模块是什么？",
+    "expected_answer_card": "ans_ch03_058",
+    "must_include": [
+      "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_058",
+    "expected_answer_points": [
+      "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_059",
+    "question": "交叉口与立交设计模块是什么？",
+    "expected_answer_card": "ans_ch03_059",
+    "must_include": [
+      "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_059",
+    "expected_answer_points": [
+      "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_060",
+    "question": "设计评价与分析模块是什么？",
+    "expected_answer_card": "ans_ch03_060",
+    "must_include": [
+      "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_060",
+    "expected_answer_points": [
+      "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_061",
+    "question": "工程数据管理模块是什么？",
+    "expected_answer_card": "ans_ch03_061",
+    "must_include": [
+      "统一组织道路设计过程中的图形、参数、表格和工程数据库。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_061",
+    "expected_answer_points": [
+      "统一组织道路设计过程中的图形、参数、表格和工程数据库。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_062",
+    "question": "成果输出与管理模块是什么？",
+    "expected_answer_card": "ans_ch03_062",
+    "must_include": [
+      "自动生成平面图、纵断面图、横断面图、表格和打印成果。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_062",
+    "expected_answer_points": [
+      "自动生成平面图、纵断面图、横断面图、表格和打印成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_063",
+    "question": "路线平面CAD系统任务是什么？",
+    "expected_answer_card": "ans_ch03_063",
+    "must_include": [
+      "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_063",
+    "expected_answer_points": [
+      "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_064",
+    "question": "直线型设计方法是什么？",
+    "expected_answer_card": "ans_ch03_064",
+    "must_include": [
+      "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_064",
+    "expected_answer_points": [
+      "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_065",
+    "question": "曲线型设计方法是什么？",
+    "expected_answer_card": "ans_ch03_065",
+    "must_include": [
+      "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_065",
+    "expected_answer_points": [
+      "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_066",
+    "question": "直线型与曲线型方法选择是什么？",
+    "expected_answer_card": "ans_ch03_066",
+    "must_include": [
+      "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_066",
+    "expected_answer_points": [
+      "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_067",
+    "question": "从概括性流程总结角度，传统路线平面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_067",
+    "must_include": [
+      "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_067",
+    "expected_answer_points": [
+      "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_068",
+    "question": "平面CAD人机分工原则是什么？",
+    "expected_answer_card": "ans_ch03_068",
+    "must_include": [
+      "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_068",
+    "expected_answer_points": [
+      "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_069",
+    "question": "平面CAD计算功能是什么？",
+    "expected_answer_card": "ans_ch03_069",
+    "must_include": [
+      "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_069",
+    "expected_answer_points": [
+      "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_070",
+    "question": "平面CAD灵活线形设计手段是什么？",
+    "expected_answer_card": "ans_ch03_070",
+    "must_include": [
+      "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_070",
+    "expected_answer_points": [
+      "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_071",
+    "question": "平面CAD智能推荐功能是什么？",
+    "expected_answer_card": "ans_ch03_071",
+    "must_include": [
+      "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_071",
+    "expected_answer_points": [
+      "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_072",
+    "question": "平面CAD交互修改功能是什么？",
+    "expected_answer_card": "ans_ch03_072",
+    "must_include": [
+      "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_072",
+    "expected_answer_points": [
+      "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_073",
+    "question": "平面CAD数据管理功能是什么？",
+    "expected_answer_card": "ans_ch03_073",
+    "must_include": [
+      "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_073",
+    "expected_answer_points": [
+      "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_074",
+    "question": "基本型曲线设计模型是什么？",
+    "expected_answer_card": "ans_ch03_074",
+    "must_include": [
+      "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_074",
+    "expected_answer_points": [
+      "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_075",
+    "question": "曲线起终点约束是什么？",
+    "expected_answer_card": "ans_ch03_075",
+    "must_include": [
+      "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_075",
+    "expected_answer_points": [
+      "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_076",
+    "question": "曲线中点位置约束是什么？",
+    "expected_answer_card": "ans_ch03_076",
+    "must_include": [
+      "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_076",
+    "expected_answer_points": [
+      "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_077",
+    "question": "卵形曲线设计是什么？",
+    "expected_answer_card": "ans_ch03_077",
+    "must_include": [
+      "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_077",
+    "expected_answer_points": [
+      "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_078",
+    "question": "双交点曲线设计是什么？",
+    "expected_answer_card": "ans_ch03_078",
+    "must_include": [
+      "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_078",
+    "expected_answer_points": [
+      "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_079",
+    "question": "曲线法设计模型三种连接是什么？",
+    "expected_answer_card": "ans_ch03_079",
+    "must_include": [
+      "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_079",
+    "expected_answer_points": [
+      "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_080",
+    "question": "直线与圆曲线连接模型是什么？",
+    "expected_answer_card": "ans_ch03_080",
+    "must_include": [
+      "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_080",
+    "expected_answer_points": [
+      "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_081",
+    "question": "两反向圆曲线连接模型是什么？",
+    "expected_answer_card": "ans_ch03_081",
+    "must_include": [
+      "两反向圆曲线连接模型用于S形线形中相邻反向圆曲线之间的回旋线连接计算。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_081",
+    "expected_answer_points": [
+      "两反向圆曲线连接模型用于S形线形中相邻反向圆曲线之间的回旋线连接计算。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_082",
+    "question": "两同向圆曲线连接模型是什么？",
+    "expected_answer_card": "ans_ch03_082",
+    "must_include": [
+      "两同向圆曲线连接模型用于半径不同或位置不同的同向圆曲线之间的平顺连接。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_082",
+    "expected_answer_points": [
+      "两同向圆曲线连接模型用于半径不同或位置不同的同向圆曲线之间的平顺连接。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_083",
+    "question": "逐桩坐标计算是什么？",
+    "expected_answer_card": "ans_ch03_083",
+    "must_include": [
+      "逐桩坐标计算是根据桩号所在的线形区段，分别采用直线、缓和曲线、圆曲线等公式计算中桩坐标。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_083",
+    "expected_answer_points": [
+      "逐桩坐标计算是根据桩号所在的线形区段，分别采用直线、缓和曲线、圆曲线等公式计算中桩坐标。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_084",
+    "question": "直线段中桩坐标计算是什么？",
+    "expected_answer_card": "ans_ch03_084",
+    "must_include": [
+      "直线段中桩坐标根据起点坐标、方位角和桩点距离计算，公式形式较简单。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_084",
+    "expected_answer_points": [
+      "直线段中桩坐标根据起点坐标、方位角和桩点距离计算，公式形式较简单。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_085",
+    "question": "缓和曲线与圆曲线段中桩坐标计算是什么？",
+    "expected_answer_card": "ans_ch03_085",
+    "must_include": [
+      "缓和曲线和圆曲线段中桩坐标需要考虑曲率变化和转向方向，左转或右转时局部坐标符号不同。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_085",
+    "expected_answer_points": [
+      "缓和曲线和圆曲线段中桩坐标需要考虑曲率变化和转向方向，左转或右转时局部坐标符号不同。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_086",
+    "question": "边线坐标计算是什么？",
+    "expected_answer_card": "ans_ch03_086",
+    "must_include": [
+      "边线坐标依据中桩坐标、边桩至中线距离和切线方位角计算，用于绘制路幅边线、界桩或设计红线。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_086",
+    "expected_answer_points": [
+      "边线坐标依据中桩坐标、边桩至中线距离和切线方位角计算，用于绘制路幅边线、界桩或设计红线。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_087",
+    "question": "纵断面CAD系统任务是什么？",
+    "expected_answer_card": "ans_ch03_087",
+    "must_include": [
+      "纵断面CAD系统负责地面线提取、纵坡控制、变坡点布设、竖曲线计算、设计高程计算和纵断面成果输出。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_087",
+    "expected_answer_points": [
+      "纵断面CAD系统负责地面线提取、纵坡控制、变坡点布设、竖曲线计算、设计高程计算和纵断面成果输出。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_088",
+    "question": "纵断面CAD准备与初始化阶段是什么？",
+    "expected_answer_card": "ans_ch03_088",
+    "must_include": [
+      "准备与初始化阶段主要完成项目数据、地面线、控制点和设计约束条件的导入与检查。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_088",
+    "expected_answer_points": [
+      "准备与初始化阶段主要完成项目数据、地面线、控制点和设计约束条件的导入与检查。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_089",
+    "question": "初始纵断面优化方案生成阶段是什么？",
+    "expected_answer_card": "ans_ch03_089",
+    "must_include": [
+      "初始优化方案生成阶段根据控制条件和目标函数生成可供设计人员参考的纵断面方案。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_089",
+    "expected_answer_points": [
+      "初始优化方案生成阶段根据控制条件和目标函数生成可供设计人员参考的纵断面方案。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_090",
+    "question": "纵坡与竖曲线设计阶段是什么？",
+    "expected_answer_card": "ans_ch03_090",
+    "must_include": [
+      "纵坡与竖曲线设计阶段通过设置变坡点、坡度和竖曲线半径形成连续、平顺的纵断面设计线。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_090",
+    "expected_answer_points": [
+      "纵坡与竖曲线设计阶段通过设置变坡点、坡度和竖曲线半径形成连续、平顺的纵断面设计线。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_091",
+    "question": "纵断面设计分析与评价阶段是什么？",
+    "expected_answer_card": "ans_ch03_091",
+    "must_include": [
+      "分析与评价阶段检查纵坡、竖曲线、控制点、高程、填挖和规范符合性。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_091",
+    "expected_answer_points": [
+      "分析与评价阶段检查纵坡、竖曲线、控制点、高程、填挖和规范符合性。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_092",
+    "question": "纵断面设计成果输出阶段是什么？",
+    "expected_answer_card": "ans_ch03_092",
+    "must_include": [
+      "成果输出阶段自动生成纵断面设计图、纵坡竖曲线表和相关计算成果。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_092",
+    "expected_answer_points": [
+      "成果输出阶段自动生成纵断面设计图、纵坡竖曲线表和相关计算成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_093",
+    "question": "纵断面控制条件查询与检查是什么？",
+    "expected_answer_card": "ans_ch03_093",
+    "must_include": [
+      "系统应能查询和检查桥涵、交叉、洪水位、净空、地质和规范等控制条件。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_093",
+    "expected_answer_points": [
+      "系统应能查询和检查桥涵、交叉、洪水位、净空、地质和规范等控制条件。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_094",
+    "question": "纵断面设计辅助信息是什么？",
+    "expected_answer_card": "ans_ch03_094",
+    "must_include": [
+      "设计辅助信息包括地面线、控制点、填挖提示、坡度提示和规范约束，用于辅助设计人员判断。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_094",
+    "expected_answer_points": [
+      "设计辅助信息包括地面线、控制点、填挖提示、坡度提示和规范约束，用于辅助设计人员判断。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_095",
+    "question": "纵断面交互设计与修改是什么？",
+    "expected_answer_card": "ans_ch03_095",
+    "must_include": [
+      "纵断面CAD应支持在图形界面中移动变坡点、调整坡度和竖曲线参数并实时重算成果。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_095",
+    "expected_answer_points": [
+      "纵断面CAD应支持在图形界面中移动变坡点、调整坡度和竖曲线参数并实时重算成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_096",
+    "question": "纵断面整体优化功能是什么？",
+    "expected_answer_card": "ans_ch03_096",
+    "must_include": [
+      "整体优化功能根据工程造价、安全性、规范约束等目标自动生成完整纵断面参考方案。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_096",
+    "expected_answer_points": [
+      "整体优化功能根据工程造价、安全性、规范约束等目标自动生成完整纵断面参考方案。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_097",
+    "question": "纵断面局部优化功能是什么？",
+    "expected_answer_card": "ans_ch03_097",
+    "must_include": [
+      "局部优化功能针对选定变坡点和竖曲线进行快速自动调整，提升局部线形合理性。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_097",
+    "expected_answer_points": [
+      "局部优化功能针对选定变坡点和竖曲线进行快速自动调整，提升局部线形合理性。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_098",
+    "question": "纵坡度计算是什么？",
+    "expected_answer_card": "ans_ch03_098",
+    "must_include": [
+      "纵坡度根据相邻变坡点的高程差与桩号距离计算，正值表示上坡，负值表示下坡。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_098",
+    "expected_answer_points": [
+      "纵坡度根据相邻变坡点的高程差与桩号距离计算，正值表示上坡，负值表示下坡。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_099",
+    "question": "坡度差计算是什么？",
+    "expected_answer_card": "ans_ch03_099",
+    "must_include": [
+      "坡度差是相邻两坡段纵坡的差值，用于判断变坡点处竖曲线类型和竖曲线要素。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_099",
+    "expected_answer_points": [
+      "坡度差是相邻两坡段纵坡的差值，用于判断变坡点处竖曲线类型和竖曲线要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_100",
+    "question": "凸竖曲线与凹竖曲线判断是什么？",
+    "expected_answer_card": "ans_ch03_100",
+    "must_include": [
+      "根据坡度差符号可判断竖曲线为凸形或凹形，凸形表现为纵断面向上拱起，凹形表现为向下凹入。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_100",
+    "expected_answer_points": [
+      "根据坡度差符号可判断竖曲线为凸形或凹形，凸形表现为纵断面向上拱起，凹形表现为向下凹入。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_101",
+    "question": "竖曲线要素计算是什么？",
+    "expected_answer_card": "ans_ch03_101",
+    "must_include": [
+      "竖曲线要素包括曲线长、切线长、外距和任一点改正值，通常由竖曲线半径和坡度差计算。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_101",
+    "expected_answer_points": [
+      "竖曲线要素包括曲线长、切线长、外距和任一点改正值，通常由竖曲线半径和坡度差计算。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_102",
+    "question": "设计高程计算是什么？",
+    "expected_answer_card": "ans_ch03_102",
+    "must_include": [
+      "设计高程应根据桩号是否位于直坡段或竖曲线段，分别采用直线坡度公式或竖曲线改正公式计算。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_102",
+    "expected_answer_points": [
+      "设计高程应根据桩号是否位于直坡段或竖曲线段，分别采用直线坡度公式或竖曲线改正公式计算。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_103",
+    "question": "填挖高计算是什么？",
+    "expected_answer_card": "ans_ch03_103",
+    "must_include": [
+      "填挖高等于设计高程与地面高程之差，用于判断该桩号处填方或挖方。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_103",
+    "expected_answer_points": [
+      "填挖高等于设计高程与地面高程之差，用于判断该桩号处填方或挖方。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_104",
+    "question": "横断面CAD系统任务是什么？",
+    "expected_answer_card": "ans_ch03_104",
+    "must_include": [
+      "横断面CAD系统负责横断面地面线处理、模板定义、超高加宽、自动戴帽、交互修改、土石方计算和成果输出。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_104",
+    "expected_answer_points": [
+      "横断面CAD系统负责横断面地面线处理、模板定义、超高加宽、自动戴帽、交互修改、土石方计算和成果输出。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_105",
+    "question": "横断面地面线输入是什么？",
+    "expected_answer_card": "ans_ch03_105",
+    "must_include": [
+      "横断面地面线可由测量横断面数据导入，也可由数字地形模型按中线桩号自动切取得到。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_105",
+    "expected_answer_points": [
+      "横断面地面线可由测量横断面数据导入，也可由数字地形模型按中线桩号自动切取得到。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_106",
+    "question": "横断面设计模板定义是什么？",
+    "expected_answer_card": "ans_ch03_106",
+    "must_include": [
+      "横断面设计模板定义路幅、车道、路肩、边坡、边沟、护坡道和支挡等断面组成及其参数。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_106",
+    "expected_answer_points": [
+      "横断面设计模板定义路幅、车道、路肩、边坡、边沟、护坡道和支挡等断面组成及其参数。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_107",
+    "question": "超高加宽设计与计算是什么？",
+    "expected_answer_card": "ans_ch03_107",
+    "must_include": [
+      "超高加宽设计根据平曲线条件、设计速度、规范要求和旋转方式确定横坡变化、加宽值和特征点高程。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_107",
+    "expected_answer_points": [
+      "超高加宽设计根据平曲线条件、设计速度、规范要求和旋转方式确定横坡变化、加宽值和特征点高程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_108",
+    "question": "横断面自动设计戴帽是什么？",
+    "expected_answer_card": "ans_ch03_108",
+    "must_include": [
+      "横断面自动设计又称戴帽，是系统根据地面线、设计模板和控制规则自动生成横断面设计线的过程。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_108",
+    "expected_answer_points": [
+      "横断面自动设计又称戴帽，是系统根据地面线、设计模板和控制规则自动生成横断面设计线的过程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_109",
+    "question": "横断面交互修改是什么？",
+    "expected_answer_card": "ans_ch03_109",
+    "must_include": [
+      "交互修改用于处理自动戴帽失败、不合理或需要特殊构造的横断面，通过人工调整模板、边坡、边沟和支挡参数。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_109",
+    "expected_answer_points": [
+      "交互修改用于处理自动戴帽失败、不合理或需要特殊构造的横断面，通过人工调整模板、边坡、边沟和支挡参数。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_110",
+    "question": "路基土石方计算与调配是什么？",
+    "expected_answer_card": "ans_ch03_110",
+    "must_include": [
+      "系统根据横断面填挖面积和相邻桩距计算土石方数量，并通过累积曲线辅助调配。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_110",
+    "expected_answer_points": [
+      "系统根据横断面填挖面积和相邻桩距计算土石方数量，并通过累积曲线辅助调配。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_111",
+    "question": "横断面成果输出是什么？",
+    "expected_answer_card": "ans_ch03_111",
+    "must_include": [
+      "横断面成果包括路基设计表、超高设计图、横断面图纸和土石方数量表等。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_111",
+    "expected_answer_points": [
+      "横断面成果包括路基设计表、超高设计图、横断面图纸和土石方数量表等。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_112",
+    "question": "完善的横断面设计策略是什么？",
+    "expected_answer_card": "ans_ch03_112",
+    "must_include": [
+      "完善的横断面设计策略要求系统能够根据模板规则、地形条件和控制参数自动选择合理断面形式。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_112",
+    "expected_answer_points": [
+      "完善的横断面设计策略要求系统能够根据模板规则、地形条件和控制参数自动选择合理断面形式。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_113",
+    "question": "模板适应性分析是什么？",
+    "expected_answer_card": "ans_ch03_113",
+    "must_include": [
+      "模板适应性分析用于检测横断面模板在不同地形条件下是否能够合理戴帽。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_113",
+    "expected_answer_points": [
+      "模板适应性分析用于检测横断面模板在不同地形条件下是否能够合理戴帽。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_114",
+    "question": "构件化模板编辑是什么？",
+    "expected_answer_card": "ans_ch03_114",
+    "must_include": [
+      "构件化模板编辑把路幅、边坡、边沟和支挡等断面要素作为可编辑构件，提高交互修改效率。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_114",
+    "expected_answer_points": [
+      "构件化模板编辑把路幅、边坡、边沟和支挡等断面要素作为可编辑构件，提高交互修改效率。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_115",
+    "question": "可视化超高设计功能是什么？",
+    "expected_answer_card": "ans_ch03_115",
+    "must_include": [
+      "可视化超高设计功能在图形环境中展示超高变化、旋转方式、渐变段和特征点高程，支持动态调整。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_115",
+    "expected_answer_points": [
+      "可视化超高设计功能在图形环境中展示超高变化、旋转方式、渐变段和特征点高程，支持动态调整。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_116",
+    "question": "超高值确定是什么？",
+    "expected_answer_card": "ans_ch03_116",
+    "must_include": [
+      "超高值确定的实质是合理分配横向摩阻系数和超高，使二者共同抵抗车辆在曲线行驶时的离心作用。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_116",
+    "expected_answer_points": [
+      "超高值确定的实质是合理分配横向摩阻系数和超高，使二者共同抵抗车辆在曲线行驶时的离心作用。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_117",
+    "question": "超高过渡问题是什么？",
+    "expected_answer_card": "ans_ch03_117",
+    "must_include": [
+      "超高过渡包括旋转方式选择、渐变段长度确定以及过渡段内特征点高程或抬高值计算。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_117",
+    "expected_answer_points": [
+      "超高过渡包括旋转方式选择、渐变段长度确定以及过渡段内特征点高程或抬高值计算。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_118",
+    "question": "最小超高过渡段长度是什么？",
+    "expected_answer_card": "ans_ch03_118",
+    "must_include": [
+      "最小超高过渡段长度由行车道宽度、中央分隔带、路缘带、超高坡度差和附加坡度等因素确定。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_118",
+    "expected_answer_points": [
+      "最小超高过渡段长度由行车道宽度、中央分隔带、路缘带、超高坡度差和附加坡度等因素确定。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_119",
+    "question": "无中间带道路超高方式是什么？",
+    "expected_answer_card": "ans_ch03_119",
+    "must_include": [
+      "无中间带道路常用绕内边线旋转和绕中线旋转等方式进行超高过渡。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_119",
+    "expected_answer_points": [
+      "无中间带道路常用绕内边线旋转和绕中线旋转等方式进行超高过渡。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_120",
+    "question": "有中间带道路超高方式是什么？",
+    "expected_answer_card": "ans_ch03_120",
+    "must_include": [
+      "有中间带道路常用绕中央分隔带边线旋转，需要分别计算行车道、路缘带和硬路肩等特征点高程。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_120",
+    "expected_answer_points": [
+      "有中间带道路常用绕中央分隔带边线旋转，需要分别计算行车道、路缘带和硬路肩等特征点高程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_121",
+    "question": "请简要说明：计算机辅助设计CAD的定义是什么？",
+    "expected_answer_card": "ans_ch03_001",
+    "must_include": [
+      "CAD是利用计算机辅助完成工程设计的技术系统。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_121",
+    "expected_answer_points": [
+      "CAD是利用计算机辅助完成工程设计的技术系统。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_122",
+    "question": "请按条目回答：计算机辅助设计CAD的定义是什么？",
+    "expected_answer_card": "ans_ch03_001",
+    "must_include": [
+      "CAD是利用计算机辅助完成工程设计的技术系统。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_122",
+    "expected_answer_points": [
+      "CAD是利用计算机辅助完成工程设计的技术系统。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_123",
+    "question": "请简要说明：CAD系统有哪些技术特征？",
+    "expected_answer_card": "ans_ch03_002",
+    "must_include": [
+      "精确的几何建模与可视化能力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_123",
+    "expected_answer_points": [
+      "精确的几何建模与可视化能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_124",
+    "question": "请按条目回答：CAD系统有哪些技术特征？",
+    "expected_answer_card": "ans_ch03_002",
+    "must_include": [
+      "精确的几何建模与可视化能力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_124",
+    "expected_answer_points": [
+      "精确的几何建模与可视化能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_125",
+    "question": "请简要说明：完整CAD系统由哪些部分组成？",
+    "expected_answer_card": "ans_ch03_003",
+    "must_include": [
+      "硬件系统：主机、输入设备、输出设备和显示设备。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_125",
+    "expected_answer_points": [
+      "硬件系统：主机、输入设备、输出设备和显示设备。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_126",
+    "question": "请按条目回答：完整CAD系统由哪些部分组成？",
+    "expected_answer_card": "ans_ch03_003",
+    "must_include": [
+      "硬件系统：主机、输入设备、输出设备和显示设备。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_126",
+    "expected_answer_points": [
+      "硬件系统：主机、输入设备、输出设备和显示设备。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_127",
+    "question": "请简要说明：道路工程CAD系统的设计理念体现在哪些方面？",
+    "expected_answer_card": "ans_ch03_004",
+    "must_include": [
+      "以图纸交付为核心，满足施工图成果输出要求。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_127",
+    "expected_answer_points": [
+      "以图纸交付为核心，满足施工图成果输出要求。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_128",
+    "question": "请按条目回答：道路工程CAD系统的设计理念体现在哪些方面？",
+    "expected_answer_card": "ans_ch03_004",
+    "must_include": [
+      "以图纸交付为核心，满足施工图成果输出要求。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_128",
+    "expected_answer_points": [
+      "以图纸交付为核心，满足施工图成果输出要求。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_129",
+    "question": "请简要说明：道路CAD系统通常包括哪些功能模块？",
+    "expected_answer_card": "ans_ch03_005",
+    "must_include": [
+      "数模模块：支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_129",
+    "expected_answer_points": [
+      "数模模块：支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_130",
+    "question": "请按条目回答：道路CAD系统通常包括哪些功能模块？",
+    "expected_answer_card": "ans_ch03_005",
+    "must_include": [
+      "数模模块：支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_130",
+    "expected_answer_points": [
+      "数模模块：支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_131",
+    "question": "请简要说明：路线平面CAD系统的主要任务是什么？",
+    "expected_answer_card": "ans_ch03_006",
+    "must_include": [
+      "确定和调整道路中线平面位置。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_131",
+    "expected_answer_points": [
+      "确定和调整道路中线平面位置。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_132",
+    "question": "请按条目回答：路线平面CAD系统的主要任务是什么？",
+    "expected_answer_card": "ans_ch03_006",
+    "must_include": [
+      "确定和调整道路中线平面位置。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_132",
+    "expected_answer_points": [
+      "确定和调整道路中线平面位置。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_133",
+    "question": "请简要说明：直线型设计方法和曲线型设计方法有什么区别？",
+    "expected_answer_card": "ans_ch03_007",
+    "must_include": [
+      "直线型方法以交点、切线和转角为主要控制对象。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_133",
+    "expected_answer_points": [
+      "直线型方法以交点、切线和转角为主要控制对象。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "table"
+  },
+  {
+    "eval_id": "eval_ch03_134",
+    "question": "请按条目回答：直线型设计方法和曲线型设计方法有什么区别？",
+    "expected_answer_card": "ans_ch03_007",
+    "must_include": [
+      "直线型方法以交点、切线和转角为主要控制对象。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_134",
+    "expected_answer_points": [
+      "直线型方法以交点、切线和转角为主要控制对象。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "table"
+  },
+  {
+    "eval_id": "eval_ch03_135",
+    "question": "请简要说明：传统路线平面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_008",
+    "must_include": [
+      "根据地形图或实地条件初步确定交点、平曲线半径和缓和曲线长度。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_135",
+    "expected_answer_points": [
+      "根据地形图或实地条件初步确定交点、平曲线半径和缓和曲线长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_136",
+    "question": "请按条目回答：传统路线平面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_008",
+    "must_include": [
+      "根据地形图或实地条件初步确定交点、平曲线半径和缓和曲线长度。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_136",
+    "expected_answer_points": [
+      "根据地形图或实地条件初步确定交点、平曲线半径和缓和曲线长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_137",
+    "question": "请简要说明：平面CAD系统中人机分工的基本原则是什么？",
+    "expected_answer_card": "ans_ch03_009",
+    "must_include": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_137",
+    "expected_answer_points": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_138",
+    "question": "请按条目回答：平面CAD系统中人机分工的基本原则是什么？",
+    "expected_answer_card": "ans_ch03_009",
+    "must_include": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_138",
+    "expected_answer_points": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_139",
+    "question": "请简要说明：平面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_010",
+    "must_include": [
+      "完整的几何计算功能。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_139",
+    "expected_answer_points": [
+      "完整的几何计算功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_140",
+    "question": "请按条目回答：平面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_010",
+    "must_include": [
+      "完整的几何计算功能。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_140",
+    "expected_answer_points": [
+      "完整的几何计算功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_141",
+    "question": "请简要说明：基本型曲线设计模型的作用是什么？",
+    "expected_answer_card": "ans_ch03_011",
+    "must_include": [
+      "用于描述前缓和曲线、圆曲线、后缓和曲线组合。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_141",
+    "expected_answer_points": [
+      "用于描述前缓和曲线、圆曲线、后缓和曲线组合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_142",
+    "question": "请按条目回答：基本型曲线设计模型的作用是什么？",
+    "expected_answer_card": "ans_ch03_011",
+    "must_include": [
+      "用于描述前缓和曲线、圆曲线、后缓和曲线组合。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_142",
+    "expected_answer_points": [
+      "用于描述前缓和曲线、圆曲线、后缓和曲线组合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_143",
+    "question": "请简要说明：逐桩坐标计算的基本思路是什么？",
+    "expected_answer_card": "ans_ch03_012",
+    "must_include": [
+      "先判断计算桩号位于直线、第一缓和曲线、圆曲线或第二缓和曲线区段。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_143",
+    "expected_answer_points": [
+      "先判断计算桩号位于直线、第一缓和曲线、圆曲线或第二缓和曲线区段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_144",
+    "question": "请按条目回答：逐桩坐标计算的基本思路是什么？",
+    "expected_answer_card": "ans_ch03_012",
+    "must_include": [
+      "先判断计算桩号位于直线、第一缓和曲线、圆曲线或第二缓和曲线区段。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_144",
+    "expected_answer_points": [
+      "先判断计算桩号位于直线、第一缓和曲线、圆曲线或第二缓和曲线区段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_145",
+    "question": "请简要说明：纵断面CAD系统的设计流程可分为哪几个阶段？",
+    "expected_answer_card": "ans_ch03_013",
+    "must_include": [
+      "准备与初始化阶段。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_145",
+    "expected_answer_points": [
+      "准备与初始化阶段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_146",
+    "question": "请按条目回答：纵断面CAD系统的设计流程可分为哪几个阶段？",
+    "expected_answer_card": "ans_ch03_013",
+    "must_include": [
+      "准备与初始化阶段。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_146",
+    "expected_answer_points": [
+      "准备与初始化阶段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_147",
+    "question": "请简要说明：纵断面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_014",
+    "must_include": [
+      "控制条件的查询与检查。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_147",
+    "expected_answer_points": [
+      "控制条件的查询与检查。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_148",
+    "question": "请按条目回答：纵断面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_014",
+    "must_include": [
+      "控制条件的查询与检查。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_148",
+    "expected_answer_points": [
+      "控制条件的查询与检查。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_149",
+    "question": "请简要说明：纵坡度和坡度差分别如何理解？",
+    "expected_answer_card": "ans_ch03_015",
+    "must_include": [
+      "纵坡度表示相邻变坡点之间设计线的倾斜程度，由高程差与桩号距离确定。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_149",
+    "expected_answer_points": [
+      "纵坡度表示相邻变坡点之间设计线的倾斜程度，由高程差与桩号距离确定。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_150",
+    "question": "请按条目回答：纵坡度和坡度差分别如何理解？",
+    "expected_answer_card": "ans_ch03_015",
+    "must_include": [
+      "纵坡度表示相邻变坡点之间设计线的倾斜程度，由高程差与桩号距离确定。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_150",
+    "expected_answer_points": [
+      "纵坡度表示相邻变坡点之间设计线的倾斜程度，由高程差与桩号距离确定。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_151",
+    "question": "请简要说明：设计高程如何计算？",
+    "expected_answer_card": "ans_ch03_016",
+    "must_include": [
+      "判断桩号位于直坡段还是竖曲线段。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_151",
+    "expected_answer_points": [
+      "判断桩号位于直坡段还是竖曲线段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_152",
+    "question": "请按条目回答：设计高程如何计算？",
+    "expected_answer_card": "ans_ch03_016",
+    "must_include": [
+      "判断桩号位于直坡段还是竖曲线段。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_152",
+    "expected_answer_points": [
+      "判断桩号位于直坡段还是竖曲线段。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_153",
+    "question": "请简要说明：横断面CAD系统的工作流程是什么？",
+    "expected_answer_card": "ans_ch03_017",
+    "must_include": [
+      "输入或生成横断面地面线。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_153",
+    "expected_answer_points": [
+      "输入或生成横断面地面线。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_154",
+    "question": "请按条目回答：横断面CAD系统的工作流程是什么？",
+    "expected_answer_card": "ans_ch03_017",
+    "must_include": [
+      "输入或生成横断面地面线。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_154",
+    "expected_answer_points": [
+      "输入或生成横断面地面线。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_155",
+    "question": "请简要说明：什么是横断面自动设计中的“戴帽”？",
+    "expected_answer_card": "ans_ch03_018",
+    "must_include": [
+      "戴帽是系统按横断面地面线、设计模板和规则自动生成断面设计线的过程。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_155",
+    "expected_answer_points": [
+      "戴帽是系统按横断面地面线、设计模板和规则自动生成断面设计线的过程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_156",
+    "question": "请按条目回答：什么是横断面自动设计中的“戴帽”？",
+    "expected_answer_card": "ans_ch03_018",
+    "must_include": [
+      "戴帽是系统按横断面地面线、设计模板和规则自动生成断面设计线的过程。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_156",
+    "expected_answer_points": [
+      "戴帽是系统按横断面地面线、设计模板和规则自动生成断面设计线的过程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_157",
+    "question": "请简要说明：横断面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_019",
+    "must_include": [
+      "完善的横断面设计策略和模板规则。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_157",
+    "expected_answer_points": [
+      "完善的横断面设计策略和模板规则。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_158",
+    "question": "请按条目回答：横断面CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_019",
+    "must_include": [
+      "完善的横断面设计策略和模板规则。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_158",
+    "expected_answer_points": [
+      "完善的横断面设计策略和模板规则。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_159",
+    "question": "请简要说明：超高设计与计算的主要内容是什么？",
+    "expected_answer_card": "ans_ch03_020",
+    "must_include": [
+      "确定曲线上的超高值，使超高和横向摩阻共同分担离心力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_159",
+    "expected_answer_points": [
+      "确定曲线上的超高值，使超高和横向摩阻共同分担离心力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_160",
+    "question": "请按条目回答：超高设计与计算的主要内容是什么？",
+    "expected_answer_card": "ans_ch03_020",
+    "must_include": [
+      "确定曲线上的超高值，使超高和横向摩阻共同分担离心力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_160",
+    "expected_answer_points": [
+      "确定曲线上的超高值，使超高和横向摩阻共同分担离心力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_161",
+    "question": "请简要说明：边坡设计模型中基本边坡线单元有什么作用？",
+    "expected_answer_card": "ans_ch03_021",
+    "must_include": [
+      "它是描述边坡段几何和控制条件的基本单元。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_161",
+    "expected_answer_points": [
+      "它是描述边坡段几何和控制条件的基本单元。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_162",
+    "question": "请按条目回答：边坡设计模型中基本边坡线单元有什么作用？",
+    "expected_answer_card": "ans_ch03_021",
+    "must_include": [
+      "它是描述边坡段几何和控制条件的基本单元。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_162",
+    "expected_answer_points": [
+      "它是描述边坡段几何和控制条件的基本单元。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_163",
+    "question": "请简要说明：横断面面积和土石方数量如何计算？",
+    "expected_answer_card": "ans_ch03_022",
+    "must_include": [
+      "先根据地面线与设计线确定填方面积和挖方面积。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_163",
+    "expected_answer_points": [
+      "先根据地面线与设计线确定填方面积和挖方面积。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_164",
+    "question": "请按条目回答：横断面面积和土石方数量如何计算？",
+    "expected_answer_card": "ans_ch03_022",
+    "must_include": [
+      "先根据地面线与设计线确定填方面积和挖方面积。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_164",
+    "expected_answer_points": [
+      "先根据地面线与设计线确定填方面积和挖方面积。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_165",
+    "question": "请简要说明：平面交叉口CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_023",
+    "must_include": [
+      "支持多种平面交叉口的平面和立面交互设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_165",
+    "expected_answer_points": [
+      "支持多种平面交叉口的平面和立面交互设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_166",
+    "question": "请按条目回答：平面交叉口CAD系统应具备哪些功能？",
+    "expected_answer_card": "ans_ch03_023",
+    "must_include": [
+      "支持多种平面交叉口的平面和立面交互设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_166",
+    "expected_answer_points": [
+      "支持多种平面交叉口的平面和立面交互设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_167",
+    "question": "请简要说明：Coons曲面模型为什么适合交叉口立面设计？",
+    "expected_answer_card": "ans_ch03_024",
+    "must_include": [
+      "交叉口立面本质上是较平缓的三维曲面。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_167",
+    "expected_answer_points": [
+      "交叉口立面本质上是较平缓的三维曲面。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_168",
+    "question": "请按条目回答：Coons曲面模型为什么适合交叉口立面设计？",
+    "expected_answer_card": "ans_ch03_024",
+    "must_include": [
+      "交叉口立面本质上是较平缓的三维曲面。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_168",
+    "expected_answer_points": [
+      "交叉口立面本质上是较平缓的三维曲面。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_169",
+    "question": "请简要说明：基于Coons曲面的交叉口立面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_025",
+    "must_include": [
+      "根据交叉口类型划分Coons曲面片。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_169",
+    "expected_answer_points": [
+      "根据交叉口类型划分Coons曲面片。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_170",
+    "question": "请按条目回答：基于Coons曲面的交叉口立面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_025",
+    "must_include": [
+      "根据交叉口类型划分Coons曲面片。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_170",
+    "expected_answer_points": [
+      "根据交叉口类型划分Coons曲面片。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "step"
+  },
+  {
+    "eval_id": "eval_ch03_171",
+    "question": "请简要说明：计算机辅助设计CAD的基本定义是什么？",
+    "expected_answer_card": "ans_ch03_026",
+    "must_include": [
+      "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_171",
+    "expected_answer_points": [
+      "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_172",
+    "question": "请按条目回答：计算机辅助设计CAD的基本定义是什么？",
+    "expected_answer_card": "ans_ch03_026",
+    "must_include": [
+      "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_172",
+    "expected_answer_points": [
+      "CAD是利用计算机硬件、软件和工程数据资源辅助设计人员完成图形绘制、几何建模、参数计算、成果输出和设计管理的技术系统。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_173",
+    "question": "请简要说明：CAD的工程内涵是什么？",
+    "expected_answer_card": "ans_ch03_027",
+    "must_include": [
+      "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_173",
+    "expected_answer_points": [
+      "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_174",
+    "question": "请按条目回答：CAD的工程内涵是什么？",
+    "expected_answer_card": "ans_ch03_027",
+    "must_include": [
+      "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_174",
+    "expected_answer_points": [
+      "CAD不仅是绘图工具，还包括图形平台、专业设计模块、数据管理和标准化成果输出机制。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_175",
+    "question": "请简要说明：CAD精确几何建模能力是什么？",
+    "expected_answer_card": "ans_ch03_028",
+    "must_include": [
+      "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_175",
+    "expected_answer_points": [
+      "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_176",
+    "question": "请按条目回答：CAD精确几何建模能力是什么？",
+    "expected_answer_card": "ans_ch03_028",
+    "must_include": [
+      "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_176",
+    "expected_answer_points": [
+      "CAD通过坐标、线元、曲线和图层等机制精确表达工程对象的几何位置、尺寸和拓扑关系。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_177",
+    "question": "请简要说明：CAD可视化表达能力是什么？",
+    "expected_answer_card": "ans_ch03_029",
+    "must_include": [
+      "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_177",
+    "expected_answer_points": [
+      "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_178",
+    "question": "请按条目回答：CAD可视化表达能力是什么？",
+    "expected_answer_card": "ans_ch03_029",
+    "must_include": [
+      "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_178",
+    "expected_answer_points": [
+      "CAD通过屏幕图形、图层、视口和绘图样式直观展示道路设计成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_179",
+    "question": "请简要说明：以图纸为中心的CAD设计逻辑是什么？",
+    "expected_answer_card": "ans_ch03_030",
+    "must_include": [
+      "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_179",
+    "expected_answer_points": [
+      "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_180",
+    "question": "请按条目回答：以图纸为中心的CAD设计逻辑是什么？",
+    "expected_answer_card": "ans_ch03_030",
+    "must_include": [
+      "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_180",
+    "expected_answer_points": [
+      "传统CAD以图纸文件和图形对象为主要载体，设计成果通过平面图、纵断面图、横断面图和表格交付。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_181",
+    "question": "请简要说明：CAD标准化输出能力是什么？",
+    "expected_answer_card": "ans_ch03_031",
+    "must_include": [
+      "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_181",
+    "expected_answer_points": [
+      "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_182",
+    "question": "请按条目回答：CAD标准化输出能力是什么？",
+    "expected_answer_card": "ans_ch03_031",
+    "must_include": [
+      "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_182",
+    "expected_answer_points": [
+      "CAD系统通过图层、线型、标注、图框和模板实现图纸表达的规范化和一致性。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_183",
+    "question": "请简要说明：CAD高效编辑机制是什么？",
+    "expected_answer_card": "ans_ch03_032",
+    "must_include": [
+      "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_183",
+    "expected_answer_points": [
+      "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_184",
+    "question": "请按条目回答：CAD高效编辑机制是什么？",
+    "expected_answer_card": "ans_ch03_032",
+    "must_include": [
+      "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_184",
+    "expected_answer_points": [
+      "CAD支持复制、偏移、裁剪、延伸、镜像、阵列、图块和属性编辑等操作，提高设计修改效率。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_185",
+    "question": "请简要说明：CAD数据管理机制是什么？",
+    "expected_answer_card": "ans_ch03_033",
+    "must_include": [
+      "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_185",
+    "expected_answer_points": [
+      "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_186",
+    "question": "请按条目回答：CAD数据管理机制是什么？",
+    "expected_answer_card": "ans_ch03_033",
+    "must_include": [
+      "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_186",
+    "expected_answer_points": [
+      "CAD通过图层、文件、数据库、图块库和工程项目文件管理设计数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_187",
+    "question": "请简要说明：CAD参数化潜力是什么？",
+    "expected_answer_card": "ans_ch03_034",
+    "must_include": [
+      "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_187",
+    "expected_answer_points": [
+      "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_188",
+    "question": "请按条目回答：CAD参数化潜力是什么？",
+    "expected_answer_card": "ans_ch03_034",
+    "must_include": [
+      "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_188",
+    "expected_answer_points": [
+      "CAD系统可以通过参数、约束、脚本和二次开发实现部分自动计算和自动绘图。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_189",
+    "question": "请简要说明：CAD开放性与系统衔接能力是什么？",
+    "expected_answer_card": "ans_ch03_035",
+    "must_include": [
+      "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_189",
+    "expected_answer_points": [
+      "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_190",
+    "question": "请按条目回答：CAD开放性与系统衔接能力是什么？",
+    "expected_answer_card": "ans_ch03_035",
+    "must_include": [
+      "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_190",
+    "expected_answer_points": [
+      "CAD可通过插件、二次开发、数据接口和文件格式转换与专业道路设计系统、GIS和BIM平台衔接。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_191",
+    "question": "请简要说明：CAD硬件系统是什么？",
+    "expected_answer_card": "ans_ch03_036",
+    "must_include": [
+      "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_191",
+    "expected_answer_points": [
+      "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_192",
+    "question": "请按条目回答：CAD硬件系统是什么？",
+    "expected_answer_card": "ans_ch03_036",
+    "must_include": [
+      "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_192",
+    "expected_answer_points": [
+      "CAD硬件系统是运行CAD平台的物理基础，包括主机、输入设备、输出设备和图形显示设备。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_193",
+    "question": "请简要说明：CAD软件系统层级是什么？",
+    "expected_answer_card": "ans_ch03_037",
+    "must_include": [
+      "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_193",
+    "expected_answer_points": [
+      "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_194",
+    "question": "请按条目回答：CAD软件系统层级是什么？",
+    "expected_answer_card": "ans_ch03_037",
+    "must_include": [
+      "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_194",
+    "expected_answer_points": [
+      "CAD软件系统通常包括操作系统层、图形平台层和专业设计模块层。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_195",
+    "question": "请简要说明：CAD数据与知识资源是什么？",
+    "expected_answer_card": "ans_ch03_038",
+    "must_include": [
+      "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_195",
+    "expected_answer_points": [
+      "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_196",
+    "question": "请按条目回答：CAD数据与知识资源是什么？",
+    "expected_answer_card": "ans_ch03_038",
+    "must_include": [
+      "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_196",
+    "expected_answer_points": [
+      "CAD数据与知识资源包括图形元素库、样式标注库、工程数据库和用户自定义资源。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_197",
+    "question": "请简要说明：图形元素库是什么？",
+    "expected_answer_card": "ans_ch03_039",
+    "must_include": [
+      "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_197",
+    "expected_answer_points": [
+      "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_198",
+    "question": "请按条目回答：图形元素库是什么？",
+    "expected_answer_card": "ans_ch03_039",
+    "must_include": [
+      "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_198",
+    "expected_answer_points": [
+      "图形元素库是CAD中保存标准图块、典型断面、构件符号和图纸模板的资源集合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_199",
+    "question": "请简要说明：样式与标注库是什么？",
+    "expected_answer_card": "ans_ch03_040",
+    "must_include": [
+      "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_199",
+    "expected_answer_points": [
+      "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_200",
+    "question": "请按条目回答：样式与标注库是什么？",
+    "expected_answer_card": "ans_ch03_040",
+    "must_include": [
+      "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_200",
+    "expected_answer_points": [
+      "样式与标注库用于统一线型、字体、标注样式、图层模板和图纸表达规则。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_201",
+    "question": "请简要说明：工程数据库是什么？",
+    "expected_answer_card": "ans_ch03_041",
+    "must_include": [
+      "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_201",
+    "expected_answer_points": [
+      "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_202",
+    "question": "请按条目回答：工程数据库是什么？",
+    "expected_answer_card": "ans_ch03_041",
+    "must_include": [
+      "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_202",
+    "expected_answer_points": [
+      "工程数据库用于记录构件参数、材料属性、设计规范、公差标准和成果计算数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_203",
+    "question": "请简要说明：用户自定义资源是什么？",
+    "expected_answer_card": "ans_ch03_042",
+    "must_include": [
+      "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_203",
+    "expected_answer_points": [
+      "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_204",
+    "question": "请按条目回答：用户自定义资源是什么？",
+    "expected_answer_card": "ans_ch03_042",
+    "must_include": [
+      "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_204",
+    "expected_answer_points": [
+      "用户自定义资源包括快捷命令、脚本、LISP宏和二次开发工具，用于扩展CAD功能和自动化流程。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_205",
+    "question": "请简要说明：道路工程设计阶段是什么？",
+    "expected_answer_card": "ans_ch03_043",
+    "must_include": [
+      "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_205",
+    "expected_answer_points": [
+      "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_206",
+    "question": "请按条目回答：道路工程设计阶段是什么？",
+    "expected_answer_card": "ans_ch03_043",
+    "must_include": [
+      "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_206",
+    "expected_answer_points": [
+      "道路工程设计通常包括可行性研究、初步设计、施工图设计以及施工与竣工阶段，各阶段对CAD功能有不同需求。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_207",
+    "question": "请简要说明：道路基本设计流程是什么？",
+    "expected_answer_card": "ans_ch03_044",
+    "must_include": [
+      "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_207",
+    "expected_answer_points": [
+      "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_208",
+    "question": "请按条目回答：道路基本设计流程是什么？",
+    "expected_answer_card": "ans_ch03_044",
+    "must_include": [
+      "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_208",
+    "expected_answer_points": [
+      "道路设计通常按照测绘与地形建模、平纵面设计、横断面与路基设计、路面结构、排水构造、交叉口构造物、工程量与成果输出等模块推"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_209",
+    "question": "请简要说明：测绘与地形建模流程是什么？",
+    "expected_answer_card": "ans_ch03_045",
+    "must_include": [
+      "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_209",
+    "expected_answer_points": [
+      "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_210",
+    "question": "请按条目回答：测绘与地形建模流程是什么？",
+    "expected_answer_card": "ans_ch03_045",
+    "must_include": [
+      "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_210",
+    "expected_answer_points": [
+      "测绘与地形建模是道路CAD设计的基础环节，主要将测量点、等高线或点云转换为数字地形模型。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_211",
+    "question": "请简要说明：路线平纵面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_046",
+    "must_include": [
+      "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_211",
+    "expected_answer_points": [
+      "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_212",
+    "question": "请按条目回答：路线平纵面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_046",
+    "must_include": [
+      "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_212",
+    "expected_answer_points": [
+      "路线平纵面设计依据地形、地质和交通条件确定道路平面位置、纵坡和竖曲线组合。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_213",
+    "question": "请简要说明：横断面与路基设计流程是什么？",
+    "expected_answer_card": "ans_ch03_047",
+    "must_include": [
+      "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_213",
+    "expected_answer_points": [
+      "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_214",
+    "question": "请按条目回答：横断面与路基设计流程是什么？",
+    "expected_answer_card": "ans_ch03_047",
+    "must_include": [
+      "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_214",
+    "expected_answer_points": [
+      "横断面与路基设计根据中线、地面线和设计模板确定路幅、边坡、边沟、超高、加宽和填挖范围。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_215",
+    "question": "请简要说明：CAD成果输出流程是什么？",
+    "expected_answer_card": "ans_ch03_048",
+    "must_include": [
+      "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_215",
+    "expected_answer_points": [
+      "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_216",
+    "question": "请按条目回答：CAD成果输出流程是什么？",
+    "expected_answer_card": "ans_ch03_048",
+    "must_include": [
+      "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_216",
+    "expected_answer_points": [
+      "CAD成果输出包括平面图、纵断面图、横断面图、结构数量表和材料汇总表等图纸与报表。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_217",
+    "question": "请简要说明：道路CAD图纸交付理念是什么？",
+    "expected_answer_card": "ans_ch03_049",
+    "must_include": [
+      "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_217",
+    "expected_answer_points": [
+      "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_218",
+    "question": "请按条目回答：道路CAD图纸交付理念是什么？",
+    "expected_answer_card": "ans_ch03_049",
+    "must_include": [
+      "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_218",
+    "expected_answer_points": [
+      "道路CAD系统以满足施工图交付为重要目标，强调图纸完整、格式规范、标注准确和表格齐全。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_219",
+    "question": "请简要说明：几何中线驱动建模逻辑是什么？",
+    "expected_answer_card": "ans_ch03_050",
+    "must_include": [
+      "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_219",
+    "expected_answer_points": [
+      "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_220",
+    "question": "请按条目回答：几何中线驱动建模逻辑是什么？",
+    "expected_answer_card": "ans_ch03_050",
+    "must_include": [
+      "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_220",
+    "expected_answer_points": [
+      "道路CAD系统以路线中线为主轴，围绕中线展开平面、纵断面、横断面、构造物和工程量计算。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_221",
+    "question": "请简要说明：工程流程导向功能集成是什么？",
+    "expected_answer_card": "ans_ch03_051",
+    "must_include": [
+      "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_221",
+    "expected_answer_points": [
+      "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_222",
+    "question": "请按条目回答：工程流程导向功能集成是什么？",
+    "expected_answer_card": "ans_ch03_051",
+    "must_include": [
+      "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_222",
+    "expected_answer_points": [
+      "道路CAD系统按工程设计流程组织功能，使数模、路线、横断、结构、图纸输出等模块协同工作。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_223",
+    "question": "请简要说明：道路CAD向智能化与BIM协同演进是什么？",
+    "expected_answer_card": "ans_ch03_052",
+    "must_include": [
+      "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_223",
+    "expected_answer_points": [
+      "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_224",
+    "question": "请按条目回答：道路CAD向智能化与BIM协同演进是什么？",
+    "expected_answer_card": "ans_ch03_052",
+    "must_include": [
+      "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_224",
+    "expected_answer_points": [
+      "现代道路CAD系统逐步引入参数驱动、规则校核、智能推荐、三维表达和BIM数据衔接能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_225",
+    "question": "请简要说明：数模模块是什么？",
+    "expected_answer_card": "ans_ch03_053",
+    "must_include": [
+      "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_225",
+    "expected_answer_points": [
+      "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_226",
+    "question": "请按条目回答：数模模块是什么？",
+    "expected_answer_card": "ans_ch03_053",
+    "must_include": [
+      "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_226",
+    "expected_answer_points": [
+      "支持点云、等高线和测量数据导入，生成数字地形模型并服务路线、排水和结构布设。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_227",
+    "question": "请简要说明：平面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_054",
+    "must_include": [
+      "实现道路中线布设、平面曲线组合计算和设计图自动生成。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_227",
+    "expected_answer_points": [
+      "实现道路中线布设、平面曲线组合计算和设计图自动生成。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_228",
+    "question": "请按条目回答：平面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_054",
+    "must_include": [
+      "实现道路中线布设、平面曲线组合计算和设计图自动生成。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_228",
+    "expected_answer_points": [
+      "实现道路中线布设、平面曲线组合计算和设计图自动生成。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_229",
+    "question": "请简要说明：纵断面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_055",
+    "must_include": [
+      "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_229",
+    "expected_answer_points": [
+      "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_230",
+    "question": "请按条目回答：纵断面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_055",
+    "must_include": [
+      "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_230",
+    "expected_answer_points": [
+      "完成地面线提取、纵坡控制、竖曲线布设和纵断面图生成。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_231",
+    "question": "请简要说明：横断面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_056",
+    "must_include": [
+      "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_231",
+    "expected_answer_points": [
+      "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_232",
+    "question": "请按条目回答：横断面设计模块是什么？",
+    "expected_answer_card": "ans_ch03_056",
+    "must_include": [
+      "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_232",
+    "expected_answer_points": [
+      "提供横断面模板定义、戴帽设计、交互修改、超高加宽和土石方计算功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_233",
+    "question": "请简要说明：路基支挡设计模块是什么？",
+    "expected_answer_card": "ans_ch03_057",
+    "must_include": [
+      "用于布设支挡防护构造物并完成绘图和工程量统计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_233",
+    "expected_answer_points": [
+      "用于布设支挡防护构造物并完成绘图和工程量统计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_234",
+    "question": "请按条目回答：路基支挡设计模块是什么？",
+    "expected_answer_card": "ans_ch03_057",
+    "must_include": [
+      "用于布设支挡防护构造物并完成绘图和工程量统计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_234",
+    "expected_answer_points": [
+      "用于布设支挡防护构造物并完成绘图和工程量统计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_235",
+    "question": "请简要说明：排水与构造物模块是什么？",
+    "expected_answer_card": "ans_ch03_058",
+    "must_include": [
+      "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_235",
+    "expected_answer_points": [
+      "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_236",
+    "question": "请按条目回答：排水与构造物模块是什么？",
+    "expected_answer_card": "ans_ch03_058",
+    "must_include": [
+      "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_236",
+    "expected_answer_points": [
+      "支持边沟、截水沟、急流槽、涵洞和小桥等排水构造物设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_237",
+    "question": "请简要说明：交叉口与立交设计模块是什么？",
+    "expected_answer_card": "ans_ch03_059",
+    "must_include": [
+      "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_237",
+    "expected_answer_points": [
+      "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_238",
+    "question": "请按条目回答：交叉口与立交设计模块是什么？",
+    "expected_answer_card": "ans_ch03_059",
+    "must_include": [
+      "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_238",
+    "expected_answer_points": [
+      "用于平面交叉、互通立交、匝道、导流岛和加减速车道设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_239",
+    "question": "请简要说明：设计评价与分析模块是什么？",
+    "expected_answer_card": "ans_ch03_060",
+    "must_include": [
+      "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_239",
+    "expected_answer_points": [
+      "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_240",
+    "question": "请按条目回答：设计评价与分析模块是什么？",
+    "expected_answer_card": "ans_ch03_060",
+    "must_include": [
+      "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_240",
+    "expected_answer_points": [
+      "支持规范符合性检查、安全评价、三维建模和漫游等分析功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_241",
+    "question": "请简要说明：工程数据管理模块是什么？",
+    "expected_answer_card": "ans_ch03_061",
+    "must_include": [
+      "统一组织道路设计过程中的图形、参数、表格和工程数据库。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_241",
+    "expected_answer_points": [
+      "统一组织道路设计过程中的图形、参数、表格和工程数据库。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_242",
+    "question": "请按条目回答：工程数据管理模块是什么？",
+    "expected_answer_card": "ans_ch03_061",
+    "must_include": [
+      "统一组织道路设计过程中的图形、参数、表格和工程数据库。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_242",
+    "expected_answer_points": [
+      "统一组织道路设计过程中的图形、参数、表格和工程数据库。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_243",
+    "question": "请简要说明：成果输出与管理模块是什么？",
+    "expected_answer_card": "ans_ch03_062",
+    "must_include": [
+      "自动生成平面图、纵断面图、横断面图、表格和打印成果。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_243",
+    "expected_answer_points": [
+      "自动生成平面图、纵断面图、横断面图、表格和打印成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_244",
+    "question": "请按条目回答：成果输出与管理模块是什么？",
+    "expected_answer_card": "ans_ch03_062",
+    "must_include": [
+      "自动生成平面图、纵断面图、横断面图、表格和打印成果。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_244",
+    "expected_answer_points": [
+      "自动生成平面图、纵断面图、横断面图、表格和打印成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_245",
+    "question": "请简要说明：路线平面CAD系统任务是什么？",
+    "expected_answer_card": "ans_ch03_063",
+    "must_include": [
+      "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_245",
+    "expected_answer_points": [
+      "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_246",
+    "question": "请按条目回答：路线平面CAD系统任务是什么？",
+    "expected_answer_card": "ans_ch03_063",
+    "must_include": [
+      "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_246",
+    "expected_answer_points": [
+      "路线平面CAD系统负责道路中线平面位置、线形组合、曲线要素、桩号坐标和成果图表的数字化设计。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_247",
+    "question": "请简要说明：直线型设计方法是什么？",
+    "expected_answer_card": "ans_ch03_064",
+    "must_include": [
+      "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_247",
+    "expected_answer_points": [
+      "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_248",
+    "question": "请按条目回答：直线型设计方法是什么？",
+    "expected_answer_card": "ans_ch03_064",
+    "must_include": [
+      "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_248",
+    "expected_answer_points": [
+      "直线型设计方法先由设计人员确定交点、转角、半径和缓和曲线长度，再由系统计算平曲线要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_249",
+    "question": "请简要说明：曲线型设计方法是什么？",
+    "expected_answer_card": "ans_ch03_065",
+    "must_include": [
+      "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_249",
+    "expected_answer_points": [
+      "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_250",
+    "question": "请按条目回答：曲线型设计方法是什么？",
+    "expected_answer_card": "ans_ch03_065",
+    "must_include": [
+      "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_250",
+    "expected_answer_points": [
+      "曲线型设计方法以圆曲线、缓和曲线和曲线连接关系为基础，通过曲线单元组合控制路线走向。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_251",
+    "question": "请简要说明：直线型与曲线型方法选择是什么？",
+    "expected_answer_card": "ans_ch03_066",
+    "must_include": [
+      "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_251",
+    "expected_answer_points": [
+      "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_252",
+    "question": "请按条目回答：直线型与曲线型方法选择是什么？",
+    "expected_answer_card": "ans_ch03_066",
+    "must_include": [
+      "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_252",
+    "expected_answer_points": [
+      "直线型方法适合传统交点控制和方案清晰情形，曲线型方法适合复杂地形下以曲线单元为主的灵活连接。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_253",
+    "question": "请从概括性流程总结角度简要说明：传统路线平面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_067",
+    "must_include": [
+      "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_253",
+    "expected_answer_points": [
+      "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_254",
+    "question": "请从概括性流程总结角度按条目回答：传统路线平面设计流程是什么？",
+    "expected_answer_card": "ans_ch03_067",
+    "must_include": [
+      "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_254",
+    "expected_answer_points": [
+      "传统平面设计通常先定交点和曲线参数，再检查规范与地形适应性，并与纵断面反复协调修改。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_255",
+    "question": "请简要说明：平面CAD人机分工原则是什么？",
+    "expected_answer_card": "ans_ch03_068",
+    "must_include": [
+      "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_255",
+    "expected_answer_points": [
+      "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_256",
+    "question": "请按条目回答：平面CAD人机分工原则是什么？",
+    "expected_answer_card": "ans_ch03_068",
+    "must_include": [
+      "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_256",
+    "expected_answer_points": [
+      "平面CAD系统中，设计人员负责方案判断、控制条件选择和交互修改，计算机负责几何计算、规范检查、图形更新和数据管理。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_257",
+    "question": "请简要说明：平面CAD计算功能是什么？",
+    "expected_answer_card": "ans_ch03_069",
+    "must_include": [
+      "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_257",
+    "expected_answer_points": [
+      "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_258",
+    "question": "请按条目回答：平面CAD计算功能是什么？",
+    "expected_answer_card": "ans_ch03_069",
+    "must_include": [
+      "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_258",
+    "expected_answer_points": [
+      "平面CAD应具备曲线组合计算、线形特征值计算、任意桩号中桩和边桩坐标计算能力。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_259",
+    "question": "请简要说明：平面CAD灵活线形设计手段是什么？",
+    "expected_answer_card": "ans_ch03_070",
+    "must_include": [
+      "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_259",
+    "expected_answer_points": [
+      "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_260",
+    "question": "请按条目回答：平面CAD灵活线形设计手段是什么？",
+    "expected_answer_card": "ans_ch03_070",
+    "must_include": [
+      "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_260",
+    "expected_answer_points": [
+      "平面CAD应支持直线法、曲线法、交点法、线元法、积木法等多种线形设计方式。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_261",
+    "question": "请简要说明：平面CAD智能推荐功能是什么？",
+    "expected_answer_card": "ans_ch03_071",
+    "must_include": [
+      "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_261",
+    "expected_answer_points": [
+      "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_262",
+    "question": "请按条目回答：平面CAD智能推荐功能是什么？",
+    "expected_answer_card": "ans_ch03_071",
+    "must_include": [
+      "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_262",
+    "expected_answer_points": [
+      "平面CAD可根据规范、地形、控制点和线形组合规则推荐合理曲线参数或线形调整方案。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_263",
+    "question": "请简要说明：平面CAD交互修改功能是什么？",
+    "expected_answer_card": "ans_ch03_072",
+    "must_include": [
+      "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_263",
+    "expected_answer_points": [
+      "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_264",
+    "question": "请按条目回答：平面CAD交互修改功能是什么？",
+    "expected_answer_card": "ans_ch03_072",
+    "must_include": [
+      "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_264",
+    "expected_answer_points": [
+      "平面CAD应支持在图形界面中拖动、修改和调整线形对象，并实时更新曲线参数和成果。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_265",
+    "question": "请简要说明：平面CAD数据管理功能是什么？",
+    "expected_answer_card": "ans_ch03_073",
+    "must_include": [
+      "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_265",
+    "expected_answer_points": [
+      "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_266",
+    "question": "请按条目回答：平面CAD数据管理功能是什么？",
+    "expected_answer_card": "ans_ch03_073",
+    "must_include": [
+      "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_266",
+    "expected_answer_points": [
+      "平面CAD需要统一管理交点、曲线、桩号、坐标、边线和成果表格等数据。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_267",
+    "question": "请简要说明：基本型曲线设计模型是什么？",
+    "expected_answer_card": "ans_ch03_074",
+    "must_include": [
+      "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_267",
+    "expected_answer_points": [
+      "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_268",
+    "question": "请按条目回答：基本型曲线设计模型是什么？",
+    "expected_answer_card": "ans_ch03_074",
+    "must_include": [
+      "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_268",
+    "expected_answer_points": [
+      "基本型曲线通常由前缓和曲线、圆曲线和后缓和曲线组成，CAD系统可按非对称情况计算其几何要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_269",
+    "question": "请简要说明：曲线起终点约束是什么？",
+    "expected_answer_card": "ans_ch03_075",
+    "must_include": [
+      "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_269",
+    "expected_answer_points": [
+      "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_270",
+    "question": "请按条目回答：曲线起终点约束是什么？",
+    "expected_answer_card": "ans_ch03_075",
+    "must_include": [
+      "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_270",
+    "expected_answer_points": [
+      "曲线起终点约束以切线长等条件控制曲线位置，可在给定部分参数后反算圆曲线半径或缓和曲线长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_271",
+    "question": "请简要说明：曲线中点位置约束是什么？",
+    "expected_answer_card": "ans_ch03_076",
+    "must_include": [
+      "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_271",
+    "expected_answer_points": [
+      "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_272",
+    "question": "请按条目回答：曲线中点位置约束是什么？",
+    "expected_answer_card": "ans_ch03_076",
+    "must_include": [
+      "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_272",
+    "expected_answer_points": [
+      "曲线中点位置约束以外距控制曲线中部位置，可根据外距和缓和曲线长度反算圆曲线半径。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_273",
+    "question": "请简要说明：卵形曲线设计是什么？",
+    "expected_answer_card": "ans_ch03_077",
+    "must_include": [
+      "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_273",
+    "expected_answer_points": [
+      "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_274",
+    "question": "请按条目回答：卵形曲线设计是什么？",
+    "expected_answer_card": "ans_ch03_077",
+    "must_include": [
+      "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_274",
+    "expected_answer_points": [
+      "卵形曲线用于连接两个不同半径的同向圆曲线，通过缓和曲线实现曲率连续过渡。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_275",
+    "question": "请简要说明：双交点曲线设计是什么？",
+    "expected_answer_card": "ans_ch03_078",
+    "must_include": [
+      "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_275",
+    "expected_answer_points": [
+      "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_276",
+    "question": "请按条目回答：双交点曲线设计是什么？",
+    "expected_answer_card": "ans_ch03_078",
+    "must_include": [
+      "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_276",
+    "expected_answer_points": [
+      "双交点曲线用于在两个相邻交点条件下构造平面曲线组合，通过求解圆曲线半径获得后续曲线要素。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_277",
+    "question": "请简要说明：曲线法设计模型三种连接是什么？",
+    "expected_answer_card": "ans_ch03_079",
+    "must_include": [
+      "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_277",
+    "expected_answer_points": [
+      "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_278",
+    "question": "请按条目回答：曲线法设计模型三种连接是什么？",
+    "expected_answer_card": "ans_ch03_079",
+    "must_include": [
+      "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_278",
+    "expected_answer_points": [
+      "曲线法平面设计主要包括直线与圆曲线连接、两反向圆曲线连接和两同向圆曲线连接三类模型。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_279",
+    "question": "请简要说明：直线与圆曲线连接模型是什么？",
+    "expected_answer_card": "ans_ch03_080",
+    "must_include": [
+      "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_279",
+    "expected_answer_points": [
+      "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_280",
+    "question": "请按条目回答：直线与圆曲线连接模型是什么？",
+    "expected_answer_card": "ans_ch03_080",
+    "must_include": [
+      "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。"
+    ],
+    "should_not_include": [
+      "长段照抄",
+      "无关背景"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_280",
+    "expected_answer_points": [
+      "直线与圆曲线连接模型通过已知直线点、圆曲线点和半径计算圆心、间距、回旋线参数和长度。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_disamb_001",
+    "question": "平面CAD系统的功能",
+    "expected_answer_card": "ans_ch03_010",
+    "must_include": [
+      "完整的几何计算功能。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_disamb_001",
+    "expected_answer_points": [
+      "完整的几何计算功能。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_disamb_002",
+    "question": "纵断面CAD系统功能",
+    "expected_answer_card": "ans_ch03_014",
+    "must_include": [
+      "控制条件的查询与检查。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_disamb_002",
+    "expected_answer_points": [
+      "控制条件的查询与检查。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_disamb_003",
+    "question": "纵断面CAD系统的功能",
+    "expected_answer_card": "ans_ch03_014",
+    "must_include": [
+      "控制条件的查询与检查。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_disamb_003",
+    "expected_answer_points": [
+      "控制条件的查询与检查。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_disamb_004",
+    "question": "人机分工的内容",
+    "expected_answer_card": "ans_ch03_181",
+    "must_include": [
+      "人负责设计意图表达、方案判断、控制条件选择和交互修改。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_disamb_004",
+    "expected_answer_points": [
+      "人负责设计意图表达、方案判断、控制条件选择和交互修改。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_disamb_005",
+    "question": "平面CAD系统中人和计算机分别承担什么工作？",
+    "expected_answer_card": "ans_ch03_181",
+    "must_include": [
+      "计算机负责几何计算、曲线与坐标计算、规范检查、图形更新和数据管理。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_disamb_005",
+    "expected_answer_points": [
+      "计算机负责几何计算、曲线与坐标计算、规范检查、图形更新和数据管理。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  },
+  {
+    "eval_id": "eval_ch03_disamb_006",
+    "question": "人机分工的原则",
+    "expected_answer_card": "ans_ch03_009",
+    "must_include": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "should_not_include": [
+      "教材原文长段落",
+      "无关软件操作细节",
+      "超出第三章范围内容"
+    ],
+    "expected_mode": "bullet_or_table",
+    "pass_rule": "命中正确答案卡，包含必答点，输出条目化且不复制长段原文。",
+    "status": "pending",
+    "chapter_id": "ch03",
+    "test_id": "eval_ch03_disamb_006",
+    "expected_answer_points": [
+      "设计人员负责方案意图、控制条件选择和工程判断。"
+    ],
+    "expected_kps": [],
+    "required_response_mode": "bullet"
+  }
+]

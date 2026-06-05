@@ -1,0 +1,6800 @@
+[
+  {
+    "test_id": "eval_ch10_001",
+    "chapter_id": "ch10",
+    "question": "AI驱动的道路设计包含哪三大范式？",
+    "expected_answer_card": "ans_ch10_001",
+    "expected_answer_points": [
+      "知识驱动",
+      "算法驱动",
+      "数据驱动"
+    ],
+    "expected_kps": [
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_003_algorithm_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_002",
+    "chapter_id": "ch10",
+    "question": "AI驱动道路设计的根本作用是什么？",
+    "expected_answer_card": "ans_ch10_002",
+    "expected_answer_points": [
+      "把结构化不足、依赖人工判断的问题转化为可表示的问题。",
+      "把定性经验和工程规则转化为可计算、可推理的知识。",
+      "把超大方案空间转化为可搜索和可优化的对象。"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_096_human_ai_collaboration"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_003",
+    "chapter_id": "ch10",
+    "question": "知识驱动、算法驱动和数据驱动有什么区别？",
+    "expected_answer_card": "ans_ch10_003",
+    "expected_answer_points": [
+      "知识驱动强调规则、案例和规范知识",
+      "适合可解释判断。",
+      "算法驱动强调优化求解",
+      "适合路线方案空间搜索。",
+      "数据驱动强调样本学习",
+      "适合风险预测、分类和指标推荐。"
+    ],
+    "expected_kps": [
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_003_algorithm_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_004",
+    "chapter_id": "ch10",
+    "question": "为什么AI不能简单理解为替代工程师？",
+    "expected_answer_card": "ans_ch10_004",
+    "expected_answer_points": [
+      "道路设计涉及规范责任、工程安全和现场条件",
+      "必须保留人工审查。",
+      "AI结果依赖数据质量、模型假设和约束表达",
+      "可能存在偏差。",
+      "工程师负责目标权衡、方案选择和责任判断。"
+    ],
+    "expected_kps": [
+      "kp_ch10_096_human_ai_collaboration",
+      "kp_ch10_097_ai_limitations",
+      "kp_ch10_098_explainability"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_005",
+    "chapter_id": "ch10",
+    "question": "RAG和AI智能体如何拓展道路设计AI系统？",
+    "expected_answer_card": "ans_ch10_005",
+    "expected_answer_points": [
+      "RAG通过检索知识库、规范和案例",
+      "为回答和设计建议提供证据。",
+      "AI智能体可进行任务分解、工具调用、结果审查和反馈记录。",
+      "二者使系统从静态模型转向可检索、可执行和可反馈的智能流程。"
+    ],
+    "expected_kps": [
+      "kp_ch10_005_rag_ai_agent",
+      "kp_ch10_006_knowledge_network",
+      "kp_ch10_078_mult_agent_system"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_006",
+    "chapter_id": "ch10",
+    "question": "知识驱动设计系统由哪些核心模块构成？",
+    "expected_answer_card": "ans_ch10_006",
+    "expected_answer_points": [
+      "知识管理模块",
+      "知识获取与挖掘模块",
+      "设计推理模块"
+    ],
+    "expected_kps": [
+      "kp_ch10_009_knowledge_system_structure",
+      "kp_ch10_010_knowledge_management_module",
+      "kp_ch10_011_knowledge_acquisition_module",
+      "kp_ch10_012_design_reasoning_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_007",
+    "chapter_id": "ch10",
+    "question": "知识管理模块的作用是什么？",
+    "expected_answer_card": "ans_ch10_007",
+    "expected_answer_points": [
+      "统一管理规范、案例、规则、术语和空间关系等知识对象。",
+      "支持知识版本更新、分类检索、关系维护和证据追溯。",
+      "为设计推理和RAG问答提供稳定知识源。"
+    ],
+    "expected_kps": [
+      "kp_ch10_010_knowledge_management_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_008",
+    "chapter_id": "ch10",
+    "question": "知识获取与挖掘模块主要解决什么问题？",
+    "expected_answer_card": "ans_ch10_008",
+    "expected_answer_points": [
+      "从规范文本中抽取规则知识。",
+      "从历史工程案例中抽取情境、方案和效果知识。",
+      "从设计行为和数据中挖掘隐含规律。"
+    ],
+    "expected_kps": [
+      "kp_ch10_011_knowledge_acquisition_module",
+      "kp_ch10_019_case_knowledge_acquisition",
+      "kp_ch10_022_rule_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_009",
+    "chapter_id": "ch10",
+    "question": "设计推理模块包括哪些推理方式？",
+    "expected_answer_card": "ans_ch10_009",
+    "expected_answer_points": [
+      "空间关系推理（SRR）",
+      "案例推理（CBR）",
+      "规则推理（RBR）"
+    ],
+    "expected_kps": [
+      "kp_ch10_012_design_reasoning_module",
+      "kp_ch10_025_spatial_relation_reasoning",
+      "kp_ch10_026_case_based_reasoning",
+      "kp_ch10_027_rule_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_010",
+    "chapter_id": "ch10",
+    "question": "知识表达主要包括哪些形式？",
+    "expected_answer_card": "ans_ch10_010",
+    "expected_answer_points": [
+      "本体与知识图谱",
+      "案例库",
+      "规则库"
+    ],
+    "expected_kps": [
+      "kp_ch10_013_ontology_graph",
+      "kp_ch10_015_case_base",
+      "kp_ch10_016_rule_base",
+      "kp_ch10_017_spatial_relation_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_011",
+    "chapter_id": "ch10",
+    "question": "本体与知识图谱在道路智能设计中的作用是什么？",
+    "expected_answer_card": "ans_ch10_011",
+    "expected_answer_points": [
+      "统一道路设计领域术语和对象语义。",
+      "表达对象之间的层级、属性和关系。",
+      "支持语义查询、知识导航和推理。"
+    ],
+    "expected_kps": [
+      "kp_ch10_013_ontology_graph",
+      "kp_ch10_014_term_node"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_012",
+    "chapter_id": "ch10",
+    "question": "案例库通常如何组织？",
+    "expected_answer_card": "ans_ch10_012",
+    "expected_answer_points": [
+      "情境",
+      "设计方案",
+      "实施效果"
+    ],
+    "expected_kps": [
+      "kp_ch10_015_case_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_013",
+    "chapter_id": "ch10",
+    "question": "规则库为什么采用前提—结论结构？",
+    "expected_answer_card": "ans_ch10_013",
+    "expected_answer_points": [
+      "前提用于描述触发条件",
+      "如坡度、距离、地质类型或空间关系。",
+      "结论用于给出判断、限制、风险提示或设计建议。",
+      "这种结构便于计算机执行逻辑推理。"
+    ],
+    "expected_kps": [
+      "kp_ch10_016_rule_base",
+      "kp_ch10_027_rule_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_014",
+    "chapter_id": "ch10",
+    "question": "空间关系库在选线知识系统中的作用是什么？",
+    "expected_answer_card": "ans_ch10_014",
+    "expected_answer_points": [
+      "表达路线与灾害体、河流、保护区等对象之间的空间关系。",
+      "把几何关系转换为可推理的工程语义。",
+      "为空间关系推理和风险判断提供基础事实。"
+    ],
+    "expected_kps": [
+      "kp_ch10_017_spatial_relation_base",
+      "kp_ch10_025_spatial_relation_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_015",
+    "chapter_id": "ch10",
+    "question": "知识获取可以分为哪些类型？",
+    "expected_answer_card": "ans_ch10_015",
+    "expected_answer_points": [
+      "实例知识获取",
+      "规则知识获取",
+      "手工获取"
+    ],
+    "expected_kps": [
+      "kp_ch10_019_case_knowledge_acquisition",
+      "kp_ch10_022_rule_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_016",
+    "chapter_id": "ch10",
+    "question": "面向对象建模在实例知识获取中有什么作用？",
+    "expected_answer_card": "ans_ch10_016",
+    "expected_answer_points": [
+      "把道路、滑坡、边坡、桥隧等对象表达为带属性和关系的结构化对象。",
+      "便于形成案例属性向量和知识图谱节点。",
+      "支持后续相似度计算、规则判断和空间推理。"
+    ],
+    "expected_kps": [
+      "kp_ch10_020_object_oriented_modeling",
+      "kp_ch10_021_attribute_value_representation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_017",
+    "chapter_id": "ch10",
+    "question": "属性—值对表达为什么重要？",
+    "expected_answer_card": "ans_ch10_017",
+    "expected_answer_points": [
+      "它把工程对象的特征转换为机器可处理的结构化数据。",
+      "可用于案例检索、规则前提匹配和机器学习特征输入。",
+      "例如坡度=35°、距断层=200m、岩性=软弱等。"
+    ],
+    "expected_kps": [
+      "kp_ch10_021_attribute_value_representation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_018",
+    "chapter_id": "ch10",
+    "question": "规则知识的手工获取和自动获取有什么区别？",
+    "expected_answer_card": "ans_ch10_018",
+    "expected_answer_points": [
+      "手工获取由专家依据规范和经验整理",
+      "准确性高但效率低。",
+      "自动获取依赖文本挖掘、数据挖掘或模型归纳",
+      "效率高但需校核。",
+      "核心规范规则宜人工审核",
+      "候选规则可自动生成。"
+    ],
+    "expected_kps": [
+      "kp_ch10_023_manual_rule_acquisition",
+      "kp_ch10_024_automatic_rule_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_019",
+    "chapter_id": "ch10",
+    "question": "空间关系推理的基本思想是什么？",
+    "expected_answer_card": "ans_ch10_019",
+    "expected_answer_points": [
+      "先识别空间对象之间的拓扑、距离、方向和邻接关系。",
+      "再把这些几何关系转换为工程语义事实。",
+      "最后将语义事实用于风险判断、约束校核或方案推荐。"
+    ],
+    "expected_kps": [
+      "kp_ch10_025_spatial_relation_reasoning",
+      "kp_ch10_018_nine_intersection_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_020",
+    "chapter_id": "ch10",
+    "question": "案例推理CBR的基本流程是什么？",
+    "expected_answer_card": "ans_ch10_020",
+    "expected_answer_points": [
+      "构建目标案例",
+      "计算属性权重",
+      "计算语义相似度"
+    ],
+    "expected_kps": [
+      "kp_ch10_026_case_based_reasoning",
+      "kp_ch10_028_cbr_similarity",
+      "kp_ch10_030_knn_case_retrieval"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_021",
+    "chapter_id": "ch10",
+    "question": "CBR适合解决什么类型的问题？",
+    "expected_answer_card": "ans_ch10_021",
+    "expected_answer_points": [
+      "适合经验性强、情境相似、难以完全规则化的问题。",
+      "适合为当前方案提供历史案例证据和可比参考。",
+      "适合地质选线、灾害避让和复杂方案类比。"
+    ],
+    "expected_kps": [
+      "kp_ch10_026_case_based_reasoning",
+      "kp_ch10_015_case_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_022",
+    "chapter_id": "ch10",
+    "question": "规则推理RBR适合解决什么问题？",
+    "expected_answer_card": "ans_ch10_022",
+    "expected_answer_points": [
+      "适合规范明确、约束强、判断逻辑清楚的问题。",
+      "适合设计校核、风险等级判定和禁入约束判断。",
+      "适合需要可解释、可追溯结论的设计场景。"
+    ],
+    "expected_kps": [
+      "kp_ch10_027_rule_based_reasoning",
+      "kp_ch10_016_rule_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_023",
+    "chapter_id": "ch10",
+    "question": "RBR与CBR的适用场景有什么不同？",
+    "expected_answer_card": "ans_ch10_023",
+    "expected_answer_points": [
+      "RBR适合强约束和规范性判断",
+      "例如禁止穿越、指标限值校核。",
+      "CBR适合经验参考和方案类比",
+      "例如相似地质条件下的处理方案。",
+      "RBR给出较明确结论",
+      "CBR提供可比证据和参考方案。"
+    ],
+    "expected_kps": [
+      "kp_ch10_027_rule_based_reasoning",
+      "kp_ch10_026_case_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_024",
+    "chapter_id": "ch10",
+    "question": "规则推理中的不确定性如何处理？",
+    "expected_answer_card": "ans_ch10_024",
+    "expected_answer_points": [
+      "可用置信因子表示证据对结论的支持程度。",
+      "多个证据可按最小值、乘积或其他语义策略合并。",
+      "规则冲突时可按优先级、置信度和工程安全原则消解。"
+    ],
+    "expected_kps": [
+      "kp_ch10_031_rbr_cf_model",
+      "kp_ch10_034_conflict_resolution"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_025",
+    "chapter_id": "ch10",
+    "question": "正向链式推理是什么？",
+    "expected_answer_card": "ans_ch10_025",
+    "expected_answer_points": [
+      "从已知事实出发",
+      "逐条匹配规则前提。",
+      "当前提满足时触发规则",
+      "生成新的事实或结论。",
+      "不断迭代直到得出设计判断或无规则可触发。"
+    ],
+    "expected_kps": [
+      "kp_ch10_032_forward_chaining"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_026",
+    "chapter_id": "ch10",
+    "question": "冲突消解机制为什么重要？",
+    "expected_answer_card": "ans_ch10_026",
+    "expected_answer_points": [
+      "同一情境下可能触发多条规则",
+      "结论可能存在冲突。",
+      "冲突消解保证推理结果一致、可解释和安全。",
+      "工程设计中通常应优先考虑强制规范和安全约束。"
+    ],
+    "expected_kps": [
+      "kp_ch10_034_conflict_resolution"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_027",
+    "chapter_id": "ch10",
+    "question": "算法驱动智能选线可以分为哪两个层次？",
+    "expected_answer_card": "ans_ch10_027",
+    "expected_answer_points": [
+      "走廊带层次",
+      "路线方案层次",
+      "前者偏宏观空间选择",
+      "后者偏具体几何方案优化。"
+    ],
+    "expected_kps": [
+      "kp_ch10_036_corridor_level_optimization",
+      "kp_ch10_037_alignment_level_optimization"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_028",
+    "chapter_id": "ch10",
+    "question": "算法驱动路线优化模型的核心要素有哪些？",
+    "expected_answer_card": "ans_ch10_028",
+    "expected_answer_points": [
+      "决策变量",
+      "目标函数",
+      "约束条件"
+    ],
+    "expected_kps": [
+      "kp_ch10_038_decision_variables",
+      "kp_ch10_039_objective_function",
+      "kp_ch10_040_constraints",
+      "kp_ch10_043_genetic_algorithm"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_029",
+    "chapter_id": "ch10",
+    "question": "路线优化中的决策变量包括哪些？",
+    "expected_answer_card": "ans_ch10_029",
+    "expected_answer_points": [
+      "平面设计变量",
+      "纵断面设计变量",
+      "不同变量共同决定路线方案的空间形态和工程指标。"
+    ],
+    "expected_kps": [
+      "kp_ch10_038_decision_variables"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_030",
+    "chapter_id": "ch10",
+    "question": "目标函数在智能选线中有什么作用？",
+    "expected_answer_card": "ans_ch10_030",
+    "expected_answer_points": [
+      "把工程目标转化为可计算的评价函数。",
+      "可表达造价、风险、环境影响、桥隧比、土石方量等目标。",
+      "算法依据目标函数判断方案优劣并进行搜索。"
+    ],
+    "expected_kps": [
+      "kp_ch10_039_objective_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_031",
+    "chapter_id": "ch10",
+    "question": "硬约束和软约束有什么区别？",
+    "expected_answer_card": "ans_ch10_031",
+    "expected_answer_points": [
+      "硬约束必须满足",
+      "例如规范限值、禁入区和几何安全要求。",
+      "软约束体现偏好或优化方向",
+      "可用权重或罚函数处理。",
+      "算法应先保证硬约束",
+      "再在软约束下优化方案。"
+    ],
+    "expected_kps": [
+      "kp_ch10_041_hard_soft_constraints",
+      "kp_ch10_040_constraints"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_032",
+    "chapter_id": "ch10",
+    "question": "遗传算法优化路线方案的基本流程是什么？",
+    "expected_answer_card": "ans_ch10_032",
+    "expected_answer_points": [
+      "个体编码与初始化",
+      "适应度评估",
+      "选择机制"
+    ],
+    "expected_kps": [
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_044_chromosome_encoding",
+      "kp_ch10_045_fitness_evaluation",
+      "kp_ch10_046_selection_mechanism",
+      "kp_ch10_047_crossover_mutation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_033",
+    "chapter_id": "ch10",
+    "question": "遗传算法中编码为什么重要？",
+    "expected_answer_card": "ans_ch10_033",
+    "expected_answer_points": [
+      "编码决定路线变量如何被算法表示和操作。",
+      "合理编码能保证生成方案具有工程含义。",
+      "不合理编码可能导致大量不可行方案或搜索效率低。"
+    ],
+    "expected_kps": [
+      "kp_ch10_044_chromosome_encoding",
+      "kp_ch10_038_decision_variables"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_034",
+    "chapter_id": "ch10",
+    "question": "适应度评估在GA中起什么作用？",
+    "expected_answer_card": "ans_ch10_034",
+    "expected_answer_points": [
+      "根据目标函数评价个体优劣。",
+      "决定个体是否更可能进入下一代。",
+      "是选择、进化和收敛判断的依据。"
+    ],
+    "expected_kps": [
+      "kp_ch10_045_fitness_evaluation",
+      "kp_ch10_039_objective_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_035",
+    "chapter_id": "ch10",
+    "question": "交叉和变异有什么作用？",
+    "expected_answer_card": "ans_ch10_035",
+    "expected_answer_points": [
+      "交叉用于重组已有优良个体的基因信息。",
+      "变异用于引入随机扰动和新方案。",
+      "二者共同保持算法探索能力和种群多样性。"
+    ],
+    "expected_kps": [
+      "kp_ch10_047_crossover_mutation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_036",
+    "chapter_id": "ch10",
+    "question": "多目标进化算法为什么适合路线方案优化？",
+    "expected_answer_card": "ans_ch10_036",
+    "expected_answer_points": [
+      "道路选线通常同时涉及造价、安全、环境、施工和运营等目标。",
+      "多个目标之间往往相互冲突",
+      "难以压缩为唯一标准。",
+      "多目标进化算法能输出一组折中方案",
+      "供工程师选择。"
+    ],
+    "expected_kps": [
+      "kp_ch10_042_multi_objective_optimization_model",
+      "kp_ch10_050_pareto_front",
+      "kp_ch10_051_nsga2"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_037",
+    "chapter_id": "ch10",
+    "question": "什么是帕累托最优？",
+    "expected_answer_card": "ans_ch10_037",
+    "expected_answer_points": [
+      "如果无法在不恶化其他目标的情况下改善某一目标",
+      "该解就是帕累托最优。",
+      "它表示多目标条件下的折中最优。",
+      "道路设计中的帕累托解不是唯一答案",
+      "而是一组可选方案。"
+    ],
+    "expected_kps": [
+      "kp_ch10_049_pareto_optimality",
+      "kp_ch10_050_pareto_front"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_038",
+    "chapter_id": "ch10",
+    "question": "帕累托前沿有什么工程意义？",
+    "expected_answer_card": "ans_ch10_038",
+    "expected_answer_points": [
+      "展示不同目标之间的折中关系。",
+      "为工程师提供多个互不支配的备选方案。",
+      "支持结合偏好、约束和工程经验进行最终决策。"
+    ],
+    "expected_kps": [
+      "kp_ch10_050_pareto_front",
+      "kp_ch10_049_pareto_optimality"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_039",
+    "chapter_id": "ch10",
+    "question": "NSGA-II的核心机制包括哪些？",
+    "expected_answer_card": "ans_ch10_039",
+    "expected_answer_points": [
+      "非支配排序",
+      "拥挤度计算",
+      "精英选择"
+    ],
+    "expected_kps": [
+      "kp_ch10_051_nsga2",
+      "kp_ch10_052_non_dominated_sorting",
+      "kp_ch10_053_crowding_distance",
+      "kp_ch10_054_elite_selection"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_040",
+    "chapter_id": "ch10",
+    "question": "GA和多目标进化算法有什么区别？",
+    "expected_answer_card": "ans_ch10_040",
+    "expected_answer_points": [
+      "GA通常把目标聚合为单一适应度",
+      "输出一个最优解。",
+      "多目标进化算法直接处理多个目标",
+      "输出帕累托解集。",
+      "GA更依赖预设权重",
+      "MOEA更适合展示多方案折中关系。"
+    ],
+    "expected_kps": [
+      "kp_ch10_058_ga_vs_moea",
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_051_nsga2"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_041",
+    "chapter_id": "ch10",
+    "question": "多目标优化结果如何进行方案选择？",
+    "expected_answer_card": "ans_ch10_041",
+    "expected_answer_points": [
+      "加权和法",
+      "ε约束法",
+      "膝点法"
+    ],
+    "expected_kps": [
+      "kp_ch10_055_weighted_sum_method",
+      "kp_ch10_056_epsilon_constraint",
+      "kp_ch10_057_knee_point"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_042",
+    "chapter_id": "ch10",
+    "question": "强化学习为什么适合纵断面优化？",
+    "expected_answer_card": "ans_ch10_042",
+    "expected_answer_points": [
+      "纵断面设计具有明显的序列决策特征。",
+      "当前坡度和高程会影响后续设计空间。",
+      "强化学习可通过状态—动作—奖励机制逐步学习生成策略。"
+    ],
+    "expected_kps": [
+      "kp_ch10_059_reinforcement_learning",
+      "kp_ch10_060_mdp",
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_043",
+    "chapter_id": "ch10",
+    "question": "MDP由哪些基本要素构成？",
+    "expected_answer_card": "ans_ch10_043",
+    "expected_answer_points": [
+      "状态空间",
+      "动作空间",
+      "转移规律"
+    ],
+    "expected_kps": [
+      "kp_ch10_060_mdp",
+      "kp_ch10_061_state_space",
+      "kp_ch10_062_action_space",
+      "kp_ch10_063_reward_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_044",
+    "chapter_id": "ch10",
+    "question": "在纵断面优化中状态、动作和奖励分别对应什么？",
+    "expected_answer_card": "ans_ch10_044",
+    "expected_answer_points": [
+      "状态",
+      "动作",
+      "奖励"
+    ],
+    "expected_kps": [
+      "kp_ch10_061_state_space",
+      "kp_ch10_062_action_space",
+      "kp_ch10_063_reward_function",
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_045",
+    "chapter_id": "ch10",
+    "question": "强化学习的通用流程是什么？",
+    "expected_answer_card": "ans_ch10_045",
+    "expected_answer_points": [
+      "定义环境",
+      "采样交互",
+      "评估估计"
+    ],
+    "expected_kps": [
+      "kp_ch10_059_reinforcement_learning",
+      "kp_ch10_066_dqn",
+      "kp_ch10_065_exploration_exploitation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_046",
+    "chapter_id": "ch10",
+    "question": "DQN在纵断面优化中的作用是什么？",
+    "expected_answer_card": "ans_ch10_046",
+    "expected_answer_points": [
+      "用神经网络近似动作价值函数。",
+      "从经验回放池中抽样训练",
+      "减少样本相关性。",
+      "在离散动作空间下选择长期回报较高的动作。"
+    ],
+    "expected_kps": [
+      "kp_ch10_066_dqn",
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_047",
+    "chapter_id": "ch10",
+    "question": "奖励函数设计为什么是强化学习纵断面优化的关键？",
+    "expected_answer_card": "ans_ch10_047",
+    "expected_answer_points": [
+      "奖励函数决定智能体追求什么设计目标。",
+      "如果奖励只考虑单一指标",
+      "可能忽略安全、规范或施工约束。",
+      "合理奖励应综合造价、平顺性、规范、填挖、终点误差等因素。"
+    ],
+    "expected_kps": [
+      "kp_ch10_063_reward_function",
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_048",
+    "chapter_id": "ch10",
+    "question": "数据驱动路线设计的技术基础包括哪些？",
+    "expected_answer_card": "ans_ch10_048",
+    "expected_answer_points": [
+      "机器学习",
+      "深度学习",
+      "大模型与跨领域分析"
+    ],
+    "expected_kps": [
+      "kp_ch10_068_machine_learning",
+      "kp_ch10_073_deep_learning",
+      "kp_ch10_077_foundation_model",
+      "kp_ch10_079_gis_support",
+      "kp_ch10_080_rs_support",
+      "kp_ch10_081_bim_support",
+      "kp_ch10_082_recommendation_system"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_049",
+    "chapter_id": "ch10",
+    "question": "监督学习和无监督学习有什么区别？",
+    "expected_answer_card": "ans_ch10_049",
+    "expected_answer_points": [
+      "监督学习需要带标签样本",
+      "适合分类和回归。",
+      "无监督学习不需要标签",
+      "适合发现数据分组和潜在结构。",
+      "滑坡/非滑坡样本明确时适合监督学习。"
+    ],
+    "expected_kps": [
+      "kp_ch10_069_supervised_learning",
+      "kp_ch10_072_unsupervised_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_050",
+    "chapter_id": "ch10",
+    "question": "分类和回归分别适合解决什么问题？",
+    "expected_answer_card": "ans_ch10_050",
+    "expected_answer_points": [
+      "分类输出离散类别",
+      "如滑坡/非滑坡、高/中/低风险。",
+      "回归输出连续数值",
+      "如曲线半径、风险概率或造价。",
+      "选择分类还是回归取决于目标变量的形式。"
+    ],
+    "expected_kps": [
+      "kp_ch10_070_classification",
+      "kp_ch10_071_regression"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_051",
+    "chapter_id": "ch10",
+    "question": "深度学习在道路工程中有什么作用？",
+    "expected_answer_card": "ans_ch10_051",
+    "expected_answer_points": [
+      "CNN可从遥感影像和栅格数据中提取空间特征。",
+      "RNN可处理交通、监测等时序数据。",
+      "GAN可用于数据增强或场景生成。"
+    ],
+    "expected_kps": [
+      "kp_ch10_073_deep_learning",
+      "kp_ch10_074_cnn",
+      "kp_ch10_075_rnn",
+      "kp_ch10_076_gan"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_052",
+    "chapter_id": "ch10",
+    "question": "CNN、RNN、GAN分别适合什么任务？",
+    "expected_answer_card": "ans_ch10_052",
+    "expected_answer_points": [
+      "CNN适合图像和空间栅格特征提取。",
+      "RNN适合时间序列和动态变化过程分析。",
+      "GAN适合数据生成、数据增强或场景模拟。"
+    ],
+    "expected_kps": [
+      "kp_ch10_074_cnn",
+      "kp_ch10_075_rnn",
+      "kp_ch10_076_gan"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_053",
+    "chapter_id": "ch10",
+    "question": "大模型在道路工程AI中可能发挥什么作用？",
+    "expected_answer_card": "ans_ch10_053",
+    "expected_answer_points": [
+      "理解规范文本、设计说明和工程资料。",
+      "辅助生成报告、解释设计结论和回答教材问题。",
+      "作为RAG或智能体的语言理解与任务调度核心。"
+    ],
+    "expected_kps": [
+      "kp_ch10_077_foundation_model",
+      "kp_ch10_005_rag_ai_agent"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_054",
+    "chapter_id": "ch10",
+    "question": "GIS、RS和BIM在数据驱动设计中分别提供什么支持？",
+    "expected_answer_card": "ans_ch10_054",
+    "expected_answer_points": [
+      "GIS提供空间数据组织、叠加分析和风险可视化能力。",
+      "RS提供大范围地表、灾害、植被和地形影像数据。",
+      "BIM提供道路构件、设计成果和工程语义数据。"
+    ],
+    "expected_kps": [
+      "kp_ch10_079_gis_support",
+      "kp_ch10_080_rs_support",
+      "kp_ch10_081_bim_support"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_055",
+    "chapter_id": "ch10",
+    "question": "地质灾害风险评估的一般流程是什么？",
+    "expected_answer_card": "ans_ch10_055",
+    "expected_answer_points": [
+      "数据采集",
+      "数据预处理",
+      "特征提取"
+    ],
+    "expected_kps": [
+      "kp_ch10_083_geological_risk_assessment",
+      "kp_ch10_084_risk_data_sources",
+      "kp_ch10_085_data_preprocessing",
+      "kp_ch10_086_feature_extraction",
+      "kp_ch10_087_model_training_prediction",
+      "kp_ch10_088_risk_map_generation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_056",
+    "chapter_id": "ch10",
+    "question": "地质风险评估主要需要哪些数据源？",
+    "expected_answer_card": "ans_ch10_056",
+    "expected_answer_points": [
+      "地形数据",
+      "如DEM、坡度、坡向和曲率。",
+      "地质数据",
+      "如岩性、断层、构造和地层信息。",
+      "水文与环境数据",
+      "如河流、降雨、土地利用。"
+    ],
+    "expected_kps": [
+      "kp_ch10_084_risk_data_sources"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_057",
+    "chapter_id": "ch10",
+    "question": "数据预处理在AI风险评估中为什么重要？",
+    "expected_answer_card": "ans_ch10_057",
+    "expected_answer_points": [
+      "不同来源数据坐标、分辨率和格式可能不一致。",
+      "缺失值、异常值和噪声会影响模型训练。",
+      "预处理保证模型输入具有一致尺度和空间对齐。"
+    ],
+    "expected_kps": [
+      "kp_ch10_085_data_preprocessing"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_058",
+    "chapter_id": "ch10",
+    "question": "特征提取在地质风险预测中有什么作用？",
+    "expected_answer_card": "ans_ch10_058",
+    "expected_answer_points": [
+      "把原始地形、地质、遥感和水文数据转化为模型可用变量。",
+      "常见特征包括坡度、坡向、曲率、距断层距离、土地利用等。",
+      "特征质量决定模型能否识别风险形成机制。"
+    ],
+    "expected_kps": [
+      "kp_ch10_086_feature_extraction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_059",
+    "chapter_id": "ch10",
+    "question": "机器学习如何生成地质风险图？",
+    "expected_answer_card": "ans_ch10_059",
+    "expected_answer_points": [
+      "构建滑坡与非滑坡样本。",
+      "提取每个样本点的地形、地质和环境因子。",
+      "训练分类或概率预测模型。"
+    ],
+    "expected_kps": [
+      "kp_ch10_087_model_training_prediction",
+      "kp_ch10_088_risk_map_generation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_060",
+    "chapter_id": "ch10",
+    "question": "推荐系统如何用于路线设计？",
+    "expected_answer_card": "ans_ch10_060",
+    "expected_answer_points": [
+      "从历史设计数据中学习设计条件与指标选择之间的关系。",
+      "根据当前交点、转角、直线长度等条件推荐线形组合或参数。",
+      "可在软件中以推荐按钮或动态推荐方式辅助设计。"
+    ],
+    "expected_kps": [
+      "kp_ch10_082_recommendation_system",
+      "kp_ch10_092_alignment_indicator_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_061",
+    "chapter_id": "ch10",
+    "question": "协同过滤、基于内容推荐和混合推荐有什么区别？",
+    "expected_answer_card": "ans_ch10_061",
+    "expected_answer_points": [
+      "协同过滤依据相似用户、项目或历史行为推荐。",
+      "基于内容推荐依据当前设计条件与历史方案特征相似性推荐。",
+      "混合推荐融合多种策略",
+      "稳定性和适应性更好。"
+    ],
+    "expected_kps": [
+      "kp_ch10_089_collaborative_filtering",
+      "kp_ch10_090_content_based_recommendation",
+      "kp_ch10_091_hybrid_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "table",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_062",
+    "chapter_id": "ch10",
+    "question": "平面线形指标推荐模型可以推荐哪些内容？",
+    "expected_answer_card": "ans_ch10_062",
+    "expected_answer_points": [
+      "线形组合类型",
+      "基本型曲线指标",
+      "S形曲线和反向曲线指标"
+    ],
+    "expected_kps": [
+      "kp_ch10_092_alignment_indicator_recommendation",
+      "kp_ch10_093_line_combination_recommendation",
+      "kp_ch10_094_basic_curve_recommendation",
+      "kp_ch10_095_s_curve_reverse_curve_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_063",
+    "chapter_id": "ch10",
+    "question": "线形组合类型推荐模型适用于什么场景？",
+    "expected_answer_card": "ans_ch10_063",
+    "expected_answer_points": [
+      "适用于相邻双交点设计场景。",
+      "用于判断两交点之间应采用何种线形组合。",
+      "可预测S形曲线、反向曲线等组合类型。"
+    ],
+    "expected_kps": [
+      "kp_ch10_093_line_combination_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_064",
+    "chapter_id": "ch10",
+    "question": "基本型曲线推荐模型适用于什么场景？",
+    "expected_answer_card": "ans_ch10_064",
+    "expected_answer_points": [
+      "适用于单交点基本型曲线设计。",
+      "根据交点转角和两侧直线长度推荐圆曲线半径和缓和曲线长度。",
+      "可辅助工程师快速形成初步线形指标。"
+    ],
+    "expected_kps": [
+      "kp_ch10_094_basic_curve_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_065",
+    "chapter_id": "ch10",
+    "question": "S形和反向曲线指标推荐为什么需要结合工程规则？",
+    "expected_answer_card": "ans_ch10_065",
+    "expected_answer_points": [
+      "S形和反向曲线具有特定几何连接约束。",
+      "单纯机器学习预测可能给出不符合规范或构造条件的指标。",
+      "工程规则可筛除不可行或不合理的推荐结果。"
+    ],
+    "expected_kps": [
+      "kp_ch10_095_s_curve_reverse_curve_recommendation",
+      "kp_ch10_091_hybrid_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_066",
+    "chapter_id": "ch10",
+    "question": "人机协同设计在AI路线设计中如何体现？",
+    "expected_answer_card": "ans_ch10_066",
+    "expected_answer_points": [
+      "AI负责检索、预测、推荐、优化和快速校核。",
+      "工程师负责目标权衡、方案审查和最终决策。",
+      "系统应记录工程师反馈",
+      "用于知识库和模型更新。"
+    ],
+    "expected_kps": [
+      "kp_ch10_096_human_ai_collaboration",
+      "kp_ch10_098_explainability"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_067",
+    "chapter_id": "ch10",
+    "question": "AI道路设计系统应注意哪些局限？",
+    "expected_answer_card": "ans_ch10_067",
+    "expected_answer_points": [
+      "数据质量不足会导致模型偏差。",
+      "模型可解释性不足会影响工程审查和责任追溯。",
+      "算法目标设置不当可能偏离工程真实需求。"
+    ],
+    "expected_kps": [
+      "kp_ch10_097_ai_limitations",
+      "kp_ch10_098_explainability"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_068",
+    "chapter_id": "ch10",
+    "question": "第十章的学习主线是什么？",
+    "expected_answer_card": "ans_ch10_068",
+    "expected_answer_points": [
+      "先理解AI驱动道路设计的三类范式。",
+      "再学习知识驱动的知识表达、获取和推理。",
+      "然后掌握算法驱动的选线优化方法。"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_003_algorithm_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_069",
+    "chapter_id": "ch10",
+    "question": "第十章适合如何复习？",
+    "expected_answer_card": "ans_ch10_069",
+    "expected_answer_points": [
+      "先掌握三类范式",
+      "重点区分SRR、CBR、RBR三种推理方法。",
+      "理解GA、NSGA-II和RL分别解决什么优化问题。"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_009_knowledge_system_structure",
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_051_nsga2",
+      "kp_ch10_059_reinforcement_learning",
+      "kp_ch10_083_geological_risk_assessment"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_070",
+    "chapter_id": "ch10",
+    "question": "什么是AI驱动道路设计范式？",
+    "expected_answer_card": "ans_ch10_070",
+    "expected_answer_points": [
+      "AI驱动道路设计范式",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_071",
+    "chapter_id": "ch10",
+    "question": "AI驱动道路设计范式在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_071",
+    "expected_answer_points": [
+      "用于支撑帮助学生建立第十章总框架。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_072",
+    "chapter_id": "ch10",
+    "question": "什么是知识驱动设计？",
+    "expected_answer_card": "ans_ch10_072",
+    "expected_answer_points": [
+      "知识驱动设计",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_002_knowledge_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_073",
+    "chapter_id": "ch10",
+    "question": "知识驱动设计在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_073",
+    "expected_answer_points": [
+      "用于支撑用于强约束判定、规范校核、选线规则调用。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_002_knowledge_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_074",
+    "chapter_id": "ch10",
+    "question": "什么是算法驱动设计？",
+    "expected_answer_card": "ans_ch10_074",
+    "expected_answer_points": [
+      "算法驱动设计",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_003_algorithm_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_075",
+    "chapter_id": "ch10",
+    "question": "算法驱动设计在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_075",
+    "expected_answer_points": [
+      "用于支撑用于路线优化、走廊带搜索、纵断面优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_003_algorithm_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_076",
+    "chapter_id": "ch10",
+    "question": "什么是数据驱动设计？",
+    "expected_answer_card": "ans_ch10_076",
+    "expected_answer_points": [
+      "数据驱动设计",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_004_data_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_077",
+    "chapter_id": "ch10",
+    "question": "数据驱动设计在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_077",
+    "expected_answer_points": [
+      "用于支撑用于滑坡风险预测、线形指标推荐、交通和环境评价。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_004_data_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_078",
+    "chapter_id": "ch10",
+    "question": "什么是RAG与AI智能体？",
+    "expected_answer_card": "ans_ch10_078",
+    "expected_answer_points": [
+      "RAG与AI智能体",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_005_rag_ai_agent"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_079",
+    "chapter_id": "ch10",
+    "question": "RAG与AI智能体在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_079",
+    "expected_answer_points": [
+      "用于支撑用于动态知识接入、设计问答、自动化方案生成。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_005_rag_ai_agent"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_080",
+    "chapter_id": "ch10",
+    "question": "什么是动态知识网络？",
+    "expected_answer_card": "ans_ch10_080",
+    "expected_answer_points": [
+      "动态知识网络",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_006_knowledge_network"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_081",
+    "chapter_id": "ch10",
+    "question": "动态知识网络在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_081",
+    "expected_answer_points": [
+      "用于支撑用于设计知识持续沉淀和智能推理。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_006_knowledge_network"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_082",
+    "chapter_id": "ch10",
+    "question": "什么是可编排智能求解流程？",
+    "expected_answer_card": "ans_ch10_082",
+    "expected_answer_points": [
+      "可编排智能求解流程",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_007_intelligent_solver_flow"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_083",
+    "chapter_id": "ch10",
+    "question": "可编排智能求解流程在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_083",
+    "expected_answer_points": [
+      "用于支撑用于复杂路线方案生成与优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_007_intelligent_solver_flow"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_084",
+    "chapter_id": "ch10",
+    "question": "什么是多模态预测性认知？",
+    "expected_answer_card": "ans_ch10_084",
+    "expected_answer_points": [
+      "多模态预测性认知",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_008_multimodal_prediction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_085",
+    "chapter_id": "ch10",
+    "question": "多模态预测性认知在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_085",
+    "expected_answer_points": [
+      "用于支撑用于风险预测、方案推荐、环境适宜性评价。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_008_multimodal_prediction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_086",
+    "chapter_id": "ch10",
+    "question": "什么是知识驱动系统结构？",
+    "expected_answer_card": "ans_ch10_086",
+    "expected_answer_points": [
+      "知识驱动系统结构",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_009_knowledge_system_structure"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_087",
+    "chapter_id": "ch10",
+    "question": "知识驱动系统结构在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_087",
+    "expected_answer_points": [
+      "用于支撑用于构建道路智能设计平台的基础框架。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_009_knowledge_system_structure"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_088",
+    "chapter_id": "ch10",
+    "question": "什么是知识管理模块？",
+    "expected_answer_card": "ans_ch10_088",
+    "expected_answer_points": [
+      "知识管理模块",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_010_knowledge_management_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_089",
+    "chapter_id": "ch10",
+    "question": "知识管理模块在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_089",
+    "expected_answer_points": [
+      "用于支撑用于AI学习平台和智能设计系统。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_010_knowledge_management_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_090",
+    "chapter_id": "ch10",
+    "question": "什么是知识获取与挖掘模块？",
+    "expected_answer_card": "ans_ch10_090",
+    "expected_answer_points": [
+      "知识获取与挖掘模块",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_011_knowledge_acquisition_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_091",
+    "chapter_id": "ch10",
+    "question": "知识获取与挖掘模块在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_091",
+    "expected_answer_points": [
+      "用于支撑用于规则抽取、案例归纳和数据挖掘。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_011_knowledge_acquisition_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_092",
+    "chapter_id": "ch10",
+    "question": "什么是设计推理模块？",
+    "expected_answer_card": "ans_ch10_092",
+    "expected_answer_points": [
+      "设计推理模块",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_012_design_reasoning_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_093",
+    "chapter_id": "ch10",
+    "question": "设计推理模块在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_093",
+    "expected_answer_points": [
+      "用于支撑用于选线约束判断、案例比选和规范校核。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_012_design_reasoning_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_094",
+    "chapter_id": "ch10",
+    "question": "什么是本体与知识图谱？",
+    "expected_answer_card": "ans_ch10_094",
+    "expected_answer_points": [
+      "本体与知识图谱",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_013_ontology_graph"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_095",
+    "chapter_id": "ch10",
+    "question": "本体与知识图谱在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_095",
+    "expected_answer_points": [
+      "用于支撑用于滑坡选线、空间关系表达和知识导航。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_013_ontology_graph"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_096",
+    "chapter_id": "ch10",
+    "question": "什么是术语节点？",
+    "expected_answer_card": "ans_ch10_096",
+    "expected_answer_points": [
+      "术语节点",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_014_term_node"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_097",
+    "chapter_id": "ch10",
+    "question": "术语节点在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_097",
+    "expected_answer_points": [
+      "用于支撑用于领域知识建模。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_014_term_node"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_098",
+    "chapter_id": "ch10",
+    "question": "什么是案例库？",
+    "expected_answer_card": "ans_ch10_098",
+    "expected_answer_points": [
+      "案例库",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_015_case_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_099",
+    "chapter_id": "ch10",
+    "question": "案例库在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_099",
+    "expected_answer_points": [
+      "用于支撑用于CBR案例推理。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_015_case_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_100",
+    "chapter_id": "ch10",
+    "question": "什么是规则库？",
+    "expected_answer_card": "ans_ch10_100",
+    "expected_answer_points": [
+      "规则库",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_016_rule_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_101",
+    "chapter_id": "ch10",
+    "question": "规则库在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_101",
+    "expected_answer_points": [
+      "用于支撑用于RBR规则推理。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_016_rule_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_102",
+    "chapter_id": "ch10",
+    "question": "什么是空间关系库？",
+    "expected_answer_card": "ans_ch10_102",
+    "expected_answer_points": [
+      "空间关系库",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_017_spatial_relation_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_103",
+    "chapter_id": "ch10",
+    "question": "空间关系库在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_103",
+    "expected_answer_points": [
+      "用于支撑用于空间关系推理。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_017_spatial_relation_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_104",
+    "chapter_id": "ch10",
+    "question": "什么是九交模型？",
+    "expected_answer_card": "ans_ch10_104",
+    "expected_answer_points": [
+      "九交模型",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_018_nine_intersection_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_105",
+    "chapter_id": "ch10",
+    "question": "九交模型在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_105",
+    "expected_answer_points": [
+      "用于支撑用于GIS空间推理。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_018_nine_intersection_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_106",
+    "chapter_id": "ch10",
+    "question": "什么是实例知识获取？",
+    "expected_answer_card": "ans_ch10_106",
+    "expected_answer_points": [
+      "实例知识获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_019_case_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_107",
+    "chapter_id": "ch10",
+    "question": "实例知识获取在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_107",
+    "expected_answer_points": [
+      "用于支撑用于案例推理和案例库建设。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_019_case_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_108",
+    "chapter_id": "ch10",
+    "question": "什么是面向对象建模？",
+    "expected_answer_card": "ans_ch10_108",
+    "expected_answer_points": [
+      "面向对象建模",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_020_object_oriented_modeling"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_109",
+    "chapter_id": "ch10",
+    "question": "面向对象建模在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_109",
+    "expected_answer_points": [
+      "用于支撑用于实例知识组织。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_020_object_oriented_modeling"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_110",
+    "chapter_id": "ch10",
+    "question": "什么是属性—值对表达？",
+    "expected_answer_card": "ans_ch10_110",
+    "expected_answer_points": [
+      "属性—值对表达",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_021_attribute_value_representation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_111",
+    "chapter_id": "ch10",
+    "question": "属性—值对表达在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_111",
+    "expected_answer_points": [
+      "用于支撑用于知识获取和模型输入。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_021_attribute_value_representation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_112",
+    "chapter_id": "ch10",
+    "question": "什么是规则知识获取？",
+    "expected_answer_card": "ans_ch10_112",
+    "expected_answer_points": [
+      "规则知识获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_022_rule_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_113",
+    "chapter_id": "ch10",
+    "question": "规则知识获取在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_113",
+    "expected_answer_points": [
+      "用于支撑用于规则库建设。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_022_rule_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_114",
+    "chapter_id": "ch10",
+    "question": "什么是手工规则获取？",
+    "expected_answer_card": "ans_ch10_114",
+    "expected_answer_points": [
+      "手工规则获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_023_manual_rule_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_115",
+    "chapter_id": "ch10",
+    "question": "手工规则获取在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_115",
+    "expected_answer_points": [
+      "用于支撑用于核心规范规则建设。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_023_manual_rule_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_116",
+    "chapter_id": "ch10",
+    "question": "什么是自动规则获取？",
+    "expected_answer_card": "ans_ch10_116",
+    "expected_answer_points": [
+      "自动规则获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_024_automatic_rule_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_117",
+    "chapter_id": "ch10",
+    "question": "自动规则获取在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_117",
+    "expected_answer_points": [
+      "用于支撑用于大规模知识抽取。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_024_automatic_rule_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_118",
+    "chapter_id": "ch10",
+    "question": "什么是空间关系推理（SRR）？",
+    "expected_answer_card": "ans_ch10_118",
+    "expected_answer_points": [
+      "空间关系推理（SRR）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_025_spatial_relation_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_119",
+    "chapter_id": "ch10",
+    "question": "空间关系推理（SRR）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_119",
+    "expected_answer_points": [
+      "用于支撑用于选线风险判定和空间约束解释。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_025_spatial_relation_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_120",
+    "chapter_id": "ch10",
+    "question": "什么是案例推理（CBR）？",
+    "expected_answer_card": "ans_ch10_120",
+    "expected_answer_points": [
+      "案例推理（CBR）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_026_case_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_121",
+    "chapter_id": "ch10",
+    "question": "案例推理（CBR）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_121",
+    "expected_answer_points": [
+      "用于支撑用于地质选线和方案类比。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_026_case_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_122",
+    "chapter_id": "ch10",
+    "question": "什么是规则推理（RBR）？",
+    "expected_answer_card": "ans_ch10_122",
+    "expected_answer_points": [
+      "规则推理（RBR）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_027_rule_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_123",
+    "chapter_id": "ch10",
+    "question": "规则推理（RBR）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_123",
+    "expected_answer_points": [
+      "用于支撑用于设计规则校核。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_027_rule_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_124",
+    "chapter_id": "ch10",
+    "question": "什么是CBR相似度计算？",
+    "expected_answer_card": "ans_ch10_124",
+    "expected_answer_points": [
+      "CBR相似度计算",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_028_cbr_similarity"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_125",
+    "chapter_id": "ch10",
+    "question": "CBR相似度计算在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_125",
+    "expected_answer_points": [
+      "用于支撑用于案例检索排序。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_028_cbr_similarity"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_126",
+    "chapter_id": "ch10",
+    "question": "什么是粗糙集属性权重？",
+    "expected_answer_card": "ans_ch10_126",
+    "expected_answer_points": [
+      "粗糙集属性权重",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_029_rough_set_weighting"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_127",
+    "chapter_id": "ch10",
+    "question": "粗糙集属性权重在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_127",
+    "expected_answer_points": [
+      "用于支撑用于CBR案例排序。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_029_rough_set_weighting"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_128",
+    "chapter_id": "ch10",
+    "question": "什么是K近邻案例检索？",
+    "expected_answer_card": "ans_ch10_128",
+    "expected_answer_points": [
+      "K近邻案例检索",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_030_knn_case_retrieval"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_129",
+    "chapter_id": "ch10",
+    "question": "K近邻案例检索在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_129",
+    "expected_answer_points": [
+      "用于支撑用于实例推理。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_030_knn_case_retrieval"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_130",
+    "chapter_id": "ch10",
+    "question": "什么是规则推理CF模型？",
+    "expected_answer_card": "ans_ch10_130",
+    "expected_answer_points": [
+      "规则推理CF模型",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_031_rbr_cf_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_131",
+    "chapter_id": "ch10",
+    "question": "规则推理CF模型在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_131",
+    "expected_answer_points": [
+      "用于支撑用于地质风险或适宜性判断。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_031_rbr_cf_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_132",
+    "chapter_id": "ch10",
+    "question": "什么是正向链式推理？",
+    "expected_answer_card": "ans_ch10_132",
+    "expected_answer_points": [
+      "正向链式推理",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_032_forward_chaining"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_133",
+    "chapter_id": "ch10",
+    "question": "正向链式推理在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_133",
+    "expected_answer_points": [
+      "用于支撑用于规则推理流程。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_032_forward_chaining"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_134",
+    "chapter_id": "ch10",
+    "question": "什么是深度优先搜索策略？",
+    "expected_answer_card": "ans_ch10_134",
+    "expected_answer_points": [
+      "深度优先搜索策略",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_033_dfs_search_strategy"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_135",
+    "chapter_id": "ch10",
+    "question": "深度优先搜索策略在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_135",
+    "expected_answer_points": [
+      "用于支撑用于规则推理路径搜索。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_033_dfs_search_strategy"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_136",
+    "chapter_id": "ch10",
+    "question": "什么是冲突消解机制？",
+    "expected_answer_card": "ans_ch10_136",
+    "expected_answer_points": [
+      "冲突消解机制",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_034_conflict_resolution"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_137",
+    "chapter_id": "ch10",
+    "question": "冲突消解机制在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_137",
+    "expected_answer_points": [
+      "用于支撑用于规则推理系统。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_034_conflict_resolution"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_138",
+    "chapter_id": "ch10",
+    "question": "什么是智能选线？",
+    "expected_answer_card": "ans_ch10_138",
+    "expected_answer_points": [
+      "智能选线",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_035_intelligent_route_selection"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_139",
+    "chapter_id": "ch10",
+    "question": "智能选线在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_139",
+    "expected_answer_points": [
+      "用于支撑用于走廊带选取和路线方案优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_035_intelligent_route_selection"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_140",
+    "chapter_id": "ch10",
+    "question": "什么是走廊带层次优化？",
+    "expected_answer_card": "ans_ch10_140",
+    "expected_answer_points": [
+      "走廊带层次优化",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_036_corridor_level_optimization"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_141",
+    "chapter_id": "ch10",
+    "question": "走廊带层次优化在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_141",
+    "expected_answer_points": [
+      "用于支撑用于宏观选线。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_036_corridor_level_optimization"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_142",
+    "chapter_id": "ch10",
+    "question": "什么是路线方案层次优化？",
+    "expected_answer_card": "ans_ch10_142",
+    "expected_answer_points": [
+      "路线方案层次优化",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_037_alignment_level_optimization"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_143",
+    "chapter_id": "ch10",
+    "question": "路线方案层次优化在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_143",
+    "expected_answer_points": [
+      "用于支撑用于具体路线设计。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_037_alignment_level_optimization"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_144",
+    "chapter_id": "ch10",
+    "question": "什么是决策变量？",
+    "expected_answer_card": "ans_ch10_144",
+    "expected_answer_points": [
+      "决策变量",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_038_decision_variables"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_145",
+    "chapter_id": "ch10",
+    "question": "决策变量在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_145",
+    "expected_answer_points": [
+      "用于支撑用于路线优化建模。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_038_decision_variables"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_146",
+    "chapter_id": "ch10",
+    "question": "什么是目标函数？",
+    "expected_answer_card": "ans_ch10_146",
+    "expected_answer_points": [
+      "目标函数",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_039_objective_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_147",
+    "chapter_id": "ch10",
+    "question": "目标函数在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_147",
+    "expected_answer_points": [
+      "用于支撑用于优化求解。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_039_objective_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_148",
+    "chapter_id": "ch10",
+    "question": "什么是约束条件？",
+    "expected_answer_card": "ans_ch10_148",
+    "expected_answer_points": [
+      "约束条件",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_040_constraints"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_149",
+    "chapter_id": "ch10",
+    "question": "约束条件在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_149",
+    "expected_answer_points": [
+      "用于支撑用于选线优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_040_constraints"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_150",
+    "chapter_id": "ch10",
+    "question": "什么是硬约束与软约束？",
+    "expected_answer_card": "ans_ch10_150",
+    "expected_answer_points": [
+      "硬约束与软约束",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_041_hard_soft_constraints"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_151",
+    "chapter_id": "ch10",
+    "question": "硬约束与软约束在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_151",
+    "expected_answer_points": [
+      "用于支撑用于优化模型设置。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_041_hard_soft_constraints"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_152",
+    "chapter_id": "ch10",
+    "question": "什么是多目标优化模型？",
+    "expected_answer_card": "ans_ch10_152",
+    "expected_answer_points": [
+      "多目标优化模型",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_042_multi_objective_optimization_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_153",
+    "chapter_id": "ch10",
+    "question": "多目标优化模型在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_153",
+    "expected_answer_points": [
+      "用于支撑用于多方案比选。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_042_multi_objective_optimization_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_154",
+    "chapter_id": "ch10",
+    "question": "什么是遗传算法（GA）？",
+    "expected_answer_card": "ans_ch10_154",
+    "expected_answer_points": [
+      "遗传算法（GA）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_043_genetic_algorithm"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_155",
+    "chapter_id": "ch10",
+    "question": "遗传算法（GA）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_155",
+    "expected_answer_points": [
+      "用于支撑用于平面线形和单目标路线优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_043_genetic_algorithm"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_156",
+    "chapter_id": "ch10",
+    "question": "什么是染色体编码？",
+    "expected_answer_card": "ans_ch10_156",
+    "expected_answer_points": [
+      "染色体编码",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_044_chromosome_encoding"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_157",
+    "chapter_id": "ch10",
+    "question": "染色体编码在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_157",
+    "expected_answer_points": [
+      "用于支撑用于GA优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_044_chromosome_encoding"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_158",
+    "chapter_id": "ch10",
+    "question": "什么是适应度评估？",
+    "expected_answer_card": "ans_ch10_158",
+    "expected_answer_points": [
+      "适应度评估",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_045_fitness_evaluation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_159",
+    "chapter_id": "ch10",
+    "question": "适应度评估在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_159",
+    "expected_answer_points": [
+      "用于支撑用于GA迭代。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_045_fitness_evaluation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_160",
+    "chapter_id": "ch10",
+    "question": "什么是选择机制？",
+    "expected_answer_card": "ans_ch10_160",
+    "expected_answer_points": [
+      "选择机制",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_046_selection_mechanism"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_161",
+    "chapter_id": "ch10",
+    "question": "选择机制在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_161",
+    "expected_answer_points": [
+      "用于支撑用于GA优化流程。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_046_selection_mechanism"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_162",
+    "chapter_id": "ch10",
+    "question": "什么是交叉与变异？",
+    "expected_answer_card": "ans_ch10_162",
+    "expected_answer_points": [
+      "交叉与变异",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_047_crossover_mutation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_163",
+    "chapter_id": "ch10",
+    "question": "交叉与变异在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_163",
+    "expected_answer_points": [
+      "用于支撑用于GA保持多样性。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_047_crossover_mutation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_164",
+    "chapter_id": "ch10",
+    "question": "什么是GA停止规则？",
+    "expected_answer_card": "ans_ch10_164",
+    "expected_answer_points": [
+      "GA停止规则",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_048_ga_stop_rule"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_165",
+    "chapter_id": "ch10",
+    "question": "GA停止规则在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_165",
+    "expected_answer_points": [
+      "用于支撑用于算法控制。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_048_ga_stop_rule"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_166",
+    "chapter_id": "ch10",
+    "question": "帕累托最优在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_166",
+    "expected_answer_points": [
+      "用于支撑用于多目标路线优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_049_pareto_optimality"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_167",
+    "chapter_id": "ch10",
+    "question": "什么是帕累托前沿？",
+    "expected_answer_card": "ans_ch10_167",
+    "expected_answer_points": [
+      "帕累托前沿",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_050_pareto_front"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_168",
+    "chapter_id": "ch10",
+    "question": "帕累托前沿在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_168",
+    "expected_answer_points": [
+      "用于支撑用于多方案比选。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_050_pareto_front"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_169",
+    "chapter_id": "ch10",
+    "question": "什么是NSGA-II？",
+    "expected_answer_card": "ans_ch10_169",
+    "expected_answer_points": [
+      "NSGA-II",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_051_nsga2"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_170",
+    "chapter_id": "ch10",
+    "question": "NSGA-II在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_170",
+    "expected_answer_points": [
+      "用于支撑用于多目标路线方案优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_051_nsga2"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_171",
+    "chapter_id": "ch10",
+    "question": "什么是非支配排序？",
+    "expected_answer_card": "ans_ch10_171",
+    "expected_answer_points": [
+      "非支配排序",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_052_non_dominated_sorting"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_172",
+    "chapter_id": "ch10",
+    "question": "非支配排序在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_172",
+    "expected_answer_points": [
+      "用于支撑用于多目标优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_052_non_dominated_sorting"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_173",
+    "chapter_id": "ch10",
+    "question": "什么是拥挤度计算？",
+    "expected_answer_card": "ans_ch10_173",
+    "expected_answer_points": [
+      "拥挤度计算",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_053_crowding_distance"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_174",
+    "chapter_id": "ch10",
+    "question": "拥挤度计算在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_174",
+    "expected_answer_points": [
+      "用于支撑用于NSGA-II。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_053_crowding_distance"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_175",
+    "chapter_id": "ch10",
+    "question": "什么是精英选择策略？",
+    "expected_answer_card": "ans_ch10_175",
+    "expected_answer_points": [
+      "精英选择策略",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_054_elite_selection"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_176",
+    "chapter_id": "ch10",
+    "question": "精英选择策略在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_176",
+    "expected_answer_points": [
+      "用于支撑用于进化算法。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_054_elite_selection"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_177",
+    "chapter_id": "ch10",
+    "question": "什么是加权和法？",
+    "expected_answer_card": "ans_ch10_177",
+    "expected_answer_points": [
+      "加权和法",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_055_weighted_sum_method"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_178",
+    "chapter_id": "ch10",
+    "question": "加权和法在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_178",
+    "expected_answer_points": [
+      "用于支撑用于多目标偏好处理。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_055_weighted_sum_method"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_179",
+    "chapter_id": "ch10",
+    "question": "什么是ε约束法？",
+    "expected_answer_card": "ans_ch10_179",
+    "expected_answer_points": [
+      "ε约束法",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_056_epsilon_constraint"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_180",
+    "chapter_id": "ch10",
+    "question": "ε约束法在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_180",
+    "expected_answer_points": [
+      "用于支撑用于多目标方案筛选。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_056_epsilon_constraint"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_181",
+    "chapter_id": "ch10",
+    "question": "什么是膝点法？",
+    "expected_answer_card": "ans_ch10_181",
+    "expected_answer_points": [
+      "膝点法",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_057_knee_point"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_182",
+    "chapter_id": "ch10",
+    "question": "膝点法在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_182",
+    "expected_answer_points": [
+      "用于支撑用于多目标结果选择。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_057_knee_point"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_183",
+    "chapter_id": "ch10",
+    "question": "什么是GA与多目标进化算法区别？",
+    "expected_answer_card": "ans_ch10_183",
+    "expected_answer_points": [
+      "GA与多目标进化算法区别",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_058_ga_vs_moea"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_184",
+    "chapter_id": "ch10",
+    "question": "GA与多目标进化算法区别在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_184",
+    "expected_answer_points": [
+      "用于支撑用于算法选择。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_058_ga_vs_moea"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_185",
+    "chapter_id": "ch10",
+    "question": "什么是强化学习（RL）？",
+    "expected_answer_card": "ans_ch10_185",
+    "expected_answer_points": [
+      "强化学习（RL）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_059_reinforcement_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_186",
+    "chapter_id": "ch10",
+    "question": "强化学习（RL）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_186",
+    "expected_answer_points": [
+      "用于支撑用于纵断面优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_059_reinforcement_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_187",
+    "chapter_id": "ch10",
+    "question": "什么是马尔可夫决策过程（MDP）？",
+    "expected_answer_card": "ans_ch10_187",
+    "expected_answer_points": [
+      "马尔可夫决策过程（MDP）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_060_mdp"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_188",
+    "chapter_id": "ch10",
+    "question": "马尔可夫决策过程（MDP）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_188",
+    "expected_answer_points": [
+      "用于支撑用于纵断面优化建模。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_060_mdp"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_189",
+    "chapter_id": "ch10",
+    "question": "什么是状态空间？",
+    "expected_answer_card": "ans_ch10_189",
+    "expected_answer_points": [
+      "状态空间",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_061_state_space"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_190",
+    "chapter_id": "ch10",
+    "question": "状态空间在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_190",
+    "expected_answer_points": [
+      "用于支撑用于RL建模。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_061_state_space"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_191",
+    "chapter_id": "ch10",
+    "question": "什么是动作空间？",
+    "expected_answer_card": "ans_ch10_191",
+    "expected_answer_points": [
+      "动作空间",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_062_action_space"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_192",
+    "chapter_id": "ch10",
+    "question": "动作空间在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_192",
+    "expected_answer_points": [
+      "用于支撑用于RL建模。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_062_action_space"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_193",
+    "chapter_id": "ch10",
+    "question": "什么是奖励函数？",
+    "expected_answer_card": "ans_ch10_193",
+    "expected_answer_points": [
+      "奖励函数",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_063_reward_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_194",
+    "chapter_id": "ch10",
+    "question": "奖励函数在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_194",
+    "expected_answer_points": [
+      "用于支撑用于RL纵断面优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_063_reward_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_195",
+    "chapter_id": "ch10",
+    "question": "什么是策略与价值函数？",
+    "expected_answer_card": "ans_ch10_195",
+    "expected_answer_points": [
+      "策略与价值函数",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_064_policy_value_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_196",
+    "chapter_id": "ch10",
+    "question": "策略与价值函数在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_196",
+    "expected_answer_points": [
+      "用于支撑用于RL算法理解。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_064_policy_value_function"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_197",
+    "chapter_id": "ch10",
+    "question": "什么是探索与利用？",
+    "expected_answer_card": "ans_ch10_197",
+    "expected_answer_points": [
+      "探索与利用",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_065_exploration_exploitation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_198",
+    "chapter_id": "ch10",
+    "question": "探索与利用在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_198",
+    "expected_answer_points": [
+      "用于支撑用于RL训练。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_065_exploration_exploitation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_199",
+    "chapter_id": "ch10",
+    "question": "什么是DQN算法？",
+    "expected_answer_card": "ans_ch10_199",
+    "expected_answer_points": [
+      "DQN算法",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_066_dqn"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_200",
+    "chapter_id": "ch10",
+    "question": "DQN算法在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_200",
+    "expected_answer_points": [
+      "用于支撑用于纵断面优化示例。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_066_dqn"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_201",
+    "chapter_id": "ch10",
+    "question": "什么是纵断面强化学习优化？",
+    "expected_answer_card": "ans_ch10_201",
+    "expected_answer_points": [
+      "纵断面强化学习优化",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_202",
+    "chapter_id": "ch10",
+    "question": "纵断面强化学习优化在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_202",
+    "expected_answer_points": [
+      "用于支撑用于纵断面智能优化。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_203",
+    "chapter_id": "ch10",
+    "question": "什么是机器学习？",
+    "expected_answer_card": "ans_ch10_203",
+    "expected_answer_points": [
+      "机器学习",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_068_machine_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_204",
+    "chapter_id": "ch10",
+    "question": "机器学习在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_204",
+    "expected_answer_points": [
+      "用于支撑用于风险预测和指标推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_068_machine_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_205",
+    "chapter_id": "ch10",
+    "question": "什么是监督学习？",
+    "expected_answer_card": "ans_ch10_205",
+    "expected_answer_points": [
+      "监督学习",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_069_supervised_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_206",
+    "chapter_id": "ch10",
+    "question": "监督学习在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_206",
+    "expected_answer_points": [
+      "用于支撑用于滑坡/非滑坡分类和指标预测。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_069_supervised_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_207",
+    "chapter_id": "ch10",
+    "question": "什么是分类？",
+    "expected_answer_card": "ans_ch10_207",
+    "expected_answer_points": [
+      "分类",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_070_classification"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_208",
+    "chapter_id": "ch10",
+    "question": "分类在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_208",
+    "expected_answer_points": [
+      "用于支撑用于地质风险评估。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_070_classification"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_209",
+    "chapter_id": "ch10",
+    "question": "什么是回归？",
+    "expected_answer_card": "ans_ch10_209",
+    "expected_answer_points": [
+      "回归",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_071_regression"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_210",
+    "chapter_id": "ch10",
+    "question": "回归在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_210",
+    "expected_answer_points": [
+      "用于支撑用于平面设计参数推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_071_regression"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_211",
+    "chapter_id": "ch10",
+    "question": "什么是无监督学习？",
+    "expected_answer_card": "ans_ch10_211",
+    "expected_answer_points": [
+      "无监督学习",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_072_unsupervised_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_212",
+    "chapter_id": "ch10",
+    "question": "无监督学习在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_212",
+    "expected_answer_points": [
+      "用于支撑用于聚类分区和异常识别。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_072_unsupervised_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_213",
+    "chapter_id": "ch10",
+    "question": "什么是深度学习？",
+    "expected_answer_card": "ans_ch10_213",
+    "expected_answer_points": [
+      "深度学习",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_073_deep_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_214",
+    "chapter_id": "ch10",
+    "question": "深度学习在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_214",
+    "expected_answer_points": [
+      "用于支撑用于遥感识别、图像分析和多模态融合。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_073_deep_learning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_215",
+    "chapter_id": "ch10",
+    "question": "什么是卷积神经网络（CNN）？",
+    "expected_answer_card": "ans_ch10_215",
+    "expected_answer_points": [
+      "卷积神经网络（CNN）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_074_cnn"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_216",
+    "chapter_id": "ch10",
+    "question": "卷积神经网络（CNN）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_216",
+    "expected_answer_points": [
+      "用于支撑用于图像识别和风险分析。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_074_cnn"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_217",
+    "chapter_id": "ch10",
+    "question": "什么是循环神经网络（RNN）？",
+    "expected_answer_card": "ans_ch10_217",
+    "expected_answer_points": [
+      "循环神经网络（RNN）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_075_rnn"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_218",
+    "chapter_id": "ch10",
+    "question": "循环神经网络（RNN）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_218",
+    "expected_answer_points": [
+      "用于支撑用于动态预测。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_075_rnn"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_219",
+    "chapter_id": "ch10",
+    "question": "什么是生成对抗网络（GAN）？",
+    "expected_answer_card": "ans_ch10_219",
+    "expected_answer_points": [
+      "生成对抗网络（GAN）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_076_gan"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_220",
+    "chapter_id": "ch10",
+    "question": "生成对抗网络（GAN）在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_220",
+    "expected_answer_points": [
+      "用于支撑用于设计方案生成探索。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_076_gan"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_221",
+    "chapter_id": "ch10",
+    "question": "什么是大模型与基础模型？",
+    "expected_answer_card": "ans_ch10_221",
+    "expected_answer_points": [
+      "大模型与基础模型",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_077_foundation_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_222",
+    "chapter_id": "ch10",
+    "question": "大模型与基础模型在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_222",
+    "expected_answer_points": [
+      "用于支撑用于AI辅助设计与RAG问答。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_077_foundation_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_223",
+    "chapter_id": "ch10",
+    "question": "什么是多智能体系统？",
+    "expected_answer_card": "ans_ch10_223",
+    "expected_answer_points": [
+      "多智能体系统",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_078_mult_agent_system"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_224",
+    "chapter_id": "ch10",
+    "question": "多智能体系统在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_224",
+    "expected_answer_points": [
+      "用于支撑用于AI设计平台。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_078_mult_agent_system"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_225",
+    "chapter_id": "ch10",
+    "question": "什么是GIS技术支持？",
+    "expected_answer_card": "ans_ch10_225",
+    "expected_answer_points": [
+      "GIS技术支持",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_079_gis_support"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_226",
+    "chapter_id": "ch10",
+    "question": "GIS技术支持在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_226",
+    "expected_answer_points": [
+      "用于支撑用于风险评估和选线。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_079_gis_support"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_227",
+    "chapter_id": "ch10",
+    "question": "什么是遥感技术支持？",
+    "expected_answer_card": "ans_ch10_227",
+    "expected_answer_points": [
+      "遥感技术支持",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_080_rs_support"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_228",
+    "chapter_id": "ch10",
+    "question": "遥感技术支持在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_228",
+    "expected_answer_points": [
+      "用于支撑用于地质灾害识别。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_080_rs_support"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_229",
+    "chapter_id": "ch10",
+    "question": "什么是BIM技术支持？",
+    "expected_answer_card": "ans_ch10_229",
+    "expected_answer_points": [
+      "BIM技术支持",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_081_bim_support"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_230",
+    "chapter_id": "ch10",
+    "question": "BIM技术支持在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_230",
+    "expected_answer_points": [
+      "用于支撑用于设计方案分析。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_081_bim_support"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_231",
+    "chapter_id": "ch10",
+    "question": "什么是推荐系统？",
+    "expected_answer_card": "ans_ch10_231",
+    "expected_answer_points": [
+      "推荐系统",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_082_recommendation_system"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_232",
+    "chapter_id": "ch10",
+    "question": "推荐系统在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_232",
+    "expected_answer_points": [
+      "用于支撑用于路线平面指标推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_082_recommendation_system"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_233",
+    "chapter_id": "ch10",
+    "question": "什么是地质风险评估？",
+    "expected_answer_card": "ans_ch10_233",
+    "expected_answer_points": [
+      "地质风险评估",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_083_geological_risk_assessment"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_234",
+    "chapter_id": "ch10",
+    "question": "地质风险评估在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_234",
+    "expected_answer_points": [
+      "用于支撑用于滑坡敏感性和灾害风险评价。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_083_geological_risk_assessment"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_235",
+    "chapter_id": "ch10",
+    "question": "什么是风险评估数据源？",
+    "expected_answer_card": "ans_ch10_235",
+    "expected_answer_points": [
+      "风险评估数据源",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_084_risk_data_sources"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_236",
+    "chapter_id": "ch10",
+    "question": "风险评估数据源在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_236",
+    "expected_answer_points": [
+      "用于支撑用于模式识别。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_084_risk_data_sources"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_237",
+    "chapter_id": "ch10",
+    "question": "什么是数据预处理？",
+    "expected_answer_card": "ans_ch10_237",
+    "expected_answer_points": [
+      "数据预处理",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_085_data_preprocessing"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_238",
+    "chapter_id": "ch10",
+    "question": "数据预处理在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_238",
+    "expected_answer_points": [
+      "用于支撑用于机器学习建模。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_085_data_preprocessing"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_239",
+    "chapter_id": "ch10",
+    "question": "什么是特征提取？",
+    "expected_answer_card": "ans_ch10_239",
+    "expected_answer_points": [
+      "特征提取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_086_feature_extraction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_240",
+    "chapter_id": "ch10",
+    "question": "特征提取在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_240",
+    "expected_answer_points": [
+      "用于支撑用于风险预测。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_086_feature_extraction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_241",
+    "chapter_id": "ch10",
+    "question": "什么是模型训练与预测？",
+    "expected_answer_card": "ans_ch10_241",
+    "expected_answer_points": [
+      "模型训练与预测",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_087_model_training_prediction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_242",
+    "chapter_id": "ch10",
+    "question": "模型训练与预测在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_242",
+    "expected_answer_points": [
+      "用于支撑用于滑坡敏感性图生成。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_087_model_training_prediction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_243",
+    "chapter_id": "ch10",
+    "question": "什么是风险图生成？",
+    "expected_answer_card": "ans_ch10_243",
+    "expected_answer_points": [
+      "风险图生成",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_088_risk_map_generation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_244",
+    "chapter_id": "ch10",
+    "question": "风险图生成在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_244",
+    "expected_answer_points": [
+      "用于支撑用于选线决策。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_088_risk_map_generation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_245",
+    "chapter_id": "ch10",
+    "question": "什么是协同过滤推荐？",
+    "expected_answer_card": "ans_ch10_245",
+    "expected_answer_points": [
+      "协同过滤推荐",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_089_collaborative_filtering"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_246",
+    "chapter_id": "ch10",
+    "question": "协同过滤推荐在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_246",
+    "expected_answer_points": [
+      "用于支撑用于设计经验推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_089_collaborative_filtering"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_247",
+    "chapter_id": "ch10",
+    "question": "什么是基于内容推荐？",
+    "expected_answer_card": "ans_ch10_247",
+    "expected_answer_points": [
+      "基于内容推荐",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_090_content_based_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_248",
+    "chapter_id": "ch10",
+    "question": "基于内容推荐在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_248",
+    "expected_answer_points": [
+      "用于支撑用于路线设计指标推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_090_content_based_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_249",
+    "chapter_id": "ch10",
+    "question": "什么是混合推荐？",
+    "expected_answer_card": "ans_ch10_249",
+    "expected_answer_points": [
+      "混合推荐",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_091_hybrid_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_250",
+    "chapter_id": "ch10",
+    "question": "混合推荐在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_250",
+    "expected_answer_points": [
+      "用于支撑用于复杂设计场景。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_091_hybrid_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_251",
+    "chapter_id": "ch10",
+    "question": "什么是路线平面指标推荐模型？",
+    "expected_answer_card": "ans_ch10_251",
+    "expected_answer_points": [
+      "路线平面指标推荐模型",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_092_alignment_indicator_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_252",
+    "chapter_id": "ch10",
+    "question": "路线平面指标推荐模型在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_252",
+    "expected_answer_points": [
+      "用于支撑用于Civil 3D指标推荐系统。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_092_alignment_indicator_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_253",
+    "chapter_id": "ch10",
+    "question": "什么是线形组合类型推荐？",
+    "expected_answer_card": "ans_ch10_253",
+    "expected_answer_points": [
+      "线形组合类型推荐",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_093_line_combination_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_254",
+    "chapter_id": "ch10",
+    "question": "线形组合类型推荐在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_254",
+    "expected_answer_points": [
+      "用于支撑用于平面设计推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_093_line_combination_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_255",
+    "chapter_id": "ch10",
+    "question": "什么是基本型曲线推荐？",
+    "expected_answer_card": "ans_ch10_255",
+    "expected_answer_points": [
+      "基本型曲线推荐",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_094_basic_curve_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_256",
+    "chapter_id": "ch10",
+    "question": "基本型曲线推荐在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_256",
+    "expected_answer_points": [
+      "用于支撑用于平面线形参数推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_094_basic_curve_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_257",
+    "chapter_id": "ch10",
+    "question": "什么是S形与反向曲线指标推荐？",
+    "expected_answer_card": "ans_ch10_257",
+    "expected_answer_points": [
+      "S形与反向曲线指标推荐",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_095_s_curve_reverse_curve_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_258",
+    "chapter_id": "ch10",
+    "question": "S形与反向曲线指标推荐在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_258",
+    "expected_answer_points": [
+      "用于支撑用于复杂平面线形推荐。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_095_s_curve_reverse_curve_recommendation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_259",
+    "chapter_id": "ch10",
+    "question": "什么是人机协同设计？",
+    "expected_answer_card": "ans_ch10_259",
+    "expected_answer_points": [
+      "人机协同设计",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_096_human_ai_collaboration"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_260",
+    "chapter_id": "ch10",
+    "question": "人机协同设计在道路工程AI设计中有什么作用？",
+    "expected_answer_card": "ans_ch10_260",
+    "expected_answer_points": [
+      "用于支撑用于AI辅助设计系统。",
+      "可帮助把设计经验、算法能力或数据规律转化为工程决策依据。",
+      "实际应用中应结合规范约束、数据质量和人工审查。"
+    ],
+    "expected_kps": [
+      "kp_ch10_096_human_ai_collaboration"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_261",
+    "chapter_id": "ch10",
+    "question": "AI驱动道路设计的根本作用怎么理解？",
+    "expected_answer_card": "ans_ch10_002",
+    "expected_answer_points": [
+      "把结构化不足、依赖人工判断的问题转化为可表示的问题。",
+      "把定性经验和工程规则转化为可计算、可推理的知识。",
+      "把超大方案空间转化为可搜索和可优化的对象。"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_096_human_ai_collaboration"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_262",
+    "chapter_id": "ch10",
+    "question": "知识管理模块的作用怎么理解？",
+    "expected_answer_card": "ans_ch10_007",
+    "expected_answer_points": [
+      "统一管理规范、案例、规则、术语和空间关系等知识对象。",
+      "支持知识版本更新、分类检索、关系维护和证据追溯。",
+      "为设计推理和RAG问答提供稳定知识源。"
+    ],
+    "expected_kps": [
+      "kp_ch10_010_knowledge_management_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_263",
+    "chapter_id": "ch10",
+    "question": "本体与知识图谱在道路智能设计中的作用怎么理解？",
+    "expected_answer_card": "ans_ch10_011",
+    "expected_answer_points": [
+      "统一道路设计领域术语和对象语义。",
+      "表达对象之间的层级、属性和关系。",
+      "支持语义查询、知识导航和推理。"
+    ],
+    "expected_kps": [
+      "kp_ch10_013_ontology_graph",
+      "kp_ch10_014_term_node"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_264",
+    "chapter_id": "ch10",
+    "question": "空间关系库在选线知识系统中的作用怎么理解？",
+    "expected_answer_card": "ans_ch10_014",
+    "expected_answer_points": [
+      "表达路线与灾害体、河流、保护区等对象之间的空间关系。",
+      "把几何关系转换为可推理的工程语义。",
+      "为空间关系推理和风险判断提供基础事实。"
+    ],
+    "expected_kps": [
+      "kp_ch10_017_spatial_relation_base",
+      "kp_ch10_025_spatial_relation_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_265",
+    "chapter_id": "ch10",
+    "question": "空间关系推理的基本思想怎么理解？",
+    "expected_answer_card": "ans_ch10_019",
+    "expected_answer_points": [
+      "先识别空间对象之间的拓扑、距离、方向和邻接关系。",
+      "再把这些几何关系转换为工程语义事实。",
+      "最后将语义事实用于风险判断、约束校核或方案推荐。"
+    ],
+    "expected_kps": [
+      "kp_ch10_025_spatial_relation_reasoning",
+      "kp_ch10_018_nine_intersection_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_266",
+    "chapter_id": "ch10",
+    "question": "案例推理CBR的基本流程怎么理解？",
+    "expected_answer_card": "ans_ch10_020",
+    "expected_answer_points": [
+      "构建目标案例",
+      "计算属性权重",
+      "计算语义相似度"
+    ],
+    "expected_kps": [
+      "kp_ch10_026_case_based_reasoning",
+      "kp_ch10_028_cbr_similarity",
+      "kp_ch10_030_knn_case_retrieval"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_267",
+    "chapter_id": "ch10",
+    "question": "正向链式推理怎么理解？",
+    "expected_answer_card": "ans_ch10_025",
+    "expected_answer_points": [
+      "从已知事实出发",
+      "逐条匹配规则前提。",
+      "当前提满足时触发规则",
+      "生成新的事实或结论。",
+      "不断迭代直到得出设计判断或无规则可触发。"
+    ],
+    "expected_kps": [
+      "kp_ch10_032_forward_chaining"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_268",
+    "chapter_id": "ch10",
+    "question": "算法驱动路线优化模型的核心要素包括哪些？",
+    "expected_answer_card": "ans_ch10_028",
+    "expected_answer_points": [
+      "决策变量",
+      "目标函数",
+      "约束条件"
+    ],
+    "expected_kps": [
+      "kp_ch10_038_decision_variables",
+      "kp_ch10_039_objective_function",
+      "kp_ch10_040_constraints",
+      "kp_ch10_043_genetic_algorithm"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_269",
+    "chapter_id": "ch10",
+    "question": "遗传算法优化路线方案的基本流程怎么理解？",
+    "expected_answer_card": "ans_ch10_032",
+    "expected_answer_points": [
+      "个体编码与初始化",
+      "适应度评估",
+      "选择机制"
+    ],
+    "expected_kps": [
+      "kp_ch10_043_genetic_algorithm",
+      "kp_ch10_044_chromosome_encoding",
+      "kp_ch10_045_fitness_evaluation",
+      "kp_ch10_046_selection_mechanism",
+      "kp_ch10_047_crossover_mutation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_270",
+    "chapter_id": "ch10",
+    "question": "如何理解帕累托最优？",
+    "expected_answer_card": "ans_ch10_037",
+    "expected_answer_points": [
+      "如果无法在不恶化其他目标的情况下改善某一目标",
+      "该解就是帕累托最优。",
+      "它表示多目标条件下的折中最优。",
+      "道路设计中的帕累托解不是唯一答案",
+      "而是一组可选方案。"
+    ],
+    "expected_kps": [
+      "kp_ch10_049_pareto_optimality",
+      "kp_ch10_050_pareto_front"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_271",
+    "chapter_id": "ch10",
+    "question": "强化学习的通用流程怎么理解？",
+    "expected_answer_card": "ans_ch10_045",
+    "expected_answer_points": [
+      "定义环境",
+      "采样交互",
+      "评估估计"
+    ],
+    "expected_kps": [
+      "kp_ch10_059_reinforcement_learning",
+      "kp_ch10_066_dqn",
+      "kp_ch10_065_exploration_exploitation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_272",
+    "chapter_id": "ch10",
+    "question": "DQN在纵断面优化中的作用怎么理解？",
+    "expected_answer_card": "ans_ch10_046",
+    "expected_answer_points": [
+      "用神经网络近似动作价值函数。",
+      "从经验回放池中抽样训练",
+      "减少样本相关性。",
+      "在离散动作空间下选择长期回报较高的动作。"
+    ],
+    "expected_kps": [
+      "kp_ch10_066_dqn",
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_273",
+    "chapter_id": "ch10",
+    "question": "奖励函数设计为如何理解强化学习纵断面优化的关键？",
+    "expected_answer_card": "ans_ch10_047",
+    "expected_answer_points": [
+      "奖励函数决定智能体追求什么设计目标。",
+      "如果奖励只考虑单一指标",
+      "可能忽略安全、规范或施工约束。",
+      "合理奖励应综合造价、平顺性、规范、填挖、终点误差等因素。"
+    ],
+    "expected_kps": [
+      "kp_ch10_063_reward_function",
+      "kp_ch10_067_vertical_profile_rl"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_274",
+    "chapter_id": "ch10",
+    "question": "地质灾害风险评估的一般流程怎么理解？",
+    "expected_answer_card": "ans_ch10_055",
+    "expected_answer_points": [
+      "数据采集",
+      "数据预处理",
+      "特征提取"
+    ],
+    "expected_kps": [
+      "kp_ch10_083_geological_risk_assessment",
+      "kp_ch10_084_risk_data_sources",
+      "kp_ch10_085_data_preprocessing",
+      "kp_ch10_086_feature_extraction",
+      "kp_ch10_087_model_training_prediction",
+      "kp_ch10_088_risk_map_generation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "steps",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_275",
+    "chapter_id": "ch10",
+    "question": "第十章的学习主线怎么理解？",
+    "expected_answer_card": "ans_ch10_068",
+    "expected_answer_points": [
+      "先理解AI驱动道路设计的三类范式。",
+      "再学习知识驱动的知识表达、获取和推理。",
+      "然后掌握算法驱动的选线优化方法。"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm",
+      "kp_ch10_002_knowledge_driven",
+      "kp_ch10_003_algorithm_driven",
+      "kp_ch10_004_data_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_276",
+    "chapter_id": "ch10",
+    "question": "如何理解AI驱动道路设计范式？",
+    "expected_answer_card": "ans_ch10_070",
+    "expected_answer_points": [
+      "AI驱动道路设计范式",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_001_ai_design_paradigm"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_277",
+    "chapter_id": "ch10",
+    "question": "如何理解知识驱动设计？",
+    "expected_answer_card": "ans_ch10_072",
+    "expected_answer_points": [
+      "知识驱动设计",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_002_knowledge_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_278",
+    "chapter_id": "ch10",
+    "question": "如何理解算法驱动设计？",
+    "expected_answer_card": "ans_ch10_074",
+    "expected_answer_points": [
+      "算法驱动设计",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_003_algorithm_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_279",
+    "chapter_id": "ch10",
+    "question": "如何理解数据驱动设计？",
+    "expected_answer_card": "ans_ch10_076",
+    "expected_answer_points": [
+      "数据驱动设计",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_004_data_driven"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_280",
+    "chapter_id": "ch10",
+    "question": "如何理解RAG与AI智能体？",
+    "expected_answer_card": "ans_ch10_078",
+    "expected_answer_points": [
+      "RAG与AI智能体",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_005_rag_ai_agent"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_281",
+    "chapter_id": "ch10",
+    "question": "如何理解动态知识网络？",
+    "expected_answer_card": "ans_ch10_080",
+    "expected_answer_points": [
+      "动态知识网络",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_006_knowledge_network"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_282",
+    "chapter_id": "ch10",
+    "question": "如何理解可编排智能求解流程？",
+    "expected_answer_card": "ans_ch10_082",
+    "expected_answer_points": [
+      "可编排智能求解流程",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_007_intelligent_solver_flow"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_283",
+    "chapter_id": "ch10",
+    "question": "如何理解多模态预测性认知？",
+    "expected_answer_card": "ans_ch10_084",
+    "expected_answer_points": [
+      "多模态预测性认知",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_008_multimodal_prediction"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_284",
+    "chapter_id": "ch10",
+    "question": "如何理解知识驱动系统结构？",
+    "expected_answer_card": "ans_ch10_086",
+    "expected_answer_points": [
+      "知识驱动系统结构",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_009_knowledge_system_structure"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_285",
+    "chapter_id": "ch10",
+    "question": "如何理解知识管理模块？",
+    "expected_answer_card": "ans_ch10_088",
+    "expected_answer_points": [
+      "知识管理模块",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_010_knowledge_management_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_286",
+    "chapter_id": "ch10",
+    "question": "如何理解知识获取与挖掘模块？",
+    "expected_answer_card": "ans_ch10_090",
+    "expected_answer_points": [
+      "知识获取与挖掘模块",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_011_knowledge_acquisition_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_287",
+    "chapter_id": "ch10",
+    "question": "如何理解设计推理模块？",
+    "expected_answer_card": "ans_ch10_092",
+    "expected_answer_points": [
+      "设计推理模块",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_012_design_reasoning_module"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_288",
+    "chapter_id": "ch10",
+    "question": "如何理解本体与知识图谱？",
+    "expected_answer_card": "ans_ch10_094",
+    "expected_answer_points": [
+      "本体与知识图谱",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_013_ontology_graph"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_289",
+    "chapter_id": "ch10",
+    "question": "如何理解术语节点？",
+    "expected_answer_card": "ans_ch10_096",
+    "expected_answer_points": [
+      "术语节点",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_014_term_node"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_290",
+    "chapter_id": "ch10",
+    "question": "如何理解案例库？",
+    "expected_answer_card": "ans_ch10_098",
+    "expected_answer_points": [
+      "案例库",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_015_case_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_291",
+    "chapter_id": "ch10",
+    "question": "如何理解规则库？",
+    "expected_answer_card": "ans_ch10_100",
+    "expected_answer_points": [
+      "规则库",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_016_rule_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_292",
+    "chapter_id": "ch10",
+    "question": "如何理解空间关系库？",
+    "expected_answer_card": "ans_ch10_102",
+    "expected_answer_points": [
+      "空间关系库",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_017_spatial_relation_base"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_293",
+    "chapter_id": "ch10",
+    "question": "如何理解九交模型？",
+    "expected_answer_card": "ans_ch10_104",
+    "expected_answer_points": [
+      "九交模型",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_018_nine_intersection_model"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_294",
+    "chapter_id": "ch10",
+    "question": "如何理解实例知识获取？",
+    "expected_answer_card": "ans_ch10_106",
+    "expected_answer_points": [
+      "实例知识获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_019_case_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_295",
+    "chapter_id": "ch10",
+    "question": "如何理解面向对象建模？",
+    "expected_answer_card": "ans_ch10_108",
+    "expected_answer_points": [
+      "面向对象建模",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_020_object_oriented_modeling"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_296",
+    "chapter_id": "ch10",
+    "question": "如何理解属性—值对表达？",
+    "expected_answer_card": "ans_ch10_110",
+    "expected_answer_points": [
+      "属性—值对表达",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_021_attribute_value_representation"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_297",
+    "chapter_id": "ch10",
+    "question": "如何理解规则知识获取？",
+    "expected_answer_card": "ans_ch10_112",
+    "expected_answer_points": [
+      "规则知识获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_022_rule_knowledge_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_298",
+    "chapter_id": "ch10",
+    "question": "如何理解手工规则获取？",
+    "expected_answer_card": "ans_ch10_114",
+    "expected_answer_points": [
+      "手工规则获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_023_manual_rule_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_299",
+    "chapter_id": "ch10",
+    "question": "如何理解自动规则获取？",
+    "expected_answer_card": "ans_ch10_116",
+    "expected_answer_points": [
+      "自动规则获取",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_024_automatic_rule_acquisition"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_300",
+    "chapter_id": "ch10",
+    "question": "如何理解空间关系推理（SRR）？",
+    "expected_answer_card": "ans_ch10_118",
+    "expected_answer_points": [
+      "空间关系推理（SRR）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_025_spatial_relation_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  },
+  {
+    "test_id": "eval_ch10_301",
+    "chapter_id": "ch10",
+    "question": "如何理解案例推理（CBR）？",
+    "expected_answer_card": "ans_ch10_120",
+    "expected_answer_points": [
+      "案例推理（CBR）",
+      "核心理解",
+      "工程意义"
+    ],
+    "expected_kps": [
+      "kp_ch10_026_case_based_reasoning"
+    ],
+    "should_not_include": [
+      "不要直接复制教材长段落",
+      "不要把AI描述为完全替代工程师",
+      "不要忽视工程规范和人工审查"
+    ],
+    "status": "checked",
+    "required_response_mode": "bullet",
+    "pass_criteria": "命中答案卡；按条目回答；包含must_include；不直接复制原文；不出现should_not_include。"
+  }
+]

@@ -1,0 +1,2298 @@
+[
+  {
+    "resource_id": "ch08_vid_001",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "ORD工作空间、项目文件与Feature Definition配置",
+    "file_path": "chapter_08/videos/ch08_vid_001.mp4",
+    "related_objects": "ch08_task_001_workspace_setup;ch08_task_002_set_chinacivil_metric;ch08_task_003_attach_reference;ch08_task_004_assign_feature_definition",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "ORD工作空间、项目文件与Feature Definition配置"
+    ],
+    "reference_aliases": [
+      "ORD工作空间、项目文件与Feature Definition配置",
+      "ch08_vid_001"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_002",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "DWG地形导入、图形过滤器与Terrain Model建立",
+    "file_path": "chapter_08/videos/ch08_vid_002.mp4",
+    "related_objects": "ch08_task_006_import_dwg_terrain;ch08_task_007_create_graphic_filter;ch08_task_008_create_terrain_model;ch08_task_009_edit_terrain_boundary;ch08_task_010_drape_imagery;ch08_task_011_terrain_slope_analysis",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "DWG地形导入、图形过滤器与Terrain Model建立"
+    ],
+    "reference_aliases": [
+      "DWG地形导入、图形过滤器与Terrain Model建立",
+      "ch08_vid_002"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_003",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "路线平面设计：交点法与积木法",
+    "file_path": "chapter_08/videos/ch08_vid_003.mp4",
+    "related_objects": "ch08_task_014_create_alignment_pi;ch08_task_015_create_alignment_element;ch08_task_016_create_scs_curve;ch08_task_017_create_s_curve;ch08_task_018_create_oval_curve;ch08_task_019_edit_alignment",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "路线平面设计：交点法与积木法"
+    ],
+    "reference_aliases": [
+      "路线平面设计：交点法与积木法",
+      "ch08_vid_003"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_004",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "路线纵断面设计：Profile View、投影与拉坡",
+    "file_path": "chapter_08/videos/ch08_vid_004.mp4",
+    "related_objects": "ch08_task_023_create_profile_view;ch08_task_024_project_control_points;ch08_task_025_create_profile_pi;ch08_task_026_create_profile_element;ch08_task_027_set_vertical_curve;ch08_task_028_edit_profile",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "路线纵断面设计：Profile View、投影与拉坡"
+    ],
+    "reference_aliases": [
+      "路线纵断面设计：Profile View、投影与拉坡",
+      "ch08_vid_004"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_005",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "横断面模板编辑器：点、组件、约束与末端条件",
+    "file_path": "chapter_08/videos/ch08_vid_005.mp4",
+    "related_objects": "ch08_task_031_open_template_editor;ch08_task_032_create_standard_template;ch08_task_033_create_pavement_components;ch08_task_034_create_template_points;ch08_task_035_create_null_points;ch08_task_036_set_template_constraints",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "横断面模板编辑器：点、组件、约束与末端条件"
+    ],
+    "reference_aliases": [
+      "横断面模板编辑器：点、组件、约束与末端条件",
+      "ch08_vid_005"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_006",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "廊道创建、模板投放与目标映射",
+    "file_path": "chapter_08/videos/ch08_vid_006.mp4",
+    "related_objects": "ch08_task_042_create_corridor;ch08_task_043_assign_baseline_profile;ch08_task_044_set_template_drop;ch08_task_045_map_corridor_targets;ch08_task_046_review_cross_sections;ch08_task_047_create_corridor_transition",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "廊道创建、模板投放与目标映射"
+    ],
+    "reference_aliases": [
+      "廊道创建、模板投放与目标映射",
+      "ch08_vid_006"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_007",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "局部加宽、超高区间与廊道关联",
+    "file_path": "chapter_08/videos/ch08_vid_007.mp4",
+    "related_objects": "ch08_task_050_edit_widening_table;ch08_task_051_apply_widening;ch08_task_052_create_se_section;ch08_task_053_generate_se_lanes_corridor;ch08_task_054_generate_se_lanes_alignment;ch08_task_055_load_jtg_edge",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "局部加宽、超高区间与廊道关联"
+    ],
+    "reference_aliases": [
+      "局部加宽、超高区间与廊道关联",
+      "ch08_vid_007"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_008",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "三维漫游、模型检查与组件数量报表",
+    "file_path": "chapter_08/videos/ch08_vid_008.mp4",
+    "related_objects": "ch08_task_057_drive_through_review;ch08_task_058_check_wall_slope;ch08_task_059_component_quantity_report;ch08_task_060_earthwork_quantity_check",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "三维漫游、模型检查与组件数量报表"
+    ],
+    "reference_aliases": [
+      "三维漫游、模型检查与组件数量报表",
+      "ch08_vid_008"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_009",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "标注样式、命名边界与平面图出图",
+    "file_path": "chapter_08/videos/ch08_vid_009.mp4",
+    "related_objects": "ch08_task_061_customize_annotation_style;ch08_task_062_edit_plan_annotation_group;ch08_task_063_edit_profile_annotation_group;ch08_task_064_link_annotation_feature;ch08_task_065_place_named_boundary_plan;ch08_task_066_create_plan_sheets",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "标注样式、命名边界与平面图出图"
+    ],
+    "reference_aliases": [
+      "标注样式、命名边界与平面图出图",
+      "ch08_vid_009"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_010",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "纵断面图出图与PDF成果输出",
+    "file_path": "chapter_08/videos/ch08_vid_010.mp4",
+    "related_objects": "ch08_task_061_customize_annotation_style;ch08_task_062_edit_plan_annotation_group;ch08_task_063_edit_profile_annotation_group;ch08_task_064_link_annotation_feature;ch08_task_065_place_named_boundary_plan;ch08_task_066_create_plan_sheets",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "纵断面图出图与PDF成果输出"
+    ],
+    "reference_aliases": [
+      "纵断面图出图与PDF成果输出",
+      "ch08_vid_010"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_011",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "山区二级公路BIM正向设计综合实训",
+    "file_path": "chapter_08/videos/ch08_vid_011.mp4",
+    "related_objects": "ch08_task_071_integrated_mountain_highway;ch08_task_072_deliver_model_package",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "山区二级公路BIM正向设计综合实训"
+    ],
+    "reference_aliases": [
+      "山区二级公路BIM正向设计综合实训",
+      "ch08_vid_011"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_vid_012",
+    "chapter_id": "ch08",
+    "resource_type": "video",
+    "title": "ORD常见问题排查与质量检查",
+    "file_path": "chapter_08/videos/ch08_vid_012.mp4",
+    "related_objects": "ch08_task_071_integrated_mountain_highway;ch08_task_072_deliver_model_package",
+    "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
+    "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "ORD常见问题排查与质量检查"
+    ],
+    "reference_aliases": [
+      "ORD常见问题排查与质量检查",
+      "ch08_vid_012"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0001",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查软件工作空间与项目目录 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0001.png",
+    "related_objects": "ch08_task_001_workspace_setup_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查软件工作空间与项目目录 截图"
+    ],
+    "reference_aliases": [
+      "检查软件工作空间与项目目录 截图",
+      "ch08_ss_0001"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0002",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "新建或打开DGN项目文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0002.png",
+    "related_objects": "ch08_task_001_workspace_setup_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建或打开DGN项目文件 截图"
+    ],
+    "reference_aliases": [
+      "新建或打开DGN项目文件 截图",
+      "ch08_ss_0002"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0003",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "设置单位、坐标和参考文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0003.png",
+    "related_objects": "ch08_task_001_workspace_setup_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设置单位、坐标和参考文件 截图"
+    ],
+    "reference_aliases": [
+      "设置单位、坐标和参考文件 截图",
+      "ch08_ss_0003"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0004",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查Feature Definition与设计标准 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0004.png",
+    "related_objects": "ch08_task_001_workspace_setup_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查Feature Definition与设计标准 截图"
+    ],
+    "reference_aliases": [
+      "检查Feature Definition与设计标准 截图",
+      "ch08_ss_0004"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0005",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "保存项目并进行基础显示检查 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0005.png",
+    "related_objects": "ch08_task_001_workspace_setup_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "保存项目并进行基础显示检查 截图"
+    ],
+    "reference_aliases": [
+      "保存项目并进行基础显示检查 截图",
+      "ch08_ss_0005"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0006",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查软件工作空间与项目目录 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0006.png",
+    "related_objects": "ch08_task_002_set_chinacivil_metric_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查软件工作空间与项目目录 截图"
+    ],
+    "reference_aliases": [
+      "检查软件工作空间与项目目录 截图",
+      "ch08_ss_0006"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0007",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "新建或打开DGN项目文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0007.png",
+    "related_objects": "ch08_task_002_set_chinacivil_metric_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建或打开DGN项目文件 截图"
+    ],
+    "reference_aliases": [
+      "新建或打开DGN项目文件 截图",
+      "ch08_ss_0007"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0008",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "设置单位、坐标和参考文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0008.png",
+    "related_objects": "ch08_task_002_set_chinacivil_metric_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设置单位、坐标和参考文件 截图"
+    ],
+    "reference_aliases": [
+      "设置单位、坐标和参考文件 截图",
+      "ch08_ss_0008"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0009",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查Feature Definition与设计标准 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0009.png",
+    "related_objects": "ch08_task_002_set_chinacivil_metric_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查Feature Definition与设计标准 截图"
+    ],
+    "reference_aliases": [
+      "检查Feature Definition与设计标准 截图",
+      "ch08_ss_0009"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0010",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "保存项目并进行基础显示检查 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0010.png",
+    "related_objects": "ch08_task_002_set_chinacivil_metric_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "保存项目并进行基础显示检查 截图"
+    ],
+    "reference_aliases": [
+      "保存项目并进行基础显示检查 截图",
+      "ch08_ss_0010"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0011",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查软件工作空间与项目目录 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0011.png",
+    "related_objects": "ch08_task_003_attach_reference_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查软件工作空间与项目目录 截图"
+    ],
+    "reference_aliases": [
+      "检查软件工作空间与项目目录 截图",
+      "ch08_ss_0011"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0012",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "新建或打开DGN项目文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0012.png",
+    "related_objects": "ch08_task_003_attach_reference_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建或打开DGN项目文件 截图"
+    ],
+    "reference_aliases": [
+      "新建或打开DGN项目文件 截图",
+      "ch08_ss_0012"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0013",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "设置单位、坐标和参考文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0013.png",
+    "related_objects": "ch08_task_003_attach_reference_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设置单位、坐标和参考文件 截图"
+    ],
+    "reference_aliases": [
+      "设置单位、坐标和参考文件 截图",
+      "ch08_ss_0013"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0014",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查Feature Definition与设计标准 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0014.png",
+    "related_objects": "ch08_task_003_attach_reference_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查Feature Definition与设计标准 截图"
+    ],
+    "reference_aliases": [
+      "检查Feature Definition与设计标准 截图",
+      "ch08_ss_0014"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0015",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "保存项目并进行基础显示检查 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0015.png",
+    "related_objects": "ch08_task_003_attach_reference_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "保存项目并进行基础显示检查 截图"
+    ],
+    "reference_aliases": [
+      "保存项目并进行基础显示检查 截图",
+      "ch08_ss_0015"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0016",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查软件工作空间与项目目录 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0016.png",
+    "related_objects": "ch08_task_004_assign_feature_definition_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查软件工作空间与项目目录 截图"
+    ],
+    "reference_aliases": [
+      "检查软件工作空间与项目目录 截图",
+      "ch08_ss_0016"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0017",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "新建或打开DGN项目文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0017.png",
+    "related_objects": "ch08_task_004_assign_feature_definition_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建或打开DGN项目文件 截图"
+    ],
+    "reference_aliases": [
+      "新建或打开DGN项目文件 截图",
+      "ch08_ss_0017"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0018",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "设置单位、坐标和参考文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0018.png",
+    "related_objects": "ch08_task_004_assign_feature_definition_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设置单位、坐标和参考文件 截图"
+    ],
+    "reference_aliases": [
+      "设置单位、坐标和参考文件 截图",
+      "ch08_ss_0018"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0019",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查Feature Definition与设计标准 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0019.png",
+    "related_objects": "ch08_task_004_assign_feature_definition_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查Feature Definition与设计标准 截图"
+    ],
+    "reference_aliases": [
+      "检查Feature Definition与设计标准 截图",
+      "ch08_ss_0019"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0020",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "保存项目并进行基础显示检查 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0020.png",
+    "related_objects": "ch08_task_004_assign_feature_definition_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "保存项目并进行基础显示检查 截图"
+    ],
+    "reference_aliases": [
+      "保存项目并进行基础显示检查 截图",
+      "ch08_ss_0020"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0021",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择一个已创建的土木几何对象 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0021.png",
+    "related_objects": "ch08_task_005_review_civil_rules_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择一个已创建的土木几何对象 截图"
+    ],
+    "reference_aliases": [
+      "选择一个已创建的土木几何对象 截图",
+      "ch08_ss_0021"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0022",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "打开属性或规则查看窗口 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0022.png",
+    "related_objects": "ch08_task_005_review_civil_rules_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "打开属性或规则查看窗口 截图"
+    ],
+    "reference_aliases": [
+      "打开属性或规则查看窗口 截图",
+      "ch08_ss_0022"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0023",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "查看父子依赖和规则关系 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0023.png",
+    "related_objects": "ch08_task_005_review_civil_rules_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "查看父子依赖和规则关系 截图"
+    ],
+    "reference_aliases": [
+      "查看父子依赖和规则关系 截图",
+      "ch08_ss_0023"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0024",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "修改上游控制对象观察更新 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0024.png",
+    "related_objects": "ch08_task_005_review_civil_rules_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "修改上游控制对象观察更新 截图"
+    ],
+    "reference_aliases": [
+      "修改上游控制对象观察更新 截图",
+      "ch08_ss_0024"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0025",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "记录规则驱动带来的联动效果 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0025.png",
+    "related_objects": "ch08_task_005_review_civil_rules_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "记录规则驱动带来的联动效果 截图"
+    ],
+    "reference_aliases": [
+      "记录规则驱动带来的联动效果 截图",
+      "ch08_ss_0025"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0026",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0026.png",
+    "related_objects": "ch08_task_006_import_dwg_terrain_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0026"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0027",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0027.png",
+    "related_objects": "ch08_task_006_import_dwg_terrain_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0027"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0028",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0028.png",
+    "related_objects": "ch08_task_006_import_dwg_terrain_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0028"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0029",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0029.png",
+    "related_objects": "ch08_task_006_import_dwg_terrain_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0029"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0030",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0030.png",
+    "related_objects": "ch08_task_006_import_dwg_terrain_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0030"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0031",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0031.png",
+    "related_objects": "ch08_task_007_create_graphic_filter_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0031"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0032",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0032.png",
+    "related_objects": "ch08_task_007_create_graphic_filter_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0032"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0033",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0033.png",
+    "related_objects": "ch08_task_007_create_graphic_filter_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0033"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0034",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0034.png",
+    "related_objects": "ch08_task_007_create_graphic_filter_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0034"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0035",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0035.png",
+    "related_objects": "ch08_task_007_create_graphic_filter_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0035"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0036",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0036.png",
+    "related_objects": "ch08_task_008_create_terrain_model_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0036"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0037",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0037.png",
+    "related_objects": "ch08_task_008_create_terrain_model_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0037"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0038",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0038.png",
+    "related_objects": "ch08_task_008_create_terrain_model_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0038"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0039",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0039.png",
+    "related_objects": "ch08_task_008_create_terrain_model_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0039"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0040",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0040.png",
+    "related_objects": "ch08_task_008_create_terrain_model_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0040"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0041",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0041.png",
+    "related_objects": "ch08_task_009_edit_terrain_boundary_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0041"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0042",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0042.png",
+    "related_objects": "ch08_task_009_edit_terrain_boundary_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0042"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0043",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0043.png",
+    "related_objects": "ch08_task_009_edit_terrain_boundary_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0043"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0044",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0044.png",
+    "related_objects": "ch08_task_009_edit_terrain_boundary_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0044"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0045",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0045.png",
+    "related_objects": "ch08_task_009_edit_terrain_boundary_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0045"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0046",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0046.png",
+    "related_objects": "ch08_task_010_drape_imagery_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0046"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0047",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0047.png",
+    "related_objects": "ch08_task_010_drape_imagery_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0047"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0048",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0048.png",
+    "related_objects": "ch08_task_010_drape_imagery_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0048"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0049",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0049.png",
+    "related_objects": "ch08_task_010_drape_imagery_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0049"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0050",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0050.png",
+    "related_objects": "ch08_task_010_drape_imagery_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0050"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0051",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0051.png",
+    "related_objects": "ch08_task_011_terrain_slope_analysis_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0051"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0052",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0052.png",
+    "related_objects": "ch08_task_011_terrain_slope_analysis_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0052"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0053",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0053.png",
+    "related_objects": "ch08_task_011_terrain_slope_analysis_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0053"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0054",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0054.png",
+    "related_objects": "ch08_task_011_terrain_slope_analysis_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0054"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0055",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0055.png",
+    "related_objects": "ch08_task_011_terrain_slope_analysis_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0055"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0056",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0056.png",
+    "related_objects": "ch08_task_012_terrain_visibility_analysis_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0056"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0057",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0057.png",
+    "related_objects": "ch08_task_012_terrain_visibility_analysis_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0057"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0058",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0058.png",
+    "related_objects": "ch08_task_012_terrain_visibility_analysis_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0058"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0059",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0059.png",
+    "related_objects": "ch08_task_012_terrain_visibility_analysis_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0059"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0060",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0060.png",
+    "related_objects": "ch08_task_012_terrain_visibility_analysis_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0060"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0061",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备DWG地形和图层信息 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0061.png",
+    "related_objects": "ch08_task_013_terrain_quality_check_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备DWG地形和图层信息 截图"
+    ],
+    "reference_aliases": [
+      "准备DWG地形和图层信息 截图",
+      "ch08_ss_0061"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0062",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "导入或参考地形图文件 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0062.png",
+    "related_objects": "ch08_task_013_terrain_quality_check_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或参考地形图文件 截图"
+    ],
+    "reference_aliases": [
+      "导入或参考地形图文件 截图",
+      "ch08_ss_0062"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0063",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "创建或选择图形过滤器 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0063.png",
+    "related_objects": "ch08_task_013_terrain_quality_check_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建或选择图形过滤器 截图"
+    ],
+    "reference_aliases": [
+      "创建或选择图形过滤器 截图",
+      "ch08_ss_0063"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0064",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "生成或更新Terrain Model 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0064.png",
+    "related_objects": "ch08_task_013_terrain_quality_check_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成或更新Terrain Model 截图"
+    ],
+    "reference_aliases": [
+      "生成或更新Terrain Model 截图",
+      "ch08_ss_0064"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0065",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查地形显示、边界和高程异常 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0065.png",
+    "related_objects": "ch08_task_013_terrain_quality_check_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查地形显示、边界和高程异常 截图"
+    ],
+    "reference_aliases": [
+      "检查地形显示、边界和高程异常 截图",
+      "ch08_ss_0065"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0066",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备起终点、交点或控制线 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0066.png",
+    "related_objects": "ch08_task_014_create_alignment_pi_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备起终点、交点或控制线 截图"
+    ],
+    "reference_aliases": [
+      "准备起终点、交点或控制线 截图",
+      "ch08_ss_0066"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0067",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择交点法或积木法工具 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0067.png",
+    "related_objects": "ch08_task_014_create_alignment_pi_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择交点法或积木法工具 截图"
+    ],
+    "reference_aliases": [
+      "选择交点法或积木法工具 截图",
+      "ch08_ss_0067"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0068",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "输入半径、缓和曲线或线元参数 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0068.png",
+    "related_objects": "ch08_task_014_create_alignment_pi_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入半径、缓和曲线或线元参数 截图"
+    ],
+    "reference_aliases": [
+      "输入半径、缓和曲线或线元参数 截图",
+      "ch08_ss_0068"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0069",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "分配Feature Definition并设置桩号 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0069.png",
+    "related_objects": "ch08_task_014_create_alignment_pi_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "分配Feature Definition并设置桩号 截图"
+    ],
+    "reference_aliases": [
+      "分配Feature Definition并设置桩号 截图",
+      "ch08_ss_0069"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0070",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查线形连续性和规范适配 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0070.png",
+    "related_objects": "ch08_task_014_create_alignment_pi_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查线形连续性和规范适配 截图"
+    ],
+    "reference_aliases": [
+      "检查线形连续性和规范适配 截图",
+      "ch08_ss_0070"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0071",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备起终点、交点或控制线 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0071.png",
+    "related_objects": "ch08_task_015_create_alignment_element_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备起终点、交点或控制线 截图"
+    ],
+    "reference_aliases": [
+      "准备起终点、交点或控制线 截图",
+      "ch08_ss_0071"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0072",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择交点法或积木法工具 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0072.png",
+    "related_objects": "ch08_task_015_create_alignment_element_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择交点法或积木法工具 截图"
+    ],
+    "reference_aliases": [
+      "选择交点法或积木法工具 截图",
+      "ch08_ss_0072"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0073",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "输入半径、缓和曲线或线元参数 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0073.png",
+    "related_objects": "ch08_task_015_create_alignment_element_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入半径、缓和曲线或线元参数 截图"
+    ],
+    "reference_aliases": [
+      "输入半径、缓和曲线或线元参数 截图",
+      "ch08_ss_0073"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0074",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "分配Feature Definition并设置桩号 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0074.png",
+    "related_objects": "ch08_task_015_create_alignment_element_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "分配Feature Definition并设置桩号 截图"
+    ],
+    "reference_aliases": [
+      "分配Feature Definition并设置桩号 截图",
+      "ch08_ss_0074"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0075",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查线形连续性和规范适配 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0075.png",
+    "related_objects": "ch08_task_015_create_alignment_element_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查线形连续性和规范适配 截图"
+    ],
+    "reference_aliases": [
+      "检查线形连续性和规范适配 截图",
+      "ch08_ss_0075"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0076",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备起终点、交点或控制线 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0076.png",
+    "related_objects": "ch08_task_016_create_scs_curve_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备起终点、交点或控制线 截图"
+    ],
+    "reference_aliases": [
+      "准备起终点、交点或控制线 截图",
+      "ch08_ss_0076"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0077",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择交点法或积木法工具 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0077.png",
+    "related_objects": "ch08_task_016_create_scs_curve_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择交点法或积木法工具 截图"
+    ],
+    "reference_aliases": [
+      "选择交点法或积木法工具 截图",
+      "ch08_ss_0077"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0078",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "输入半径、缓和曲线或线元参数 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0078.png",
+    "related_objects": "ch08_task_016_create_scs_curve_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入半径、缓和曲线或线元参数 截图"
+    ],
+    "reference_aliases": [
+      "输入半径、缓和曲线或线元参数 截图",
+      "ch08_ss_0078"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0079",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "分配Feature Definition并设置桩号 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0079.png",
+    "related_objects": "ch08_task_016_create_scs_curve_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "分配Feature Definition并设置桩号 截图"
+    ],
+    "reference_aliases": [
+      "分配Feature Definition并设置桩号 截图",
+      "ch08_ss_0079"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0080",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查线形连续性和规范适配 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0080.png",
+    "related_objects": "ch08_task_016_create_scs_curve_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查线形连续性和规范适配 截图"
+    ],
+    "reference_aliases": [
+      "检查线形连续性和规范适配 截图",
+      "ch08_ss_0080"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0081",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备起终点、交点或控制线 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0081.png",
+    "related_objects": "ch08_task_017_create_s_curve_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备起终点、交点或控制线 截图"
+    ],
+    "reference_aliases": [
+      "准备起终点、交点或控制线 截图",
+      "ch08_ss_0081"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0082",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择交点法或积木法工具 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0082.png",
+    "related_objects": "ch08_task_017_create_s_curve_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择交点法或积木法工具 截图"
+    ],
+    "reference_aliases": [
+      "选择交点法或积木法工具 截图",
+      "ch08_ss_0082"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0083",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "输入半径、缓和曲线或线元参数 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0083.png",
+    "related_objects": "ch08_task_017_create_s_curve_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入半径、缓和曲线或线元参数 截图"
+    ],
+    "reference_aliases": [
+      "输入半径、缓和曲线或线元参数 截图",
+      "ch08_ss_0083"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0084",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "分配Feature Definition并设置桩号 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0084.png",
+    "related_objects": "ch08_task_017_create_s_curve_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "分配Feature Definition并设置桩号 截图"
+    ],
+    "reference_aliases": [
+      "分配Feature Definition并设置桩号 截图",
+      "ch08_ss_0084"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0085",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查线形连续性和规范适配 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0085.png",
+    "related_objects": "ch08_task_017_create_s_curve_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查线形连续性和规范适配 截图"
+    ],
+    "reference_aliases": [
+      "检查线形连续性和规范适配 截图",
+      "ch08_ss_0085"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0086",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备起终点、交点或控制线 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0086.png",
+    "related_objects": "ch08_task_018_create_oval_curve_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备起终点、交点或控制线 截图"
+    ],
+    "reference_aliases": [
+      "准备起终点、交点或控制线 截图",
+      "ch08_ss_0086"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0087",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择交点法或积木法工具 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0087.png",
+    "related_objects": "ch08_task_018_create_oval_curve_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择交点法或积木法工具 截图"
+    ],
+    "reference_aliases": [
+      "选择交点法或积木法工具 截图",
+      "ch08_ss_0087"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0088",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "输入半径、缓和曲线或线元参数 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0088.png",
+    "related_objects": "ch08_task_018_create_oval_curve_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入半径、缓和曲线或线元参数 截图"
+    ],
+    "reference_aliases": [
+      "输入半径、缓和曲线或线元参数 截图",
+      "ch08_ss_0088"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0089",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "分配Feature Definition并设置桩号 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0089.png",
+    "related_objects": "ch08_task_018_create_oval_curve_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "分配Feature Definition并设置桩号 截图"
+    ],
+    "reference_aliases": [
+      "分配Feature Definition并设置桩号 截图",
+      "ch08_ss_0089"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0090",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查线形连续性和规范适配 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0090.png",
+    "related_objects": "ch08_task_018_create_oval_curve_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查线形连续性和规范适配 截图"
+    ],
+    "reference_aliases": [
+      "检查线形连续性和规范适配 截图",
+      "ch08_ss_0090"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0091",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备起终点、交点或控制线 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0091.png",
+    "related_objects": "ch08_task_019_edit_alignment_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备起终点、交点或控制线 截图"
+    ],
+    "reference_aliases": [
+      "准备起终点、交点或控制线 截图",
+      "ch08_ss_0091"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0092",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择交点法或积木法工具 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0092.png",
+    "related_objects": "ch08_task_019_edit_alignment_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择交点法或积木法工具 截图"
+    ],
+    "reference_aliases": [
+      "选择交点法或积木法工具 截图",
+      "ch08_ss_0092"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0093",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "输入半径、缓和曲线或线元参数 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0093.png",
+    "related_objects": "ch08_task_019_edit_alignment_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入半径、缓和曲线或线元参数 截图"
+    ],
+    "reference_aliases": [
+      "输入半径、缓和曲线或线元参数 截图",
+      "ch08_ss_0093"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0094",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "分配Feature Definition并设置桩号 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0094.png",
+    "related_objects": "ch08_task_019_edit_alignment_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "分配Feature Definition并设置桩号 截图"
+    ],
+    "reference_aliases": [
+      "分配Feature Definition并设置桩号 截图",
+      "ch08_ss_0094"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0095",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查线形连续性和规范适配 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0095.png",
+    "related_objects": "ch08_task_019_edit_alignment_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查线形连续性和规范适配 截图"
+    ],
+    "reference_aliases": [
+      "检查线形连续性和规范适配 截图",
+      "ch08_ss_0095"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0096",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "准备起终点、交点或控制线 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0096.png",
+    "related_objects": "ch08_task_020_apply_design_standards_step_01",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "准备起终点、交点或控制线 截图"
+    ],
+    "reference_aliases": [
+      "准备起终点、交点或控制线 截图",
+      "ch08_ss_0096"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0097",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "选择交点法或积木法工具 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0097.png",
+    "related_objects": "ch08_task_020_apply_design_standards_step_02",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "选择交点法或积木法工具 截图"
+    ],
+    "reference_aliases": [
+      "选择交点法或积木法工具 截图",
+      "ch08_ss_0097"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0098",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "输入半径、缓和曲线或线元参数 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0098.png",
+    "related_objects": "ch08_task_020_apply_design_standards_step_03",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入半径、缓和曲线或线元参数 截图"
+    ],
+    "reference_aliases": [
+      "输入半径、缓和曲线或线元参数 截图",
+      "ch08_ss_0098"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0099",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "分配Feature Definition并设置桩号 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0099.png",
+    "related_objects": "ch08_task_020_apply_design_standards_step_04",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "分配Feature Definition并设置桩号 截图"
+    ],
+    "reference_aliases": [
+      "分配Feature Definition并设置桩号 截图",
+      "ch08_ss_0099"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_ss_0100",
+    "chapter_id": "ch08",
+    "resource_type": "screenshot",
+    "title": "检查线形连续性和规范适配 截图",
+    "file_path": "chapter_08/screenshots/ch08_ss_0100.png",
+    "related_objects": "ch08_task_020_apply_design_standards_step_05",
+    "teaching_use": "用于展示该步骤的软件界面、关键参数或检查结果。",
+    "qa_use": "操作步骤说明和错误排查时推荐。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "检查线形连续性和规范适配 截图"
+    ],
+    "reference_aliases": [
+      "检查线形连续性和规范适配 截图",
+      "ch08_ss_0100"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch08_script_01",
+    "chapter_id": "ch08",
+    "section_id": "ch08_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "8.1OpenRoads Designer参数化架构",
+    "file_path": "assets/ch08/interactive_html/8.1OpenRoads Designer参数化架构.html",
+    "description": "用于浏览第8章 道路BIM软件的使用的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "keywords": [
+      "8.1OpenRoads Designer参数化架构",
+      "OpenRoads Designer互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "8.1OpenRoads Designer参数化架构怎么看？",
+      "我想看8.1OpenRoads Designer参数化架构。",
+      "第8章 道路BIM软件的使用互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  },
+  {
+    "resource_id": "ch08_script_02",
+    "chapter_id": "ch08",
+    "section_id": "ch08_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "8.2ORD软件功能总览与道路设计流程",
+    "file_path": "assets/ch08/interactive_html/8.2ORD软件功能总览与道路设计流程.html",
+    "description": "用于浏览第8章 道路BIM软件的使用的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch08_architecture",
+      "kp_ch08_geometry_rules",
+      "kp_ch08_template_logic"
+    ],
+    "keywords": [
+      "8.2ORD软件功能总览与道路设计流程",
+      "OpenRoads Designer互动脚本",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "8.2ORD软件功能总览与道路设计流程怎么看？",
+      "我想看8.2ORD软件功能总览与道路设计流程。",
+      "第8章 道路BIM软件的使用互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  }
+]

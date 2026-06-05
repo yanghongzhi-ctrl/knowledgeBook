@@ -1,0 +1,156 @@
+[
+  {
+    "exercise_id": "ex_ch03_001",
+    "chapter_id": "ch03",
+    "section_id": "ch03_ex",
+    "question": "计算机辅助设计的定义是什么？CAD系统有哪些技术特征？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "说明CAD基本定义",
+      "列出精确建模、图纸中心、编辑管理、参数自动化、开放性等特征",
+      "结合道路工程应用说明"
+    ],
+    "grading_rubric": "说明CAD基本定义：2分;列出精确建模、图纸中心、编辑管理、参数自动化、开放性等特征：2分;结合道路工程应用说明：2分",
+    "common_mistakes": [
+      "只回答零散概念",
+      "直接照抄长段",
+      "缺少条目化要点。"
+    ],
+    "feedback_template": "请按教材知识点分条作答，并补充遗漏的核心要点。"
+  },
+  {
+    "exercise_id": "ex_ch03_002",
+    "chapter_id": "ch03",
+    "section_id": "ch03_ex",
+    "question": "现代道路CAD系统的设计理念体现在哪些方面？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "图纸交付成果导向",
+      "几何中线驱动",
+      "工程流程导向功能集成",
+      "智能化与BIM协同演进"
+    ],
+    "grading_rubric": "图纸交付成果导向：2分;几何中线驱动：2分;工程流程导向功能集成：2分;智能化与BIM协同演进：2分",
+    "common_mistakes": [
+      "只回答零散概念",
+      "直接照抄长段",
+      "缺少条目化要点。"
+    ],
+    "feedback_template": "请按教材知识点分条作答，并补充遗漏的核心要点。"
+  },
+  {
+    "exercise_id": "ex_ch03_003",
+    "chapter_id": "ch03",
+    "section_id": "ch03_ex",
+    "question": "路线平面设计中直线型定线方法和曲线型定线方法的特点和区别是什么？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "说明直线型以交点和切线为主",
+      "说明曲线型以曲线单元连接为主",
+      "从适用场景和计算重点比较"
+    ],
+    "grading_rubric": "说明直线型以交点和切线为主：2分;说明曲线型以曲线单元连接为主：2分;从适用场景和计算重点比较：2分",
+    "common_mistakes": [
+      "只回答零散概念",
+      "直接照抄长段",
+      "缺少条目化要点。"
+    ],
+    "feedback_template": "请按教材知识点分条作答，并补充遗漏的核心要点。"
+  },
+  {
+    "exercise_id": "ex_ch03_004",
+    "chapter_id": "ch03",
+    "section_id": "ch03_ex",
+    "question": "平面CAD系统中，人机分工的基本原则是什么？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "人负责设计判断和方案控制",
+      "计算机负责计算、绘图和检查",
+      "强调交互协同"
+    ],
+    "grading_rubric": "人负责设计判断和方案控制：2分;计算机负责计算、绘图和检查：2分;强调交互协同：2分",
+    "common_mistakes": [
+      "只回答零散概念",
+      "直接照抄长段",
+      "缺少条目化要点。"
+    ],
+    "feedback_template": "请按教材知识点分条作答，并补充遗漏的核心要点。"
+  },
+  {
+    "exercise_id": "ex_ch03_005",
+    "chapter_id": "ch03",
+    "section_id": "ch03_ex",
+    "question": "纵断面CAD系统应该具备哪些功能？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "控制条件查询检查",
+      "辅助信息支持",
+      "交互拉坡修改",
+      "整体和局部优化",
+      "成果输出"
+    ],
+    "grading_rubric": "控制条件查询检查：2分;辅助信息支持：2分;交互拉坡修改：2分;整体和局部优化：2分;成果输出：2分",
+    "common_mistakes": [
+      "只回答零散概念",
+      "直接照抄长段",
+      "缺少条目化要点。"
+    ],
+    "feedback_template": "请按教材知识点分条作答，并补充遗漏的核心要点。"
+  },
+  {
+    "exercise_id": "ex_ch03_006",
+    "chapter_id": "ch03",
+    "section_id": "ch03_ex",
+    "question": "横断面CAD系统应该具备哪些功能？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "模板定义和设计策略",
+      "自动戴帽",
+      "交互修改",
+      "超高计算",
+      "土石方计算与调配",
+      "成果输出"
+    ],
+    "grading_rubric": "模板定义和设计策略：2分;自动戴帽：2分;交互修改：2分;超高计算：2分;土石方计算与调配：2分;成果输出：2分",
+    "common_mistakes": [
+      "只回答零散概念",
+      "直接照抄长段",
+      "缺少条目化要点。"
+    ],
+    "feedback_template": "请按教材知识点分条作答，并补充遗漏的核心要点。"
+  },
+  {
+    "exercise_id": "ex_ch03_007",
+    "chapter_id": "ch03",
+    "section_id": "ch03_ex",
+    "question": "超高设计与计算的主要内容是什么？",
+    "question_type": "short_answer",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "确定超高值",
+      "选择旋转方式",
+      "确定过渡段长度",
+      "计算特征点高程或抬高值"
+    ],
+    "grading_rubric": "确定超高值：2分;选择旋转方式：2分;确定过渡段长度：2分;计算特征点高程或抬高值：2分",
+    "common_mistakes": [
+      "只回答零散概念",
+      "直接照抄长段",
+      "缺少条目化要点。"
+    ],
+    "feedback_template": "请按教材知识点分条作答，并补充遗漏的核心要点。"
+  }
+]

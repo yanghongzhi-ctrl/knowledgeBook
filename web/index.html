@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>道路工程数字化设计 AI 学习助手</title>
+    <link rel="stylesheet" href="./styles.css?v=20260604c" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">R</div>
+          <div>
+            <h1>道路工程数字化设计</h1>
+            <p>AI 学习助手</p>
+          </div>
+        </div>
+
+        <section class="panel chapter-panel">
+          <h2>章节</h2>
+          <button class="chapter active" type="button" data-chapter="ch01">
+            <span>第 1 章</span>
+            <strong>数字化设计概述</strong>
+          </button>
+          <button class="chapter" type="button" data-chapter="ch02">
+            <span>第 2 章</span>
+            <strong>图形原理与三维表达</strong>
+          </button>
+        </section>
+
+        <section id="questionBankPanel" class="panel question-bank-panel compact">
+          <div class="section-head">
+            <div>
+              <h2>学习路径</h2>
+              <span id="questionBankCount">0</span>
+            </div>
+            <button id="questionBankToggle" class="text-button" type="button">展开</button>
+          </div>
+          <div id="questionBankTools" class="question-bank-tools" hidden>
+            <div id="questionTabs" class="question-tabs">
+              <button class="active" type="button" data-question-filter="all">全部</button>
+              <button type="button" data-question-filter="核心概念">概念</button>
+              <button type="button" data-question-filter="系统功能">功能</button>
+              <button type="button" data-question-filter="设计流程">流程</button>
+              <button type="button" data-question-filter="易混辨析">辨析</button>
+              <button type="button" data-question-filter="资源学习">资源</button>
+            </div>
+            <input id="questionSearch" class="question-search" type="search" placeholder="筛选问题" />
+          </div>
+          <div id="questionBank" class="question-bank empty">题库加载中</div>
+        </section>
+
+        <section class="panel history-panel">
+          <div class="section-head">
+            <h2>最近提问</h2>
+            <button id="clearHistory" class="text-button" type="button">清空</button>
+          </div>
+          <div id="historyList" class="history-list empty">暂无历史</div>
+        </section>
+
+        <details class="panel dev-settings">
+          <summary>高级设置</summary>
+          <div class="dev-block">
+            <label class="field-label" for="apiBase">API</label>
+            <input id="apiBase" type="url" value="http://127.0.0.1:8768" />
+          </div>
+
+          <div class="dev-block">
+            <h3>检索模式</h3>
+            <label class="mode-option">
+              <input type="radio" name="mode" value="keyword" />
+              <span>
+                <strong>关键词</strong>
+                <small>答案卡优先</small>
+              </span>
+            </label>
+            <label class="mode-option">
+              <input type="radio" name="mode" value="vectors" />
+              <span>
+                <strong>本地混合</strong>
+                <small>JSON 向量缓存</small>
+              </span>
+            </label>
+            <label class="mode-option">
+              <input type="radio" name="mode" value="db" checked />
+              <span>
+                <strong>pgvector</strong>
+                <small>PostgreSQL + bge-m3</small>
+              </span>
+            </label>
+          </div>
+
+          <div class="dev-block status-panel">
+            <h3>服务状态</h3>
+            <div id="serviceStatus" class="status-row pending">
+              <span></span>
+              <strong>检测中</strong>
+            </div>
+            <dl class="mini-stats">
+              <div>
+                <dt>答案卡</dt>
+                <dd id="statAnswers">-</dd>
+              </div>
+              <div>
+                <dt>测试题</dt>
+                <dd id="statQa">-</dd>
+              </div>
+              <div>
+                <dt>资源</dt>
+                <dd id="statResources">-</dd>
+              </div>
+            </dl>
+          </div>
+        </details>
+      </aside>
+
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <h2>学习工作台</h2>
+            <p>问答 · 图表 · 互动脚本</p>
+          </div>
+        </header>
+
+        <section class="ask-panel">
+          <label for="questionInput">问题</label>
+          <div class="ask-row">
+            <textarea id="questionInput" rows="3">数字孪生为什么强调虚实闭环？</textarea>
+            <button id="askButton" type="button">提问</button>
+          </div>
+          <div class="examples" id="examples"></div>
+        </section>
+
+        <section id="answerPanel" class="answer-panel">
+          <div class="answer-head">
+            <div>
+              <span id="answerId" class="answer-id">等待提问</span>
+              <h2 id="answerTitle">答案将在这里显示</h2>
+            </div>
+            <div id="confidence" class="confidence">-</div>
+          </div>
+          <div id="answerBody" class="answer-body empty">
+            选择左侧问题或直接输入问题。
+          </div>
+        </section>
+      </section>
+
+      <aside class="inspector">
+        <section class="panel resource-panel">
+          <div class="section-head">
+            <h2>相关学习资源</h2>
+            <span id="resourceCount">0</span>
+          </div>
+          <div id="resources" class="resource-list empty">暂无推荐资源</div>
+        </section>
+
+        <details class="panel resource-library">
+          <summary>本章资源库</summary>
+          <div class="section-head">
+            <h2>资源筛选</h2>
+            <button id="refreshChapterResources" class="text-button" type="button">刷新</button>
+          </div>
+          <div id="resourceTabs" class="resource-tabs">
+            <button class="active" type="button" data-resource-filter="all">全部</button>
+            <button type="button" data-resource-filter="image">图</button>
+            <button type="button" data-resource-filter="formula">式</button>
+            <button type="button" data-resource-filter="table">表</button>
+            <button type="button" data-resource-filter="interactive_html">互动</button>
+          </div>
+          <div id="chapterResources" class="resource-list empty">暂无资源</div>
+        </details>
+
+        <details class="panel operation-library" open>
+          <summary>本章操作任务</summary>
+          <div class="section-head">
+            <div>
+              <h2>任务浏览</h2>
+              <span id="operationTaskCount">0</span>
+            </div>
+            <button id="refreshOperationTasks" class="text-button" type="button">刷新</button>
+          </div>
+          <div id="operationTasks" class="operation-list empty">暂无操作任务</div>
+          <div id="operationTaskDetail" class="operation-detail empty">选择任务后查看步骤</div>
+        </details>
+
+        <section class="panel feedback-panel">
+          <div class="section-head">
+            <h2>学习反馈</h2>
+            <span id="feedbackStatus">未保存</span>
+          </div>
+          <div class="feedback-actions">
+            <button type="button" data-feedback="useful">有用</button>
+            <button type="button" data-feedback="needs_fix">需修订</button>
+            <button type="button" data-feedback="unclear">不清楚</button>
+          </div>
+          <textarea id="feedbackNote" class="feedback-note" rows="3" placeholder="记录疑问或资源建议"></textarea>
+          <div class="button-row">
+            <button id="saveFeedback" class="secondary-button" type="button">保存</button>
+            <button id="exportFeedback" class="secondary-button plain" type="button">导出</button>
+          </div>
+        </section>
+
+        <details class="panel debug-panel">
+          <summary>高级信息</summary>
+          <section>
+            <div class="section-head">
+              <h2>答案依据</h2>
+              <span id="detailId">-</span>
+            </div>
+            <div id="cardDetail" class="detail-box empty">暂无答案卡详情</div>
+          </section>
+
+          <section>
+            <div class="section-head">
+              <h2>召回结果</h2>
+              <span id="hitCount">0</span>
+            </div>
+            <div id="hits" class="hit-list empty">暂无召回结果</div>
+          </section>
+
+          <section>
+            <div class="section-head">
+              <h2>评测记录</h2>
+              <button id="refreshEval" class="text-button" type="button">刷新</button>
+            </div>
+            <div id="evalRuns" class="eval-list empty">暂无评测记录</div>
+            <div id="failureList" class="failure-list empty">暂无失败样例</div>
+          </section>
+
+          <section class="trace-panel">
+            <div class="section-head">
+              <h2>检索过程</h2>
+              <span id="retrieverName">-</span>
+            </div>
+            <pre id="traceBox">等待检索</pre>
+          </section>
+        </details>
+      </aside>
+    </main>
+
+    <script src="./app.js?v=20260604c"></script>
+  </body>
+</html>

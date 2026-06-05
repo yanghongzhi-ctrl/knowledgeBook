@@ -1,0 +1,122 @@
+{
+  "ch04": {
+    "raw_path": "data/raw/ch04/第4章_道路BIM正向设计的原理与方法_知识库_v1.0完备版.json",
+    "applied": [
+      {
+        "resource_id": "res_ch04_003",
+        "title": "图4-2 设计范式的四要素",
+        "file_path": "assets/ch04/images/res_ch04_003.png",
+        "html": "assets/ch04/interactive_html/4.4道路BIM正向设计理念.html",
+        "source_label": "DATA.tab1.image",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "resource_id": "res_ch04_004",
+        "title": "图4-3 设计范式的演变过程",
+        "file_path": "assets/ch04/images/res_ch04_004.png",
+        "html": "assets/ch04/interactive_html/4.4道路BIM正向设计理念.html",
+        "source_label": "DATA.tab2.image",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "resource_id": "res_ch04_005",
+        "title": "图4-4 道路BIM正向设计流程",
+        "file_path": "assets/ch04/images/res_ch04_005.png",
+        "html": "assets/ch04/interactive_html/4.4道路BIM正向设计理念.html",
+        "source_label": "DATA.tab3.image",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "resource_id": "res_ch04_006",
+        "title": "图4-5 构件层级体系及信息构成模型",
+        "file_path": "assets/ch04/images/res_ch04_006.png",
+        "html": "assets/ch04/interactive_html/4.5道路BIM构件体系.html",
+        "source_label": "slides[1].image",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "resource_id": "res_ch04_008",
+        "title": "图4-6 PRR动态驱动机制",
+        "file_path": "assets/ch04/images/res_ch04_008.png",
+        "html": "assets/ch04/interactive_html/4.6BIM中的参数-规则-结果机制_PPR.html",
+        "source_label": "img[alt=PRR main]",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "resource_id": "res_ch04_009",
+        "title": "图4-8 参数化建模的应用模式",
+        "file_path": "assets/ch04/images/res_ch04_009.png",
+        "html": "assets/ch04/interactive_html/4.7道路BIM参数化建模应用模式.html",
+        "source_label": "img[alt=parameterized mode]",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "resource_id": "res_ch04_010",
+        "title": "成果交付流程示意",
+        "file_path": "assets/ch04/images/res_ch04_010.png",
+        "html": "assets/ch04/interactive_html/4.8道路BIM正向设计成果表达与交付.html",
+        "source_label": "img[alt=delivery main]",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "skipped": [
+      {
+        "resource_id": "res_ch04_011",
+        "reason": "4.8脚本仅提供一张成果表达与交付综合主图，未发现可独立支撑CDE协同交付的静态图片。"
+      },
+      {
+        "resource_id": "res_ch04_012",
+        "reason": "4.8脚本仅提供一张成果表达与交付综合主图，未发现可独立支撑LOD与LOI阶段适配的静态图片。"
+      }
+    ]
+  },
+  "ch05": {
+    "raw_path": "data/raw/ch05/第5章_GIS理论基础与空间分析方法_知识库_v1.0完备版.json",
+    "applied": [
+      {
+        "resource_id": "fig_5_3",
+        "title": "GIS技术流程与功能模块",
+        "file_path": "assets/ch05/images/fig_5_3.png",
+        "html": "assets/ch05/interactive_html/5.2GIS技术流程与数据流转.html",
+        "source_label": "IMG.data",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      },
+      {
+        "resource_id": "fig_5_15",
+        "title": "地表曲率图",
+        "file_path": "assets/ch05/images/fig_5_15.png",
+        "html": "assets/ch05/interactive_html/5.8数字地形与视域分析基础及道路应用.html",
+        "source_label": "THEORY.curvature.image",
+        "size": {
+          "width": 1672,
+          "height": 941
+        }
+      }
+    ],
+    "skipped": []
+  }
+}

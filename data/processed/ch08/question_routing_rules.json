@@ -1,0 +1,16 @@
+[
+  {
+    "pattern": "如何/怎么/步骤/操作",
+    "target_table": "Operation_Tasks",
+    "answer_mode": "step",
+    "description": "操作任务优先",
+    "routing_id": "ch08_route_001"
+  },
+  {
+    "pattern": "失败/不显示/报错/结果不对",
+    "target_table": "Common_Errors",
+    "answer_mode": "troubleshoot",
+    "description": "错误排查优先",
+    "routing_id": "ch08_route_002"
+  }
+]

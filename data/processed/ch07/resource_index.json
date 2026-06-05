@@ -1,0 +1,2230 @@
+[
+  {
+    "resource_id": "ch07_vid_001",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "video",
+    "title": "纬地项目管理与数模建立",
+    "file_path": "chapter_07/videos/ch07_vid_001.mp4",
+    "related_tasks": "ch07_task_001；ch07_task_002；ch07_task_003；ch07_task_004；ch07_task_005；ch07_task_006",
+    "qa_use": "学生询问纬地项目管理与数模建立相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "纬地项目管理与数模建立"
+    ],
+    "reference_aliases": [
+      "纬地项目管理与数模建立",
+      "ch07_vid_001"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_002",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "video",
+    "title": "EICAD项目管理与数模建立",
+    "file_path": "chapter_07/videos/ch07_vid_002.mp4",
+    "related_tasks": "ch07_task_007；ch07_task_008；ch07_task_009；ch07_task_010",
+    "qa_use": "学生询问EICAD项目管理与数模建立相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD项目管理与数模建立"
+    ],
+    "reference_aliases": [
+      "EICAD项目管理与数模建立",
+      "ch07_vid_002"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_003",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "video",
+    "title": "纬地路线平面设计",
+    "file_path": "chapter_07/videos/ch07_vid_003.mp4",
+    "related_tasks": "ch07_task_011；ch07_task_012；ch07_task_013；ch07_task_014；ch07_task_015；ch07_task_016；ch07_task_017；ch07_task_018",
+    "qa_use": "学生询问纬地路线平面设计相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "纬地路线平面设计"
+    ],
+    "reference_aliases": [
+      "纬地路线平面设计",
+      "ch07_vid_003"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_004",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "video",
+    "title": "EICAD积木法与模式法平面设计",
+    "file_path": "chapter_07/videos/ch07_vid_004.mp4",
+    "related_tasks": "ch07_task_019；ch07_task_020；ch07_task_021；ch07_task_022；ch07_task_023；ch07_task_024",
+    "qa_use": "学生询问EICAD积木法与模式法平面设计相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD积木法与模式法平面设计"
+    ],
+    "reference_aliases": [
+      "EICAD积木法与模式法平面设计",
+      "ch07_vid_004"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_005",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "video",
+    "title": "纬地纵断面交互拉坡",
+    "file_path": "chapter_07/videos/ch07_vid_005.mp4",
+    "related_tasks": "ch07_task_025；ch07_task_026；ch07_task_027；ch07_task_028；ch07_task_029；ch07_task_030；ch07_task_031",
+    "qa_use": "学生询问纬地纵断面交互拉坡相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "纬地纵断面交互拉坡"
+    ],
+    "reference_aliases": [
+      "纬地纵断面交互拉坡",
+      "ch07_vid_005"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_006",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "video",
+    "title": "EICAD纵断面自动与手工拉坡",
+    "file_path": "chapter_07/videos/ch07_vid_006.mp4",
+    "related_tasks": "ch07_task_032；ch07_task_033；ch07_task_034；ch07_task_035；ch07_task_036",
+    "qa_use": "学生询问EICAD纵断面自动与手工拉坡相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD纵断面自动与手工拉坡"
+    ],
+    "reference_aliases": [
+      "EICAD纵断面自动与手工拉坡",
+      "ch07_vid_006"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_007",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "video",
+    "title": "纬地横断面设计与戴帽",
+    "file_path": "chapter_07/videos/ch07_vid_007.mp4",
+    "related_tasks": "ch07_task_037；ch07_task_038；ch07_task_039；ch07_task_040；ch07_task_041；ch07_task_042；ch07_task_043；ch07_task_044",
+    "qa_use": "学生询问纬地横断面设计与戴帽相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "纬地横断面设计与戴帽"
+    ],
+    "reference_aliases": [
+      "纬地横断面设计与戴帽",
+      "ch07_vid_007"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_008",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "video",
+    "title": "EICAD横断面模板与土石方调配",
+    "file_path": "chapter_07/videos/ch07_vid_008.mp4",
+    "related_tasks": "ch07_task_045；ch07_task_046；ch07_task_047；ch07_task_048；ch07_task_049；ch07_task_050；ch07_task_051；ch07_task_052",
+    "qa_use": "学生询问EICAD横断面模板与土石方调配相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD横断面模板与土石方调配"
+    ],
+    "reference_aliases": [
+      "EICAD横断面模板与土石方调配",
+      "ch07_vid_008"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_009",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec05",
+    "resource_type": "video",
+    "title": "成果图表模板与批量输出",
+    "file_path": "chapter_07/videos/ch07_vid_009.mp4",
+    "related_tasks": "ch07_task_054；ch07_task_055；ch07_task_056；ch07_task_057；ch07_task_058；ch07_task_059；ch07_task_060",
+    "qa_use": "学生询问成果图表模板与批量输出相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "成果图表模板与批量输出"
+    ],
+    "reference_aliases": [
+      "成果图表模板与批量输出",
+      "ch07_vid_009"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_vid_010",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec00",
+    "resource_type": "video",
+    "title": "第七章综合实训流程",
+    "file_path": "chapter_07/videos/ch07_vid_010.mp4",
+    "related_tasks": "",
+    "qa_use": "学生询问第七章综合实训流程相关步骤时推荐该视频。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "第七章综合实训流程"
+    ],
+    "reference_aliases": [
+      "第七章综合实训流程",
+      "ch07_vid_010"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_001_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "新建纬地项目截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_001_01.png",
+    "related_tasks": "ch07_task_001",
+    "qa_use": "学生询问新建纬地项目截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建纬地项目截图1"
+    ],
+    "reference_aliases": [
+      "新建纬地项目截图1",
+      "ch07_shot_001_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_001_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "新建纬地项目截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_001_02.png",
+    "related_tasks": "ch07_task_001",
+    "qa_use": "学生询问新建纬地项目截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建纬地项目截图2"
+    ],
+    "reference_aliases": [
+      "新建纬地项目截图2",
+      "ch07_shot_001_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_002_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "查看与维护项目管理器截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_002_01.png",
+    "related_tasks": "ch07_task_002",
+    "qa_use": "学生询问查看与维护项目管理器截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "查看与维护项目管理器截图1"
+    ],
+    "reference_aliases": [
+      "查看与维护项目管理器截图1",
+      "ch07_shot_002_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_002_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "查看与维护项目管理器截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_002_02.png",
+    "related_tasks": "ch07_task_002",
+    "qa_use": "学生询问查看与维护项目管理器截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "查看与维护项目管理器截图2"
+    ],
+    "reference_aliases": [
+      "查看与维护项目管理器截图2",
+      "ch07_shot_002_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_003_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "导入DWG/DXF高程数据截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_003_01.png",
+    "related_tasks": "ch07_task_003",
+    "qa_use": "学生询问导入DWG/DXF高程数据截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入DWG/DXF高程数据截图1"
+    ],
+    "reference_aliases": [
+      "导入DWG/DXF高程数据截图1",
+      "ch07_shot_003_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_003_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "导入DWG/DXF高程数据截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_003_02.png",
+    "related_tasks": "ch07_task_003",
+    "qa_use": "学生询问导入DWG/DXF高程数据截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入DWG/DXF高程数据截图2"
+    ],
+    "reference_aliases": [
+      "导入DWG/DXF高程数据截图2",
+      "ch07_shot_003_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_004_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "设置等高线与高程点类型截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_004_01.png",
+    "related_tasks": "ch07_task_004",
+    "qa_use": "学生询问设置等高线与高程点类型截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设置等高线与高程点类型截图1"
+    ],
+    "reference_aliases": [
+      "设置等高线与高程点类型截图1",
+      "ch07_shot_004_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_004_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "设置等高线与高程点类型截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_004_02.png",
+    "related_tasks": "ch07_task_004",
+    "qa_use": "学生询问设置等高线与高程点类型截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设置等高线与高程点类型截图2"
+    ],
+    "reference_aliases": [
+      "设置等高线与高程点类型截图2",
+      "ch07_shot_004_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_005_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "三角构网并保存数模截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_005_01.png",
+    "related_tasks": "ch07_task_005",
+    "qa_use": "学生询问三角构网并保存数模截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "三角构网并保存数模截图1"
+    ],
+    "reference_aliases": [
+      "三角构网并保存数模截图1",
+      "ch07_shot_005_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_005_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "三角构网并保存数模截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_005_02.png",
+    "related_tasks": "ch07_task_005",
+    "qa_use": "学生询问三角构网并保存数模截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "三角构网并保存数模截图2"
+    ],
+    "reference_aliases": [
+      "三角构网并保存数模截图2",
+      "ch07_shot_005_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_006_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "优化数模边界和三角网截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_006_01.png",
+    "related_tasks": "ch07_task_006",
+    "qa_use": "学生询问优化数模边界和三角网截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "优化数模边界和三角网截图1"
+    ],
+    "reference_aliases": [
+      "优化数模边界和三角网截图1",
+      "ch07_shot_006_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_006_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "优化数模边界和三角网截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_006_02.png",
+    "related_tasks": "ch07_task_006",
+    "qa_use": "学生询问优化数模边界和三角网截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "优化数模边界和三角网截图2"
+    ],
+    "reference_aliases": [
+      "优化数模边界和三角网截图2",
+      "ch07_shot_006_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_007_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "新建EICAD项目截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_007_01.png",
+    "related_tasks": "ch07_task_007",
+    "qa_use": "学生询问新建EICAD项目截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建EICAD项目截图1"
+    ],
+    "reference_aliases": [
+      "新建EICAD项目截图1",
+      "ch07_shot_007_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_007_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "新建EICAD项目截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_007_02.png",
+    "related_tasks": "ch07_task_007",
+    "qa_use": "学生询问新建EICAD项目截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "新建EICAD项目截图2"
+    ],
+    "reference_aliases": [
+      "新建EICAD项目截图2",
+      "ch07_shot_007_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_008_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "导入或打开项目数据截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_008_01.png",
+    "related_tasks": "ch07_task_008",
+    "qa_use": "学生询问导入或打开项目数据截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或打开项目数据截图1"
+    ],
+    "reference_aliases": [
+      "导入或打开项目数据截图1",
+      "ch07_shot_008_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_008_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "导入或打开项目数据截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_008_02.png",
+    "related_tasks": "ch07_task_008",
+    "qa_use": "学生询问导入或打开项目数据截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "导入或打开项目数据截图2"
+    ],
+    "reference_aliases": [
+      "导入或打开项目数据截图2",
+      "ch07_shot_008_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_009_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "点选方式建立数模截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_009_01.png",
+    "related_tasks": "ch07_task_009",
+    "qa_use": "学生询问点选方式建立数模截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "点选方式建立数模截图1"
+    ],
+    "reference_aliases": [
+      "点选方式建立数模截图1",
+      "ch07_shot_009_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_009_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "点选方式建立数模截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_009_02.png",
+    "related_tasks": "ch07_task_009",
+    "qa_use": "学生询问点选方式建立数模截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "点选方式建立数模截图2"
+    ],
+    "reference_aliases": [
+      "点选方式建立数模截图2",
+      "ch07_shot_009_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_010_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "排除高程异常并优化数模截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_010_01.png",
+    "related_tasks": "ch07_task_010",
+    "qa_use": "学生询问排除高程异常并优化数模截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "排除高程异常并优化数模截图1"
+    ],
+    "reference_aliases": [
+      "排除高程异常并优化数模截图1",
+      "ch07_shot_010_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_010_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec01",
+    "resource_type": "screenshot",
+    "title": "排除高程异常并优化数模截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_010_02.png",
+    "related_tasks": "ch07_task_010",
+    "qa_use": "学生询问排除高程异常并优化数模截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "排除高程异常并优化数模截图2"
+    ],
+    "reference_aliases": [
+      "排除高程异常并优化数模截图2",
+      "ch07_shot_010_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_011_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "直线型交点法平面定线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_011_01.png",
+    "related_tasks": "ch07_task_011",
+    "qa_use": "学生询问直线型交点法平面定线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "直线型交点法平面定线截图1"
+    ],
+    "reference_aliases": [
+      "直线型交点法平面定线截图1",
+      "ch07_shot_011_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_011_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "直线型交点法平面定线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_011_02.png",
+    "related_tasks": "ch07_task_011",
+    "qa_use": "学生询问直线型交点法平面定线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "直线型交点法平面定线截图2"
+    ],
+    "reference_aliases": [
+      "直线型交点法平面定线截图2",
+      "ch07_shot_011_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_012_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "修改平曲线参数截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_012_01.png",
+    "related_tasks": "ch07_task_012",
+    "qa_use": "学生询问修改平曲线参数截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "修改平曲线参数截图1"
+    ],
+    "reference_aliases": [
+      "修改平曲线参数截图1",
+      "ch07_shot_012_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_012_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "修改平曲线参数截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_012_02.png",
+    "related_tasks": "ch07_task_012",
+    "qa_use": "学生询问修改平曲线参数截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "修改平曲线参数截图2"
+    ],
+    "reference_aliases": [
+      "修改平曲线参数截图2",
+      "ch07_shot_012_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_013_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "设计S型曲线组合截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_013_01.png",
+    "related_tasks": "ch07_task_013",
+    "qa_use": "学生询问设计S型曲线组合截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设计S型曲线组合截图1"
+    ],
+    "reference_aliases": [
+      "设计S型曲线组合截图1",
+      "ch07_shot_013_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_013_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "设计S型曲线组合截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_013_02.png",
+    "related_tasks": "ch07_task_013",
+    "qa_use": "学生询问设计S型曲线组合截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设计S型曲线组合截图2"
+    ],
+    "reference_aliases": [
+      "设计S型曲线组合截图2",
+      "ch07_shot_013_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_014_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "设计卵形曲线组合截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_014_01.png",
+    "related_tasks": "ch07_task_014",
+    "qa_use": "学生询问设计卵形曲线组合截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设计卵形曲线组合截图1"
+    ],
+    "reference_aliases": [
+      "设计卵形曲线组合截图1",
+      "ch07_shot_014_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_014_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "设计卵形曲线组合截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_014_02.png",
+    "related_tasks": "ch07_task_014",
+    "qa_use": "学生询问设计卵形曲线组合截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设计卵形曲线组合截图2"
+    ],
+    "reference_aliases": [
+      "设计卵形曲线组合截图2",
+      "ch07_shot_014_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_015_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "设计C型曲线与回头曲线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_015_01.png",
+    "related_tasks": "ch07_task_015",
+    "qa_use": "学生询问设计C型曲线与回头曲线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设计C型曲线与回头曲线截图1"
+    ],
+    "reference_aliases": [
+      "设计C型曲线与回头曲线截图1",
+      "ch07_shot_015_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_015_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "设计C型曲线与回头曲线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_015_02.png",
+    "related_tasks": "ch07_task_015",
+    "qa_use": "学生询问设计C型曲线与回头曲线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "设计C型曲线与回头曲线截图2"
+    ],
+    "reference_aliases": [
+      "设计C型曲线与回头曲线截图2",
+      "ch07_shot_015_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_016_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "互通匝道文件控制接线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_016_01.png",
+    "related_tasks": "ch07_task_016",
+    "qa_use": "学生询问互通匝道文件控制接线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "互通匝道文件控制接线截图1"
+    ],
+    "reference_aliases": [
+      "互通匝道文件控制接线截图1",
+      "ch07_shot_016_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_016_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "互通匝道文件控制接线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_016_02.png",
+    "related_tasks": "ch07_task_016",
+    "qa_use": "学生询问互通匝道文件控制接线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "互通匝道文件控制接线截图2"
+    ],
+    "reference_aliases": [
+      "互通匝道文件控制接线截图2",
+      "ch07_shot_016_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_017_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "互通匝道圆+缓+直接线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_017_01.png",
+    "related_tasks": "ch07_task_017",
+    "qa_use": "学生询问互通匝道圆+缓+直接线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "互通匝道圆+缓+直接线截图1"
+    ],
+    "reference_aliases": [
+      "互通匝道圆+缓+直接线截图1",
+      "ch07_shot_017_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_017_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "互通匝道圆+缓+直接线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_017_02.png",
+    "related_tasks": "ch07_task_017",
+    "qa_use": "学生询问互通匝道圆+缓+直接线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "互通匝道圆+缓+直接线截图2"
+    ],
+    "reference_aliases": [
+      "互通匝道圆+缓+直接线截图2",
+      "ch07_shot_017_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_018_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "积木法构造匝道线形截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_018_01.png",
+    "related_tasks": "ch07_task_018",
+    "qa_use": "学生询问积木法构造匝道线形截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "积木法构造匝道线形截图1"
+    ],
+    "reference_aliases": [
+      "积木法构造匝道线形截图1",
+      "ch07_shot_018_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_018_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "积木法构造匝道线形截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_018_02.png",
+    "related_tasks": "ch07_task_018",
+    "qa_use": "学生询问积木法构造匝道线形截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "积木法构造匝道线形截图2"
+    ],
+    "reference_aliases": [
+      "积木法构造匝道线形截图2",
+      "ch07_shot_018_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_019_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "EICAD直线单元设计截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_019_01.png",
+    "related_tasks": "ch07_task_019",
+    "qa_use": "学生询问EICAD直线单元设计截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD直线单元设计截图1"
+    ],
+    "reference_aliases": [
+      "EICAD直线单元设计截图1",
+      "ch07_shot_019_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_019_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "EICAD直线单元设计截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_019_02.png",
+    "related_tasks": "ch07_task_019",
+    "qa_use": "学生询问EICAD直线单元设计截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD直线单元设计截图2"
+    ],
+    "reference_aliases": [
+      "EICAD直线单元设计截图2",
+      "ch07_shot_019_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_020_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "EICAD圆曲线单元设计截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_020_01.png",
+    "related_tasks": "ch07_task_020",
+    "qa_use": "学生询问EICAD圆曲线单元设计截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD圆曲线单元设计截图1"
+    ],
+    "reference_aliases": [
+      "EICAD圆曲线单元设计截图1",
+      "ch07_shot_020_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_020_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "EICAD圆曲线单元设计截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_020_02.png",
+    "related_tasks": "ch07_task_020",
+    "qa_use": "学生询问EICAD圆曲线单元设计截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD圆曲线单元设计截图2"
+    ],
+    "reference_aliases": [
+      "EICAD圆曲线单元设计截图2",
+      "ch07_shot_020_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_021_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "EICAD缓和曲线单元设计截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_021_01.png",
+    "related_tasks": "ch07_task_021",
+    "qa_use": "学生询问EICAD缓和曲线单元设计截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD缓和曲线单元设计截图1"
+    ],
+    "reference_aliases": [
+      "EICAD缓和曲线单元设计截图1",
+      "ch07_shot_021_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_021_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "EICAD缓和曲线单元设计截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_021_02.png",
+    "related_tasks": "ch07_task_021",
+    "qa_use": "学生询问EICAD缓和曲线单元设计截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "EICAD缓和曲线单元设计截图2"
+    ],
+    "reference_aliases": [
+      "EICAD缓和曲线单元设计截图2",
+      "ch07_shot_021_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_022_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "连接两缓和曲线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_022_01.png",
+    "related_tasks": "ch07_task_022",
+    "qa_use": "学生询问连接两缓和曲线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "连接两缓和曲线截图1"
+    ],
+    "reference_aliases": [
+      "连接两缓和曲线截图1",
+      "ch07_shot_022_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_022_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "连接两缓和曲线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_022_02.png",
+    "related_tasks": "ch07_task_022",
+    "qa_use": "学生询问连接两缓和曲线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "连接两缓和曲线截图2"
+    ],
+    "reference_aliases": [
+      "连接两缓和曲线截图2",
+      "ch07_shot_022_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_023_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "基本模式法圆圆模式设计截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_023_01.png",
+    "related_tasks": "ch07_task_023",
+    "qa_use": "学生询问基本模式法圆圆模式设计截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "基本模式法圆圆模式设计截图1"
+    ],
+    "reference_aliases": [
+      "基本模式法圆圆模式设计截图1",
+      "ch07_shot_023_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_023_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "基本模式法圆圆模式设计截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_023_02.png",
+    "related_tasks": "ch07_task_023",
+    "qa_use": "学生询问基本模式法圆圆模式设计截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "基本模式法圆圆模式设计截图2"
+    ],
+    "reference_aliases": [
+      "基本模式法圆圆模式设计截图2",
+      "ch07_shot_023_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_024_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "扩展模式法立交匝道设计截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_024_01.png",
+    "related_tasks": "ch07_task_024",
+    "qa_use": "学生询问扩展模式法立交匝道设计截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "扩展模式法立交匝道设计截图1"
+    ],
+    "reference_aliases": [
+      "扩展模式法立交匝道设计截图1",
+      "ch07_shot_024_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_024_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec02",
+    "resource_type": "screenshot",
+    "title": "扩展模式法立交匝道设计截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_024_02.png",
+    "related_tasks": "ch07_task_024",
+    "qa_use": "学生询问扩展模式法立交匝道设计截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "扩展模式法立交匝道设计截图2"
+    ],
+    "reference_aliases": [
+      "扩展模式法立交匝道设计截图2",
+      "ch07_shot_024_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_025_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "生成桩号文件截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_025_01.png",
+    "related_tasks": "ch07_task_025",
+    "qa_use": "学生询问生成桩号文件截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成桩号文件截图1"
+    ],
+    "reference_aliases": [
+      "生成桩号文件截图1",
+      "ch07_shot_025_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_025_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "生成桩号文件截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_025_02.png",
+    "related_tasks": "ch07_task_025",
+    "qa_use": "学生询问生成桩号文件截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成桩号文件截图2"
+    ],
+    "reference_aliases": [
+      "生成桩号文件截图2",
+      "ch07_shot_025_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_026_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "数模内插纵断面地面线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_026_01.png",
+    "related_tasks": "ch07_task_026",
+    "qa_use": "学生询问数模内插纵断面地面线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "数模内插纵断面地面线截图1"
+    ],
+    "reference_aliases": [
+      "数模内插纵断面地面线截图1",
+      "ch07_shot_026_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_026_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "数模内插纵断面地面线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_026_02.png",
+    "related_tasks": "ch07_task_026",
+    "qa_use": "学生询问数模内插纵断面地面线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "数模内插纵断面地面线截图2"
+    ],
+    "reference_aliases": [
+      "数模内插纵断面地面线截图2",
+      "ch07_shot_026_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_027_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "手工输入或修改纵断面地面线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_027_01.png",
+    "related_tasks": "ch07_task_027",
+    "qa_use": "学生询问手工输入或修改纵断面地面线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "手工输入或修改纵断面地面线截图1"
+    ],
+    "reference_aliases": [
+      "手工输入或修改纵断面地面线截图1",
+      "ch07_shot_027_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_027_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "手工输入或修改纵断面地面线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_027_02.png",
+    "related_tasks": "ch07_task_027",
+    "qa_use": "学生询问手工输入或修改纵断面地面线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "手工输入或修改纵断面地面线截图2"
+    ],
+    "reference_aliases": [
+      "手工输入或修改纵断面地面线截图2",
+      "ch07_shot_027_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_028_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "输入桥梁涵洞通道控制点截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_028_01.png",
+    "related_tasks": "ch07_task_028",
+    "qa_use": "学生询问输入桥梁涵洞通道控制点截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入桥梁涵洞通道控制点截图1"
+    ],
+    "reference_aliases": [
+      "输入桥梁涵洞通道控制点截图1",
+      "ch07_shot_028_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_028_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "输入桥梁涵洞通道控制点截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_028_02.png",
+    "related_tasks": "ch07_task_028",
+    "qa_use": "学生询问输入桥梁涵洞通道控制点截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入桥梁涵洞通道控制点截图2"
+    ],
+    "reference_aliases": [
+      "输入桥梁涵洞通道控制点截图2",
+      "ch07_shot_028_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_029_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "创建纵断面拉坡图截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_029_01.png",
+    "related_tasks": "ch07_task_029",
+    "qa_use": "学生询问创建纵断面拉坡图截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建纵断面拉坡图截图1"
+    ],
+    "reference_aliases": [
+      "创建纵断面拉坡图截图1",
+      "ch07_shot_029_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_029_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "创建纵断面拉坡图截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_029_02.png",
+    "related_tasks": "ch07_task_029",
+    "qa_use": "学生询问创建纵断面拉坡图截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建纵断面拉坡图截图2"
+    ],
+    "reference_aliases": [
+      "创建纵断面拉坡图截图2",
+      "ch07_shot_029_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_030_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "交互式设置变坡点截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_030_01.png",
+    "related_tasks": "ch07_task_030",
+    "qa_use": "学生询问交互式设置变坡点截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "交互式设置变坡点截图1"
+    ],
+    "reference_aliases": [
+      "交互式设置变坡点截图1",
+      "ch07_shot_030_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_030_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "交互式设置变坡点截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_030_02.png",
+    "related_tasks": "ch07_task_030",
+    "qa_use": "学生询问交互式设置变坡点截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "交互式设置变坡点截图2"
+    ],
+    "reference_aliases": [
+      "交互式设置变坡点截图2",
+      "ch07_shot_030_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_031_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "修改变坡点与竖曲线半径截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_031_01.png",
+    "related_tasks": "ch07_task_031",
+    "qa_use": "学生询问修改变坡点与竖曲线半径截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "修改变坡点与竖曲线半径截图1"
+    ],
+    "reference_aliases": [
+      "修改变坡点与竖曲线半径截图1",
+      "ch07_shot_031_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_031_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "修改变坡点与竖曲线半径截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_031_02.png",
+    "related_tasks": "ch07_task_031",
+    "qa_use": "学生询问修改变坡点与竖曲线半径截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "修改变坡点与竖曲线半径截图2"
+    ],
+    "reference_aliases": [
+      "修改变坡点与竖曲线半径截图2",
+      "ch07_shot_031_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_032_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "输出纵横地面线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_032_01.png",
+    "related_tasks": "ch07_task_032",
+    "qa_use": "学生询问输出纵横地面线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输出纵横地面线截图1"
+    ],
+    "reference_aliases": [
+      "输出纵横地面线截图1",
+      "ch07_shot_032_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_032_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "输出纵横地面线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_032_02.png",
+    "related_tasks": "ch07_task_032",
+    "qa_use": "学生询问输出纵横地面线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输出纵横地面线截图2"
+    ],
+    "reference_aliases": [
+      "输出纵横地面线截图2",
+      "ch07_shot_032_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_033_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "创建拉坡图截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_033_01.png",
+    "related_tasks": "ch07_task_033",
+    "qa_use": "学生询问创建拉坡图截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建拉坡图截图1"
+    ],
+    "reference_aliases": [
+      "创建拉坡图截图1",
+      "ch07_shot_033_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_033_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "创建拉坡图截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_033_02.png",
+    "related_tasks": "ch07_task_033",
+    "qa_use": "学生询问创建拉坡图截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建拉坡图截图2"
+    ],
+    "reference_aliases": [
+      "创建拉坡图截图2",
+      "ch07_shot_033_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_034_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "输入拉坡控制点截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_034_01.png",
+    "related_tasks": "ch07_task_034",
+    "qa_use": "学生询问输入拉坡控制点截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入拉坡控制点截图1"
+    ],
+    "reference_aliases": [
+      "输入拉坡控制点截图1",
+      "ch07_shot_034_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_034_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "输入拉坡控制点截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_034_02.png",
+    "related_tasks": "ch07_task_034",
+    "qa_use": "学生询问输入拉坡控制点截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入拉坡控制点截图2"
+    ],
+    "reference_aliases": [
+      "输入拉坡控制点截图2",
+      "ch07_shot_034_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_035_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "自动拉坡设计截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_035_01.png",
+    "related_tasks": "ch07_task_035",
+    "qa_use": "学生询问自动拉坡设计截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "自动拉坡设计截图1"
+    ],
+    "reference_aliases": [
+      "自动拉坡设计截图1",
+      "ch07_shot_035_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_035_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "自动拉坡设计截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_035_02.png",
+    "related_tasks": "ch07_task_035",
+    "qa_use": "学生询问自动拉坡设计截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "自动拉坡设计截图2"
+    ],
+    "reference_aliases": [
+      "自动拉坡设计截图2",
+      "ch07_shot_035_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_036_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "手工拉坡与夹点调整截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_036_01.png",
+    "related_tasks": "ch07_task_036",
+    "qa_use": "学生询问手工拉坡与夹点调整截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "手工拉坡与夹点调整截图1"
+    ],
+    "reference_aliases": [
+      "手工拉坡与夹点调整截图1",
+      "ch07_shot_036_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_036_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec03",
+    "resource_type": "screenshot",
+    "title": "手工拉坡与夹点调整截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_036_02.png",
+    "related_tasks": "ch07_task_036",
+    "qa_use": "学生询问手工拉坡与夹点调整截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "手工拉坡与夹点调整截图2"
+    ],
+    "reference_aliases": [
+      "手工拉坡与夹点调整截图2",
+      "ch07_shot_036_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_037_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "输入横断面地面线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_037_01.png",
+    "related_tasks": "ch07_task_037",
+    "qa_use": "学生询问输入横断面地面线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入横断面地面线截图1"
+    ],
+    "reference_aliases": [
+      "输入横断面地面线截图1",
+      "ch07_shot_037_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_037_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "输入横断面地面线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_037_02.png",
+    "related_tasks": "ch07_task_037",
+    "qa_use": "学生询问输入横断面地面线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "输入横断面地面线截图2"
+    ],
+    "reference_aliases": [
+      "输入横断面地面线截图2",
+      "ch07_shot_037_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_038_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "数模内插横断面地面线截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_038_01.png",
+    "related_tasks": "ch07_task_038",
+    "qa_use": "学生询问数模内插横断面地面线截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "数模内插横断面地面线截图1"
+    ],
+    "reference_aliases": [
+      "数模内插横断面地面线截图1",
+      "ch07_shot_038_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_038_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "数模内插横断面地面线截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_038_02.png",
+    "related_tasks": "ch07_task_038",
+    "qa_use": "学生询问数模内插横断面地面线截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "数模内插横断面地面线截图2"
+    ],
+    "reference_aliases": [
+      "数模内插横断面地面线截图2",
+      "ch07_shot_038_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_039_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "运行设计向导定义标准横断面截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_039_01.png",
+    "related_tasks": "ch07_task_039",
+    "qa_use": "学生询问运行设计向导定义标准横断面截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "运行设计向导定义标准横断面截图1"
+    ],
+    "reference_aliases": [
+      "运行设计向导定义标准横断面截图1",
+      "ch07_shot_039_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_039_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "运行设计向导定义标准横断面截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_039_02.png",
+    "related_tasks": "ch07_task_039",
+    "qa_use": "学生询问运行设计向导定义标准横断面截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "运行设计向导定义标准横断面截图2"
+    ],
+    "reference_aliases": [
+      "运行设计向导定义标准横断面截图2",
+      "ch07_shot_039_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_040_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "自动计算超高加宽截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_040_01.png",
+    "related_tasks": "ch07_task_040",
+    "qa_use": "学生询问自动计算超高加宽截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "自动计算超高加宽截图1"
+    ],
+    "reference_aliases": [
+      "自动计算超高加宽截图1",
+      "ch07_shot_040_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_040_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "自动计算超高加宽截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_040_02.png",
+    "related_tasks": "ch07_task_040",
+    "qa_use": "学生询问自动计算超高加宽截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "自动计算超高加宽截图2"
+    ],
+    "reference_aliases": [
+      "自动计算超高加宽截图2",
+      "ch07_shot_040_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_041_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "路基设计计算截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_041_01.png",
+    "related_tasks": "ch07_task_041",
+    "qa_use": "学生询问路基设计计算截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "路基设计计算截图1"
+    ],
+    "reference_aliases": [
+      "路基设计计算截图1",
+      "ch07_shot_041_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_041_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "路基设计计算截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_041_02.png",
+    "related_tasks": "ch07_task_041",
+    "qa_use": "学生询问路基设计计算截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "路基设计计算截图2"
+    ],
+    "reference_aliases": [
+      "路基设计计算截图2",
+      "ch07_shot_041_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_042_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "录入支挡防护工程截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_042_01.png",
+    "related_tasks": "ch07_task_042",
+    "qa_use": "学生询问录入支挡防护工程截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "录入支挡防护工程截图1"
+    ],
+    "reference_aliases": [
+      "录入支挡防护工程截图1",
+      "ch07_shot_042_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_042_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "录入支挡防护工程截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_042_02.png",
+    "related_tasks": "ch07_task_042",
+    "qa_use": "学生询问录入支挡防护工程截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "录入支挡防护工程截图2"
+    ],
+    "reference_aliases": [
+      "录入支挡防护工程截图2",
+      "ch07_shot_042_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_043_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "横断面设计绘图与戴帽截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_043_01.png",
+    "related_tasks": "ch07_task_043",
+    "qa_use": "学生询问横断面设计绘图与戴帽截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "横断面设计绘图与戴帽截图1"
+    ],
+    "reference_aliases": [
+      "横断面设计绘图与戴帽截图1",
+      "ch07_shot_043_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_043_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "横断面设计绘图与戴帽截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_043_02.png",
+    "related_tasks": "ch07_task_043",
+    "qa_use": "学生询问横断面设计绘图与戴帽截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "横断面设计绘图与戴帽截图2"
+    ],
+    "reference_aliases": [
+      "横断面设计绘图与戴帽截图2",
+      "ch07_shot_043_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_044_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "横断面交互修改截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_044_01.png",
+    "related_tasks": "ch07_task_044",
+    "qa_use": "学生询问横断面交互修改截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "横断面交互修改截图1"
+    ],
+    "reference_aliases": [
+      "横断面交互修改截图1",
+      "ch07_shot_044_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_044_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "横断面交互修改截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_044_02.png",
+    "related_tasks": "ch07_task_044",
+    "qa_use": "学生询问横断面交互修改截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "横断面交互修改截图2"
+    ],
+    "reference_aliases": [
+      "横断面交互修改截图2",
+      "ch07_shot_044_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_045_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "创建路基模板截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_045_01.png",
+    "related_tasks": "ch07_task_045",
+    "qa_use": "学生询问创建路基模板截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建路基模板截图1"
+    ],
+    "reference_aliases": [
+      "创建路基模板截图1",
+      "ch07_shot_045_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_045_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "创建路基模板截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_045_02.png",
+    "related_tasks": "ch07_task_045",
+    "qa_use": "学生询问创建路基模板截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建路基模板截图2"
+    ],
+    "reference_aliases": [
+      "创建路基模板截图2",
+      "ch07_shot_045_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_046_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "创建边坡模板截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_046_01.png",
+    "related_tasks": "ch07_task_046",
+    "qa_use": "学生询问创建边坡模板截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建边坡模板截图1"
+    ],
+    "reference_aliases": [
+      "创建边坡模板截图1",
+      "ch07_shot_046_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_046_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "创建边坡模板截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_046_02.png",
+    "related_tasks": "ch07_task_046",
+    "qa_use": "学生询问创建边坡模板截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建边坡模板截图2"
+    ],
+    "reference_aliases": [
+      "创建边坡模板截图2",
+      "ch07_shot_046_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_047_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "创建边沟与截水沟模板截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_047_01.png",
+    "related_tasks": "ch07_task_047",
+    "qa_use": "学生询问创建边沟与截水沟模板截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建边沟与截水沟模板截图1"
+    ],
+    "reference_aliases": [
+      "创建边沟与截水沟模板截图1",
+      "ch07_shot_047_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_047_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "创建边沟与截水沟模板截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_047_02.png",
+    "related_tasks": "ch07_task_047",
+    "qa_use": "学生询问创建边沟与截水沟模板截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "创建边沟与截水沟模板截图2"
+    ],
+    "reference_aliases": [
+      "创建边沟与截水沟模板截图2",
+      "ch07_shot_047_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_048_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "生成和修改超高渐变图截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_048_01.png",
+    "related_tasks": "ch07_task_048",
+    "qa_use": "学生询问生成和修改超高渐变图截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成和修改超高渐变图截图1"
+    ],
+    "reference_aliases": [
+      "生成和修改超高渐变图截图1",
+      "ch07_shot_048_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_048_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "生成和修改超高渐变图截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_048_02.png",
+    "related_tasks": "ch07_task_048",
+    "qa_use": "学生询问生成和修改超高渐变图截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "生成和修改超高渐变图截图2"
+    ],
+    "reference_aliases": [
+      "生成和修改超高渐变图截图2",
+      "ch07_shot_048_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_049_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "执行横断面戴帽设计截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_049_01.png",
+    "related_tasks": "ch07_task_049",
+    "qa_use": "学生询问执行横断面戴帽设计截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "执行横断面戴帽设计截图1"
+    ],
+    "reference_aliases": [
+      "执行横断面戴帽设计截图1",
+      "ch07_shot_049_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_049_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "执行横断面戴帽设计截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_049_02.png",
+    "related_tasks": "ch07_task_049",
+    "qa_use": "学生询问执行横断面戴帽设计截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "执行横断面戴帽设计截图2"
+    ],
+    "reference_aliases": [
+      "执行横断面戴帽设计截图2",
+      "ch07_shot_049_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_050_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "查看与绘制横断面成果截图1",
+    "file_path": "chapter_07/screenshots/ch07_shot_050_01.png",
+    "related_tasks": "ch07_task_050",
+    "qa_use": "学生询问查看与绘制横断面成果截图1相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "查看与绘制横断面成果截图1"
+    ],
+    "reference_aliases": [
+      "查看与绘制横断面成果截图1",
+      "ch07_shot_050_01"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_shot_050_02",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec04",
+    "resource_type": "screenshot",
+    "title": "查看与绘制横断面成果截图2",
+    "file_path": "chapter_07/screenshots/ch07_shot_050_02.png",
+    "related_tasks": "ch07_task_050",
+    "qa_use": "学生询问查看与绘制横断面成果截图2相关操作时用于界面说明。",
+    "status": "placeholder",
+    "related_kps": [],
+    "keywords": [
+      "查看与绘制横断面成果截图2"
+    ],
+    "reference_aliases": [
+      "查看与绘制横断面成果截图2",
+      "ch07_shot_050_02"
+    ],
+    "suppress_recommendation": true
+  },
+  {
+    "resource_id": "ch07_script_01",
+    "chapter_id": "ch07",
+    "section_id": "ch07_sec_interactive",
+    "resource_type": "interactive_html",
+    "title": "7.道路CAD软件使用流程",
+    "file_path": "assets/ch07/interactive_html/7.道路CAD软件使用流程.html",
+    "description": "用于浏览第7章 道路CAD软件的使用的实践流程、软件对象和典型操作任务。",
+    "related_kps": [
+      "kp_ch07_001",
+      "kp_ch07_002",
+      "kp_ch07_003"
+    ],
+    "keywords": [
+      "7.道路CAD软件使用流程",
+      "道路CAD软件使用流程",
+      "互动脚本",
+      "操作流程"
+    ],
+    "trigger_questions": [
+      "7.道路CAD软件使用流程怎么看？",
+      "我想看7.道路CAD软件使用流程。",
+      "第7章 道路CAD软件的使用互动脚本怎么操作？"
+    ],
+    "teaching_use": "课堂演示、学生自学和操作任务导览。",
+    "qa_use": "学生询问互动脚本、操作演示或实践流程时推荐。",
+    "status": "bound"
+  }
+]

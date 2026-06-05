@@ -1,0 +1,855 @@
+[
+  {
+    "question": "数字孪生为什么强调虚实闭环？",
+    "selected_answer_id": "ans_ch01_013",
+    "selected_question": "数字孪生的虚实闭环包括哪些环节？",
+    "keyword_top": [
+      {
+        "answer_id": "ans_ch01_012",
+        "score": 57.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:14"
+        ],
+        "canonical_question": "数字孪生与BIM有什么区别？"
+      },
+      {
+        "answer_id": "ans_ch01_058",
+        "score": 57.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:14"
+        ],
+        "canonical_question": "如何理解数字孪生阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 56.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:7",
+          "must_include_match"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 54.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:13"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_013",
+        "score": 51.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:12"
+        ],
+        "canonical_question": "数字孪生的虚实闭环包括哪些环节？"
+      }
+    ],
+    "vector_top": [
+      {
+        "embedding_id": "emb_ch01_0013",
+        "source_id": "ans_ch01_013",
+        "model": "bge-m3",
+        "similarity": 0.5977482056285041
+      },
+      {
+        "embedding_id": "emb_ch01_0058",
+        "source_id": "ans_ch01_058",
+        "model": "bge-m3",
+        "similarity": 0.5577037098921845
+      },
+      {
+        "embedding_id": "emb_ch01_0059",
+        "source_id": "ans_ch01_059",
+        "model": "bge-m3",
+        "similarity": 0.5488192778716833
+      },
+      {
+        "embedding_id": "emb_ch01_0012",
+        "source_id": "ans_ch01_012",
+        "model": "bge-m3",
+        "similarity": 0.5306711400750225
+      },
+      {
+        "embedding_id": "emb_ch01_0060",
+        "source_id": "ans_ch01_060",
+        "model": "bge-m3",
+        "similarity": 0.4939455252488123
+      }
+    ],
+    "hybrid_top": [
+      {
+        "answer_id": "ans_ch01_013",
+        "score": 156.595,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:12",
+          "vector:0.5977",
+          "phrase_canonical:虚实闭环",
+          "phrase_canonical:数字孪生"
+        ],
+        "canonical_question": "数字孪生的虚实闭环包括哪些环节？"
+      },
+      {
+        "answer_id": "ans_ch01_012",
+        "score": 125.521,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:14",
+          "vector:0.5307",
+          "phrase_answer:虚实闭环",
+          "phrase_canonical:数字孪生"
+        ],
+        "canonical_question": "数字孪生与BIM有什么区别？"
+      },
+      {
+        "answer_id": "ans_ch01_058",
+        "score": 120.387,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:14",
+          "vector:0.5577",
+          "phrase_canonical:数字孪生"
+        ],
+        "canonical_question": "如何理解数字孪生阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 99.156,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:7",
+          "must_include_match",
+          "vector:0.4453",
+          "phrase_canonical:数字孪生"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_059",
+        "score": 97.787,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:7",
+          "vector:0.5488",
+          "phrase_canonical:数字孪生"
+        ],
+        "canonical_question": "如何理解数字孪生的本质？"
+      }
+    ]
+  },
+  {
+    "question": "道路工程数字化设计经历了哪些主要阶段？",
+    "selected_answer_id": "ans_ch01_001",
+    "selected_question": "道路工程数字化设计经历了哪些主要阶段？",
+    "keyword_top": [
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 185.0,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "token_overlap:48"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_014",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:21"
+        ],
+        "canonical_question": "什么是道路工程数字化设计？"
+      },
+      {
+        "answer_id": "ans_ch01_015",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:22"
+        ],
+        "canonical_question": "道路工程数字化设计的四大核心理念包括哪些？"
+      },
+      {
+        "answer_id": "ans_ch01_022",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:21"
+        ],
+        "canonical_question": "AI在道路工程数字化设计体系中的角色是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_034",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:22"
+        ],
+        "canonical_question": "如何理解道路工程数字化设计的发展主线？"
+      }
+    ],
+    "vector_top": [
+      {
+        "embedding_id": "emb_ch01_0001",
+        "source_id": "ans_ch01_001",
+        "model": "bge-m3",
+        "similarity": 0.7847972566809946
+      },
+      {
+        "embedding_id": "emb_ch01_0108",
+        "source_id": "ans_ch01_108",
+        "model": "bge-m3",
+        "similarity": 0.7518605660880099
+      },
+      {
+        "embedding_id": "emb_ch01_0034",
+        "source_id": "ans_ch01_034",
+        "model": "bge-m3",
+        "similarity": 0.645843562291817
+      },
+      {
+        "embedding_id": "emb_ch01_0014",
+        "source_id": "ans_ch01_014",
+        "model": "bge-m3",
+        "similarity": 0.6408645624770111
+      },
+      {
+        "embedding_id": "emb_ch01_0015",
+        "source_id": "ans_ch01_015",
+        "model": "bge-m3",
+        "similarity": 0.6204910753682276
+      }
+    ],
+    "hybrid_top": [
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 254.264,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "token_overlap:48",
+          "vector:0.7848"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_108",
+        "score": 128.335,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:23",
+          "vector:0.7519"
+        ],
+        "canonical_question": "请简述道路工程数字化设计的发展历程，并指出各阶段的主要技术特征与演进逻辑。"
+      },
+      {
+        "answer_id": "ans_ch01_034",
+        "score": 109.252,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:22",
+          "vector:0.6458"
+        ],
+        "canonical_question": "如何理解道路工程数字化设计的发展主线？"
+      },
+      {
+        "answer_id": "ans_ch01_014",
+        "score": 108.356,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:21",
+          "vector:0.6409"
+        ],
+        "canonical_question": "什么是道路工程数字化设计？"
+      },
+      {
+        "answer_id": "ans_ch01_015",
+        "score": 104.688,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:22",
+          "vector:0.6205"
+        ],
+        "canonical_question": "道路工程数字化设计的四大核心理念包括哪些？"
+      }
+    ]
+  },
+  {
+    "question": "为什么说道路数字化设计不是简单的软件升级？",
+    "selected_answer_id": "ans_ch01_002",
+    "selected_question": "为什么说道路数字化设计不是简单的软件升级？",
+    "keyword_top": [
+      {
+        "answer_id": "ans_ch01_002",
+        "score": 385.0,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "exact_pattern",
+          "synonym",
+          "token_overlap:54"
+        ],
+        "canonical_question": "为什么说道路数字化设计不是简单的软件升级？"
+      },
+      {
+        "answer_id": "ans_ch01_014",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:17"
+        ],
+        "canonical_question": "什么是道路工程数字化设计？"
+      },
+      {
+        "answer_id": "ans_ch01_034",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:17"
+        ],
+        "canonical_question": "如何理解道路工程数字化设计的发展主线？"
+      },
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 63.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:16"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_007",
+        "score": 63.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:16"
+        ],
+        "canonical_question": "为什么说BIM不是简单的三维模型？"
+      }
+    ],
+    "vector_top": [
+      {
+        "embedding_id": "emb_ch01_0002",
+        "source_id": "ans_ch01_002",
+        "model": "bge-m3",
+        "similarity": 0.7951389949718562
+      },
+      {
+        "embedding_id": "emb_ch01_0001",
+        "source_id": "ans_ch01_001",
+        "model": "bge-m3",
+        "similarity": 0.6486093379290889
+      },
+      {
+        "embedding_id": "emb_ch01_0034",
+        "source_id": "ans_ch01_034",
+        "model": "bge-m3",
+        "similarity": 0.6392933102178018
+      },
+      {
+        "embedding_id": "emb_ch01_0014",
+        "source_id": "ans_ch01_014",
+        "model": "bge-m3",
+        "similarity": 0.6390107539421414
+      },
+      {
+        "embedding_id": "emb_ch01_0108",
+        "source_id": "ans_ch01_108",
+        "model": "bge-m3",
+        "similarity": 0.6294626230882335
+      }
+    ],
+    "hybrid_top": [
+      {
+        "answer_id": "ans_ch01_002",
+        "score": 456.125,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "exact_pattern",
+          "synonym",
+          "token_overlap:54",
+          "vector:0.7951"
+        ],
+        "canonical_question": "为什么说道路数字化设计不是简单的软件升级？"
+      },
+      {
+        "answer_id": "ans_ch01_034",
+        "score": 108.073,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:17",
+          "vector:0.6393"
+        ],
+        "canonical_question": "如何理解道路工程数字化设计的发展主线？"
+      },
+      {
+        "answer_id": "ans_ch01_014",
+        "score": 108.022,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:17",
+          "vector:0.6390"
+        ],
+        "canonical_question": "什么是道路工程数字化设计？"
+      },
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 107.75,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:16",
+          "vector:0.6486"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      },
+      {
+        "answer_id": "ans_ch01_022",
+        "score": 97.654,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:16",
+          "vector:0.5925"
+        ],
+        "canonical_question": "AI在道路工程数字化设计体系中的角色是什么？"
+      }
+    ]
+  },
+  {
+    "question": "CAD图元和BIM构件有什么本质区别？",
+    "selected_answer_id": "ans_ch01_005",
+    "selected_question": "CAD图元和BIM构件有什么本质区别？",
+    "keyword_top": [
+      {
+        "answer_id": "ans_ch01_005",
+        "score": 385.0,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "exact_pattern",
+          "synonym",
+          "token_overlap:27"
+        ],
+        "canonical_question": "CAD图元和BIM构件有什么本质区别？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 53.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:6",
+          "must_include_match"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_111",
+        "score": 36.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:7"
+        ],
+        "canonical_question": "与传统CAD设计相比，BIM在信息组织和设计表达方面有哪些根本区别？"
+      },
+      {
+        "answer_id": "ans_ch01_003",
+        "score": 33.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:6"
+        ],
+        "canonical_question": "CAD阶段的主要技术特征是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_012",
+        "score": 33.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:6"
+        ],
+        "canonical_question": "数字孪生与BIM有什么区别？"
+      }
+    ],
+    "vector_top": [
+      {
+        "embedding_id": "emb_ch01_0005",
+        "source_id": "ans_ch01_005",
+        "model": "bge-m3",
+        "similarity": 0.8070153517471221
+      },
+      {
+        "embedding_id": "emb_ch01_0111",
+        "source_id": "ans_ch01_111",
+        "model": "bge-m3",
+        "similarity": 0.6807360008938497
+      },
+      {
+        "embedding_id": "emb_ch01_0038",
+        "source_id": "ans_ch01_038",
+        "model": "bge-m3",
+        "similarity": 0.6578295106178537
+      },
+      {
+        "embedding_id": "emb_ch01_0020",
+        "source_id": "ans_ch01_020",
+        "model": "bge-m3",
+        "similarity": 0.6337384716026426
+      },
+      {
+        "embedding_id": "emb_ch01_0044",
+        "source_id": "ans_ch01_044",
+        "model": "bge-m3",
+        "similarity": 0.6131453263991826
+      }
+    ],
+    "hybrid_top": [
+      {
+        "answer_id": "ans_ch01_005",
+        "score": 528.263,
+        "confidence": "high",
+        "reasons": [
+          "exact_canonical",
+          "exact_pattern",
+          "synonym",
+          "token_overlap:27",
+          "vector:0.8070",
+          "phrase_canonical:CAD图元",
+          "phrase_canonical:BIM构件"
+        ],
+        "canonical_question": "CAD图元和BIM构件有什么本质区别？"
+      },
+      {
+        "answer_id": "ans_ch01_038",
+        "score": 111.409,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:5",
+          "vector:0.6578",
+          "phrase_canonical:CAD图元"
+        ],
+        "canonical_question": "如何理解CAD图元与工程语义差异？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 95.073,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:6",
+          "must_include_match",
+          "vector:0.6337"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_045",
+        "score": 91.491,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:3",
+          "vector:0.5805",
+          "phrase_canonical:BIM构件"
+        ],
+        "canonical_question": "如何理解道路BIM构件语义？"
+      },
+      {
+        "answer_id": "ans_ch01_111",
+        "score": 86.532,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:7",
+          "vector:0.6807"
+        ],
+        "canonical_question": "与传统CAD设计相比，BIM在信息组织和设计表达方面有哪些根本区别？"
+      }
+    ]
+  },
+  {
+    "question": "GIS技术在现代道路设计中的主要作用是什么？",
+    "selected_answer_id": "ans_ch01_112",
+    "selected_question": "GIS技术在现代道路设计中的主要作用是什么？它与BIM之间的融合体现在哪些方面？",
+    "keyword_top": [
+      {
+        "answer_id": "ans_ch01_112",
+        "score": 225.0,
+        "confidence": "high",
+        "reasons": [
+          "partial_canonical",
+          "partial_pattern",
+          "token_overlap:49"
+        ],
+        "canonical_question": "GIS技术在现代道路设计中的主要作用是什么？它与BIM之间的融合体现在哪些方面？"
+      },
+      {
+        "answer_id": "ans_ch01_010",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:43"
+        ],
+        "canonical_question": "GIS在现代道路设计中的主要作用是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_110",
+        "score": 60.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:15"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生四类技术平台在道路设计中的功能定位有何差异？"
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "score": 44.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:3",
+          "must_include_match"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      },
+      {
+        "answer_id": "ans_ch01_087",
+        "score": 42.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:9"
+        ],
+        "canonical_question": "如何理解传统道路设计流程短板？"
+      }
+    ],
+    "vector_top": [
+      {
+        "embedding_id": "emb_ch01_0112",
+        "source_id": "ans_ch01_112",
+        "model": "bge-m3",
+        "similarity": 0.7455382123641501
+      },
+      {
+        "embedding_id": "emb_ch01_0010",
+        "source_id": "ans_ch01_010",
+        "model": "bge-m3",
+        "similarity": 0.7380175184134651
+      },
+      {
+        "embedding_id": "emb_ch01_0110",
+        "source_id": "ans_ch01_110",
+        "model": "bge-m3",
+        "similarity": 0.5915403253163777
+      },
+      {
+        "embedding_id": "emb_ch01_0001",
+        "source_id": "ans_ch01_001",
+        "model": "bge-m3",
+        "similarity": 0.5650234842773968
+      },
+      {
+        "embedding_id": "emb_ch01_0090",
+        "source_id": "ans_ch01_090",
+        "model": "bge-m3",
+        "similarity": 0.5629844963591905
+      }
+    ],
+    "hybrid_top": [
+      {
+        "answer_id": "ans_ch01_112",
+        "score": 287.197,
+        "confidence": "high",
+        "reasons": [
+          "partial_canonical",
+          "partial_pattern",
+          "token_overlap:49",
+          "vector:0.7455"
+        ],
+        "canonical_question": "GIS技术在现代道路设计中的主要作用是什么？它与BIM之间的融合体现在哪些方面？"
+      },
+      {
+        "answer_id": "ans_ch01_010",
+        "score": 125.843,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:43",
+          "vector:0.7380"
+        ],
+        "canonical_question": "GIS在现代道路设计中的主要作用是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_110",
+        "score": 94.477,
+        "confidence": "medium",
+        "reasons": [
+          "token_overlap:15",
+          "vector:0.5915"
+        ],
+        "canonical_question": "CAD、BIM、GIS和数字孪生四类技术平台在道路设计中的功能定位有何差异？"
+      },
+      {
+        "answer_id": "ans_ch01_022",
+        "score": 65.267,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:8",
+          "vector:0.5459"
+        ],
+        "canonical_question": "AI在道路工程数字化设计体系中的角色是什么？"
+      },
+      {
+        "answer_id": "ans_ch01_001",
+        "score": 62.704,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:6",
+          "vector:0.5650"
+        ],
+        "canonical_question": "道路工程数字化设计经历了哪些主要阶段？"
+      }
+    ]
+  },
+  {
+    "question": "以模型为核心的设计流程包括哪些环节？",
+    "selected_answer_id": "ans_ch01_027",
+    "selected_question": "以模型为核心的数字化设计流程包括哪些步骤？",
+    "keyword_top": [
+      {
+        "answer_id": "ans_ch01_027",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:33"
+        ],
+        "canonical_question": "以模型为核心的数字化设计流程包括哪些步骤？"
+      },
+      {
+        "answer_id": "ans_ch01_088",
+        "score": 65.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:21"
+        ],
+        "canonical_question": "如何理解以模型为核心的数字化设计流程？"
+      },
+      {
+        "answer_id": "ans_ch01_109",
+        "score": 60.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:15"
+        ],
+        "canonical_question": "如何理解“以图纸为中心”与“以模型为核心”的设计范式转变？"
+      },
+      {
+        "answer_id": "ans_ch01_013",
+        "score": 54.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:13"
+        ],
+        "canonical_question": "数字孪生的虚实闭环包括哪些环节？"
+      },
+      {
+        "answer_id": "ans_ch01_032",
+        "score": 45.0,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:10"
+        ],
+        "canonical_question": "数据驱动的设计控制机制包括哪些方面？"
+      }
+    ],
+    "vector_top": [
+      {
+        "embedding_id": "emb_ch01_0027",
+        "source_id": "ans_ch01_027",
+        "model": "bge-m3",
+        "similarity": 0.7149967795738177
+      },
+      {
+        "embedding_id": "emb_ch01_0088",
+        "source_id": "ans_ch01_088",
+        "model": "bge-m3",
+        "similarity": 0.7036777259546866
+      },
+      {
+        "embedding_id": "emb_ch01_0109",
+        "source_id": "ans_ch01_109",
+        "model": "bge-m3",
+        "similarity": 0.628210743353367
+      },
+      {
+        "embedding_id": "emb_ch01_0043",
+        "source_id": "ans_ch01_043",
+        "model": "bge-m3",
+        "similarity": 0.5619117790418239
+      },
+      {
+        "embedding_id": "emb_ch01_0025",
+        "source_id": "ans_ch01_025",
+        "model": "bge-m3",
+        "similarity": 0.5608790477477499
+      }
+    ],
+    "hybrid_top": [
+      {
+        "answer_id": "ans_ch01_027",
+        "score": 156.699,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:33",
+          "vector:0.7150",
+          "phrase_canonical:模型为核心"
+        ],
+        "canonical_question": "以模型为核心的数字化设计流程包括哪些步骤？"
+      },
+      {
+        "answer_id": "ans_ch01_088",
+        "score": 154.662,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:21",
+          "vector:0.7037",
+          "phrase_canonical:模型为核心"
+        ],
+        "canonical_question": "如何理解以模型为核心的数字化设计流程？"
+      },
+      {
+        "answer_id": "ans_ch01_109",
+        "score": 136.078,
+        "confidence": "high",
+        "reasons": [
+          "token_overlap:15",
+          "vector:0.6282",
+          "phrase_canonical:模型为核心"
+        ],
+        "canonical_question": "如何理解“以图纸为中心”与“以模型为核心”的设计范式转变？"
+      },
+      {
+        "answer_id": "ans_ch01_032",
+        "score": 69.233,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:10",
+          "vector:0.5346"
+        ],
+        "canonical_question": "数据驱动的设计控制机制包括哪些方面？"
+      },
+      {
+        "answer_id": "ans_ch01_031",
+        "score": 55.394,
+        "confidence": "low",
+        "reasons": [
+          "token_overlap:7",
+          "vector:0.5077"
+        ],
+        "canonical_question": "模型驱动成果输出包括哪些内容？"
+      }
+    ]
+  }
+]

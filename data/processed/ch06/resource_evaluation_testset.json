@@ -1,0 +1,50 @@
+[
+  {
+    "test_id": "res_eval_ch06_script_autocad_overview_01",
+    "chapter_id": "ch06",
+    "question": "AutoCAD功能全景互动脚本怎么看？",
+    "expected_resource_id": "ch06_script_autocad_overview",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch06_001",
+      "kp_ch06_002",
+      "kp_ch06_005",
+      "kp_ch06_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch06_script_autocad_overview_02",
+    "chapter_id": "ch06",
+    "question": "我想看第六章AutoCAD互动脚本。",
+    "expected_resource_id": "ch06_script_autocad_overview",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch06_001",
+      "kp_ch06_002",
+      "kp_ch06_005",
+      "kp_ch06_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  },
+  {
+    "test_id": "res_eval_ch06_script_autocad_overview_03",
+    "chapter_id": "ch06",
+    "question": "AutoCAD平台功能怎么操作演示？",
+    "expected_resource_id": "ch06_script_autocad_overview",
+    "expected_resource_type": "interactive_html",
+    "expected_answer_mode": "resource_guidance",
+    "related_kps": [
+      "kp_ch06_001",
+      "kp_ch06_002",
+      "kp_ch06_005",
+      "kp_ch06_006"
+    ],
+    "resource_intent": "interactive_script",
+    "pass_rule": "top1_resource_and_mode"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "exercise_id": "ex_ch04_01",
+    "chapter_id": "ch04",
+    "question": "请解释BIM作为“产品（Model）”、“过程（Modeling）”和“管理理念（Management）”的三重内涵分别代表什么意义？",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_02",
+    "chapter_id": "ch04",
+    "question": "与建筑工程相比，道路工程在空间信息组织方式和设计过程逻辑上存在哪些显著差异？这对BIM技术在道路中的应用提出了什么挑战？",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_03",
+    "chapter_id": "ch04",
+    "question": "什么是“翻模模式”？为什么说它失去了BIM作为前期辅助决策工具的价值？它与正向设计在设计逻辑上有何本质区别？",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_04",
+    "chapter_id": "ch04",
+    "question": "简述道路BIM正向设计的五个主要环节及其核心任务。",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_05",
+    "chapter_id": "ch04",
+    "question": "在BIM语境中，构件为何被称为“智能单元”？请结合几何信息、语义信息和非几何属性信息说明其复合特性。",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_06",
+    "chapter_id": "ch04",
+    "question": "请描述道路工程信息建模中“设施—子设施—构件”的三级层级结构，并举例说明如何利用该结构组织模型信息。",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_07",
+    "chapter_id": "ch04",
+    "question": "请解释参数化设计中的“参数—规则—结果”（PRR）动态驱动机制，并举例说明常见的规则类型。",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_08",
+    "chapter_id": "ch04",
+    "question": "道路BIM模型中的参数通常分为哪三类？请举例说明“约束参数”如何在设计中发挥控制作用。",
+    "question_type": "简答/论述",
+    "difficulty": "中等",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_09",
+    "chapter_id": "ch04",
+    "question": "BIM正向设计不仅仅交付模型，还包括哪些成果形式？请说明“图模一致”在成果派生中的实现逻辑。",
+    "question_type": "简答/论述",
+    "difficulty": "综合",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  },
+  {
+    "exercise_id": "ex_ch04_10",
+    "chapter_id": "ch04",
+    "question": "结合传统“图纸驱动”范式局限性，论述道路工程为何需要向“BIM正向设计”范式转型。",
+    "question_type": "简答/论述",
+    "difficulty": "综合",
+    "related_kps": [],
+    "standard_answer_points": [
+      "需依据本章核心知识点按条目回答，包含定义、要点、工程意义和误区辨析。"
+    ],
+    "grading_rubric": "10分制：概念准确3分，条目完整3分，联系道路工程2分，表达清晰2分。",
+    "common_mistakes": [
+      "只背概念、不结合道路工程场景",
+      "把模型等同于图形",
+      "忽略协同和交付。"
+    ],
+    "feedback_template": "根据学生答案缺失的要点，推荐复习对应Answer_Cards和Knowledge_Points。"
+  }
+]

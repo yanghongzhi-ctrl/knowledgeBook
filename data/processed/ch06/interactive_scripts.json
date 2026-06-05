@@ -1,0 +1,36 @@
+[
+  {
+    "script_id": "ch06_script_6_overview",
+    "resource_id": "ch06_script_autocad_overview",
+    "chapter_id": "ch06",
+    "title": "AutoCAD功能全景互动脚本",
+    "file_path": "assets/ch06/interactive_html/6.AutoCAD功能全景互动脚本.html",
+    "interaction_theme": "AutoCAD平台功能与操作任务导览",
+    "display_objects": [
+      "绘图环境",
+      "命令体系",
+      "绘图编辑",
+      "图层图块",
+      "标注输出",
+      "三维建模"
+    ],
+    "operation_steps": [
+      "打开脚本",
+      "按模块查看AutoCAD功能",
+      "结合操作任务定位命令和检查项"
+    ],
+    "trigger_questions": [
+      "AutoCAD功能全景互动脚本怎么看？",
+      "第六章互动脚本怎么操作？",
+      "我想看AutoCAD平台功能演示。"
+    ],
+    "related_kps": [
+      "kp_ch06_001",
+      "kp_ch06_002",
+      "kp_ch06_005",
+      "kp_ch06_006"
+    ],
+    "extracted_labels": [],
+    "status": "bound"
+  }
+]

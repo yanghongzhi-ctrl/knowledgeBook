@@ -1,0 +1,50 @@
+[
+  {
+    "rule_id": "route_ch10_001",
+    "intent": "concept_explain",
+    "trigger_patterns": "什么是;如何理解;概念;定义",
+    "primary_tables": "Answer_Cards;Knowledge_Points",
+    "fallback_tables": "Source_Chunks;Resources",
+    "answer_template": "定义—核心理解—工程意义—注意误区"
+  },
+  {
+    "rule_id": "route_ch10_002",
+    "intent": "method_process",
+    "trigger_patterns": "流程;步骤;怎么做;如何应用;方法",
+    "primary_tables": "Answer_Cards;Method_Cards",
+    "fallback_tables": "Application_Scenarios;Source_Chunks",
+    "answer_template": "方法目标—输入数据—处理逻辑—输出结果—局限"
+  },
+  {
+    "rule_id": "route_ch10_003",
+    "intent": "comparison",
+    "trigger_patterns": "区别;对比;不同;关系",
+    "primary_tables": "Answer_Cards;Concept_Comparison",
+    "fallback_tables": "Knowledge_Points;Source_Chunks",
+    "answer_template": "比较维度表—教学结论—常见误区"
+  },
+  {
+    "rule_id": "route_ch10_004",
+    "intent": "application_scenario",
+    "trigger_patterns": "应用;场景;案例;选线;风险评估;推荐",
+    "primary_tables": "Application_Scenarios;Case_Cards;Answer_Cards",
+    "fallback_tables": "Method_Cards;Knowledge_Points",
+    "answer_template": "应用目标—适用方法—输入数据—输出成果—审查要求"
+  },
+  {
+    "rule_id": "route_ch10_005",
+    "intent": "algorithm_optimization",
+    "trigger_patterns": "GA;遗传算法;NSGA;帕累托;强化学习;MDP;DQN",
+    "primary_tables": "Answer_Cards;Method_Cards;Knowledge_Points",
+    "fallback_tables": "Concept_Comparison;Resources",
+    "answer_template": "算法定位—建模要素—流程—适用场景—局限"
+  },
+  {
+    "rule_id": "route_ch10_006",
+    "intent": "risk_limitation",
+    "trigger_patterns": "局限;风险;问题;不能;替代;可靠",
+    "primary_tables": "Risk_and_Limitations;Answer_Cards",
+    "fallback_tables": "Knowledge_Points",
+    "answer_template": "风险点—原因—缓解措施—回答边界"
+  }
+]

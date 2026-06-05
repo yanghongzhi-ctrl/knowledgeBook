@@ -1,0 +1,3584 @@
+[
+  {
+    "kp_id": "kp_ch11_001_digital_twin_definition",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "道路数字孪生定义",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "覆盖道路基础设施全生命周期的虚实闭环系统，以BIM为微观基础、GIS为空间背景，融合IoT实时感知与AI智能分析，实现动态同步、状态预测与闭环优化。",
+    "core_explanation": "用于解释数字孪生区别于CAD、BIM、BIM+GIS的根本内涵。",
+    "plain_explanation": "数字孪生不是一个静态模型，而是能和真实道路同步更新并反向指导管理的系统。",
+    "engineering_meaning": "支撑从静态交付到动态服务的道路基础设施管理转型。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_001",
+    "keywords": [
+      "道路数字孪生定义",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_002_cad_bim_gis_twin_evolution",
+      "kp_ch11_003_road_twin_necessity"
+    ],
+    "key_points": [
+      "覆盖道路基础设施全生命周期的虚实闭环系统，以BIM为微观基础、GIS为空间背景，融合IoT实时感知与AI智能分析，实现动态同步、状态预测与闭环优化。",
+      "用于解释数字孪生区别于CAD、BIM、BIM+GIS的根本内涵。",
+      "支撑从静态交付到动态服务的道路基础设施管理转型。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_001",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_002_cad_bim_gis_twin_evolution",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "从CAD到数字孪生的技术演进",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "道路数字化经历CAD二维制图、BIM语义模型、BIM+GIS跨尺度集成、数字孪生虚实闭环四个阶段。",
+    "core_explanation": "用于说明道路数字化能力逐步由表达、建模、空间协同走向智能管理。",
+    "plain_explanation": "每一阶段都不是简单替代，而是设计对象、数据组织和管理能力的升级。",
+    "engineering_meaning": "帮助学生建立第十一章与前面章节之间的纵向联系。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_002",
+    "keywords": [
+      "从CAD到数字孪生的技术演进",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_001_digital_twin_definition",
+      "kp_ch11_003_road_twin_necessity",
+      "kp_ch11_004_accurate_mapping"
+    ],
+    "key_points": [
+      "道路数字化经历CAD二维制图、BIM语义模型、BIM+GIS跨尺度集成、数字孪生虚实闭环四个阶段。",
+      "用于说明道路数字化能力逐步由表达、建模、空间协同走向智能管理。",
+      "帮助学生建立第十一章与前面章节之间的纵向联系。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_002",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_003_road_twin_necessity",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "道路数字孪生必要性",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "道路工程动态环境、空间尺度大、运营周期长，决定了静态模型难以满足长期管理，需要数字孪生实现持续感知和动态反馈。",
+    "core_explanation": "强调道路工程自身特征决定其必须走向数字孪生。",
+    "plain_explanation": "道路不是建完就结束，而是几十年持续运行的系统。",
+    "engineering_meaning": "解释为什么BIM+GIS仍不足以支撑长期运营。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_003",
+    "keywords": [
+      "道路数字孪生必要性",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_001_digital_twin_definition",
+      "kp_ch11_002_cad_bim_gis_twin_evolution",
+      "kp_ch11_004_accurate_mapping",
+      "kp_ch11_005_virtual_real_interaction"
+    ],
+    "key_points": [
+      "道路工程动态环境、空间尺度大、运营周期长，决定了静态模型难以满足长期管理，需要数字孪生实现持续感知和动态反馈。",
+      "强调道路工程自身特征决定其必须走向数字孪生。",
+      "解释为什么BIM+GIS仍不足以支撑长期运营。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_003",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_004_accurate_mapping",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "精准映射",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "以高保真模型全面映射道路几何、材料、结构参数与运行状态，并通过持续更新保持与物理世界一致。",
+    "core_explanation": "四大核心特征之一。",
+    "plain_explanation": "模型要“像真实道路”，并且随真实道路变化而更新。",
+    "engineering_meaning": "支撑状态识别、结构分析和可靠决策。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_004",
+    "keywords": [
+      "精准映射",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_002_cad_bim_gis_twin_evolution",
+      "kp_ch11_003_road_twin_necessity",
+      "kp_ch11_005_virtual_real_interaction",
+      "kp_ch11_006_intelligent_intervention"
+    ],
+    "key_points": [
+      "以高保真模型全面映射道路几何、材料、结构参数与运行状态，并通过持续更新保持与物理世界一致。",
+      "四大核心特征之一。",
+      "支撑状态识别、结构分析和可靠决策。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_004",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_005_virtual_real_interaction",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "虚实交互",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "物理世界数据驱动虚拟模型更新，虚拟模型的仿真分析结果反向指导物理系统管理。",
+    "core_explanation": "数字孪生区别于静态模型的关键。",
+    "plain_explanation": "不是只看数据，而是让模型分析结果回到现实管理中。",
+    "engineering_meaning": "支撑管控预案、养护建议和设备联动。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_005",
+    "keywords": [
+      "虚实交互",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_003_road_twin_necessity",
+      "kp_ch11_004_accurate_mapping",
+      "kp_ch11_006_intelligent_intervention",
+      "kp_ch11_007_lifecycle_coverage"
+    ],
+    "key_points": [
+      "物理世界数据驱动虚拟模型更新，虚拟模型的仿真分析结果反向指导物理系统管理。",
+      "数字孪生区别于静态模型的关键。",
+      "支撑管控预案、养护建议和设备联动。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_005",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_006_intelligent_intervention",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "智能干预",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "依托AI与大数据分析，对病害、寿命、交通运行等进行预测与优化，并提供辅助决策或自动/半自动控制建议。",
+    "core_explanation": "体现数字孪生由观测向主动治理转变。",
+    "plain_explanation": "系统不只是展示现状，还能预测风险、建议方案。",
+    "engineering_meaning": "支撑主动养护、主动交通管控和应急决策。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_006",
+    "keywords": [
+      "智能干预",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_004_accurate_mapping",
+      "kp_ch11_005_virtual_real_interaction",
+      "kp_ch11_007_lifecycle_coverage",
+      "kp_ch11_008_multi_scale_twin"
+    ],
+    "key_points": [
+      "依托AI与大数据分析，对病害、寿命、交通运行等进行预测与优化，并提供辅助决策或自动/半自动控制建议。",
+      "体现数字孪生由观测向主动治理转变。",
+      "支撑主动养护、主动交通管控和应急决策。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_006",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_007_lifecycle_coverage",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "全生命周期覆盖",
+    "knowledge_type": "feature",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "贯通规划、设计、施工、运维数据链路，使孪生体在全生命周期内持续更新、可追溯、可扩展。",
+    "core_explanation": "保证数字孪生长期有效。",
+    "plain_explanation": "设计阶段的模型应能被施工和运维继续使用。",
+    "engineering_meaning": "支撑长期资产管理和数字化交付。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_007",
+    "keywords": [
+      "全生命周期覆盖",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_005_virtual_real_interaction",
+      "kp_ch11_006_intelligent_intervention",
+      "kp_ch11_008_multi_scale_twin",
+      "kp_ch11_009_digital_thread"
+    ],
+    "key_points": [
+      "贯通规划、设计、施工、运维数据链路，使孪生体在全生命周期内持续更新、可追溯、可扩展。",
+      "保证数字孪生长期有效。",
+      "支撑长期资产管理和数字化交付。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_007",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_008_multi_scale_twin",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "多尺度数字孪生",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "道路数字孪生可划分为零部件级、构件/资产级、系统级、系统之系统级。",
+    "core_explanation": "解释不同业务目标对应不同尺度孪生对象。",
+    "plain_explanation": "从单个设备到区域路网都可以建立孪生。",
+    "engineering_meaning": "支撑从局部设施管理到区域交通治理。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_008",
+    "keywords": [
+      "多尺度数字孪生",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_006_intelligent_intervention",
+      "kp_ch11_007_lifecycle_coverage",
+      "kp_ch11_009_digital_thread",
+      "kp_ch11_010_five_dimensional_model"
+    ],
+    "key_points": [
+      "道路数字孪生可划分为零部件级、构件/资产级、系统级、系统之系统级。",
+      "解释不同业务目标对应不同尺度孪生对象。",
+      "支撑从局部设施管理到区域交通治理。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_008",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_009_digital_thread",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "数字主线",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "贯穿道路资产全生命周期的可追溯、可交互统一数据流，连接不同阶段、系统和模型，保障数据连续性和语义互操作。",
+    "core_explanation": "数字孪生实现全周期贯通的神经系统。",
+    "plain_explanation": "它像一根数据线，把设计、施工、运维中的信息连续连接起来。",
+    "engineering_meaning": "解决数据割裂、版本不清和责任追溯问题。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_009",
+    "keywords": [
+      "数字主线",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_007_lifecycle_coverage",
+      "kp_ch11_008_multi_scale_twin",
+      "kp_ch11_010_five_dimensional_model",
+      "kp_ch11_011_typical_system_framework"
+    ],
+    "key_points": [
+      "贯穿道路资产全生命周期的可追溯、可交互统一数据流，连接不同阶段、系统和模型，保障数据连续性和语义互操作。",
+      "数字孪生实现全周期贯通的神经系统。",
+      "解决数据割裂、版本不清和责任追溯问题。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_009",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_010_five_dimensional_model",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "数字孪生五维模型",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "由物理实体、虚拟模型、数据连接、孪生数据、服务与应用构成的核心闭环框架。",
+    "core_explanation": "数字孪生系统的通用结构。",
+    "plain_explanation": "实体、模型、连接、数据、服务五部分一起构成孪生系统。",
+    "engineering_meaning": "用于构建系统架构和功能分层。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_010",
+    "keywords": [
+      "数字孪生五维模型",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_008_multi_scale_twin",
+      "kp_ch11_009_digital_thread",
+      "kp_ch11_011_typical_system_framework",
+      "kp_ch11_012_bim_in_twin"
+    ],
+    "key_points": [
+      "由物理实体、虚拟模型、数据连接、孪生数据、服务与应用构成的核心闭环框架。",
+      "数字孪生系统的通用结构。",
+      "用于构建系统架构和功能分层。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_010",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_011_typical_system_framework",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "典型系统框架",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "道路数字孪生系统通常由BIM模型、GIS环境、IoT感知、数据中枢与算法、可视化平台五类核心要素构成。",
+    "core_explanation": "道路行业化的系统框架。",
+    "plain_explanation": "BIM管构件，GIS管空间，IoT管实时，算法管分析，平台管呈现。",
+    "engineering_meaning": "支撑系统设计和平台建设。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_011",
+    "keywords": [
+      "典型系统框架",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_009_digital_thread",
+      "kp_ch11_010_five_dimensional_model",
+      "kp_ch11_012_bim_in_twin",
+      "kp_ch11_013_gis_in_twin"
+    ],
+    "key_points": [
+      "道路数字孪生系统通常由BIM模型、GIS环境、IoT感知、数据中枢与算法、可视化平台五类核心要素构成。",
+      "道路行业化的系统框架。",
+      "支撑系统设计和平台建设。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_011",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_012_bim_in_twin",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "BIM模型在数字孪生中的作用",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "BIM提供微观几何与语义基础，表达道路及附属设施的构件级三维信息、属性和工程参数。",
+    "core_explanation": "回答“这是什么、由什么构成”。",
+    "plain_explanation": "BIM是数字孪生中负责精细构件信息的基础。",
+    "engineering_meaning": "支撑结构分析、工程量、资产管理。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_012",
+    "keywords": [
+      "BIM模型在数字孪生中的作用",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_010_five_dimensional_model",
+      "kp_ch11_011_typical_system_framework",
+      "kp_ch11_013_gis_in_twin",
+      "kp_ch11_014_iot_in_twin"
+    ],
+    "key_points": [
+      "BIM提供微观几何与语义基础，表达道路及附属设施的构件级三维信息、属性和工程参数。",
+      "回答“这是什么、由什么构成”。",
+      "支撑结构分析、工程量、资产管理。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_012",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_013_gis_in_twin",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "GIS环境在数字孪生中的作用",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "GIS提供宏观地理空间背景，将BIM模型置于真实环境并叠加地形、地质、水文、生态、管网等多维信息。",
+    "core_explanation": "回答“它在哪里、受什么环境影响”。",
+    "plain_explanation": "GIS负责道路所处的大空间环境。",
+    "engineering_meaning": "支撑交通仿真、环境评价和应急疏散。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_013",
+    "keywords": [
+      "GIS环境在数字孪生中的作用",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_011_typical_system_framework",
+      "kp_ch11_012_bim_in_twin",
+      "kp_ch11_014_iot_in_twin",
+      "kp_ch11_015_data_hub_algorithms"
+    ],
+    "key_points": [
+      "GIS提供宏观地理空间背景，将BIM模型置于真实环境并叠加地形、地质、水文、生态、管网等多维信息。",
+      "回答“它在哪里、受什么环境影响”。",
+      "支撑交通仿真、环境评价和应急疏散。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_013",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_014_iot_in_twin",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "IoT感知在数字孪生中的作用",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "IoT通过传感器、摄像头、雷达、LiDAR等设备获取结构、交通与环境实时状态，是物理道路与虚拟模型同步的感知基础。",
+    "core_explanation": "数字孪生的神经网络。",
+    "plain_explanation": "真实世界发生变化，靠IoT把数据传给孪生模型。",
+    "engineering_meaning": "支撑实时监测和动态更新。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_014",
+    "keywords": [
+      "IoT感知在数字孪生中的作用",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_012_bim_in_twin",
+      "kp_ch11_013_gis_in_twin",
+      "kp_ch11_015_data_hub_algorithms",
+      "kp_ch11_016_visualization_platform"
+    ],
+    "key_points": [
+      "IoT通过传感器、摄像头、雷达、LiDAR等设备获取结构、交通与环境实时状态，是物理道路与虚拟模型同步的感知基础。",
+      "数字孪生的神经网络。",
+      "支撑实时监测和动态更新。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_014",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_015_data_hub_algorithms",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "数据中枢与算法",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "数据中枢接收、清洗、存储和管理多源异构数据，并集成仿真、预测与AI算法，把原始数据转化为决策洞察。",
+    "core_explanation": "数字孪生的中央处理器。",
+    "plain_explanation": "数据要经过处理和算法分析，才会变成可用知识。",
+    "engineering_meaning": "支撑状态评估、风险预警、决策优化。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_015",
+    "keywords": [
+      "数据中枢与算法",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_013_gis_in_twin",
+      "kp_ch11_014_iot_in_twin",
+      "kp_ch11_016_visualization_platform",
+      "kp_ch11_017_multisource_data_collection"
+    ],
+    "key_points": [
+      "数据中枢接收、清洗、存储和管理多源异构数据，并集成仿真、预测与AI算法，把原始数据转化为决策洞察。",
+      "数字孪生的中央处理器。",
+      "支撑状态评估、风险预警、决策优化。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_015",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_016_visualization_platform",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "数字孪生可视化平台",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "可视化平台以二维/三维地图、仪表盘、WebGL、AR/VR等方式呈现模型、数据和分析结果，是人与孪生系统交互的窗口。",
+    "core_explanation": "数字孪生价值展示和交互入口。",
+    "plain_explanation": "复杂模型和数据需要以直观方式展示给管理者。",
+    "engineering_meaning": "支撑监控调度、协同决策和沉浸式交互。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_016",
+    "keywords": [
+      "数字孪生可视化平台",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_014_iot_in_twin",
+      "kp_ch11_015_data_hub_algorithms",
+      "kp_ch11_017_multisource_data_collection",
+      "kp_ch11_018_spatiotemporal_alignment"
+    ],
+    "key_points": [
+      "可视化平台以二维/三维地图、仪表盘、WebGL、AR/VR等方式呈现模型、数据和分析结果，是人与孪生系统交互的窗口。",
+      "数字孪生价值展示和交互入口。",
+      "支撑监控调度、协同决策和沉浸式交互。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_016",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_017_multisource_data_collection",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "多源异构数据采集",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "通过全方位感知网络获取道路物理实体的几何形态、属性参数和运行状态，并解决不同来源数据的融合问题。",
+    "core_explanation": "构建数字孪生的感知基础。",
+    "plain_explanation": "数字孪生需要很多种数据，不仅是模型文件。",
+    "engineering_meaning": "支撑全域感知、动态映射与状态同步。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_017",
+    "keywords": [
+      "多源异构数据采集",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_015_data_hub_algorithms",
+      "kp_ch11_016_visualization_platform",
+      "kp_ch11_018_spatiotemporal_alignment",
+      "kp_ch11_019_static_reconstruction"
+    ],
+    "key_points": [
+      "通过全方位感知网络获取道路物理实体的几何形态、属性参数和运行状态，并解决不同来源数据的融合问题。",
+      "构建数字孪生的感知基础。",
+      "支撑全域感知、动态映射与状态同步。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_017",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_018_spatiotemporal_alignment",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "时空对齐",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "统一空间参考和时间基准，使不同设备、平台和阶段的数据能够在同一坐标系和时间轴上正确融合。",
+    "core_explanation": "多源数据融合的先决条件。",
+    "plain_explanation": "不同数据只有对齐坐标和时间，才能放在一个孪生模型里。",
+    "engineering_meaning": "保证虚实映射一致性和动态分析可靠性。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_018",
+    "keywords": [
+      "时空对齐",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_016_visualization_platform",
+      "kp_ch11_017_multisource_data_collection",
+      "kp_ch11_019_static_reconstruction",
+      "kp_ch11_020_cgcs2000_height_datum"
+    ],
+    "key_points": [
+      "统一空间参考和时间基准，使不同设备、平台和阶段的数据能够在同一坐标系和时间轴上正确融合。",
+      "多源数据融合的先决条件。",
+      "保证虚实映射一致性和动态分析可靠性。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_018",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_019_static_reconstruction",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "静态几何与物理属性重构",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "围绕统一时空基准，重构道路及附属设施的三维几何、物理属性和语义信息，形成高精度数据底座。",
+    "core_explanation": "数字孪生的基础建模工作。",
+    "plain_explanation": "先把道路及环境建立成准确的数字底座。",
+    "engineering_meaning": "支撑后续监测、分析和预测。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_019",
+    "keywords": [
+      "静态几何与物理属性重构",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_017_multisource_data_collection",
+      "kp_ch11_018_spatiotemporal_alignment",
+      "kp_ch11_020_cgcs2000_height_datum",
+      "kp_ch11_021_lidar_point_cloud"
+    ],
+    "key_points": [
+      "围绕统一时空基准，重构道路及附属设施的三维几何、物理属性和语义信息，形成高精度数据底座。",
+      "数字孪生的基础建模工作。",
+      "支撑后续监测、分析和预测。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_019",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_020_cgcs2000_height_datum",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "统一空间与高程基准",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "采用CGCS2000和1985国家高程基准等统一空间标准，必要时处理长距离道路的投影变形。",
+    "core_explanation": "保证空间数据规范与通用。",
+    "plain_explanation": "路线很长时要特别注意坐标和投影问题。",
+    "engineering_meaning": "支撑跨系统交换和成果交付。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_020",
+    "keywords": [
+      "统一空间与高程基准",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_018_spatiotemporal_alignment",
+      "kp_ch11_019_static_reconstruction",
+      "kp_ch11_021_lidar_point_cloud",
+      "kp_ch11_022_reality_mesh"
+    ],
+    "key_points": [
+      "采用CGCS2000和1985国家高程基准等统一空间标准，必要时处理长距离道路的投影变形。",
+      "保证空间数据规范与通用。",
+      "支撑跨系统交换和成果交付。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_020",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_021_lidar_point_cloud",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "LiDAR点云融合",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "综合机载、车载、地面站式激光雷达采集道路走廊、路面设施和复杂结构点云，并通过配准和语义分割实现融合。",
+    "core_explanation": "获取高密度三维几何数据的关键技术。",
+    "plain_explanation": "用激光扫描把真实道路变成可建模的点云。",
+    "engineering_meaning": "支撑几何重构、设施识别与变形分析。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_021",
+    "keywords": [
+      "LiDAR点云融合",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_019_static_reconstruction",
+      "kp_ch11_020_cgcs2000_height_datum",
+      "kp_ch11_022_reality_mesh",
+      "kp_ch11_023_physical_semantic_integration"
+    ],
+    "key_points": [
+      "综合机载、车载、地面站式激光雷达采集道路走廊、路面设施和复杂结构点云，并通过配准和语义分割实现融合。",
+      "获取高密度三维几何数据的关键技术。",
+      "支撑几何重构、设施识别与变形分析。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_021",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_022_reality_mesh",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "实景三维重建",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "利用倾斜摄影、SfM与MVS生成带真实纹理的实景三维模型，表达道路周边环境约束。",
+    "core_explanation": "构建真实空间语境。",
+    "plain_explanation": "让模型不仅有道路，还能有周边地形、建筑、植被等。",
+    "engineering_meaning": "支撑环境—道路耦合分析。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_022",
+    "keywords": [
+      "实景三维重建",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_020_cgcs2000_height_datum",
+      "kp_ch11_021_lidar_point_cloud",
+      "kp_ch11_023_physical_semantic_integration",
+      "kp_ch11_024_dynamic_sensing_network"
+    ],
+    "key_points": [
+      "利用倾斜摄影、SfM与MVS生成带真实纹理的实景三维模型，表达道路周边环境约束。",
+      "构建真实空间语境。",
+      "支撑环境—道路耦合分析。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_022",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_023_physical_semantic_integration",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "物理属性与语义集成",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "将结构层厚度、弹性模量、地质属性、资产编码、管养记录等非几何信息绑定至模型构件。",
+    "core_explanation": "实现几何—物理—语义一体化。",
+    "plain_explanation": "数字孪生不能只有形状，还要知道材料、状态和管理信息。",
+    "engineering_meaning": "支撑性能预测、资产管理和责任追溯。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_023",
+    "keywords": [
+      "物理属性与语义集成",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_021_lidar_point_cloud",
+      "kp_ch11_022_reality_mesh",
+      "kp_ch11_024_dynamic_sensing_network",
+      "kp_ch11_025_structural_health_sensing"
+    ],
+    "key_points": [
+      "将结构层厚度、弹性模量、地质属性、资产编码、管养记录等非几何信息绑定至模型构件。",
+      "实现几何—物理—语义一体化。",
+      "支撑性能预测、资产管理和责任追溯。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_023",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_024_dynamic_sensing_network",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "动态运行数据全息感知网络",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "持续采集结构健康、交通流、环境边界等动态状态因子，使孪生体能够实时表征物理道路运行逻辑。",
+    "core_explanation": "数字孪生动态性的核心。",
+    "plain_explanation": "道路运行中的车流、荷载、天气、病害都要进入模型。",
+    "engineering_meaning": "支撑实时监测、风险预警和虚实交互。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_024",
+    "keywords": [
+      "动态运行数据全息感知网络",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_022_reality_mesh",
+      "kp_ch11_023_physical_semantic_integration",
+      "kp_ch11_025_structural_health_sensing",
+      "kp_ch11_026_traffic_behavior_sensing"
+    ],
+    "key_points": [
+      "持续采集结构健康、交通流、环境边界等动态状态因子，使孪生体能够实时表征物理道路运行逻辑。",
+      "数字孪生动态性的核心。",
+      "支撑实时监测、风险预警和虚实交互。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_024",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_025_structural_health_sensing",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "结构状态感知",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "通过光纤光栅、应变计、加速度计、静力水准仪等监测桥隧边坡等关键设施的力学响应和变形状态。",
+    "core_explanation": "基础设施安全监测核心。",
+    "plain_explanation": "通过传感器感知道路结构是否安全。",
+    "engineering_meaning": "支撑结构健康评估和疲劳预测。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_025",
+    "keywords": [
+      "结构状态感知",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_023_physical_semantic_integration",
+      "kp_ch11_024_dynamic_sensing_network",
+      "kp_ch11_026_traffic_behavior_sensing",
+      "kp_ch11_027_environment_boundary_sensing"
+    ],
+    "key_points": [
+      "通过光纤光栅、应变计、加速度计、静力水准仪等监测桥隧边坡等关键设施的力学响应和变形状态。",
+      "基础设施安全监测核心。",
+      "支撑结构健康评估和疲劳预测。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_025",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_026_traffic_behavior_sensing",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "交通流与行为感知",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "通过雷视融合、V2X和连续跟踪获取车辆位置、速度、车型、轨迹等微观交通数据。",
+    "core_explanation": "交通数字孪生的数据基础。",
+    "plain_explanation": "不仅看流量，还要看每辆车怎么运行。",
+    "engineering_meaning": "支撑微观仿真、冲突识别和主动管控。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_026",
+    "keywords": [
+      "交通流与行为感知",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_024_dynamic_sensing_network",
+      "kp_ch11_025_structural_health_sensing",
+      "kp_ch11_027_environment_boundary_sensing",
+      "kp_ch11_028_edge_preprocessing"
+    ],
+    "key_points": [
+      "通过雷视融合、V2X和连续跟踪获取车辆位置、速度、车型、轨迹等微观交通数据。",
+      "交通数字孪生的数据基础。",
+      "支撑微观仿真、冲突识别和主动管控。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_026",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_027_environment_boundary_sensing",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "环境边界与路面状态感知",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "监测水膜、积雪、结冰温度、摩擦系数、能见度、风速等环境因子，驱动道路运行风险分析。",
+    "core_explanation": "复杂环境下安全评价基础。",
+    "plain_explanation": "天气和路面状态会直接影响行车安全。",
+    "engineering_meaning": "支撑气象应急和运行风险预警。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_027",
+    "keywords": [
+      "环境边界与路面状态感知",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_025_structural_health_sensing",
+      "kp_ch11_026_traffic_behavior_sensing",
+      "kp_ch11_028_edge_preprocessing",
+      "kp_ch11_029_high_fidelity_modeling"
+    ],
+    "key_points": [
+      "监测水膜、积雪、结冰温度、摩擦系数、能见度、风速等环境因子，驱动道路运行风险分析。",
+      "复杂环境下安全评价基础。",
+      "支撑气象应急和运行风险预警。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_027",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_028_edge_preprocessing",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "边缘预处理",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "在路侧或前端节点对视频、雷达、点云数据进行清洗、检测和特征提取，只上传关键结构化数据。",
+    "core_explanation": "提升系统响应效率。",
+    "plain_explanation": "不把所有原始数据都传回中心，先在前端处理。",
+    "engineering_meaning": "降低通信负载并提高实时性。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_028",
+    "keywords": [
+      "边缘预处理",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_026_traffic_behavior_sensing",
+      "kp_ch11_027_environment_boundary_sensing",
+      "kp_ch11_029_high_fidelity_modeling",
+      "kp_ch11_030_bim_gis_semantic_integration"
+    ],
+    "key_points": [
+      "在路侧或前端节点对视频、雷达、点云数据进行清洗、检测和特征提取，只上传关键结构化数据。",
+      "提升系统响应效率。",
+      "降低通信负载并提高实时性。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_028",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_029_high_fidelity_modeling",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "多尺度高保真建模",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "在保证整体交互效率的基础上，按业务场景动态调度模型精度，实现从路网到构件内部的按需高保真表达。",
+    "core_explanation": "数字孪生模型层的核心能力。",
+    "plain_explanation": "该精细的时候精细，该轻量的时候轻量。",
+    "engineering_meaning": "支撑宏观调度与精细分析统一。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_029",
+    "keywords": [
+      "多尺度高保真建模",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_027_environment_boundary_sensing",
+      "kp_ch11_028_edge_preprocessing",
+      "kp_ch11_030_bim_gis_semantic_integration",
+      "kp_ch11_031_guid_spatial_index"
+    ],
+    "key_points": [
+      "在保证整体交互效率的基础上，按业务场景动态调度模型精度，实现从路网到构件内部的按需高保真表达。",
+      "数字孪生模型层的核心能力。",
+      "支撑宏观调度与精细分析统一。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_029",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_030_bim_gis_semantic_integration",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "BIM与GIS深度语义集成",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "通过IFC、CityGML等标准及语义映射，实现BIM构件级信息与GIS空间对象的互操作和统一调用。",
+    "core_explanation": "解决微观构件与宏观空间的语义壁垒。",
+    "plain_explanation": "BIM和GIS不仅要显示在一起，还要语义能对应。",
+    "engineering_meaning": "支撑资产检索、空间分析和状态追溯。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_030",
+    "keywords": [
+      "BIM与GIS深度语义集成",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_028_edge_preprocessing",
+      "kp_ch11_029_high_fidelity_modeling",
+      "kp_ch11_031_guid_spatial_index",
+      "kp_ch11_032_web_lightweight_model"
+    ],
+    "key_points": [
+      "通过IFC、CityGML等标准及语义映射，实现BIM构件级信息与GIS空间对象的互操作和统一调用。",
+      "解决微观构件与宏观空间的语义壁垒。",
+      "支撑资产检索、空间分析和状态追溯。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_030",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_031_guid_spatial_index",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "GUID与空间索引关联",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "保持构件GUID连续性，并在GIS环境中将其作为空间对象核心索引键，实现空间位置—资产编码—管理属性关联。",
+    "core_explanation": "构件级资产溯源基础。",
+    "plain_explanation": "每个资产要有唯一身份，并能在地图上定位。",
+    "engineering_meaning": "支撑运维查询和责任追溯。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_031",
+    "keywords": [
+      "GUID与空间索引关联",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_029_high_fidelity_modeling",
+      "kp_ch11_030_bim_gis_semantic_integration",
+      "kp_ch11_032_web_lightweight_model",
+      "kp_ch11_033_lod_dynamic_loading"
+    ],
+    "key_points": [
+      "保持构件GUID连续性，并在GIS环境中将其作为空间对象核心索引键，实现空间位置—资产编码—管理属性关联。",
+      "构件级资产溯源基础。",
+      "支撑运维查询和责任追溯。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_031",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_032_web_lightweight_model",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "Web端轻量化融合",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "通过3D Tiles、I3S、HLOD、空间分块、流式传输和渲染优化，实现大规模模型在线加载与交互。",
+    "core_explanation": "数字孪生平台实用化关键。",
+    "plain_explanation": "模型很大，必须按需加载，不能一次全加载。",
+    "engineering_meaning": "支撑网页端大场景浏览。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_032",
+    "keywords": [
+      "Web端轻量化融合",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_030_bim_gis_semantic_integration",
+      "kp_ch11_031_guid_spatial_index",
+      "kp_ch11_033_lod_dynamic_loading",
+      "kp_ch11_034_sse_scheduling"
+    ],
+    "key_points": [
+      "通过3D Tiles、I3S、HLOD、空间分块、流式传输和渲染优化，实现大规模模型在线加载与交互。",
+      "数字孪生平台实用化关键。",
+      "支撑网页端大场景浏览。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_032",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_033_lod_dynamic_loading",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "LOD动态加载机制",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "根据业务场景和视角动态选择模型精细度，宏观视角加载低精度，局部关注加载高精度。",
+    "core_explanation": "按需高保真策略。",
+    "plain_explanation": "远看简化，近看精细。",
+    "engineering_meaning": "兼顾显示性能与局部分析精度。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_033",
+    "keywords": [
+      "LOD动态加载机制",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_031_guid_spatial_index",
+      "kp_ch11_032_web_lightweight_model",
+      "kp_ch11_034_sse_scheduling",
+      "kp_ch11_035_hybrid_modeling"
+    ],
+    "key_points": [
+      "根据业务场景和视角动态选择模型精细度，宏观视角加载低精度，局部关注加载高精度。",
+      "按需高保真策略。",
+      "兼顾显示性能与局部分析精度。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_033",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_034_sse_scheduling",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "SSE动态调度策略",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "根据模型在屏幕中所占像素误差动态切换LOD，并结合道路中心线预加载前方区域数据。",
+    "core_explanation": "模型加载优化方法。",
+    "plain_explanation": "按屏幕误差决定加载多精细的模型。",
+    "engineering_meaning": "提升漫游和巡检过程的稳定性。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_034",
+    "keywords": [
+      "SSE动态调度策略",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_032_web_lightweight_model",
+      "kp_ch11_033_lod_dynamic_loading",
+      "kp_ch11_035_hybrid_modeling",
+      "kp_ch11_036_rom_online_compute"
+    ],
+    "key_points": [
+      "根据模型在屏幕中所占像素误差动态切换LOD，并结合道路中心线预加载前方区域数据。",
+      "模型加载优化方法。",
+      "提升漫游和巡检过程的稳定性。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_034",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_035_hybrid_modeling",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "物理机理—数据驱动混合建模",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "将物理机理模型与数据驱动模型结合，在保持工程机理合理性的同时提高实时预测和诊断能力。",
+    "core_explanation": "智能仿真预测的核心方法。",
+    "plain_explanation": "只靠物理模型慢，只靠数据模型不稳，两者结合更可靠。",
+    "engineering_meaning": "支撑性能预测、状态诊断和决策优化。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_035",
+    "keywords": [
+      "物理机理—数据驱动混合建模",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_033_lod_dynamic_loading",
+      "kp_ch11_034_sse_scheduling",
+      "kp_ch11_036_rom_online_compute",
+      "kp_ch11_037_model_update_calibration"
+    ],
+    "key_points": [
+      "将物理机理模型与数据驱动模型结合，在保持工程机理合理性的同时提高实时预测和诊断能力。",
+      "智能仿真预测的核心方法。",
+      "支撑性能预测、状态诊断和决策优化。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_035",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_036_rom_online_compute",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "降阶模型在线计算",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "将高维有限元等物理模型转化为低维代理模型，在保留关键力学特征的前提下提高计算效率。",
+    "core_explanation": "实时结构分析的重要手段。",
+    "plain_explanation": "把复杂模型简化成能快速算的模型。",
+    "engineering_meaning": "支撑桥隧结构近实时状态解算。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_036",
+    "keywords": [
+      "降阶模型在线计算",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_034_sse_scheduling",
+      "kp_ch11_035_hybrid_modeling",
+      "kp_ch11_037_model_update_calibration",
+      "kp_ch11_038_digital_asset_identity"
+    ],
+    "key_points": [
+      "将高维有限元等物理模型转化为低维代理模型，在保留关键力学特征的前提下提高计算效率。",
+      "实时结构分析的重要手段。",
+      "支撑桥隧结构近实时状态解算。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_036",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_037_model_update_calibration",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "模型更新与实测校准",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "利用传感器实测数据持续校准物理模型参数，使虚拟模型逐步逼近真实结构状态。",
+    "core_explanation": "虚实一致性保障。",
+    "plain_explanation": "模型要不断用真实数据修正。",
+    "engineering_meaning": "支撑损伤定位和趋势识别。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_037",
+    "keywords": [
+      "模型更新与实测校准",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_035_hybrid_modeling",
+      "kp_ch11_036_rom_online_compute",
+      "kp_ch11_038_digital_asset_identity",
+      "kp_ch11_039_cde_twin_evolution"
+    ],
+    "key_points": [
+      "利用传感器实测数据持续校准物理模型参数，使虚拟模型逐步逼近真实结构状态。",
+      "虚实一致性保障。",
+      "支撑损伤定位和趋势识别。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_037",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_038_digital_asset_identity",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "数字资产唯一身份",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "通过GUID、资产分类编码、时空定位和信息深度映射，为每个道路设施建立可追踪的数字身份。",
+    "core_explanation": "数字主线资产管理基础。",
+    "plain_explanation": "每个构件要有身份证，才能跨阶段追踪。",
+    "engineering_meaning": "支撑台账管理、信息继承和责任追溯。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_038",
+    "keywords": [
+      "数字资产唯一身份",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_036_rom_online_compute",
+      "kp_ch11_037_model_update_calibration",
+      "kp_ch11_039_cde_twin_evolution",
+      "kp_ch11_040_twin_data_security"
+    ],
+    "key_points": [
+      "通过GUID、资产分类编码、时空定位和信息深度映射，为每个道路设施建立可追踪的数字身份。",
+      "数字主线资产管理基础。",
+      "支撑台账管理、信息继承和责任追溯。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_038",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_039_cde_twin_evolution",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "CDE向数字孪生数据底座演进",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "协同数据环境由成果交付平台演进为支持感知数据、运维记录和模型状态持续更新的综合数据底座。",
+    "core_explanation": "平台运行数据管理基础。",
+    "plain_explanation": "CDE不再只是放文件，而要支持动态数据运行。",
+    "engineering_meaning": "支撑版本管理、安全审计和长期维护。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_039",
+    "keywords": [
+      "CDE向数字孪生数据底座演进",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_037_model_update_calibration",
+      "kp_ch11_038_digital_asset_identity",
+      "kp_ch11_040_twin_data_security",
+      "kp_ch11_041_simulation_prediction_center"
+    ],
+    "key_points": [
+      "协同数据环境由成果交付平台演进为支持感知数据、运维记录和模型状态持续更新的综合数据底座。",
+      "平台运行数据管理基础。",
+      "支撑版本管理、安全审计和长期维护。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_039",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_040_twin_data_security",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "数字孪生数据安全与审计",
+    "knowledge_type": "risk",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "通过权限分级、访问审计、可信存证和责任追溯，保护关键基础设施空间数据与交通运行数据。",
+    "core_explanation": "数字孪生必须考虑安全治理。",
+    "plain_explanation": "基础设施数据敏感，不能随意开放。",
+    "engineering_meaning": "支撑合规管理与平台可信运行。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_040",
+    "keywords": [
+      "数字孪生数据安全与审计",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_038_digital_asset_identity",
+      "kp_ch11_039_cde_twin_evolution",
+      "kp_ch11_041_simulation_prediction_center",
+      "kp_ch11_042_pavement_decay_prediction"
+    ],
+    "key_points": [
+      "通过权限分级、访问审计、可信存证和责任追溯，保护关键基础设施空间数据与交通运行数据。",
+      "数字孪生必须考虑安全治理。",
+      "支撑合规管理与平台可信运行。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_040",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_041_simulation_prediction_center",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "智能化仿真分析与预测",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "综合物理机理模型与数据驱动方法，在虚拟空间中对结构响应、交通态势和环境影响进行动态仿真与前瞻推演。",
+    "core_explanation": "数字孪生的决策中枢。",
+    "plain_explanation": "用虚拟模型提前算未来可能怎样。",
+    "engineering_meaning": "支撑主动预测和前瞻干预。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_041",
+    "keywords": [
+      "智能化仿真分析与预测",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_039_cde_twin_evolution",
+      "kp_ch11_040_twin_data_security",
+      "kp_ch11_042_pavement_decay_prediction",
+      "kp_ch11_043_bridge_tunnel_fatigue_prediction"
+    ],
+    "key_points": [
+      "综合物理机理模型与数据驱动方法，在虚拟空间中对结构响应、交通态势和环境影响进行动态仿真与前瞻推演。",
+      "数字孪生的决策中枢。",
+      "支撑主动预测和前瞻干预。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_041",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_042_pavement_decay_prediction",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "路面性能衰变预测",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "基于平整度、车辙、结构强度等长期监测数据，结合交通荷载和气候条件预测路面性能演变。",
+    "core_explanation": "预测性养护基础。",
+    "plain_explanation": "提前判断路面什么时候会变差。",
+    "engineering_meaning": "支撑养护时机与方案优化。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_042",
+    "keywords": [
+      "路面性能衰变预测",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_040_twin_data_security",
+      "kp_ch11_041_simulation_prediction_center",
+      "kp_ch11_043_bridge_tunnel_fatigue_prediction",
+      "kp_ch11_044_traffic_flow_online_simulation"
+    ],
+    "key_points": [
+      "基于平整度、车辙、结构强度等长期监测数据，结合交通荷载和气候条件预测路面性能演变。",
+      "预测性养护基础。",
+      "支撑养护时机与方案优化。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_042",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_043_bridge_tunnel_fatigue_prediction",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "桥隧疲劳与寿命预测",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "结合实测轴载、应力谱、材料疲劳特性和降阶模型，对关键构件受力状态和剩余寿命进行预测。",
+    "core_explanation": "结构安全预警基础。",
+    "plain_explanation": "提前发现桥梁、隧道关键构件疲劳风险。",
+    "engineering_meaning": "支撑大中修计划和安全预警。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_043",
+    "keywords": [
+      "桥隧疲劳与寿命预测",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_041_simulation_prediction_center",
+      "kp_ch11_042_pavement_decay_prediction",
+      "kp_ch11_044_traffic_flow_online_simulation",
+      "kp_ch11_045_traffic_safety_dynamic_risk"
+    ],
+    "key_points": [
+      "结合实测轴载、应力谱、材料疲劳特性和降阶模型，对关键构件受力状态和剩余寿命进行预测。",
+      "结构安全预警基础。",
+      "支撑大中修计划和安全预警。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_043",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_044_traffic_flow_online_simulation",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "实时交通流仿真",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "将车辆轨迹等实时数据注入仿真引擎，使虚拟交通流与现实运行状态同步演化。",
+    "core_explanation": "交通治理中的在线推演能力。",
+    "plain_explanation": "把真实车流映射成同步运行的数字车流。",
+    "engineering_meaning": "支撑拥堵预测和管控方案比选。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_044",
+    "keywords": [
+      "实时交通流仿真",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_042_pavement_decay_prediction",
+      "kp_ch11_043_bridge_tunnel_fatigue_prediction",
+      "kp_ch11_045_traffic_safety_dynamic_risk",
+      "kp_ch11_046_emergency_simulation_resilience"
+    ],
+    "key_points": [
+      "将车辆轨迹等实时数据注入仿真引擎，使虚拟交通流与现实运行状态同步演化。",
+      "交通治理中的在线推演能力。",
+      "支撑拥堵预测和管控方案比选。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_044",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_045_traffic_safety_dynamic_risk",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "交通安全风险动态评价",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "结合线形设施几何、车辆轨迹和气象条件识别冲突点与高风险路段，评估风险演化趋势。",
+    "core_explanation": "动态安全管理方法。",
+    "plain_explanation": "实时判断哪些路段安全风险在升高。",
+    "engineering_meaning": "支撑限速、分流和临时封闭策略。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_045",
+    "keywords": [
+      "交通安全风险动态评价",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_043_bridge_tunnel_fatigue_prediction",
+      "kp_ch11_044_traffic_flow_online_simulation",
+      "kp_ch11_046_emergency_simulation_resilience",
+      "kp_ch11_047_closed_loop_control"
+    ],
+    "key_points": [
+      "结合线形设施几何、车辆轨迹和气象条件识别冲突点与高风险路段，评估风险演化趋势。",
+      "动态安全管理方法。",
+      "支撑限速、分流和临时封闭策略。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_045",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_046_emergency_simulation_resilience",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "应急推演与韧性评价",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "在事故、灾害或极端气候条件下开展应急情景模拟、资源调度仿真和系统恢复能力评估。",
+    "core_explanation": "道路系统韧性管理核心。",
+    "plain_explanation": "灾害前可以预演，灾害后可以评估恢复路径。",
+    "engineering_meaning": "支撑应急处置和恢复重建规划。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_046",
+    "keywords": [
+      "应急推演与韧性评价",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_044_traffic_flow_online_simulation",
+      "kp_ch11_045_traffic_safety_dynamic_risk",
+      "kp_ch11_047_closed_loop_control",
+      "kp_ch11_048_human_in_loop_safety"
+    ],
+    "key_points": [
+      "在事故、灾害或极端气候条件下开展应急情景模拟、资源调度仿真和系统恢复能力评估。",
+      "道路系统韧性管理核心。",
+      "支撑应急处置和恢复重建规划。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_046",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_047_closed_loop_control",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "虚实映射与闭环控制",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "建立从虚拟模型、分析决策、物理执行、状态反馈到模型更新的闭环控制链路。",
+    "core_explanation": "数字孪生价值落地的关键。",
+    "plain_explanation": "分析结果要能回到现实，执行结果又要反馈给模型。",
+    "engineering_meaning": "支撑精准管控与可验证执行。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_047",
+    "keywords": [
+      "虚实映射与闭环控制",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_045_traffic_safety_dynamic_risk",
+      "kp_ch11_046_emergency_simulation_resilience",
+      "kp_ch11_048_human_in_loop_safety",
+      "kp_ch11_049_ar_vr_interaction"
+    ],
+    "key_points": [
+      "建立从虚拟模型、分析决策、物理执行、状态反馈到模型更新的闭环控制链路。",
+      "数字孪生价值落地的关键。",
+      "支撑精准管控与可验证执行。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_047",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_048_human_in_loop_safety",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "人机协同与安全第一",
+    "knowledge_type": "principle",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "涉及行车安全和公众出行秩序的控制措施应以半自动模式为主，经人工确认后执行。",
+    "core_explanation": "虚实交互控制边界。",
+    "plain_explanation": "模型建议不能未经确认就直接控制关键安全系统。",
+    "engineering_meaning": "避免模型误差或异常工况造成风险。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_048",
+    "keywords": [
+      "人机协同与安全第一",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_046_emergency_simulation_resilience",
+      "kp_ch11_047_closed_loop_control",
+      "kp_ch11_049_ar_vr_interaction",
+      "kp_ch11_050_collaborative_governance"
+    ],
+    "key_points": [
+      "涉及行车安全和公众出行秩序的控制措施应以半自动模式为主，经人工确认后执行。",
+      "虚实交互控制边界。",
+      "避免模型误差或异常工况造成风险。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_048",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_049_ar_vr_interaction",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "AR/VR增强呈现与远程协同",
+    "knowledge_type": "technology",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "将模型、感知数据和现场影像叠加展示，支持隐蔽工程呈现、远程标注和多方协同决策。",
+    "core_explanation": "提升复杂系统认知能力。",
+    "plain_explanation": "让管理者更直观地理解模型和现场状态。",
+    "engineering_meaning": "支撑远程巡检与专家协同。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_049",
+    "keywords": [
+      "AR/VR增强呈现与远程协同",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_047_closed_loop_control",
+      "kp_ch11_048_human_in_loop_safety",
+      "kp_ch11_050_collaborative_governance",
+      "kp_ch11_051_environment_road_coupling"
+    ],
+    "key_points": [
+      "将模型、感知数据和现场影像叠加展示，支持隐蔽工程呈现、远程标注和多方协同决策。",
+      "提升复杂系统认知能力。",
+      "支撑远程巡检与专家协同。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_049",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_050_collaborative_governance",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "协同治理决策支持",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "基于统一时空基准、权威主数据和数字主线，为多部门共享同一模型语境下的方案比选与应急演练提供支持。",
+    "core_explanation": "从单一专业分析扩展到现代治理。",
+    "plain_explanation": "让交警、路政、养护、应急等部门在同一个数字底图上协同。",
+    "engineering_meaning": "支撑跨部门治理和长期价值评估。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_050",
+    "keywords": [
+      "协同治理决策支持",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_048_human_in_loop_safety",
+      "kp_ch11_049_ar_vr_interaction",
+      "kp_ch11_051_environment_road_coupling",
+      "kp_ch11_052_transparent_geology"
+    ],
+    "key_points": [
+      "基于统一时空基准、权威主数据和数字主线，为多部门共享同一模型语境下的方案比选与应急演练提供支持。",
+      "从单一专业分析扩展到现代治理。",
+      "支撑跨部门治理和长期价值评估。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_050",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_051_environment_road_coupling",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "环境—道路耦合设计",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "在BIM+GIS基础上引入时间维度和物理约束，在真实三维环境中推演地形、地质、水文、气象对道路方案的影响。",
+    "core_explanation": "数字孪生在设计阶段的应用。",
+    "plain_explanation": "在建之前先让道路和环境在虚拟空间中相互作用。",
+    "engineering_meaning": "支撑设计即验证、优化前置。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_051",
+    "keywords": [
+      "环境—道路耦合设计",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_049_ar_vr_interaction",
+      "kp_ch11_050_collaborative_governance",
+      "kp_ch11_052_transparent_geology",
+      "kp_ch11_053_hydrological_drainage_optimization"
+    ],
+    "key_points": [
+      "在BIM+GIS基础上引入时间维度和物理约束，在真实三维环境中推演地形、地质、水文、气象对道路方案的影响。",
+      "数字孪生在设计阶段的应用。",
+      "支撑设计即验证、优化前置。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_051",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_052_transparent_geology",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "透明地质表达",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "集成钻孔、物探等数据构建地下三维地质解释模型，但其精度受数据密度和模型假设限制。",
+    "core_explanation": "环境—道路耦合设计的关键资源。",
+    "plain_explanation": "地下模型是解释结果，不是绝对真实。",
+    "engineering_meaning": "用于识别断层、滑坡体等风险。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_052",
+    "keywords": [
+      "透明地质表达",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_050_collaborative_governance",
+      "kp_ch11_051_environment_road_coupling",
+      "kp_ch11_053_hydrological_drainage_optimization",
+      "kp_ch11_054_wind_structure_safety"
+    ],
+    "key_points": [
+      "集成钻孔、物探等数据构建地下三维地质解释模型，但其精度受数据密度和模型假设限制。",
+      "环境—道路耦合设计的关键资源。",
+      "用于识别断层、滑坡体等风险。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_052",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_053_hydrological_drainage_optimization",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "水文模拟与排水优化",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "基于高精度地表模型和CFD等方法推演极端降雨下径流路径、流速、积水点和冲刷风险，优化边沟、涵洞与泵站。",
+    "core_explanation": "多物理场仿真应用。",
+    "plain_explanation": "用仿真提前验证排水系统是否可靠。",
+    "engineering_meaning": "支撑极端天气下防灾抗灾设计。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_053",
+    "keywords": [
+      "水文模拟与排水优化",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_051_environment_road_coupling",
+      "kp_ch11_052_transparent_geology",
+      "kp_ch11_054_wind_structure_safety",
+      "kp_ch11_055_generative_design_twin"
+    ],
+    "key_points": [
+      "基于高精度地表模型和CFD等方法推演极端降雨下径流路径、流速、积水点和冲刷风险，优化边沟、涵洞与泵站。",
+      "多物理场仿真应用。",
+      "支撑极端天气下防灾抗灾设计。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_053",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_054_wind_structure_safety",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "风场与结构动力稳定性分析",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "模拟峡谷风、强侧风或台风对桥梁结构和车辆行驶稳定性的影响，评估抗风与安全设施需求。",
+    "core_explanation": "桥梁与交通安全综合仿真。",
+    "plain_explanation": "把气象、结构和车辆安全放在一起分析。",
+    "engineering_meaning": "支撑挡风屏和结构抗风设计。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_054",
+    "keywords": [
+      "风场与结构动力稳定性分析",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_052_transparent_geology",
+      "kp_ch11_053_hydrological_drainage_optimization",
+      "kp_ch11_055_generative_design_twin",
+      "kp_ch11_056_parameter_optimization_layout"
+    ],
+    "key_points": [
+      "模拟峡谷风、强侧风或台风对桥梁结构和车辆行驶稳定性的影响，评估抗风与安全设施需求。",
+      "桥梁与交通安全综合仿真。",
+      "支撑挡风屏和结构抗风设计。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_054",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_055_generative_design_twin",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "AI与数字孪生驱动生成式设计",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "融合算法驱动、知识驱动与数据驱动方法，在三维环境中自动生成、筛选和优化道路方案。",
+    "core_explanation": "设计阶段智能化方向。",
+    "plain_explanation": "系统能在约束条件下探索大量可行路线。",
+    "engineering_meaning": "支撑多目标方案生成与决策。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_055",
+    "keywords": [
+      "AI与数字孪生驱动生成式设计",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_053_hydrological_drainage_optimization",
+      "kp_ch11_054_wind_structure_safety",
+      "kp_ch11_056_parameter_optimization_layout",
+      "kp_ch11_057_pareto_decision_support"
+    ],
+    "key_points": [
+      "融合算法驱动、知识驱动与数据驱动方法，在三维环境中自动生成、筛选和优化道路方案。",
+      "设计阶段智能化方向。",
+      "支撑多目标方案生成与决策。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_055",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_056_parameter_optimization_layout",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "算法驱动参数化自动布局",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "根据设计速度、半径、纵坡等约束参数，利用遗传算法、粒子群等启发式方法自动搜索可行方案。",
+    "core_explanation": "生成式设计的算法基础。",
+    "plain_explanation": "让算法在设计空间中找更优路线。",
+    "engineering_meaning": "提升方案搜索范围和效率。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_056",
+    "keywords": [
+      "算法驱动参数化自动布局",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_054_wind_structure_safety",
+      "kp_ch11_055_generative_design_twin",
+      "kp_ch11_057_pareto_decision_support",
+      "kp_ch11_058_virtual_driving_safety"
+    ],
+    "key_points": [
+      "根据设计速度、半径、纵坡等约束参数，利用遗传算法、粒子群等启发式方法自动搜索可行方案。",
+      "生成式设计的算法基础。",
+      "提升方案搜索范围和效率。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_056",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_057_pareto_decision_support",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "多目标帕累托决策支持",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "综合造价、碳排放、土地占用、工程性能等指标生成帕累托解集，辅助方案平衡决策。",
+    "core_explanation": "多目标优化核心。",
+    "plain_explanation": "没有唯一最好方案，而是一组相互权衡的优选方案。",
+    "engineering_meaning": "支撑经济、环保和工程性能综合比选。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_057",
+    "keywords": [
+      "多目标帕累托决策支持",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_055_generative_design_twin",
+      "kp_ch11_056_parameter_optimization_layout",
+      "kp_ch11_058_virtual_driving_safety",
+      "kp_ch11_059_dynamic_sight_distance"
+    ],
+    "key_points": [
+      "综合造价、碳排放、土地占用、工程性能等指标生成帕累托解集，辅助方案平衡决策。",
+      "多目标优化核心。",
+      "支撑经济、环保和工程性能综合比选。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_057",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_058_virtual_driving_safety",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "虚拟驾驶仿真与安全评价",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "在高保真虚拟环境中开展驾驶员视角视距核查、视觉诱导评价和车辆动力学仿真，前置识别安全风险。",
+    "core_explanation": "安全风险前置验证。",
+    "plain_explanation": "道路建成前先在虚拟环境中“试驾”。",
+    "engineering_meaning": "支撑线形优化和主动安全验证。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_058",
+    "keywords": [
+      "虚拟驾驶仿真与安全评价",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_056_parameter_optimization_layout",
+      "kp_ch11_057_pareto_decision_support",
+      "kp_ch11_059_dynamic_sight_distance",
+      "kp_ch11_060_construction_cps"
+    ],
+    "key_points": [
+      "在高保真虚拟环境中开展驾驶员视角视距核查、视觉诱导评价和车辆动力学仿真，前置识别安全风险。",
+      "安全风险前置验证。",
+      "支撑线形优化和主动安全验证。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_058",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_059_dynamic_sight_distance",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "三维视距连续性检验",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "从驾驶员视角沿行车轨迹连续扫描，识别边坡、植被、交通设施等遮挡造成的视距受限。",
+    "core_explanation": "虚拟驾驶的重要分析。",
+    "plain_explanation": "不是只算一个断面，而是连续检查全线视距。",
+    "engineering_meaning": "支撑停车视距、超车视距和视觉诱导评价。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_059",
+    "keywords": [
+      "三维视距连续性检验",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_057_pareto_decision_support",
+      "kp_ch11_058_virtual_driving_safety",
+      "kp_ch11_060_construction_cps",
+      "kp_ch11_061_digital_construction_delivery"
+    ],
+    "key_points": [
+      "从驾驶员视角沿行车轨迹连续扫描，识别边坡、植被、交通设施等遮挡造成的视距受限。",
+      "虚拟驾驶的重要分析。",
+      "支撑停车视距、超车视距和视觉诱导评价。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_059",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_060_construction_cps",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "施工现场信息物理系统CPS",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "将施工现场人、机、料、法、环等要素感知并映射到数字工地，实现施工过程实时同步和反馈。",
+    "core_explanation": "施工阶段数字孪生基础。",
+    "plain_explanation": "物理工地和数字工地同步运行。",
+    "engineering_meaning": "支撑施工安全、进度和质量管控。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_060",
+    "keywords": [
+      "施工现场信息物理系统CPS",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_058_virtual_driving_safety",
+      "kp_ch11_059_dynamic_sight_distance",
+      "kp_ch11_061_digital_construction_delivery",
+      "kp_ch11_062_predictive_maintenance"
+    ],
+    "key_points": [
+      "将施工现场人、机、料、法、环等要素感知并映射到数字工地，实现施工过程实时同步和反馈。",
+      "施工阶段数字孪生基础。",
+      "支撑施工安全、进度和质量管控。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_060",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_061_digital_construction_delivery",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "基于数字主线的数字化交付",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "将竣工图纸与文本交付转向结构化资产数据交付，形成与实体一致的动态孪生底座。",
+    "core_explanation": "竣工即孪生关键。",
+    "plain_explanation": "交付的不只是文件，而是能继续用于运维的数据资产。",
+    "engineering_meaning": "支撑运维继承和责任追溯。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_061",
+    "keywords": [
+      "基于数字主线的数字化交付",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_059_dynamic_sight_distance",
+      "kp_ch11_060_construction_cps",
+      "kp_ch11_062_predictive_maintenance",
+      "kp_ch11_063_structural_health_monitoring"
+    ],
+    "key_points": [
+      "将竣工图纸与文本交付转向结构化资产数据交付，形成与实体一致的动态孪生底座。",
+      "竣工即孪生关键。",
+      "支撑运维继承和责任追溯。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_061",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_062_predictive_maintenance",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "预测性养护",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "利用多源感知和混合模型预测设施性能演化，提前确定养护时机与方案，实现由被动响应向主动预测转型。",
+    "core_explanation": "养护阶段核心应用。",
+    "plain_explanation": "在坏之前预测并安排养护。",
+    "engineering_meaning": "降低全生命周期成本并提升服务水平。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_062",
+    "keywords": [
+      "预测性养护",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_060_construction_cps",
+      "kp_ch11_061_digital_construction_delivery",
+      "kp_ch11_063_structural_health_monitoring",
+      "kp_ch11_064_lcc_asset_management"
+    ],
+    "key_points": [
+      "利用多源感知和混合模型预测设施性能演化，提前确定养护时机与方案，实现由被动响应向主动预测转型。",
+      "养护阶段核心应用。",
+      "降低全生命周期成本并提升服务水平。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_062",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_063_structural_health_monitoring",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "结构健康监测",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "持续采集力学、动力、隐蔽工程和表观病害信息，形成设施全寿命周期健康档案。",
+    "core_explanation": "预测性养护数据基础。",
+    "plain_explanation": "用传感和识别方法持续观察结构健康。",
+    "engineering_meaning": "支撑病害定位和分级预警。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_063",
+    "keywords": [
+      "结构健康监测",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_061_digital_construction_delivery",
+      "kp_ch11_062_predictive_maintenance",
+      "kp_ch11_064_lcc_asset_management",
+      "kp_ch11_065_smart_traffic_governance"
+    ],
+    "key_points": [
+      "持续采集力学、动力、隐蔽工程和表观病害信息，形成设施全寿命周期健康档案。",
+      "预测性养护数据基础。",
+      "支撑病害定位和分级预警。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_063",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_064_lcc_asset_management",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "全生命周期资产管理",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "综合设施健康状态、剩余寿命、维护成本和服务水平，对资产价值、更新改造和养护策略进行动态评估。",
+    "core_explanation": "数字孪生的长期管理价值。",
+    "plain_explanation": "把道路当作持续运营的资产管理。",
+    "engineering_meaning": "支撑投资决策和运营绩效评价。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_064",
+    "keywords": [
+      "全生命周期资产管理",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_062_predictive_maintenance",
+      "kp_ch11_063_structural_health_monitoring",
+      "kp_ch11_065_smart_traffic_governance",
+      "kp_ch11_066_digital_vehicle_flow"
+    ],
+    "key_points": [
+      "综合设施健康状态、剩余寿命、维护成本和服务水平，对资产价值、更新改造和养护策略进行动态评估。",
+      "数字孪生的长期管理价值。",
+      "支撑投资决策和运营绩效评价。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_064",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_065_smart_traffic_governance",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "智慧交通治理",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "将道路数字孪生扩展为覆盖车—路—环境的系统之系统，实现全息态势感知、在线推演和主动管控。",
+    "core_explanation": "运营服务阶段的系统级应用。",
+    "plain_explanation": "数字孪生不只管道路设施，还管交通运行和服务韧性。",
+    "engineering_meaning": "支撑主动治理和应急响应。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_065",
+    "keywords": [
+      "智慧交通治理",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_063_structural_health_monitoring",
+      "kp_ch11_064_lcc_asset_management",
+      "kp_ch11_066_digital_vehicle_flow",
+      "kp_ch11_067_v2x_active_safety"
+    ],
+    "key_points": [
+      "将道路数字孪生扩展为覆盖车—路—环境的系统之系统，实现全息态势感知、在线推演和主动管控。",
+      "运营服务阶段的系统级应用。",
+      "支撑主动治理和应急响应。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_065",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_066_digital_vehicle_flow",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "数字车流",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "将真实车辆的位置、速度、车型和轨迹同步映射到虚拟空间形成连续运行的交通流数字镜像。",
+    "core_explanation": "交通孪生的核心表达。",
+    "plain_explanation": "把每辆车变成虚拟空间里的数字对象。",
+    "engineering_meaning": "支撑微观行为分析和短时预测。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_066",
+    "keywords": [
+      "数字车流",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_064_lcc_asset_management",
+      "kp_ch11_065_smart_traffic_governance",
+      "kp_ch11_067_v2x_active_safety",
+      "kp_ch11_068_resilience_service"
+    ],
+    "key_points": [
+      "将真实车辆的位置、速度、车型和轨迹同步映射到虚拟空间形成连续运行的交通流数字镜像。",
+      "交通孪生的核心表达。",
+      "支撑微观行为分析和短时预测。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_066",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_067_v2x_active_safety",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "V2X主动安全干预",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "数字孪生作为超视距感知层，通过V2X向车辆推送事故、抛洒物、低能见度等风险预警和数字引导。",
+    "core_explanation": "车路协同应用。",
+    "plain_explanation": "路侧看到的风险可以提前告诉车。",
+    "engineering_meaning": "支撑复杂环境下通行安全。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_067",
+    "keywords": [
+      "V2X主动安全干预",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_065_smart_traffic_governance",
+      "kp_ch11_066_digital_vehicle_flow",
+      "kp_ch11_068_resilience_service",
+      "kp_ch11_069_data_connection"
+    ],
+    "key_points": [
+      "数字孪生作为超视距感知层，通过V2X向车辆推送事故、抛洒物、低能见度等风险预警和数字引导。",
+      "车路协同应用。",
+      "支撑复杂环境下通行安全。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_067",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_068_resilience_service",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "道路系统韧性服务",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "通过可预演、可联动、可评估技术体系提升道路系统在突发事件后的维持核心功能与快速恢复能力。",
+    "core_explanation": "系统韧性管理核心。",
+    "plain_explanation": "系统受冲击后能不能撑住并尽快恢复。",
+    "engineering_meaning": "支撑灾害预演、应急调度和快速恢复。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_068",
+    "keywords": [
+      "道路系统韧性服务",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_066_digital_vehicle_flow",
+      "kp_ch11_067_v2x_active_safety",
+      "kp_ch11_069_data_connection",
+      "kp_ch11_070_twin_data"
+    ],
+    "key_points": [
+      "通过可预演、可联动、可评估技术体系提升道路系统在突发事件后的维持核心功能与快速恢复能力。",
+      "系统韧性管理核心。",
+      "支撑灾害预演、应急调度和快速恢复。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_068",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_069_data_connection",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "数据连接",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "连接物理实体与虚拟模型的双向实时传输机制，是五维模型中保障虚实闭环运行的关键环节。",
+    "core_explanation": "支撑物理世界数据进入模型、模型决策回到现实。",
+    "plain_explanation": "没有数据连接，孪生就会退化为静态模型。",
+    "engineering_meaning": "保证动态同步、实时反馈和闭环控制。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_069",
+    "keywords": [
+      "数据连接",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_067_v2x_active_safety",
+      "kp_ch11_068_resilience_service",
+      "kp_ch11_070_twin_data",
+      "kp_ch11_071_services_applications"
+    ],
+    "key_points": [
+      "连接物理实体与虚拟模型的双向实时传输机制，是五维模型中保障虚实闭环运行的关键环节。",
+      "支撑物理世界数据进入模型、模型决策回到现实。",
+      "保证动态同步、实时反馈和闭环控制。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_069",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_070_twin_data",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "孪生数据",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "整合静态设计数据、历史数据、动态感知数据、仿真数据和衍生分析数据的综合数据资产。",
+    "core_explanation": "数字孪生所有分析决策的基础。",
+    "plain_explanation": "孪生数据是数字孪生系统的“血液”。",
+    "engineering_meaning": "支撑预测、预警和长期资产管理。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_070",
+    "keywords": [
+      "孪生数据",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_068_resilience_service",
+      "kp_ch11_069_data_connection",
+      "kp_ch11_071_services_applications",
+      "kp_ch11_072_federated_architecture"
+    ],
+    "key_points": [
+      "整合静态设计数据、历史数据、动态感知数据、仿真数据和衍生分析数据的综合数据资产。",
+      "数字孪生所有分析决策的基础。",
+      "支撑预测、预警和长期资产管理。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_070",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_071_services_applications",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "服务与应用",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "基于虚拟模型和孪生数据提供状态监测、性能预测、风险预警、决策优化等上层服务。",
+    "core_explanation": "数字孪生价值出口。",
+    "plain_explanation": "最终要服务管理、养护、交通管控和应急决策。",
+    "engineering_meaning": "体现系统业务价值。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_071",
+    "keywords": [
+      "服务与应用",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_069_data_connection",
+      "kp_ch11_070_twin_data",
+      "kp_ch11_072_federated_architecture",
+      "kp_ch11_073_semantic_mapping"
+    ],
+    "key_points": [
+      "基于虚拟模型和孪生数据提供状态监测、性能预测、风险预警、决策优化等上层服务。",
+      "数字孪生价值出口。",
+      "体现系统业务价值。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_071",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_072_federated_architecture",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec01",
+    "title": "联邦式架构",
+    "knowledge_type": "framework",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "通过开放标准与统一接口将分散的模型和数据协同起来，而不是建立一个庞大单体模型。",
+    "core_explanation": "道路数字孪生可扩展性的关键。",
+    "plain_explanation": "多个系统协同组成孪生，而不是所有东西放进一个软件。",
+    "engineering_meaning": "支撑分阶段建设和跨系统协同。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_072",
+    "keywords": [
+      "联邦式架构",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_070_twin_data",
+      "kp_ch11_071_services_applications",
+      "kp_ch11_073_semantic_mapping",
+      "kp_ch11_074_holographic_traffic_sensing"
+    ],
+    "key_points": [
+      "通过开放标准与统一接口将分散的模型和数据协同起来，而不是建立一个庞大单体模型。",
+      "道路数字孪生可扩展性的关键。",
+      "支撑分阶段建设和跨系统协同。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_072",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_073_semantic_mapping",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "语义映射",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "建立不同模型之间对象、属性和关系的对应规则，保证跨格式数据迁移时核心语义不丢失。",
+    "core_explanation": "BIM+GIS深度融合的核心。",
+    "plain_explanation": "同一个桥梁构件在不同系统里要能认得出来。",
+    "engineering_meaning": "支撑资产级追溯和跨平台互操作。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_073",
+    "keywords": [
+      "语义映射",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_071_services_applications",
+      "kp_ch11_072_federated_architecture",
+      "kp_ch11_074_holographic_traffic_sensing",
+      "kp_ch11_075_what_if_simulation"
+    ],
+    "key_points": [
+      "建立不同模型之间对象、属性和关系的对应规则，保证跨格式数据迁移时核心语义不丢失。",
+      "BIM+GIS深度融合的核心。",
+      "支撑资产级追溯和跨平台互操作。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_073",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_074_holographic_traffic_sensing",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "全息交通态势感知",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "通过多源感知融合形成全路网、连续、细粒度交通状态认知，突破传统断面统计的限制。",
+    "core_explanation": "智慧交通治理基础。",
+    "plain_explanation": "不只看一个断面流量，而是看全路网交通行为。",
+    "engineering_meaning": "支撑拥堵预测和主动治理。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_074",
+    "keywords": [
+      "全息交通态势感知",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_072_federated_architecture",
+      "kp_ch11_073_semantic_mapping",
+      "kp_ch11_075_what_if_simulation",
+      "kp_ch11_076_as_built_twin"
+    ],
+    "key_points": [
+      "通过多源感知融合形成全路网、连续、细粒度交通状态认知，突破传统断面统计的限制。",
+      "智慧交通治理基础。",
+      "支撑拥堵预测和主动治理。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_074",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_075_what_if_simulation",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "What-if情景推演",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "在虚拟环境中并行模拟多种管控或处置方案，评估其可能效果后再辅助现实决策。",
+    "core_explanation": "数字孪生决策支持方法。",
+    "plain_explanation": "先在虚拟世界试方案，再决定现实中怎么做。",
+    "engineering_meaning": "降低试错成本和运行风险。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_075",
+    "keywords": [
+      "What-if情景推演",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_073_semantic_mapping",
+      "kp_ch11_074_holographic_traffic_sensing",
+      "kp_ch11_076_as_built_twin",
+      "kp_ch11_077_closed_loop_verification"
+    ],
+    "key_points": [
+      "在虚拟环境中并行模拟多种管控或处置方案，评估其可能效果后再辅助现实决策。",
+      "数字孪生决策支持方法。",
+      "降低试错成本和运行风险。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_075",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_076_as_built_twin",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec03",
+    "title": "竣工即孪生",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "在工程验收阶段基于竣工测量和实测数据修正模型，形成与物理实体一致、可直接进入运维的数字孪生底座。",
+    "core_explanation": "数字化交付理念。",
+    "plain_explanation": "工程交付时同时交付可用的数字资产。",
+    "engineering_meaning": "支撑设计施工运维无缝衔接。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_076",
+    "keywords": [
+      "竣工即孪生",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_074_holographic_traffic_sensing",
+      "kp_ch11_075_what_if_simulation",
+      "kp_ch11_077_closed_loop_verification",
+      "kp_ch11_078_knowledge_driven_decision"
+    ],
+    "key_points": [
+      "在工程验收阶段基于竣工测量和实测数据修正模型，形成与物理实体一致、可直接进入运维的数字孪生底座。",
+      "数字化交付理念。",
+      "支撑设计施工运维无缝衔接。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_076",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_077_closed_loop_verification",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "闭环有效性验证",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "控制建议或指令下发后，系统通过感知数据验证物理执行结果，并同步更新模型。",
+    "core_explanation": "避免虚实脱节的关键步骤。",
+    "plain_explanation": "执行后要检查现实是否按模型预期变化。",
+    "engineering_meaning": "支撑可验证、可审计的管理行为。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_077",
+    "keywords": [
+      "闭环有效性验证",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_075_what_if_simulation",
+      "kp_ch11_076_as_built_twin",
+      "kp_ch11_078_knowledge_driven_decision"
+    ],
+    "key_points": [
+      "控制建议或指令下发后，系统通过感知数据验证物理执行结果，并同步更新模型。",
+      "避免虚实脱节的关键步骤。",
+      "支撑可验证、可审计的管理行为。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_077",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch11_078_knowledge_driven_decision",
+    "chapter_id": "ch11",
+    "section_id": "ch11_sec02",
+    "title": "知识驱动辅助决策",
+    "knowledge_type": "method",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "融合专家规则、历史案例和实时仿真结果，为养护、交通组织和事故处置提供可解释的辅助方案。",
+    "core_explanation": "智能决策的可靠性补充。",
+    "plain_explanation": "AI建议要结合工程知识和历史经验。",
+    "engineering_meaning": "支撑科学治理和长期价值评估。",
+    "application_scenario": "道路数字孪生平台建设、设计验证、施工管控、预测性养护、智慧交通治理等。",
+    "common_mistakes": [
+      "把数字孪生理解为单一三维模型",
+      "忽视实时数据连接、闭环反馈和全生命周期更新。"
+    ],
+    "correction_explanation": "应强调数字孪生是物理实体、虚拟模型、数据连接、孪生数据和服务应用共同形成的动态闭环系统。",
+    "answer_strategy": "先给出简明定义，再按条目说明组成、作用、应用场景和与传统技术的区别；避免直接复制教材长段落。",
+    "answer_boundary": "以教材第十一章内容为主；可进行教学化解释，但不得把数字孪生泛化为任意三维可视化平台。",
+    "source_chunks": "ch11_src_078",
+    "keywords": [
+      "知识驱动辅助决策",
+      "道路数字孪生",
+      "虚实闭环",
+      "全生命周期",
+      "BIM",
+      "GIS",
+      "IoT",
+      "AI"
+    ],
+    "related_kps": [
+      "kp_ch11_076_as_built_twin",
+      "kp_ch11_077_closed_loop_verification"
+    ],
+    "key_points": [
+      "融合专家规则、历史案例和实时仿真结果，为养护、交通组织和事故处置提供可解释的辅助方案。",
+      "智能决策的可靠性补充。",
+      "支撑科学治理和长期价值评估。"
+    ],
+    "aliases": [],
+    "source_hint": "ch11_src_078",
+    "status": "checked"
+  }
+]

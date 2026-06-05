@@ -1,0 +1,242 @@
+[
+  {
+    "comparison_id": "cmp_ch09_001",
+    "chapter_id": "ch09",
+    "title": "数据级集成 vs 流程级集成",
+    "comparison_dimension": "集成目标",
+    "item_a_b": "数据级强调数据互通与空间背景引入；流程级强调BIM方案调整与GIS分析反馈联动。",
+    "teaching_conclusion": "不要把数据导入等同于流程协同。",
+    "qa_trigger": "数据级集成 vs 流程级集成有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "集成目标"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_002",
+    "chapter_id": "ch09",
+    "title": "流程级集成 vs 语义级集成",
+    "comparison_dimension": "智能程度",
+    "item_a_b": "流程级实现动态分析反馈；语义级进一步引入规则、知识图谱和推理机制。",
+    "teaching_conclusion": "语义级不只是自动化脚本，而是规则与知识驱动。",
+    "qa_trigger": "流程级集成 vs 语义级集成有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "智能程度"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_003",
+    "chapter_id": "ch09",
+    "title": "BIM模型 vs GIS空间数据",
+    "comparison_dimension": "表达对象",
+    "item_a_b": "BIM表达工程构件和属性；GIS表达地理环境、空间约束和区域关系。",
+    "teaching_conclusion": "二者不是替代关系，而是互补关系。",
+    "qa_trigger": "BIM模型 vs GIS空间数据有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "表达对象"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_004",
+    "chapter_id": "ch09",
+    "title": "FDO连接 vs 文件导入",
+    "comparison_dimension": "数据关系",
+    "item_a_b": "FDO动态连接外部空间数据源；导入会将数据复制到当前图形。",
+    "teaching_conclusion": "FDO更适合更新和协同。",
+    "qa_trigger": "FDO连接 vs 文件导入有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "数据关系"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_005",
+    "chapter_id": "ch09",
+    "title": "Surface vs Corridor Surface",
+    "comparison_dimension": "对象来源",
+    "item_a_b": "Surface通常表达原始地形；Corridor Surface由廊道构件提取，表达设计后的道路曲面。",
+    "teaching_conclusion": "两者可用于地形重构前后对比。",
+    "qa_trigger": "Surface vs Corridor Surface有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "对象来源"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_006",
+    "chapter_id": "ch09",
+    "title": "Alignment vs Profile",
+    "comparison_dimension": "控制维度",
+    "item_a_b": "Alignment控制平面位置和桩号；Profile控制沿路线的纵向高程。",
+    "teaching_conclusion": "廊道生成必须同时依赖二者。",
+    "qa_trigger": "Alignment vs Profile有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "控制维度"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_007",
+    "chapter_id": "ch09",
+    "title": "Assembly vs Corridor",
+    "comparison_dimension": "横断面与三维模型",
+    "item_a_b": "Assembly定义标准横断面；Corridor沿路线和纵断面套用Assembly生成三维模型。",
+    "teaching_conclusion": "Assembly是模板，Corridor是连续模型。",
+    "qa_trigger": "Assembly vs Corridor有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "横断面与三维模型"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_008",
+    "chapter_id": "ch09",
+    "title": "属性查询 vs 空间查询",
+    "comparison_dimension": "筛选依据",
+    "item_a_b": "属性查询依据字段条件；空间查询依据几何关系。",
+    "teaching_conclusion": "工程约束识别往往需要两者组合。",
+    "qa_trigger": "属性查询 vs 空间查询有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "筛选依据"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_009",
+    "chapter_id": "ch09",
+    "title": "DEM重采样 vs DEM裁剪",
+    "comparison_dimension": "处理目的",
+    "item_a_b": "重采样统一分辨率；裁剪限定空间范围。",
+    "teaching_conclusion": "二者常在栅格分析前连续使用。",
+    "qa_trigger": "DEM重采样 vs DEM裁剪有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "处理目的"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_010",
+    "chapter_id": "ch09",
+    "title": "坡度分析 vs 坡向分析",
+    "comparison_dimension": "地形含义",
+    "item_a_b": "坡度表达陡缓；坡向表达坡面方向。",
+    "teaching_conclusion": "地质风险分析需要二者共同解释地形条件。",
+    "qa_trigger": "坡度分析 vs 坡向分析有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "地形含义"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_011",
+    "chapter_id": "ch09",
+    "title": "栅格重分类 vs 成本面构建",
+    "comparison_dimension": "分析层级",
+    "item_a_b": "重分类把连续数据转为等级；成本面综合多个因子形成通行或风险代价。",
+    "teaching_conclusion": "重分类常是成本面构建的前置步骤。",
+    "qa_trigger": "栅格重分类 vs 成本面构建有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "分析层级"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_012",
+    "chapter_id": "ch09",
+    "title": "宏观走廊带 vs 中观方案比选",
+    "comparison_dimension": "选线尺度",
+    "item_a_b": "宏观确定可行走廊；中观在走廊内比选路线方案。",
+    "teaching_conclusion": "二者使用的数据粒度和决策重点不同。",
+    "qa_trigger": "宏观走廊带 vs 中观方案比选有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "选线尺度"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_013",
+    "chapter_id": "ch09",
+    "title": "原始DEM vs 重构DEM",
+    "comparison_dimension": "地形状态",
+    "item_a_b": "原始DEM表达工程实施前地形；重构DEM表达道路建成后的扰动地形。",
+    "teaching_conclusion": "中观风险评估必须考虑重构后地形。",
+    "qa_trigger": "原始DEM vs 重构DEM有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "地形状态"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_014",
+    "chapter_id": "ch09",
+    "title": "CBR vs RBR",
+    "comparison_dimension": "推理方式",
+    "item_a_b": "CBR基于相似案例；RBR基于规则条件。",
+    "teaching_conclusion": "实际系统中二者可互补。",
+    "qa_trigger": "CBR vs RBR有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "推理方式"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch09_015",
+    "chapter_id": "ch09",
+    "title": "设计成果导向 vs 反馈驱动",
+    "comparison_dimension": "流程逻辑",
+    "item_a_b": "成果导向重在最终交付；反馈驱动强调设计过程中实时评估与迭代。",
+    "teaching_conclusion": "BIM+GIS强调反馈驱动。",
+    "qa_trigger": "设计成果导向 vs 反馈驱动有什么区别？",
+    "related_kps": "",
+    "dimensions": [
+      "流程逻辑"
+    ],
+    "answer_use": "用于概念辨析和操作对象对比问答。",
+    "related_answer_cards": [],
+    "status": "checked"
+  }
+]

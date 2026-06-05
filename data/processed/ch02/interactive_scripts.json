@@ -1,0 +1,271 @@
+[
+  {
+    "script_id": "ch02_interactive_2_1",
+    "resource_id": "ch02_script_2_1",
+    "chapter_id": "ch02",
+    "title": "坐标系统原理与模型定位",
+    "file_path": "assets/ch02/interactive_html/2.1坐标系统原理与模型定位.html",
+    "interaction_theme": "坐标系统原理与模型定位",
+    "display_objects": [
+      "坐标系统原理与模型定位"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "坐标系统原理与模型定位怎么看？",
+      "坐标系统原理与模型定位怎么操作？",
+      "我想看坐标系统原理与模型定位。"
+    ],
+    "related_kps": [
+      "kp_ch02_001",
+      "kp_ch02_002",
+      "kp_ch02_003",
+      "kp_ch02_004",
+      "kp_ch02_005",
+      "kp_ch02_006",
+      "kp_ch02_007",
+      "kp_ch02_008"
+    ],
+    "extracted_labels": [
+      "坐标系统原理与模型定位"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_2",
+    "resource_id": "ch02_script_2_2",
+    "chapter_id": "ch02",
+    "title": "几何图元与模型表达方式",
+    "file_path": "assets/ch02/interactive_html/2.2几何图元与模型表达方式.html",
+    "interaction_theme": "几何图元与模型表达方式",
+    "display_objects": [
+      "几何图元与模型表达方式"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "几何图元与模型表达方式怎么看？",
+      "几何图元与模型表达方式怎么操作？",
+      "我想看几何图元与模型表达方式。"
+    ],
+    "related_kps": [
+      "kp_ch02_043",
+      "kp_ch02_044",
+      "kp_ch02_045",
+      "kp_ch02_046",
+      "kp_ch02_047",
+      "kp_ch02_048",
+      "kp_ch02_049",
+      "kp_ch02_050"
+    ],
+    "extracted_labels": [
+      "几何图元与模型表达方式"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_3",
+    "resource_id": "ch02_script_2_3",
+    "chapter_id": "ch02",
+    "title": "几何编号与道路构件",
+    "file_path": "assets/ch02/interactive_html/2.3几何编号与道路构件.html",
+    "interaction_theme": "几何编号与道路构件",
+    "display_objects": [
+      "几何编号与道路构件"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "几何编号与道路构件怎么看？",
+      "几何编号与道路构件怎么操作？",
+      "我想看几何编号与道路构件。"
+    ],
+    "related_kps": [
+      "kp_ch02_068",
+      "kp_ch02_069",
+      "kp_ch02_070",
+      "kp_ch02_071",
+      "kp_ch02_072",
+      "kp_ch02_073",
+      "kp_ch02_074",
+      "kp_ch02_075"
+    ],
+    "extracted_labels": [
+      "几何编号与道路构件"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_4",
+    "resource_id": "ch02_script_2_4",
+    "chapter_id": "ch02",
+    "title": "投影方式与道路模型表达",
+    "file_path": "assets/ch02/interactive_html/2.4投影方式与道路模型表达.html",
+    "interaction_theme": "投影方式与道路模型表达",
+    "display_objects": [
+      "投影方式与道路模型表达"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "投影方式与道路模型表达怎么看？",
+      "投影方式与道路模型表达怎么操作？",
+      "我想看投影方式与道路模型表达。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "投影方式与道路模型表达"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_5",
+    "resource_id": "ch02_script_2_5",
+    "chapter_id": "ch02",
+    "title": "数字高程模型与算法",
+    "file_path": "assets/ch02/interactive_html/2.5数字高程模型与算法.html",
+    "interaction_theme": "数字高程模型与算法",
+    "display_objects": [
+      "数字高程模型与算法"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "数字高程模型与算法怎么看？",
+      "数字高程模型与算法怎么操作？",
+      "我想看数字高程模型与算法。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "数字高程模型与算法"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_6",
+    "resource_id": "ch02_script_2_6",
+    "chapter_id": "ch02",
+    "title": "道路几何建模目标",
+    "file_path": "assets/ch02/interactive_html/2.6道路几何建模目标.html",
+    "interaction_theme": "道路几何建模目标",
+    "display_objects": [
+      "道路几何建模目标"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "道路几何建模目标怎么看？",
+      "道路几何建模目标怎么操作？",
+      "我想看道路几何建模目标。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "道路几何建模目标"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_7",
+    "resource_id": "ch02_script_2_7",
+    "chapter_id": "ch02",
+    "title": "图元—构件—语义三层映射",
+    "file_path": "assets/ch02/interactive_html/2.7图元—构件—语义三层映射.html",
+    "interaction_theme": "图元—构件—语义三层映射",
+    "display_objects": [
+      "图元",
+      "构件",
+      "语义三层映射"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "图元—构件—语义三层映射怎么看？",
+      "图元—构件—语义三层映射怎么操作？",
+      "我想看图元—构件—语义三层映射。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "图元",
+      "构件",
+      "语义三层映射"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_8",
+    "resource_id": "ch02_script_2_8",
+    "chapter_id": "ch02",
+    "title": "模型表达层级与 LOD 选择",
+    "file_path": "assets/ch02/interactive_html/2.8模型表达层级与 LOD 选择.html",
+    "interaction_theme": "模型表达层级与 LOD 选择",
+    "display_objects": [
+      "模型表达层级与",
+      "LOD",
+      "选择"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "模型表达层级与 LOD 选择怎么看？",
+      "模型表达层级与 LOD 选择怎么操作？",
+      "我想看模型表达层级与 LOD 选择。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "模型表达层级与",
+      "LOD",
+      "选择"
+    ],
+    "status": "bound"
+  },
+  {
+    "script_id": "ch02_interactive_2_9",
+    "resource_id": "ch02_script_2_9",
+    "chapter_id": "ch02",
+    "title": "道路模型的表达",
+    "file_path": "assets/ch02/interactive_html/2.9道路模型的表达.html",
+    "interaction_theme": "道路模型的表达",
+    "display_objects": [
+      "道路模型的表达"
+    ],
+    "operation_steps": [
+      "打开互动脚本并观察主界面对象",
+      "按页面提示切换参数、图层或设计状态",
+      "对照教材知识点总结模型表达或CAD设计逻辑"
+    ],
+    "trigger_questions": [
+      "道路模型的表达怎么看？",
+      "道路模型的表达怎么操作？",
+      "我想看道路模型的表达。"
+    ],
+    "related_kps": [],
+    "extracted_labels": [
+      "道路模型的表达"
+    ],
+    "status": "bound"
+  }
+]

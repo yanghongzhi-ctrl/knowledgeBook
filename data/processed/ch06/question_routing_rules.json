@@ -1,0 +1,67 @@
+[
+  {
+    "rule_id": "route_ch06_001",
+    "intent": "operation_howto",
+    "trigger_patterns": "怎么做;如何操作;步骤;怎么画;怎么设置;怎么创建",
+    "primary_tables": "Operation_Tasks > Operation_Steps > Answer_Cards > Video_Segments > Source_Chunks",
+    "answer_template": "操作目标 + 前置条件 + 操作步骤 + 关键参数 + 结果检查 + 常见错误 + 推荐视频",
+    "status": "checked",
+    "routing_id": "route_ch06_001",
+    "pattern": "operation_howto",
+    "target_table": "",
+    "answer_mode": "",
+    "description": ""
+  },
+  {
+    "rule_id": "route_ch06_002",
+    "intent": "operation_error",
+    "trigger_patterns": "失败;不显示;不能选择;结果不对;没反应;无法;报错",
+    "primary_tables": "Common_Errors > Operation_Steps > Video_Segments > Answer_Cards",
+    "answer_template": "现象判断 + 可能原因 + 检查顺序 + 解决步骤 + 对应视频",
+    "status": "checked",
+    "routing_id": "route_ch06_002",
+    "pattern": "operation_error",
+    "target_table": "",
+    "answer_mode": "",
+    "description": ""
+  },
+  {
+    "rule_id": "route_ch06_003",
+    "intent": "parameter_explain",
+    "trigger_patterns": "参数;设置;比例;图层;线型;线宽;基点;视口;坐标",
+    "primary_tables": "Parameter_Settings > Software_Objects > Operation_Steps > Answer_Cards",
+    "answer_template": "参数含义 + 推荐设置 + 影响 + 常见错误 + 关联操作",
+    "status": "checked",
+    "routing_id": "route_ch06_003",
+    "pattern": "parameter_explain",
+    "target_table": "",
+    "answer_mode": "",
+    "description": ""
+  },
+  {
+    "rule_id": "route_ch06_004",
+    "intent": "command_explain",
+    "trigger_patterns": "命令;快捷键;LINE;PLINE;TRIM;BLOCK;EXTRUDE;UNION",
+    "primary_tables": "Command_Cards > Operation_Tasks > Operation_Steps > Answer_Cards",
+    "answer_template": "命令用途 + 启动方式 + 基本步骤 + 选项说明 + 常见错误",
+    "status": "checked",
+    "routing_id": "route_ch06_004",
+    "pattern": "command_explain",
+    "target_table": "",
+    "answer_mode": "",
+    "description": ""
+  },
+  {
+    "rule_id": "route_ch06_005",
+    "intent": "concept_compare",
+    "trigger_patterns": "区别;比较;不同;关系;作用",
+    "primary_tables": "Concept_Comparison > Answer_Cards > Knowledge_Points",
+    "answer_template": "比较维度表 + 关键结论 + 常见误区",
+    "status": "checked",
+    "routing_id": "route_ch06_005",
+    "pattern": "concept_compare",
+    "target_table": "",
+    "answer_mode": "",
+    "description": ""
+  }
+]

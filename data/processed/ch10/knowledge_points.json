@@ -1,0 +1,3638 @@
+[
+  {
+    "kp_id": "kp_ch10_001_ai_design_paradigm",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "title": "AI驱动道路设计范式",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "AI将道路设计从经验、规范和单一模型驱动，拓展为知识化、智能化和数据化的设计活动。",
+    "core_explanation": "AI不是替代工程师，而是把复杂设计问题转化为可表示、可计算、可优化的问题。",
+    "plain_explanation": "AI不是替代工程师，而是把复杂设计问题转化为可表示、可计算、可优化的问题。",
+    "engineering_meaning": "帮助学生建立第十章总框架。",
+    "application_scenario": "帮助学生建立第十章总框架。",
+    "keywords": [
+      "AI驱动道路设计范式",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [
+      "AI驱动道路范式"
+    ],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "AI将道路设计从经验、规范和单一模型驱动，拓展为知识化、智能化和数据化的设计活动。",
+      "AI不是替代工程师，而是把复杂设计问题转化为可表示、可计算、可优化的问题。",
+      "帮助学生建立第十章总框架。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_002_knowledge_driven",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "title": "知识驱动设计",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "利用规范、标准、案例、经验和空间语义构建知识库，通过推理支持道路设计判断。",
+    "core_explanation": "强调可解释、可追溯、符合规范。",
+    "plain_explanation": "强调可解释、可追溯、符合规范。",
+    "engineering_meaning": "用于强约束判定、规范校核、选线规则调用。",
+    "application_scenario": "用于强约束判定、规范校核、选线规则调用。",
+    "keywords": [
+      "知识驱动设计",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [
+      "知识驱动"
+    ],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "利用规范、标准、案例、经验和空间语义构建知识库，通过推理支持道路设计判断。",
+      "强调可解释、可追溯、符合规范。",
+      "用于强约束判定、规范校核、选线规则调用。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_003_algorithm_driven",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "title": "算法驱动设计",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "通过优化算法搜索道路设计方案空间，处理多变量、多目标和多约束问题。",
+    "core_explanation": "强调求解能力和方案空间探索。",
+    "plain_explanation": "强调求解能力和方案空间探索。",
+    "engineering_meaning": "用于路线优化、走廊带搜索、纵断面优化。",
+    "application_scenario": "用于路线优化、走廊带搜索、纵断面优化。",
+    "keywords": [
+      "算法驱动设计",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [
+      "算法驱动"
+    ],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过优化算法搜索道路设计方案空间，处理多变量、多目标和多约束问题。",
+      "强调求解能力和方案空间探索。",
+      "用于路线优化、走廊带搜索、纵断面优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_004_data_driven",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "title": "数据驱动设计",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "利用样本数据学习规律，形成预测、分类、推荐和风险评估模型。",
+    "core_explanation": "强调从历史数据和多源数据中学习潜在模式。",
+    "plain_explanation": "强调从历史数据和多源数据中学习潜在模式。",
+    "engineering_meaning": "用于滑坡风险预测、线形指标推荐、交通和环境评价。",
+    "application_scenario": "用于滑坡风险预测、线形指标推荐、交通和环境评价。",
+    "keywords": [
+      "数据驱动设计",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [
+      "数据驱动"
+    ],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "利用样本数据学习规律，形成预测、分类、推荐和风险评估模型。",
+      "强调从历史数据和多源数据中学习潜在模式。",
+      "用于滑坡风险预测、线形指标推荐、交通和环境评价。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_005_rag_ai_agent",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01",
+    "title": "RAG与AI智能体",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "RAG通过检索外部知识增强模型回答，AI智能体通过工具调用和任务分解形成可执行推理流程。",
+    "core_explanation": "二者使AI设计系统从静态模型转向可检索、可执行、可反馈的智能系统。",
+    "plain_explanation": "二者使AI设计系统从静态模型转向可检索、可执行、可反馈的智能系统。",
+    "engineering_meaning": "用于动态知识接入、设计问答、自动化方案生成。",
+    "application_scenario": "用于动态知识接入、设计问答、自动化方案生成。",
+    "keywords": [
+      "RAG与AI智能体",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "RAG通过检索外部知识增强模型回答，AI智能体通过工具调用和任务分解形成可执行推理流程。",
+      "二者使AI设计系统从静态模型转向可检索、可执行、可反馈的智能系统。",
+      "用于动态知识接入、设计问答、自动化方案生成。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_006_knowledge_network",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01_01",
+    "title": "动态知识网络",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "动态知识网络把规范条文、工程案例、空间关系和实时数据组织成可更新的语义网络。",
+    "core_explanation": "相较静态规则库，它能随新案例和新数据持续扩展。",
+    "plain_explanation": "相较静态规则库，它能随新案例和新数据持续扩展。",
+    "engineering_meaning": "用于设计知识持续沉淀和智能推理。",
+    "application_scenario": "用于设计知识持续沉淀和智能推理。",
+    "keywords": [
+      "动态知识网络",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "动态知识网络把规范条文、工程案例、空间关系和实时数据组织成可更新的语义网络。",
+      "相较静态规则库，它能随新案例和新数据持续扩展。",
+      "用于设计知识持续沉淀和智能推理。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_007_intelligent_solver_flow",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01_02",
+    "title": "可编排智能求解流程",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "将多个算法、约束校核、评价模型和人工反馈组织成可调度的求解流程。",
+    "core_explanation": "不是单个算法一次求解，而是多模块协同搜索。",
+    "plain_explanation": "不是单个算法一次求解，而是多模块协同搜索。",
+    "engineering_meaning": "用于复杂路线方案生成与优化。",
+    "application_scenario": "用于复杂路线方案生成与优化。",
+    "keywords": [
+      "可编排智能求解流程",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "将多个算法、约束校核、评价模型和人工反馈组织成可调度的求解流程。",
+      "不是单个算法一次求解，而是多模块协同搜索。",
+      "用于复杂路线方案生成与优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_008_multimodal_prediction",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec01_03",
+    "title": "多模态预测性认知",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "综合地形、影像、地质、文本、历史工程和监测数据进行预测性判断。",
+    "core_explanation": "从相关性分析走向多源数据融合和预测。",
+    "plain_explanation": "从相关性分析走向多源数据融合和预测。",
+    "engineering_meaning": "用于风险预测、方案推荐、环境适宜性评价。",
+    "application_scenario": "用于风险预测、方案推荐、环境适宜性评价。",
+    "keywords": [
+      "多模态预测性认知",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "综合地形、影像、地质、文本、历史工程和监测数据进行预测性判断。",
+      "从相关性分析走向多源数据融合和预测。",
+      "用于风险预测、方案推荐、环境适宜性评价。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_009_knowledge_system_structure",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_01",
+    "title": "知识驱动系统结构",
+    "knowledge_type": "framework",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "知识驱动设计系统由知识管理、知识获取与挖掘、设计推理等模块构成。",
+    "core_explanation": "它把知识存储、知识更新和设计决策连接成闭环。",
+    "plain_explanation": "它把知识存储、知识更新和设计决策连接成闭环。",
+    "engineering_meaning": "用于构建道路智能设计平台的基础框架。",
+    "application_scenario": "用于构建道路智能设计平台的基础框架。",
+    "keywords": [
+      "知识驱动系统结构",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [
+      "知识驱动系统结构"
+    ],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "知识驱动设计系统由知识管理、知识获取与挖掘、设计推理等模块构成。",
+      "它把知识存储、知识更新和设计决策连接成闭环。",
+      "用于构建道路智能设计平台的基础框架。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_010_knowledge_management_module",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_01",
+    "title": "知识管理模块",
+    "knowledge_type": "module",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "负责规范、案例、规则、空间关系等知识的组织、存储、维护和版本更新。",
+    "core_explanation": "它决定知识库是否可用、可维护和可追溯。",
+    "plain_explanation": "它决定知识库是否可用、可维护和可追溯。",
+    "engineering_meaning": "用于AI学习平台和智能设计系统。",
+    "application_scenario": "用于AI学习平台和智能设计系统。",
+    "keywords": [
+      "知识管理模块",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "负责规范、案例、规则、空间关系等知识的组织、存储、维护和版本更新。",
+      "它决定知识库是否可用、可维护和可追溯。",
+      "用于AI学习平台和智能设计系统。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_011_knowledge_acquisition_module",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_01",
+    "title": "知识获取与挖掘模块",
+    "knowledge_type": "module",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "从规范文本、工程案例、数据库和设计行为中提取结构化知识。",
+    "core_explanation": "它解决知识从非结构化文本和经验进入系统的问题。",
+    "plain_explanation": "它解决知识从非结构化文本和经验进入系统的问题。",
+    "engineering_meaning": "用于规则抽取、案例归纳和数据挖掘。",
+    "application_scenario": "用于规则抽取、案例归纳和数据挖掘。",
+    "keywords": [
+      "知识获取与挖掘模块",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "从规范文本、工程案例、数据库和设计行为中提取结构化知识。",
+      "它解决知识从非结构化文本和经验进入系统的问题。",
+      "用于规则抽取、案例归纳和数据挖掘。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_012_design_reasoning_module",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_01",
+    "title": "设计推理模块",
+    "knowledge_type": "module",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "调用知识库、规则库和案例库，对设计问题进行判断、推荐和解释。",
+    "core_explanation": "它是知识驱动系统的决策核心。",
+    "plain_explanation": "它是知识驱动系统的决策核心。",
+    "engineering_meaning": "用于选线约束判断、案例比选和规范校核。",
+    "application_scenario": "用于选线约束判断、案例比选和规范校核。",
+    "keywords": [
+      "设计推理模块",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "调用知识库、规则库和案例库，对设计问题进行判断、推荐和解释。",
+      "它是知识驱动系统的决策核心。",
+      "用于选线约束判断、案例比选和规范校核。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_013_ontology_graph",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_02",
+    "title": "本体与知识图谱",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "用概念、关系、属性和层级结构表达道路设计领域知识。",
+    "core_explanation": "把术语和工程对象组织为可查询、可推理的语义网络。",
+    "plain_explanation": "把术语和工程对象组织为可查询、可推理的语义网络。",
+    "engineering_meaning": "用于滑坡选线、空间关系表达和知识导航。",
+    "application_scenario": "用于滑坡选线、空间关系表达和知识导航。",
+    "keywords": [
+      "本体与知识图谱",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "用概念、关系、属性和层级结构表达道路设计领域知识。",
+      "把术语和工程对象组织为可查询、可推理的语义网络。",
+      "用于滑坡选线、空间关系表达和知识导航。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_014_term_node",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_02",
+    "title": "术语节点",
+    "knowledge_type": "object",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "知识图谱中的基本语义单元，如滑坡、边坡、隧道进出口等。",
+    "core_explanation": "术语节点是建立概念关系和工程语义链的基础。",
+    "plain_explanation": "术语节点是建立概念关系和工程语义链的基础。",
+    "engineering_meaning": "用于领域知识建模。",
+    "application_scenario": "用于领域知识建模。",
+    "keywords": [
+      "术语节点",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "知识图谱中的基本语义单元，如滑坡、边坡、隧道进出口等。",
+      "术语节点是建立概念关系和工程语义链的基础。",
+      "用于领域知识建模。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_015_case_base",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_02",
+    "title": "案例库",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "存储历史工程情境、设计方案和实施效果，支持相似情境下的方案类比。",
+    "core_explanation": "案例库服务于经验迁移和设计参考。",
+    "plain_explanation": "案例库服务于经验迁移和设计参考。",
+    "engineering_meaning": "用于CBR案例推理。",
+    "application_scenario": "用于CBR案例推理。",
+    "keywords": [
+      "案例库",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "存储历史工程情境、设计方案和实施效果，支持相似情境下的方案类比。",
+      "案例库服务于经验迁移和设计参考。",
+      "用于CBR案例推理。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_016_rule_base",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_02",
+    "title": "规则库",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "以“前提—结论”结构表达规范约束、设计逻辑和工程经验。",
+    "core_explanation": "规则库适用于明确约束和规范性判断。",
+    "plain_explanation": "规则库适用于明确约束和规范性判断。",
+    "engineering_meaning": "用于RBR规则推理。",
+    "application_scenario": "用于RBR规则推理。",
+    "keywords": [
+      "规则库",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "以“前提—结论”结构表达规范约束、设计逻辑和工程经验。",
+      "规则库适用于明确约束和规范性判断。",
+      "用于RBR规则推理。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_017_spatial_relation_base",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_02",
+    "title": "空间关系库",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "存储道路、灾害体、地形和环境对象之间的拓扑、方向、距离和邻接关系。",
+    "core_explanation": "它把几何关系转换为工程语义。",
+    "plain_explanation": "它把几何关系转换为工程语义。",
+    "engineering_meaning": "用于空间关系推理。",
+    "application_scenario": "用于空间关系推理。",
+    "keywords": [
+      "空间关系库",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "存储道路、灾害体、地形和环境对象之间的拓扑、方向、距离和邻接关系。",
+      "它把几何关系转换为工程语义。",
+      "用于空间关系推理。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_018_nine_intersection_model",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_02",
+    "title": "九交模型",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "通过空间对象内部、边界和外部之间的交集关系描述拓扑关系。",
+    "core_explanation": "可用于判断路线与灾害体、保护区、河流等对象的空间关系。",
+    "plain_explanation": "可用于判断路线与灾害体、保护区、河流等对象的空间关系。",
+    "engineering_meaning": "用于GIS空间推理。",
+    "application_scenario": "用于GIS空间推理。",
+    "keywords": [
+      "九交模型",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过空间对象内部、边界和外部之间的交集关系描述拓扑关系。",
+      "可用于判断路线与灾害体、保护区、河流等对象的空间关系。",
+      "用于GIS空间推理。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_019_case_knowledge_acquisition",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_03",
+    "title": "实例知识获取",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "从工程案例中提取情境、方案和结果等结构化知识。",
+    "core_explanation": "把经验案例变成可检索、可比较的知识对象。",
+    "plain_explanation": "把经验案例变成可检索、可比较的知识对象。",
+    "engineering_meaning": "用于案例推理和案例库建设。",
+    "application_scenario": "用于案例推理和案例库建设。",
+    "keywords": [
+      "实例知识获取",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "从工程案例中提取情境、方案和结果等结构化知识。",
+      "把经验案例变成可检索、可比较的知识对象。",
+      "用于案例推理和案例库建设。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_020_object_oriented_modeling",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_03",
+    "title": "面向对象建模",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "把道路、边坡、滑坡、桥隧等工程对象表达为具有属性和关系的对象。",
+    "core_explanation": "支持知识系统对设计对象进行结构化识别。",
+    "plain_explanation": "支持知识系统对设计对象进行结构化识别。",
+    "engineering_meaning": "用于实例知识组织。",
+    "application_scenario": "用于实例知识组织。",
+    "keywords": [
+      "面向对象建模",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "把道路、边坡、滑坡、桥隧等工程对象表达为具有属性和关系的对象。",
+      "支持知识系统对设计对象进行结构化识别。",
+      "用于实例知识组织。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_021_attribute_value_representation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_03",
+    "title": "属性—值对表达",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "用属性名和取值描述工程对象特征，如坡度、活动性、距离、岩性等。",
+    "core_explanation": "它是案例检索、规则判定和机器学习特征构建的基础。",
+    "plain_explanation": "它是案例检索、规则判定和机器学习特征构建的基础。",
+    "engineering_meaning": "用于知识获取和模型输入。",
+    "application_scenario": "用于知识获取和模型输入。",
+    "keywords": [
+      "属性—值对表达",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "用属性名和取值描述工程对象特征，如坡度、活动性、距离、岩性等。",
+      "它是案例检索、规则判定和机器学习特征构建的基础。",
+      "用于知识获取和模型输入。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_022_rule_knowledge_acquisition",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_03",
+    "title": "规则知识获取",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "通过人工整理或自动抽取获得规范规则、专家规则和经验规则。",
+    "core_explanation": "人工方式保证准确，自动方式提高效率。",
+    "plain_explanation": "人工方式保证准确，自动方式提高效率。",
+    "engineering_meaning": "用于规则库建设。",
+    "application_scenario": "用于规则库建设。",
+    "keywords": [
+      "规则知识获取",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过人工整理或自动抽取获得规范规则、专家规则和经验规则。",
+      "人工方式保证准确，自动方式提高效率。",
+      "用于规则库建设。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_023_manual_rule_acquisition",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_03",
+    "title": "手工规则获取",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "由专家根据规范、经验和案例人工整理规则。",
+    "core_explanation": "可靠性高，但效率较低且维护成本较高。",
+    "plain_explanation": "可靠性高，但效率较低且维护成本较高。",
+    "engineering_meaning": "用于核心规范规则建设。",
+    "application_scenario": "用于核心规范规则建设。",
+    "keywords": [
+      "手工规则获取",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "由专家根据规范、经验和案例人工整理规则。",
+      "可靠性高，但效率较低且维护成本较高。",
+      "用于核心规范规则建设。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_024_automatic_rule_acquisition",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_03",
+    "title": "自动规则获取",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "通过文本挖掘、数据挖掘或模型归纳自动发现规则。",
+    "core_explanation": "效率较高，但需要人工校核。",
+    "plain_explanation": "效率较高，但需要人工校核。",
+    "engineering_meaning": "用于大规模知识抽取。",
+    "application_scenario": "用于大规模知识抽取。",
+    "keywords": [
+      "自动规则获取",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过文本挖掘、数据挖掘或模型归纳自动发现规则。",
+      "效率较高，但需要人工校核。",
+      "用于大规模知识抽取。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_025_spatial_relation_reasoning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "空间关系推理（SRR）",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "从空间拓扑、距离、方向等几何关系推导工程语义事实。",
+    "core_explanation": "例如从路线穿越泥石流沟得出风险提示。",
+    "plain_explanation": "例如从路线穿越泥石流沟得出风险提示。",
+    "engineering_meaning": "用于选线风险判定和空间约束解释。",
+    "application_scenario": "用于选线风险判定和空间约束解释。",
+    "keywords": [
+      "空间关系推理",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "从空间拓扑、距离、方向等几何关系推导工程语义事实。",
+      "例如从路线穿越泥石流沟得出风险提示。",
+      "用于选线风险判定和空间约束解释。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_026_case_based_reasoning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "案例推理（CBR）",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "通过检索相似历史案例，为当前设计情境提供可比经验和方案参考。",
+    "core_explanation": "适用于经验性、情境相似、难以完全规则化的问题。",
+    "plain_explanation": "适用于经验性、情境相似、难以完全规则化的问题。",
+    "engineering_meaning": "用于地质选线和方案类比。",
+    "application_scenario": "用于地质选线和方案类比。",
+    "keywords": [
+      "案例推理",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过检索相似历史案例，为当前设计情境提供可比经验和方案参考。",
+      "适用于经验性、情境相似、难以完全规则化的问题。",
+      "用于地质选线和方案类比。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_027_rule_based_reasoning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "规则推理（RBR）",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "依据前提—结论规则进行逻辑推理，给出规范性判断。",
+    "core_explanation": "适用于强约束、规范明确、需要可解释判断的问题。",
+    "plain_explanation": "适用于强约束、规范明确、需要可解释判断的问题。",
+    "engineering_meaning": "用于设计规则校核。",
+    "application_scenario": "用于设计规则校核。",
+    "keywords": [
+      "规则推理",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "依据前提—结论规则进行逻辑推理，给出规范性判断。",
+      "适用于强约束、规范明确、需要可解释判断的问题。",
+      "用于设计规则校核。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_028_cbr_similarity",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "CBR相似度计算",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "对目标案例与历史案例的属性、结构和语义进行匹配，计算相似度。",
+    "core_explanation": "相似度决定历史方案是否具有迁移价值。",
+    "plain_explanation": "相似度决定历史方案是否具有迁移价值。",
+    "engineering_meaning": "用于案例检索排序。",
+    "application_scenario": "用于案例检索排序。",
+    "keywords": [
+      "CBR相似度计算",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "对目标案例与历史案例的属性、结构和语义进行匹配，计算相似度。",
+      "相似度决定历史方案是否具有迁移价值。",
+      "用于案例检索排序。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_029_rough_set_weighting",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "粗糙集属性权重",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "利用粗糙集方法挖掘属性重要度，为相似度计算赋权。",
+    "core_explanation": "可减少主观赋权影响。",
+    "plain_explanation": "可减少主观赋权影响。",
+    "engineering_meaning": "用于CBR案例排序。",
+    "application_scenario": "用于CBR案例排序。",
+    "keywords": [
+      "粗糙集属性权重",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "利用粗糙集方法挖掘属性重要度，为相似度计算赋权。",
+      "可减少主观赋权影响。",
+      "用于CBR案例排序。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_030_knn_case_retrieval",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "K近邻案例检索",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "按综合相似度检索最相近的若干历史案例。",
+    "core_explanation": "为当前方案提供经验证据和对比参考。",
+    "plain_explanation": "为当前方案提供经验证据和对比参考。",
+    "engineering_meaning": "用于实例推理。",
+    "application_scenario": "用于实例推理。",
+    "keywords": [
+      "K近邻案例检索",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "按综合相似度检索最相近的若干历史案例。",
+      "为当前方案提供经验证据和对比参考。",
+      "用于实例推理。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_031_rbr_cf_model",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "规则推理CF模型",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "用置信因子表示规则推理中证据支持程度。",
+    "core_explanation": "适用于不确定性规则判断。",
+    "plain_explanation": "适用于不确定性规则判断。",
+    "engineering_meaning": "用于地质风险或适宜性判断。",
+    "application_scenario": "用于地质风险或适宜性判断。",
+    "keywords": [
+      "规则推理CF模型",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "用置信因子表示规则推理中证据支持程度。",
+      "适用于不确定性规则判断。",
+      "用于地质风险或适宜性判断。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_032_forward_chaining",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "正向链式推理",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "从已知事实出发逐步匹配规则，直到推出结论。",
+    "core_explanation": "适用于根据输入条件逐步形成设计判断。",
+    "plain_explanation": "适用于根据输入条件逐步形成设计判断。",
+    "engineering_meaning": "用于规则推理流程。",
+    "application_scenario": "用于规则推理流程。",
+    "keywords": [
+      "正向链式推理",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "从已知事实出发逐步匹配规则，直到推出结论。",
+      "适用于根据输入条件逐步形成设计判断。",
+      "用于规则推理流程。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_033_dfs_search_strategy",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "深度优先搜索策略",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "优先沿一条推理路径深入搜索直到得出结论或失败。",
+    "core_explanation": "响应速度要求高时有一定优势。",
+    "plain_explanation": "响应速度要求高时有一定优势。",
+    "engineering_meaning": "用于规则推理路径搜索。",
+    "application_scenario": "用于规则推理路径搜索。",
+    "keywords": [
+      "深度优先搜索策略",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "优先沿一条推理路径深入搜索直到得出结论或失败。",
+      "响应速度要求高时有一定优势。",
+      "用于规则推理路径搜索。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_034_conflict_resolution",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec02_04",
+    "title": "冲突消解机制",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "当多条规则同时触发或结论冲突时，按优先级、置信度或工程语义进行处理。",
+    "core_explanation": "保证推理结果一致和可解释。",
+    "plain_explanation": "保证推理结果一致和可解释。",
+    "engineering_meaning": "用于规则推理系统。",
+    "application_scenario": "用于规则推理系统。",
+    "keywords": [
+      "冲突消解机制",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "当多条规则同时触发或结论冲突时，按优先级、置信度或工程语义进行处理。",
+      "保证推理结果一致和可解释。",
+      "用于规则推理系统。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_035_intelligent_route_selection",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "title": "智能选线",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "利用算法、知识和数据方法辅助路线走廊和线形方案生成与优化。",
+    "core_explanation": "智能选线不是自动代替设计，而是扩展方案搜索和评价能力。",
+    "plain_explanation": "智能选线不是自动代替设计，而是扩展方案搜索和评价能力。",
+    "engineering_meaning": "用于走廊带选取和路线方案优化。",
+    "application_scenario": "用于走廊带选取和路线方案优化。",
+    "keywords": [
+      "智能选线",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "利用算法、知识和数据方法辅助路线走廊和线形方案生成与优化。",
+      "智能选线不是自动代替设计，而是扩展方案搜索和评价能力。",
+      "用于走廊带选取和路线方案优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_036_corridor_level_optimization",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "title": "走廊带层次优化",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "在较大空间范围内确定路线可能通过的区域或走廊。",
+    "core_explanation": "更多关注地形、地质、环境和空间约束。",
+    "plain_explanation": "更多关注地形、地质、环境和空间约束。",
+    "engineering_meaning": "用于宏观选线。",
+    "application_scenario": "用于宏观选线。",
+    "keywords": [
+      "走廊带层次优化",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "在较大空间范围内确定路线可能通过的区域或走廊。",
+      "更多关注地形、地质、环境和空间约束。",
+      "用于宏观选线。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_037_alignment_level_optimization",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03",
+    "title": "路线方案层次优化",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "在走廊带内确定具体平纵组合和线形方案。",
+    "core_explanation": "需要考虑几何指标、造价、施工和安全等约束。",
+    "plain_explanation": "需要考虑几何指标、造价、施工和安全等约束。",
+    "engineering_meaning": "用于具体路线设计。",
+    "application_scenario": "用于具体路线设计。",
+    "keywords": [
+      "路线方案层次优化",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "在走廊带内确定具体平纵组合和线形方案。",
+      "需要考虑几何指标、造价、施工和安全等约束。",
+      "用于具体路线设计。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_038_decision_variables",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_01",
+    "title": "决策变量",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "优化模型中可由算法调整的设计变量，如交点坐标、曲线半径、变坡点桩号和高程。",
+    "core_explanation": "决策变量决定算法搜索空间。",
+    "plain_explanation": "决策变量决定算法搜索空间。",
+    "engineering_meaning": "用于路线优化建模。",
+    "application_scenario": "用于路线优化建模。",
+    "keywords": [
+      "决策变量",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "优化模型中可由算法调整的设计变量，如交点坐标、曲线半径、变坡点桩号和高程。",
+      "决策变量决定算法搜索空间。",
+      "用于路线优化建模。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_039_objective_function",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_01",
+    "title": "目标函数",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "用于评价方案优劣的函数，如造价、风险、环境影响或综合成本。",
+    "core_explanation": "目标函数把工程偏好转化为可优化指标。",
+    "plain_explanation": "目标函数把工程偏好转化为可优化指标。",
+    "engineering_meaning": "用于优化求解。",
+    "application_scenario": "用于优化求解。",
+    "keywords": [
+      "目标函数",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "用于评价方案优劣的函数，如造价、风险、环境影响或综合成本。",
+      "目标函数把工程偏好转化为可优化指标。",
+      "用于优化求解。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_040_constraints",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_01",
+    "title": "约束条件",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "限制方案可行性的条件，包括规范硬约束和偏好软约束。",
+    "core_explanation": "约束条件保证算法结果符合工程要求。",
+    "plain_explanation": "约束条件保证算法结果符合工程要求。",
+    "engineering_meaning": "用于选线优化。",
+    "application_scenario": "用于选线优化。",
+    "keywords": [
+      "约束条件",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "限制方案可行性的条件，包括规范硬约束和偏好软约束。",
+      "约束条件保证算法结果符合工程要求。",
+      "用于选线优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_041_hard_soft_constraints",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_01",
+    "title": "硬约束与软约束",
+    "knowledge_type": "comparison",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "硬约束必须满足，软约束可通过罚函数或偏好权重体现。",
+    "core_explanation": "两者共同限定路线方案的可行性和优选性。",
+    "plain_explanation": "两者共同限定路线方案的可行性和优选性。",
+    "engineering_meaning": "用于优化模型设置。",
+    "application_scenario": "用于优化模型设置。",
+    "keywords": [
+      "硬约束与软约束",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "硬约束必须满足，软约束可通过罚函数或偏好权重体现。",
+      "两者共同限定路线方案的可行性和优选性。",
+      "用于优化模型设置。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_042_multi_objective_optimization_model",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_01",
+    "title": "多目标优化模型",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "同时考虑多个优化目标和约束条件，生成可比较的方案集合。",
+    "core_explanation": "适合道路选线的综合性决策。",
+    "plain_explanation": "适合道路选线的综合性决策。",
+    "engineering_meaning": "用于多方案比选。",
+    "application_scenario": "用于多方案比选。",
+    "keywords": [
+      "多目标优化模型",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "同时考虑多个优化目标和约束条件，生成可比较的方案集合。",
+      "适合道路选线的综合性决策。",
+      "用于多方案比选。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_043_genetic_algorithm",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_02",
+    "title": "遗传算法（GA）",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "模拟自然选择和遗传机制，通过编码、选择、交叉、变异和迭代进化搜索优化解。",
+    "core_explanation": "适用于复杂非线性设计空间。",
+    "plain_explanation": "适用于复杂非线性设计空间。",
+    "engineering_meaning": "用于平面线形和单目标路线优化。",
+    "application_scenario": "用于平面线形和单目标路线优化。",
+    "keywords": [
+      "遗传算法",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "模拟自然选择和遗传机制，通过编码、选择、交叉、变异和迭代进化搜索优化解。",
+      "适用于复杂非线性设计空间。",
+      "用于平面线形和单目标路线优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_044_chromosome_encoding",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_02",
+    "title": "染色体编码",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "将路线设计变量编码为可被遗传算法操作的基因结构。",
+    "core_explanation": "编码质量直接影响搜索效率和解的有效性。",
+    "plain_explanation": "编码质量直接影响搜索效率和解的有效性。",
+    "engineering_meaning": "用于GA优化。",
+    "application_scenario": "用于GA优化。",
+    "keywords": [
+      "染色体编码",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "将路线设计变量编码为可被遗传算法操作的基因结构。",
+      "编码质量直接影响搜索效率和解的有效性。",
+      "用于GA优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_045_fitness_evaluation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_02",
+    "title": "适应度评估",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "依据目标函数计算个体优劣，用于选择和进化。",
+    "core_explanation": "适应度是遗传算法筛选方案的依据。",
+    "plain_explanation": "适应度是遗传算法筛选方案的依据。",
+    "engineering_meaning": "用于GA迭代。",
+    "application_scenario": "用于GA迭代。",
+    "keywords": [
+      "适应度评估",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "依据目标函数计算个体优劣，用于选择和进化。",
+      "适应度是遗传算法筛选方案的依据。",
+      "用于GA迭代。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_046_selection_mechanism",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_02",
+    "title": "选择机制",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "根据适应度选择个体进入下一代，如轮盘赌或锦标赛选择。",
+    "core_explanation": "保持优良解并推动种群进化。",
+    "plain_explanation": "保持优良解并推动种群进化。",
+    "engineering_meaning": "用于GA优化流程。",
+    "application_scenario": "用于GA优化流程。",
+    "keywords": [
+      "选择机制",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "根据适应度选择个体进入下一代，如轮盘赌或锦标赛选择。",
+      "保持优良解并推动种群进化。",
+      "用于GA优化流程。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_047_crossover_mutation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_02",
+    "title": "交叉与变异",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "交叉重组已有个体，变异引入扰动和新解。",
+    "core_explanation": "二者平衡继承与探索。",
+    "plain_explanation": "二者平衡继承与探索。",
+    "engineering_meaning": "用于GA保持多样性。",
+    "application_scenario": "用于GA保持多样性。",
+    "keywords": [
+      "交叉与变异",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "交叉重组已有个体，变异引入扰动和新解。",
+      "二者平衡继承与探索。",
+      "用于GA保持多样性。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_048_ga_stop_rule",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_02",
+    "title": "GA停止规则",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "达到最大代数、收敛阈值或适应度不再改进时终止。",
+    "core_explanation": "防止无限迭代。",
+    "plain_explanation": "防止无限迭代。",
+    "engineering_meaning": "用于算法控制。",
+    "application_scenario": "用于算法控制。",
+    "keywords": [
+      "GA停止规则",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "达到最大代数、收敛阈值或适应度不再改进时终止。",
+      "防止无限迭代。",
+      "用于算法控制。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_049_pareto_optimality",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "帕累托最优",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "若无法在不恶化某一目标的情况下改善另一目标，则该解为帕累托最优解。",
+    "core_explanation": "用于表达多目标之间的折中关系。",
+    "plain_explanation": "用于表达多目标之间的折中关系。",
+    "engineering_meaning": "用于多目标路线优化。",
+    "application_scenario": "用于多目标路线优化。",
+    "keywords": [
+      "帕累托最优",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "若无法在不恶化某一目标的情况下改善另一目标，则该解为帕累托最优解。",
+      "用于表达多目标之间的折中关系。",
+      "用于多目标路线优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_050_pareto_front",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "帕累托前沿",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "由一组互不支配的帕累托最优解构成的方案边界。",
+    "core_explanation": "前沿提供多种可选方案而不是唯一答案。",
+    "plain_explanation": "前沿提供多种可选方案而不是唯一答案。",
+    "engineering_meaning": "用于多方案比选。",
+    "application_scenario": "用于多方案比选。",
+    "keywords": [
+      "帕累托前沿",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "由一组互不支配的帕累托最优解构成的方案边界。",
+      "前沿提供多种可选方案而不是唯一答案。",
+      "用于多方案比选。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_051_nsga2",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "NSGA-II",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "基于非支配排序、拥挤度计算和精英选择的多目标进化算法。",
+    "core_explanation": "适合同时优化造价、风险、环境影响等多个目标。",
+    "plain_explanation": "适合同时优化造价、风险、环境影响等多个目标。",
+    "engineering_meaning": "用于多目标路线方案优化。",
+    "application_scenario": "用于多目标路线方案优化。",
+    "keywords": [
+      "NSGA-II",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "基于非支配排序、拥挤度计算和精英选择的多目标进化算法。",
+      "适合同时优化造价、风险、环境影响等多个目标。",
+      "用于多目标路线方案优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_052_non_dominated_sorting",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "非支配排序",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "按支配关系将种群划分为不同等级。",
+    "core_explanation": "它是NSGA-II适应度评估的核心。",
+    "plain_explanation": "它是NSGA-II适应度评估的核心。",
+    "engineering_meaning": "用于多目标优化。",
+    "application_scenario": "用于多目标优化。",
+    "keywords": [
+      "非支配排序",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "按支配关系将种群划分为不同等级。",
+      "它是NSGA-II适应度评估的核心。",
+      "用于多目标优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_053_crowding_distance",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "拥挤度计算",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "衡量个体在目标空间中的稀疏程度，用于保持解集多样性。",
+    "core_explanation": "避免帕累托前沿过度集中。",
+    "plain_explanation": "避免帕累托前沿过度集中。",
+    "engineering_meaning": "用于NSGA-II。",
+    "application_scenario": "用于NSGA-II。",
+    "keywords": [
+      "拥挤度计算",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "衡量个体在目标空间中的稀疏程度，用于保持解集多样性。",
+      "避免帕累托前沿过度集中。",
+      "用于NSGA-II。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_054_elite_selection",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "精英选择策略",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "保留优良解进入下一代，提高算法收敛性和稳定性。",
+    "core_explanation": "避免优秀方案被随机操作破坏。",
+    "plain_explanation": "避免优秀方案被随机操作破坏。",
+    "engineering_meaning": "用于进化算法。",
+    "application_scenario": "用于进化算法。",
+    "keywords": [
+      "精英选择策略",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "保留优良解进入下一代，提高算法收敛性和稳定性。",
+      "避免优秀方案被随机操作破坏。",
+      "用于进化算法。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_055_weighted_sum_method",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "加权和法",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "通过权重把多个目标聚合为单一目标。",
+    "core_explanation": "简单直观，但对权重敏感，可能遗漏非凸前沿。",
+    "plain_explanation": "简单直观，但对权重敏感，可能遗漏非凸前沿。",
+    "engineering_meaning": "用于多目标偏好处理。",
+    "application_scenario": "用于多目标偏好处理。",
+    "keywords": [
+      "加权和法",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过权重把多个目标聚合为单一目标。",
+      "简单直观，但对权重敏感，可能遗漏非凸前沿。",
+      "用于多目标偏好处理。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_056_epsilon_constraint",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "ε约束法",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "选定一个目标作为优化目标，将其他目标转化为约束。",
+    "core_explanation": "适合强调某个主目标的决策。",
+    "plain_explanation": "适合强调某个主目标的决策。",
+    "engineering_meaning": "用于多目标方案筛选。",
+    "application_scenario": "用于多目标方案筛选。",
+    "keywords": [
+      "ε约束法",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "选定一个目标作为优化目标，将其他目标转化为约束。",
+      "适合强调某个主目标的决策。",
+      "用于多目标方案筛选。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_057_knee_point",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "膝点法",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "选择帕累托前沿上折中程度较高的拐点方案。",
+    "core_explanation": "常用于推荐均衡方案。",
+    "plain_explanation": "常用于推荐均衡方案。",
+    "engineering_meaning": "用于多目标结果选择。",
+    "application_scenario": "用于多目标结果选择。",
+    "keywords": [
+      "膝点法",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "选择帕累托前沿上折中程度较高的拐点方案。",
+      "常用于推荐均衡方案。",
+      "用于多目标结果选择。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_058_ga_vs_moea",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_03",
+    "title": "GA与多目标进化算法区别",
+    "knowledge_type": "comparison",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "GA通常聚合为单目标给出一个最优解，MOEA输出多个互不支配的折中方案。",
+    "core_explanation": "二者在目标处理、输出形式和决策角色上不同。",
+    "plain_explanation": "二者在目标处理、输出形式和决策角色上不同。",
+    "engineering_meaning": "用于算法选择。",
+    "application_scenario": "用于算法选择。",
+    "keywords": [
+      "GA与多目标进化算法区别",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "GA通常聚合为单目标给出一个最优解，MOEA输出多个互不支配的折中方案。",
+      "二者在目标处理、输出形式和决策角色上不同。",
+      "用于算法选择。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_059_reinforcement_learning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "强化学习（RL）",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "智能体通过与环境交互学习策略，以最大化长期奖励。",
+    "core_explanation": "适用于序列决策问题。",
+    "plain_explanation": "适用于序列决策问题。",
+    "engineering_meaning": "用于纵断面优化。",
+    "application_scenario": "用于纵断面优化。",
+    "keywords": [
+      "强化学习",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "智能体通过与环境交互学习策略，以最大化长期奖励。",
+      "适用于序列决策问题。",
+      "用于纵断面优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_060_mdp",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "马尔可夫决策过程（MDP）",
+    "knowledge_type": "framework",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "由状态、动作、转移规律、奖励函数和折扣因子等组成，用于形式化序列决策问题。",
+    "core_explanation": "MDP是强化学习建模基础。",
+    "plain_explanation": "MDP是强化学习建模基础。",
+    "engineering_meaning": "用于纵断面优化建模。",
+    "application_scenario": "用于纵断面优化建模。",
+    "keywords": [
+      "马尔可夫决策过程",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "由状态、动作、转移规律、奖励函数和折扣因子等组成，用于形式化序列决策问题。",
+      "MDP是强化学习建模基础。",
+      "用于纵断面优化建模。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_061_state_space",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "状态空间",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "描述当前设计情形的变量集合，如当前位置、高程、坡度、约束状态等。",
+    "core_explanation": "状态决定智能体可见的设计环境。",
+    "plain_explanation": "状态决定智能体可见的设计环境。",
+    "engineering_meaning": "用于RL建模。",
+    "application_scenario": "用于RL建模。",
+    "keywords": [
+      "状态空间",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "描述当前设计情形的变量集合，如当前位置、高程、坡度、约束状态等。",
+      "状态决定智能体可见的设计环境。",
+      "用于RL建模。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_062_action_space",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "动作空间",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "在某一状态下可采取的设计决策，如调整坡度、选择下一个变坡点或高程。",
+    "core_explanation": "动作定义可搜索的设计行为。",
+    "plain_explanation": "动作定义可搜索的设计行为。",
+    "engineering_meaning": "用于RL建模。",
+    "application_scenario": "用于RL建模。",
+    "keywords": [
+      "动作空间",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "在某一状态下可采取的设计决策，如调整坡度、选择下一个变坡点或高程。",
+      "动作定义可搜索的设计行为。",
+      "用于RL建模。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_063_reward_function",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "奖励函数",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "对动作结果进行评价，奖励可行、经济、安全和符合规范的设计。",
+    "core_explanation": "奖励函数决定强化学习的优化方向。",
+    "plain_explanation": "奖励函数决定强化学习的优化方向。",
+    "engineering_meaning": "用于RL纵断面优化。",
+    "application_scenario": "用于RL纵断面优化。",
+    "keywords": [
+      "奖励函数",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "对动作结果进行评价，奖励可行、经济、安全和符合规范的设计。",
+      "奖励函数决定强化学习的优化方向。",
+      "用于RL纵断面优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_064_policy_value_function",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "策略与价值函数",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "策略决定动作选择，价值函数评价状态或动作的长期收益。",
+    "core_explanation": "二者是强化学习学习和决策的核心。",
+    "plain_explanation": "二者是强化学习学习和决策的核心。",
+    "engineering_meaning": "用于RL算法理解。",
+    "application_scenario": "用于RL算法理解。",
+    "keywords": [
+      "策略与价值函数",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "策略决定动作选择，价值函数评价状态或动作的长期收益。",
+      "二者是强化学习学习和决策的核心。",
+      "用于RL算法理解。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_065_exploration_exploitation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "探索与利用",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "探索尝试新方案，利用选择当前已知较优方案。",
+    "core_explanation": "二者平衡决定强化学习是否陷入局部最优。",
+    "plain_explanation": "二者平衡决定强化学习是否陷入局部最优。",
+    "engineering_meaning": "用于RL训练。",
+    "application_scenario": "用于RL训练。",
+    "keywords": [
+      "探索与利用",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "探索尝试新方案，利用选择当前已知较优方案。",
+      "二者平衡决定强化学习是否陷入局部最优。",
+      "用于RL训练。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_066_dqn",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "DQN算法",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "用深度神经网络近似动作价值函数，并通过经验回放训练策略。",
+    "core_explanation": "适合离散动作序列决策。",
+    "plain_explanation": "适合离散动作序列决策。",
+    "engineering_meaning": "用于纵断面优化示例。",
+    "application_scenario": "用于纵断面优化示例。",
+    "keywords": [
+      "DQN算法",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "用深度神经网络近似动作价值函数，并通过经验回放训练策略。",
+      "适合离散动作序列决策。",
+      "用于纵断面优化示例。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_067_vertical_profile_rl",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec03_04",
+    "title": "纵断面强化学习优化",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "把纵断面设计建模为状态—动作—奖励序列，由智能体逐步生成纵断面方案。",
+    "core_explanation": "适合连续路线的时序决策。",
+    "plain_explanation": "适合连续路线的时序决策。",
+    "engineering_meaning": "用于纵断面智能优化。",
+    "application_scenario": "用于纵断面智能优化。",
+    "keywords": [
+      "纵断面强化学习优化",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "把纵断面设计建模为状态—动作—奖励序列，由智能体逐步生成纵断面方案。",
+      "适合连续路线的时序决策。",
+      "用于纵断面智能优化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_068_machine_learning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "机器学习",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "通过数据训练模型，使系统从样本中学习分类、回归或聚类规律。",
+    "core_explanation": "数据驱动道路设计的基础技术。",
+    "plain_explanation": "数据驱动道路设计的基础技术。",
+    "engineering_meaning": "用于风险预测和指标推荐。",
+    "application_scenario": "用于风险预测和指标推荐。",
+    "keywords": [
+      "机器学习",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过数据训练模型，使系统从样本中学习分类、回归或聚类规律。",
+      "数据驱动道路设计的基础技术。",
+      "用于风险预测和指标推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_069_supervised_learning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "监督学习",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "利用带标签样本训练模型，完成分类或回归任务。",
+    "core_explanation": "需要已知输入和输出关系。",
+    "plain_explanation": "需要已知输入和输出关系。",
+    "engineering_meaning": "用于滑坡/非滑坡分类和指标预测。",
+    "application_scenario": "用于滑坡/非滑坡分类和指标预测。",
+    "keywords": [
+      "监督学习",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "利用带标签样本训练模型，完成分类或回归任务。",
+      "需要已知输入和输出关系。",
+      "用于滑坡/非滑坡分类和指标预测。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_070_classification",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "分类",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "将样本划分为离散类别，如滑坡与非滑坡、适宜与不适宜。",
+    "core_explanation": "适合风险分区和类型识别。",
+    "plain_explanation": "适合风险分区和类型识别。",
+    "engineering_meaning": "用于地质风险评估。",
+    "application_scenario": "用于地质风险评估。",
+    "keywords": [
+      "分类",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "将样本划分为离散类别，如滑坡与非滑坡、适宜与不适宜。",
+      "适合风险分区和类型识别。",
+      "用于地质风险评估。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_071_regression",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "回归",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "预测连续数值，如半径、缓和曲线长度、风险概率或造价。",
+    "core_explanation": "适合指标预测。",
+    "plain_explanation": "适合指标预测。",
+    "engineering_meaning": "用于平面设计参数推荐。",
+    "application_scenario": "用于平面设计参数推荐。",
+    "keywords": [
+      "回归",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "预测连续数值，如半径、缓和曲线长度、风险概率或造价。",
+      "适合指标预测。",
+      "用于平面设计参数推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_072_unsupervised_learning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "无监督学习",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "在无标签数据中发现结构或分组规律。",
+    "core_explanation": "适合样本标签不足时的探索性分析。",
+    "plain_explanation": "适合样本标签不足时的探索性分析。",
+    "engineering_meaning": "用于聚类分区和异常识别。",
+    "application_scenario": "用于聚类分区和异常识别。",
+    "keywords": [
+      "无监督学习",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "在无标签数据中发现结构或分组规律。",
+      "适合样本标签不足时的探索性分析。",
+      "用于聚类分区和异常识别。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_073_deep_learning",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "深度学习",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "通过多层神经网络从复杂数据中自动学习特征。",
+    "core_explanation": "适合影像、文本、时序等非结构化数据。",
+    "plain_explanation": "适合影像、文本、时序等非结构化数据。",
+    "engineering_meaning": "用于遥感识别、图像分析和多模态融合。",
+    "application_scenario": "用于遥感识别、图像分析和多模态融合。",
+    "keywords": [
+      "深度学习",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过多层神经网络从复杂数据中自动学习特征。",
+      "适合影像、文本、时序等非结构化数据。",
+      "用于遥感识别、图像分析和多模态融合。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_074_cnn",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "卷积神经网络（CNN）",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "擅长从图像和栅格数据中提取空间特征。",
+    "core_explanation": "适合遥感影像、地形栅格和灾害识别。",
+    "plain_explanation": "适合遥感影像、地形栅格和灾害识别。",
+    "engineering_meaning": "用于图像识别和风险分析。",
+    "application_scenario": "用于图像识别和风险分析。",
+    "keywords": [
+      "卷积神经网络",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "擅长从图像和栅格数据中提取空间特征。",
+      "适合遥感影像、地形栅格和灾害识别。",
+      "用于图像识别和风险分析。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_075_rnn",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "循环神经网络（RNN）",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "擅长处理序列数据和时序依赖。",
+    "core_explanation": "适合交通流、监测数据和时间序列分析。",
+    "plain_explanation": "适合交通流、监测数据和时间序列分析。",
+    "engineering_meaning": "用于动态预测。",
+    "application_scenario": "用于动态预测。",
+    "keywords": [
+      "循环神经网络",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "擅长处理序列数据和时序依赖。",
+      "适合交通流、监测数据和时间序列分析。",
+      "用于动态预测。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_076_gan",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "生成对抗网络（GAN）",
+    "knowledge_type": "method",
+    "difficulty": "拓展",
+    "importance": "补充",
+    "definition": "通过生成器与判别器对抗学习生成逼真样本或数据分布。",
+    "core_explanation": "可用于数据增强和场景生成。",
+    "plain_explanation": "可用于数据增强和场景生成。",
+    "engineering_meaning": "用于设计方案生成探索。",
+    "application_scenario": "用于设计方案生成探索。",
+    "keywords": [
+      "生成对抗网络",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "通过生成器与判别器对抗学习生成逼真样本或数据分布。",
+      "可用于数据增强和场景生成。",
+      "用于设计方案生成探索。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_077_foundation_model",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "大模型与基础模型",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "基于大规模数据预训练，具备跨任务和跨领域迁移能力。",
+    "core_explanation": "可支持文本理解、图像理解、代码生成和智能问答。",
+    "plain_explanation": "可支持文本理解、图像理解、代码生成和智能问答。",
+    "engineering_meaning": "用于AI辅助设计与RAG问答。",
+    "application_scenario": "用于AI辅助设计与RAG问答。",
+    "keywords": [
+      "大模型与基础模型",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "基于大规模数据预训练，具备跨任务和跨领域迁移能力。",
+      "可支持文本理解、图像理解、代码生成和智能问答。",
+      "用于AI辅助设计与RAG问答。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_078_mult_agent_system",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "多智能体系统",
+    "knowledge_type": "framework",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "由多个智能体协同完成不同子任务，如选线、评价、校核、解释。",
+    "core_explanation": "适合复杂设计流程的分工协同。",
+    "plain_explanation": "适合复杂设计流程的分工协同。",
+    "engineering_meaning": "用于AI设计平台。",
+    "application_scenario": "用于AI设计平台。",
+    "keywords": [
+      "多智能体系统",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "由多个智能体协同完成不同子任务，如选线、评价、校核、解释。",
+      "适合复杂设计流程的分工协同。",
+      "用于AI设计平台。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_079_gis_support",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "GIS技术支持",
+    "knowledge_type": "support",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "GIS提供空间数据组织、空间分析和可视化支撑。",
+    "core_explanation": "是数据驱动路线设计的空间底座。",
+    "plain_explanation": "是数据驱动路线设计的空间底座。",
+    "engineering_meaning": "用于风险评估和选线。",
+    "application_scenario": "用于风险评估和选线。",
+    "keywords": [
+      "GIS技术支持",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "GIS提供空间数据组织、空间分析和可视化支撑。",
+      "是数据驱动路线设计的空间底座。",
+      "用于风险评估和选线。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_080_rs_support",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "遥感技术支持",
+    "knowledge_type": "support",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "遥感提供大范围地表、地形、植被、水系和灾害信息。",
+    "core_explanation": "为AI模型提供影像和空间特征数据。",
+    "plain_explanation": "为AI模型提供影像和空间特征数据。",
+    "engineering_meaning": "用于地质灾害识别。",
+    "application_scenario": "用于地质灾害识别。",
+    "keywords": [
+      "遥感技术支持",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "遥感提供大范围地表、地形、植被、水系和灾害信息。",
+      "为AI模型提供影像和空间特征数据。",
+      "用于地质灾害识别。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_081_bim_support",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "BIM技术支持",
+    "knowledge_type": "support",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "BIM提供道路构件模型、属性和设计成果数据。",
+    "core_explanation": "为AI模型提供工程语义和构件级数据。",
+    "plain_explanation": "为AI模型提供工程语义和构件级数据。",
+    "engineering_meaning": "用于设计方案分析。",
+    "application_scenario": "用于设计方案分析。",
+    "keywords": [
+      "BIM技术支持",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "BIM提供道路构件模型、属性和设计成果数据。",
+      "为AI模型提供工程语义和构件级数据。",
+      "用于设计方案分析。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_082_recommendation_system",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_01",
+    "title": "推荐系统",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "根据历史数据、相似设计或内容特征推荐设计参数、方案或线形组合。",
+    "core_explanation": "适合辅助设计决策。",
+    "plain_explanation": "适合辅助设计决策。",
+    "engineering_meaning": "用于路线平面指标推荐。",
+    "application_scenario": "用于路线平面指标推荐。",
+    "keywords": [
+      "推荐系统",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "根据历史数据、相似设计或内容特征推荐设计参数、方案或线形组合。",
+      "适合辅助设计决策。",
+      "用于路线平面指标推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_083_geological_risk_assessment",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "地质风险评估",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "利用地形、地质、水文、遥感和灾害样本数据预测地质风险。",
+    "core_explanation": "为选线避让和方案比选提供风险依据。",
+    "plain_explanation": "为选线避让和方案比选提供风险依据。",
+    "engineering_meaning": "用于滑坡敏感性和灾害风险评价。",
+    "application_scenario": "用于滑坡敏感性和灾害风险评价。",
+    "keywords": [
+      "地质风险评估",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "利用地形、地质、水文、遥感和灾害样本数据预测地质风险。",
+      "为选线避让和方案比选提供风险依据。",
+      "用于滑坡敏感性和灾害风险评价。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_084_risk_data_sources",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "风险评估数据源",
+    "knowledge_type": "data",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "包括地形、地质、水文、遥感、历史灾害点和工程调查数据。",
+    "core_explanation": "数据质量决定风险评估可靠性。",
+    "plain_explanation": "数据质量决定风险评估可靠性。",
+    "engineering_meaning": "用于模式识别。",
+    "application_scenario": "用于模式识别。",
+    "keywords": [
+      "风险评估数据源",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "包括地形、地质、水文、遥感、历史灾害点和工程调查数据。",
+      "数据质量决定风险评估可靠性。",
+      "用于模式识别。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_085_data_preprocessing",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "数据预处理",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "包括清洗、配准、重采样、归一化、缺失处理和样本构建。",
+    "core_explanation": "预处理决定模型输入一致性。",
+    "plain_explanation": "预处理决定模型输入一致性。",
+    "engineering_meaning": "用于机器学习建模。",
+    "application_scenario": "用于机器学习建模。",
+    "keywords": [
+      "数据预处理",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "包括清洗、配准、重采样、归一化、缺失处理和样本构建。",
+      "预处理决定模型输入一致性。",
+      "用于机器学习建模。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_086_feature_extraction",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "特征提取",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "从原始数据中提取坡度、坡向、曲率、距断层距离、土地利用等因子。",
+    "core_explanation": "特征决定模型能否识别风险模式。",
+    "plain_explanation": "特征决定模型能否识别风险模式。",
+    "engineering_meaning": "用于风险预测。",
+    "application_scenario": "用于风险预测。",
+    "keywords": [
+      "特征提取",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "从原始数据中提取坡度、坡向、曲率、距断层距离、土地利用等因子。",
+      "特征决定模型能否识别风险模式。",
+      "用于风险预测。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_087_model_training_prediction",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "模型训练与预测",
+    "knowledge_type": "process",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "利用样本训练机器学习模型，并将模型应用于空间预测。",
+    "core_explanation": "输出风险概率或分区结果。",
+    "plain_explanation": "输出风险概率或分区结果。",
+    "engineering_meaning": "用于滑坡敏感性图生成。",
+    "application_scenario": "用于滑坡敏感性图生成。",
+    "keywords": [
+      "模型训练与预测",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "利用样本训练机器学习模型，并将模型应用于空间预测。",
+      "输出风险概率或分区结果。",
+      "用于滑坡敏感性图生成。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_088_risk_map_generation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "风险图生成",
+    "knowledge_type": "output",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "将模型预测结果转化为空间风险图或敏感性分区图。",
+    "core_explanation": "直接服务路线方案避让和比选。",
+    "plain_explanation": "直接服务路线方案避让和比选。",
+    "engineering_meaning": "用于选线决策。",
+    "application_scenario": "用于选线决策。",
+    "keywords": [
+      "风险图生成",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "将模型预测结果转化为空间风险图或敏感性分区图。",
+      "直接服务路线方案避让和比选。",
+      "用于选线决策。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_089_collaborative_filtering",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "协同过滤推荐",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "根据相似用户、相似项目或相似设计行为进行推荐。",
+    "core_explanation": "依赖历史交互和设计数据。",
+    "plain_explanation": "依赖历史交互和设计数据。",
+    "engineering_meaning": "用于设计经验推荐。",
+    "application_scenario": "用于设计经验推荐。",
+    "keywords": [
+      "协同过滤推荐",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "根据相似用户、相似项目或相似设计行为进行推荐。",
+      "依赖历史交互和设计数据。",
+      "用于设计经验推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_090_content_based_recommendation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "基于内容推荐",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "根据当前设计条件与历史方案特征相似性进行推荐。",
+    "core_explanation": "适合根据地形、等级、速度、交点条件推荐参数。",
+    "plain_explanation": "适合根据地形、等级、速度、交点条件推荐参数。",
+    "engineering_meaning": "用于路线设计指标推荐。",
+    "application_scenario": "用于路线设计指标推荐。",
+    "keywords": [
+      "基于内容推荐",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "根据当前设计条件与历史方案特征相似性进行推荐。",
+      "适合根据地形、等级、速度、交点条件推荐参数。",
+      "用于路线设计指标推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_091_hybrid_recommendation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "混合推荐",
+    "knowledge_type": "method",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "融合协同过滤和基于内容推荐等多种策略。",
+    "core_explanation": "提升推荐稳定性和适应性。",
+    "plain_explanation": "提升推荐稳定性和适应性。",
+    "engineering_meaning": "用于复杂设计场景。",
+    "application_scenario": "用于复杂设计场景。",
+    "keywords": [
+      "混合推荐",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "融合协同过滤和基于内容推荐等多种策略。",
+      "提升推荐稳定性和适应性。",
+      "用于复杂设计场景。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_092_alignment_indicator_recommendation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "路线平面指标推荐模型",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "根据历史设计数据和当前交点条件推荐曲线半径、缓和曲线长度或线形组合。",
+    "core_explanation": "实现从经验统计到智能参数推荐。",
+    "plain_explanation": "实现从经验统计到智能参数推荐。",
+    "engineering_meaning": "用于Civil 3D指标推荐系统。",
+    "application_scenario": "用于Civil 3D指标推荐系统。",
+    "keywords": [
+      "路线平面指标推荐模型",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "根据历史设计数据和当前交点条件推荐曲线半径、缓和曲线长度或线形组合。",
+      "实现从经验统计到智能参数推荐。",
+      "用于Civil 3D指标推荐系统。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_093_line_combination_recommendation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "线形组合类型推荐",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "预测相邻交点之间应采用的线形组合，如S形曲线或反向曲线。",
+    "core_explanation": "适用于双交点设计场景。",
+    "plain_explanation": "适用于双交点设计场景。",
+    "engineering_meaning": "用于平面设计推荐。",
+    "application_scenario": "用于平面设计推荐。",
+    "keywords": [
+      "线形组合类型推荐",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "预测相邻交点之间应采用的线形组合，如S形曲线或反向曲线。",
+      "适用于双交点设计场景。",
+      "用于平面设计推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_094_basic_curve_recommendation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "基本型曲线推荐",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "在给定交点转角和两侧直线长度条件下，推荐圆曲线半径和缓和曲线长度。",
+    "core_explanation": "适用于单交点设计场景。",
+    "plain_explanation": "适用于单交点设计场景。",
+    "engineering_meaning": "用于平面线形参数推荐。",
+    "application_scenario": "用于平面线形参数推荐。",
+    "keywords": [
+      "基本型曲线推荐",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "在给定交点转角和两侧直线长度条件下，推荐圆曲线半径和缓和曲线长度。",
+      "适用于单交点设计场景。",
+      "用于平面线形参数推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_095_s_curve_reverse_curve_recommendation",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "S形与反向曲线指标推荐",
+    "knowledge_type": "application",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "针对双交点线形，结合机器学习和工程约束推荐线形指标。",
+    "core_explanation": "需要同时满足机器学习预测和工程规则。",
+    "plain_explanation": "需要同时满足机器学习预测和工程规则。",
+    "engineering_meaning": "用于复杂平面线形推荐。",
+    "application_scenario": "用于复杂平面线形推荐。",
+    "keywords": [
+      "S形与反向曲线指标推荐",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "针对双交点线形，结合机器学习和工程约束推荐线形指标。",
+      "需要同时满足机器学习预测和工程规则。",
+      "用于复杂平面线形推荐。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_096_human_ai_collaboration",
+    "chapter_id": "ch10",
+    "section_id": "ch10_sec04_02",
+    "title": "人机协同设计",
+    "knowledge_type": "concept",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "AI给出推荐或优化结果，工程师负责判断、修正和最终决策。",
+    "core_explanation": "体现AI增强工程师而非替代工程师。",
+    "plain_explanation": "体现AI增强工程师而非替代工程师。",
+    "engineering_meaning": "用于AI辅助设计系统。",
+    "application_scenario": "用于AI辅助设计系统。",
+    "keywords": [
+      "人机协同设计",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "AI给出推荐或优化结果，工程师负责判断、修正和最终决策。",
+      "体现AI增强工程师而非替代工程师。",
+      "用于AI辅助设计系统。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_097_ai_limitations",
+    "chapter_id": "ch10",
+    "section_id": "ch10",
+    "title": "AI应用局限性",
+    "knowledge_type": "risk",
+    "difficulty": "基础",
+    "importance": "核心",
+    "definition": "AI结果受数据质量、模型可解释性、工程约束和责任边界影响。",
+    "core_explanation": "AI应用必须与工程知识、规范和人工审查结合。",
+    "plain_explanation": "AI应用必须与工程知识、规范和人工审查结合。",
+    "engineering_meaning": "用于防止过度自动化。",
+    "application_scenario": "用于防止过度自动化。",
+    "keywords": [
+      "AI应用局限性",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "AI结果受数据质量、模型可解释性、工程约束和责任边界影响。",
+      "AI应用必须与工程知识、规范和人工审查结合。",
+      "用于防止过度自动化。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  },
+  {
+    "kp_id": "kp_ch10_098_explainability",
+    "chapter_id": "ch10",
+    "section_id": "ch10",
+    "title": "可解释性",
+    "knowledge_type": "risk",
+    "difficulty": "基础",
+    "importance": "重要",
+    "definition": "AI系统应说明推荐或判断依据，便于工程师审查和责任追溯。",
+    "core_explanation": "可解释性是工程设计应用的必要条件。",
+    "plain_explanation": "可解释性是工程设计应用的必要条件。",
+    "engineering_meaning": "用于智能设计决策。",
+    "application_scenario": "用于智能设计决策。",
+    "keywords": [
+      "可解释性",
+      "AI",
+      "道路设计"
+    ],
+    "aliases": [],
+    "common_mistakes": [
+      "把AI理解为完全替代工程师",
+      "忽视规范、数据质量与工程审查。"
+    ],
+    "correction_explanation": "AI应作为增强型工具，与知识库、优化算法、数据模型和工程师判断协同。",
+    "answer_strategy": "先给出概念定位，再按功能、输入输出、适用场景和局限条目化说明。",
+    "answer_boundary": "优先依据教材第十章；若涉及具体软件实现，应标注为扩展说明。",
+    "source_chunks": "",
+    "related_resources": "",
+    "status": "published",
+    "key_points": [
+      "AI系统应说明推荐或判断依据，便于工程师审查和责任追溯。",
+      "可解释性是工程设计应用的必要条件。",
+      "用于智能设计决策。"
+    ],
+    "related_kps": [],
+    "source_hint": ""
+  }
+]

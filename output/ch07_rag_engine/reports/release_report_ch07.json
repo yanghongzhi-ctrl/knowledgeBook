@@ -1,0 +1,245 @@
+{
+  "chapter_id": "ch07",
+  "version_id": "ch07_kb_v1.0",
+  "package_path": "D:\\knowledgebase\\data\\raw\\ch07\\第7章_道路CAD软件的使用_知识库_v1.0操作完备版.json",
+  "source_checksum": "b0c62de31acb8feaae47b2258ffc987032504e00642f42926da2ac84aa1263bc",
+  "started_at": "2026-06-04T15:30:44",
+  "finished_at": "2026-06-04T15:31:59",
+  "status": "released",
+  "table_counts": {
+    "README": 1,
+    "Chapter_Structure": 33,
+    "Source_Chunks": 150,
+    "Knowledge_Points": 141,
+    "Answer_Cards": 265,
+    "Operation_Tasks": 60,
+    "Operation_Steps": 300,
+    "Software_Objects": 72,
+    "Parameter_Settings": 178,
+    "Common_Errors": 176,
+    "Video_Resources": 10,
+    "Video_Segments": 60,
+    "Screenshot_Resources": 120,
+    "Resource_Relations": 300,
+    "Concept_Comparison": 10,
+    "Synonyms": 240,
+    "Exercises": 9,
+    "QA_Testset": 265,
+    "QA_Evaluation_Testset": 265,
+    "RAG_Config": 325,
+    "Embedding_Corpus": 466,
+    "Question_Routing_Rules": 5,
+    "Answer_Constraints": 6,
+    "Quality_Checklist": 6,
+    "Resources": 111,
+    "metadata": 1,
+    "Command_Cards": 0,
+    "Knowledge_Relations": 300,
+    "Synonyms_Questions": 240,
+    "Answer_Guardrails": 6,
+    "Prompt_Templates": 2,
+    "Interactive_Scripts": 1,
+    "Resource_Evaluation_Testset": 2
+  },
+  "steps": [
+    {
+      "name": "validate",
+      "status": "passed",
+      "summary": "errors=0, warnings=0",
+      "details": {
+        "counts": {
+          "README": 1,
+          "Chapter_Structure": 33,
+          "Source_Chunks": 150,
+          "Knowledge_Points": 141,
+          "Answer_Cards": 265,
+          "Operation_Tasks": 60,
+          "Operation_Steps": 300,
+          "Software_Objects": 72,
+          "Parameter_Settings": 178,
+          "Common_Errors": 176,
+          "Video_Resources": 10,
+          "Video_Segments": 60,
+          "Screenshot_Resources": 120,
+          "Resource_Relations": 300,
+          "Concept_Comparison": 10,
+          "Synonyms": 240,
+          "Exercises": 9,
+          "QA_Testset": 265,
+          "QA_Evaluation_Testset": 265,
+          "RAG_Config": 325,
+          "Embedding_Corpus": 466,
+          "Question_Routing_Rules": 5,
+          "Answer_Constraints": 6,
+          "Quality_Checklist": 6,
+          "Resources": 111,
+          "metadata": 1,
+          "Command_Cards": 0,
+          "Knowledge_Relations": 300,
+          "Synonyms_Questions": 240,
+          "Answer_Guardrails": 6,
+          "Prompt_Templates": 2,
+          "Interactive_Scripts": 1,
+          "Resource_Evaluation_Testset": 2
+        },
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "name": "quality",
+      "status": "passed",
+      "summary": "ambiguous_qa=0, duplicate_canonical=0",
+      "details": {
+        "report": "D:\\knowledgebase\\output\\ch07_rag_engine\\reports\\kb_quality_report_ch07.json",
+        "ambiguous_qa_cases": [],
+        "duplicate_canonical_questions": []
+      }
+    },
+    {
+      "name": "export",
+      "status": "passed",
+      "summary": "exported_files=25",
+      "details": {
+        "output_dir": "D:\\knowledgebase\\data\\processed\\ch07",
+        "counts": {
+          "answer_cards.json": 265,
+          "knowledge_points.json": 141,
+          "source_chunks.json": 150,
+          "qa_evaluation_testset.json": 265,
+          "resource_evaluation_testset.json": 2,
+          "rag_config.json": 325,
+          "resource_index.json": 111,
+          "interactive_scripts.json": 1,
+          "embedding_corpus.json": 466,
+          "synonym_questions.json": 240,
+          "knowledge_relations.json": 300,
+          "concept_comparisons.json": 10,
+          "exercises.json": 9,
+          "operation_tasks.json": 60,
+          "operation_steps.json": 300,
+          "command_cards.json": 0,
+          "software_objects.json": 72,
+          "parameter_settings.json": 178,
+          "common_errors.json": 176,
+          "video_resources.json": 10,
+          "video_segments.json": 60,
+          "screenshot_resources.json": 120,
+          "resource_relations.json": 300,
+          "question_routing_rules.json": 5,
+          "answer_guardrails.json": 6
+        }
+      }
+    },
+    {
+      "name": "sql_export",
+      "status": "passed",
+      "summary": "seed_sql_bytes=4985626",
+      "details": {
+        "seed_sql": "D:\\knowledgebase\\output\\ch07_rag_engine\\db_load\\ch07_seed.sql"
+      }
+    },
+    {
+      "name": "local_qa_evaluation",
+      "status": "passed",
+      "summary": "passed=265/265 (100.00%)",
+      "details": {
+        "total": 265,
+        "top1_hits": 265,
+        "top3_hits": 265,
+        "passed": 265,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch07_rag_engine\\reports\\eval_report_ch07.md",
+        "failures": "D:\\knowledgebase\\output\\ch07_rag_engine\\reports\\failed_cases_ch07.json"
+      }
+    },
+    {
+      "name": "local_resource_evaluation",
+      "status": "passed",
+      "summary": "passed=2/2 (100.00%)",
+      "details": {
+        "total": 2,
+        "top1_hits": 2,
+        "passed": 2,
+        "pass_rate": 1.0,
+        "report": "D:\\knowledgebase\\output\\ch07_rag_engine\\reports\\resource_eval_report_ch07.md",
+        "failures": "D:\\knowledgebase\\output\\ch07_rag_engine\\reports\\resource_failed_cases_ch07.json"
+      }
+    },
+    {
+      "name": "embeddings",
+      "status": "skipped",
+      "summary": "embedding generation not requested",
+      "details": {
+        "existing_jsonl": "D:\\knowledgebase\\output\\ch07_rag_engine\\embeddings\\ch07_embedding_vectors.jsonl",
+        "existing_sql": "D:\\knowledgebase\\output\\ch07_rag_engine\\db_load\\ch07_embedding_updates.sql"
+      }
+    },
+    {
+      "name": "db_import",
+      "status": "passed",
+      "summary": "counts_ok=True, embedded_vectors=466",
+      "details": {
+        "version_id": "ch07_kb_v1.0",
+        "counts": {
+          "answer_cards": 265,
+          "knowledge_points": 141,
+          "source_chunks": 150,
+          "qa_evaluation_testset": 265,
+          "resources": 111,
+          "interactive_scripts": 1,
+          "resource_evaluation_testset": 2,
+          "embedding_corpus": 466,
+          "embedded_vectors": 466
+        },
+        "expected_counts": {
+          "answer_cards": 265,
+          "knowledge_points": 141,
+          "source_chunks": 150,
+          "qa_evaluation_testset": 265,
+          "resources": 111,
+          "interactive_scripts": 1,
+          "resource_evaluation_testset": 2,
+          "embedding_corpus": 466
+        },
+        "mismatches": {}
+      }
+    },
+    {
+      "name": "db_keyword_evaluation",
+      "status": "passed",
+      "summary": "passed=265/265 (100.00%)",
+      "details": {
+        "retriever": "keyword",
+        "total": 265,
+        "top1_hits": 265,
+        "top1_rate": 1.0,
+        "top3_hits": 265,
+        "top3_rate": 1.0,
+        "passed": 265,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "db_hybrid_evaluation",
+      "status": "passed",
+      "summary": "passed=30/30 (100.00%)",
+      "details": {
+        "retriever": "db-hybrid",
+        "total": 30,
+        "top1_hits": 30,
+        "top1_rate": 1.0,
+        "top3_hits": 30,
+        "top3_rate": 1.0,
+        "passed": 30,
+        "pass_rate": 1.0
+      }
+    },
+    {
+      "name": "mark_released",
+      "status": "passed",
+      "summary": "version_id=ch07_kb_v1.0",
+      "details": {}
+    }
+  ]
+}

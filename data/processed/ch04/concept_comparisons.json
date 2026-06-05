@@ -1,0 +1,302 @@
+[
+  {
+    "comparison_id": "cmp_ch04_001",
+    "chapter_id": "ch04",
+    "title": "BIM与三维模型的区别",
+    "object_a": "BIM",
+    "object_b": "三维模型",
+    "comparison_dimensions": "本质: 信息模型与协同机制 / 几何可视化对象 | 内容: 几何+属性+语义+流程 / 主要是几何形态 | 用途: 设计、施工、运维全过程 / 展示或局部表达",
+    "summary": "BIM不能等同于三维模型，核心是信息组织和生命周期协同。",
+    "related_kps": [
+      "BIM定义",
+      "BIM作为Model",
+      "BIM作为Modeling"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_002",
+    "chapter_id": "ch04",
+    "title": "建筑BIM与道路BIM的适应性差异",
+    "object_a": "道路BIM",
+    "object_b": "建筑BIM",
+    "comparison_dimensions": "空间组织: 长距离线性工程、多投影带、LRS定位 / 局部场地工程坐标 | 设计过程: 路线驱动、阶段演进、工点依附 / 构件相对稳定、信息深化 | 环境约束: 地形地质生态水文复杂 / 边界较明确",
+    "summary": "道路BIM需要结合线性参考、GIS空间数据和分阶段建模。",
+    "related_kps": [
+      "道路BIM适应性需求",
+      "线性参考系统LRS"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_003",
+    "chapter_id": "ch04",
+    "title": "图纸范式与正向设计",
+    "object_a": "图纸范式",
+    "object_b": "正向设计",
+    "comparison_dimensions": "表达载体: 二维图纸 / BIM信息模型 | 协同方式: 图纸交换与人工会审 / 统一模型平台协同 | 成果派生: 人工绘制与统计 / 模型自动派生",
+    "summary": "正向设计以模型为核心，突破图纸范式的静态、断裂和封闭局限。",
+    "related_kps": [
+      "图纸驱动范式",
+      "道路BIM正向设计"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_004",
+    "chapter_id": "ch04",
+    "title": "翻模模式与正向设计",
+    "object_a": "翻模模式",
+    "object_b": "正向设计",
+    "comparison_dimensions": "时间关系: 先图纸后建模 / 建模即设计 | 模型作用: 展示交底为主 / 驱动设计与成果派生 | 信息能力: 语义和参数不足 / 构件具备语义和参数逻辑",
+    "summary": "翻模仍延续图纸范式，正向设计才以模型作为设计核心载体。",
+    "related_kps": [
+      "翻模模式",
+      "道路BIM正向设计"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_005",
+    "chapter_id": "ch04",
+    "title": "CAD图元与BIM构件",
+    "object_a": "CAD图元",
+    "object_b": "BIM构件",
+    "comparison_dimensions": "对象性质: 几何绘图元素 / 几何+信息+逻辑对象 | 语义能力: 缺少工程语义 / 具有功能身份和规则 | 联动能力: 人工维护 / 参数驱动自动更新",
+    "summary": "BIM构件是信息对象，CAD图元主要是图形对象。",
+    "related_kps": [
+      "BIM构件",
+      "构件智能性"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_006",
+    "chapter_id": "ch04",
+    "title": "LOD与LOI",
+    "object_a": "LOD",
+    "object_b": "LOI",
+    "comparison_dimensions": "关注点: 几何表达程度 / 属性信息丰富度 | 典型内容: 尺寸、形状、位置精度 / 材料、单价、施工顺序 | 作用: 控制模型几何深度 / 控制模型信息深度",
+    "summary": "LOD和LOI应分阶段共同约束模型交付质量。",
+    "related_kps": [
+      "LOD与LOI区分"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_007",
+    "chapter_id": "ch04",
+    "title": "参数化设计与算法化设计",
+    "object_a": "参数化设计",
+    "object_b": "算法化设计",
+    "comparison_dimensions": "核心: 变量与约束控制模型 / 明确算法执行任务 | 响应方式: 参数变化触发模型更新 / 规则自动分析或审计 | 例子: 调整曲线半径更新线形 / 自动视距检查",
+    "summary": "参数化偏向变量驱动，算法化偏向规则与程序化任务执行。",
+    "related_kps": [
+      "参数化设计PD",
+      "算法化设计AD"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_008",
+    "chapter_id": "ch04",
+    "title": "参数化设计与生成式设计",
+    "object_a": "参数化设计",
+    "object_b": "生成式设计",
+    "comparison_dimensions": "控制方式: 人工设定参数生成变体 / 算法自动搜索方案 | 目标: 快速响应与多方案探索 / 满足目标函数的优化结果 | 智能程度: 中等 / 更高",
+    "summary": "生成式设计是在参数化模型和优化算法基础上的进一步自动化。",
+    "related_kps": [
+      "参数化设计PD",
+      "生成式设计GD"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_009",
+    "chapter_id": "ch04",
+    "title": "几何参数与属性参数",
+    "object_a": "几何参数",
+    "object_b": "属性参数",
+    "comparison_dimensions": "作用: 控制形状、尺寸、位置 / 描述材料、性能、成本等 | 表现: 可直接影响模型几何 / 通常不改变几何 | 例子: 曲线半径、边坡坡率 / 材料等级、成本单价",
+    "summary": "几何参数控制形，属性参数承载信息。",
+    "related_kps": [
+      "几何参数",
+      "非几何属性参数"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_010",
+    "chapter_id": "ch04",
+    "title": "构件分类编码与构件命名",
+    "object_a": "分类编码",
+    "object_b": "构件命名",
+    "comparison_dimensions": "回答问题: 构件是什么 / 具体是哪一个构件 | 作用: 归类、统计、跨系统集成 / 唯一标识和追踪 | 例子: 桥墩类别编码 / 桥墩_K10+500_P5",
+    "summary": "编码解决类别，命名解决唯一身份。",
+    "related_kps": [
+      "构件分类编码",
+      "构件标识码"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_011",
+    "chapter_id": "ch04",
+    "title": "Model、Modeling与Management三重内涵",
+    "object_a": "Model",
+    "object_b": "Modeling/Management",
+    "comparison_dimensions": "核心差异: Model / Modeling/Management | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "Model、Modeling与Management三重内涵用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "Model",
+      "Modeling/Management"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_012",
+    "chapter_id": "ch04",
+    "title": "信息模型成果与文档成果",
+    "object_a": "信息模型成果",
+    "object_b": "文档成果",
+    "comparison_dimensions": "核心差异: 信息模型成果 / 文档成果 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "信息模型成果与文档成果用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "信息模型成果",
+      "文档成果"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_013",
+    "chapter_id": "ch04",
+    "title": "构件嵌套与设施聚合",
+    "object_a": "构件嵌套",
+    "object_b": "设施聚合",
+    "comparison_dimensions": "核心差异: 构件嵌套 / 设施聚合 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "构件嵌套与设施聚合用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "构件嵌套",
+      "设施聚合"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_014",
+    "chapter_id": "ch04",
+    "title": "BEP与模型说明书",
+    "object_a": "BEP",
+    "object_b": "模型说明书",
+    "comparison_dimensions": "核心差异: BEP / 模型说明书 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "BEP与模型说明书用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "BEP",
+      "模型说明书"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_015",
+    "chapter_id": "ch04",
+    "title": "IFC与LandXML",
+    "object_a": "IFC",
+    "object_b": "LandXML",
+    "comparison_dimensions": "核心差异: IFC / LandXML | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "IFC与LandXML用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "IFC",
+      "LandXML"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_016",
+    "chapter_id": "ch04",
+    "title": "交付准备与交付协同",
+    "object_a": "交付准备",
+    "object_b": "交付协同",
+    "comparison_dimensions": "核心差异: 交付准备 / 交付协同 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "交付准备与交付协同用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "交付准备",
+      "交付协同"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_017",
+    "chapter_id": "ch04",
+    "title": "L3.0与L5.0模型",
+    "object_a": "L3.0设计模型",
+    "object_b": "L5.0竣工验收模型",
+    "comparison_dimensions": "核心差异: L3.0设计模型 / L5.0竣工验收模型 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "L3.0与L5.0模型用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "L3.0设计模型",
+      "L5.0竣工验收模型"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_018",
+    "chapter_id": "ch04",
+    "title": "几何关系规则与拓扑关系规则",
+    "object_a": "几何关系规则",
+    "object_b": "拓扑关系规则",
+    "comparison_dimensions": "核心差异: 几何关系规则 / 拓扑关系规则 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "几何关系规则与拓扑关系规则用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "几何关系规则",
+      "拓扑关系规则"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_019",
+    "chapter_id": "ch04",
+    "title": "构件模型与图纸成果",
+    "object_a": "构件模型",
+    "object_b": "图纸成果",
+    "comparison_dimensions": "核心差异: 构件模型 / 图纸成果 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "构件模型与图纸成果用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "构件模型",
+      "图纸成果"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  },
+  {
+    "comparison_id": "cmp_ch04_020",
+    "chapter_id": "ch04",
+    "title": "直接赋值与公式控制",
+    "object_a": "直接赋值",
+    "object_b": "公式控制",
+    "comparison_dimensions": "核心差异: 直接赋值 / 公式控制 | 用途: 支撑对应环节 / 支撑另一类场景",
+    "summary": "直接赋值与公式控制用于区分第四章中容易混淆的两个概念。",
+    "related_kps": [
+      "直接赋值",
+      "公式控制"
+    ],
+    "answer_use": "比较辨析类问题优先检索",
+    "status": "checked"
+  }
+]

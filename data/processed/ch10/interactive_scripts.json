@@ -1,0 +1,38 @@
+[
+  {
+    "script_id": "ch10_interactive_01",
+    "chapter_id": "ch10",
+    "resource_id": "ch10_script_01",
+    "title": "10.1_AI驱动道路设计范式",
+    "file_path": "assets/ch10/interactive_html/10.1_AI驱动道路设计范式.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  },
+  {
+    "script_id": "ch10_interactive_02",
+    "chapter_id": "ch10",
+    "resource_id": "ch10_script_02",
+    "title": "10.2_知识驱动道路智能设计方法",
+    "file_path": "assets/ch10/interactive_html/10.2_知识驱动道路智能设计方法.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  },
+  {
+    "script_id": "ch10_interactive_03",
+    "chapter_id": "ch10",
+    "resource_id": "ch10_script_03",
+    "title": "10.3_算法驱动的智能选线",
+    "file_path": "assets/ch10/interactive_html/10.3_算法驱动的智能选线.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  },
+  {
+    "script_id": "ch10_interactive_04",
+    "chapter_id": "ch10",
+    "resource_id": "ch10_script_04",
+    "title": "10.4_数据驱动的路线设计",
+    "file_path": "assets/ch10/interactive_html/10.4_数据驱动的路线设计.html",
+    "status": "bound",
+    "teaching_use": "互动浏览本章知识结构、方法流程和典型应用。"
+  }
+]

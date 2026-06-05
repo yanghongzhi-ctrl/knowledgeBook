@@ -1,0 +1,4912 @@
+{
+  "chapter_id": "ch08",
+  "title": "道路BIM软件的使用",
+  "raw_package": "D:\\knowledgebase\\data\\raw\\ch08\\第8章_道路BIM软件的使用_知识库_v1.0操作完备版.json",
+  "word_range": {
+    "start_paragraph": 3879,
+    "end_paragraph": 4294,
+    "paragraphs": 415
+  },
+  "word_characters": 19222,
+  "kb_counts": {
+    "Knowledge_Points": 144,
+    "Answer_Cards": 262,
+    "Source_Chunks": 160,
+    "Operation_Tasks": 72,
+    "Operation_Steps": 360,
+    "Common_Errors": 144
+  },
+  "source_chunk_alignment": {
+    "concept_supported": 14,
+    "missing": 146,
+    "total": 160
+  },
+  "knowledge_point_alignment": {
+    "hit": 144,
+    "miss": 0,
+    "total": 144
+  },
+  "operation_task_alignment": {
+    "hit": 72,
+    "miss": 0,
+    "total": 72
+  },
+  "answer_card_alignment": {
+    "hit": 6,
+    "miss": 256,
+    "total": 262
+  },
+  "heading_coverage": {
+    "hit": 1,
+    "miss": 15,
+    "total": 16
+  },
+  "samples": {
+    "missing_source_chunks": [
+      {
+        "chunk_id": "ch08_src_002",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 土木几何与规则",
+        "status": "missing",
+        "support_terms": [
+          "ORD"
+        ],
+        "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+      },
+      {
+        "chunk_id": "ch08_src_003",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 数字地形模型",
+        "status": "missing",
+        "support_terms": [
+          "DWG"
+        ],
+        "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+      },
+      {
+        "chunk_id": "ch08_src_004",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 平面线形设计",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+      },
+      {
+        "chunk_id": "ch08_src_005",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 纵断面设计",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+      },
+      {
+        "chunk_id": "ch08_src_006",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 横断面模板",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+      },
+      {
+        "chunk_id": "ch08_src_007",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 末端条件",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+      },
+      {
+        "chunk_id": "ch08_src_008",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 廊道模型",
+        "status": "missing",
+        "support_terms": [
+          "Corridor"
+        ],
+        "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+      },
+      {
+        "chunk_id": "ch08_src_009",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 加宽与超高",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+      },
+      {
+        "chunk_id": "ch08_src_010",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 工程量与检查",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+      },
+      {
+        "chunk_id": "ch08_src_011",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 标注与命名边界",
+        "status": "missing",
+        "support_terms": [],
+        "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+      },
+      {
+        "chunk_id": "ch08_src_012",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 综合练习",
+        "status": "missing",
+        "support_terms": [
+          "BIM"
+        ],
+        "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+      },
+      {
+        "chunk_id": "ch08_src_014",
+        "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 土木几何与规则",
+        "status": "missing",
+        "support_terms": [
+          "ORD"
+        ],
+        "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+      }
+    ],
+    "kp_not_in_word": [],
+    "tasks_not_in_word": [],
+    "answers_not_in_word": [
+      {
+        "answer_id": "ans_ch08_0001",
+        "canonical_question": "ORD参数化架构是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0002",
+        "canonical_question": "规则驱动几何是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0003",
+        "canonical_question": "模板驱动建模是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0004",
+        "canonical_question": "特征语义机制是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0005",
+        "canonical_question": "DTM建立流程是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0006",
+        "canonical_question": "交点法与积木法是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0007",
+        "canonical_question": "纵断面拉坡设计是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0008",
+        "canonical_question": "末端条件优先级是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0009",
+        "canonical_question": "廊道模型是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0010",
+        "canonical_question": "超高关联廊道是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0011",
+        "canonical_question": "加宽表驱动局部宽度变化是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0012",
+        "canonical_question": "组件数量报表是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0013",
+        "canonical_question": "标注样式与特征关联是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0014",
+        "canonical_question": "命名边界自动出图是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0015",
+        "canonical_question": "山区二级公路ORD综合流程是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0016",
+        "canonical_question": "道路BIM设计平台是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0017",
+        "canonical_question": "几何是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0018",
+        "canonical_question": "横断面模板是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0019",
+        "canonical_question": "特征/特征定义是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      },
+      {
+        "answer_id": "ans_ch08_0020",
+        "canonical_question": "规则是什么？",
+        "word_hit": false,
+        "matched_term": ""
+      }
+    ],
+    "headings_not_in_kb": [
+      {
+        "paragraph": 3883,
+        "style": "",
+        "heading": "一、几何",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3902,
+        "style": "",
+        "heading": "二、模板",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3929,
+        "style": "",
+        "heading": "三、特征",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3948,
+        "style": "",
+        "heading": "第二节 数模与路线平纵面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3949,
+        "style": "",
+        "heading": "一、数模的建立与应用",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 3992,
+        "style": "",
+        "heading": "二、路线平面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4048,
+        "style": "",
+        "heading": "三、路线纵断面设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4078,
+        "style": "",
+        "heading": "第三节 横断面设计与廊道模型",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4080,
+        "style": "",
+        "heading": "一、横断面模板的建立",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4157,
+        "style": "",
+        "heading": "二、廊道模型的建立",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4175,
+        "style": "",
+        "heading": "三、曲线加宽",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4195,
+        "style": "",
+        "heading": "四、超高设计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4233,
+        "style": "",
+        "heading": "五、模型浏览与工程量统计",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4242,
+        "style": "",
+        "heading": "一、标注样式的设置",
+        "kb_hit": false
+      },
+      {
+        "paragraph": 4256,
+        "style": "",
+        "heading": "二、设计出图",
+        "kb_hit": false
+      }
+    ],
+    "candidate_supplement_terms": [
+      {
+        "term": "CN_",
+        "word_count": 5,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Bentley",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "If-Then-Else",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "Design.dgn",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "DGX",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "R1",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "R2",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "side_ditch_3_",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "XML",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      },
+      {
+        "term": "A3",
+        "word_count": 2,
+        "suggestion": "Word高频但知识库未直接命中，建议人工判断是否补充别名、知识点或任务问法"
+      }
+    ]
+  },
+  "source_rows": [
+    {
+      "chunk_id": "ch08_src_001",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_002",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_003",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_004",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_005",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_006",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_007",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_008",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_009",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_010",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_011",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_012",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_013",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_014",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_015",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_016",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_017",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_018",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_019",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_020",
+      "heading_path": "第8章 > 第一节 OpenRoads Designer参数化架构 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_021",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_022",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_023",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_024",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_025",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_026",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_027",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_028",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_029",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_030",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_031",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_032",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_033",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_034",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_035",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_036",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_037",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_038",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_039",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_040",
+      "heading_path": "第8章 > 第二节 数字地形模型建立与应用 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_041",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_042",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_043",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_044",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_045",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_046",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_047",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_048",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_049",
+      "heading_path": "第8章 > 第三节 路线平面设计 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_050",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_051",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_052",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_053",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_054",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_055",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_056",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_057",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_058",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_059",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_060",
+      "heading_path": "第8章 > 第三节 路线平面设计 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_061",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_062",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_063",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_064",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_065",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_066",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_067",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_068",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_069",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_070",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_071",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_072",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_073",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_074",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_075",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_076",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_077",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_078",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_079",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_080",
+      "heading_path": "第8章 > 第四节 路线纵断面设计 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_081",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_082",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_083",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_084",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_085",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_086",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_087",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_088",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_089",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_090",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_091",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_092",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_093",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_094",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_095",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_096",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_097",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_098",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_099",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_100",
+      "heading_path": "第8章 > 第五节 横断面模板设计 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_101",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_102",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_103",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_104",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_105",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_106",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_107",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_108",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_109",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_110",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_111",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_112",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_113",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_114",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_115",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_116",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_117",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_118",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_119",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_120",
+      "heading_path": "第8章 > 第六节 廊道模型、加宽、超高与工程量 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_121",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_122",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_123",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_124",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_125",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_126",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_127",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_128",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_129",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_130",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_131",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_132",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_133",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_134",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_135",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_136",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_137",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_138",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_139",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_140",
+      "heading_path": "第8章 > 第七节 标注样式与成果出图 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_141",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_142",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_143",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_144",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_145",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_146",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_147",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_148",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    },
+    {
+      "chunk_id": "ch08_src_149",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 纵断面设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。"
+    },
+    {
+      "chunk_id": "ch08_src_150",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 横断面模板",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。"
+    },
+    {
+      "chunk_id": "ch08_src_151",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 末端条件",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。"
+    },
+    {
+      "chunk_id": "ch08_src_152",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 廊道模型",
+      "status": "missing",
+      "support_terms": [
+        "Corridor"
+      ],
+      "excerpt_preview": "Corridor融合平面、纵断面、模板和地形目标生成三维道路模型。"
+    },
+    {
+      "chunk_id": "ch08_src_153",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 加宽与超高",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。"
+    },
+    {
+      "chunk_id": "ch08_src_154",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 工程量与检查",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。"
+    },
+    {
+      "chunk_id": "ch08_src_155",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 标注与命名边界",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。"
+    },
+    {
+      "chunk_id": "ch08_src_156",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 综合练习",
+      "status": "missing",
+      "support_terms": [
+        "BIM"
+      ],
+      "excerpt_preview": "山区二级公路BIM正向设计综合实训覆盖数模、线形、模板、廊道、超高加宽和成果交付。"
+    },
+    {
+      "chunk_id": "ch08_src_157",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > ORD参数化架构",
+      "status": "concept_supported",
+      "support_terms": [
+        "Geometry",
+        "Template",
+        "Feature",
+        "ORD",
+        "BIM"
+      ],
+      "excerpt_preview": "Geometry、Template、Feature分别解决空间位置、构造形态与对象语义问题，是ORD道路BIM建模的底层逻辑。"
+    },
+    {
+      "chunk_id": "ch08_src_158",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 土木几何与规则",
+      "status": "missing",
+      "support_terms": [
+        "ORD"
+      ],
+      "excerpt_preview": "ORD几何保存创建方法、父子依赖和几何关系规则，能够记忆设计意图并动态更新。"
+    },
+    {
+      "chunk_id": "ch08_src_159",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 数字地形模型",
+      "status": "missing",
+      "support_terms": [
+        "DWG"
+      ],
+      "excerpt_preview": "DTM通过DWG地形图、图形过滤器和Terrain Model建立，是纵断面、廊道放坡和分析的基础。"
+    },
+    {
+      "chunk_id": "ch08_src_160",
+      "heading_path": "第8章 > 综合实训 山区二级公路BIM正向设计 > 平面线形设计",
+      "status": "missing",
+      "support_terms": [],
+      "excerpt_preview": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。"
+    }
+  ],
+  "knowledge_point_rows": [
+    {
+      "id": "kp_ch08_architecture",
+      "title": "ORD参数化架构",
+      "word_hit": true,
+      "matched_term": "ORD参数化架构",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_geometry_rules",
+      "title": "规则驱动几何",
+      "word_hit": true,
+      "matched_term": "规则驱动几何",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_template_logic",
+      "title": "模板驱动建模",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_feature_semantics",
+      "title": "特征语义机制",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_dtm_workflow",
+      "title": "DTM建立流程",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_alignment_methods",
+      "title": "交点法与积木法",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_profile_design",
+      "title": "纵断面拉坡设计",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_end_condition_priority",
+      "title": "末端条件优先级",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_corridor_model",
+      "title": "廊道模型",
+      "word_hit": true,
+      "matched_term": "廊道模型",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_superelevation",
+      "title": "超高关联廊道",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_widening",
+      "title": "加宽表驱动局部宽度变化",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_quantity",
+      "title": "组件数量报表",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_annotation",
+      "title": "标注样式与特征关联",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_named_boundary",
+      "title": "命名边界自动出图",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_integrated_workflow",
+      "title": "山区二级公路ORD综合流程",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 9
+    },
+    {
+      "id": "kp_ch08_ord",
+      "title": "道路BIM设计平台",
+      "word_hit": true,
+      "matched_term": "道路BIM设计平台",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_geometry",
+      "title": "几何",
+      "word_hit": true,
+      "matched_term": "几何",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_template",
+      "title": "横断面模板",
+      "word_hit": true,
+      "matched_term": "横断面模板",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_feature",
+      "title": "特征/特征定义",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_rules",
+      "title": "规则",
+      "word_hit": true,
+      "matched_term": "规则",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_parent_child",
+      "title": "父子依赖关系",
+      "word_hit": true,
+      "matched_term": "父子依赖关系",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_terrain",
+      "title": "数字地形模型",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_graphic_filter",
+      "title": "图形过滤器",
+      "word_hit": true,
+      "matched_term": "图形过滤器",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_alignment",
+      "title": "平面线形/路线",
+      "word_hit": true,
+      "matched_term": "Alignment",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_profile",
+      "title": "纵断面线形",
+      "word_hit": true,
+      "matched_term": "纵断面线形",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_profile_view",
+      "title": "纵断面视图",
+      "word_hit": true,
+      "matched_term": "纵断面视图",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_template_editor",
+      "title": "模板编辑器",
+      "word_hit": true,
+      "matched_term": "模板编辑器",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_point",
+      "title": "模板点",
+      "word_hit": true,
+      "matched_term": "模板点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_null_point",
+      "title": "空点",
+      "word_hit": true,
+      "matched_term": "空点",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_component",
+      "title": "组件",
+      "word_hit": true,
+      "matched_term": "组件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_end_condition",
+      "title": "末端条件",
+      "word_hit": true,
+      "matched_term": "末端条件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_priority",
+      "title": "优先级",
+      "word_hit": true,
+      "matched_term": "优先级",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_constraint",
+      "title": "约束",
+      "word_hit": true,
+      "matched_term": "约束",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_corridor",
+      "title": "廊道模型",
+      "word_hit": true,
+      "matched_term": "廊道模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_baseline",
+      "title": "廊道基线",
+      "word_hit": true,
+      "matched_term": "廊道基线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_template_drop",
+      "title": "模板投放",
+      "word_hit": true,
+      "matched_term": "模板投放",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_target_aliasing",
+      "title": "目标映射",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 7
+    },
+    {
+      "id": "kp_ch08_transition",
+      "title": "廊道过渡段",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_point_control",
+      "title": "点控制",
+      "word_hit": true,
+      "matched_term": "点控制",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_widening_dup02",
+      "title": "加宽表",
+      "word_hit": true,
+      "matched_term": "加宽表",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_superelevation_dup02",
+      "title": "超高",
+      "word_hit": true,
+      "matched_term": "超高",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_se_section",
+      "title": "超高区间",
+      "word_hit": true,
+      "matched_term": "超高区间",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_se_lane",
+      "title": "超高车道",
+      "word_hit": true,
+      "matched_term": "超高车道",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_jtg_edge",
+      "title": "规范边线规则",
+      "word_hit": true,
+      "matched_term": "JTG Edge",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_drive_through",
+      "title": "三维漫游",
+      "word_hit": true,
+      "matched_term": "三维漫游",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_quantity_dup02",
+      "title": "组件数量",
+      "word_hit": true,
+      "matched_term": "组件数量",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_annotation_style",
+      "title": "标注样式",
+      "word_hit": true,
+      "matched_term": "标注样式",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_annotation_group",
+      "title": "标注组",
+      "word_hit": true,
+      "matched_term": "标注组",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_named_boundary_dup02",
+      "title": "命名边界",
+      "word_hit": true,
+      "matched_term": "命名边界",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_drawing_seed",
+      "title": "绘图种子",
+      "word_hit": true,
+      "matched_term": "绘图种子",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_sheet",
+      "title": "图纸模型",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_cnccbim",
+      "title": "本地化出图工具",
+      "word_hit": true,
+      "matched_term": "CNCCBIM工具",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_dgn",
+      "title": "DGN工程文件",
+      "word_hit": true,
+      "matched_term": "DGN",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_workspace",
+      "title": "工作空间",
+      "word_hit": true,
+      "matched_term": "工作空间",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_workset",
+      "title": "工作集",
+      "word_hit": true,
+      "matched_term": "工作集",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_reference",
+      "title": "参考文件",
+      "word_hit": true,
+      "matched_term": "参考文件",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_design_standard",
+      "title": "设计规范",
+      "word_hit": true,
+      "matched_term": "设计规范",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_feature_symbology",
+      "title": "特征符号",
+      "word_hit": true,
+      "matched_term": "特征符号",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_level",
+      "title": "层",
+      "word_hit": true,
+      "matched_term": "Level",
+      "kb_hit_count": 7
+    },
+    {
+      "id": "kp_ch08_drape",
+      "title": "影像覆盖",
+      "word_hit": true,
+      "matched_term": "Drape",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_slope_analysis",
+      "title": "坡度分析",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_visibility_analysis",
+      "title": "可视性分析",
+      "word_hit": true,
+      "matched_term": "可视性分析",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_horizontal_pi",
+      "title": "平面交点",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_vertical_pi",
+      "title": "纵断面变坡点",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_civil_accudraw",
+      "title": "土木辅助绘图",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_corridor_reference",
+      "title": "廊道参考",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_design_stage",
+      "title": "设计阶段",
+      "word_hit": true,
+      "matched_term": "设计阶段",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_clipping_reference",
+      "title": "裁剪参考",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_cross_section_view",
+      "title": "横断面视图",
+      "word_hit": true,
+      "matched_term": "横断面视图",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_cross_section_sheet",
+      "title": "横断面图纸",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_reports",
+      "title": "报表",
+      "word_hit": true,
+      "matched_term": "报表",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_pdf_output",
+      "title": "PDF成果",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_001_workspace_setup",
+      "title": "创建或检查ORD项目工作环境",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_002_set_chinacivil_metric",
+      "title": "设置ChinaCivil Metric工作空间",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_003_attach_reference",
+      "title": "参考地形或外部设计文件",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_004_assign_feature_definition",
+      "title": "为路线或模型对象分配Feature Definition",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_005_review_civil_rules",
+      "title": "检查Civil Rules和依赖关系",
+      "word_hit": true,
+      "matched_term": "参数化架构",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_006_import_dwg_terrain",
+      "title": "导入DWG地形图",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_007_create_graphic_filter",
+      "title": "创建图形过滤器",
+      "word_hit": true,
+      "matched_term": "创建图形过滤器",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_008_create_terrain_model",
+      "title": "建立Terrain Model数字地形",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_009_edit_terrain_boundary",
+      "title": "编辑地形边界",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_010_drape_imagery",
+      "title": "进行影像覆盖显示",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_011_terrain_slope_analysis",
+      "title": "进行坡度分析",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_012_terrain_visibility_analysis",
+      "title": "进行可视性分析",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_013_terrain_quality_check",
+      "title": "检查地形模型质量",
+      "word_hit": true,
+      "matched_term": "数字地形模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_014_create_alignment_pi",
+      "title": "使用交点法创建平面线形",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_015_create_alignment_element",
+      "title": "使用积木法创建平面线形",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_016_create_scs_curve",
+      "title": "创建缓和曲线-圆曲线-缓和曲线组合",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_017_create_s_curve",
+      "title": "创建S型曲线",
+      "word_hit": true,
+      "matched_term": "创建S型曲线",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_018_create_oval_curve",
+      "title": "创建卵形曲线或复杂曲线组合",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_019_edit_alignment",
+      "title": "编辑平面线形",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_020_apply_design_standards",
+      "title": "加载与应用设计标准",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_021_setup_stationing",
+      "title": "设置路线桩号",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_022_alignment_report",
+      "title": "输出平面线形报表",
+      "word_hit": true,
+      "matched_term": "平面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_023_create_profile_view",
+      "title": "创建纵断面视图",
+      "word_hit": true,
+      "matched_term": "创建纵断面视图",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_024_project_control_points",
+      "title": "投影高程控制点到纵断面",
+      "word_hit": true,
+      "matched_term": "纵断面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_025_create_profile_pi",
+      "title": "使用交点法进行纵断面拉坡",
+      "word_hit": true,
+      "matched_term": "纵断面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_026_create_profile_element",
+      "title": "使用积木法创建纵断面线形",
+      "word_hit": true,
+      "matched_term": "纵断面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_027_set_vertical_curve",
+      "title": "设置竖曲线参数",
+      "word_hit": true,
+      "matched_term": "设置竖曲线参数",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_028_edit_profile",
+      "title": "编辑纵断面线形",
+      "word_hit": true,
+      "matched_term": "纵断面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_029_activate_profile",
+      "title": "将纵断面设置为Active Profile",
+      "word_hit": true,
+      "matched_term": "纵断面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_030_profile_report",
+      "title": "输出纵断面报表",
+      "word_hit": true,
+      "matched_term": "纵断面设计",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_031_open_template_editor",
+      "title": "打开模板编辑器",
+      "word_hit": true,
+      "matched_term": "打开模板编辑器",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_032_create_standard_template",
+      "title": "创建标准路基横断面模板",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_033_create_pavement_components",
+      "title": "创建路面结构层组件",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_034_create_template_points",
+      "title": "创建常规点与控制点",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_035_create_null_points",
+      "title": "创建空点控制逻辑",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_036_set_template_constraints",
+      "title": "设置水平、垂直、坡度和矢量偏移约束",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_037_create_cut_end_condition",
+      "title": "创建挖方末端条件",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_038_create_fill_end_condition",
+      "title": "创建填方末端条件",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_039_create_wall_end_condition",
+      "title": "创建挡墙末端条件",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_040_set_end_condition_priority",
+      "title": "设置末端条件优先级",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_041_test_template",
+      "title": "测试横断面模板",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_042_create_corridor",
+      "title": "创建道路廊道模型",
+      "word_hit": true,
+      "matched_term": "廊道建模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_043_assign_baseline_profile",
+      "title": "指定廊道基线与纵断面",
+      "word_hit": true,
+      "matched_term": "廊道建模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_044_set_template_drop",
+      "title": "设置模板投放范围与间距",
+      "word_hit": true,
+      "matched_term": "廊道建模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_045_map_corridor_targets",
+      "title": "进行廊道目标映射",
+      "word_hit": true,
+      "matched_term": "廊道建模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_046_review_cross_sections",
+      "title": "检查廊道横断面",
+      "word_hit": true,
+      "matched_term": "廊道建模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_047_create_corridor_transition",
+      "title": "创建廊道过渡段",
+      "word_hit": true,
+      "matched_term": "廊道建模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_048_apply_point_control",
+      "title": "应用点控制",
+      "word_hit": true,
+      "matched_term": "廊道建模",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_049_update_corridor",
+      "title": "更新廊道模型",
+      "word_hit": true,
+      "matched_term": "更新廊道模型",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_050_edit_widening_table",
+      "title": "编辑加宽表",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_051_apply_widening",
+      "title": "应用加宽到廊道",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_052_create_se_section",
+      "title": "创建超高区间",
+      "word_hit": true,
+      "matched_term": "创建超高区间",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_053_generate_se_lanes_corridor",
+      "title": "通过廊道法生成超高车道",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_054_generate_se_lanes_alignment",
+      "title": "通过线形法生成超高车道",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_055_load_jtg_edge",
+      "title": "加载JTG Edge超高规则",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_056_associate_se_corridor",
+      "title": "将超高关联到廊道",
+      "word_hit": true,
+      "matched_term": "将超高关联到廊道",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_057_drive_through_review",
+      "title": "使用三维漫游检查模型",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_058_check_wall_slope",
+      "title": "检查挡墙与边坡生成效果",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_059_component_quantity_report",
+      "title": "输出组件数量报表",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_060_earthwork_quantity_check",
+      "title": "检查土石方与材料数量",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_061_customize_annotation_style",
+      "title": "定制标注样式",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_062_edit_plan_annotation_group",
+      "title": "编辑平面标注组",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_063_edit_profile_annotation_group",
+      "title": "编辑纵断面标注组",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_064_link_annotation_feature",
+      "title": "将标注与Feature元素关联",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_065_place_named_boundary_plan",
+      "title": "放置平面图命名边界",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_066_create_plan_sheets",
+      "title": "生成平面设计图",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_067_place_named_boundary_profile",
+      "title": "放置纵断面图命名边界",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_068_create_profile_sheets",
+      "title": "生成纵断面设计图",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_069_set_drawing_seed_scale",
+      "title": "设置绘图种子与比例",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_070_export_pdf_package",
+      "title": "导出PDF成果包",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_071_integrated_mountain_highway",
+      "title": "完成山区二级公路BIM正向设计",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    },
+    {
+      "id": "kp_ch08_task_072_deliver_model_package",
+      "title": "提交模型与成果文件",
+      "word_hit": true,
+      "matched_term": "ORD",
+      "kb_hit_count": 8
+    }
+  ],
+  "operation_task_rows": [
+    {
+      "id": "ch08_task_001_workspace_setup",
+      "title": "创建或检查ORD项目工作环境",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_002_set_chinacivil_metric",
+      "title": "设置ChinaCivil Metric工作空间",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_003_attach_reference",
+      "title": "参考地形或外部设计文件",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_004_assign_feature_definition",
+      "title": "为路线或模型对象分配Feature Definition",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_005_review_civil_rules",
+      "title": "检查Civil Rules和依赖关系",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_006_import_dwg_terrain",
+      "title": "导入DWG地形图",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_007_create_graphic_filter",
+      "title": "创建图形过滤器",
+      "word_hit": true,
+      "matched_term": "创建图形过滤器",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_008_create_terrain_model",
+      "title": "建立Terrain Model数字地形",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_009_edit_terrain_boundary",
+      "title": "编辑地形边界",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_010_drape_imagery",
+      "title": "进行影像覆盖显示",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_011_terrain_slope_analysis",
+      "title": "进行坡度分析",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_012_terrain_visibility_analysis",
+      "title": "进行可视性分析",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_013_terrain_quality_check",
+      "title": "检查地形模型质量",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_014_create_alignment_pi",
+      "title": "使用交点法创建平面线形",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_015_create_alignment_element",
+      "title": "使用积木法创建平面线形",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_016_create_scs_curve",
+      "title": "创建缓和曲线-圆曲线-缓和曲线组合",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_017_create_s_curve",
+      "title": "创建S型曲线",
+      "word_hit": true,
+      "matched_term": "创建S型曲线",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_018_create_oval_curve",
+      "title": "创建卵形曲线或复杂曲线组合",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_019_edit_alignment",
+      "title": "编辑平面线形",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_020_apply_design_standards",
+      "title": "加载与应用设计标准",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_021_setup_stationing",
+      "title": "设置路线桩号",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_022_alignment_report",
+      "title": "输出平面线形报表",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_023_create_profile_view",
+      "title": "创建纵断面视图",
+      "word_hit": true,
+      "matched_term": "创建纵断面视图",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_024_project_control_points",
+      "title": "投影高程控制点到纵断面",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_025_create_profile_pi",
+      "title": "使用交点法进行纵断面拉坡",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_026_create_profile_element",
+      "title": "使用积木法创建纵断面线形",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_027_set_vertical_curve",
+      "title": "设置竖曲线参数",
+      "word_hit": true,
+      "matched_term": "设置竖曲线参数",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_028_edit_profile",
+      "title": "编辑纵断面线形",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_029_activate_profile",
+      "title": "将纵断面设置为Active Profile",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_030_profile_report",
+      "title": "输出纵断面报表",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_031_open_template_editor",
+      "title": "打开模板编辑器",
+      "word_hit": true,
+      "matched_term": "打开模板编辑器",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_032_create_standard_template",
+      "title": "创建标准路基横断面模板",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_033_create_pavement_components",
+      "title": "创建路面结构层组件",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_034_create_template_points",
+      "title": "创建常规点与控制点",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_035_create_null_points",
+      "title": "创建空点控制逻辑",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_036_set_template_constraints",
+      "title": "设置水平、垂直、坡度和矢量偏移约束",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_037_create_cut_end_condition",
+      "title": "创建挖方末端条件",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_038_create_fill_end_condition",
+      "title": "创建填方末端条件",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_039_create_wall_end_condition",
+      "title": "创建挡墙末端条件",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_040_set_end_condition_priority",
+      "title": "设置末端条件优先级",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_041_test_template",
+      "title": "测试横断面模板",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_042_create_corridor",
+      "title": "创建道路廊道模型",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_043_assign_baseline_profile",
+      "title": "指定廊道基线与纵断面",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_044_set_template_drop",
+      "title": "设置模板投放范围与间距",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_045_map_corridor_targets",
+      "title": "进行廊道目标映射",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_046_review_cross_sections",
+      "title": "检查廊道横断面",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_047_create_corridor_transition",
+      "title": "创建廊道过渡段",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_048_apply_point_control",
+      "title": "应用点控制",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_049_update_corridor",
+      "title": "更新廊道模型",
+      "word_hit": true,
+      "matched_term": "更新廊道模型",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_050_edit_widening_table",
+      "title": "编辑加宽表",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_051_apply_widening",
+      "title": "应用加宽到廊道",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_052_create_se_section",
+      "title": "创建超高区间",
+      "word_hit": true,
+      "matched_term": "创建超高区间",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_053_generate_se_lanes_corridor",
+      "title": "通过廊道法生成超高车道",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_054_generate_se_lanes_alignment",
+      "title": "通过线形法生成超高车道",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_055_load_jtg_edge",
+      "title": "加载JTG Edge超高规则",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_056_associate_se_corridor",
+      "title": "将超高关联到廊道",
+      "word_hit": true,
+      "matched_term": "将超高关联到廊道",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_057_drive_through_review",
+      "title": "使用三维漫游检查模型",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_058_check_wall_slope",
+      "title": "检查挡墙与边坡生成效果",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_059_component_quantity_report",
+      "title": "输出组件数量报表",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_060_earthwork_quantity_check",
+      "title": "检查土石方与材料数量",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_061_customize_annotation_style",
+      "title": "定制标注样式",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_062_edit_plan_annotation_group",
+      "title": "编辑平面标注组",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_063_edit_profile_annotation_group",
+      "title": "编辑纵断面标注组",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_064_link_annotation_feature",
+      "title": "将标注与Feature元素关联",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_065_place_named_boundary_plan",
+      "title": "放置平面图命名边界",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_066_create_plan_sheets",
+      "title": "生成平面设计图",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_067_place_named_boundary_profile",
+      "title": "放置纵断面图命名边界",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_068_create_profile_sheets",
+      "title": "生成纵断面设计图",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_069_set_drawing_seed_scale",
+      "title": "设置绘图种子与比例",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_070_export_pdf_package",
+      "title": "导出PDF成果包",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_071_integrated_mountain_highway",
+      "title": "完成山区二级公路BIM正向设计",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    },
+    {
+      "id": "ch08_task_072_deliver_model_package",
+      "title": "提交模型与成果文件",
+      "word_hit": true,
+      "matched_term": "OpenRoads Designer",
+      "kb_hit_count": 2
+    }
+  ],
+  "answer_card_rows": [
+    {
+      "answer_id": "ans_ch08_0001",
+      "canonical_question": "ORD参数化架构是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0002",
+      "canonical_question": "规则驱动几何是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0003",
+      "canonical_question": "模板驱动建模是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0004",
+      "canonical_question": "特征语义机制是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0005",
+      "canonical_question": "DTM建立流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0006",
+      "canonical_question": "交点法与积木法是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0007",
+      "canonical_question": "纵断面拉坡设计是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0008",
+      "canonical_question": "末端条件优先级是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0009",
+      "canonical_question": "廊道模型是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0010",
+      "canonical_question": "超高关联廊道是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0011",
+      "canonical_question": "加宽表驱动局部宽度变化是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0012",
+      "canonical_question": "组件数量报表是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0013",
+      "canonical_question": "标注样式与特征关联是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0014",
+      "canonical_question": "命名边界自动出图是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0015",
+      "canonical_question": "山区二级公路ORD综合流程是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0016",
+      "canonical_question": "道路BIM设计平台是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0017",
+      "canonical_question": "几何是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0018",
+      "canonical_question": "横断面模板是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0019",
+      "canonical_question": "特征/特征定义是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0020",
+      "canonical_question": "规则是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0021",
+      "canonical_question": "父子依赖关系是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0022",
+      "canonical_question": "数字地形模型是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0023",
+      "canonical_question": "图形过滤器是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0024",
+      "canonical_question": "平面线形/路线是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0025",
+      "canonical_question": "纵断面线形是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0026",
+      "canonical_question": "纵断面视图是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0027",
+      "canonical_question": "模板编辑器是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0028",
+      "canonical_question": "模板点是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0029",
+      "canonical_question": "空点是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0030",
+      "canonical_question": "组件是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0031",
+      "canonical_question": "末端条件是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0032",
+      "canonical_question": "优先级是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0033",
+      "canonical_question": "约束是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0034",
+      "canonical_question": "廊道模型是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0035",
+      "canonical_question": "廊道基线是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0036",
+      "canonical_question": "模板投放是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0037",
+      "canonical_question": "目标映射是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0038",
+      "canonical_question": "廊道过渡段是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0039",
+      "canonical_question": "点控制是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0040",
+      "canonical_question": "加宽表是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0041",
+      "canonical_question": "超高是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0042",
+      "canonical_question": "超高区间是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0043",
+      "canonical_question": "超高车道是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0044",
+      "canonical_question": "规范边线规则是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0045",
+      "canonical_question": "三维漫游是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0046",
+      "canonical_question": "组件数量是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0047",
+      "canonical_question": "标注样式是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0048",
+      "canonical_question": "标注组是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0049",
+      "canonical_question": "命名边界是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0050",
+      "canonical_question": "绘图种子是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0051",
+      "canonical_question": "图纸模型是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0052",
+      "canonical_question": "本地化出图工具是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0053",
+      "canonical_question": "DGN工程文件是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0054",
+      "canonical_question": "工作空间是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0055",
+      "canonical_question": "工作集是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0056",
+      "canonical_question": "参考文件是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0057",
+      "canonical_question": "设计规范是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0058",
+      "canonical_question": "特征符号是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0059",
+      "canonical_question": "层是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0060",
+      "canonical_question": "影像覆盖是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0061",
+      "canonical_question": "坡度分析是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0062",
+      "canonical_question": "可视性分析是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0063",
+      "canonical_question": "平面交点是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0064",
+      "canonical_question": "纵断面变坡点是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0065",
+      "canonical_question": "土木辅助绘图是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0066",
+      "canonical_question": "廊道参考是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0067",
+      "canonical_question": "设计阶段是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0068",
+      "canonical_question": "裁剪参考是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0069",
+      "canonical_question": "横断面视图是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0070",
+      "canonical_question": "横断面图纸是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0071",
+      "canonical_question": "报表是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0072",
+      "canonical_question": "PDF成果是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0073",
+      "canonical_question": "创建或检查ORD项目工作环境是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0074",
+      "canonical_question": "设置ChinaCivil Metric工作空间是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0075",
+      "canonical_question": "参考地形或外部设计文件是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0076",
+      "canonical_question": "为路线或模型对象分配Feature Definition是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0077",
+      "canonical_question": "检查Civil Rules和依赖关系是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0078",
+      "canonical_question": "导入DWG地形图是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0079",
+      "canonical_question": "创建图形过滤器是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0080",
+      "canonical_question": "建立Terrain Model数字地形是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0081",
+      "canonical_question": "编辑地形边界是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0082",
+      "canonical_question": "进行影像覆盖显示是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0083",
+      "canonical_question": "进行坡度分析是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0084",
+      "canonical_question": "进行可视性分析是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0085",
+      "canonical_question": "检查地形模型质量是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0086",
+      "canonical_question": "使用交点法创建平面线形是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0087",
+      "canonical_question": "使用积木法创建平面线形是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0088",
+      "canonical_question": "创建缓和曲线-圆曲线-缓和曲线组合是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0089",
+      "canonical_question": "创建S型曲线是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0090",
+      "canonical_question": "创建卵形曲线或复杂曲线组合是什么？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0091",
+      "canonical_question": "创建或检查ORD项目工作环境如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0092",
+      "canonical_question": "设置ChinaCivil Metric工作空间如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0093",
+      "canonical_question": "参考地形或外部设计文件如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0094",
+      "canonical_question": "为路线或模型对象分配Feature Definition如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0095",
+      "canonical_question": "检查Civil Rules和依赖关系如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0096",
+      "canonical_question": "导入DWG地形图如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0097",
+      "canonical_question": "创建图形过滤器如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0098",
+      "canonical_question": "建立Terrain Model数字地形如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0099",
+      "canonical_question": "编辑地形边界如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0100",
+      "canonical_question": "进行影像覆盖显示如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0101",
+      "canonical_question": "进行坡度分析如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0102",
+      "canonical_question": "进行可视性分析如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0103",
+      "canonical_question": "检查地形模型质量如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0104",
+      "canonical_question": "使用交点法创建平面线形如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0105",
+      "canonical_question": "使用积木法创建平面线形如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0106",
+      "canonical_question": "创建缓和曲线-圆曲线-缓和曲线组合如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0107",
+      "canonical_question": "创建S型曲线如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0108",
+      "canonical_question": "创建卵形曲线或复杂曲线组合如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0109",
+      "canonical_question": "编辑平面线形如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0110",
+      "canonical_question": "加载与应用设计标准如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0111",
+      "canonical_question": "设置路线桩号如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0112",
+      "canonical_question": "输出平面线形报表如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0113",
+      "canonical_question": "创建纵断面视图如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0114",
+      "canonical_question": "投影高程控制点到纵断面如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0115",
+      "canonical_question": "使用交点法进行纵断面拉坡如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0116",
+      "canonical_question": "使用积木法创建纵断面线形如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0117",
+      "canonical_question": "设置竖曲线参数如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0118",
+      "canonical_question": "编辑纵断面线形如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0119",
+      "canonical_question": "将纵断面设置为Active Profile如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0120",
+      "canonical_question": "输出纵断面报表如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0121",
+      "canonical_question": "打开模板编辑器如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0122",
+      "canonical_question": "创建标准路基横断面模板如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0123",
+      "canonical_question": "创建路面结构层组件如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0124",
+      "canonical_question": "创建常规点与控制点如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0125",
+      "canonical_question": "创建空点控制逻辑如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0126",
+      "canonical_question": "设置水平、垂直、坡度和矢量偏移约束如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0127",
+      "canonical_question": "创建挖方末端条件如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0128",
+      "canonical_question": "创建填方末端条件如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0129",
+      "canonical_question": "创建挡墙末端条件如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0130",
+      "canonical_question": "设置末端条件优先级如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0131",
+      "canonical_question": "测试横断面模板如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0132",
+      "canonical_question": "创建道路廊道模型如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0133",
+      "canonical_question": "指定廊道基线与纵断面如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0134",
+      "canonical_question": "设置模板投放范围与间距如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0135",
+      "canonical_question": "进行廊道目标映射如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0136",
+      "canonical_question": "检查廊道横断面如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0137",
+      "canonical_question": "创建廊道过渡段如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0138",
+      "canonical_question": "应用点控制如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0139",
+      "canonical_question": "更新廊道模型如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0140",
+      "canonical_question": "编辑加宽表如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0141",
+      "canonical_question": "应用加宽到廊道如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0142",
+      "canonical_question": "创建超高区间如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0143",
+      "canonical_question": "通过廊道法生成超高车道如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0144",
+      "canonical_question": "通过线形法生成超高车道如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0145",
+      "canonical_question": "加载JTG Edge超高规则如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0146",
+      "canonical_question": "将超高关联到廊道如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0147",
+      "canonical_question": "使用三维漫游检查模型如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0148",
+      "canonical_question": "检查挡墙与边坡生成效果如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0149",
+      "canonical_question": "输出组件数量报表如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0150",
+      "canonical_question": "检查土石方与材料数量如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0151",
+      "canonical_question": "定制标注样式如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0152",
+      "canonical_question": "编辑平面标注组如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0153",
+      "canonical_question": "编辑纵断面标注组如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0154",
+      "canonical_question": "将标注与Feature元素关联如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0155",
+      "canonical_question": "放置平面图命名边界如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0156",
+      "canonical_question": "生成平面设计图如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0157",
+      "canonical_question": "放置纵断面图命名边界如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0158",
+      "canonical_question": "生成纵断面设计图如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0159",
+      "canonical_question": "设置绘图种子与比例如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0160",
+      "canonical_question": "导出PDF成果包如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0161",
+      "canonical_question": "完成山区二级公路BIM正向设计如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0162",
+      "canonical_question": "提交模型与成果文件如何操作？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0163",
+      "canonical_question": "ORD几何与CAD图形有什么区别？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0164",
+      "canonical_question": "Geometry、Template与Feature有什么区别？",
+      "word_hit": true,
+      "matched_term": "Geometry"
+    },
+    {
+      "answer_id": "ans_ch08_0165",
+      "canonical_question": "交点法与积木法有什么区别？",
+      "word_hit": true,
+      "matched_term": "交点法"
+    },
+    {
+      "answer_id": "ans_ch08_0166",
+      "canonical_question": "平面线形与纵断面线形有什么区别？",
+      "word_hit": true,
+      "matched_term": "Alignment"
+    },
+    {
+      "answer_id": "ans_ch08_0167",
+      "canonical_question": "常规点与空点有什么区别？",
+      "word_hit": true,
+      "matched_term": "常规点"
+    },
+    {
+      "answer_id": "ans_ch08_0168",
+      "canonical_question": "约束与末端条件有什么区别？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0169",
+      "canonical_question": "自然边坡与挡墙末端条件有什么区别？",
+      "word_hit": true,
+      "matched_term": "自然边坡"
+    },
+    {
+      "answer_id": "ans_ch08_0170",
+      "canonical_question": "模板投放与点控制有什么区别？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0171",
+      "canonical_question": "廊道法与线形法生成超高车道有什么区别？",
+      "word_hit": true,
+      "matched_term": "廊道法"
+    },
+    {
+      "answer_id": "ans_ch08_0172",
+      "canonical_question": "命名边界与普通裁剪框有什么区别？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0173",
+      "canonical_question": "工程量统计不完整怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0174",
+      "canonical_question": "模板结构变形异常怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0175",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0176",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0177",
+      "canonical_question": "模板结构变形异常怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0178",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0179",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0180",
+      "canonical_question": "模型不显示怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0181",
+      "canonical_question": "模型不显示怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0182",
+      "canonical_question": "平面线形修改后未联动怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0183",
+      "canonical_question": "工程量统计不完整怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0184",
+      "canonical_question": "加宽未应用怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0185",
+      "canonical_question": "模型不显示怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0186",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0187",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0188",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0189",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0190",
+      "canonical_question": "模板结构变形异常怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0191",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0192",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0193",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0194",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0195",
+      "canonical_question": "超高横坡不正确怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0196",
+      "canonical_question": "加宽未应用怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0197",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0198",
+      "canonical_question": "模型不显示怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0199",
+      "canonical_question": "超高横坡不正确怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0200",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0201",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0202",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0203",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0204",
+      "canonical_question": "模型不显示怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0205",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0206",
+      "canonical_question": "平面线形修改后未联动怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0207",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0208",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0209",
+      "canonical_question": "工程量统计不完整怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0210",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0211",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0212",
+      "canonical_question": "模板结构变形异常怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0213",
+      "canonical_question": "超高横坡不正确怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0214",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0215",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0216",
+      "canonical_question": "工程量统计不完整怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0217",
+      "canonical_question": "超高横坡不正确怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0218",
+      "canonical_question": "平面线形修改后未联动怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0219",
+      "canonical_question": "模型不显示怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0220",
+      "canonical_question": "超高横坡不正确怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0221",
+      "canonical_question": "模板结构变形异常怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0222",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0223",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0224",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0225",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0226",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0227",
+      "canonical_question": "超高横坡不正确怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0228",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0229",
+      "canonical_question": "模板结构变形异常怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0230",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0231",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0232",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0233",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0234",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0235",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0236",
+      "canonical_question": "工程量统计不完整怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0237",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0238",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0239",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0240",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0241",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0242",
+      "canonical_question": "加宽未应用怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0243",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0244",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0245",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0246",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0247",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0248",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0249",
+      "canonical_question": "模板结构变形异常怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0250",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0251",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0252",
+      "canonical_question": "PDF输出比例不对怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0253",
+      "canonical_question": "工程量统计不完整怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0254",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0255",
+      "canonical_question": "纵断面图标注缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0256",
+      "canonical_question": "廊道没有生成怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0257",
+      "canonical_question": "加宽未应用怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0258",
+      "canonical_question": "模型不显示怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0259",
+      "canonical_question": "命名边界出图缺失怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0260",
+      "canonical_question": "边坡不能连接地形怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0261",
+      "canonical_question": "工程量统计不完整怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    },
+    {
+      "answer_id": "ans_ch08_0262",
+      "canonical_question": "纵断面地面线不更新怎么办？",
+      "word_hit": false,
+      "matched_term": ""
+    }
+  ],
+  "heading_rows": [
+    {
+      "paragraph": 3879,
+      "style": "",
+      "heading": "第一节 OpenRoads Designer参数化架构",
+      "kb_hit": true
+    },
+    {
+      "paragraph": 3883,
+      "style": "",
+      "heading": "一、几何",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3902,
+      "style": "",
+      "heading": "二、模板",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3929,
+      "style": "",
+      "heading": "三、特征",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3948,
+      "style": "",
+      "heading": "第二节 数模与路线平纵面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3949,
+      "style": "",
+      "heading": "一、数模的建立与应用",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 3992,
+      "style": "",
+      "heading": "二、路线平面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4048,
+      "style": "",
+      "heading": "三、路线纵断面设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4078,
+      "style": "",
+      "heading": "第三节 横断面设计与廊道模型",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4080,
+      "style": "",
+      "heading": "一、横断面模板的建立",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4157,
+      "style": "",
+      "heading": "二、廊道模型的建立",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4175,
+      "style": "",
+      "heading": "三、曲线加宽",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4195,
+      "style": "",
+      "heading": "四、超高设计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4233,
+      "style": "",
+      "heading": "五、模型浏览与工程量统计",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4242,
+      "style": "",
+      "heading": "一、标注样式的设置",
+      "kb_hit": false
+    },
+    {
+      "paragraph": 4256,
+      "style": "",
+      "heading": "二、设计出图",
+      "kb_hit": false
+    }
+  ]
+}

@@ -1,0 +1,3258 @@
+[
+  {
+    "kp_id": "kp_ch09_001_bimgis_paradigm",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "数据驱动的BIM+GIS道路设计范式",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "BIM+GIS协同不是简单叠加，而是以空间数据定义问题，以BIM模型表达方案，并通过分析反馈持续优化的设计范式。",
+    "core_explanation": "BIM+GIS协同不是简单叠加，而是以空间数据定义问题，以BIM模型表达方案，并通过分析反馈持续优化的设计范式。",
+    "plain_explanation": "BIM与GIS协同协同不是简单叠加，而是以空间数据定义问题，以BIM模型表达方案，并通过分析反馈持续优化的设计范式。",
+    "engineering_meaning": "使道路设计从单一模型构建转向多源数据约束下的动态决策。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "数据驱动的BIM+GIS道路设计范式",
+      "bimgis_paradigm",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "数据驱动的BIM+GIS道路设计范式是什么？; 数据驱动的BIM+GIS道路设计范式有什么作用？; 如何理解数据驱动的BIM+GIS道路设计范式？",
+    "source_chunks": "",
+    "embedding_text": "数据驱动的BIM+GIS道路设计范式。BIM+GIS协同不是简单叠加，而是以空间数据定义问题，以BIM模型表达方案，并通过分析反馈持续优化的设计范式。 工程意义：使道路设计从单一模型构建转向多源数据约束下的动态决策。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "BIM+GIS协同不是简单叠加，而是以空间数据定义问题，以BIM模型表达方案，并通过分析反馈持续优化的设计范式。",
+      "BIM+GIS协同不是简单叠加，而是以空间数据定义问题，以BIM模型表达方案，并通过分析反馈持续优化的设计范式。",
+      "使道路设计从单一模型构建转向多源数据约束下的动态决策。"
+    ],
+    "aliases": [
+      "数据驱动的BIM+GIS道路设计范式是什么？",
+      "数据驱动的BIM+GIS道路设计范式有什么作用？",
+      "如何理解数据驱动的BIM+GIS道路设计范式？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_002_model_to_data",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "从模型驱动到数据驱动",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "模型驱动强调构建工程对象，数据驱动强调利用地形、地质、生态、用地等空间数据定义约束并指导建模。",
+    "core_explanation": "模型驱动强调构建工程对象，数据驱动强调利用地形、地质、生态、用地等空间数据定义约束并指导建模。",
+    "plain_explanation": "模型驱动强调构建工程对象，数据驱动强调利用地形、地质、生态、用地等空间数据定义约束并指导建模。",
+    "engineering_meaning": "帮助学生理解BIM+GIS的核心价值不是“建得更像”，而是“判断更准”。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "从模型驱动到数据驱动",
+      "model_to_data",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "从模型驱动到数据驱动是什么？; 从模型驱动到数据驱动有什么作用？; 如何理解从模型驱动到数据驱动？",
+    "source_chunks": "",
+    "embedding_text": "从模型驱动到数据驱动。模型驱动强调构建工程对象，数据驱动强调利用地形、地质、生态、用地等空间数据定义约束并指导建模。 工程意义：帮助学生理解BIM+GIS的核心价值不是“建得更像”，而是“判断更准”。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "模型驱动强调构建工程对象，数据驱动强调利用地形、地质、生态、用地等空间数据定义约束并指导建模。",
+      "模型驱动强调构建工程对象，数据驱动强调利用地形、地质、生态、用地等空间数据定义约束并指导建模。",
+      "帮助学生理解BIM+GIS的核心价值不是“建得更像”，而是“判断更准”。"
+    ],
+    "aliases": [
+      "从模型驱动到数据驱动是什么？",
+      "从模型驱动到数据驱动有什么作用？",
+      "如何理解从模型驱动到数据驱动？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_003_designer_role",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "BIM+GIS环境下设计师角色转变",
+    "knowledge_type": "concept",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "设计师从图纸绘制者和模型构建者转变为问题定义者、数据解释者、方案评估者和协同决策者。",
+    "core_explanation": "设计师从图纸绘制者和模型构建者转变为问题定义者、数据解释者、方案评估者和协同决策者。",
+    "plain_explanation": "设计师从图纸绘制者和模型构建者转变为问题定义者、数据解释者、方案评估者和协同决策者。",
+    "engineering_meaning": "强调工程判断与数据智能的结合。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "BIM+GIS环境下设计师角色转变",
+      "designer_role",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "BIM+GIS环境下设计师角色转变是什么？; BIM+GIS环境下设计师角色转变有什么作用？; 如何理解BIM+GIS环境下设计师角色转变？",
+    "source_chunks": "",
+    "embedding_text": "BIM+GIS环境下设计师角色转变。设计师从图纸绘制者和模型构建者转变为问题定义者、数据解释者、方案评估者和协同决策者。 工程意义：强调工程判断与数据智能的结合。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "设计师从图纸绘制者和模型构建者转变为问题定义者、数据解释者、方案评估者和协同决策者。",
+      "设计师从图纸绘制者和模型构建者转变为问题定义者、数据解释者、方案评估者和协同决策者。",
+      "强调工程判断与数据智能的结合。"
+    ],
+    "aliases": [
+      "BIM+GIS环境下设计师角色转变是什么？",
+      "BIM+GIS环境下设计师角色转变有什么作用？",
+      "如何理解BIM+GIS环境下设计师角色转变？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_004_feedback_driven",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "从成果导向到反馈驱动",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "反馈驱动流程在设计过程中实时进行空间校核和约束分析，而不是等成果完成后再集中评审修改。",
+    "core_explanation": "反馈驱动流程在设计过程中实时进行空间校核和约束分析，而不是等成果完成后再集中评审修改。",
+    "plain_explanation": "反馈驱动流程在设计过程中实时进行空间校核和约束分析，而不是等成果完成后再集中评审修改。",
+    "engineering_meaning": "提高选线质量与过程控制能力。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "从成果导向到反馈驱动",
+      "feedback_driven",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "从成果导向到反馈驱动是什么？; 从成果导向到反馈驱动有什么作用？; 如何理解从成果导向到反馈驱动？",
+    "source_chunks": "",
+    "embedding_text": "从成果导向到反馈驱动。反馈驱动流程在设计过程中实时进行空间校核和约束分析，而不是等成果完成后再集中评审修改。 工程意义：提高选线质量与过程控制能力。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "反馈驱动流程在设计过程中实时进行空间校核和约束分析，而不是等成果完成后再集中评审修改。",
+      "反馈驱动流程在设计过程中实时进行空间校核和约束分析，而不是等成果完成后再集中评审修改。",
+      "提高选线质量与过程控制能力。"
+    ],
+    "aliases": [
+      "从成果导向到反馈驱动是什么？",
+      "从成果导向到反馈驱动有什么作用？",
+      "如何理解从成果导向到反馈驱动？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_005_data_level",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "数据级集成",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "数据级集成通过格式互通和数据共享，使BIM模型获得真实地理背景和环境约束。",
+    "core_explanation": "数据级集成通过格式互通和数据共享，使BIM模型获得真实地理背景和环境约束。",
+    "plain_explanation": "数据级集成通过格式互通和数据共享，使BIM模型获得真实地理背景和环境约束。",
+    "engineering_meaning": "是BIM+GIS集成的基础层级。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "数据级集成",
+      "data_level",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "数据级集成是什么？; 数据级集成有什么作用？; 如何理解数据级集成？",
+    "source_chunks": "",
+    "embedding_text": "数据级集成。数据级集成通过格式互通和数据共享，使BIM模型获得真实地理背景和环境约束。 工程意义：是BIM+GIS集成的基础层级。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "数据级集成通过格式互通和数据共享，使BIM模型获得真实地理背景和环境约束。",
+      "数据级集成通过格式互通和数据共享，使BIM模型获得真实地理背景和环境约束。",
+      "是BIM+GIS集成的基础层级。"
+    ],
+    "aliases": [
+      "数据级集成是什么？",
+      "数据级集成有什么作用？",
+      "如何理解数据级集成？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_006_process_level",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "流程级集成",
+    "knowledge_type": "concept",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "流程级集成把GIS分析结果与BIM建模过程联动，使方案调整能触发空间分析反馈。",
+    "core_explanation": "流程级集成把GIS分析结果与BIM建模过程联动，使方案调整能触发空间分析反馈。",
+    "plain_explanation": "流程级集成把GIS分析结果与BIM建模过程联动，使方案调整能触发空间分析反馈。",
+    "engineering_meaning": "使设计成为分析—建模—反馈闭环。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "流程级集成",
+      "process_level",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "流程级集成是什么？; 流程级集成有什么作用？; 如何理解流程级集成？",
+    "source_chunks": "",
+    "embedding_text": "流程级集成。流程级集成把GIS分析结果与BIM建模过程联动，使方案调整能触发空间分析反馈。 工程意义：使设计成为分析—建模—反馈闭环。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "流程级集成把GIS分析结果与BIM建模过程联动，使方案调整能触发空间分析反馈。",
+      "流程级集成把GIS分析结果与BIM建模过程联动，使方案调整能触发空间分析反馈。",
+      "使设计成为分析—建模—反馈闭环。"
+    ],
+    "aliases": [
+      "流程级集成是什么？",
+      "流程级集成有什么作用？",
+      "如何理解流程级集成？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_007_semantic_level",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "语义级集成",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "语义级集成引入知识库、规则库和推理机制，使系统能够理解设计行为与环境约束的逻辑关系。",
+    "core_explanation": "语义级集成引入知识库、规则库和推理机制，使系统能够理解设计行为与环境约束的逻辑关系。",
+    "plain_explanation": "语义级集成引入知识库、规则库和推理机制，使系统能够理解设计行为与环境约束的逻辑关系。",
+    "engineering_meaning": "是BIM+GIS向智能决策演进的高级层级。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "语义级集成",
+      "semantic_level",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "语义级集成是什么？; 语义级集成有什么作用？; 如何理解语义级集成？",
+    "source_chunks": "",
+    "embedding_text": "语义级集成。语义级集成引入知识库、规则库和推理机制，使系统能够理解设计行为与环境约束的逻辑关系。 工程意义：是BIM+GIS向智能决策演进的高级层级。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "语义级集成引入知识库、规则库和推理机制，使系统能够理解设计行为与环境约束的逻辑关系。",
+      "语义级集成引入知识库、规则库和推理机制，使系统能够理解设计行为与环境约束的逻辑关系。",
+      "是BIM+GIS向智能决策演进的高级层级。"
+    ],
+    "aliases": [
+      "语义级集成是什么？",
+      "语义级集成有什么作用？",
+      "如何理解语义级集成？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_008_gis_problem_definition",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "GIS平台的问题定义与约束识别",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "GIS通过空间数据组织、缓冲区、叠加、地形分析等方法识别避让区、敏感区和设计可行域。",
+    "core_explanation": "GIS通过空间数据组织、缓冲区、叠加、地形分析等方法识别避让区、敏感区和设计可行域。",
+    "plain_explanation": "GIS通过空间数据组织、缓冲区、叠加、地形分析等方法识别避让区、敏感区和设计可行域。",
+    "engineering_meaning": "为BIM正向设计提供空间语境。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "GIS平台的问题定义与约束识别",
+      "gis_problem_definition",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "GIS平台的问题定义与约束识别是什么？; GIS平台的问题定义与约束识别有什么作用？; 如何理解GIS平台的问题定义与约束识别？",
+    "source_chunks": "",
+    "embedding_text": "GIS平台的问题定义与约束识别。GIS通过空间数据组织、缓冲区、叠加、地形分析等方法识别避让区、敏感区和设计可行域。 工程意义：为BIM正向设计提供空间语境。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "GIS通过空间数据组织、缓冲区、叠加、地形分析等方法识别避让区、敏感区和设计可行域。",
+      "GIS通过空间数据组织、缓冲区、叠加、地形分析等方法识别避让区、敏感区和设计可行域。",
+      "为BIM正向设计提供空间语境。"
+    ],
+    "aliases": [
+      "GIS平台的问题定义与约束识别是什么？",
+      "GIS平台的问题定义与约束识别有什么作用？",
+      "如何理解GIS平台的问题定义与约束识别？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_009_bim_model_construction",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "BIM平台的模型构建与参数表达",
+    "knowledge_type": "process",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "BIM平台将路线、纵断面、横断面和廊道构件转化为可编辑、可联动、可计算的工程模型。",
+    "core_explanation": "BIM平台将路线、纵断面、横断面和廊道构件转化为可编辑、可联动、可计算的工程模型。",
+    "plain_explanation": "BIM平台将路线、纵断面、横断面和廊道构件转化为可编辑、可联动、可计算的工程模型。",
+    "engineering_meaning": "为图纸、工程量和施工组织提供基础。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "BIM平台的模型构建与参数表达",
+      "bim_model_construction",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "BIM平台的模型构建与参数表达是什么？; BIM平台的模型构建与参数表达有什么作用？; 如何理解BIM平台的模型构建与参数表达？",
+    "source_chunks": "",
+    "embedding_text": "BIM平台的模型构建与参数表达。BIM平台将路线、纵断面、横断面和廊道构件转化为可编辑、可联动、可计算的工程模型。 工程意义：为图纸、工程量和施工组织提供基础。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "BIM平台将路线、纵断面、横断面和廊道构件转化为可编辑、可联动、可计算的工程模型。",
+      "BIM平台将路线、纵断面、横断面和廊道构件转化为可编辑、可联动、可计算的工程模型。",
+      "为图纸、工程量和施工组织提供基础。"
+    ],
+    "aliases": [
+      "BIM平台的模型构建与参数表达是什么？",
+      "BIM平台的模型构建与参数表达有什么作用？",
+      "如何理解BIM平台的模型构建与参数表达？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_010_analysis_feedback",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec01",
+    "title": "BIM+GIS联动分析反馈",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "方案一旦调整，GIS模块即可对环境风险、生态约束、地形适宜性等进行反馈。",
+    "core_explanation": "方案一旦调整，GIS模块即可对环境风险、生态约束、地形适宜性等进行反馈。",
+    "plain_explanation": "方案一旦调整，GIS模块即可对环境风险、生态约束、地形适宜性等进行反馈。",
+    "engineering_meaning": "实现设计中评估和持续优化。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "BIM+GIS联动分析反馈",
+      "analysis_feedback",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "BIM+GIS联动分析反馈是什么？; BIM+GIS联动分析反馈有什么作用？; 如何理解BIM+GIS联动分析反馈？",
+    "source_chunks": "",
+    "embedding_text": "BIM+GIS联动分析反馈。方案一旦调整，GIS模块即可对环境风险、生态约束、地形适宜性等进行反馈。 工程意义：实现设计中评估和持续优化。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "方案一旦调整，GIS模块即可对环境风险、生态约束、地形适宜性等进行反馈。",
+      "方案一旦调整，GIS模块即可对环境风险、生态约束、地形适宜性等进行反馈。",
+      "实现设计中评估和持续优化。"
+    ],
+    "aliases": [
+      "BIM+GIS联动分析反馈是什么？",
+      "BIM+GIS联动分析反馈有什么作用？",
+      "如何理解BIM+GIS联动分析反馈？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_011_surface",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "Civil 3D曲面Surface",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "Surface用于表达地形高程，常见为TIN曲面，可由点、等高线、断裂线等数据构建。",
+    "core_explanation": "Surface用于表达地形高程，常见为TIN曲面，可由点、等高线、断裂线等数据构建。",
+    "plain_explanation": "Surface用于表达地形高程，常见为TIN曲面，可由点、等高线、断裂线等数据构建。",
+    "engineering_meaning": "是平纵横设计和土方分析的地形基础。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "Civil 3D曲面Surface",
+      "surface",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "Civil 3D曲面Surface是什么？; Civil 3D曲面Surface有什么作用？; 如何理解Civil 3D曲面Surface？",
+    "source_chunks": "",
+    "embedding_text": "Civil 3D曲面Surface。Surface用于表达地形高程，常见为TIN曲面，可由点、等高线、断裂线等数据构建。 工程意义：是平纵横设计和土方分析的地形基础。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Surface用于表达地形高程，常见为TIN曲面，可由点、等高线、断裂线等数据构建。",
+      "Surface用于表达地形高程，常见为TIN曲面，可由点、等高线、断裂线等数据构建。",
+      "是平纵横设计和土方分析的地形基础。"
+    ],
+    "aliases": [
+      "Civil 3D曲面Surface是什么？",
+      "Civil 3D曲面Surface有什么作用？",
+      "如何理解Civil 3D曲面Surface？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_012_tin_surface",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "TIN曲面",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "TIN曲面以不规则三角网表达地形，高程在三角网内插计算。",
+    "core_explanation": "TIN曲面以不规则三角网表达地形，高程在三角网内插计算。",
+    "plain_explanation": "TIN曲面以不规则三角网表达地形，高程在三角网内插计算。",
+    "engineering_meaning": "适合道路工程中复杂地形建模。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "TIN曲面",
+      "tin_surface",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "TIN曲面是什么？; TIN曲面有什么作用？; 如何理解TIN曲面？",
+    "source_chunks": "",
+    "embedding_text": "TIN曲面。TIN曲面以不规则三角网表达地形，高程在三角网内插计算。 工程意义：适合道路工程中复杂地形建模。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "TIN曲面以不规则三角网表达地形，高程在三角网内插计算。",
+      "TIN曲面以不规则三角网表达地形，高程在三角网内插计算。",
+      "适合道路工程中复杂地形建模。"
+    ],
+    "aliases": [
+      "TIN曲面是什么？",
+      "TIN曲面有什么作用？",
+      "如何理解TIN曲面？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_013_breakline",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "断裂线Breakline",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "断裂线用于约束TIN三角网，使沟谷、路肩、坡脚等线性突变地形得以保留。",
+    "core_explanation": "断裂线用于约束TIN三角网，使沟谷、路肩、坡脚等线性突变地形得以保留。",
+    "plain_explanation": "断裂线用于约束TIN三角网，使沟谷、路肩、坡脚等线性突变地形得以保留。",
+    "engineering_meaning": "提升曲面模型的工程真实性。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "断裂线Breakline",
+      "breakline",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "断裂线Breakline是什么？; 断裂线Breakline有什么作用？; 如何理解断裂线Breakline？",
+    "source_chunks": "",
+    "embedding_text": "断裂线Breakline。断裂线用于约束TIN三角网，使沟谷、路肩、坡脚等线性突变地形得以保留。 工程意义：提升曲面模型的工程真实性。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "断裂线用于约束TIN三角网，使沟谷、路肩、坡脚等线性突变地形得以保留。",
+      "断裂线用于约束TIN三角网，使沟谷、路肩、坡脚等线性突变地形得以保留。",
+      "提升曲面模型的工程真实性。"
+    ],
+    "aliases": [
+      "断裂线Breakline是什么？",
+      "断裂线Breakline有什么作用？",
+      "如何理解断裂线Breakline？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_014_surface_style",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "曲面样式Surface Style",
+    "knowledge_type": "parameter",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "曲面样式控制等高线、三角网、高程着色、坡度着色等显示方式。",
+    "core_explanation": "曲面样式控制等高线、三角网、高程着色、坡度着色等显示方式。",
+    "plain_explanation": "曲面样式控制等高线、三角网、高程着色、坡度着色等显示方式。",
+    "engineering_meaning": "帮助识别地形特征与检查建模质量。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "曲面样式Surface Style",
+      "surface_style",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "曲面样式Surface Style是什么？; 曲面样式Surface Style有什么作用？; 如何理解曲面样式Surface Style？",
+    "source_chunks": "",
+    "embedding_text": "曲面样式Surface Style。曲面样式控制等高线、三角网、高程着色、坡度着色等显示方式。 工程意义：帮助识别地形特征与检查建模质量。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "曲面样式控制等高线、三角网、高程着色、坡度着色等显示方式。",
+      "曲面样式控制等高线、三角网、高程着色、坡度着色等显示方式。",
+      "帮助识别地形特征与检查建模质量。"
+    ],
+    "aliases": [
+      "曲面样式Surface Style是什么？",
+      "曲面样式Surface Style有什么作用？",
+      "如何理解曲面样式Surface Style？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_015_alignment",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "路线Alignment",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "Alignment是Civil 3D中表达平面线形和桩号系统的核心对象。",
+    "core_explanation": "Alignment是Civil 3D中表达平面线形和桩号系统的核心对象。",
+    "plain_explanation": "Alignment是Civil 3D中表达平面线形和桩号系统的核心对象。",
+    "engineering_meaning": "连接平面、纵断面、装配和廊道。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "路线Alignment",
+      "alignment",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "路线Alignment是什么？; 路线Alignment有什么作用？; 如何理解路线Alignment？",
+    "source_chunks": "",
+    "embedding_text": "路线Alignment。Alignment是Civil 3D中表达平面线形和桩号系统的核心对象。 工程意义：连接平面、纵断面、装配和廊道。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Alignment是Civil 3D中表达平面线形和桩号系统的核心对象。",
+      "Alignment是Civil 3D中表达平面线形和桩号系统的核心对象。",
+      "连接平面、纵断面、装配和廊道。"
+    ],
+    "aliases": [
+      "路线Alignment是什么？",
+      "路线Alignment有什么作用？",
+      "如何理解路线Alignment？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_016_profile",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "纵断面Profile",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "Profile表达沿路线方向的地面高程或设计高程，包括曲面纵断面和设计纵断面。",
+    "core_explanation": "Profile表达沿路线方向的地面高程或设计高程，包括曲面纵断面和设计纵断面。",
+    "plain_explanation": "Profile表达沿路线方向的地面高程或设计高程，包括曲面纵断面和设计纵断面。",
+    "engineering_meaning": "决定廊道高程控制与土石方关系。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "纵断面Profile",
+      "profile",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "纵断面Profile是什么？; 纵断面Profile有什么作用？; 如何理解纵断面Profile？",
+    "source_chunks": "",
+    "embedding_text": "纵断面Profile。Profile表达沿路线方向的地面高程或设计高程，包括曲面纵断面和设计纵断面。 工程意义：决定廊道高程控制与土石方关系。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Profile表达沿路线方向的地面高程或设计高程，包括曲面纵断面和设计纵断面。",
+      "Profile表达沿路线方向的地面高程或设计高程，包括曲面纵断面和设计纵断面。",
+      "决定廊道高程控制与土石方关系。"
+    ],
+    "aliases": [
+      "纵断面Profile是什么？",
+      "纵断面Profile有什么作用？",
+      "如何理解纵断面Profile？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_017_profile_view",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "纵断面图Profile View",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "Profile View是显示纵断面线、网格和标注的图形视图。",
+    "core_explanation": "Profile View是显示纵断面线、网格和标注的图形视图。",
+    "plain_explanation": "Profile View是显示纵断面线、网格和标注的图形视图。",
+    "engineering_meaning": "用于纵断面设计、编辑与成果表达。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "纵断面图Profile View",
+      "profile_view",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "纵断面图Profile View是什么？; 纵断面图Profile View有什么作用？; 如何理解纵断面图Profile View？",
+    "source_chunks": "",
+    "embedding_text": "纵断面图Profile View。Profile View是显示纵断面线、网格和标注的图形视图。 工程意义：用于纵断面设计、编辑与成果表达。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Profile View是显示纵断面线、网格和标注的图形视图。",
+      "Profile View是显示纵断面线、网格和标注的图形视图。",
+      "用于纵断面设计、编辑与成果表达。"
+    ],
+    "aliases": [
+      "纵断面图Profile View是什么？",
+      "纵断面图Profile View有什么作用？",
+      "如何理解纵断面图Profile View？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_018_pvi",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "变坡点PVI",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "PVI控制设计纵断面的坡度变化，是纵断面线形的关键控制点。",
+    "core_explanation": "PVI控制设计纵断面的坡度变化，是纵断面线形的关键控制点。",
+    "plain_explanation": "PVI控制设计纵断面的坡度变化，是纵断面线形的关键控制点。",
+    "engineering_meaning": "影响坡度、竖曲线和设计高程。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "变坡点PVI",
+      "pvi",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "变坡点PVI是什么？; 变坡点PVI有什么作用？; 如何理解变坡点PVI？",
+    "source_chunks": "",
+    "embedding_text": "变坡点PVI。PVI控制设计纵断面的坡度变化，是纵断面线形的关键控制点。 工程意义：影响坡度、竖曲线和设计高程。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "PVI控制设计纵断面的坡度变化，是纵断面线形的关键控制点。",
+      "PVI控制设计纵断面的坡度变化，是纵断面线形的关键控制点。",
+      "影响坡度、竖曲线和设计高程。"
+    ],
+    "aliases": [
+      "变坡点PVI是什么？",
+      "变坡点PVI有什么作用？",
+      "如何理解变坡点PVI？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_019_assembly",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "装配Assembly",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "Assembly相当于道路标准横断面，由车道、路肩、边坡等部件组成。",
+    "core_explanation": "Assembly相当于道路标准横断面，由车道、路肩、边坡等部件组成。",
+    "plain_explanation": "Assembly相当于道路标准横断面，由车道、路肩、边坡等部件组成。",
+    "engineering_meaning": "用于生成道路廊道模型。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "装配Assembly",
+      "assembly",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "装配Assembly是什么？; 装配Assembly有什么作用？; 如何理解装配Assembly？",
+    "source_chunks": "",
+    "embedding_text": "装配Assembly。Assembly相当于道路标准横断面，由车道、路肩、边坡等部件组成。 工程意义：用于生成道路廊道模型。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Assembly相当于道路标准横断面，由车道、路肩、边坡等部件组成。",
+      "Assembly相当于道路标准横断面，由车道、路肩、边坡等部件组成。",
+      "用于生成道路廊道模型。"
+    ],
+    "aliases": [
+      "装配Assembly是什么？",
+      "装配Assembly有什么作用？",
+      "如何理解装配Assembly？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_020_subassembly",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "部件Subassembly",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "Subassembly是组成装配的基本横断面构件，如车道、路肩、边坡、边沟。",
+    "core_explanation": "Subassembly是组成装配的基本横断面构件，如车道、路肩、边坡、边沟。",
+    "plain_explanation": "Subassembly是组成装配的基本横断面构件，如车道、路肩、边坡、边沟。",
+    "engineering_meaning": "决定横断面几何和构造属性。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "部件Subassembly",
+      "subassembly",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "部件Subassembly是什么？; 部件Subassembly有什么作用？; 如何理解部件Subassembly？",
+    "source_chunks": "",
+    "embedding_text": "部件Subassembly。Subassembly是组成装配的基本横断面构件，如车道、路肩、边坡、边沟。 工程意义：决定横断面几何和构造属性。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Subassembly是组成装配的基本横断面构件，如车道、路肩、边坡、边沟。",
+      "Subassembly是组成装配的基本横断面构件，如车道、路肩、边坡、边沟。",
+      "决定横断面几何和构造属性。"
+    ],
+    "aliases": [
+      "部件Subassembly是什么？",
+      "部件Subassembly有什么作用？",
+      "如何理解部件Subassembly？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_021_corridor",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "廊道Corridor",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "Corridor沿路线和纵断面套用装配，生成连续三维道路模型。",
+    "core_explanation": "Corridor沿路线和纵断面套用装配，生成连续三维道路模型。",
+    "plain_explanation": "Corridor沿路线和纵断面套用装配，生成连续三维道路模型。",
+    "engineering_meaning": "整合平面、纵断面和横断面，是道路BIM建模核心。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "廊道Corridor",
+      "corridor",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "廊道Corridor是什么？; 廊道Corridor有什么作用？; 如何理解廊道Corridor？",
+    "source_chunks": "",
+    "embedding_text": "廊道Corridor。Corridor沿路线和纵断面套用装配，生成连续三维道路模型。 工程意义：整合平面、纵断面和横断面，是道路BIM建模核心。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Corridor沿路线和纵断面套用装配，生成连续三维道路模型。",
+      "Corridor沿路线和纵断面套用装配，生成连续三维道路模型。",
+      "整合平面、纵断面和横断面，是道路BIM建模核心。"
+    ],
+    "aliases": [
+      "廊道Corridor是什么？",
+      "廊道Corridor有什么作用？",
+      "如何理解廊道Corridor？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_022_corridor_region",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "道路区域Corridor Region",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "道路区域将不同装配应用于道路的不同桩号范围。",
+    "core_explanation": "道路区域将不同装配应用于道路的不同桩号范围。",
+    "plain_explanation": "道路区域将不同装配应用于道路的不同桩号范围。",
+    "engineering_meaning": "支持变断面、互通、桥隧过渡等分段建模。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "道路区域Corridor Region",
+      "corridor_region",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "道路区域Corridor Region是什么？; 道路区域Corridor Region有什么作用？; 如何理解道路区域Corridor Region？",
+    "source_chunks": "",
+    "embedding_text": "道路区域Corridor Region。道路区域将不同装配应用于道路的不同桩号范围。 工程意义：支持变断面、互通、桥隧过渡等分段建模。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "道路区域将不同装配应用于道路的不同桩号范围。",
+      "道路区域将不同装配应用于道路的不同桩号范围。",
+      "支持变断面、互通、桥隧过渡等分段建模。"
+    ],
+    "aliases": [
+      "道路区域Corridor Region是什么？",
+      "道路区域Corridor Region有什么作用？",
+      "如何理解道路区域Corridor Region？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_023_corridor_surface",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "道路曲面Corridor Surface",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "道路曲面从廊道构件提取地表、路面或边坡曲面，可用于体积计算与GIS分析。",
+    "core_explanation": "道路曲面从廊道构件提取地表、路面或边坡曲面，可用于体积计算与GIS分析。",
+    "plain_explanation": "道路曲面从廊道构件提取地表、路面或边坡曲面，可用于体积计算与GIS分析。",
+    "engineering_meaning": "是BIM模型与GIS栅格分析之间的桥梁。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "道路曲面Corridor Surface",
+      "corridor_surface",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "道路曲面Corridor Surface是什么？; 道路曲面Corridor Surface有什么作用？; 如何理解道路曲面Corridor Surface？",
+    "source_chunks": "",
+    "embedding_text": "道路曲面Corridor Surface。道路曲面从廊道构件提取地表、路面或边坡曲面，可用于体积计算与GIS分析。 工程意义：是BIM模型与GIS栅格分析之间的桥梁。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "道路曲面从廊道构件提取地表、路面或边坡曲面，可用于体积计算与GIS分析。",
+      "道路曲面从廊道构件提取地表、路面或边坡曲面，可用于体积计算与GIS分析。",
+      "是BIM模型与GIS栅格分析之间的桥梁。"
+    ],
+    "aliases": [
+      "道路曲面Corridor Surface是什么？",
+      "道路曲面Corridor Surface有什么作用？",
+      "如何理解道路曲面Corridor Surface？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_024_map3d_display_manager",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "Map 3D显示管理器",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "显示管理器用于管理地图图层、样式、标签和可视化规则。",
+    "core_explanation": "显示管理器用于管理地图图层、样式、标签和可视化规则。",
+    "plain_explanation": "显示管理器用于管理地图图层、样式、标签和可视化规则。",
+    "engineering_meaning": "实现外部GIS数据在CAD环境中的图层化表达。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "Map 3D显示管理器",
+      "map3d_display_manager",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "Map 3D显示管理器是什么？; Map 3D显示管理器有什么作用？; 如何理解Map 3D显示管理器？",
+    "source_chunks": "",
+    "embedding_text": "Map 3D显示管理器。显示管理器用于管理地图图层、样式、标签和可视化规则。 工程意义：实现外部GIS数据在CAD环境中的图层化表达。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "显示管理器用于管理地图图层、样式、标签和可视化规则。",
+      "显示管理器用于管理地图图层、样式、标签和可视化规则。",
+      "实现外部GIS数据在CAD环境中的图层化表达。"
+    ],
+    "aliases": [
+      "Map 3D显示管理器是什么？",
+      "Map 3D显示管理器有什么作用？",
+      "如何理解Map 3D显示管理器？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_025_fdo",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "FDO技术",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "FDO提供对SHP、SDF、SQLite、PostGIS等空间数据源的动态连接和访问能力。",
+    "core_explanation": "FDO提供对SHP、SDF、SQLite、PostGIS等空间数据源的动态连接和访问能力。",
+    "plain_explanation": "FDO提供对SHP、SDF、SQLite、PostGIS等空间数据源的动态连接和访问能力。",
+    "engineering_meaning": "避免传统导入导致的数据复制和更新滞后。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "FDO技术",
+      "fdo",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "FDO技术是什么？; FDO技术有什么作用？; 如何理解FDO技术？",
+    "source_chunks": "",
+    "embedding_text": "FDO技术。FDO提供对SHP、SDF、SQLite、PostGIS等空间数据源的动态连接和访问能力。 工程意义：避免传统导入导致的数据复制和更新滞后。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "FDO提供对SHP、SDF、SQLite、PostGIS等空间数据源的动态连接和访问能力。",
+      "FDO提供对SHP、SDF、SQLite、PostGIS等空间数据源的动态连接和访问能力。",
+      "避免传统导入导致的数据复制和更新滞后。"
+    ],
+    "aliases": [
+      "FDO技术是什么？",
+      "FDO技术有什么作用？",
+      "如何理解FDO技术？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_026_fdo_vs_import",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "FDO连接与传统导入的区别",
+    "knowledge_type": "comparison",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "FDO保持与外部数据源动态关联，导入模式通常把数据复制到图形文件中。",
+    "core_explanation": "FDO保持与外部数据源动态关联，导入模式通常把数据复制到图形文件中。",
+    "plain_explanation": "FDO保持与外部数据源动态关联，导入模式通常把数据复制到图形文件中。",
+    "engineering_meaning": "决定数据更新、属性查询和协同效率。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "FDO连接与传统导入的区别",
+      "fdo_vs_import",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "FDO连接与传统导入的区别是什么？; FDO连接与传统导入的区别有什么作用？; 如何理解FDO连接与传统导入的区别？",
+    "source_chunks": "",
+    "embedding_text": "FDO连接与传统导入的区别。FDO保持与外部数据源动态关联，导入模式通常把数据复制到图形文件中。 工程意义：决定数据更新、属性查询和协同效率。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "FDO保持与外部数据源动态关联，导入模式通常把数据复制到图形文件中。",
+      "FDO保持与外部数据源动态关联，导入模式通常把数据复制到图形文件中。",
+      "决定数据更新、属性查询和协同效率。"
+    ],
+    "aliases": [
+      "FDO连接与传统导入的区别是什么？",
+      "FDO连接与传统导入的区别有什么作用？",
+      "如何理解FDO连接与传统导入的区别？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_027_layer_visualization",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "图层可视化",
+    "knowledge_type": "process",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "通过颜色、线型、填充、标签、透明度和顺序控制多源数据的表达。",
+    "core_explanation": "通过颜色、线型、填充、标签、透明度和顺序控制多源数据的表达。",
+    "plain_explanation": "通过颜色、线型、填充、标签、透明度和顺序控制多源数据的表达。",
+    "engineering_meaning": "提升约束要素识别效率。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "图层可视化",
+      "layer_visualization",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "图层可视化是什么？; 图层可视化有什么作用？; 如何理解图层可视化？",
+    "source_chunks": "",
+    "embedding_text": "图层可视化。通过颜色、线型、填充、标签、透明度和顺序控制多源数据的表达。 工程意义：提升约束要素识别效率。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "通过颜色、线型、填充、标签、透明度和顺序控制多源数据的表达。",
+      "通过颜色、线型、填充、标签、透明度和顺序控制多源数据的表达。",
+      "提升约束要素识别效率。"
+    ],
+    "aliases": [
+      "图层可视化是什么？",
+      "图层可视化有什么作用？",
+      "如何理解图层可视化？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_028_attribute_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "属性查询",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "属性查询依据字段条件筛选要素，例如按最小半径、风险等级或用地类型筛选。",
+    "core_explanation": "属性查询依据字段条件筛选要素，例如按最小半径、风险等级或用地类型筛选。",
+    "plain_explanation": "属性查询依据字段条件筛选要素，例如按最小半径、风险等级或用地类型筛选。",
+    "engineering_meaning": "用于发现不满足条件或需要避让的对象。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "属性查询",
+      "attribute_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "属性查询是什么？; 属性查询有什么作用？; 如何理解属性查询？",
+    "source_chunks": "",
+    "embedding_text": "属性查询。属性查询依据字段条件筛选要素，例如按最小半径、风险等级或用地类型筛选。 工程意义：用于发现不满足条件或需要避让的对象。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "属性查询依据字段条件筛选要素，例如按最小半径、风险等级或用地类型筛选。",
+      "属性查询依据字段条件筛选要素，例如按最小半径、风险等级或用地类型筛选。",
+      "用于发现不满足条件或需要避让的对象。"
+    ],
+    "aliases": [
+      "属性查询是什么？",
+      "属性查询有什么作用？",
+      "如何理解属性查询？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_029_spatial_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "空间查询",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "空间查询依据相交、包含、邻近等几何关系筛选要素。",
+    "core_explanation": "空间查询依据相交、包含、邻近等几何关系筛选要素。",
+    "plain_explanation": "空间查询依据相交、包含、邻近等几何关系筛选要素。",
+    "engineering_meaning": "用于判断路线是否穿越敏感区或灾害体。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "空间查询",
+      "spatial_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "空间查询是什么？; 空间查询有什么作用？; 如何理解空间查询？",
+    "source_chunks": "",
+    "embedding_text": "空间查询。空间查询依据相交、包含、邻近等几何关系筛选要素。 工程意义：用于判断路线是否穿越敏感区或灾害体。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "空间查询依据相交、包含、邻近等几何关系筛选要素。",
+      "空间查询依据相交、包含、邻近等几何关系筛选要素。",
+      "用于判断路线是否穿越敏感区或灾害体。"
+    ],
+    "aliases": [
+      "空间查询是什么？",
+      "空间查询有什么作用？",
+      "如何理解空间查询？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_030_buffer_analysis",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "缓冲区分析",
+    "knowledge_type": "operation",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "缓冲区分析围绕路线或设施生成一定距离范围的空间影响区。",
+    "core_explanation": "缓冲区分析围绕路线或设施生成一定距离范围的空间影响区。",
+    "plain_explanation": "缓冲区分析围绕路线或设施生成一定距离范围的空间影响区。",
+    "engineering_meaning": "常用于风险识别、保护区校核和影响范围分析。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "缓冲区分析",
+      "buffer_analysis",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "缓冲区分析是什么？; 缓冲区分析有什么作用？; 如何理解缓冲区分析？",
+    "source_chunks": "",
+    "embedding_text": "缓冲区分析。缓冲区分析围绕路线或设施生成一定距离范围的空间影响区。 工程意义：常用于风险识别、保护区校核和影响范围分析。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "缓冲区分析围绕路线或设施生成一定距离范围的空间影响区。",
+      "缓冲区分析围绕路线或设施生成一定距离范围的空间影响区。",
+      "常用于风险识别、保护区校核和影响范围分析。"
+    ],
+    "aliases": [
+      "缓冲区分析是什么？",
+      "缓冲区分析有什么作用？",
+      "如何理解缓冲区分析？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_031_overlay_analysis",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "叠加分析",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "叠加分析将多个空间图层进行几何与属性组合，识别复合约束区域。",
+    "core_explanation": "叠加分析将多个空间图层进行几何与属性组合，识别复合约束区域。",
+    "plain_explanation": "叠加分析将多个空间图层进行几何与属性组合，识别复合约束区域。",
+    "engineering_meaning": "支持多因素选线和方案比选。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "叠加分析",
+      "overlay_analysis",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "叠加分析是什么？; 叠加分析有什么作用？; 如何理解叠加分析？",
+    "source_chunks": "",
+    "embedding_text": "叠加分析。叠加分析将多个空间图层进行几何与属性组合，识别复合约束区域。 工程意义：支持多因素选线和方案比选。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "叠加分析将多个空间图层进行几何与属性组合，识别复合约束区域。",
+      "叠加分析将多个空间图层进行几何与属性组合，识别复合约束区域。",
+      "支持多因素选线和方案比选。"
+    ],
+    "aliases": [
+      "叠加分析是什么？",
+      "叠加分析有什么作用？",
+      "如何理解叠加分析？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_032_gdal",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "GDAL空间数据处理库",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "GDAL是跨平台空间数据处理库，支持栅格和矢量数据读取、转换、裁剪和分析。",
+    "core_explanation": "GDAL是跨平台空间数据处理库，支持栅格和矢量数据读取、转换、裁剪和分析。",
+    "plain_explanation": "GDAL是跨平台空间数据处理库，支持栅格和矢量数据读取、转换、裁剪和分析。",
+    "engineering_meaning": "在BIM+GIS流程中承担数据预处理和栅格分析枢纽角色。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "GDAL空间数据处理库",
+      "gdal",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "GDAL空间数据处理库是什么？; GDAL空间数据处理库有什么作用？; 如何理解GDAL空间数据处理库？",
+    "source_chunks": "",
+    "embedding_text": "GDAL空间数据处理库。GDAL是跨平台空间数据处理库，支持栅格和矢量数据读取、转换、裁剪和分析。 工程意义：在BIM+GIS流程中承担数据预处理和栅格分析枢纽角色。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "GDAL是跨平台空间数据处理库，支持栅格和矢量数据读取、转换、裁剪和分析。",
+      "GDAL是跨平台空间数据处理库，支持栅格和矢量数据读取、转换、裁剪和分析。",
+      "在BIM+GIS流程中承担数据预处理和栅格分析枢纽角色。"
+    ],
+    "aliases": [
+      "GDAL空间数据处理库是什么？",
+      "GDAL空间数据处理库有什么作用？",
+      "如何理解GDAL空间数据处理库？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_033_ogr",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "OGR矢量数据接口",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "OGR是GDAL体系中的矢量数据访问能力，用于读取和处理SHP、GeoPackage、PostGIS等矢量数据。",
+    "core_explanation": "OGR是GDAL体系中的矢量数据访问能力，用于读取和处理SHP、GeoPackage、PostGIS等矢量数据。",
+    "plain_explanation": "OGR是GDAL体系中的矢量数据访问能力，用于读取和处理SHP、GeoPackage、PostGIS等矢量数据。",
+    "engineering_meaning": "支撑矢量要素转换、筛选和空间分析。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "OGR矢量数据接口",
+      "ogr",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "OGR矢量数据接口是什么？; OGR矢量数据接口有什么作用？; 如何理解OGR矢量数据接口？",
+    "source_chunks": "",
+    "embedding_text": "OGR矢量数据接口。OGR是GDAL体系中的矢量数据访问能力，用于读取和处理SHP、GeoPackage、PostGIS等矢量数据。 工程意义：支撑矢量要素转换、筛选和空间分析。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "OGR是GDAL体系中的矢量数据访问能力，用于读取和处理SHP、GeoPackage、PostGIS等矢量数据。",
+      "OGR是GDAL体系中的矢量数据访问能力，用于读取和处理SHP、GeoPackage、PostGIS等矢量数据。",
+      "支撑矢量要素转换、筛选和空间分析。"
+    ],
+    "aliases": [
+      "OGR矢量数据接口是什么？",
+      "OGR矢量数据接口有什么作用？",
+      "如何理解OGR矢量数据接口？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_034_dem_resample_clip",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "DEM重采样与裁剪",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "重采样统一DEM分辨率，裁剪限定分析范围，便于后续坡度、坡向和敏感性分析。",
+    "core_explanation": "重采样统一DEM分辨率，裁剪限定分析范围，便于后续坡度、坡向和敏感性分析。",
+    "plain_explanation": "重采样统一DEM分辨率，裁剪限定分析范围，便于后续坡度、坡向和敏感性分析。",
+    "engineering_meaning": "是道路BIM+GIS栅格分析前处理。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "DEM重采样与裁剪",
+      "dem_resample_clip",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "DEM重采样与裁剪是什么？; DEM重采样与裁剪有什么作用？; 如何理解DEM重采样与裁剪？",
+    "source_chunks": "",
+    "embedding_text": "DEM重采样与裁剪。重采样统一DEM分辨率，裁剪限定分析范围，便于后续坡度、坡向和敏感性分析。 工程意义：是道路BIM+GIS栅格分析前处理。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "重采样统一DEM分辨率，裁剪限定分析范围，便于后续坡度、坡向和敏感性分析。",
+      "重采样统一DEM分辨率，裁剪限定分析范围，便于后续坡度、坡向和敏感性分析。",
+      "是道路BIM+GIS栅格分析前处理。"
+    ],
+    "aliases": [
+      "DEM重采样与裁剪是什么？",
+      "DEM重采样与裁剪有什么作用？",
+      "如何理解DEM重采样与裁剪？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_035_slope_aspect",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "坡度与坡向分析",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "坡度反映地形陡缓，坡向反映坡面朝向，是地质灾害和路线适宜性分析的重要因子。",
+    "core_explanation": "坡度反映地形陡缓，坡向反映坡面朝向，是地质灾害和路线适宜性分析的重要因子。",
+    "plain_explanation": "坡度反映地形陡缓，坡向反映坡面朝向，是地质灾害和路线适宜性分析的重要因子。",
+    "engineering_meaning": "用于风险识别和走廊带评价。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "坡度与坡向分析",
+      "slope_aspect",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "坡度与坡向分析是什么？; 坡度与坡向分析有什么作用？; 如何理解坡度与坡向分析？",
+    "source_chunks": "",
+    "embedding_text": "坡度与坡向分析。坡度反映地形陡缓，坡向反映坡面朝向，是地质灾害和路线适宜性分析的重要因子。 工程意义：用于风险识别和走廊带评价。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "坡度反映地形陡缓，坡向反映坡面朝向，是地质灾害和路线适宜性分析的重要因子。",
+      "坡度反映地形陡缓，坡向反映坡面朝向，是地质灾害和路线适宜性分析的重要因子。",
+      "用于风险识别和走廊带评价。"
+    ],
+    "aliases": [
+      "坡度与坡向分析是什么？",
+      "坡度与坡向分析有什么作用？",
+      "如何理解坡度与坡向分析？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_036_raster_reclass",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "栅格重分类",
+    "knowledge_type": "operation",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "重分类将连续栅格值转换为等级类别，如微坡、缓坡、陡坡。",
+    "core_explanation": "重分类将连续栅格值转换为等级类别，如微坡、缓坡、陡坡。",
+    "plain_explanation": "重分类将连续栅格值转换为等级类别，如微坡、缓坡、陡坡。",
+    "engineering_meaning": "便于构建成本面或敏感性等级图。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "栅格重分类",
+      "raster_reclass",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "栅格重分类是什么？; 栅格重分类有什么作用？; 如何理解栅格重分类？",
+    "source_chunks": "",
+    "embedding_text": "栅格重分类。重分类将连续栅格值转换为等级类别，如微坡、缓坡、陡坡。 工程意义：便于构建成本面或敏感性等级图。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "重分类将连续栅格值转换为等级类别，如微坡、缓坡、陡坡。",
+      "重分类将连续栅格值转换为等级类别，如微坡、缓坡、陡坡。",
+      "便于构建成本面或敏感性等级图。"
+    ],
+    "aliases": [
+      "栅格重分类是什么？",
+      "栅格重分类有什么作用？",
+      "如何理解栅格重分类？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_037_raster_vector_conversion",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "栅格矢量化与矢量栅格化",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "栅格矢量化把像元区域转为面要素，矢量栅格化把线面对象转为栅格分析输入。",
+    "core_explanation": "栅格矢量化把像元区域转为面要素，矢量栅格化把线面对象转为栅格分析输入。",
+    "plain_explanation": "栅格矢量化把像元区域转为面要素，矢量栅格化把线面对象转为栅格分析输入。",
+    "engineering_meaning": "实现Map 3D、Civil 3D与GDAL的数据格式转换。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "栅格矢量化与矢量栅格化",
+      "raster_vector_conversion",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "栅格矢量化与矢量栅格化是什么？; 栅格矢量化与矢量栅格化有什么作用？; 如何理解栅格矢量化与矢量栅格化？",
+    "source_chunks": "",
+    "embedding_text": "栅格矢量化与矢量栅格化。栅格矢量化把像元区域转为面要素，矢量栅格化把线面对象转为栅格分析输入。 工程意义：实现Map 3D、Civil 3D与GDAL的数据格式转换。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "栅格矢量化把像元区域转为面要素，矢量栅格化把线面对象转为栅格分析输入。",
+      "栅格矢量化把像元区域转为面要素，矢量栅格化把线面对象转为栅格分析输入。",
+      "实现Map 3D、Civil 3D与GDAL的数据格式转换。"
+    ],
+    "aliases": [
+      "栅格矢量化与矢量栅格化是什么？",
+      "栅格矢量化与矢量栅格化有什么作用？",
+      "如何理解栅格矢量化与矢量栅格化？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_038_net_collaboration",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "基于.NET平台的GDAL—Map 3D—Civil 3D协同",
+    "knowledge_type": "workflow",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "Civil 3D构建并导出曲面，GDAL进行栅格处理，Map 3D加载专题成果，Civil 3D反馈评价。",
+    "core_explanation": "Civil 3D构建并导出曲面，GDAL进行栅格处理，Map 3D加载专题成果，Civil 3D反馈评价。",
+    "plain_explanation": "Civil 3D构建并导出曲面，GDAL进行栅格处理，Map 3D加载专题成果，Civil 3D反馈评价。",
+    "engineering_meaning": "形成跨软件的一体化协同闭环。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "基于.NET平台的GDAL—Map 3D—Civil 3D协同",
+      "net_collaboration",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "基于.NET平台的GDAL—Map 3D—Civil 3D协同是什么？; 基于.NET平台的GDAL—Map 3D—Civil 3D协同有什么作用？; 如何理解基于.NET平台的GDAL—Map 3D—Civil 3D协同？",
+    "source_chunks": "",
+    "embedding_text": "基于.NET平台的GDAL—Map 3D—Civil 3D协同。Civil 3D构建并导出曲面，GDAL进行栅格处理，Map 3D加载专题成果，Civil 3D反馈评价。 工程意义：形成跨软件的一体化协同闭环。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Civil 3D构建并导出曲面，GDAL进行栅格处理，Map 3D加载专题成果，Civil 3D反馈评价。",
+      "Civil 3D构建并导出曲面，GDAL进行栅格处理，Map 3D加载专题成果，Civil 3D反馈评价。",
+      "形成跨软件的一体化协同闭环。"
+    ],
+    "aliases": [
+      "基于.NET平台的GDAL—Map 3D—Civil 3D协同是什么？",
+      "基于.NET平台的GDAL—Map 3D—Civil 3D协同有什么作用？",
+      "如何理解基于.NET平台的GDAL—Map 3D—Civil 3D协同？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_039_geo_alignment_three_scales",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "地质选线三尺度",
+    "knowledge_type": "concept",
+    "difficulty": "综合",
+    "importance": "核心",
+    "definition": "宏观走廊带、中观路线方案和微观定线决策分别对应数据级、流程级和语义级BIM+GIS集成。",
+    "core_explanation": "宏观走廊带、中观路线方案和微观定线决策分别对应数据级、流程级和语义级BIM+GIS集成。",
+    "plain_explanation": "宏观走廊带、中观路线方案和微观定线决策分别对应数据级、流程级和语义级BIM与GIS协同集成。",
+    "engineering_meaning": "揭示BIM+GIS在不同选线阶段的作用差异。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "地质选线三尺度",
+      "geo_alignment_three_scales",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "地质选线三尺度是什么？; 地质选线三尺度有什么作用？; 如何理解地质选线三尺度？",
+    "source_chunks": "",
+    "embedding_text": "地质选线三尺度。宏观走廊带、中观路线方案和微观定线决策分别对应数据级、流程级和语义级BIM+GIS集成。 工程意义：揭示BIM+GIS在不同选线阶段的作用差异。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "宏观走廊带、中观路线方案和微观定线决策分别对应数据级、流程级和语义级BIM+GIS集成。",
+      "宏观走廊带、中观路线方案和微观定线决策分别对应数据级、流程级和语义级BIM+GIS集成。",
+      "揭示BIM+GIS在不同选线阶段的作用差异。"
+    ],
+    "aliases": [
+      "地质选线三尺度是什么？",
+      "地质选线三尺度有什么作用？",
+      "如何理解地质选线三尺度？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_040_risk_factor_layers",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "地质风险影响因子图层",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "核心",
+    "definition": "影响因子包括地形地貌、地质环境、气象水文和人类活动等。",
+    "core_explanation": "影响因子包括地形地貌、地质环境、气象水文和人类活动等。",
+    "plain_explanation": "影响因子包括地形地貌、地质环境、气象水文和人类活动等。",
+    "engineering_meaning": "为成本面和滑坡敏感性模型提供输入。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "地质风险影响因子图层",
+      "risk_factor_layers",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "地质风险影响因子图层是什么？; 地质风险影响因子图层有什么作用？; 如何理解地质风险影响因子图层？",
+    "source_chunks": "",
+    "embedding_text": "地质风险影响因子图层。影响因子包括地形地貌、地质环境、气象水文和人类活动等。 工程意义：为成本面和滑坡敏感性模型提供输入。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "影响因子包括地形地貌、地质环境、气象水文和人类活动等。",
+      "影响因子包括地形地貌、地质环境、气象水文和人类活动等。",
+      "为成本面和滑坡敏感性模型提供输入。"
+    ],
+    "aliases": [
+      "地质风险影响因子图层是什么？",
+      "地质风险影响因子图层有什么作用？",
+      "如何理解地质风险影响因子图层？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_041_cost_surface",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "成本表面",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "成本表面将风险、工程难度、环境约束等转化为栅格成本值。",
+    "core_explanation": "成本表面将风险、工程难度、环境约束等转化为栅格成本值。",
+    "plain_explanation": "成本表面将风险、工程难度、环境约束等转化为栅格成本值。",
+    "engineering_meaning": "用于最小成本路径和走廊带自动搜索。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "成本表面",
+      "cost_surface",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "成本表面是什么？; 成本表面有什么作用？; 如何理解成本表面？",
+    "source_chunks": "",
+    "embedding_text": "成本表面。成本表面将风险、工程难度、环境约束等转化为栅格成本值。 工程意义：用于最小成本路径和走廊带自动搜索。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "成本表面将风险、工程难度、环境约束等转化为栅格成本值。",
+      "成本表面将风险、工程难度、环境约束等转化为栅格成本值。",
+      "用于最小成本路径和走廊带自动搜索。"
+    ],
+    "aliases": [
+      "成本表面是什么？",
+      "成本表面有什么作用？",
+      "如何理解成本表面？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_042_landslide_susceptibility",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "滑坡敏感性图",
+    "knowledge_type": "concept",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "滑坡敏感性图用机器学习模型表达区域发生滑坡的相对可能性。",
+    "core_explanation": "滑坡敏感性图用机器学习模型表达区域发生滑坡的相对可能性。",
+    "plain_explanation": "滑坡敏感性图用机器学习模型表达区域发生滑坡的相对可能性。",
+    "engineering_meaning": "为地质选线提供风险空间依据。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "滑坡敏感性图",
+      "landslide_susceptibility",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "滑坡敏感性图是什么？; 滑坡敏感性图有什么作用？; 如何理解滑坡敏感性图？",
+    "source_chunks": "",
+    "embedding_text": "滑坡敏感性图。滑坡敏感性图用机器学习模型表达区域发生滑坡的相对可能性。 工程意义：为地质选线提供风险空间依据。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "滑坡敏感性图用机器学习模型表达区域发生滑坡的相对可能性。",
+      "滑坡敏感性图用机器学习模型表达区域发生滑坡的相对可能性。",
+      "为地质选线提供风险空间依据。"
+    ],
+    "aliases": [
+      "滑坡敏感性图是什么？",
+      "滑坡敏感性图有什么作用？",
+      "如何理解滑坡敏感性图？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_043_least_cost_path",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "最小成本路径",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "最小成本路径在成本表面上搜索累计代价最低的路线走廊。",
+    "core_explanation": "最小成本路径在成本表面上搜索累计代价最低的路线走廊。",
+    "plain_explanation": "最小成本路径在成本表面上搜索累计代价最低的路线走廊。",
+    "engineering_meaning": "用于宏观选带和风险避让。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "最小成本路径",
+      "least_cost_path",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "最小成本路径是什么？; 最小成本路径有什么作用？; 如何理解最小成本路径？",
+    "source_chunks": "",
+    "embedding_text": "最小成本路径。最小成本路径在成本表面上搜索累计代价最低的路线走廊。 工程意义：用于宏观选带和风险避让。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "最小成本路径在成本表面上搜索累计代价最低的路线走廊。",
+      "最小成本路径在成本表面上搜索累计代价最低的路线走廊。",
+      "用于宏观选带和风险避让。"
+    ],
+    "aliases": [
+      "最小成本路径是什么？",
+      "最小成本路径有什么作用？",
+      "如何理解最小成本路径？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_044_terrain_reconstruction",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "地形重构",
+    "knowledge_type": "workflow",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "地形重构通过挖空扰动区、粘贴道路曲面和曲面合成生成工程实施后的DEM。",
+    "core_explanation": "地形重构通过挖空扰动区、粘贴道路曲面和曲面合成生成工程实施后的DEM。",
+    "plain_explanation": "地形重构通过挖空扰动区、粘贴道路曲面和曲面合成生成工程实施后的DEM。",
+    "engineering_meaning": "用于评估道路建设对地质风险的扰动效应。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "地形重构",
+      "terrain_reconstruction",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "地形重构是什么？; 地形重构有什么作用？; 如何理解地形重构？",
+    "source_chunks": "",
+    "embedding_text": "地形重构。地形重构通过挖空扰动区、粘贴道路曲面和曲面合成生成工程实施后的DEM。 工程意义：用于评估道路建设对地质风险的扰动效应。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "地形重构通过挖空扰动区、粘贴道路曲面和曲面合成生成工程实施后的DEM。",
+      "地形重构通过挖空扰动区、粘贴道路曲面和曲面合成生成工程实施后的DEM。",
+      "用于评估道路建设对地质风险的扰动效应。"
+    ],
+    "aliases": [
+      "地形重构是什么？",
+      "地形重构有什么作用？",
+      "如何理解地形重构？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_045_disturbance_effect",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "道路扰动效应评估",
+    "knowledge_type": "concept",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "道路施工改变局部地形地貌，可能诱发或加剧地质灾害，需要基于重构DEM重新预测。",
+    "core_explanation": "道路施工改变局部地形地貌，可能诱发或加剧地质灾害，需要基于重构DEM重新预测。",
+    "plain_explanation": "道路施工改变局部地形地貌，可能诱发或加剧地质灾害，需要基于重构DEM重新预测。",
+    "engineering_meaning": "支持中观方案比选。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "道路扰动效应评估",
+      "disturbance_effect",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "道路扰动效应评估是什么？; 道路扰动效应评估有什么作用？; 如何理解道路扰动效应评估？",
+    "source_chunks": "",
+    "embedding_text": "道路扰动效应评估。道路施工改变局部地形地貌，可能诱发或加剧地质灾害，需要基于重构DEM重新预测。 工程意义：支持中观方案比选。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "道路施工改变局部地形地貌，可能诱发或加剧地质灾害，需要基于重构DEM重新预测。",
+      "道路施工改变局部地形地貌，可能诱发或加剧地质灾害，需要基于重构DEM重新预测。",
+      "支持中观方案比选。"
+    ],
+    "aliases": [
+      "道路扰动效应评估是什么？",
+      "道路扰动效应评估有什么作用？",
+      "如何理解道路扰动效应评估？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_046_geologic_kb",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "地质选线知识库",
+    "knowledge_type": "knowledge_base",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "地质选线知识库把地质灾害类型、案例、规则和处治建议结构化表达。",
+    "core_explanation": "地质选线知识库把地质灾害类型、案例、规则和处治建议结构化表达。",
+    "plain_explanation": "地质选线知识库把地质灾害类型、案例、规则和处治建议结构化表达。",
+    "engineering_meaning": "支撑语义级集成和智能决策。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "地质选线知识库",
+      "geologic_kb",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "地质选线知识库是什么？; 地质选线知识库有什么作用？; 如何理解地质选线知识库？",
+    "source_chunks": "",
+    "embedding_text": "地质选线知识库。地质选线知识库把地质灾害类型、案例、规则和处治建议结构化表达。 工程意义：支撑语义级集成和智能决策。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "地质选线知识库把地质灾害类型、案例、规则和处治建议结构化表达。",
+      "地质选线知识库把地质灾害类型、案例、规则和处治建议结构化表达。",
+      "支撑语义级集成和智能决策。"
+    ],
+    "aliases": [
+      "地质选线知识库是什么？",
+      "地质选线知识库有什么作用？",
+      "如何理解地质选线知识库？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_047_spatial_reasoning_trigger",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "空间推理触发机制",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "当路线与灾害体相交、进入或接近时，系统提取空间事实并触发推理。",
+    "core_explanation": "当路线与灾害体相交、进入或接近时，系统提取空间事实并触发推理。",
+    "plain_explanation": "当路线与灾害体相交、进入或接近时，系统提取空间事实并触发推理。",
+    "engineering_meaning": "实现从空间关系到决策建议的自动联动。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "空间推理触发机制",
+      "spatial_reasoning_trigger",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "空间推理触发机制是什么？; 空间推理触发机制有什么作用？; 如何理解空间推理触发机制？",
+    "source_chunks": "",
+    "embedding_text": "空间推理触发机制。当路线与灾害体相交、进入或接近时，系统提取空间事实并触发推理。 工程意义：实现从空间关系到决策建议的自动联动。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "当路线与灾害体相交、进入或接近时，系统提取空间事实并触发推理。",
+      "当路线与灾害体相交、进入或接近时，系统提取空间事实并触发推理。",
+      "实现从空间关系到决策建议的自动联动。"
+    ],
+    "aliases": [
+      "空间推理触发机制是什么？",
+      "空间推理触发机制有什么作用？",
+      "如何理解空间推理触发机制？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_048_cbr",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "CBR案例推理",
+    "knowledge_type": "reasoning",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "CBR通过检索相似工程案例，为当前设计情境提供参考方案。",
+    "core_explanation": "CBR通过检索相似工程案例，为当前设计情境提供参考方案。",
+    "plain_explanation": "CBR通过检索相似工程案例，为当前设计情境提供参考方案。",
+    "engineering_meaning": "适合经验复用和相似场景借鉴。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "CBR案例推理",
+      "cbr",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "CBR案例推理是什么？; CBR案例推理有什么作用？; 如何理解CBR案例推理？",
+    "source_chunks": "",
+    "embedding_text": "CBR案例推理。CBR通过检索相似工程案例，为当前设计情境提供参考方案。 工程意义：适合经验复用和相似场景借鉴。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "CBR通过检索相似工程案例，为当前设计情境提供参考方案。",
+      "CBR通过检索相似工程案例，为当前设计情境提供参考方案。",
+      "适合经验复用和相似场景借鉴。"
+    ],
+    "aliases": [
+      "CBR案例推理是什么？",
+      "CBR案例推理有什么作用？",
+      "如何理解CBR案例推理？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_049_rbr",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "RBR规则推理",
+    "knowledge_type": "reasoning",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "RBR根据规范规则、专家规则和条件判断生成建议或警示。",
+    "core_explanation": "RBR根据规范规则、专家规则和条件判断生成建议或警示。",
+    "plain_explanation": "RBR根据规范规则、专家规则和条件判断生成建议或警示。",
+    "engineering_meaning": "适合明确约束和规范校核。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "RBR规则推理",
+      "rbr",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "RBR规则推理是什么？; RBR规则推理有什么作用？; 如何理解RBR规则推理？",
+    "source_chunks": "",
+    "embedding_text": "RBR规则推理。RBR根据规范规则、专家规则和条件判断生成建议或警示。 工程意义：适合明确约束和规范校核。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "RBR根据规范规则、专家规则和条件判断生成建议或警示。",
+      "RBR根据规范规则、专家规则和条件判断生成建议或警示。",
+      "适合明确约束和规范校核。"
+    ],
+    "aliases": [
+      "RBR规则推理是什么？",
+      "RBR规则推理有什么作用？",
+      "如何理解RBR规则推理？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_050_civil3d_api",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "Civil 3D .NET API",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "Civil 3D .NET API允许程序访问Surface、Alignment、Profile和Corridor等对象，实现自动查询、校核和二次开发。",
+    "core_explanation": "Civil 3D .NET API允许程序访问Surface、Alignment、Profile和Corridor等对象，实现自动查询、校核和二次开发。",
+    "plain_explanation": "Civil 3D .NET API允许程序访问Surface、Alignment、Profile和Corridor等对象，实现自动查询、校核和二次开发。",
+    "engineering_meaning": "支撑流程级BIM+GIS集成和设计自动化。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "Civil 3D .NET API",
+      "civil3d_api",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "Civil 3D .NET API是什么？; Civil 3D .NET API有什么作用？; 如何理解Civil 3D .NET API？",
+    "source_chunks": "",
+    "embedding_text": "Civil 3D .NET API。Civil 3D .NET API允许程序访问Surface、Alignment、Profile和Corridor等对象，实现自动查询、校核和二次开发。 工程意义：支撑流程级BIM+GIS集成和设计自动化。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Civil 3D .NET API允许程序访问Surface、Alignment、Profile和Corridor等对象，实现自动查询、校核和二次开发。",
+      "Civil 3D .NET API允许程序访问Surface、Alignment、Profile和Corridor等对象，实现自动查询、校核和二次开发。",
+      "支撑流程级BIM+GIS集成和设计自动化。"
+    ],
+    "aliases": [
+      "Civil 3D .NET API是什么？",
+      "Civil 3D .NET API有什么作用？",
+      "如何理解Civil 3D .NET API？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_051_surface_elevation_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "曲面高程查询",
+    "knowledge_type": "operation",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "通过Surface对象的高程查询方法获取任意XY位置的地面高程。",
+    "core_explanation": "通过Surface对象的高程查询方法获取任意XY位置的地面高程。",
+    "plain_explanation": "通过Surface对象的高程查询方法获取任意XY位置的地面高程。",
+    "engineering_meaning": "用于纵断面地面线、横断面地面线和填挖分析。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "曲面高程查询",
+      "surface_elevation_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "曲面高程查询是什么？; 曲面高程查询有什么作用？; 如何理解曲面高程查询？",
+    "source_chunks": "",
+    "embedding_text": "曲面高程查询。通过Surface对象的高程查询方法获取任意XY位置的地面高程。 工程意义：用于纵断面地面线、横断面地面线和填挖分析。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "通过Surface对象的高程查询方法获取任意XY位置的地面高程。",
+      "通过Surface对象的高程查询方法获取任意XY位置的地面高程。",
+      "用于纵断面地面线、横断面地面线和填挖分析。"
+    ],
+    "aliases": [
+      "曲面高程查询是什么？",
+      "曲面高程查询有什么作用？",
+      "如何理解曲面高程查询？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_052_surface_slope_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "曲面坡度查询",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "通过曲面坡度查询获取任一点坡度值。",
+    "core_explanation": "通过曲面坡度查询获取任一点坡度值。",
+    "plain_explanation": "通过曲面坡度查询获取任一点坡度值。",
+    "engineering_meaning": "用于地形适宜性、排水和边坡稳定性分析。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "曲面坡度查询",
+      "surface_slope_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "曲面坡度查询是什么？; 曲面坡度查询有什么作用？; 如何理解曲面坡度查询？",
+    "source_chunks": "",
+    "embedding_text": "曲面坡度查询。通过曲面坡度查询获取任一点坡度值。 工程意义：用于地形适宜性、排水和边坡稳定性分析。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "通过曲面坡度查询获取任一点坡度值。",
+      "通过曲面坡度查询获取任一点坡度值。",
+      "用于地形适宜性、排水和边坡稳定性分析。"
+    ],
+    "aliases": [
+      "曲面坡度查询是什么？",
+      "曲面坡度查询有什么作用？",
+      "如何理解曲面坡度查询？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_053_surface_direction_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "坡向查询",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "坡向查询返回坡面方向，常用于地形分析和地质风险评价。",
+    "core_explanation": "坡向查询返回坡面方向，常用于地形分析和地质风险评价。",
+    "plain_explanation": "坡向查询返回坡面方向，常用于地形分析和地质风险评价。",
+    "engineering_meaning": "补充坡度分析，识别坡面朝向对风险的影响。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "坡向查询",
+      "surface_direction_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "坡向查询是什么？; 坡向查询有什么作用？; 如何理解坡向查询？",
+    "source_chunks": "",
+    "embedding_text": "坡向查询。坡向查询返回坡面方向，常用于地形分析和地质风险评价。 工程意义：补充坡度分析，识别坡面朝向对风险的影响。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "坡向查询返回坡面方向，常用于地形分析和地质风险评价。",
+      "坡向查询返回坡面方向，常用于地形分析和地质风险评价。",
+      "补充坡度分析，识别坡面朝向对风险的影响。"
+    ],
+    "aliases": [
+      "坡向查询是什么？",
+      "坡向查询有什么作用？",
+      "如何理解坡向查询？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_054_station_coordinate_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "桩号坐标互查",
+    "knowledge_type": "operation",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "桩号坐标互查可由桩号和偏距计算坐标，也可由坐标反算投影桩号和偏距。",
+    "core_explanation": "桩号坐标互查可由桩号和偏距计算坐标，也可由坐标反算投影桩号和偏距。",
+    "plain_explanation": "桩号坐标互查可由桩号和偏距计算坐标，也可由坐标反算投影桩号和偏距。",
+    "engineering_meaning": "是路线对象API应用的基础。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "桩号坐标互查",
+      "station_coordinate_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "桩号坐标互查是什么？; 桩号坐标互查有什么作用？; 如何理解桩号坐标互查？",
+    "source_chunks": "",
+    "embedding_text": "桩号坐标互查。桩号坐标互查可由桩号和偏距计算坐标，也可由坐标反算投影桩号和偏距。 工程意义：是路线对象API应用的基础。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "桩号坐标互查可由桩号和偏距计算坐标，也可由坐标反算投影桩号和偏距。",
+      "桩号坐标互查可由桩号和偏距计算坐标，也可由坐标反算投影桩号和偏距。",
+      "是路线对象API应用的基础。"
+    ],
+    "aliases": [
+      "桩号坐标互查是什么？",
+      "桩号坐标互查有什么作用？",
+      "如何理解桩号坐标互查？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_055_alignment_entity",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "路线线元实体",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "AlignmentEntity表示路线中的直线、圆曲线、缓和曲线等线元。",
+    "core_explanation": "AlignmentEntity表示路线中的直线、圆曲线、缓和曲线等线元。",
+    "plain_explanation": "AlignmentEntity表示路线中的直线、圆曲线、缓和曲线等线元。",
+    "engineering_meaning": "可用于读取半径、长度和线元类型进行规范检查。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "路线线元实体",
+      "alignment_entity",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "路线线元实体是什么？; 路线线元实体有什么作用？; 如何理解路线线元实体？",
+    "source_chunks": "",
+    "embedding_text": "路线线元实体。AlignmentEntity表示路线中的直线、圆曲线、缓和曲线等线元。 工程意义：可用于读取半径、长度和线元类型进行规范检查。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "AlignmentEntity表示路线中的直线、圆曲线、缓和曲线等线元。",
+      "AlignmentEntity表示路线中的直线、圆曲线、缓和曲线等线元。",
+      "可用于读取半径、长度和线元类型进行规范检查。"
+    ],
+    "aliases": [
+      "路线线元实体是什么？",
+      "路线线元实体有什么作用？",
+      "如何理解路线线元实体？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_056_profile_elevation_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "设计高程查询",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "Profile.ElevationAt可获取指定桩号设计高程。",
+    "core_explanation": "Profile.ElevationAt可获取指定桩号设计高程。",
+    "plain_explanation": "Profile.ElevationAt可获取指定桩号设计高程。",
+    "engineering_meaning": "用于填挖高度、构造物高程和纵断面校核。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "设计高程查询",
+      "profile_elevation_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "设计高程查询是什么？; 设计高程查询有什么作用？; 如何理解设计高程查询？",
+    "source_chunks": "",
+    "embedding_text": "设计高程查询。Profile.ElevationAt可获取指定桩号设计高程。 工程意义：用于填挖高度、构造物高程和纵断面校核。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Profile.ElevationAt可获取指定桩号设计高程。",
+      "Profile.ElevationAt可获取指定桩号设计高程。",
+      "用于填挖高度、构造物高程和纵断面校核。"
+    ],
+    "aliases": [
+      "设计高程查询是什么？",
+      "设计高程查询有什么作用？",
+      "如何理解设计高程查询？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_057_profile_grade_query",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "纵坡查询",
+    "knowledge_type": "operation",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "Profile.GradeAt可获取指定桩号处纵坡。",
+    "core_explanation": "Profile.GradeAt可获取指定桩号处纵坡。",
+    "plain_explanation": "Profile.GradeAt可获取指定桩号处纵坡。",
+    "engineering_meaning": "用于动力学、排水和规范校核。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "纵坡查询",
+      "profile_grade_query",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "纵坡查询是什么？; 纵坡查询有什么作用？; 如何理解纵坡查询？",
+    "source_chunks": "",
+    "embedding_text": "纵坡查询。Profile.GradeAt可获取指定桩号处纵坡。 工程意义：用于动力学、排水和规范校核。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Profile.GradeAt可获取指定桩号处纵坡。",
+      "Profile.GradeAt可获取指定桩号处纵坡。",
+      "用于动力学、排水和规范校核。"
+    ],
+    "aliases": [
+      "纵坡查询是什么？",
+      "纵坡查询有什么作用？",
+      "如何理解纵坡查询？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_058_profile_pvi_iteration",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "PVI集合访问",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "遍历Profile.PVIs可读取变坡点桩号、高程与竖曲线长度。",
+    "core_explanation": "遍历Profile.PVIs可读取变坡点桩号、高程与竖曲线长度。",
+    "plain_explanation": "遍历Profile.PVIs可读取变坡点桩号、高程与竖曲线长度。",
+    "engineering_meaning": "用于纵断面自动校核与报表输出。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "PVI集合访问",
+      "profile_pvi_iteration",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "PVI集合访问是什么？; PVI集合访问有什么作用？; 如何理解PVI集合访问？",
+    "source_chunks": "",
+    "embedding_text": "PVI集合访问。遍历Profile.PVIs可读取变坡点桩号、高程与竖曲线长度。 工程意义：用于纵断面自动校核与报表输出。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "遍历Profile.PVIs可读取变坡点桩号、高程与竖曲线长度。",
+      "遍历Profile.PVIs可读取变坡点桩号、高程与竖曲线长度。",
+      "用于纵断面自动校核与报表输出。"
+    ],
+    "aliases": [
+      "PVI集合访问是什么？",
+      "PVI集合访问有什么作用？",
+      "如何理解PVI集合访问？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_059_corridor_boundary",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec02",
+    "title": "道路曲面边界",
+    "knowledge_type": "parameter",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "道路曲面边界限定曲面提取范围，常用道路范围作为外部边界。",
+    "core_explanation": "道路曲面边界限定曲面提取范围，常用道路范围作为外部边界。",
+    "plain_explanation": "道路曲面边界限定曲面提取范围，常用道路范围作为外部边界。",
+    "engineering_meaning": "避免曲面越界并保证工程量计算准确。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "道路曲面边界",
+      "corridor_boundary",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "道路曲面边界是什么？; 道路曲面边界有什么作用？; 如何理解道路曲面边界？",
+    "source_chunks": "",
+    "embedding_text": "道路曲面边界。道路曲面边界限定曲面提取范围，常用道路范围作为外部边界。 工程意义：避免曲面越界并保证工程量计算准确。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "道路曲面边界限定曲面提取范围，常用道路范围作为外部边界。",
+      "道路曲面边界限定曲面提取范围，常用道路范围作为外部边界。",
+      "避免曲面越界并保证工程量计算准确。"
+    ],
+    "aliases": [
+      "道路曲面边界是什么？",
+      "道路曲面边界有什么作用？",
+      "如何理解道路曲面边界？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_060_fdo_provider",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "FDO Provider",
+    "knowledge_type": "parameter",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "FDO Provider指定数据源类型，如OSGeo.SHP、OSGeo.SQLite、PostGIS等。",
+    "core_explanation": "FDO Provider指定数据源类型，如OSGeo.SHP、OSGeo.SQLite、PostGIS等。",
+    "plain_explanation": "FDO Provider指定数据源类型，如OSGeo.SHP、OSGeo.SQLite、PostGIS等。",
+    "engineering_meaning": "决定连接属性和可访问的数据格式。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "FDO Provider",
+      "fdo_provider",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "FDO Provider是什么？; FDO Provider有什么作用？; 如何理解FDO Provider？",
+    "source_chunks": "",
+    "embedding_text": "FDO Provider。FDO Provider指定数据源类型，如OSGeo.SHP、OSGeo.SQLite、PostGIS等。 工程意义：决定连接属性和可访问的数据格式。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "FDO Provider指定数据源类型，如OSGeo.SHP、OSGeo.SQLite、PostGIS等。",
+      "FDO Provider指定数据源类型，如OSGeo.SHP、OSGeo.SQLite、PostGIS等。",
+      "决定连接属性和可访问的数据格式。"
+    ],
+    "aliases": [
+      "FDO Provider是什么？",
+      "FDO Provider有什么作用？",
+      "如何理解FDO Provider？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_061_feature_class",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "要素类Feature Class",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "要素类是空间数据中的一类同构对象，如道路、河流、地块或灾害点。",
+    "core_explanation": "要素类是空间数据中的一类同构对象，如道路、河流、地块或灾害点。",
+    "plain_explanation": "要素类是空间数据中的一类同构对象，如道路、河流、地块或灾害点。",
+    "engineering_meaning": "用于查询、图层创建和属性管理。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "要素类Feature Class",
+      "feature_class",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "要素类Feature Class是什么？; 要素类Feature Class有什么作用？; 如何理解要素类Feature Class？",
+    "source_chunks": "",
+    "embedding_text": "要素类Feature Class。要素类是空间数据中的一类同构对象，如道路、河流、地块或灾害点。 工程意义：用于查询、图层创建和属性管理。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "要素类是空间数据中的一类同构对象，如道路、河流、地块或灾害点。",
+      "要素类是空间数据中的一类同构对象，如道路、河流、地块或灾害点。",
+      "用于查询、图层创建和属性管理。"
+    ],
+    "aliases": [
+      "要素类Feature Class是什么？",
+      "要素类Feature Class有什么作用？",
+      "如何理解要素类Feature Class？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_062_feature_reader",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "IFeatureReader",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "IFeatureReader用于逐条读取FDO查询结果的属性和几何。",
+    "core_explanation": "IFeatureReader用于逐条读取FDO查询结果的属性和几何。",
+    "plain_explanation": "IFeatureReader用于逐条读取FDO查询结果的属性和几何。",
+    "engineering_meaning": "支持批量遍历与自动化分析。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "IFeatureReader",
+      "feature_reader",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "IFeatureReader是什么？; IFeatureReader有什么作用？; 如何理解IFeatureReader？",
+    "source_chunks": "",
+    "embedding_text": "IFeatureReader。IFeatureReader用于逐条读取FDO查询结果的属性和几何。 工程意义：支持批量遍历与自动化分析。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "IFeatureReader用于逐条读取FDO查询结果的属性和几何。",
+      "IFeatureReader用于逐条读取FDO查询结果的属性和几何。",
+      "支持批量遍历与自动化分析。"
+    ],
+    "aliases": [
+      "IFeatureReader是什么？",
+      "IFeatureReader有什么作用？",
+      "如何理解IFeatureReader？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_063_geometry_fgf",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "FGF几何",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "FGF是FDO内部常用几何表达形式，可在API中用于空间过滤和几何处理。",
+    "core_explanation": "FGF是FDO内部常用几何表达形式，可在API中用于空间过滤和几何处理。",
+    "plain_explanation": "FGF是FDO内部常用几何表达形式，可在API中用于空间过滤和几何处理。",
+    "engineering_meaning": "支撑空间查询与缓冲区分析。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "FGF几何",
+      "geometry_fgf",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "FGF几何是什么？; FGF几何有什么作用？; 如何理解FGF几何？",
+    "source_chunks": "",
+    "embedding_text": "FGF几何。FGF是FDO内部常用几何表达形式，可在API中用于空间过滤和几何处理。 工程意义：支撑空间查询与缓冲区分析。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "FGF是FDO内部常用几何表达形式，可在API中用于空间过滤和几何处理。",
+      "FGF是FDO内部常用几何表达形式，可在API中用于空间过滤和几何处理。",
+      "支撑空间查询与缓冲区分析。"
+    ],
+    "aliases": [
+      "FGF几何是什么？",
+      "FGF几何有什么作用？",
+      "如何理解FGF几何？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_064_spatial_intersects",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "Intersects空间关系",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "Intersects用于判断两个空间对象是否相交。",
+    "core_explanation": "Intersects用于判断两个空间对象是否相交。",
+    "plain_explanation": "Intersects用于判断两个空间对象是否相交。",
+    "engineering_meaning": "常用于判断路线缓冲区内是否存在灾害点或敏感区。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "Intersects空间关系",
+      "spatial_intersects",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "Intersects空间关系是什么？; Intersects空间关系有什么作用？; 如何理解Intersects空间关系？",
+    "source_chunks": "",
+    "embedding_text": "Intersects空间关系。Intersects用于判断两个空间对象是否相交。 工程意义：常用于判断路线缓冲区内是否存在灾害点或敏感区。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "Intersects用于判断两个空间对象是否相交。",
+      "Intersects用于判断两个空间对象是否相交。",
+      "常用于判断路线缓冲区内是否存在灾害点或敏感区。"
+    ],
+    "aliases": [
+      "Intersects空间关系是什么？",
+      "Intersects空间关系有什么作用？",
+      "如何理解Intersects空间关系？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_065_map_layer_style",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "地图图层样式",
+    "knowledge_type": "parameter",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "图层样式通过颜色、填充、线型、标签表达属性差异。",
+    "core_explanation": "图层样式通过颜色、填充、线型、标签表达属性差异。",
+    "plain_explanation": "图层样式通过颜色、填充、线型、标签表达属性差异。",
+    "engineering_meaning": "使复杂约束数据可读、可判别。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "地图图层样式",
+      "map_layer_style",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "地图图层样式是什么？; 地图图层样式有什么作用？; 如何理解地图图层样式？",
+    "source_chunks": "",
+    "embedding_text": "地图图层样式。图层样式通过颜色、填充、线型、标签表达属性差异。 工程意义：使复杂约束数据可读、可判别。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "图层样式通过颜色、填充、线型、标签表达属性差异。",
+      "图层样式通过颜色、填充、线型、标签表达属性差异。",
+      "使复杂约束数据可读、可判别。"
+    ],
+    "aliases": [
+      "地图图层样式是什么？",
+      "地图图层样式有什么作用？",
+      "如何理解地图图层样式？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_066_coordinate_system_check",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "坐标系统检查",
+    "knowledge_type": "operation",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "多源GIS与BIM数据集成前必须检查坐标系统和单位。",
+    "core_explanation": "多源GIS与BIM数据集成前必须检查坐标系统和单位。",
+    "plain_explanation": "多源GIS与BIM数据集成前必须检查坐标系统和单位。",
+    "engineering_meaning": "避免图层错位、距离错误和分析失真。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "坐标系统检查",
+      "coordinate_system_check",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "坐标系统检查是什么？; 坐标系统检查有什么作用？; 如何理解坐标系统检查？",
+    "source_chunks": "",
+    "embedding_text": "坐标系统检查。多源GIS与BIM数据集成前必须检查坐标系统和单位。 工程意义：避免图层错位、距离错误和分析失真。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "多源GIS与BIM数据集成前必须检查坐标系统和单位。",
+      "多源GIS与BIM数据集成前必须检查坐标系统和单位。",
+      "避免图层错位、距离错误和分析失真。"
+    ],
+    "aliases": [
+      "坐标系统检查是什么？",
+      "坐标系统检查有什么作用？",
+      "如何理解坐标系统检查？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_067_gdal_warp",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "GDAL Warp",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "GDAL Warp用于重采样、重投影、裁剪和批处理栅格数据。",
+    "core_explanation": "GDAL Warp用于重采样、重投影、裁剪和批处理栅格数据。",
+    "plain_explanation": "GDAL Warp用于重采样、重投影、裁剪和批处理栅格数据。",
+    "engineering_meaning": "是DEM进入BIM+GIS流程的常用工具。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "GDAL Warp",
+      "gdal_warp",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "GDAL Warp是什么？; GDAL Warp有什么作用？; 如何理解GDAL Warp？",
+    "source_chunks": "",
+    "embedding_text": "GDAL Warp。GDAL Warp用于重采样、重投影、裁剪和批处理栅格数据。 工程意义：是DEM进入BIM+GIS流程的常用工具。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "GDAL Warp用于重采样、重投影、裁剪和批处理栅格数据。",
+      "GDAL Warp用于重采样、重投影、裁剪和批处理栅格数据。",
+      "是DEM进入BIM+GIS流程的常用工具。"
+    ],
+    "aliases": [
+      "GDAL Warp是什么？",
+      "GDAL Warp有什么作用？",
+      "如何理解GDAL Warp？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_068_gdal_demprocessing",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "GDAL DEMProcessing",
+    "knowledge_type": "operation",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "DEMProcessing可生成坡度、坡向、山体阴影等派生栅格。",
+    "core_explanation": "DEMProcessing可生成坡度、坡向、山体阴影等派生栅格。",
+    "plain_explanation": "DEMProcessing可生成坡度、坡向、山体阴影等派生栅格。",
+    "engineering_meaning": "服务地形分析和风险评价。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "GDAL DEMProcessing",
+      "gdal_demprocessing",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "GDAL DEMProcessing是什么？; GDAL DEMProcessing有什么作用？; 如何理解GDAL DEMProcessing？",
+    "source_chunks": "",
+    "embedding_text": "GDAL DEMProcessing。DEMProcessing可生成坡度、坡向、山体阴影等派生栅格。 工程意义：服务地形分析和风险评价。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "DEMProcessing可生成坡度、坡向、山体阴影等派生栅格。",
+      "DEMProcessing可生成坡度、坡向、山体阴影等派生栅格。",
+      "服务地形分析和风险评价。"
+    ],
+    "aliases": [
+      "GDAL DEMProcessing是什么？",
+      "GDAL DEMProcessing有什么作用？",
+      "如何理解GDAL DEMProcessing？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_069_gdal_nodata",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "NoData设置",
+    "knowledge_type": "parameter",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "NoData用于标识无效或保留像元，避免统计和分类错误。",
+    "core_explanation": "NoData用于标识无效或保留像元，避免统计和分类错误。",
+    "plain_explanation": "NoData用于标识无效或保留像元，避免统计和分类错误。",
+    "engineering_meaning": "保证栅格分析的可靠性。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "NoData设置",
+      "gdal_nodata",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "NoData设置是什么？; NoData设置有什么作用？; 如何理解NoData设置？",
+    "source_chunks": "",
+    "embedding_text": "NoData设置。NoData用于标识无效或保留像元，避免统计和分类错误。 工程意义：保证栅格分析的可靠性。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "NoData用于标识无效或保留像元，避免统计和分类错误。",
+      "NoData用于标识无效或保留像元，避免统计和分类错误。",
+      "保证栅格分析的可靠性。"
+    ],
+    "aliases": [
+      "NoData设置是什么？",
+      "NoData设置有什么作用？",
+      "如何理解NoData设置？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_070_reclass_threshold",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec03",
+    "title": "重分类阈值",
+    "knowledge_type": "parameter",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "重分类阈值定义不同坡度或风险等级的边界。",
+    "core_explanation": "重分类阈值定义不同坡度或风险等级的边界。",
+    "plain_explanation": "重分类阈值定义不同坡度或风险等级的边界。",
+    "engineering_meaning": "直接影响成本面和敏感性等级。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "重分类阈值",
+      "reclass_threshold",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "重分类阈值是什么？; 重分类阈值有什么作用？; 如何理解重分类阈值？",
+    "source_chunks": "",
+    "embedding_text": "重分类阈值。重分类阈值定义不同坡度或风险等级的边界。 工程意义：直接影响成本面和敏感性等级。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "重分类阈值定义不同坡度或风险等级的边界。",
+      "重分类阈值定义不同坡度或风险等级的边界。",
+      "直接影响成本面和敏感性等级。"
+    ],
+    "aliases": [
+      "重分类阈值是什么？",
+      "重分类阈值有什么作用？",
+      "如何理解重分类阈值？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_071_risk_quantitative_metrics",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "风险量化指标",
+    "knowledge_type": "concept",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "风险量化指标包括高敏感区新增面积、平均敏感性变化率和累积风险评分。",
+    "core_explanation": "风险量化指标包括高敏感区新增面积、平均敏感性变化率和累积风险评分。",
+    "plain_explanation": "风险量化指标包括高敏感区新增面积、平均敏感性变化率和累积风险评分。",
+    "engineering_meaning": "用于中观方案比选。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "风险量化指标",
+      "risk_quantitative_metrics",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "风险量化指标是什么？; 风险量化指标有什么作用？; 如何理解风险量化指标？",
+    "source_chunks": "",
+    "embedding_text": "风险量化指标。风险量化指标包括高敏感区新增面积、平均敏感性变化率和累积风险评分。 工程意义：用于中观方案比选。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "风险量化指标包括高敏感区新增面积、平均敏感性变化率和累积风险评分。",
+      "风险量化指标包括高敏感区新增面积、平均敏感性变化率和累积风险评分。",
+      "用于中观方案比选。"
+    ],
+    "aliases": [
+      "风险量化指标是什么？",
+      "风险量化指标有什么作用？",
+      "如何理解风险量化指标？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_072_knowledge_rule",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "地质选线规则",
+    "knowledge_type": "software_object",
+    "difficulty": "综合",
+    "importance": "重要",
+    "definition": "规则把灾害类型、规模、活动性与推荐处治方案之间的逻辑显性化。",
+    "core_explanation": "规则把灾害类型、规模、活动性与推荐处治方案之间的逻辑显性化。",
+    "plain_explanation": "规则把灾害类型、规模、活动性与推荐处治方案之间的逻辑显性化。",
+    "engineering_meaning": "支持RBR规则推理。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "地质选线规则",
+      "knowledge_rule",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "地质选线规则是什么？; 地质选线规则有什么作用？; 如何理解地质选线规则？",
+    "source_chunks": "",
+    "embedding_text": "地质选线规则。规则把灾害类型、规模、活动性与推荐处治方案之间的逻辑显性化。 工程意义：支持RBR规则推理。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "规则把灾害类型、规模、活动性与推荐处治方案之间的逻辑显性化。",
+      "规则把灾害类型、规模、活动性与推荐处治方案之间的逻辑显性化。",
+      "支持RBR规则推理。"
+    ],
+    "aliases": [
+      "地质选线规则是什么？",
+      "地质选线规则有什么作用？",
+      "如何理解地质选线规则？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_073_context_fact",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "情境事实",
+    "knowledge_type": "software_object",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "情境事实是从当前设计与GIS图层关系中提取的空间与属性事实。",
+    "core_explanation": "情境事实是从当前设计与GIS图层关系中提取的空间与属性事实。",
+    "plain_explanation": "情境事实是从当前设计与GIS图层关系中提取的空间与属性事实。",
+    "engineering_meaning": "作为推理引擎输入。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "情境事实",
+      "context_fact",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "情境事实是什么？; 情境事实有什么作用？; 如何理解情境事实？",
+    "source_chunks": "",
+    "embedding_text": "情境事实。情境事实是从当前设计与GIS图层关系中提取的空间与属性事实。 工程意义：作为推理引擎输入。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "情境事实是从当前设计与GIS图层关系中提取的空间与属性事实。",
+      "情境事实是从当前设计与GIS图层关系中提取的空间与属性事实。",
+      "作为推理引擎输入。"
+    ],
+    "aliases": [
+      "情境事实是什么？",
+      "情境事实有什么作用？",
+      "如何理解情境事实？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch09_074_interactive_feedback",
+    "chapter_id": "ch09",
+    "section_id": "ch09_sec04",
+    "title": "交互式反馈",
+    "knowledge_type": "process",
+    "difficulty": "中等",
+    "importance": "重要",
+    "definition": "交互式反馈以提示、警示、案例参考和规则建议形式返回给设计人员。",
+    "core_explanation": "交互式反馈以提示、警示、案例参考和规则建议形式返回给设计人员。",
+    "plain_explanation": "交互式反馈以提示、警示、案例参考和规则建议形式返回给设计人员。",
+    "engineering_meaning": "保持人机协同而非自动替代工程判断。",
+    "application_scenario": "道路正向设计、空间约束识别、路线方案比选或BIM+GIS协同分析。",
+    "common_mistakes": [
+      "把该内容理解为单纯软件操作，忽视其在BIM+GIS协同流程中的数据、模型或反馈作用。"
+    ],
+    "correction_explanation": "应从任务目标、输入数据、处理流程、输出成果和与其他对象的关系来理解。",
+    "answer_strategy": "先给定义，再说明在第九章BIM+GIS工作流中的作用，必要时补充操作步骤或典型场景。",
+    "answer_boundary": "不扩展到教材未涉及的软件高级功能；如涉及API代码，只解释核心对象和调用目的。",
+    "keywords": [
+      "交互式反馈",
+      "interactive_feedback",
+      "BIM+GIS",
+      "Civil 3D",
+      "Map 3D",
+      "GDAL"
+    ],
+    "student_question_patterns": "交互式反馈是什么？; 交互式反馈有什么作用？; 如何理解交互式反馈？",
+    "source_chunks": "",
+    "embedding_text": "交互式反馈。交互式反馈以提示、警示、案例参考和规则建议形式返回给设计人员。 工程意义：保持人机协同而非自动替代工程判断。 适用场景：道路正向设计中的BIM+GIS集成。",
+    "key_points": [
+      "交互式反馈以提示、警示、案例参考和规则建议形式返回给设计人员。",
+      "交互式反馈以提示、警示、案例参考和规则建议形式返回给设计人员。",
+      "保持人机协同而非自动替代工程判断。"
+    ],
+    "aliases": [
+      "交互式反馈是什么？",
+      "交互式反馈有什么作用？",
+      "如何理解交互式反馈？"
+    ],
+    "related_kps": [],
+    "source_hint": "",
+    "status": "checked"
+  }
+]
