@@ -531,3 +531,46 @@ P2 分级结果：
 | proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_ch11_p3_scene_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
 | 进度预览 | 51 条中 43 条非空 proposed，完成度预览 84.31%，剩余 8 条 P4 |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
+
+## ch11 P4 边界/摘要复核包与全量 proposed 草案
+
+本轮处理最后一组 `P4_ch11_boundary_summary` 的 8 条待复核项，生成第11章 P4 专项复核包，并在上一轮 P3 场景 proposed 基础上叠加 P4 自动建议，形成覆盖 51 条 Source_Chunks 复核项的全量非正式 proposed 草案。该文件仍然不作为 formal 输入，不能直接视为人工审批完成。
+
+新增文件：
+| 文件 | 用途 |
+|---|---|
+| `scripts/build_ch11_p4_source_review_packet.py` | 生成第11章 P4 边界片段/教学摘要复核包 |
+| `scripts/build_ch10_ch11_full_proposed_approvals.py` | 生成覆盖 51 条复核项的全量非正式 proposed 草案 |
+| `output/ch11_p4_source_review_packet_2026-06-05.json` | 结构化 P4 复核包，含候选段落和前后文 |
+| `output/ch11_p4_source_review_packet_2026-06-05.md` | 人工阅读版 P4 复核报告 |
+| `output/ch11_p4_source_review_packet_2026-06-05.csv` | 表格版 P4 复核清单 |
+| `data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json` | 51 条全覆盖非正式 proposed 草案，不作为 formal 输入 |
+| `output/ch10_ch11_source_review_progress_full_proposed_2026-06-05.json` | 基于全量 proposed 的进度预览 |
+| `output/ch10_ch11_source_review_progress_full_proposed_2026-06-05.md` | 基于全量 proposed 的进度预览报告 |
+
+P4 分级结果：
+| 类型 | 数量 | 建议 decision |
+|---|---:|---|
+| 边界片段复核 | 2 | `confirm_boundary_fragment` |
+| 教学摘要术语支撑复核 | 6 | `confirm_teaching_summary` |
+| 合计 | 8 | - |
+
+全量 proposed 结果：
+| 项目 | 数量 |
+|---|---:|
+| 全文件 decision 条目 | 51 |
+| 非空 proposed decision | 51 |
+| 剩余空 decision | 0 |
+| `confirm_candidate_anchor` | 5 |
+| `confirm_boundary_fragment` | 7 |
+| `confirm_teaching_summary` | 9 |
+| `manual_anchor_pending` | 30 |
+
+验证结果：
+| 检查项 | 结果 |
+|---|---|
+| 脚本编译 | `py -m py_compile scripts/build_ch11_p4_source_review_packet.py scripts/build_ch10_ch11_full_proposed_approvals.py` 通过 |
+| P4 复核包生成 | 8 条 `P4_ch11_boundary_summary` 全部进入 JSON/Markdown/CSV |
+| full proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
+| 进度预览 | 51 条 proposed 全覆盖，预览完成度 100.0% |
+| 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |

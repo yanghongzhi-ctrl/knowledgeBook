@@ -1,0 +1,495 @@
+{
+  "source_approvals": "D:\\knowledgebase\\data\\review\\ch10_ch11_p3_scene_source_boundary_manual_approvals.proposed.json",
+  "source_docx": "F:\\编书\\道路工程数字设计方法\\05脚本及图片素材\\批注版-道路工程数字设计方法-数字化教材稿.docx",
+  "chapter_id": "ch11",
+  "priority_group": "P4_ch11_boundary_summary",
+  "purpose": "Focused P4 review packet for ch11 boundary fragments and teaching summaries. Suggestions are not manual approvals.",
+  "items": [
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_123",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "current_decision": "",
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "通过基于规则的推理（RBR）机制，系统可自动对生成方案进行规范条文比对，及时识别不符合强制性标准的设计要素。 （3）多目标帕累托决策支持 综合工程造价、碳排放及土地占用等多维指标，系统向设计人员提供一组在经济性、环保性与工程性能之间达到平衡的帕累托最优解集，辅助设计决策由经验主导向“数据—知识协同驱动”转变。",
+      "candidate_score": 0.208095,
+      "score_margin": 0.000915,
+      "candidate_span": {
+        "start": 5555,
+        "end": 5557
+      },
+      "candidate_text": "（2）全生命周期价值评估 决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。 第三节 道路数字孪生典型应用场景",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:转变,第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "转变",
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "context": [
+        {
+          "paragraph": 5553,
+          "role": "context",
+          "text": "（1）辅助决策推荐"
+        },
+        {
+          "paragraph": 5554,
+          "role": "context",
+          "text": "结合历史处置实例、专家规则与实时仿真结果，系统可为养护决策、交通组织调整及事故处置提供辅助性方案建议，支持管理人员快速形成决策判断。"
+        },
+        {
+          "paragraph": 5555,
+          "role": "candidate",
+          "text": "（2）全生命周期价值评估"
+        },
+        {
+          "paragraph": 5556,
+          "role": "candidate",
+          "text": "决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。"
+        },
+        {
+          "paragraph": 5557,
+          "role": "candidate",
+          "text": "第三节 道路数字孪生典型应用场景"
+        },
+        {
+          "paragraph": 5558,
+          "role": "context",
+          "text": "在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。"
+        },
+        {
+          "paragraph": 5559,
+          "role": "context",
+          "text": "一、数字化设计与多物理场仿真"
+        }
+      ],
+      "review_prompt": "核对候选段落是否为公式、列表或跨段边界片段。若边界可接受，使用 confirm_boundary_fragment；若需要拆分或补上下文，使用 split_required 或 manual_anchor_pending。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_154",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "current_decision": "",
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "面向全生命周期的资产价值管理 数字孪生不仅关注设施的结构安全与使用性能，还将经济性与服务水平纳入统一分析框架，推动道路养护由单纯的“技术管养”向“资产全生命周期管理”升级。 1. 养护策略的多目标优化决策",
+      "candidate_score": 0.411253,
+      "score_margin": 0.051755,
+      "candidate_span": {
+        "start": 5594,
+        "end": 5595
+      },
+      "candidate_text": "3.面向全生命周期的资产价值管理 将经济性与服务水平纳入分析框架，实现资产全生命周期管理升级。",
+      "candidate_reasons": [
+        "excerpt:0.44",
+        "summary:0.44",
+        "terms:面向全生命周期的资产价值,管理,资产全生命周期管理,升级"
+      ],
+      "matched_terms": [
+        "面向全生命周期的资产价值",
+        "管理",
+        "资产全生命周期管理",
+        "升级"
+      ],
+      "context": [
+        {
+          "paragraph": 5592,
+          "role": "context",
+          "text": "降阶模型与实测数据协同校准：通过实测数据反向修正物理模型参数，使虚拟模型逼近真实状态 ；利用时序变化特征进行损伤定位，辅助缩小排查范围 。"
+        },
+        {
+          "paragraph": 5593,
+          "role": "context",
+          "text": "中长期性能退化预测：引入物理信息神经网络（PINNs），基于 IRI、RD 等指标对未来 3～5 年路面性能进行预测 ；针对疲劳敏感构件，利用实测应力谱与 S–N 曲线评估剩余疲劳寿命 。"
+        },
+        {
+          "paragraph": 5594,
+          "role": "candidate",
+          "text": "3.面向全生命周期的资产价值管理"
+        },
+        {
+          "paragraph": 5595,
+          "role": "candidate",
+          "text": "将经济性与服务水平纳入分析框架，实现资产全生命周期管理升级。"
+        },
+        {
+          "paragraph": 5596,
+          "role": "context",
+          "text": "养护策略多目标优化决策：在数字孪生环境中开展全生命周期成本分析 ；通过比选路面性能提升幅度与性价比，辅助决策者确定最优养护时机，规避“过度养护”或“失养”风险 。"
+        },
+        {
+          "paragraph": 5597,
+          "role": "context",
+          "text": "数字化台账与资产价值动态评估：依托GUID与数字主线形成可追溯的全历程履历管理（“电子病历”） ；系统根据健康状态动态评估资产折旧与剩余价值，支撑更新改造及特许经营决策 。"
+        }
+      ],
+      "review_prompt": "核对候选段落是否为公式、列表或跨段边界片段。若边界可接受，使用 confirm_boundary_fragment；若需要拆分或补上下文，使用 split_required 或 manual_anchor_pending。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_118",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "（2）行车安全影响评价 分析横风环境下车辆的行驶稳定性，为挡风屏的设计提供科学依据。这体现了数字孪生“精准映射”的特征——不仅映射几何，更映射物理环境与动力响应。 AI 与数字孪生驱动的生成式设计",
+      "candidate_score": 0.218318,
+      "score_margin": 0.003617,
+      "candidate_span": {
+        "start": 5568,
+        "end": 5568
+      },
+      "candidate_text": "对于山区高墩桥梁或跨海大桥，数字孪生设计场景引入了风场仿真，，模拟峡谷风、强侧风或台风等典型风场条件，评估桥梁的抗风稳定性，评价横风环境下车辆的行驶稳定性，为挡风屏的设计提供科学依据。",
+      "candidate_reasons": [
+        "excerpt:0.25",
+        "summary:0.25",
+        "terms:稳定性,为挡风屏的设计提供科学依"
+      ],
+      "matched_terms": [
+        "稳定性",
+        "为挡风屏的设计提供科学依"
+      ],
+      "context": [
+        {
+          "paragraph": 5566,
+          "role": "context",
+          "text": "在高风险或地形复杂路段，数字孪生系统可基于厘米级精度的地表模型，引入计算流体力学（CFD）等数值模拟方法，对传统GIS静态淹没分析进行补充和深化。根据模拟结果，设计人员可动态优化边沟断面、涵洞孔径及排水泵站的布设，提升道路基础设施在极端气象条件下的防灾抗灾能力。"
+        },
+        {
+          "paragraph": 5567,
+          "role": "context",
+          "text": "3.复杂风场与结构动力稳定性"
+        },
+        {
+          "paragraph": 5568,
+          "role": "candidate",
+          "text": "对于山区高墩桥梁或跨海大桥，数字孪生设计场景引入了风场仿真，，模拟峡谷风、强侧风或台风等典型风场条件，评估桥梁的抗风稳定性，评价横风环境下车辆的行驶稳定性，为挡风屏的设计提供科学依据。"
+        },
+        {
+          "paragraph": 5569,
+          "role": "context",
+          "text": "二、施工全过程智能管控与数字交付"
+        },
+        {
+          "paragraph": 5570,
+          "role": "context",
+          "text": "施工阶段是数字孪生从“设计态”向“交付态”演进的关键环节，也是将虚拟模型转化为物理实体的过程。与传统以进度与质量结果为导向的施工管理模式不同，数字孪生技术在施工阶段的核心目标，是构建一个物理世界与虚拟世界实时映射、双向反馈的信息物理系统（Cyber-Physical Systems, CPS），实现施工过程的精细化管控以及高保真数字资产的无损交付，为后续运维阶段奠定可靠的数据基础，如图 11-9。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_120",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "（1）智能寻优与方案生成 集成遗传算法、粒子群算法等启发式搜索策略，数字孪生系统在三维地理空间中自动生成成百上千条可行路线。相较于传统人工选线，AI 算法能够遍历更广阔的解空间，发现人类经验可能忽略的更优路径。 （2）构件联动",
+      "candidate_score": 0.168405,
+      "score_margin": 0.000468,
+      "candidate_span": {
+        "start": 5557,
+        "end": 5558
+      },
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "context": [
+        {
+          "paragraph": 5555,
+          "role": "context",
+          "text": "（2）全生命周期价值评估"
+        },
+        {
+          "paragraph": 5556,
+          "role": "context",
+          "text": "决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。"
+        },
+        {
+          "paragraph": 5557,
+          "role": "candidate",
+          "text": "第三节 道路数字孪生典型应用场景"
+        },
+        {
+          "paragraph": 5558,
+          "role": "candidate",
+          "text": "在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。"
+        },
+        {
+          "paragraph": 5559,
+          "role": "context",
+          "text": "一、数字化设计与多物理场仿真"
+        },
+        {
+          "paragraph": 5560,
+          "role": "context",
+          "text": "数字孪生设计场景在既有BIM+GIS空间认知框架的基础上，引入时间维度与物理约束条件，使道路工程实体与自然环境之间形成可计算、可推演的动态耦合关系。典型应用场景如图 11-8。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_130",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "施工现场的信息物理系统（CPS）构建 依托物联网、边缘计算与新一代通信技术，将施工现场“人、机、料、法、环”等关键要素进行系统化感知与数字化表达，在数字孪生平台中构建与物理工地同步演化的“数字工地”，是施工阶段数字孪生应用的基础。 1.人机协同与安全主动防御",
+      "candidate_score": 0.423672,
+      "score_margin": 0.025696,
+      "candidate_span": {
+        "start": 5572,
+        "end": 5573
+      },
+      "candidate_text": "1.施工现场信息物理系统（CPS）构建 依托物联网与新一代通信技术，实现“人、机、料、法、环”关键要素的系统化感知，构建同步演化的“数字工地”。",
+      "candidate_reasons": [
+        "excerpt:0.45",
+        "summary:0.50",
+        "terms:CPS,构建,依托物联网,数字工地"
+      ],
+      "matched_terms": [
+        "CPS",
+        "构建",
+        "依托物联网",
+        "数字工地"
+      ],
+      "context": [
+        {
+          "paragraph": 5570,
+          "role": "context",
+          "text": "施工阶段是数字孪生从“设计态”向“交付态”演进的关键环节，也是将虚拟模型转化为物理实体的过程。与传统以进度与质量结果为导向的施工管理模式不同，数字孪生技术在施工阶段的核心目标，是构建一个物理世界与虚拟世界实时映射、双向反馈的信息物理系统（Cyber-Physical Systems, CPS），实现施工过程的精细化管控以及高保真数字资产的无损交付，为后续运维阶段奠定可靠的数据基础，如图 11-9。"
+        },
+        {
+          "paragraph": 5571,
+          "role": "context",
+          "text": "施工全过程智能管控与数字交付"
+        },
+        {
+          "paragraph": 5572,
+          "role": "candidate",
+          "text": "1.施工现场信息物理系统（CPS）构建"
+        },
+        {
+          "paragraph": 5573,
+          "role": "candidate",
+          "text": "依托物联网与新一代通信技术，实现“人、机、料、法、环”关键要素的系统化感知，构建同步演化的“数字工地”。"
+        },
+        {
+          "paragraph": 5574,
+          "role": "context",
+          "text": "人机协同与安全主动防御：利用UWB、GNSS-RTK等定位技术，实现人员与设备的轨迹感知 。通过虚拟电子围栏实现高风险区的主动预警，将安全管理由被动监控转向主动防护 ；利用姿态传感器构建施工机械姿态孪生，辅助远程调度与效率掌握 。"
+        },
+        {
+          "paragraph": 5575,
+          "role": "context",
+          "text": "4D/5D 动态推演与进度纠偏：集成BIM、进度（4D）与成本（5D）维度 。通过无人机等实测数据进行虚实进度对比，快速定位偏差区域 ；基于关键路径法开展情景推演，为资源配置与方案调整提供定量参考 。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_138",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "（1）全流程数据绑定与追溯 以构件的全局唯一标识符（GUID）为核心，将钢筋加工、混凝土浇筑、张拉养护等关键工艺数据进行结构化关联，形成可追溯的构件数字档案。 （2）虚拟预拼装与安装校核",
+      "candidate_score": 0.323128,
+      "score_margin": 0.0198,
+      "candidate_span": {
+        "start": 5579,
+        "end": 5579
+      },
+      "candidate_text": "预制构件数字孪生追溯管理：以 GUID 为核心实现全流程数据绑定，形成可追溯的构件数字档案 。在吊装前通过虚拟预拼装与安装校核识别空间偏差，提升一次安装成功率 。",
+      "candidate_reasons": [
+        "excerpt:0.30",
+        "summary:0.30",
+        "terms:GUID,为核心,形成可追溯的构件数字档案,虚拟预拼装与安装校核"
+      ],
+      "matched_terms": [
+        "GUID",
+        "为核心",
+        "形成可追溯的构件数字档案",
+        "虚拟预拼装与安装校核"
+      ],
+      "context": [
+        {
+          "paragraph": 5577,
+          "role": "context",
+          "text": "将质量管理前移至“事中控制”，通过实时数据驱动施工行为，提升工程一致性。"
+        },
+        {
+          "paragraph": 5578,
+          "role": "context",
+          "text": "路基路面智能压实与摊铺控制：集成高精度定位与无损检测传感器 。通过压实状态实时可视化引导针对性补压 ；利用红外热成像开展温度场与离析监控，预防早期病害，提升路面耐久性。"
+        },
+        {
+          "paragraph": 5579,
+          "role": "candidate",
+          "text": "预制构件数字孪生追溯管理：以 GUID 为核心实现全流程数据绑定，形成可追溯的构件数字档案 。在吊装前通过虚拟预拼装与安装校核识别空间偏差，提升一次安装成功率 。"
+        },
+        {
+          "paragraph": 5580,
+          "role": "context",
+          "text": "3.基于数字主线的数字化交付"
+        },
+        {
+          "paragraph": 5581,
+          "role": "context",
+          "text": "推动从交付“工程成果”向交付“数字资产与服务能力”转型，实现“竣工即孪生” 。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_149",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "通过车载机器视觉系统采集高分辨率路面影像，结合深度学习算法自动识别裂缝、坑槽、修补区等典型病害，并将其精确映射至数字孪生模型对应位置（LOD 3 级），形成直观的病害空间分布图，为养护决策提供可视化依据。 物理—数据混合驱动的诊断与性能预测 单纯依赖数据驱动模型在样本规模受限或工况变化较大时易出现泛化能力不足，而纯物理模型则难以满足实时计算需求。为此，道路数",
+      "candidate_score": 0.269509,
+      "score_margin": 0.010034,
+      "candidate_span": {
+        "start": 5589,
+        "end": 5590
+      },
+      "candidate_text": "隐蔽工程与表观病害识别：通过探地雷达扫描路面内部介质，识别基层脱空等隐蔽病害 ；利用车载机器视觉系统与深度学习算法自动识别表观病害，并精确映射至LOD 3级模型。 2.物理—数据混合驱动的诊断与性能预测",
+      "candidate_reasons": [
+        "excerpt:0.26",
+        "summary:0.27",
+        "terms:LOD,物理,数据混合驱动的诊断与性能,预测"
+      ],
+      "matched_terms": [
+        "LOD",
+        "物理",
+        "数据混合驱动的诊断与性能",
+        "预测"
+      ],
+      "context": [
+        {
+          "paragraph": 5587,
+          "role": "context",
+          "text": "依托动态感知网络形成全寿命周期结构健康档案，捕捉微小结构变化 。"
+        },
+        {
+          "paragraph": 5588,
+          "role": "context",
+          "text": "力学与动力特性监测：利用光纤光栅传感器实时感知应力—应变状态，结合降阶模型推算整体受力 ；通过加速度计提取自振频率等参数识别“结构指纹”，对性能退化实现分级预警。"
+        },
+        {
+          "paragraph": 5589,
+          "role": "candidate",
+          "text": "隐蔽工程与表观病害识别：通过探地雷达扫描路面内部介质，识别基层脱空等隐蔽病害 ；利用车载机器视觉系统与深度学习算法自动识别表观病害，并精确映射至LOD 3级模型。"
+        },
+        {
+          "paragraph": 5590,
+          "role": "candidate",
+          "text": "2.物理—数据混合驱动的诊断与性能预测"
+        },
+        {
+          "paragraph": 5591,
+          "role": "context",
+          "text": "采用混合建模策略，在保证工程机理合理性的同时提升实时计算与预测时效 。"
+        },
+        {
+          "paragraph": 5592,
+          "role": "context",
+          "text": "降阶模型与实测数据协同校准：通过实测数据反向修正物理模型参数，使虚拟模型逼近真实状态 ；利用时序变化特征进行损伤定位，辅助缩小排查范围 。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_157",
+      "priority_group": "P4_ch11_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "在数字孪生体系中，每一项道路设施均对应唯一的数字身份标识（GUID），并通过数字主线实现信息的连续传递。 （1）全历程履历管理 设施的设计参数、施工质量记录、运行监测数据及历次养护信息被系统性关联，形成可追溯的“电子病历”，为后续管理与责任追溯提供依据。",
+      "candidate_score": 0.20273,
+      "score_margin": 0.001398,
+      "candidate_span": {
+        "start": 5557,
+        "end": 5558
+      },
+      "candidate_text": "第三节 道路数字孪生典型应用场景 在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。",
+      "candidate_reasons": [
+        "heading:1.00",
+        "terms:第三节,道路数字孪生典型应用场景"
+      ],
+      "matched_terms": [
+        "第三节",
+        "道路数字孪生典型应用场景"
+      ],
+      "context": [
+        {
+          "paragraph": 5555,
+          "role": "context",
+          "text": "（2）全生命周期价值评估"
+        },
+        {
+          "paragraph": 5556,
+          "role": "context",
+          "text": "决策支持不应局限于短期运行效果，还应结合数字孪生长期积累的数据，对决策方案在设施性能演化、路网运行效率、社会服务水平及资源投入等方面的综合影响进行评估。这体现了道路工程管理由传统“经验驱动”向“数据与机理混合驱动”的转变，是提升行业治理体系与治理能力现代化的重要技术支撑。"
+        },
+        {
+          "paragraph": 5557,
+          "role": "candidate",
+          "text": "第三节 道路数字孪生典型应用场景"
+        },
+        {
+          "paragraph": 5558,
+          "role": "candidate",
+          "text": "在道路工程的全生命周期中，数字孪生技术通过构建“数字原型”与物理实体的动态映射，将传统孤立的工程环节转化为连续的价值链条。本节重点介绍数字孪生在设计、施工、养护与运营四个阶段的典型业务实践。"
+        },
+        {
+          "paragraph": 5559,
+          "role": "context",
+          "text": "一、数字化设计与多物理场仿真"
+        },
+        {
+          "paragraph": 5560,
+          "role": "context",
+          "text": "数字孪生设计场景在既有BIM+GIS空间认知框架的基础上，引入时间维度与物理约束条件，使道路工程实体与自然环境之间形成可计算、可推演的动态耦合关系。典型应用场景如图 11-8。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    }
+  ],
+  "summary": {
+    "total": 8,
+    "filled": 0,
+    "open": 8,
+    "by_review_status": {
+      "boundary_fragment_review": 2,
+      "term_supported_summary_review": 6
+    },
+    "by_suggested_decision": {
+      "confirm_boundary_fragment": 2,
+      "confirm_teaching_summary": 6
+    }
+  }
+}

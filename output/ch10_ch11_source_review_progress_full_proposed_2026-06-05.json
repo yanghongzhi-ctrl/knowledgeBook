@@ -1,0 +1,122 @@
+{
+  "generated_at": "2026-06-05T14:17:17",
+  "source_approvals": "data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+  "source_scene_packet": "D:\\knowledgebase\\output\\ch11_application_scene_review_packet_2026-06-05.json",
+  "summary": {
+    "total": 51,
+    "filled": 51,
+    "open": 0,
+    "completion_percent": 100.0,
+    "decisions": {
+      "confirm_boundary_fragment": 7,
+      "confirm_candidate_anchor": 5,
+      "confirm_teaching_summary": 9,
+      "manual_anchor_pending": 30
+    }
+  },
+  "by_chapter": [
+    {
+      "name": "ch10",
+      "total": 13,
+      "filled": 13,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "ch11",
+      "total": 38,
+      "filled": 38,
+      "open": 0,
+      "completion_percent": 100.0
+    }
+  ],
+  "by_priority": [
+    {
+      "name": "P1_ch10_quick_confirm",
+      "total": 4,
+      "filled": 4,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "P1_ch10_formula_gap",
+      "total": 1,
+      "filled": 1,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "P2_ch10_boundary_summary",
+      "total": 8,
+      "filled": 8,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "P2_ch11_quick_confirm",
+      "total": 1,
+      "filled": 1,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "P3_ch11_application_scene_manual",
+      "total": 29,
+      "filled": 29,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "P4_ch11_boundary_summary",
+      "total": 8,
+      "filled": 8,
+      "open": 0,
+      "completion_percent": 100.0
+    }
+  ],
+  "by_scene": [
+    {
+      "name": "全生命周期资产管理与价值评估",
+      "total": 3,
+      "filled": 3,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "基于数字主线的数字化交付",
+      "total": 4,
+      "filled": 4,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "数字化设计与多物理场仿真",
+      "total": 9,
+      "filled": 9,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "智慧交通治理与韧性服务",
+      "total": 1,
+      "filled": 1,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "智能化施工与质量闭环控制",
+      "total": 5,
+      "filled": 5,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "预测性养护与结构健康监测",
+      "total": 7,
+      "filled": 7,
+      "open": 0,
+      "completion_percent": 100.0
+    }
+  ],
+  "next_items": []
+}
