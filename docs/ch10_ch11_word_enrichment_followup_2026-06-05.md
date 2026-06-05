@@ -487,3 +487,47 @@ P2 分级结果：
 | 复核包生成 | 1 条 `P2_ch11_quick_confirm` 进入 JSON/Markdown/CSV |
 | proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_ch11_p2_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
+
+## ch11 P3 应用场景批次 proposed 草案
+
+本轮进入第11章 `P3_ch11_application_scene_manual` 的 29 条应用场景复核项。新增命令行批处理脚本，读取既有场景分组包与上一轮 P2 累积 proposed，按场景为 P3 条目填入保守的 `manual_anchor_pending` 建议。该建议只表示“已按场景进入人工补锚点队列”，不表示概念锚点已确认，也不表示教材逐字证据。
+
+新增文件：
+| 文件 | 用途 |
+|---|---|
+| `scripts/build_ch11_scene_proposed_approvals.py` | 生成 ch11 P3 场景批次非正式 proposed 草案与摘要 |
+| `data/review/ch10_ch11_p3_scene_source_boundary_manual_approvals.proposed.json` | P1、ch10 P2、ch11 P2、ch11 P3 累积 proposed 草案，不作为 formal 输入 |
+| `output/ch11_scene_proposed_approvals_summary_2026-06-05.json` | P3 场景批次结构化摘要 |
+| `output/ch11_scene_proposed_approvals_summary_2026-06-05.md` | P3 场景批次人工阅读摘要 |
+| `output/ch11_scene_proposed_approvals_summary_2026-06-05.csv` | P3 场景批次表格清单 |
+| `output/ch10_ch11_source_review_progress_p3_scene_proposed_2026-06-05.json` | 基于该 proposed 草案的进度预览 |
+| `output/ch10_ch11_source_review_progress_p3_scene_proposed_2026-06-05.md` | 基于该 proposed 草案的进度预览报告 |
+
+场景批次结果：
+| 项目 | 数量 |
+|---|---:|
+| P3 场景项总数 | 29 |
+| 本轮新增 `manual_anchor_pending` | 29 |
+| 累积非空 decision | 43 |
+| 剩余空 decision | 8 |
+| 累积 `confirm_candidate_anchor` | 5 |
+| 累积 `confirm_boundary_fragment` | 5 |
+| 累积 `confirm_teaching_summary` | 3 |
+| 累积 `manual_anchor_pending` | 30 |
+
+按 proposed 预览的优先级进度：
+| 优先级 | 状态 |
+|---|---|
+| P1 ch10 quick/formula | 已有 5 条 proposed |
+| P2 ch10 boundary/summary | 已有 8 条 proposed |
+| P2 ch11 quick confirm | 已有 1 条 proposed |
+| P3 ch11 application scene | 本轮新增 29 条 proposed |
+| P4 ch11 boundary/summary | 仍剩 8 条待处理 |
+
+验证结果：
+| 检查项 | 结果 |
+|---|---|
+| 脚本编译 | `py -m py_compile scripts/build_ch11_scene_proposed_approvals.py` 通过 |
+| proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_ch11_p3_scene_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
+| 进度预览 | 51 条中 43 条非空 proposed，完成度预览 84.31%，剩余 8 条 P4 |
+| 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
