@@ -1,0 +1,85 @@
+{
+  "source_approvals": "D:\\knowledgebase\\data\\review\\ch10_ch11_source_boundary_manual_approvals.draft.json",
+  "source_docx": "F:\\编书\\道路工程数字设计方法\\05脚本及图片素材\\批注版-道路工程数字设计方法-数字化教材稿.docx",
+  "chapter_id": "ch11",
+  "priority_group": "P2_ch11_quick_confirm",
+  "purpose": "Focused P2 quick-confirm packet for ch11 candidate anchors. Suggestions are not manual approvals.",
+  "items": [
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_046",
+      "priority_group": "P2_ch11_quick_confirm",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "current_decision": "",
+      "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+      "source_excerpt": "3.环境边界与路面效应感知 环境边界条件是评价道路运行安全与环境效应的重要依据。 （1）路面状态感知",
+      "candidate_score": 0.88717,
+      "score_margin": 0.058418,
+      "candidate_span": {
+        "start": 5362,
+        "end": 5364
+      },
+      "candidate_text": "3.环境边界与路面状态感知 环境边界条件是评价道路运行安全与环境效应的重要依据。 （1）路面状态感知",
+      "candidate_reasons": [
+        "excerpt:0.92",
+        "summary:0.92",
+        "terms:环境边界条件是评价道路运,行安全与环境效应的重要依,路面状态感知"
+      ],
+      "matched_terms": [
+        "环境边界条件是评价道路运",
+        "行安全与环境效应的重要依",
+        "路面状态感知"
+      ],
+      "context": [
+        {
+          "paragraph": 5360,
+          "role": "context",
+          "text": "（2）网联数据与协同感知"
+        },
+        {
+          "paragraph": 5361,
+          "role": "context",
+          "text": "依托车路协同技术，通过路侧单元获取具备网联功能车辆的运行状态信息，如制动行为、加速度变化等。该类数据作为路侧感知的重要补充，有助于提升数字孪生系统对突发交通事件的识别能力和响应时效。"
+        },
+        {
+          "paragraph": 5362,
+          "role": "candidate",
+          "text": "3.环境边界与路面状态感知"
+        },
+        {
+          "paragraph": 5363,
+          "role": "candidate",
+          "text": "环境边界条件是评价道路运行安全与环境效应的重要依据。"
+        },
+        {
+          "paragraph": 5364,
+          "role": "candidate",
+          "text": "（1）路面状态感知"
+        },
+        {
+          "paragraph": 5365,
+          "role": "context",
+          "text": "应结合道路管养需求，实时监测路面水膜厚度、积雪深度、结冰温度、路面摩擦系数及表面含盐量等指标。这些状态因子直接影响车辆运行安全评价结果，是数字孪生系统开展风险识别与预警分析的重要数据来源。"
+        },
+        {
+          "paragraph": 5366,
+          "role": "context",
+          "text": "（2）微气象与边界监测"
+        }
+      ],
+      "review_prompt": "核对 Source_Chunk 与候选 Word 段落是否表达同一概念。若可支撑，使用 confirm_candidate_anchor；若不充分，使用 manual_anchor_pending 或 reject_candidate。"
+    }
+  ],
+  "summary": {
+    "total": 1,
+    "filled": 0,
+    "open": 1,
+    "by_review_status": {
+      "candidate_anchor_review": 1
+    },
+    "by_suggested_decision": {
+      "confirm_candidate_anchor": 1
+    }
+  }
+}

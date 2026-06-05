@@ -449,3 +449,41 @@ P2 分级结果：
 | 复核包生成 | 8 条 P2 全部进入 JSON/Markdown/CSV |
 | proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_p2_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
+
+## ch11 P2 快速确认复核包与累积建议草案
+
+本轮继续处理 `P2_ch11_quick_confirm` 的 1 条待复核项 `ch11_src_046`。该条属于 `candidate_anchor_review`，候选 Word 段落为 5362-5364，建议作为概念锚点确认。新增的累积 proposed 文件以上一轮 `ch10_p2` proposed 为基础，叠加本轮 ch11 P2 建议，仍然不作为 formal 输入。
+
+新增文件：
+| 文件 | 用途 |
+|---|---|
+| `scripts/build_ch11_p2_quick_review_packet.py` | 生成第11章 P2 快速确认复核包 |
+| `scripts/build_ch10_ch11_p2_proposed_approvals.py` | 生成覆盖 P1、ch10 P2、ch11 P2 的累积非正式 proposed 草案 |
+| `output/ch11_p2_quick_source_review_packet_2026-06-05.json` | 结构化 ch11 P2 复核包，含候选段落和前后文 |
+| `output/ch11_p2_quick_source_review_packet_2026-06-05.md` | 人工阅读版 ch11 P2 复核报告 |
+| `output/ch11_p2_quick_source_review_packet_2026-06-05.csv` | 表格版 ch11 P2 复核清单 |
+| `data/review/ch10_ch11_p2_source_boundary_manual_approvals.proposed.json` | 累积非正式建议草案，不作为 formal 输入 |
+
+本轮分级结果：
+| 类型 | 数量 | 建议 decision |
+|---|---:|---|
+| ch11 候选概念锚点复核 | 1 | `confirm_candidate_anchor` |
+
+累积 proposed 结果：
+| 项目 | 数量 |
+|---|---:|
+| 全文件 decision 条目 | 51 |
+| 累积非空 decision | 14 |
+| 本轮新增 ch11 P2 建议 | 1 |
+| 累积 `confirm_candidate_anchor` | 5 |
+| 累积 `confirm_boundary_fragment` | 5 |
+| 累积 `confirm_teaching_summary` | 3 |
+| 累积 `manual_anchor_pending` | 1 |
+
+验证结果：
+| 检查项 | 结果 |
+|---|---|
+| 脚本编译 | `py -m py_compile scripts/build_ch11_p2_quick_review_packet.py scripts/build_ch10_ch11_p2_proposed_approvals.py` 通过 |
+| 复核包生成 | 1 条 `P2_ch11_quick_confirm` 进入 JSON/Markdown/CSV |
+| proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_ch11_p2_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
+| 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |

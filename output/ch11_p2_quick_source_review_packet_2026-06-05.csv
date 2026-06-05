@@ -1,0 +1,2 @@
+﻿chapter_id,chunk_id,review_status,suggested_decision,current_decision,candidate_start,candidate_end,candidate_score,score_margin,source_excerpt,candidate_text,review_prompt
+ch11,ch11_src_046,candidate_anchor_review,confirm_candidate_anchor,,5362,5364,0.88717,0.058418,3.环境边界与路面效应感知 环境边界条件是评价道路运行安全与环境效应的重要依据。 （1）路面状态感知,3.环境边界与路面状态感知 环境边界条件是评价道路运行安全与环境效应的重要依据。 （1）路面状态感知,核对 Source_Chunk 与候选 Word 段落是否表达同一概念。若可支撑，使用 confirm_candidate_anchor；若不充分，使用 manual_anchor_pending 或 reject_candidate。
