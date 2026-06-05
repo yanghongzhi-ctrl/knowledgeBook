@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE_DIR = Path("C:/Users/Michael/Desktop/knowledge")
 ENRICHMENT_PATH = ROOT / "output" / "ch10_ch11_word_enrichment_2026-06-05.json"
 BOUNDARY_REVIEW_PATH = ROOT / "output" / "ch10_ch11_source_boundary_review_2026-06-05.json"
+EVIDENCE_GRADING_PATH = ROOT / "data" / "review" / "ch10_ch11_full_source_boundary_manual_approvals.proposed.json"
 MANUAL_APPROVALS_PATH = ROOT / "data" / "review" / "ch10_ch11_source_boundary_manual_approvals.json"
 ASSET_ROOT = Path("F:/编书/道路工程数字设计方法/05脚本及图片素材")
 
@@ -60,17 +61,36 @@ def main() -> int:
     parser.add_argument("--asset-root", type=Path, default=ASSET_ROOT)
     parser.add_argument("--enrichment", type=Path, default=ENRICHMENT_PATH)
     parser.add_argument("--boundary-review", type=Path, default=BOUNDARY_REVIEW_PATH)
+    parser.add_argument("--evidence-grading", type=Path, default=EVIDENCE_GRADING_PATH)
     parser.add_argument("--manual-approvals", type=Path, default=MANUAL_APPROVALS_PATH)
     args = parser.parse_args()
 
     summaries = []
     for chapter_id in args.chapters:
-        summaries.append(normalize_chapter(chapter_id, args.source_dir, args.asset_root, args.enrichment, args.boundary_review, args.manual_approvals))
+        summaries.append(
+            normalize_chapter(
+                chapter_id,
+                args.source_dir,
+                args.asset_root,
+                args.enrichment,
+                args.boundary_review,
+                args.evidence_grading,
+                args.manual_approvals,
+            )
+        )
     print(json.dumps(summaries, ensure_ascii=False, indent=2))
     return 0
 
 
-def normalize_chapter(chapter_id: str, source_dir: Path, asset_root: Path, enrichment_path: Path, boundary_review_path: Path, manual_approvals_path: Path) -> dict[str, Any]:
+def normalize_chapter(
+    chapter_id: str,
+    source_dir: Path,
+    asset_root: Path,
+    enrichment_path: Path,
+    boundary_review_path: Path,
+    evidence_grading_path: Path,
+    manual_approvals_path: Path,
+) -> dict[str, Any]:
     config = CHAPTERS[chapter_id]
     source_json = first_match(source_dir, config["json_pattern"])
     source_jsonl = first_match(source_dir, config["jsonl_pattern"], required=False)
@@ -80,7 +100,16 @@ def normalize_chapter(chapter_id: str, source_dir: Path, asset_root: Path, enric
     if isinstance(raw.get("metadata"), dict):
         data["metadata"] = raw["metadata"]
 
-    normalize_package(chapter_id, data, config, asset_root, enrichment_path, boundary_review_path, manual_approvals_path)
+    normalize_package(
+        chapter_id,
+        data,
+        config,
+        asset_root,
+        enrichment_path,
+        boundary_review_path,
+        evidence_grading_path,
+        manual_approvals_path,
+    )
 
     output_dir = ROOT / "data/raw" / chapter_id
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -112,7 +141,16 @@ def first_match(root: Path, pattern: str, required: bool = True) -> Path | None:
     return None
 
 
-def normalize_package(chapter_id: str, data: dict[str, Any], config: dict[str, Any], asset_root: Path, enrichment_path: Path, boundary_review_path: Path, manual_approvals_path: Path) -> None:
+def normalize_package(
+    chapter_id: str,
+    data: dict[str, Any],
+    config: dict[str, Any],
+    asset_root: Path,
+    enrichment_path: Path,
+    boundary_review_path: Path,
+    evidence_grading_path: Path,
+    manual_approvals_path: Path,
+) -> None:
     ensure_list_tables(data, config)
     normalize_chapter_structure(data.get("Chapter_Structure", []))
     normalize_source_chunks(data.get("Source_Chunks", []))
@@ -132,7 +170,8 @@ def normalize_package(chapter_id: str, data: dict[str, Any], config: dict[str, A
     data["Prompt_Templates"] = prompt_templates(chapter_id)
     repair_known_text_artifacts(data)
     apply_word_enrichment(data, chapter_id, enrichment_path)
-    apply_source_boundary_review(data, chapter_id, boundary_review_path, manual_approvals_path)
+    apply_curated_question_aliases(data, chapter_id)
+    apply_source_boundary_review(data, chapter_id, boundary_review_path, evidence_grading_path, manual_approvals_path)
     data.setdefault("metadata", {})
     if isinstance(data["metadata"], dict):
         data["metadata"].update(
@@ -610,6 +649,71 @@ def apply_heading_aliases(data: dict[str, Any], chapter_id: str, aliases: list[d
     return applied
 
 
+def apply_curated_question_aliases(data: dict[str, Any], chapter_id: str) -> int:
+    aliases_by_card = {
+        "ch11": {
+            "ans_ch11_001": [
+                "道路数字孪生是什么？",
+                "什么是道路数字孪生？",
+                "道路数字孪生的定义是什么？",
+            ],
+        },
+    }
+    chapter_aliases = aliases_by_card.get(chapter_id, {})
+    if not chapter_aliases:
+        return 0
+
+    cards = {str(row.get("answer_id")): row for row in data.get("Answer_Cards", []) if isinstance(row, dict)}
+    rag_by_key = {
+        (str(row.get("object_type")), str(row.get("object_id"))): row
+        for row in data.get("RAG_Config", [])
+        if isinstance(row, dict)
+    }
+    synonym_rows = data.get("Synonyms_Questions", [])
+    existing_synonyms = {
+        (str(row.get("target_id")), str(row.get("alias_or_question") or row.get("question")))
+        for row in synonym_rows
+        if isinstance(row, dict)
+    }
+    applied = 0
+    for answer_id, aliases in chapter_aliases.items():
+        card = cards.get(answer_id)
+        if card is None:
+            continue
+        existing_patterns = split_values(card.get("student_question_patterns"))
+        new_aliases = [alias for alias in aliases if alias not in existing_patterns]
+        if not new_aliases:
+            continue
+        card["student_question_patterns"] = unique_list(existing_patterns + new_aliases)
+        card["curated_question_aliases"] = unique_list(split_values(card.get("curated_question_aliases")) + new_aliases)
+        rag = rag_by_key.get(("answer_card", answer_id))
+        if rag is not None:
+            rag["retrieval_keywords"] = unique_list(split_values(rag.get("retrieval_keywords")) + new_aliases)
+            rag["index_text"] = "; ".join(unique_list([str(rag.get("index_text") or ""), *new_aliases]))
+        for alias in new_aliases:
+            if (answer_id, alias) in existing_synonyms:
+                continue
+            synonym_id = f"{chapter_id}_curated_alias_{len(synonym_rows) + 1:04d}"
+            synonym_rows.append(
+                {
+                    "synonym_id": synonym_id,
+                    "question_id": synonym_id,
+                    "chapter_id": chapter_id,
+                    "target_id": answer_id,
+                    "question": alias,
+                    "alias_or_question": alias,
+                    "standard_term": card.get("canonical_question") or answer_id,
+                    "match_type": "curated_question_alias",
+                    "type": "curated_question_alias",
+                    "priority": 3,
+                }
+            )
+            existing_synonyms.add((answer_id, alias))
+        applied += len(new_aliases)
+    data["Synonyms_Questions"] = synonym_rows
+    return applied
+
+
 def apply_answer_card_support(data: dict[str, Any], rows: list[dict[str, Any]]) -> int:
     card_by_id = {str(row.get("answer_id")): row for row in data.get("Answer_Cards", []) if isinstance(row, dict)}
     applied = 0
@@ -658,7 +762,13 @@ def apply_source_chunk_notes(data: dict[str, Any], rows: list[dict[str, Any]]) -
     return applied
 
 
-def apply_source_boundary_review(data: dict[str, Any], chapter_id: str, boundary_review_path: Path, manual_approvals_path: Path) -> None:
+def apply_source_boundary_review(
+    data: dict[str, Any],
+    chapter_id: str,
+    boundary_review_path: Path,
+    evidence_grading_path: Path,
+    manual_approvals_path: Path,
+) -> None:
     if not boundary_review_path.exists():
         return
     review = json.loads(boundary_review_path.read_text(encoding="utf-8"))
@@ -667,8 +777,10 @@ def apply_source_boundary_review(data: dict[str, Any], chapter_id: str, boundary
         return
     rows = chapter.get("source_boundary_reviews") or []
     source_by_id = {str(row.get("chunk_id")): row for row in data.get("Source_Chunks", []) if isinstance(row, dict)}
-    approvals = load_manual_source_boundary_approvals(manual_approvals_path, chapter_id)
+    gradings = load_source_boundary_decisions(evidence_grading_path, chapter_id)
+    approvals = load_source_boundary_decisions(manual_approvals_path, chapter_id)
     applied = 0
+    graded = 0
     approved = 0
     for item in rows:
         if not isinstance(item, dict):
@@ -679,6 +791,7 @@ def apply_source_boundary_review(data: dict[str, Any], chapter_id: str, boundary
             continue
         candidates = item.get("top_candidates") or []
         best = candidates[0] if candidates and isinstance(candidates[0], dict) else {}
+        grading = gradings.get(chunk_id)
         approval = approvals.get(chunk_id)
         chunk["review_status"] = "needs_evidence_boundary_review"
         chunk["source_excerpt_role"] = item.get("source_excerpt_role") or "needs_evidence_boundary_review"
@@ -697,6 +810,9 @@ def apply_source_boundary_review(data: dict[str, Any], chapter_id: str, boundary
             "reviewer_decision": "",
             "reviewer_notes": "",
         }
+        if grading:
+            apply_automated_source_boundary_grading(chunk, grading, evidence_grading_path)
+            graded += 1
         if approval:
             apply_manual_source_boundary_approval(chunk, approval)
             approved += 1
@@ -706,18 +822,22 @@ def apply_source_boundary_review(data: dict[str, Any], chapter_id: str, boundary
         data["metadata"]["source_boundary_review"] = {
             "source": str(boundary_review_path),
             "applied": applied,
+            "evidence_grading_source": str(evidence_grading_path),
+            "evidence_grading_applied": graded,
+            "formal_approvals_source": str(manual_approvals_path),
+            "formal_approvals_applied": approved,
             "manual_approvals_source": str(manual_approvals_path),
             "manual_approvals_applied": approved,
             "summary": chapter.get("summary") or {},
-            "policy": "Candidates are review aids only; Source_Chunks remain evidence-only and are not verbatim textbook quotes unless manually confirmed.",
+            "policy": "Automated grading is a publication maintenance signal for this stable textbook knowledge base; Source_Chunks remain evidence-only and are not verbatim textbook quotes. A formal approval file is optional and only overrides automated grading when present.",
         }
 
 
-def load_manual_source_boundary_approvals(path: Path, chapter_id: str) -> dict[str, dict[str, Any]]:
+def load_source_boundary_decisions(path: Path, chapter_id: str) -> dict[str, dict[str, Any]]:
     if not path.exists():
         return {}
     payload = json.loads(path.read_text(encoding="utf-8"))
-    approvals: dict[str, dict[str, Any]] = {}
+    decisions: dict[str, dict[str, Any]] = {}
     for item in payload.get("decisions", []):
         if not isinstance(item, dict):
             continue
@@ -727,8 +847,106 @@ def load_manual_source_boundary_approvals(path: Path, chapter_id: str) -> dict[s
         chunk_id = str(item.get("chunk_id") or "").strip()
         if not decision or not chunk_id:
             continue
-        approvals[chunk_id] = item
-    return approvals
+        decisions[chunk_id] = item
+    return decisions
+
+
+def evidence_quality_profile(decision: str) -> dict[str, Any]:
+    profiles = {
+        "confirm_candidate_anchor": {
+            "evidence_confidence": "high",
+            "evidence_boundary_type": "concept_anchor",
+            "source_excerpt_role": "auto_concept_anchor_not_verbatim",
+            "word_verification": "auto_concept_anchor_supported",
+            "review_status": "auto_evidence_graded",
+            "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": False,
+        },
+        "confirm_teaching_summary": {
+            "evidence_confidence": "medium",
+            "evidence_boundary_type": "teaching_summary",
+            "source_excerpt_role": "auto_teaching_summary_not_verbatim",
+            "word_verification": "auto_teaching_summary_supported",
+            "review_status": "auto_evidence_graded",
+            "answer_use": "教材证据层：支持教学化概括，可辅助答案核验；不作为教材原句引用。",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": False,
+        },
+        "confirm_boundary_fragment": {
+            "evidence_confidence": "medium",
+            "evidence_boundary_type": "boundary_fragment",
+            "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
+            "word_verification": "auto_boundary_fragment_supported",
+            "review_status": "auto_evidence_graded",
+            "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": False,
+        },
+        "manual_anchor_pending": {
+            "evidence_confidence": "low",
+            "evidence_boundary_type": "weak_or_missing_anchor",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "word_verification": "auto_anchor_missing_or_weak",
+            "review_status": "auto_evidence_downgraded",
+            "answer_use": "辅助证据：教材锚点弱或需更精确，不作为RAG主回答内容。",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": True,
+        },
+    }
+    return profiles.get(
+        decision,
+        {
+            "evidence_confidence": "low",
+            "evidence_boundary_type": "unclassified",
+            "source_excerpt_role": "auxiliary_evidence_unclassified_not_primary",
+            "word_verification": "auto_evidence_unclassified",
+            "review_status": "auto_evidence_downgraded",
+            "answer_use": "辅助证据：证据边界未分类，不作为RAG主回答内容。",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": True,
+        },
+    )
+
+
+def apply_automated_source_boundary_grading(chunk: dict[str, Any], grading: dict[str, Any], grading_path: Path) -> None:
+    decision = str(grading.get("decision") or "").strip()
+    note = str(grading.get("reviewer_notes") or "").strip()
+    profile = evidence_quality_profile(decision)
+    review = chunk.setdefault("evidence_review", {})
+    if not isinstance(review, dict):
+        review = {}
+        chunk["evidence_review"] = review
+
+    chunk["review_status"] = profile["review_status"]
+    chunk["source_excerpt_role"] = profile["source_excerpt_role"]
+    chunk["word_verification"] = profile["word_verification"]
+    chunk["usable_for_answer"] = profile["usable_for_answer"]
+    chunk["answer_use"] = profile["answer_use"]
+    chunk["evidence_quality_profile"] = {
+        "source": str(grading_path),
+        "mode": "automated_textbook_evidence_grading",
+        "decision": decision,
+        "priority_group": grading.get("priority_group") or "",
+        "evidence_confidence": profile["evidence_confidence"],
+        "evidence_boundary_type": profile["evidence_boundary_type"],
+        "source_excerpt_role": profile["source_excerpt_role"],
+        "word_verification": profile["word_verification"],
+        "review_status": profile["review_status"],
+        "answer_use": profile["answer_use"],
+        "usable_for_answer": profile["usable_for_answer"],
+        "needs_textbook_anchor_review": profile["needs_textbook_anchor_review"],
+        "not_verbatim_quote": True,
+    }
+
+    review["automated_decision"] = decision
+    review["automated_notes"] = note
+    review["evidence_quality_status"] = profile["evidence_confidence"]
+    review["evidence_boundary_type"] = profile["evidence_boundary_type"]
+    review["needs_textbook_anchor_review"] = profile["needs_textbook_anchor_review"]
+    review["automated_review_status"] = profile["review_status"]
+    review["approved_paragraph_start"] = grading.get("approved_paragraph_start")
+    review["approved_paragraph_end"] = grading.get("approved_paragraph_end")
 
 
 def apply_manual_source_boundary_approval(chunk: dict[str, Any], approval: dict[str, Any]) -> None:

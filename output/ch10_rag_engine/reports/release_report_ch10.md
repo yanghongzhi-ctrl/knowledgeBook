@@ -3,8 +3,8 @@
 - 版本：`ch10_kb_v1.0`
 - 状态：`released`
 - 知识包：`D:\knowledgebase\data\raw\ch10\第10章_AI驱动的道路设计方法_知识库_v1.0方法完备版.json`
-- 开始时间：2026-06-05T08:21:05
-- 完成时间：2026-06-05T08:27:58
+- 开始时间：2026-06-05T16:20:55
+- 完成时间：2026-06-05T16:28:07
 
 ## 发布步骤
 
@@ -13,7 +13,7 @@
 | validate | passed | errors=0, warnings=0 |
 | quality | passed | ambiguous_qa=0, duplicate_canonical=0 |
 | export | passed | exported_files=25 |
-| sql_export | passed | seed_sql_bytes=5535302 |
+| sql_export | passed | seed_sql_bytes=5552588 |
 | local_qa_evaluation | passed | passed=301/301 (100.00%) |
 | local_resource_evaluation | passed | passed=4/4 (100.00%) |
 | embeddings | passed | generated=450/450, dimensions=[1024] |

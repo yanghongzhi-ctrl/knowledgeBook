@@ -662,3 +662,63 @@ P4 分级结果：
 | 风险 badge | high 风险条目显示 `risk-high` badge |
 | 风险导出 | 导出文件名为 `ch10_ch11_source_boundary_manual_approvals.risk-high.json` |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
+
+## 自动证据质量分级纠偏
+
+本轮根据项目定位进行纠偏：第10、11章属于教材定版型知识库，不再把 Source_Chunks 边界候选做成前置人工审批流。`data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json` 仍保留历史文件名，但从规范化脚本角度已作为“自动证据质量分级信号”读取；正式人工审批文件 `data/review/ch10_ch11_source_boundary_manual_approvals.json` 不再是复跑前置条件，仅作为未来需要时的可选覆盖文件。
+
+脚本变化：
+
+| 项目 | 当前口径 |
+|---|---|
+| 默认输入 | `scripts/normalize_ch10_ch11.py --evidence-grading data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json` |
+| 可选覆盖 | `--manual-approvals data/review/ch10_ch11_source_boundary_manual_approvals.json`，存在时才覆盖自动分级 |
+| 高/中置信条目 | 写入 `evidence_quality_profile`、`word_verification`、`source_excerpt_role`，标记为非逐字引用的教材证据层 |
+| 弱锚点条目 | 自动降级为辅助证据，`review_status=auto_evidence_downgraded`，不作为 RAG 主回答内容 |
+| 元数据 | `metadata.source_boundary_review.evidence_grading_applied` 记录自动分级数量，`formal_approvals_applied` 记录可选覆盖数量 |
+
+复生成结果：
+
+| 章节 | 自动分级 | high | medium | low | 自动降级弱锚点 | 正式人工覆盖 |
+|---|---:|---:|---:|---:|---:|---:|
+| ch10 | 13 | 4 | 8 | 1 | 1 | 0 |
+| ch11 | 38 | 1 | 8 | 29 | 29 | 0 |
+| 合计 | 51 | 5 | 16 | 30 | 30 | 0 |
+
+验证：
+
+| 检查项 | 结果 |
+|---|---|
+| 脚本编译 | `py -m py_compile scripts\normalize_ch10_ch11.py` 通过 |
+| raw 包复生成 | `py scripts\normalize_ch10_ch11.py --chapters ch10 ch11` 通过 |
+| ch10 元数据 | `evidence_grading_applied=13`，`formal_approvals_applied=0` |
+| ch11 元数据 | `evidence_grading_applied=38`，`formal_approvals_applied=0` |
+
+后续研发口径：自动分级不是“等用户审批”，而是稳定教材知识库发布前的证据边界治理结果。后续应继续推进发布包、题库、数据库与前端回归，而不是扩展人工审批工作台。
+
+## 平台问答抽测修复
+
+在自动证据质量分级发布后，继续抽测两个重点问题：
+
+| 问题 | 修复前 | 修复后 |
+|---|---|---|
+| AI驱动的道路设计包含哪三大范式？ | 资源卡抢占主回答，答案卡只出现在 top_hits 中 | 主回答命中 `ans_ch10_001`，推荐资源命中 `res_ch10_fig_01` |
+| 道路数字孪生是什么？ | 缺少自然问法别名，未找到直接答案 | 主回答命中 `ans_ch11_001`，推荐资源命中 `res_ch11_fig_11_1` |
+
+代码与数据修复：
+
+| 项目 | 处理 |
+|---|---|
+| 第11章问法别名 | `scripts/normalize_ch10_ch11.py` 为 `ans_ch11_001` 固化 3 条自然问法别名，并写入 `Synonyms_Questions` 与 `RAG_Config` |
+| API答案优先 | `src/kb_rag/api.py` 增加章内 direct-question override，避免 DB hybrid 或资源标题匹配压过精确问法 |
+| 资源优先策略 | 非资源意图下不再仅凭 `title_match` 抢占主回答；资源仍作为推荐返回 |
+| 路由回归 | `scripts/validate_auto_chapter_routing.py` 对“什么是X / X是什么”类等价定义题按归一化 key 去重，避免跨章节同义题误报 |
+
+验证：
+
+| 检查项 | 结果 |
+|---|---|
+| ch11 full release | released；validate errors=0，warnings=0；QA 295/295；资源 5/5；embedding 373/373；DB keyword 295/295；DB hybrid 30/30 |
+| 前端/API烟测 | ch01-ch11 共 74 项，失败 0 |
+| 自动章节路由 | 26,334 次检查，失败 0 |
+| UTF-8 API抽测 | ch10 命中 `ans_ch10_001`；ch11 命中 `ans_ch11_001` |

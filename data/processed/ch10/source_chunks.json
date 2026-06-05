@@ -43,9 +43,9 @@
     "evidence_role": "definition_or_process_evidence",
     "use_in_rag": true,
     "chunk_summary": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以...",
-    "answer_use": true,
+    "answer_use": "教材证据层：支持教学化概括，可辅助答案核验；不作为教材原句引用。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -61,7 +61,7 @@
       "excerpt_preview": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以"
     },
     "evidence_boundary_note": "片段主体未直接命中，但存在可追溯术语支撑。",
-    "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+    "source_excerpt_role": "auto_teaching_summary_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "summary_with_term_support",
@@ -90,7 +90,31 @@
       ],
       "candidate_text_preview": "4.了解监督学习、无监督学习及深度学习在处理多源异构道路数据中的作用。了解利用遥感与历史数据，通过机器学习模型进行模式识别，自动生成地质灾害风险地图以辅助选线。了解推荐系统在路线设计中的应用模式。",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_teaching_summary",
+      "automated_notes": "自动建议：候选 Word 段落可作为术语锚点支撑该教学化摘要，但不标记为教材逐字引用；正式采用前仍需人工确认术语支撑是否充分。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "teaching_summary",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4781,
+      "approved_paragraph_end": 4781
+    },
+    "word_verification": "auto_teaching_summary_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_teaching_summary",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "teaching_summary",
+      "source_excerpt_role": "auto_teaching_summary_not_verbatim",
+      "word_verification": "auto_teaching_summary_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：支持教学化概括，可辅助答案核验；不作为教材原句引用。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -524,9 +548,9 @@
     "evidence_role": "definition_or_process_evidence",
     "use_in_rag": true,
     "chunk_summary": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）：",
-    "answer_use": true,
+    "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -540,7 +564,7 @@
       "excerpt_preview": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）："
     },
     "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
-    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "cross_paragraph_or_formula_fragment",
@@ -563,7 +587,31 @@
       ],
       "candidate_text_preview": "知识驱动型设计系统可分为如下三个核心功能模块（如图 10-2所示）：",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_boundary_fragment",
+      "automated_notes": "自动建议：候选 Word 段落与 Source_Chunk 属于公式、列表或跨段边界片段关系，可作为边界片段证据；正式采用前仍需人工确认是否需要拆分或补上下文。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4815,
+      "approved_paragraph_end": 4815
+    },
+    "word_verification": "auto_boundary_fragment_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_boundary_fragment",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
+      "word_verification": "auto_boundary_fragment_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -913,9 +961,9 @@
     "evidence_role": "definition_or_process_evidence",
     "use_in_rag": true,
     "chunk_summary": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
-    "answer_use": true,
+    "answer_use": "教材证据层：支持教学化概括，可辅助答案核验；不作为教材原句引用。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -931,7 +979,7 @@
       "excerpt_preview": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。"
     },
     "evidence_boundary_note": "片段主体未直接命中，但存在可追溯术语支撑。",
-    "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+    "source_excerpt_role": "auto_teaching_summary_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "summary_with_term_support",
@@ -960,7 +1008,31 @@
       ],
       "candidate_text_preview": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词TA,B∈{Intersects,Contains,Touches,Disjoint,⋯}。在“坐标分区”模型下，令地质体内部关键分区边界集合为L=lkk=1m(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_teaching_summary",
+      "automated_notes": "自动建议：候选 Word 段落可作为术语锚点支撑该教学化摘要，但不标记为教材逐字引用；正式采用前仍需人工确认术语支撑是否充分。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "teaching_summary",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4912,
+      "approved_paragraph_end": 4912
+    },
+    "word_verification": "auto_teaching_summary_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_teaching_summary",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "teaching_summary",
+      "source_excerpt_role": "auto_teaching_summary_not_verbatim",
+      "word_verification": "auto_teaching_summary_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：支持教学化概括，可辅助答案核验；不作为教材原句引用。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -1030,9 +1102,9 @@
     "evidence_role": "definition_or_process_evidence",
     "use_in_rag": true,
     "chunk_summary": "（1）目标案例构建：语义一致的属性向量表示",
-    "answer_use": true,
+    "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -1046,7 +1118,7 @@
       "excerpt_preview": "（1）目标案例构建：语义一致的属性向量表示"
     },
     "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
-    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "cross_paragraph_or_formula_fragment",
@@ -1066,7 +1138,31 @@
       ],
       "candidate_text_preview": "（1）目标实例构建：语义一致的属性向量表示",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_boundary_fragment",
+      "automated_notes": "自动建议：候选 Word 段落与 Source_Chunk 属于公式、列表或跨段边界片段关系，可作为边界片段证据；正式采用前仍需人工确认是否需要拆分或补上下文。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4926,
+      "approved_paragraph_end": 4926
+    },
+    "word_verification": "auto_boundary_fragment_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_boundary_fragment",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
+      "word_verification": "auto_boundary_fragment_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -1780,9 +1876,9 @@
     "evidence_role": "definition_or_process_evidence",
     "use_in_rag": true,
     "chunk_summary": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于：",
-    "answer_use": true,
+    "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -1796,7 +1892,7 @@
       "excerpt_preview": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于："
     },
     "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
-    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "cross_paragraph_or_formula_fragment",
@@ -1819,7 +1915,31 @@
       ],
       "candidate_text_preview": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。 1.帕累托支配与帕累托前沿 在多目标优化中，解xa支配解xb表示xa在所有目标上都不劣于xb，并且在至少一个目标上优于xb：",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_boundary_fragment",
+      "automated_notes": "自动建议：候选 Word 段落与 Source_Chunk 属于公式、列表或跨段边界片段关系，可作为边界片段证据；正式采用前仍需人工确认是否需要拆分或补上下文。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 5024,
+      "approved_paragraph_end": 5026
+    },
+    "word_verification": "auto_boundary_fragment_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_boundary_fragment",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
+      "word_verification": "auto_boundary_fragment_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -2225,9 +2345,9 @@
     "evidence_role": "definition_or_process_evidence",
     "use_in_rag": false,
     "chunk_summary": "从时刻  起的折扣回报与优化目标为：",
-    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -2241,7 +2361,7 @@
       "excerpt_preview": "从时刻  起的折扣回报与优化目标为："
     },
     "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
-    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "cross_paragraph_or_formula_fragment",
@@ -2262,7 +2382,31 @@
       ],
       "candidate_text_preview": "（4）奖励函数 r(s,a)：对动作即时“好/坏”的量化反馈； （5）折扣因子 γ∈(0,1]：平衡近/远期收益。值越大，智能体越看重长期回报；值越小，智能体越看重当前的即时奖励。 从时刻 t 起的折扣回报与优化目标为：",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_boundary_fragment",
+      "automated_notes": "自动建议：候选 Word 段落与 Source_Chunk 属于公式、列表或跨段边界片段关系，可作为边界片段证据；正式采用前仍需人工确认是否需要拆分或补上下文。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 5081,
+      "approved_paragraph_end": 5083
+    },
+    "word_verification": "auto_boundary_fragment_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_boundary_fragment",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
+      "word_verification": "auto_boundary_fragment_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -2584,9 +2728,9 @@
     "evidence_role": "definition_or_process_evidence",
     "use_in_rag": true,
     "chunk_summary": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。",
-    "answer_use": true,
+    "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -2600,7 +2744,7 @@
       "excerpt_preview": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。"
     },
     "evidence_boundary_note": "疑似跨段、公式、编号或图表边界片段，建议人工确认证据边界。",
-    "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+    "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "cross_paragraph_or_formula_fragment",
@@ -2624,7 +2768,31 @@
       ],
       "candidate_text_preview": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前Q网络参数软更新或拷贝至目标网络，以保持训练稳定。",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_boundary_fragment",
+      "automated_notes": "自动建议：候选 Word 段落与 Source_Chunk 属于公式、列表或跨段边界片段关系，可作为边界片段证据；正式采用前仍需人工确认是否需要拆分或补上下文。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 5133,
+      "approved_paragraph_end": 5133
+    },
+    "word_verification": "auto_boundary_fragment_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_boundary_fragment",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "boundary_fragment",
+      "source_excerpt_role": "auto_boundary_fragment_not_verbatim",
+      "word_verification": "auto_boundary_fragment_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：片段边界可支持局部知识点核验；不作为完整答案主证据。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -2862,9 +3030,9 @@
     "evidence_role": "context_evidence",
     "use_in_rag": true,
     "chunk_summary": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；",
-    "answer_use": true,
+    "answer_use": "教材证据层：支持教学化概括，可辅助答案核验；不作为教材原句引用。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -2880,7 +3048,7 @@
       "excerpt_preview": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；"
     },
     "evidence_boundary_note": "片段主体未直接命中，但存在可追溯术语支撑。",
-    "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+    "source_excerpt_role": "auto_teaching_summary_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "summary_with_term_support",
@@ -2906,7 +3074,31 @@
       ],
       "candidate_text_preview": "（2）执行：跨平台调用GIS分析、优化库、BIM建模与模拟评估工具，自动传递数据与参数；",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_teaching_summary",
+      "automated_notes": "自动建议：候选 Word 段落可作为术语锚点支撑该教学化摘要，但不标记为教材逐字引用；正式采用前仍需人工确认术语支撑是否充分。",
+      "evidence_quality_status": "medium",
+      "evidence_boundary_type": "teaching_summary",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4794,
+      "approved_paragraph_end": 4794
+    },
+    "word_verification": "auto_teaching_summary_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_teaching_summary",
+      "priority_group": "P2_ch10_boundary_summary",
+      "evidence_confidence": "medium",
+      "evidence_boundary_type": "teaching_summary",
+      "source_excerpt_role": "auto_teaching_summary_not_verbatim",
+      "word_verification": "auto_teaching_summary_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：支持教学化概括，可辅助答案核验；不作为教材原句引用。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -3984,9 +4176,9 @@
     "evidence_role": "context_evidence",
     "use_in_rag": true,
     "chunk_summary": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
-    "answer_use": true,
+    "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -4000,7 +4192,7 @@
       "excerpt_preview": "通过对专业书籍（如《道路勘测设计》）、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。"
     },
     "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
-    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "source_excerpt_role": "auto_concept_anchor_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "needs_manual_textbook_anchor",
@@ -4024,7 +4216,31 @@
       ],
       "candidate_text_preview": "通过对专业书籍、设计规范和专家经验的系统性梳理，提炼出经典的、被广泛接受的设计原则。",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_candidate_anchor",
+      "automated_notes": "自动建议：Source_Chunk 与候选 Word 段落表达同一概念，可作为概念依据对应；不标记为教材逐字引用，最终仍需人工复核确认。",
+      "evidence_quality_status": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4884,
+      "approved_paragraph_end": 4884
+    },
+    "word_verification": "auto_concept_anchor_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_candidate_anchor",
+      "priority_group": "P1_ch10_quick_confirm",
+      "evidence_confidence": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "source_excerpt_role": "auto_concept_anchor_not_verbatim",
+      "word_verification": "auto_concept_anchor_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -4150,9 +4366,9 @@
     "evidence_role": "context_evidence",
     "use_in_rag": false,
     "chunk_summary": "当 且 ,则生成工程语义事实：，。",
-    "answer_use": "用于核验答案卡与方法/框架卡，不建议整段输出给学生",
+    "answer_use": "辅助证据：教材锚点弱或需更精确，不作为RAG主回答内容。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_downgraded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -4166,7 +4382,7 @@
       "excerpt_preview": "当 且 ,则生成工程语义事实：，。"
     },
     "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
-    "source_excerpt_role": "manual_textbook_anchor_required",
+    "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "needs_manual_textbook_anchor",
@@ -4186,7 +4402,31 @@
       ],
       "candidate_text_preview": "当TA,B=Intersects 且 A∩lk≠ϕ,则生成工程语义事实：fk:分区=pk，pkϵ前缘、后缘、形成区-流通区-堆积扇。",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "manual_anchor_pending",
+      "automated_notes": "自动建议：该条疑似公式/变量残缺，应回看 Word 原文并决定补上下文、拆分或重写边界；暂不确认候选锚点。",
+      "evidence_quality_status": "low",
+      "evidence_boundary_type": "weak_or_missing_anchor",
+      "needs_textbook_anchor_review": true,
+      "automated_review_status": "auto_evidence_downgraded",
+      "approved_paragraph_start": 4913,
+      "approved_paragraph_end": 4913
+    },
+    "word_verification": "auto_anchor_missing_or_weak",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "manual_anchor_pending",
+      "priority_group": "P1_ch10_formula_gap",
+      "evidence_confidence": "low",
+      "evidence_boundary_type": "weak_or_missing_anchor",
+      "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+      "word_verification": "auto_anchor_missing_or_weak",
+      "review_status": "auto_evidence_downgraded",
+      "answer_use": "辅助证据：教材锚点弱或需更精确，不作为RAG主回答内容。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": true,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -4284,9 +4524,9 @@
     "evidence_role": "context_evidence",
     "use_in_rag": true,
     "chunk_summary": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
-    "answer_use": true,
+    "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -4300,7 +4540,7 @@
       "excerpt_preview": "（1）相似点分析：当前情境与历史案例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；"
     },
     "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
-    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "source_excerpt_role": "auto_concept_anchor_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "needs_manual_textbook_anchor",
@@ -4325,7 +4565,31 @@
       ],
       "candidate_text_preview": "（1）相似点分析：当前情境与历史实例在哪些关键维度（如地貌类型、滑动方向、滑坡规模等）表现出高度一致；",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_candidate_anchor",
+      "automated_notes": "自动建议：Source_Chunk 与候选 Word 段落表达同一概念，可作为概念依据对应；不标记为教材逐字引用，最终仍需人工复核确认。",
+      "evidence_quality_status": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4920,
+      "approved_paragraph_end": 4920
+    },
+    "word_verification": "auto_concept_anchor_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_candidate_anchor",
+      "priority_group": "P1_ch10_quick_confirm",
+      "evidence_confidence": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "source_excerpt_role": "auto_concept_anchor_not_verbatim",
+      "word_verification": "auto_concept_anchor_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -4367,9 +4631,9 @@
     "evidence_role": "context_evidence",
     "use_in_rag": true,
     "chunk_summary": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；",
-    "answer_use": true,
+    "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -4383,7 +4647,7 @@
       "excerpt_preview": "（3）参考方案：历史案例中采用的设计策略是否具备迁移价值；"
     },
     "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
-    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "source_excerpt_role": "auto_concept_anchor_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "needs_manual_textbook_anchor",
@@ -4404,7 +4668,31 @@
       ],
       "candidate_text_preview": "（3）参考方案：历史实例中采用的设计策略是否具备迁移价值；",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_candidate_anchor",
+      "automated_notes": "自动建议：Source_Chunk 与候选 Word 段落表达同一概念，可作为概念依据对应；不标记为教材逐字引用，最终仍需人工复核确认。",
+      "evidence_quality_status": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4922,
+      "approved_paragraph_end": 4922
+    },
+    "word_verification": "auto_concept_anchor_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_candidate_anchor",
+      "priority_group": "P1_ch10_quick_confirm",
+      "evidence_confidence": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "source_excerpt_role": "auto_concept_anchor_not_verbatim",
+      "word_verification": "auto_concept_anchor_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {
@@ -4446,9 +4734,9 @@
     "evidence_role": "context_evidence",
     "use_in_rag": true,
     "chunk_summary": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。",
-    "answer_use": true,
+    "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
     "usable_for_answer": "no_direct_output",
-    "review_status": "needs_evidence_boundary_review",
+    "review_status": "auto_evidence_graded",
     "keywords": [],
     "word_alignment": {
       "status": "missing",
@@ -4462,7 +4750,7 @@
       "excerpt_preview": "为保证与知识库中案例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与案例库的属性结构一一对应。"
     },
     "evidence_boundary_note": "未发现直接文本或术语支撑，需要人工确认教材锚点或修订摘要边界。",
-    "source_excerpt_role": "candidate_concept_anchor_not_verbatim",
+    "source_excerpt_role": "auto_concept_anchor_not_verbatim",
     "evidence_review": {
       "source": "D:\\knowledgebase\\output\\ch10_ch11_source_boundary_review_2026-06-05.json",
       "original_classification": "needs_manual_textbook_anchor",
@@ -4490,7 +4778,31 @@
       ],
       "candidate_text_preview": "为保证与知识库中实例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与实例库的属性结构一一对应。",
       "reviewer_decision": "",
-      "reviewer_notes": ""
+      "reviewer_notes": "",
+      "automated_decision": "confirm_candidate_anchor",
+      "automated_notes": "自动建议：Source_Chunk 与候选 Word 段落表达同一概念，可作为概念依据对应；不标记为教材逐字引用，最终仍需人工复核确认。",
+      "evidence_quality_status": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "needs_textbook_anchor_review": false,
+      "automated_review_status": "auto_evidence_graded",
+      "approved_paragraph_start": 4927,
+      "approved_paragraph_end": 4927
+    },
+    "word_verification": "auto_concept_anchor_supported",
+    "evidence_quality_profile": {
+      "source": "D:\\knowledgebase\\data\\review\\ch10_ch11_full_source_boundary_manual_approvals.proposed.json",
+      "mode": "automated_textbook_evidence_grading",
+      "decision": "confirm_candidate_anchor",
+      "priority_group": "P1_ch10_quick_confirm",
+      "evidence_confidence": "high",
+      "evidence_boundary_type": "concept_anchor",
+      "source_excerpt_role": "auto_concept_anchor_not_verbatim",
+      "word_verification": "auto_concept_anchor_supported",
+      "review_status": "auto_evidence_graded",
+      "answer_use": "教材证据层：概念锚点支持，可辅助答案核验；不直接整段输出给学生。",
+      "usable_for_answer": "no_direct_output",
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
     }
   },
   {

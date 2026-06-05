@@ -3,8 +3,8 @@
 - 版本：`ch11_kb_v1.0`
 - 状态：`released`
 - 知识包：`D:\knowledgebase\data\raw\ch11\第11章_道路数字孪生的概念与方法体系_知识库_v1.0框架完备版.json`
-- 开始时间：2026-06-05T08:28:11
-- 完成时间：2026-06-05T08:38:06
+- 开始时间：2026-06-05T16:43:12
+- 完成时间：2026-06-05T16:52:20
 
 ## 发布步骤
 
@@ -13,7 +13,7 @@
 | validate | passed | errors=0, warnings=0 |
 | quality | passed | ambiguous_qa=0, duplicate_canonical=0 |
 | export | passed | exported_files=25 |
-| sql_export | passed | seed_sql_bytes=4803009 |
+| sql_export | passed | seed_sql_bytes=4856361 |
 | local_qa_evaluation | passed | passed=295/295 (100.00%) |
 | local_resource_evaluation | passed | passed=5/5 (100.00%) |
 | embeddings | passed | generated=373/373, dimensions=[1024] |

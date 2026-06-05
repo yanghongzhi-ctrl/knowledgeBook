@@ -8,8 +8,10 @@
     "student_question_patterns": [
       "什么是道路数字孪生定义？",
       "请解释道路数字孪生定义？",
-      "什么是道路数字孪生定义？",
-      "道路数字孪生定义怎么理解？"
+      "道路数字孪生定义怎么理解？",
+      "道路数字孪生是什么？",
+      "什么是道路数字孪生？",
+      "道路数字孪生的定义是什么？"
     ],
     "related_kps": [
       "kp_ch11_001_digital_twin_definition"
@@ -46,7 +48,12 @@
       "res_ch11_script_twin_loop"
     ],
     "confidence_rule": "命中Answer_Cards且包含must_include要点时为高置信度；仅命中Source_Chunks时不得直接输出原文。",
-    "status": "checked"
+    "status": "checked",
+    "curated_question_aliases": [
+      "道路数字孪生是什么？",
+      "什么是道路数字孪生？",
+      "道路数字孪生的定义是什么？"
+    ]
   },
   {
     "answer_id": "ans_ch11_002",

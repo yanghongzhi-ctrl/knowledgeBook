@@ -14,9 +14,12 @@
     "object_type": "answer_card",
     "object_id": "ans_ch11_001",
     "retrieval_keywords": [
-      "definition"
+      "definition",
+      "道路数字孪生是什么？",
+      "什么是道路数字孪生？",
+      "道路数字孪生的定义是什么？"
     ],
-    "index_text": "definition",
+    "index_text": "definition; 道路数字孪生是什么？; 什么是道路数字孪生？; 道路数字孪生的定义是什么？",
     "use_in_rag": true
   },
   {

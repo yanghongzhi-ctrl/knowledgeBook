@@ -6,7 +6,7 @@ from collections import Counter
 from pathlib import Path
 from typing import Any
 
-from kb_rag.api import ApiState, route_chapter
+from kb_rag.api import ApiState, normalize, route_chapter
 from kb_rag.loader import load_package
 
 
@@ -22,8 +22,8 @@ def main() -> int:
 
     states = load_states(Path(args.raw_dir))
     cases = collect_cases(states, source=args.source)
-    counts = Counter(case["question"] for case in cases)
-    unique_cases = [case for case in cases if counts[case["question"]] == 1]
+    counts = Counter(case["question_key"] for case in cases)
+    unique_cases = [case for case in cases if counts[case["question_key"]] == 1]
     duplicate_rows = len(cases) - len(unique_cases)
 
     failures: list[dict[str, Any]] = []
@@ -91,9 +91,10 @@ def collect_cases(states: dict[str, ApiState], source: str) -> list[dict[str, An
                             "expected_chapter": chapter_id,
                             "answer_id": answer_id,
                             "source": "canonical",
-                            "question": question,
-                        }
-                    )
+                        "question": question,
+                        "question_key": routing_case_key(question),
+                    }
+                )
             if include_patterns:
                 for pattern in card.get("student_question_patterns", []) or []:
                     question = str(pattern or "").strip()
@@ -103,10 +104,24 @@ def collect_cases(states: dict[str, ApiState], source: str) -> list[dict[str, An
                                 "expected_chapter": chapter_id,
                                 "answer_id": answer_id,
                                 "source": "student_pattern",
-                                "question": question,
-                            }
-                        )
+                            "question": question,
+                            "question_key": routing_case_key(question),
+                        }
+                    )
     return cases
+
+
+def routing_case_key(question: str) -> str:
+    key = normalize(question)
+    for prefix in ("什么是", "何为", "如何理解"):
+        if key.startswith(prefix):
+            key = key[len(prefix) :]
+            break
+    for suffix in ("是什么", "什么意思"):
+        if key.endswith(suffix):
+            key = key[: -len(suffix)]
+            break
+    return key or normalize(question)
 
 
 if __name__ == "__main__":

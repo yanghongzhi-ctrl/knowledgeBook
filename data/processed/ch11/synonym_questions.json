@@ -5638,5 +5638,41 @@
     "match_type": "word_heading_alias",
     "type": "word_heading_alias",
     "priority": 2
+  },
+  {
+    "synonym_id": "ch11_curated_alias_0471",
+    "question_id": "ch11_curated_alias_0471",
+    "chapter_id": "ch11",
+    "target_id": "ans_ch11_001",
+    "question": "道路数字孪生是什么？",
+    "alias_or_question": "道路数字孪生是什么？",
+    "standard_term": "什么是道路数字孪生定义？",
+    "match_type": "curated_question_alias",
+    "type": "curated_question_alias",
+    "priority": 3
+  },
+  {
+    "synonym_id": "ch11_curated_alias_0472",
+    "question_id": "ch11_curated_alias_0472",
+    "chapter_id": "ch11",
+    "target_id": "ans_ch11_001",
+    "question": "什么是道路数字孪生？",
+    "alias_or_question": "什么是道路数字孪生？",
+    "standard_term": "什么是道路数字孪生定义？",
+    "match_type": "curated_question_alias",
+    "type": "curated_question_alias",
+    "priority": 3
+  },
+  {
+    "synonym_id": "ch11_curated_alias_0473",
+    "question_id": "ch11_curated_alias_0473",
+    "chapter_id": "ch11",
+    "target_id": "ans_ch11_001",
+    "question": "道路数字孪生的定义是什么？",
+    "alias_or_question": "道路数字孪生的定义是什么？",
+    "standard_term": "什么是道路数字孪生定义？",
+    "match_type": "curated_question_alias",
+    "type": "curated_question_alias",
+    "priority": 3
   }
 ]

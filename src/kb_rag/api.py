@@ -22,7 +22,7 @@ from .resources import (
     script_map_by_resource,
     search_resources,
 )
-from .retrieve import AnswerRetriever, confidence, normalize, tokens
+from .retrieve import AnswerRetriever, RetrievalHit, confidence, normalize, tokens
 
 
 DEFAULT_PACKAGE = Path("data/raw/ch01/第1章_道路工程数字化设计概述_知识库_v1.0完备版.json")
@@ -1452,6 +1452,10 @@ def answer_payload(
             use_db=use_db,
         )
 
+    direct_hit = _direct_answer_hit(state, question, hits)
+    if direct_hit is not None:
+        hits = [direct_hit, *[hit for hit in hits if hit.answer_id != direct_hit.answer_id]]
+
     if _should_answer_with_resource(question, hits, resource_hits, resource_intent):
         top_resource = resource_hits[0]
         resources = [_resource_hit_payload(hit, state) for hit in resource_hits]
@@ -1559,6 +1563,43 @@ def answer_payload(
     }
 
 
+def _direct_answer_hit(state: ApiState, question: str, hits: list[object]) -> RetrievalHit | None:
+    q_norm = normalize(question)
+    matches = state.direct_question_matches.get(q_norm, [])
+    if not matches:
+        return None
+    best = max(matches, key=lambda match: float(match.get("priority") or 0))
+    answer_id = str(best.get("answer_id") or "")
+    if not answer_id:
+        return None
+    existing = next((hit for hit in hits if getattr(hit, "answer_id", "") == answer_id), None)
+    if existing is not None:
+        score = max(float(getattr(existing, "score", 0.0)), float(best.get("priority") or 0) + 220.0)
+        reasons = unique_strings(["direct_question_override", *list(getattr(existing, "reasons", []) or [])])
+        return RetrievalHit(answer_id=answer_id, score=score, reasons=reasons, card=getattr(existing, "card"))
+    card = next((item for item in state.package.answer_cards if str(item.get("answer_id") or "") == answer_id), None)
+    if card is None:
+        return None
+    return RetrievalHit(
+        answer_id=answer_id,
+        score=float(best.get("priority") or 0) + 220.0,
+        reasons=["direct_question_override", str(best.get("match_type") or "direct_question")],
+        card=card,
+    )
+
+
+def unique_strings(values: list[object]) -> list[str]:
+    seen: set[str] = set()
+    result: list[str] = []
+    for value in values:
+        text = str(value)
+        if not text or text in seen:
+            continue
+        seen.add(text)
+        result.append(text)
+    return result
+
+
 def _top_hit_payloads(hits: list[object]) -> list[dict[str, object]]:
     return [
         {
@@ -1595,7 +1636,9 @@ def _should_answer_with_resource(
     top_resource_score = float(resource_hits[0]["score"])
     top_answer_score = float(hits[0].score) if hits else 0.0
     top_resource_reasons = set(str(reason) for reason in (resource_hits[0].get("reasons") or []))
-    if top_resource_score >= 180 and {"exact_trigger", "title_match"} & top_resource_reasons:
+    if top_resource_score >= 180 and "exact_trigger" in top_resource_reasons:
+        return True
+    if resource_intent >= 1 and top_resource_score >= 180 and "title_match" in top_resource_reasons:
         return True
     if "我想看" in question and resource_intent >= 1 and top_resource_score >= 80:
         return True

@@ -2,9 +2,9 @@
   "chapter_id": "ch11",
   "version_id": "ch11_kb_v1.0",
   "package_path": "D:\\knowledgebase\\data\\raw\\ch11\\第11章_道路数字孪生的概念与方法体系_知识库_v1.0框架完备版.json",
-  "source_checksum": "8a8dbbfff0dc9f365f5b3eacf40138aaa449dad87ad0fabece44cf2d7683f25f",
-  "started_at": "2026-06-05T08:28:11",
-  "finished_at": "2026-06-05T08:38:06",
+  "source_checksum": "e38e92552c312ec82e386b38f723ec4f9523e5d9d8ab2beb247e72c833f3c855",
+  "started_at": "2026-06-05T16:43:12",
+  "finished_at": "2026-06-05T16:52:20",
   "status": "released",
   "table_counts": {
     "README": 4,
@@ -27,7 +27,7 @@
     "RAG_Config": 373,
     "Embedding_Corpus": 373,
     "Quality_Checklist": 10,
-    "Synonyms_Questions": 470,
+    "Synonyms_Questions": 473,
     "Interactive_Scripts": 5,
     "Prompt_Templates": 2,
     "Resource_Evaluation_Testset": 5,
@@ -61,7 +61,7 @@
           "RAG_Config": 373,
           "Embedding_Corpus": 373,
           "Quality_Checklist": 10,
-          "Synonyms_Questions": 470,
+          "Synonyms_Questions": 473,
           "Interactive_Scripts": 5,
           "Prompt_Templates": 2,
           "Resource_Evaluation_Testset": 5,
@@ -98,7 +98,7 @@
           "resource_index.json": 20,
           "interactive_scripts.json": 5,
           "embedding_corpus.json": 373,
-          "synonym_questions.json": 470,
+          "synonym_questions.json": 473,
           "knowledge_relations.json": 95,
           "concept_comparisons.json": 10,
           "exercises.json": 5,
@@ -120,7 +120,7 @@
     {
       "name": "sql_export",
       "status": "passed",
-      "summary": "seed_sql_bytes=4803009",
+      "summary": "seed_sql_bytes=4856361",
       "details": {
         "seed_sql": "D:\\knowledgebase\\output\\ch11_rag_engine\\db_load\\ch11_seed.sql"
       }

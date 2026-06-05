@@ -2,9 +2,9 @@
   "chapter_id": "ch10",
   "version_id": "ch10_kb_v1.0",
   "package_path": "D:\\knowledgebase\\data\\raw\\ch10\\第10章_AI驱动的道路设计方法_知识库_v1.0方法完备版.json",
-  "source_checksum": "30503c7260d72a0614f90f609f3f86c1b721a65e7aac17289728c3f2f4edee2c",
-  "started_at": "2026-06-05T08:21:05",
-  "finished_at": "2026-06-05T08:27:58",
+  "source_checksum": "edeaed7adb710e9b66aa80fccae813dc963afe5bbc19c03a2abf64ae7be0446a",
+  "started_at": "2026-06-05T16:20:55",
+  "finished_at": "2026-06-05T16:28:07",
   "status": "released",
   "table_counts": {
     "metadata": 1,
@@ -120,7 +120,7 @@
     {
       "name": "sql_export",
       "status": "passed",
-      "summary": "seed_sql_bytes=5535302",
+      "summary": "seed_sql_bytes=5552588",
       "details": {
         "seed_sql": "D:\\knowledgebase\\output\\ch10_rag_engine\\db_load\\ch10_seed.sql"
       }
