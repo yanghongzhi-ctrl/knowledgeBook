@@ -1,0 +1,501 @@
+{
+  "source_approvals": "D:\\knowledgebase\\data\\review\\ch10_ch11_source_boundary_manual_approvals.draft.json",
+  "source_docx": "F:\\编书\\道路工程数字设计方法\\05脚本及图片素材\\批注版-道路工程数字设计方法-数字化教材稿.docx",
+  "chapter_id": "ch10",
+  "priority_group": "P2_ch10_boundary_summary",
+  "purpose": "Focused P2 review packet for ch10 boundary fragments and teaching summaries. Suggestions are not manual approvals.",
+  "items": [
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_018",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "current_decision": "",
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）：",
+      "candidate_score": 0.871452,
+      "score_margin": 0.091051,
+      "candidate_span": {
+        "start": 4815,
+        "end": 4815
+      },
+      "candidate_text": "知识驱动型设计系统可分为如下三个核心功能模块（如图 10-2所示）：",
+      "candidate_reasons": [
+        "excerpt:0.85",
+        "summary:0.85",
+        "terms:知识驱动型设计系统可分为,如下三个核心功能模块,如图,所示"
+      ],
+      "matched_terms": [
+        "知识驱动型设计系统可分为",
+        "如下三个核心功能模块",
+        "如图",
+        "所示"
+      ],
+      "context": [
+        {
+          "paragraph": 4813,
+          "role": "context",
+          "text": "（4）过程反馈：记录判断结果与设计选择，持续完善与更新知识库。"
+        },
+        {
+          "paragraph": 4814,
+          "role": "context",
+          "text": "知识驱动系统的功能模块"
+        },
+        {
+          "paragraph": 4815,
+          "role": "candidate",
+          "text": "知识驱动型设计系统可分为如下三个核心功能模块（如图 10-2所示）："
+        },
+        {
+          "paragraph": 4816,
+          "role": "context",
+          "text": "1.知识管理模块"
+        },
+        {
+          "paragraph": 4817,
+          "role": "context",
+          "text": "该模块承担对“设计知识资产”的统一建模、分类、版本控制与调用权限管理任务。涵盖以下子功能： 统一术语标准，构建多层次知识本体； 定义构件、案例、规则的分类与唯一标识；记录各类知识条目的更新过程，支持不同项目、不同时间版本的并行调用。"
+        }
+      ],
+      "review_prompt": "核对候选段落是否为公式、列表或跨段边界片段。若边界可接受，使用 confirm_boundary_fragment；若需要拆分或补上下文，使用 split_required 或 manual_anchor_pending。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_034",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "current_decision": "",
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "（1）目标案例构建：语义一致的属性向量表示",
+      "candidate_score": 0.715594,
+      "score_margin": 0.360888,
+      "candidate_span": {
+        "start": 4926,
+        "end": 4926
+      },
+      "candidate_text": "（1）目标实例构建：语义一致的属性向量表示",
+      "candidate_reasons": [
+        "excerpt:0.80",
+        "summary:0.80",
+        "terms:语义一致的属性向量表示"
+      ],
+      "matched_terms": [
+        "语义一致的属性向量表示"
+      ],
+      "context": [
+        {
+          "paragraph": 4924,
+          "role": "context",
+          "text": "2.推理流程"
+        },
+        {
+          "paragraph": 4925,
+          "role": "context",
+          "text": "整个实例推理过程包括以下关键环节（如图 10-5）："
+        },
+        {
+          "paragraph": 4926,
+          "role": "candidate",
+          "text": "（1）目标实例构建：语义一致的属性向量表示"
+        },
+        {
+          "paragraph": 4927,
+          "role": "context",
+          "text": "为保证与知识库中实例的结构一致，当前设计情境首先通过语义关系重构，统一转化为属性向量。该向量包含地质地貌类型、滑坡空间位置、破坏机制、构造背景等多个字段，确保与实例库的属性结构一一对应。"
+        },
+        {
+          "paragraph": 4928,
+          "role": "context",
+          "text": "（2）权重计算：粗糙集驱动的属性重要度挖掘"
+        }
+      ],
+      "review_prompt": "核对候选段落是否为公式、列表或跨段边界片段。若边界可接受，使用 confirm_boundary_fragment；若需要拆分或补上下文，使用 split_required 或 manual_anchor_pending。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_060",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "current_decision": "",
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于：",
+      "candidate_score": 0.963469,
+      "score_margin": 8e-06,
+      "candidate_span": {
+        "start": 5024,
+        "end": 5026
+      },
+      "candidate_text": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。 1.帕累托支配与帕累托前沿 在多目标优化中，解xa支配解xb表示xa在所有目标上都不劣于xb，并且在至少一个目标上优于xb：",
+      "candidate_reasons": [
+        "excerpt:1.00",
+        "summary:1.00",
+        "terms:在多目标优化中,解支配解表示在所有目标上,都不劣于,并且在至少一个目标上优于"
+      ],
+      "matched_terms": [
+        "在多目标优化中",
+        "解支配解表示在所有目标上",
+        "都不劣于",
+        "并且在至少一个目标上优于"
+      ],
+      "context": [
+        {
+          "paragraph": 5022,
+          "role": "context",
+          "text": "在单目标优化框架中，一般将工程造价、运维费用、环境影响与安全风险等多个目标，通过加权或货币化手段聚合为一个综合成本函数，便于直接求解。然而，路线方案设计是一个多目标协调过程，涉及多个相互冲突、难以公度的因素。任何单一目标的最优化，往往以牺牲其他目标为代价。因此，引入多目标进化算法（Multi-Objective Evolutionary Algorithms, MOEAs）成为更贴合工程实际的选择。MOEAs可同时处理多个目标，生成一组具有不同侧重的最优权衡解，为设计者和决策者提供更具灵活性和科学性的选择空间，实现从单一最优解搜索向多解集决策的转变。"
+        },
+        {
+          "paragraph": 5023,
+          "role": "context",
+          "text": "帕累托最优：多目标问题的工程“解”"
+        },
+        {
+          "paragraph": 5024,
+          "role": "candidate",
+          "text": "在多目标优化问题中，目标函数之间往往是冲突的，这使得问题不再是一个单一的最优解问题，而是一个需要在多个解之间权衡的帕累托优化（Pareto Optimality）问题。在这种情况下，需要从多个优化目标之间找到最优的折衷解。"
+        },
+        {
+          "paragraph": 5025,
+          "role": "candidate",
+          "text": "1.帕累托支配与帕累托前沿"
+        },
+        {
+          "paragraph": 5026,
+          "role": "candidate",
+          "text": "在多目标优化中，解xa支配解xb表示xa在所有目标上都不劣于xb，并且在至少一个目标上优于xb："
+        },
+        {
+          "paragraph": 5027,
+          "role": "context",
+          "text": "xa≺xb if fkxa≤fkxb ∀k, ∃k:fkxa<fkxb （10-3）"
+        },
+        {
+          "paragraph": 5028,
+          "role": "context",
+          "text": "根据这种支配关系，可以得到帕累托前沿，即一组互不支配的解，这些解代表了不同目标之间的最佳折衷，如图 10-11。通常，通过非支配排序（如 NSGA-II）来获取帕累托前沿，并使用拥挤度距离来维持解集的多样性。"
+        }
+      ],
+      "review_prompt": "核对候选段落是否为公式、列表或跨段边界片段。若边界可接受，使用 confirm_boundary_fragment；若需要拆分或补上下文，使用 split_required 或 manual_anchor_pending。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_075",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "current_decision": "",
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "从时刻  起的折扣回报与优化目标为：",
+      "candidate_score": 0.896091,
+      "score_margin": 0.00012,
+      "candidate_span": {
+        "start": 5081,
+        "end": 5083
+      },
+      "candidate_text": "（4）奖励函数 r(s,a)：对动作即时“好/坏”的量化反馈； （5）折扣因子 γ∈(0,1]：平衡近/远期收益。值越大，智能体越看重长期回报；值越小，智能体越看重当前的即时奖励。 从时刻 t 起的折扣回报与优化目标为：",
+      "candidate_reasons": [
+        "excerpt:1.00",
+        "summary:1.00",
+        "terms:从时刻,起的折扣回报与优化目标为"
+      ],
+      "matched_terms": [
+        "从时刻",
+        "起的折扣回报与优化目标为"
+      ],
+      "context": [
+        {
+          "paragraph": 5079,
+          "role": "context",
+          "text": "（2）动作空间A：在状态下可采取的决策；"
+        },
+        {
+          "paragraph": 5080,
+          "role": "context",
+          "text": "（3）转移规律 P：动作导致的状态演化；"
+        },
+        {
+          "paragraph": 5081,
+          "role": "candidate",
+          "text": "（4）奖励函数 r(s,a)：对动作即时“好/坏”的量化反馈；"
+        },
+        {
+          "paragraph": 5082,
+          "role": "candidate",
+          "text": "（5）折扣因子 γ∈(0,1]：平衡近/远期收益。值越大，智能体越看重长期回报；值越小，智能体越看重当前的即时奖励。"
+        },
+        {
+          "paragraph": 5083,
+          "role": "candidate",
+          "text": "从时刻 t 起的折扣回报与优化目标为："
+        },
+        {
+          "paragraph": 5084,
+          "role": "context",
+          "text": "Gt=k=0∞γkrt+k+1 （10-4）"
+        },
+        {
+          "paragraph": 5085,
+          "role": "context",
+          "text": "其中：Gt​—从时间步t开始的累计回报（即智能体执行策略后获得的总奖励）。"
+        }
+      ],
+      "review_prompt": "核对候选段落是否为公式、列表或跨段边界片段。若边界可接受，使用 confirm_boundary_fragment；若需要拆分或补上下文，使用 split_required 或 manual_anchor_pending。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_087",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "current_decision": "",
+      "source_excerpt_role": "boundary_fragment_needs_manual_confirmation",
+      "source_excerpt": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+      "candidate_score": 0.920224,
+      "score_margin": 0.117956,
+      "candidate_span": {
+        "start": 5133,
+        "end": 5133
+      },
+      "candidate_text": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前Q网络参数软更新或拷贝至目标网络，以保持训练稳定。",
+      "candidate_reasons": [
+        "excerpt:0.94",
+        "summary:0.94",
+        "terms:计算梯度并更新,网络参数,每隔固定步数,贝至目标网络,以保持训练稳定"
+      ],
+      "matched_terms": [
+        "计算梯度并更新",
+        "网络参数",
+        "每隔固定步数",
+        "贝至目标网络",
+        "以保持训练稳定"
+      ],
+      "context": [
+        {
+          "paragraph": 5131,
+          "role": "context",
+          "text": "（4）从回放池中随机采样小批量经验，用DQN的损失函数："
+        },
+        {
+          "paragraph": 5132,
+          "role": "context",
+          "text": "Lθ=Er+γmaxa'Qtgts',a'-Qθs,a2 （10-9）"
+        },
+        {
+          "paragraph": 5133,
+          "role": "candidate",
+          "text": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前Q网络参数软更新或拷贝至目标网络，以保持训练稳定。"
+        },
+        {
+          "paragraph": 5134,
+          "role": "context",
+          "text": "5.终止：当路线延伸至终点里程且满足终点高程约束时，Episode结束。可根据最终累计造价给智能体额外奖励（如节省造价越多奖励越高）。"
+        },
+        {
+          "paragraph": 5135,
+          "role": "context",
+          "text": "6.策略提取：训练收敛后，取训练好的DQN的贪心策略作为纵断面设计智能体的决策策略。输入起点和地形数据，即可通过智能体的逐步决策生成一条优化的纵断面方案。"
+        }
+      ],
+      "review_prompt": "核对候选段落是否为公式、列表或跨段边界片段。若边界可接受，使用 confirm_boundary_fragment；若需要拆分或补上下文，使用 split_required 或 manual_anchor_pending。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_002",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以辅助选线 。理解协同过滤与基于内容的推荐原理及其应用。",
+      "candidate_score": 0.517533,
+      "score_margin": 0.02063,
+      "candidate_span": {
+        "start": 4781,
+        "end": 4781
+      },
+      "candidate_text": "4.了解监督学习、无监督学习及深度学习在处理多源异构道路数据中的作用。了解利用遥感与历史数据，通过机器学习模型进行模式识别，自动生成地质灾害风险地图以辅助选线。了解推荐系统在路线设计中的应用模式。",
+      "candidate_reasons": [
+        "excerpt:0.53",
+        "summary:0.54",
+        "terms:了解监督学习,无监督学习,及深度学习,在处理多源异构道路数据,遥感,中的作用,通过机器学习模型,进行模式识别"
+      ],
+      "matched_terms": [
+        "了解监督学习",
+        "无监督学习",
+        "及深度学习",
+        "在处理多源异构道路数据",
+        "遥感",
+        "中的作用",
+        "通过机器学习模型",
+        "进行模式识别",
+        "自动生成地质灾害风险地图",
+        "以辅助选线"
+      ],
+      "context": [
+        {
+          "paragraph": 4779,
+          "role": "context",
+          "text": "2.学习如何利用本体与知识图谱构建设计领域的语义网络，以及如何将规范与案例转化为结构化的规则库与案例库。了解三种核心推理方法在选线中的应用以及检索增强生成（RAG）机制如何通过“检索-证据-生成”闭环，实现知识的动态接入 。"
+        },
+        {
+          "paragraph": 4780,
+          "role": "context",
+          "text": "3.理解道路选线优化问题的核心要素，包括决策变量、目标函数及约束条件。理解遗传算法（GA）在单目标优化中的编码、选择、交叉与变异流程，了解多目标进化算法（MOEA/NSGA-II）的原理。理解马尔可夫决策过程（MDP）框架，了解如何利用强化学习（如DQN算法）将设计转化为序列决策问题。"
+        },
+        {
+          "paragraph": 4781,
+          "role": "candidate",
+          "text": "4.了解监督学习、无监督学习及深度学习在处理多源异构道路数据中的作用。了解利用遥感与历史数据，通过机器学习模型进行模式识别，自动生成地质灾害风险地图以辅助选线。了解推荐系统在路线设计中的应用模式。"
+        },
+        {
+          "paragraph": 4782,
+          "role": "context",
+          "text": "第一节 AI驱动的道路设计范式"
+        },
+        {
+          "paragraph": 4783,
+          "role": "context",
+          "text": "人工智能在道路工程领域的兴起，并不只是带来一批新工具与新算法，更关键的是重塑了设计范式。相较于传统依赖经验、规范或单一模型驱动的做法，AI的引入使设计活动更具知识化、智能化与数据化特征。其根本贡献在于：把过去高度依赖人工判断、结构化不足的复杂问题，转化为可表示、可计算、可优化的“可解问题”——具体体现在对非结构化信息的结构化、对定性因素的量化，以及对超大方案空间的系统性搜索。AI并非取代工程师，而是增强其认知与决策能力，将设计人员从烦琐的计算与制图中解放出来，使其更专注于设计与决策问题。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_031",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+      "candidate_score": 0.885056,
+      "score_margin": 0.126749,
+      "candidate_span": {
+        "start": 4912,
+        "end": 4912
+      },
+      "candidate_text": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词TA,B∈{Intersects,Contains,Touches,Disjoint,⋯}。在“坐标分区”模型下，令地质体内部关键分区边界集合为L=lkk=1m(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。",
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:设路线为线要素,地质体为面要素,DEM-9IM,拓扑谓词,坐标分区,模型下,令地质体内部关键分区边界,集合为"
+      ],
+      "matched_terms": [
+        "设路线为线要素",
+        "地质体为面要素",
+        "DEM-9IM",
+        "拓扑谓词",
+        "坐标分区",
+        "模型下",
+        "令地质体内部关键分区边界",
+        "集合为",
+        "如滑坡前缘",
+        "后缘"
+      ],
+      "context": [
+        {
+          "paragraph": 4910,
+          "role": "context",
+          "text": "（1）标准拓扑层（DE-9IM）：基于维度扩展九交模型判定线路与地质体的基本空间关系，可用 FDO 空间过滤器实现。"
+        },
+        {
+          "paragraph": 4911,
+          "role": "context",
+          "text": "（2）领域语义增强层（“坐标分区”）：在通用的拓扑模型之上，构建了一个领域专用的语义层，从而有效地将抽象的空间查询转化为具有明确工程意义的判别。"
+        },
+        {
+          "paragraph": 4912,
+          "role": "candidate",
+          "text": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词TA,B∈{Intersects,Contains,Touches,Disjoint,⋯}。在“坐标分区”模型下，令地质体内部关键分区边界集合为L=lkk=1m(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。"
+        },
+        {
+          "paragraph": 4913,
+          "role": "context",
+          "text": "当TA,B=Intersects 且 A∩lk≠ϕ,则生成工程语义事实：fk:分区=pk，pkϵ前缘、后缘、形成区-流通区-堆积扇。"
+        },
+        {
+          "paragraph": 4914,
+          "role": "context",
+          "text": "例如，对于一条泥石流沟，会依次存储其形成区末端、流通区末端和堆积扇外缘的关键点坐标。当SRR引擎检测到路线与该泥石流面要素相交（Intersects）时，会立即启动第二层判断：它会进一步计算路线线段与这些关键点连接而成的“分区线段”的相交关系。通过判断路线与哪一条分区线段相交，系统就能精确地报告出：“路线与泥石流‘流通区’相交”。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_096",
+      "priority_group": "P2_ch10_boundary_summary",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "current_decision": "",
+      "source_excerpt_role": "teaching_summary_with_term_support_not_verbatim",
+      "source_excerpt": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；",
+      "candidate_score": 0.852805,
+      "score_margin": 0.340618,
+      "candidate_span": {
+        "start": 4794,
+        "end": 4794
+      },
+      "candidate_text": "（2）执行：跨平台调用GIS分析、优化库、BIM建模与模拟评估工具，自动传递数据与参数；",
+      "candidate_reasons": [
+        "excerpt:0.83",
+        "summary:0.83",
+        "terms:执行,跨平台调用,GIS,分析,优化库,建模与模拟评估工具,自动传递数据与参数"
+      ],
+      "matched_terms": [
+        "执行",
+        "跨平台调用",
+        "GIS",
+        "分析",
+        "优化库",
+        "建模与模拟评估工具",
+        "自动传递数据与参数"
+      ],
+      "context": [
+        {
+          "paragraph": 4792,
+          "role": "context",
+          "text": "近年来AI算法驱动开始从“分散的算法工具”升级为AI 智能体（Agent）编排的流程。AI Agent是能感知数字环境、进行规划与推理并调用工具（API）的软件实体。在道路设计中，它承担“算法的组织与执行体”，围绕“规划—执行—反馈”循环运作："
+        },
+        {
+          "paragraph": 4793,
+          "role": "context",
+          "text": "（1）规划：把“为某高速公路进行线形优化”分解为可执行子任务（获取GIS约束、构建多目标模型、运行优化器、三维建模与评价等）；"
+        },
+        {
+          "paragraph": 4794,
+          "role": "candidate",
+          "text": "（2）执行：跨平台调用GIS分析、优化库、BIM建模与模拟评估工具，自动传递数据与参数；"
+        },
+        {
+          "paragraph": 4795,
+          "role": "context",
+          "text": "（3）反馈：基于仿真、工程量与环境指标的评价结果，调整约束或优化参数，触发新一轮求解。"
+        },
+        {
+          "paragraph": 4796,
+          "role": "context",
+          "text": "借助 Agent，算法驱动从“单次求解器”转向“可编排、可迭代的智能求解流程”，极大降低跨平台人工操作的冲突，强化“流程级协同”的内在一致性，但更强调由智能体来完成调度与闭环。"
+        }
+      ],
+      "review_prompt": "核对术语锚点是否足以支撑教学摘要。若可支撑，使用 confirm_teaching_summary；若支撑不足，使用 manual_anchor_pending 或 reject_candidate。"
+    }
+  ],
+  "summary": {
+    "total": 8,
+    "filled": 0,
+    "open": 8,
+    "by_review_status": {
+      "boundary_fragment_review": 5,
+      "term_supported_summary_review": 3
+    },
+    "by_suggested_decision": {
+      "confirm_boundary_fragment": 5,
+      "confirm_teaching_summary": 3
+    }
+  }
+}

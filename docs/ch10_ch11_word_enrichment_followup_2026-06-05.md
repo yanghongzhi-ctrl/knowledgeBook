@@ -409,3 +409,43 @@ P1 专项包统计：
 | P4 ch11 boundary/summary | 0/8 |
 
 下一批建议优先处理 `P2_ch10_boundary_summary` 的 8 条，然后处理 `P2_ch11_quick_confirm` 1 条，再进入 ch11 场景分组批处理。
+
+## ch10 P2 边界/摘要复核包与建议草案
+
+本轮继续推进第10章 Source_Chunks 人工复核准备，针对 `P2_ch10_boundary_summary` 的 8 条待复核项新增独立复核包和非正式建议草案。该草案只用于人工预审，不会被 `normalize_ch10_ch11.py` 默认读取，也没有写入正式审批文件。
+
+新增文件：
+| 文件 | 用途 |
+|---|---|
+| `scripts/build_ch10_p2_source_review_packet.py` | 生成第10章 P2 边界片段/教学摘要复核包 |
+| `scripts/build_ch10_p2_proposed_approvals.py` | 基于当前 draft 叠加 P2 自动建议，生成非正式 proposed 审批草案 |
+| `output/ch10_p2_source_review_packet_2026-06-05.json` | 结构化 P2 复核包，含候选段落和前后文 |
+| `output/ch10_p2_source_review_packet_2026-06-05.md` | 人工阅读版 P2 复核报告 |
+| `output/ch10_p2_source_review_packet_2026-06-05.csv` | 表格版 P2 复核清单 |
+| `data/review/ch10_p2_source_boundary_manual_approvals.proposed.json` | 非正式建议草案，不作为 formal 输入 |
+
+P2 分级结果：
+| 类型 | 数量 | 建议 decision |
+|---|---:|---|
+| 边界片段复核 | 5 | `confirm_boundary_fragment` |
+| 教学摘要术语支撑复核 | 3 | `confirm_teaching_summary` |
+| 合计 | 8 | - |
+
+建议草案结果：
+| 项目 | 数量 |
+|---|---:|
+| 全文件 decision 条目 | 51 |
+| 已有/建议非空 decision | 13 |
+| 本轮新增 P2 建议 | 8 |
+| `confirm_boundary_fragment` | 5 |
+| `confirm_teaching_summary` | 3 |
+| 继承已有 `confirm_candidate_anchor` | 4 |
+| 继承已有 `manual_anchor_pending` | 1 |
+
+验证结果：
+| 检查项 | 结果 |
+|---|---|
+| 脚本编译 | `py -m py_compile scripts/build_ch10_p2_source_review_packet.py scripts/build_ch10_p2_proposed_approvals.py` 通过 |
+| 复核包生成 | 8 条 P2 全部进入 JSON/Markdown/CSV |
+| proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_p2_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
+| 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
