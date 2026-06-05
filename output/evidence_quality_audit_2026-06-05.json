@@ -1,0 +1,1254 @@
+{
+  "scope": "ch01-ch11 evidence quality audit; ch06-ch11 include Word evidence grading checks",
+  "policy": "This audit is an automated maintenance signal for a fixed textbook knowledge base. Low confidence or weak anchors are tracked as quality buckets, not manual approval blockers.",
+  "chapters": [
+    {
+      "chapter_id": "ch01",
+      "exists": true,
+      "package_path": "data/raw/ch01/第1章_道路工程数字化设计概述_知识库_v1.0完备版.json",
+      "chapter_title": "ch01",
+      "kb_type": "",
+      "source_chunks": 31,
+      "answer_cards": 112,
+      "resources": 14,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch01_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "ungraded": 31
+      },
+      "source_word_status": {
+        "ungraded": 31
+      },
+      "source_review_status": {
+        "auto_extracted": 31
+      },
+      "answer_support_type": {
+        "ungraded": 112
+      },
+      "answer_confidence": {
+        "ungraded": 112
+      },
+      "source_needs_textbook_anchor_review": 0,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch02",
+      "exists": true,
+      "package_path": "data/raw/ch02/第2章_道路建模的图形原理与三维表达_知识库_v1.0完备版.json",
+      "chapter_title": "ch02",
+      "kb_type": "",
+      "source_chunks": 110,
+      "answer_cards": 150,
+      "resources": 45,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch02_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "ungraded": 110
+      },
+      "source_word_status": {
+        "ungraded": 110
+      },
+      "source_review_status": {
+        "missing": 110
+      },
+      "answer_support_type": {
+        "ungraded": 150
+      },
+      "answer_confidence": {
+        "ungraded": 150
+      },
+      "source_needs_textbook_anchor_review": 0,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch03",
+      "exists": true,
+      "package_path": "data/raw/ch03/第3章_道路CAD系统的设计原理_知识库_v1.0完备版.json",
+      "chapter_title": "学习目标",
+      "kb_type": "",
+      "source_chunks": 110,
+      "answer_cards": 181,
+      "resources": 65,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch03_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "ungraded": 110
+      },
+      "source_word_status": {
+        "ungraded": 110
+      },
+      "source_review_status": {
+        "missing": 110
+      },
+      "answer_support_type": {
+        "ungraded": 181
+      },
+      "answer_confidence": {
+        "ungraded": 181
+      },
+      "source_needs_textbook_anchor_review": 0,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch04",
+      "exists": true,
+      "package_path": "data/raw/ch04/第4章_道路BIM正向设计的原理与方法_知识库_v1.0完备版.json",
+      "chapter_title": "道路BIM正向设计的原理与方法",
+      "kb_type": null,
+      "source_chunks": 130,
+      "answer_cards": 254,
+      "resources": 21,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch04_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "high": 110,
+        "medium": 20
+      },
+      "source_word_status": {
+        "exact": 110,
+        "partial": 20
+      },
+      "source_review_status": {
+        "missing": 130
+      },
+      "answer_support_type": {
+        "ungraded": 254
+      },
+      "answer_confidence": {
+        "ungraded": 254
+      },
+      "source_needs_textbook_anchor_review": 0,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch05",
+      "exists": true,
+      "package_path": "data/raw/ch05/第5章_GIS理论基础与空间分析方法_知识库_v1.0完备版.json",
+      "chapter_title": "第五章 GIS理论基础与空间分析方法",
+      "kb_type": null,
+      "source_chunks": 148,
+      "answer_cards": 239,
+      "resources": 40,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch05_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "medium": 148
+      },
+      "source_word_status": {
+        "concept_supported": 148
+      },
+      "source_review_status": {
+        "missing": 148
+      },
+      "answer_support_type": {
+        "ungraded": 239
+      },
+      "answer_confidence": {
+        "ungraded": 239
+      },
+      "source_needs_textbook_anchor_review": 0,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch06",
+      "exists": true,
+      "package_path": "data/raw/ch06/第6章_AutoCAD平台功能与使用方法_知识库_v1.0操作完备版.json",
+      "chapter_title": "第6章 AutoCAD平台功能与使用方法",
+      "kb_type": "operation_oriented",
+      "source_chunks": 150,
+      "answer_cards": 180,
+      "resources": 45,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch06_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "medium": 32,
+        "low": 24,
+        "high": 94
+      },
+      "source_word_status": {
+        "auto_partial_text_supported": 24,
+        "auto_operation_summary_not_direct_quote": 28,
+        "auto_concept_operation_supported": 4,
+        "auto_direct_text_supported": 94
+      },
+      "source_review_status": {
+        "auto_evidence_graded": 126,
+        "auto_evidence_downgraded": 24
+      },
+      "answer_support_type": {
+        "direct_word_question_hit": 94,
+        "teaching_rewrite_supported_by_task_or_kp": 86
+      },
+      "answer_confidence": {
+        "high": 94,
+        "medium": 86
+      },
+      "source_needs_textbook_anchor_review": 24,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {
+        "source_repair_placeholder": {
+          "count": 9,
+          "samples": [
+            {
+              "chunk_id": "ch06_src_045",
+              "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+            },
+            {
+              "chunk_id": "ch06_src_051",
+              "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+            },
+            {
+              "chunk_id": "ch06_src_058",
+              "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+            },
+            {
+              "chunk_id": "ch06_src_060",
+              "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+            },
+            {
+              "chunk_id": "ch06_src_065",
+              "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+            }
+          ]
+        }
+      },
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [
+          {
+            "chunk_id": "ch06_src_009",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_018",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_026",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_027",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_028",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_029",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_030",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_031",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_032",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_033",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_034",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch06_src_035",
+            "title": "",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          }
+        ],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch07",
+      "exists": true,
+      "package_path": "data/raw/ch07/第7章_道路CAD软件的使用_知识库_v1.0操作完备版.json",
+      "chapter_title": "第7章 道路CAD软件的使用",
+      "kb_type": "operation_oriented",
+      "source_chunks": 150,
+      "answer_cards": 265,
+      "resources": 111,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch07_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "medium": 60,
+        "low": 90
+      },
+      "source_word_status": {
+        "auto_operation_summary_not_direct_quote": 142,
+        "auto_concept_operation_supported": 8
+      },
+      "source_review_status": {
+        "auto_evidence_graded": 60,
+        "auto_evidence_downgraded": 90
+      },
+      "answer_support_type": {
+        "direct_word_question_hit": 265
+      },
+      "answer_confidence": {
+        "high": 265
+      },
+      "source_needs_textbook_anchor_review": 90,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [
+          {
+            "chunk_id": "ch07_src_002",
+            "title": "纬地采用项目文件夹管理设计文件，新建项目时需设置项目名称、路径和平面线文件。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_003",
+            "title": "项目管理器可查看和修改文件路径、项目属性、图框和表格模板。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_005",
+            "title": "如果数模边界或三角网不理想，可通过优化数模边界或三角网优化进行修正。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_008",
+            "title": "构网后应检查数模范围，必要时排除高程异常点。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_009",
+            "title": "平面设计需输入路线控制条件，设置圆曲线和缓和曲线参数，完成中线线形。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_010",
+            "title": "S型、卵形、C型和回头曲线等组合要求设计者理解曲线连接关系和软件处理差异。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_012",
+            "title": "基本模式法用于处理直线与圆、圆与圆之间的连接关系。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_013",
+            "title": "纵断面地面线可由外业中桩高程输入，也可从数模内插。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_014",
+            "title": "纬地通过纵断面设计对话框进行变坡点设置、竖曲线计算和动态修改。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_016",
+            "title": "纬地横断面流程包括地面线输入或内插、设计向导、超高加宽、路基设计计算、戴帽和编辑。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_018",
+            "title": "戴帽设计根据模板和地面线逐桩生成横断面成果，并可浏览修改。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch07_src_020",
+            "title": "设计最终产品是图纸和表格，图框和模板需满足工程设计图表格式要求。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          }
+        ],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch08",
+      "exists": true,
+      "package_path": "data/raw/ch08/第8章_道路BIM软件的使用_知识库_v1.0操作完备版.json",
+      "chapter_title": "第8章 道路BIM软件的使用",
+      "kb_type": "operation_oriented",
+      "source_chunks": 160,
+      "answer_cards": 262,
+      "resources": 114,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch08_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "medium": 68,
+        "low": 92
+      },
+      "source_word_status": {
+        "auto_concept_operation_supported": 14,
+        "auto_operation_summary_not_direct_quote": 146
+      },
+      "source_review_status": {
+        "auto_evidence_graded": 68,
+        "auto_evidence_downgraded": 92
+      },
+      "answer_support_type": {
+        "teaching_rewrite_supported_by_task_or_kp": 252,
+        "teaching_rewrite_supported_by_concept_comparison": 4,
+        "direct_word_question_hit": 6
+      },
+      "answer_confidence": {
+        "medium": 256,
+        "high": 6
+      },
+      "source_needs_textbook_anchor_review": 92,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [
+          {
+            "chunk_id": "ch08_src_004",
+            "title": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_005",
+            "title": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_006",
+            "title": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_007",
+            "title": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_009",
+            "title": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_010",
+            "title": "三维漫游和组件数量报表用于检查模型效果并提取材料与土石方数量。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_011",
+            "title": "标注样式、标注组和命名边界支撑平面图、纵断面图的自动化出图。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_016",
+            "title": "平面设计可采用交点法和积木法，前者强调交点控制，后者适合复杂线元组合。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_017",
+            "title": "纵断面设计通过Profile View、高程控制点投影、交点法或积木法完成拉坡和竖曲线设置。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_018",
+            "title": "模板编辑器通过点、空点、组件、约束和末端条件组织横断面构造。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_019",
+            "title": "End Condition及其Priority用于复杂地形中自动选择挖方、填方、挡墙等放坡方案。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch08_src_021",
+            "title": "加宽表和超高区间/车道通过规则与廊道关联，驱动曲线路段宽度和横坡变化。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          }
+        ],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch09",
+      "exists": true,
+      "package_path": "data/raw/ch09/第9章_BIM_GIS集成方法_知识库_v1.0操作完备版.json",
+      "chapter_title": "第9章 BIM_GIS集成方法",
+      "kb_type": "operation_oriented",
+      "source_chunks": 150,
+      "answer_cards": 256,
+      "resources": 20,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch09_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "medium": 29,
+        "high": 119,
+        "low": 2
+      },
+      "source_word_status": {
+        "auto_partial_text_supported": 25,
+        "auto_direct_text_supported": 119,
+        "auto_concept_operation_supported": 3,
+        "auto_operation_summary_not_direct_quote": 3
+      },
+      "source_review_status": {
+        "auto_evidence_graded": 148,
+        "auto_evidence_downgraded": 2
+      },
+      "answer_support_type": {
+        "teaching_rewrite_supported_by_task_or_kp": 203,
+        "word_direct_question_missing": 36,
+        "direct_word_question_hit": 2,
+        "teaching_rewrite_supported_by_concept_comparison": 15
+      },
+      "answer_confidence": {
+        "medium": 218,
+        "low": 36,
+        "high": 2
+      },
+      "source_needs_textbook_anchor_review": 2,
+      "answer_needs_textbook_anchor_review": 36,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [
+          {
+            "chunk_id": "ch09_src_094",
+            "title": "曲面纵断面即纵断面地面线。在“常用”面板“纵断面”菜单下，选取“创建曲面纵断面”，弹出“从曲面创建纵断面”对话框，如图 9-12所示。用户在对话框中选定要创建纵断面的路线及路线所在的曲面后，点击“确定”即可。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch09_src_135",
+            "title": "完成道路平纵横设计后，选择“常用”选项卡下“创建设计”面板中的“道路”命令。在“创建道路”对话框中指定道路名称、路线、纵断面和装配，点击“确定”完成道路创建。",
+            "confidence": "low",
+            "word_status": "auto_operation_summary_not_direct_quote",
+            "alignment_status": "missing",
+            "boundary_type": "operation_teaching_summary",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auto_operation_summary_not_verbatim",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          }
+        ],
+        "answer_cards": [
+          {
+            "answer_id": "ans_ch09_116",
+            "canonical_question": "构建地质风险影响因子图层怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_117",
+            "canonical_question": "构建综合成本表面怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_119",
+            "canonical_question": "搜索最小成本路径怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_120",
+            "canonical_question": "构建参数化道路模型怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_121",
+            "canonical_question": "生成道路重构DEM怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_122",
+            "canonical_question": "扰动后地质风险再预测怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_123",
+            "canonical_question": "候选路线方案定量比选怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_125",
+            "canonical_question": "配置空间推理触发规则怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_126",
+            "canonical_question": "运行CBR案例推理怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_127",
+            "canonical_question": "运行RBR规则推理怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_128",
+            "canonical_question": "生成交互式选线反馈怎么做？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "answer_id": "ans_ch09_211",
+            "canonical_question": "为什么构建地质风险影响因子图层后结果错位/不显示/不正确？",
+            "support_type": "word_direct_question_missing",
+            "confidence": "low",
+            "needs_textbook_anchor_review": true
+          }
+        ]
+      }
+    },
+    {
+      "chapter_id": "ch10",
+      "exists": true,
+      "package_path": "data/raw/ch10/第10章_AI驱动的道路设计方法_知识库_v1.0方法完备版.json",
+      "chapter_title": "AI驱动的道路设计方法",
+      "kb_type": null,
+      "source_chunks": 160,
+      "answer_cards": 308,
+      "resources": 30,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch10_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "medium": 30,
+        "high": 129,
+        "low": 1
+      },
+      "source_word_status": {
+        "concept_supported": 1,
+        "auto_teaching_summary_supported": 3,
+        "partial": 21,
+        "exact": 125,
+        "auto_boundary_fragment_supported": 5,
+        "auto_concept_anchor_supported": 4,
+        "auto_anchor_missing_or_weak": 1
+      },
+      "source_review_status": {
+        "checked": 147,
+        "auto_evidence_graded": 12,
+        "auto_evidence_downgraded": 1
+      },
+      "answer_support_type": {
+        "ungraded": 308
+      },
+      "answer_confidence": {
+        "ungraded": 308
+      },
+      "source_needs_textbook_anchor_review": 1,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [
+          {
+            "chunk_id": "ch10_src_140",
+            "title": "当 且 ,则生成工程语义事实：，。",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          }
+        ],
+        "answer_cards": []
+      }
+    },
+    {
+      "chapter_id": "ch11",
+      "exists": true,
+      "package_path": "data/raw/ch11/第11章_道路数字孪生的概念与方法体系_知识库_v1.0框架完备版.json",
+      "chapter_title": "道路数字孪生的概念与方法体系",
+      "kb_type": null,
+      "source_chunks": 160,
+      "answer_cards": 295,
+      "resources": 20,
+      "release": {
+        "exists": true,
+        "status": "released",
+        "version_id": "ch11_kb_v1.0",
+        "failed_steps": []
+      },
+      "source_confidence": {
+        "medium": 34,
+        "high": 97,
+        "low": 29
+      },
+      "source_word_status": {
+        "partial": 20,
+        "exact": 96,
+        "auto_concept_anchor_supported": 1,
+        "concept_supported": 6,
+        "auto_anchor_missing_or_weak": 29,
+        "auto_teaching_summary_supported": 6,
+        "auto_boundary_fragment_supported": 2
+      },
+      "source_review_status": {
+        "checked": 122,
+        "auto_evidence_graded": 9,
+        "auto_evidence_downgraded": 29
+      },
+      "answer_support_type": {
+        "ungraded": 295
+      },
+      "answer_confidence": {
+        "ungraded": 295
+      },
+      "source_needs_textbook_anchor_review": 29,
+      "answer_needs_textbook_anchor_review": 0,
+      "text_issues": {},
+      "field_issues": {},
+      "follow_up_candidates": {
+        "source_chunks": [
+          {
+            "chunk_id": "ch11_src_117",
+            "title": "对于山区高墩桥梁或跨海大桥，数字孪生设计场景引入了风场仿真，这是跨桥梁、交通与气象多专业的综合协同体现。 （1）风致振动响应推演 结合区域气象站的长期观测数据，模拟峡谷风、强侧风或台风等典型风场条件，分析结构在不同工况下……",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_119",
+            "title": "传统道路设计通常采用人工主导的“试错式”方案比选方式，设计空间有限且依赖经验判断。数字孪生融合算法驱动、知识驱动与数据驱动等人工智能范式，推动道路设计从“辅助绘图”向“生成式设计”转变。 1.算法驱动的参数化自动布局 设……",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_121",
+            "title": "依托第二节所述的数字主线机制，路线位置或控制参数的调整将自动触发桥梁、隧道等相关构件模型的同步更新，确保整体设计方案的一致性与完整性。 2.数据与知识驱动的辅助决策 在方案生成与筛选过程中，系统综合运用数据挖掘与知识推理……",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_122",
+            "title": "（1）参数智能推荐（数据驱动） 基于历史项目数据，系统可采用协同过滤或基于内容的推荐方法，为当前项目提供曲线半径、缓和曲线长度等参数建议，有效缓解设计初期的信息不足问题。 （2）规范符合性自动核查（知识驱动）",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_124",
+            "title": "虚拟驾驶仿真与安全评价 为系统评估设计方案的行车安全性与舒适性，数字孪生支持在高保真虚拟环境中开展虚拟试驾，实现安全风险的前置识别与验证。 1.三维视距连续性检验",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_125",
+            "title": "基于高精度语义模型，系统可从驾驶员视角对行车轨迹进行连续扫描。 （1）动态视距核查 系统能够识别边坡、植被及交通设施对视线的遮挡情况，连续检测停车视距与超车视距，并自动标注潜在视距受限路段。",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_126",
+            "title": "（2）视觉诱导性评价 从驾驶心理与视觉感知角度，对线形组合的平顺性及交通标志布设效果进行评价，为优化行车诱导条件提供依据。 2.复杂工况下的车辆动力学仿真",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_127",
+            "title": "引入车辆动力学模型，在虚拟数字路面上模拟车辆在不同工况下的运行状态，以较低的仿真成本开展多轮安全性验证。 （1）侧滑与侧翻风险分析 模拟重载车辆或危化品运输车辆在大坡度、急弯或恶劣气象条件下的行驶性能，计算侧向加速度与轮……",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_128",
+            "title": "（2）主动安全策略验证 通过在设计阶段反复仿真与调整，提前识别线形设计的薄弱环节，并在方案形成前予以优化，从源头上降低现实交通运行中的安全隐患。 传统设计模式与数字孪生设计模式的对比",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_134",
+            "title": "（2）动态调整与路径优化 当关键工序出现偏差时，系统可基于关键路径法对后续施工方案进行情景推演，模拟不同资源配置条件下的进度恢复效果，为施工组织调整提供定量化参考。 智能化施工与质量闭环控制",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_135",
+            "title": "施工阶段数字孪生的重要价值，在于将传统以“事后检测”为主的质量管理模式前移为以“事中控制”为核心的闭环控制体系，通过实时数据驱动施工行为，提升工程质量的可控性与一致性。 1.路基路面智能压实与摊铺控制 在压路机与摊铺机上……",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          },
+          {
+            "chunk_id": "ch11_src_136",
+            "title": "（1）压实状态实时可视化 压路机通过采集振动响应数据，结合空间位置信息计算压实状态指标（如 CMV），并在数字路面模型中形成连续分布的可视化结果。施工人员可依据该结果对欠压区域进行针对性补压，减少传统点位抽检方式带来的不……",
+            "confidence": "low",
+            "word_status": "auto_anchor_missing_or_weak",
+            "alignment_status": "missing",
+            "boundary_type": "weak_or_missing_anchor",
+            "review_status": "auto_evidence_downgraded",
+            "source_excerpt_role": "auxiliary_evidence_anchor_weak_not_primary",
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": true
+          }
+        ],
+        "answer_cards": []
+      }
+    }
+  ],
+  "summary": {
+    "chapters": 11,
+    "source_chunks": 1459,
+    "answer_cards": 2502,
+    "source_needs_textbook_anchor_review": 238,
+    "answer_needs_textbook_anchor_review": 36,
+    "attention_items": [
+      {
+        "chapter_id": "ch06",
+        "issue": "text_issue",
+        "details": {
+          "source_repair_placeholder": {
+            "count": 9,
+            "samples": [
+              {
+                "chunk_id": "ch06_src_045",
+                "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+              },
+              {
+                "chunk_id": "ch06_src_051",
+                "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+              },
+              {
+                "chunk_id": "ch06_src_058",
+                "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+              },
+              {
+                "chunk_id": "ch06_src_060",
+                "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+              },
+              {
+                "chunk_id": "ch06_src_065",
+                "preview": "该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。 该证据片段原始稿中残留Word XML格式内容，需结合教材正文人工复核。"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

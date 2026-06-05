@@ -2,9 +2,9 @@
   "chapter_id": "ch09",
   "version_id": "ch09_kb_v1.0",
   "package_path": "D:\\knowledgebase\\data\\raw\\ch09\\第9章_BIM_GIS集成方法_知识库_v1.0操作完备版.json",
-  "source_checksum": "93020afc111239a0e597f40e20610c3d67fc06d235786eb6381f4a9f30cb494a",
-  "started_at": "2026-06-05T19:58:08",
-  "finished_at": "2026-06-05T20:05:29",
+  "source_checksum": "52f67b59661b9a0c439b875e51bb90685ea776f9df4ec2ac601fa3f938b13ff1",
+  "started_at": "2026-06-05T20:14:07",
+  "finished_at": "2026-06-05T20:21:46",
   "status": "released",
   "table_counts": {
     "README": 8,
@@ -140,7 +140,7 @@
     {
       "name": "sql_export",
       "status": "passed",
-      "summary": "seed_sql_bytes=4253216",
+      "summary": "seed_sql_bytes=4253334",
       "details": {
         "seed_sql": "D:\\knowledgebase\\output\\ch09_rag_engine\\db_load\\ch09_seed.sql"
       }

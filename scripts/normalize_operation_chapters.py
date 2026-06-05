@@ -183,12 +183,39 @@ def normalize_source_chunks(rows: list[dict[str, Any]]) -> None:
     for row in rows:
         if not isinstance(row, dict):
             continue
+        repair_source_text_fragments(row)
         row["chunk_summary"] = row.get("chunk_summary") or row.get("summary") or row.get("source_excerpt") or ""
         row.setdefault("evidence_role", row.get("evidence_level") or "证据层，不作为RAG第一主检索对象")
         row.setdefault("answer_use", row.get("used_for_answer") or "用于核验答案卡与操作任务，不建议整段输出给学生")
         row["usable_for_answer"] = "no_direct_output"
         row.setdefault("review_status", row.get("status") or "checked")
         row["keywords"] = split_values(row.get("keywords"))
+
+
+def repair_source_text_fragments(row: dict[str, Any]) -> None:
+    changed = False
+    for field in ("source_excerpt", "summary", "chunk_summary"):
+        value = row.get(field)
+        if not isinstance(value, str) or not value:
+            continue
+        repaired = normalize_source_text(value)
+        if repaired != value:
+            row[field] = repaired
+            changed = True
+    if changed:
+        row["source_excerpt_text_repair_note"] = "Normalized duplicate punctuation in source excerpt fields during operation chapter rebuild."
+
+
+def normalize_source_text(text: str) -> str:
+    previous = None
+    current = text
+    while previous != current:
+        previous = current
+        current = current.replace("。。", "。")
+        current = current.replace("．．", "。")
+        current = current.replace("，，", "，")
+        current = current.replace("；；", "；")
+    return current
 
 
 def normalize_knowledge_points(rows: list[dict[str, Any]]) -> None:
