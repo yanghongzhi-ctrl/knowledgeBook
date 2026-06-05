@@ -5,6 +5,7 @@ const els = {
   sceneFilter: document.querySelector("#sceneFilter"),
   searchInput: document.querySelector("#searchInput"),
   summary: document.querySelector("#summary"),
+  handoffSummary: document.querySelector("#handoffSummary"),
   sceneProgress: document.querySelector("#sceneProgress"),
   itemList: document.querySelector("#itemList"),
   detailTitle: document.querySelector("#detailTitle"),
@@ -17,6 +18,7 @@ const els = {
   approvalFile: document.querySelector("#approvalFile"),
   validationStatus: document.querySelector("#validationStatus"),
   loadDraft: document.querySelector("#loadDraft"),
+  loadFullProposed: document.querySelector("#loadFullProposed"),
   saveDraft: document.querySelector("#saveDraft"),
   copyJson: document.querySelector("#copyJson"),
   downloadJson: document.querySelector("#downloadJson"),
@@ -30,6 +32,7 @@ const els = {
 const state = {
   payload: null,
   scenePayload: null,
+  handoffPayload: null,
   items: [],
   filtered: [],
   selectedId: "",
@@ -56,7 +59,9 @@ async function init() {
     state.payload = await response.json();
     state.items = (state.payload.decisions || []).map((item) => ({ ...item }));
     await loadScenePacket();
+    await loadHandoffPacket();
     applySceneMetadata();
+    applyHandoffMetadata();
     state.selectedId = itemKey(state.items[0] || {});
     populateFilters();
     bindEvents();
@@ -90,6 +95,7 @@ function bindEvents() {
   els.notesInput.addEventListener("input", updateCurrentEdit);
   els.approvalFile.addEventListener("change", importApprovalJson);
   els.loadDraft.addEventListener("click", loadDraftFromApi);
+  els.loadFullProposed.addEventListener("click", loadFullProposed);
   els.saveDraft.addEventListener("click", saveDraftToApi);
   els.copyJson.addEventListener("click", copyApprovalJson);
   els.downloadJson.addEventListener("click", downloadApprovalJson);
@@ -117,10 +123,33 @@ function render() {
     state.selectedId = itemKey(state.filtered[0] || {});
   }
   renderSummary();
+  renderHandoffSummary();
   renderSceneProgress();
   renderList();
   renderDetail();
   renderValidation();
+}
+
+function renderHandoffSummary() {
+  const summary = state.handoffPayload?.summary;
+  if (!summary) {
+    els.handoffSummary.innerHTML = `<div class="handoff-empty">未加载 handoff 包</div>`;
+    return;
+  }
+  const risk = summary.risk_counts || {};
+  const decisions = summary.decision_counts || {};
+  const rows = [
+    ["Total", summary.total],
+    ["Validation", summary.validation_ok ? "OK" : "Check"],
+    ["Formal file", state.handoffPayload.formal_approval_file_exists ? "exists" : "not created"],
+    ["Low risk", risk.low || 0],
+    ["Medium risk", risk.medium || 0],
+    ["High risk", risk.high || 0],
+    ["Manual pending", decisions.manual_anchor_pending || 0]
+  ];
+  els.handoffSummary.innerHTML = rows
+    .map(([label, value]) => `<div class="summary-row"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value)}</strong></div>`)
+    .join("");
 }
 
 function renderSummary() {
@@ -199,11 +228,12 @@ function renderList() {
       return `<button class="item-card${active}" type="button" data-key="${escapeHtml(key)}">
         <strong>${escapeHtml(item.chunk_id)}</strong>
         <small>${escapeHtml(item.priority_group)}</small>
-        <span class="badge-row">
-          <span class="badge">${escapeHtml(item.review_status)}</span>
-          ${item.scene_title ? `<span class="badge scene">${escapeHtml(item.scene_title)}</span>` : ""}
-          <span class="badge ${escapeHtml(decision)}">${escapeHtml(decisionLabels[decision] || decision || "待填写")}</span>
-        </span>
+          <span class="badge-row">
+            <span class="badge">${escapeHtml(item.review_status)}</span>
+            ${item.scene_title ? `<span class="badge scene">${escapeHtml(item.scene_title)}</span>` : ""}
+            ${item.risk_level ? `<span class="badge risk-${escapeHtml(item.risk_level)}">${escapeHtml(item.risk_level)}</span>` : ""}
+            <span class="badge ${escapeHtml(decision)}">${escapeHtml(decisionLabels[decision] || decision || "待填写")}</span>
+          </span>
       </button>`;
     })
     .join("");
@@ -249,6 +279,8 @@ function factsHtml(item) {
     ["候选得分", item.candidate_score],
     ["分数差", item.score_margin],
     ["Source role", item.source_excerpt_role],
+    ["Handoff risk", item.risk_level || ""],
+    ["人工动作", item.manual_review_required || ""],
     ["匹配依据", (item.candidate_reasons || []).join("; ")],
     ["匹配术语", (item.matched_terms || []).join("; ")]
   ];
@@ -262,6 +294,16 @@ async function loadScenePacket() {
     state.scenePayload = await response.json();
   } catch (_error) {
     state.scenePayload = null;
+  }
+}
+
+async function loadHandoffPacket() {
+  try {
+    const response = await fetch("../output/ch10_ch11_source_review_handoff_2026-06-05.json");
+    if (!response.ok) return;
+    state.handoffPayload = await response.json();
+  } catch (_error) {
+    state.handoffPayload = null;
   }
 }
 
@@ -280,6 +322,23 @@ function applySceneMetadata() {
   state.items = state.items.map((item) => {
     const scene = index.get(itemKey(item));
     return scene ? { ...item, ...scene } : item;
+  });
+}
+
+function applyHandoffMetadata() {
+  const index = new Map();
+  for (const item of state.handoffPayload?.rows || []) {
+    index.set(itemKey(item), {
+      risk_level: item.risk_level || "",
+      manual_review_required: item.manual_review_required || "",
+      handoff_decision: item.decision || "",
+      handoff_reviewer_notes: item.reviewer_notes || ""
+    });
+  }
+  if (!index.size) return;
+  state.items = state.items.map((item) => {
+    const handoff = index.get(itemKey(item));
+    return handoff ? { ...item, ...handoff } : item;
   });
 }
 
@@ -438,6 +497,23 @@ async function loadDraftFromApi() {
     showStatus(`加载草稿失败：${error.message}`, "error");
   } finally {
     els.loadDraft.disabled = false;
+  }
+}
+
+async function loadFullProposed() {
+  try {
+    els.loadFullProposed.disabled = true;
+    const response = await fetch("../data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json");
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    const payload = await response.json();
+    const imported = mergeApprovalPayload(payload);
+    showStatus(`已加载 full proposed：${imported} 条。请人工复核后再导出 formal。`, "ok");
+  } catch (error) {
+    showStatus(`加载 full proposed 失败：${error.message}`, "error");
+  } finally {
+    els.loadFullProposed.disabled = false;
   }
 }
 

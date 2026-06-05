@@ -617,3 +617,26 @@ P4 分级结果：
 | 晋级 dry-run | 非空 decision=51，open=0，但 formal_written=false |
 | 写入保护 | dry-run blocker 为 `Dry run only. Add --write-formal --confirm-reviewed to write the formal approval file.` |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
+
+## 复核工作台接入 Handoff 与 full proposed
+
+本轮将 Source_Chunks 人工复核交接包接入 `web/source-review.html` 工作台。页面启动时会尝试读取 `output/ch10_ch11_source_review_handoff_2026-06-05.json`，在左侧显示 handoff 摘要，并将风险等级与人工动作同步到条目卡片和详情面板。同时新增“加载 full proposed”按钮，直接读取 `data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json` 并导入 51 条 proposed decision，供人工逐条修改后再导出。
+
+新增/更新能力：
+| 能力 | 说明 |
+|---|---|
+| Handoff 摘要卡 | 显示 total、validation、formal 文件状态、low/medium/high risk 和 manual pending 数量 |
+| 风险 badge | 条目卡片显示 `low`、`medium`、`high` 风险标签 |
+| 详情补充 | 详情面板显示 handoff risk 与建议人工动作 |
+| full proposed 导入 | 顶部按钮可一次导入 51 条 full proposed 草案 |
+| 缓存版本 | `source-review.html` 引用版本更新到 `20260605f` |
+
+验证结果：
+| 检查项 | 结果 |
+|---|---|
+| 静态页面 | `http://127.0.0.1:5174/web/source-review.html?fresh=20260605f` 返回 200 |
+| handoff JSON | `http://127.0.0.1:5174/output/ch10_ch11_source_review_handoff_2026-06-05.json` 返回 200 |
+| full proposed JSON | `http://127.0.0.1:5174/data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json` 返回 200 |
+| JS 初始化 stub | handoff 摘要加载成功，High risk=30，列表与统计渲染成功 |
+| full proposed 按钮 stub | 成功导入 51 条，状态提示“已加载 full proposed：51 条” |
+| 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |

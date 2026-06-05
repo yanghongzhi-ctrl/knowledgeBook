@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>第10、11章证据边界复核</title>
-    <link rel="stylesheet" href="./source-review.css?v=20260605e" />
+    <link rel="stylesheet" href="./source-review.css?v=20260605f" />
   </head>
   <body>
     <main class="review-shell">
@@ -54,6 +54,11 @@
         </section>
 
         <section class="panel">
+          <h2>Handoff</h2>
+          <div id="handoffSummary" class="handoff-summary"></div>
+        </section>
+
+        <section class="panel">
           <h2>场景进度</h2>
           <div id="sceneProgress" class="scene-progress"></div>
         </section>
@@ -76,6 +81,7 @@
               <input id="approvalFile" type="file" accept="application/json,.json" />
             </label>
             <button id="loadDraft" type="button">加载草稿</button>
+            <button id="loadFullProposed" type="button">加载 full proposed</button>
             <button id="saveDraft" type="button">保存草稿</button>
             <button id="copyJson" type="button">复制审批 JSON</button>
             <button id="downloadJson" type="button">下载审批 JSON</button>
@@ -124,6 +130,6 @@
       </section>
     </main>
 
-    <script src="./source-review.js?v=20260605e"></script>
+    <script src="./source-review.js?v=20260605f"></script>
   </body>
 </html>

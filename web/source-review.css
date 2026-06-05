@@ -137,6 +137,16 @@ textarea {
   gap: 7px;
 }
 
+.handoff-summary {
+  display: grid;
+  gap: 7px;
+}
+
+.handoff-empty {
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .scene-progress {
   display: grid;
   gap: 8px;
@@ -251,6 +261,21 @@ textarea {
 .badge.scene {
   background: #e8eef8;
   color: var(--blue);
+}
+
+.badge.risk-low {
+  background: #e7f5f2;
+  color: var(--teal);
+}
+
+.badge.risk-medium {
+  background: #fff4d6;
+  color: var(--amber);
+}
+
+.badge.risk-high {
+  background: #fff1ed;
+  color: var(--danger);
 }
 
 .detail {
