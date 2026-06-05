@@ -3,8 +3,8 @@
 - 版本：`ch07_kb_v1.0`
 - 状态：`released`
 - 知识包：`D:\knowledgebase\data\raw\ch07\第7章_道路CAD软件的使用_知识库_v1.0操作完备版.json`
-- 开始时间：2026-06-04T15:30:44
-- 完成时间：2026-06-04T15:31:59
+- 开始时间：2026-06-05T19:09:10
+- 完成时间：2026-06-05T19:18:47
 
 ## 发布步骤
 
@@ -13,10 +13,10 @@
 | validate | passed | errors=0, warnings=0 |
 | quality | passed | ambiguous_qa=0, duplicate_canonical=0 |
 | export | passed | exported_files=25 |
-| sql_export | passed | seed_sql_bytes=4985626 |
+| sql_export | passed | seed_sql_bytes=5266967 |
 | local_qa_evaluation | passed | passed=265/265 (100.00%) |
 | local_resource_evaluation | passed | passed=2/2 (100.00%) |
-| embeddings | skipped | embedding generation not requested |
+| embeddings | passed | generated=466/466, dimensions=[1024] |
 | db_import | passed | counts_ok=True, embedded_vectors=466 |
 | db_keyword_evaluation | passed | passed=265/265 (100.00%) |
 | db_hybrid_evaluation | passed | passed=30/30 (100.00%) |

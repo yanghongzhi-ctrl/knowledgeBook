@@ -166,5 +166,45 @@
     "teaching_use": "作为软件操作演示视频，配合任务步骤和错误排查使用。",
     "qa_use": "当学生询问对应操作怎么做、哪里出错、是否有演示时推荐。",
     "status": "placeholder"
+  },
+  {
+    "video_id": "ch08_vid_013",
+    "chapter_id": "ch08",
+    "title": "检查地形模型质量操作视频占位",
+    "file_path": "chapter_08/videos/ch08_vid_013.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata"
+  },
+  {
+    "video_id": "ch08_vid_014",
+    "chapter_id": "ch08",
+    "title": "使用交点法创建平面线形操作视频占位",
+    "file_path": "chapter_08/videos/ch08_vid_014.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata"
+  },
+  {
+    "video_id": "ch08_vid_015",
+    "chapter_id": "ch08",
+    "title": "使用积木法创建平面线形操作视频占位",
+    "file_path": "chapter_08/videos/ch08_vid_015.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata"
+  },
+  {
+    "video_id": "ch08_vid_016",
+    "chapter_id": "ch08",
+    "title": "创建缓和曲线-圆曲线-缓和曲线组合操作视频占位",
+    "file_path": "chapter_08/videos/ch08_vid_016.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata"
+  },
+  {
+    "video_id": "ch08_vid_017",
+    "chapter_id": "ch08",
+    "title": "创建S型曲线操作视频占位",
+    "file_path": "chapter_08/videos/ch08_vid_017.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata"
   }
 ]

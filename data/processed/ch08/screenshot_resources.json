@@ -2418,5 +2418,1265 @@
     "description": "用于展示该步骤的软件界面、关键参数或检查结果。",
     "related_video_segment": "ch08_vid_seg_052",
     "status": "placeholder"
+  },
+  {
+    "screenshot_id": "ch08_ss_0221",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_045_map_corridor_targets",
+    "step_id": "ch08_task_045_map_corridor_targets_step_01",
+    "title": "进行廊道目标映射-选择Alignment和Active Profile截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0221.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0222",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_045_map_corridor_targets",
+    "step_id": "ch08_task_045_map_corridor_targets_step_02",
+    "title": "进行廊道目标映射-执行创建廊道或编辑廊道工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0222.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0223",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_045_map_corridor_targets",
+    "step_id": "ch08_task_045_map_corridor_targets_step_03",
+    "title": "进行廊道目标映射-指定Template和模板投放范围截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0223.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0224",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_045_map_corridor_targets",
+    "step_id": "ch08_task_045_map_corridor_targets_step_04",
+    "title": "进行廊道目标映射-映射Terrain或外部控制目标截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0224.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0225",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_045_map_corridor_targets",
+    "step_id": "ch08_task_045_map_corridor_targets_step_05",
+    "title": "进行廊道目标映射-更新廊道并检查三维和横断面视图截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0225.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0226",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_046_review_cross_sections",
+    "step_id": "ch08_task_046_review_cross_sections_step_01",
+    "title": "检查廊道横断面-选择Alignment和Active Profile截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0226.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0227",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_046_review_cross_sections",
+    "step_id": "ch08_task_046_review_cross_sections_step_02",
+    "title": "检查廊道横断面-执行创建廊道或编辑廊道工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0227.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0228",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_046_review_cross_sections",
+    "step_id": "ch08_task_046_review_cross_sections_step_03",
+    "title": "检查廊道横断面-指定Template和模板投放范围截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0228.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0229",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_046_review_cross_sections",
+    "step_id": "ch08_task_046_review_cross_sections_step_04",
+    "title": "检查廊道横断面-映射Terrain或外部控制目标截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0229.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0230",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_046_review_cross_sections",
+    "step_id": "ch08_task_046_review_cross_sections_step_05",
+    "title": "检查廊道横断面-更新廊道并检查三维和横断面视图截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0230.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0231",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_047_create_corridor_transition",
+    "step_id": "ch08_task_047_create_corridor_transition_step_01",
+    "title": "创建廊道过渡段-选择Alignment和Active Profile截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0231.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0232",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_047_create_corridor_transition",
+    "step_id": "ch08_task_047_create_corridor_transition_step_02",
+    "title": "创建廊道过渡段-执行创建廊道或编辑廊道工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0232.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0233",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_047_create_corridor_transition",
+    "step_id": "ch08_task_047_create_corridor_transition_step_03",
+    "title": "创建廊道过渡段-指定Template和模板投放范围截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0233.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0234",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_047_create_corridor_transition",
+    "step_id": "ch08_task_047_create_corridor_transition_step_04",
+    "title": "创建廊道过渡段-映射Terrain或外部控制目标截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0234.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0235",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_047_create_corridor_transition",
+    "step_id": "ch08_task_047_create_corridor_transition_step_05",
+    "title": "创建廊道过渡段-更新廊道并检查三维和横断面视图截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0235.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0236",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_048_apply_point_control",
+    "step_id": "ch08_task_048_apply_point_control_step_01",
+    "title": "应用点控制-选择Alignment和Active Profile截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0236.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0237",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_048_apply_point_control",
+    "step_id": "ch08_task_048_apply_point_control_step_02",
+    "title": "应用点控制-执行创建廊道或编辑廊道工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0237.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0238",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_048_apply_point_control",
+    "step_id": "ch08_task_048_apply_point_control_step_03",
+    "title": "应用点控制-指定Template和模板投放范围截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0238.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0239",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_048_apply_point_control",
+    "step_id": "ch08_task_048_apply_point_control_step_04",
+    "title": "应用点控制-映射Terrain或外部控制目标截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0239.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0240",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_048_apply_point_control",
+    "step_id": "ch08_task_048_apply_point_control_step_05",
+    "title": "应用点控制-更新廊道并检查三维和横断面视图截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0240.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0241",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_049_update_corridor",
+    "step_id": "ch08_task_049_update_corridor_step_01",
+    "title": "更新廊道模型-选择Alignment和Active Profile截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0241.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0242",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_049_update_corridor",
+    "step_id": "ch08_task_049_update_corridor_step_02",
+    "title": "更新廊道模型-执行创建廊道或编辑廊道工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0242.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0243",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_049_update_corridor",
+    "step_id": "ch08_task_049_update_corridor_step_03",
+    "title": "更新廊道模型-指定Template和模板投放范围截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0243.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0244",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_049_update_corridor",
+    "step_id": "ch08_task_049_update_corridor_step_04",
+    "title": "更新廊道模型-映射Terrain或外部控制目标截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0244.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0245",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_049_update_corridor",
+    "step_id": "ch08_task_049_update_corridor_step_05",
+    "title": "更新廊道模型-更新廊道并检查三维和横断面视图截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0245.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0246",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_050_edit_widening_table",
+    "step_id": "ch08_task_050_edit_widening_table_step_01",
+    "title": "编辑加宽表-准备曲线段和规范规则文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0246.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0247",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_050_edit_widening_table",
+    "step_id": "ch08_task_050_edit_widening_table_step_02",
+    "title": "编辑加宽表-创建加宽或超高区间截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0247.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0248",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_050_edit_widening_table",
+    "step_id": "ch08_task_050_edit_widening_table_step_03",
+    "title": "编辑加宽表-生成车道或读取加宽表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0248.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0249",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_050_edit_widening_table",
+    "step_id": "ch08_task_050_edit_widening_table_step_04",
+    "title": "编辑加宽表-将数据关联到廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0249.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0250",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_050_edit_widening_table",
+    "step_id": "ch08_task_050_edit_widening_table_step_05",
+    "title": "编辑加宽表-更新廊道并检查横坡/宽度变化截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0250.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0251",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_051_apply_widening",
+    "step_id": "ch08_task_051_apply_widening_step_01",
+    "title": "应用加宽到廊道-准备曲线段和规范规则文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0251.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0252",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_051_apply_widening",
+    "step_id": "ch08_task_051_apply_widening_step_02",
+    "title": "应用加宽到廊道-创建加宽或超高区间截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0252.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0253",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_051_apply_widening",
+    "step_id": "ch08_task_051_apply_widening_step_03",
+    "title": "应用加宽到廊道-生成车道或读取加宽表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0253.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0254",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_051_apply_widening",
+    "step_id": "ch08_task_051_apply_widening_step_04",
+    "title": "应用加宽到廊道-将数据关联到廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0254.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0255",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_051_apply_widening",
+    "step_id": "ch08_task_051_apply_widening_step_05",
+    "title": "应用加宽到廊道-更新廊道并检查横坡/宽度变化截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0255.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0256",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_052_create_se_section",
+    "step_id": "ch08_task_052_create_se_section_step_01",
+    "title": "创建超高区间-准备曲线段和规范规则文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0256.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0257",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_052_create_se_section",
+    "step_id": "ch08_task_052_create_se_section_step_02",
+    "title": "创建超高区间-创建加宽或超高区间截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0257.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0258",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_052_create_se_section",
+    "step_id": "ch08_task_052_create_se_section_step_03",
+    "title": "创建超高区间-生成车道或读取加宽表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0258.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0259",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_052_create_se_section",
+    "step_id": "ch08_task_052_create_se_section_step_04",
+    "title": "创建超高区间-将数据关联到廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0259.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0260",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_052_create_se_section",
+    "step_id": "ch08_task_052_create_se_section_step_05",
+    "title": "创建超高区间-更新廊道并检查横坡/宽度变化截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0260.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0261",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_053_generate_se_lanes_corridor",
+    "step_id": "ch08_task_053_generate_se_lanes_corridor_step_01",
+    "title": "通过廊道法生成超高车道-准备曲线段和规范规则文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0261.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0262",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_053_generate_se_lanes_corridor",
+    "step_id": "ch08_task_053_generate_se_lanes_corridor_step_02",
+    "title": "通过廊道法生成超高车道-创建加宽或超高区间截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0262.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0263",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_053_generate_se_lanes_corridor",
+    "step_id": "ch08_task_053_generate_se_lanes_corridor_step_03",
+    "title": "通过廊道法生成超高车道-生成车道或读取加宽表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0263.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0264",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_053_generate_se_lanes_corridor",
+    "step_id": "ch08_task_053_generate_se_lanes_corridor_step_04",
+    "title": "通过廊道法生成超高车道-将数据关联到廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0264.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0265",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_053_generate_se_lanes_corridor",
+    "step_id": "ch08_task_053_generate_se_lanes_corridor_step_05",
+    "title": "通过廊道法生成超高车道-更新廊道并检查横坡/宽度变化截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0265.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0266",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_054_generate_se_lanes_alignment",
+    "step_id": "ch08_task_054_generate_se_lanes_alignment_step_01",
+    "title": "通过线形法生成超高车道-准备曲线段和规范规则文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0266.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0267",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_054_generate_se_lanes_alignment",
+    "step_id": "ch08_task_054_generate_se_lanes_alignment_step_02",
+    "title": "通过线形法生成超高车道-创建加宽或超高区间截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0267.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0268",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_054_generate_se_lanes_alignment",
+    "step_id": "ch08_task_054_generate_se_lanes_alignment_step_03",
+    "title": "通过线形法生成超高车道-生成车道或读取加宽表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0268.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0269",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_054_generate_se_lanes_alignment",
+    "step_id": "ch08_task_054_generate_se_lanes_alignment_step_04",
+    "title": "通过线形法生成超高车道-将数据关联到廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0269.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0270",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_054_generate_se_lanes_alignment",
+    "step_id": "ch08_task_054_generate_se_lanes_alignment_step_05",
+    "title": "通过线形法生成超高车道-更新廊道并检查横坡/宽度变化截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0270.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0271",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_055_load_jtg_edge",
+    "step_id": "ch08_task_055_load_jtg_edge_step_01",
+    "title": "加载JTG Edge超高规则-准备曲线段和规范规则文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0271.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0272",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_055_load_jtg_edge",
+    "step_id": "ch08_task_055_load_jtg_edge_step_02",
+    "title": "加载JTG Edge超高规则-创建加宽或超高区间截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0272.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0273",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_055_load_jtg_edge",
+    "step_id": "ch08_task_055_load_jtg_edge_step_03",
+    "title": "加载JTG Edge超高规则-生成车道或读取加宽表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0273.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0274",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_055_load_jtg_edge",
+    "step_id": "ch08_task_055_load_jtg_edge_step_04",
+    "title": "加载JTG Edge超高规则-将数据关联到廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0274.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0275",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_055_load_jtg_edge",
+    "step_id": "ch08_task_055_load_jtg_edge_step_05",
+    "title": "加载JTG Edge超高规则-更新廊道并检查横坡/宽度变化截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0275.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0276",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_056_associate_se_corridor",
+    "step_id": "ch08_task_056_associate_se_corridor_step_01",
+    "title": "将超高关联到廊道-准备曲线段和规范规则文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0276.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0277",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_056_associate_se_corridor",
+    "step_id": "ch08_task_056_associate_se_corridor_step_02",
+    "title": "将超高关联到廊道-创建加宽或超高区间截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0277.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0278",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_056_associate_se_corridor",
+    "step_id": "ch08_task_056_associate_se_corridor_step_03",
+    "title": "将超高关联到廊道-生成车道或读取加宽表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0278.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0279",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_056_associate_se_corridor",
+    "step_id": "ch08_task_056_associate_se_corridor_step_04",
+    "title": "将超高关联到廊道-将数据关联到廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0279.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0280",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_056_associate_se_corridor",
+    "step_id": "ch08_task_056_associate_se_corridor_step_05",
+    "title": "将超高关联到廊道-更新廊道并检查横坡/宽度变化截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0280.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0281",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_057_drive_through_review",
+    "step_id": "ch08_task_057_drive_through_review_step_01",
+    "title": "使用三维漫游检查模型-打开三维视图或检查工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0281.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0282",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_057_drive_through_review",
+    "step_id": "ch08_task_057_drive_through_review_step_02",
+    "title": "使用三维漫游检查模型-定位重点桩号或模型区段截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0282.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0283",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_057_drive_through_review",
+    "step_id": "ch08_task_057_drive_through_review_step_03",
+    "title": "使用三维漫游检查模型-检查边坡、挡墙、连接和连续性截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0283.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0284",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_057_drive_through_review",
+    "step_id": "ch08_task_057_drive_through_review_step_04",
+    "title": "使用三维漫游检查模型-生成组件数量或报表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0284.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0285",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_057_drive_through_review",
+    "step_id": "ch08_task_057_drive_through_review_step_05",
+    "title": "使用三维漫游检查模型-记录异常并返回对应步骤修正截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0285.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0286",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_058_check_wall_slope",
+    "step_id": "ch08_task_058_check_wall_slope_step_01",
+    "title": "检查挡墙与边坡生成效果-打开三维视图或检查工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0286.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0287",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_058_check_wall_slope",
+    "step_id": "ch08_task_058_check_wall_slope_step_02",
+    "title": "检查挡墙与边坡生成效果-定位重点桩号或模型区段截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0287.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0288",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_058_check_wall_slope",
+    "step_id": "ch08_task_058_check_wall_slope_step_03",
+    "title": "检查挡墙与边坡生成效果-检查边坡、挡墙、连接和连续性截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0288.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0289",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_058_check_wall_slope",
+    "step_id": "ch08_task_058_check_wall_slope_step_04",
+    "title": "检查挡墙与边坡生成效果-生成组件数量或报表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0289.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0290",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_058_check_wall_slope",
+    "step_id": "ch08_task_058_check_wall_slope_step_05",
+    "title": "检查挡墙与边坡生成效果-记录异常并返回对应步骤修正截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0290.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0291",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_059_component_quantity_report",
+    "step_id": "ch08_task_059_component_quantity_report_step_01",
+    "title": "输出组件数量报表-打开三维视图或检查工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0291.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0292",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_059_component_quantity_report",
+    "step_id": "ch08_task_059_component_quantity_report_step_02",
+    "title": "输出组件数量报表-定位重点桩号或模型区段截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0292.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0293",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_059_component_quantity_report",
+    "step_id": "ch08_task_059_component_quantity_report_step_03",
+    "title": "输出组件数量报表-检查边坡、挡墙、连接和连续性截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0293.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0294",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_059_component_quantity_report",
+    "step_id": "ch08_task_059_component_quantity_report_step_04",
+    "title": "输出组件数量报表-生成组件数量或报表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0294.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0295",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_059_component_quantity_report",
+    "step_id": "ch08_task_059_component_quantity_report_step_05",
+    "title": "输出组件数量报表-记录异常并返回对应步骤修正截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0295.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0296",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_060_earthwork_quantity_check",
+    "step_id": "ch08_task_060_earthwork_quantity_check_step_01",
+    "title": "检查土石方与材料数量-打开三维视图或检查工具截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0296.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0297",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_060_earthwork_quantity_check",
+    "step_id": "ch08_task_060_earthwork_quantity_check_step_02",
+    "title": "检查土石方与材料数量-定位重点桩号或模型区段截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0297.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0298",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_060_earthwork_quantity_check",
+    "step_id": "ch08_task_060_earthwork_quantity_check_step_03",
+    "title": "检查土石方与材料数量-检查边坡、挡墙、连接和连续性截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0298.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0299",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_060_earthwork_quantity_check",
+    "step_id": "ch08_task_060_earthwork_quantity_check_step_04",
+    "title": "检查土石方与材料数量-生成组件数量或报表截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0299.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0300",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_060_earthwork_quantity_check",
+    "step_id": "ch08_task_060_earthwork_quantity_check_step_05",
+    "title": "检查土石方与材料数量-记录异常并返回对应步骤修正截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0300.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0301",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_061_customize_annotation_style",
+    "step_id": "ch08_task_061_customize_annotation_style_step_01",
+    "title": "定制标注样式-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0301.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0302",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_061_customize_annotation_style",
+    "step_id": "ch08_task_061_customize_annotation_style_step_02",
+    "title": "定制标注样式-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0302.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0303",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_061_customize_annotation_style",
+    "step_id": "ch08_task_061_customize_annotation_style_step_03",
+    "title": "定制标注样式-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0303.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0304",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_061_customize_annotation_style",
+    "step_id": "ch08_task_061_customize_annotation_style_step_04",
+    "title": "定制标注样式-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0304.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0305",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_061_customize_annotation_style",
+    "step_id": "ch08_task_061_customize_annotation_style_step_05",
+    "title": "定制标注样式-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0305.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0306",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_062_edit_plan_annotation_group",
+    "step_id": "ch08_task_062_edit_plan_annotation_group_step_01",
+    "title": "编辑平面标注组-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0306.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0307",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_062_edit_plan_annotation_group",
+    "step_id": "ch08_task_062_edit_plan_annotation_group_step_02",
+    "title": "编辑平面标注组-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0307.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0308",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_062_edit_plan_annotation_group",
+    "step_id": "ch08_task_062_edit_plan_annotation_group_step_03",
+    "title": "编辑平面标注组-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0308.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0309",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_062_edit_plan_annotation_group",
+    "step_id": "ch08_task_062_edit_plan_annotation_group_step_04",
+    "title": "编辑平面标注组-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0309.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0310",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_062_edit_plan_annotation_group",
+    "step_id": "ch08_task_062_edit_plan_annotation_group_step_05",
+    "title": "编辑平面标注组-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0310.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0311",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_063_edit_profile_annotation_group",
+    "step_id": "ch08_task_063_edit_profile_annotation_group_step_01",
+    "title": "编辑纵断面标注组-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0311.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0312",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_063_edit_profile_annotation_group",
+    "step_id": "ch08_task_063_edit_profile_annotation_group_step_02",
+    "title": "编辑纵断面标注组-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0312.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0313",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_063_edit_profile_annotation_group",
+    "step_id": "ch08_task_063_edit_profile_annotation_group_step_03",
+    "title": "编辑纵断面标注组-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0313.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0314",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_063_edit_profile_annotation_group",
+    "step_id": "ch08_task_063_edit_profile_annotation_group_step_04",
+    "title": "编辑纵断面标注组-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0314.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0315",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_063_edit_profile_annotation_group",
+    "step_id": "ch08_task_063_edit_profile_annotation_group_step_05",
+    "title": "编辑纵断面标注组-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0315.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0316",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_064_link_annotation_feature",
+    "step_id": "ch08_task_064_link_annotation_feature_step_01",
+    "title": "将标注与Feature元素关联-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0316.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0317",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_064_link_annotation_feature",
+    "step_id": "ch08_task_064_link_annotation_feature_step_02",
+    "title": "将标注与Feature元素关联-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0317.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0318",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_064_link_annotation_feature",
+    "step_id": "ch08_task_064_link_annotation_feature_step_03",
+    "title": "将标注与Feature元素关联-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0318.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0319",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_064_link_annotation_feature",
+    "step_id": "ch08_task_064_link_annotation_feature_step_04",
+    "title": "将标注与Feature元素关联-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0319.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0320",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_064_link_annotation_feature",
+    "step_id": "ch08_task_064_link_annotation_feature_step_05",
+    "title": "将标注与Feature元素关联-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0320.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0321",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_065_place_named_boundary_plan",
+    "step_id": "ch08_task_065_place_named_boundary_plan_step_01",
+    "title": "放置平面图命名边界-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0321.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0322",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_065_place_named_boundary_plan",
+    "step_id": "ch08_task_065_place_named_boundary_plan_step_02",
+    "title": "放置平面图命名边界-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0322.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0323",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_065_place_named_boundary_plan",
+    "step_id": "ch08_task_065_place_named_boundary_plan_step_03",
+    "title": "放置平面图命名边界-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0323.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0324",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_065_place_named_boundary_plan",
+    "step_id": "ch08_task_065_place_named_boundary_plan_step_04",
+    "title": "放置平面图命名边界-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0324.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0325",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_065_place_named_boundary_plan",
+    "step_id": "ch08_task_065_place_named_boundary_plan_step_05",
+    "title": "放置平面图命名边界-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0325.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0326",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_066_create_plan_sheets",
+    "step_id": "ch08_task_066_create_plan_sheets_step_01",
+    "title": "生成平面设计图-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0326.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0327",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_066_create_plan_sheets",
+    "step_id": "ch08_task_066_create_plan_sheets_step_02",
+    "title": "生成平面设计图-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0327.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0328",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_066_create_plan_sheets",
+    "step_id": "ch08_task_066_create_plan_sheets_step_03",
+    "title": "生成平面设计图-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0328.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0329",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_066_create_plan_sheets",
+    "step_id": "ch08_task_066_create_plan_sheets_step_04",
+    "title": "生成平面设计图-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0329.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0330",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_066_create_plan_sheets",
+    "step_id": "ch08_task_066_create_plan_sheets_step_05",
+    "title": "生成平面设计图-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0330.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0331",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_067_place_named_boundary_profile",
+    "step_id": "ch08_task_067_place_named_boundary_profile_step_01",
+    "title": "放置纵断面图命名边界-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0331.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0332",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_067_place_named_boundary_profile",
+    "step_id": "ch08_task_067_place_named_boundary_profile_step_02",
+    "title": "放置纵断面图命名边界-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0332.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0333",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_067_place_named_boundary_profile",
+    "step_id": "ch08_task_067_place_named_boundary_profile_step_03",
+    "title": "放置纵断面图命名边界-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0333.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0334",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_067_place_named_boundary_profile",
+    "step_id": "ch08_task_067_place_named_boundary_profile_step_04",
+    "title": "放置纵断面图命名边界-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0334.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0335",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_067_place_named_boundary_profile",
+    "step_id": "ch08_task_067_place_named_boundary_profile_step_05",
+    "title": "放置纵断面图命名边界-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0335.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0336",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_068_create_profile_sheets",
+    "step_id": "ch08_task_068_create_profile_sheets_step_01",
+    "title": "生成纵断面设计图-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0336.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0337",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_068_create_profile_sheets",
+    "step_id": "ch08_task_068_create_profile_sheets_step_02",
+    "title": "生成纵断面设计图-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0337.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0338",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_068_create_profile_sheets",
+    "step_id": "ch08_task_068_create_profile_sheets_step_03",
+    "title": "生成纵断面设计图-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0338.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0339",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_068_create_profile_sheets",
+    "step_id": "ch08_task_068_create_profile_sheets_step_04",
+    "title": "生成纵断面设计图-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0339.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0340",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_068_create_profile_sheets",
+    "step_id": "ch08_task_068_create_profile_sheets_step_05",
+    "title": "生成纵断面设计图-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0340.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0341",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_069_set_drawing_seed_scale",
+    "step_id": "ch08_task_069_set_drawing_seed_scale_step_01",
+    "title": "设置绘图种子与比例-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0341.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0342",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_069_set_drawing_seed_scale",
+    "step_id": "ch08_task_069_set_drawing_seed_scale_step_02",
+    "title": "设置绘图种子与比例-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0342.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0343",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_069_set_drawing_seed_scale",
+    "step_id": "ch08_task_069_set_drawing_seed_scale_step_03",
+    "title": "设置绘图种子与比例-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0343.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0344",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_069_set_drawing_seed_scale",
+    "step_id": "ch08_task_069_set_drawing_seed_scale_step_04",
+    "title": "设置绘图种子与比例-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0344.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0345",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_069_set_drawing_seed_scale",
+    "step_id": "ch08_task_069_set_drawing_seed_scale_step_05",
+    "title": "设置绘图种子与比例-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0345.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0346",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_070_export_pdf_package",
+    "step_id": "ch08_task_070_export_pdf_package_step_01",
+    "title": "导出PDF成果包-检查Feature和标注组配置截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0346.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0347",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_070_export_pdf_package",
+    "step_id": "ch08_task_070_export_pdf_package_step_02",
+    "title": "导出PDF成果包-放置命名边界并选择绘图种子截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0347.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0348",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_070_export_pdf_package",
+    "step_id": "ch08_task_070_export_pdf_package_step_03",
+    "title": "导出PDF成果包-设置起终点、比例和图纸选项截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0348.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0349",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_070_export_pdf_package",
+    "step_id": "ch08_task_070_export_pdf_package_step_04",
+    "title": "导出PDF成果包-创建图纸模型并检查标注截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0349.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0350",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_070_export_pdf_package",
+    "step_id": "ch08_task_070_export_pdf_package_step_05",
+    "title": "导出PDF成果包-导出PDF或成果文件截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0350.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0351",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_071_integrated_mountain_highway",
+    "step_id": "ch08_task_071_integrated_mountain_highway_step_01",
+    "title": "完成山区二级公路BIM正向设计-按任务清单准备地形与标准截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0351.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0352",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_071_integrated_mountain_highway",
+    "step_id": "ch08_task_071_integrated_mountain_highway_step_02",
+    "title": "完成山区二级公路BIM正向设计-依次完成数模、平面和纵断面截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0352.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0353",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_071_integrated_mountain_highway",
+    "step_id": "ch08_task_071_integrated_mountain_highway_step_03",
+    "title": "完成山区二级公路BIM正向设计-创建模板并生成廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0353.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0354",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_071_integrated_mountain_highway",
+    "step_id": "ch08_task_071_integrated_mountain_highway_step_04",
+    "title": "完成山区二级公路BIM正向设计-应用加宽超高并统计工程量截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0354.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0355",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_071_integrated_mountain_highway",
+    "step_id": "ch08_task_071_integrated_mountain_highway_step_05",
+    "title": "完成山区二级公路BIM正向设计-输出模型、图纸和实训成果包截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0355.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0356",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_072_deliver_model_package",
+    "step_id": "ch08_task_072_deliver_model_package_step_01",
+    "title": "提交模型与成果文件-按任务清单准备地形与标准截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0356.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0357",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_072_deliver_model_package",
+    "step_id": "ch08_task_072_deliver_model_package_step_02",
+    "title": "提交模型与成果文件-依次完成数模、平面和纵断面截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0357.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0358",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_072_deliver_model_package",
+    "step_id": "ch08_task_072_deliver_model_package_step_03",
+    "title": "提交模型与成果文件-创建模板并生成廊道截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0358.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0359",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_072_deliver_model_package",
+    "step_id": "ch08_task_072_deliver_model_package_step_04",
+    "title": "提交模型与成果文件-应用加宽超高并统计工程量截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0359.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch08_ss_0360",
+    "chapter_id": "ch08",
+    "task_id": "ch08_task_072_deliver_model_package",
+    "step_id": "ch08_task_072_deliver_model_package_step_05",
+    "title": "提交模型与成果文件-输出模型、图纸和实训成果包截图占位",
+    "file_path": "chapter_08/screenshots/ch08_ss_0360.png",
+    "status": "placeholder_metadata"
   }
 ]

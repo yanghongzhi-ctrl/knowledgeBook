@@ -17610,7 +17610,7 @@
           "id": "ch08_qb_035",
           "chapter_id": "ch08",
           "category": "核心概念",
-          "question": "廊道模型是什么？",
+          "question": "廊道是平面线形、纵断面、横断面模板和地形目标的集合体，是道路BIM建模的核心成果。:廊道模型是什么？",
           "target_type": "answer_card",
           "target_id": "ans_ch08_0009",
           "source": "answer_cards",
@@ -17850,6 +17850,16 @@
           "id": "ch08_qb_059",
           "chapter_id": "ch08",
           "category": "核心概念",
+          "question": "由平面线形、纵断面、横断面模板和地形目标共同生成的三维道路模型。 ORD道路BIM正向设计的核心成果。:廊道模型是什么？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0034",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_060",
+          "chapter_id": "ch08",
+          "category": "核心概念",
           "question": "目标映射是什么？",
           "target_type": "answer_card",
           "target_id": "ans_ch08_0037",
@@ -17857,7 +17867,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_060",
+          "id": "ch08_qb_061",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "空点是什么？",
@@ -17867,7 +17877,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_061",
+          "id": "ch08_qb_062",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "约束是什么？",
@@ -17877,7 +17887,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_062",
+          "id": "ch08_qb_063",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "纵断面变坡点是什么？",
@@ -17887,7 +17897,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_063",
+          "id": "ch08_qb_064",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "纵断面拉坡设计是什么？",
@@ -17897,7 +17907,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_064",
+          "id": "ch08_qb_065",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "纵断面线形是什么？",
@@ -17907,7 +17917,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_065",
+          "id": "ch08_qb_066",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "纵断面视图是什么？",
@@ -17917,7 +17927,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_066",
+          "id": "ch08_qb_067",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "组件数量报表是什么？",
@@ -17927,7 +17937,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_067",
+          "id": "ch08_qb_068",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "组件数量是什么？",
@@ -17937,7 +17947,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_068",
+          "id": "ch08_qb_069",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "组件是什么？",
@@ -17947,7 +17957,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_069",
+          "id": "ch08_qb_070",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "绘图种子是什么？",
@@ -17957,7 +17967,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_070",
+          "id": "ch08_qb_071",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "编辑地形边界是什么？",
@@ -17967,7 +17977,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_071",
+          "id": "ch08_qb_072",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "裁剪参考是什么？",
@@ -17977,7 +17987,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_072",
+          "id": "ch08_qb_073",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "规则是什么？",
@@ -17987,7 +17997,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_073",
+          "id": "ch08_qb_074",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "规则驱动几何是什么？",
@@ -17997,7 +18007,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_074",
+          "id": "ch08_qb_075",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "规范边线规则是什么？",
@@ -18007,7 +18017,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_075",
+          "id": "ch08_qb_076",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "设置ChinaCivil Metric工作空间是什么？",
@@ -18017,7 +18027,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_076",
+          "id": "ch08_qb_077",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "设计规范是什么？",
@@ -18027,7 +18037,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_077",
+          "id": "ch08_qb_078",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "超高关联廊道是什么？",
@@ -18037,7 +18047,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_078",
+          "id": "ch08_qb_079",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "超高区间是什么？",
@@ -18047,7 +18057,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_079",
+          "id": "ch08_qb_080",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "超高是什么？",
@@ -18057,7 +18067,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_080",
+          "id": "ch08_qb_081",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "超高车道是什么？",
@@ -18067,7 +18077,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_081",
+          "id": "ch08_qb_082",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "进行可视性分析是什么？",
@@ -18077,7 +18087,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_082",
+          "id": "ch08_qb_083",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "进行坡度分析是什么？",
@@ -18087,7 +18097,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_083",
+          "id": "ch08_qb_084",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "进行影像覆盖显示是什么？",
@@ -18097,7 +18107,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_084",
+          "id": "ch08_qb_085",
           "chapter_id": "ch08",
           "category": "核心概念",
           "question": "道路BIM设计平台是什么？",
@@ -18107,7 +18117,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_085",
+          "id": "ch08_qb_086",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "DTM建立流程是什么？",
@@ -18117,17 +18127,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_086",
+          "id": "ch08_qb_087",
           "chapter_id": "ch08",
           "category": "设计流程",
-          "question": "PDF输出比例不对怎么办？",
+          "question": "为路线或模型对象分配Feature Definition:模型不显示怎么办？",
           "target_type": "answer_card",
-          "target_id": "ans_ch08_0186",
+          "target_id": "ans_ch08_0180",
           "source": "answer_cards",
           "pinned": false
         },
         {
-          "id": "ch08_qb_087",
+          "id": "ch08_qb_088",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "为路线或模型对象分配Feature Definition:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0179",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_089",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "为路线或模型对象分配Feature Definition如何操作？",
@@ -18137,7 +18157,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_088",
+          "id": "ch08_qb_090",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "使用三维漫游检查模型如何操作？",
@@ -18147,7 +18167,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_089",
+          "id": "ch08_qb_091",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用交点法创建平面线形:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0200",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_092",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用交点法创建平面线形:超高横坡不正确怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0199",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_093",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "使用交点法创建平面线形如何操作？",
@@ -18157,7 +18197,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_090",
+          "id": "ch08_qb_094",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用交点法进行纵断面拉坡:模板结构变形异常怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0221",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_095",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用交点法进行纵断面拉坡:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0222",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_096",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "使用交点法进行纵断面拉坡如何操作？",
@@ -18167,7 +18227,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_091",
+          "id": "ch08_qb_097",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用积木法创建平面线形:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0202",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_098",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用积木法创建平面线形:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0201",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_099",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "使用积木法创建平面线形如何操作？",
@@ -18177,7 +18257,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_092",
+          "id": "ch08_qb_100",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用积木法创建纵断面线形:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0223",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_101",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "使用积木法创建纵断面线形:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0224",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_102",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "使用积木法创建纵断面线形如何操作？",
@@ -18187,7 +18287,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_093",
+          "id": "ch08_qb_103",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建S型曲线:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0205",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_104",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建S型曲线:平面线形修改后未联动怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0206",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_105",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建S型曲线如何操作？",
@@ -18197,7 +18317,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_094",
+          "id": "ch08_qb_106",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建卵形曲线或复杂曲线组合:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0207",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_107",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建卵形曲线或复杂曲线组合:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0208",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_108",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建卵形曲线或复杂曲线组合如何操作？",
@@ -18207,7 +18347,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_095",
+          "id": "ch08_qb_109",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建图形过滤器:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0186",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_110",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建图形过滤器:模型不显示怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0185",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_111",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建图形过滤器如何操作？",
@@ -18217,7 +18377,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_096",
+          "id": "ch08_qb_112",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建填方末端条件:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0248",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_113",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建填方末端条件:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0247",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_114",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建填方末端条件如何操作？",
@@ -18227,7 +18407,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_097",
+          "id": "ch08_qb_115",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建常规点与控制点:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0240",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_116",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建常规点与控制点:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0239",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_117",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建常规点与控制点如何操作？",
@@ -18237,7 +18437,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_098",
+          "id": "ch08_qb_118",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建廊道过渡段如何操作？",
@@ -18247,7 +18447,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_099",
+          "id": "ch08_qb_119",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建或检查ORD项目工作环境:工程量统计不完整怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0173",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_120",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建或检查ORD项目工作环境:模板结构变形异常怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0174",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_121",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建或检查ORD项目工作环境如何操作？",
@@ -18257,7 +18477,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_100",
+          "id": "ch08_qb_122",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建挖方末端条件:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0246",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_123",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建挖方末端条件:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0245",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_124",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建挖方末端条件如何操作？",
@@ -18267,7 +18507,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_101",
+          "id": "ch08_qb_125",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建挡墙末端条件:模板结构变形异常怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0249",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_126",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建挡墙末端条件:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0250",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_127",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建挡墙末端条件如何操作？",
@@ -18277,7 +18537,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_102",
+          "id": "ch08_qb_128",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建标准路基横断面模板:工程量统计不完整怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0236",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_129",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建标准路基横断面模板:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0235",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_130",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建标准路基横断面模板如何操作？",
@@ -18287,7 +18567,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_103",
+          "id": "ch08_qb_131",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建空点控制逻辑:加宽未应用怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0242",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_132",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建空点控制逻辑:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0241",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_133",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建空点控制逻辑如何操作？",
@@ -18297,7 +18597,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_104",
+          "id": "ch08_qb_134",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建纵断面视图:平面线形修改后未联动怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0218",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_135",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建纵断面视图:超高横坡不正确怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0217",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_136",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建纵断面视图如何操作？",
@@ -18307,7 +18627,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_105",
+          "id": "ch08_qb_137",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建缓和曲线-圆曲线-缓和曲线组合:模型不显示怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0204",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_138",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建缓和曲线-圆曲线-缓和曲线组合:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0203",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_139",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建缓和曲线-圆曲线-缓和曲线组合如何操作？",
@@ -18317,7 +18657,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_106",
+          "id": "ch08_qb_140",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建超高区间如何操作？",
@@ -18327,7 +18667,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_107",
+          "id": "ch08_qb_141",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建路面结构层组件:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0238",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_142",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建路面结构层组件:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0237",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_143",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建路面结构层组件如何操作？",
@@ -18337,7 +18697,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_108",
+          "id": "ch08_qb_144",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建道路廊道模型:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0256",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_145",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "创建道路廊道模型:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0255",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_146",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "创建道路廊道模型如何操作？",
@@ -18347,17 +18727,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_109",
-          "chapter_id": "ch08",
-          "category": "设计流程",
-          "question": "加宽未应用怎么办？",
-          "target_type": "answer_card",
-          "target_id": "ans_ch08_0184",
-          "source": "answer_cards",
-          "pinned": false
-        },
-        {
-          "id": "ch08_qb_110",
+          "id": "ch08_qb_147",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "加载JTG Edge超高规则如何操作？",
@@ -18367,7 +18737,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_111",
+          "id": "ch08_qb_148",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "加载与应用设计标准:模板结构变形异常怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0212",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_149",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "加载与应用设计标准:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0211",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_150",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "加载与应用设计标准如何操作？",
@@ -18377,7 +18767,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_112",
+          "id": "ch08_qb_151",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "参考地形或外部设计文件:模板结构变形异常怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0177",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_152",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "参考地形或外部设计文件:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0178",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_153",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "参考地形或外部设计文件如何操作？",
@@ -18387,17 +18797,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_113",
-          "chapter_id": "ch08",
-          "category": "设计流程",
-          "question": "命名边界出图缺失怎么办？",
-          "target_type": "answer_card",
-          "target_id": "ans_ch08_0192",
-          "source": "answer_cards",
-          "pinned": false
-        },
-        {
-          "id": "ch08_qb_114",
+          "id": "ch08_qb_154",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "完成山区二级公路BIM正向设计如何操作？",
@@ -18407,7 +18807,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_115",
+          "id": "ch08_qb_155",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "定制标注样式如何操作？",
@@ -18417,7 +18817,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_116",
+          "id": "ch08_qb_156",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "导入DWG地形图:加宽未应用怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0184",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_157",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "导入DWG地形图:工程量统计不完整怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0183",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_158",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "导入DWG地形图如何操作？",
@@ -18427,7 +18847,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_117",
+          "id": "ch08_qb_159",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "导出PDF成果包如何操作？",
@@ -18437,7 +18857,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_118",
+          "id": "ch08_qb_160",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "将标注与Feature元素关联如何操作？",
@@ -18447,7 +18867,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_119",
+          "id": "ch08_qb_161",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "将纵断面设置为Active Profile:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0230",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_162",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "将纵断面设置为Active Profile:模板结构变形异常怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0229",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_163",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "将纵断面设置为Active Profile如何操作？",
@@ -18457,7 +18897,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_120",
+          "id": "ch08_qb_164",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "将超高关联到廊道如何操作？",
@@ -18467,7 +18907,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_121",
+          "id": "ch08_qb_165",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "山区二级公路ORD综合流程是什么？",
@@ -18477,27 +18917,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_122",
-          "chapter_id": "ch08",
-          "category": "设计流程",
-          "question": "工程量统计不完整怎么办？",
-          "target_type": "answer_card",
-          "target_id": "ans_ch08_0173",
-          "source": "answer_cards",
-          "pinned": false
-        },
-        {
-          "id": "ch08_qb_123",
-          "chapter_id": "ch08",
-          "category": "设计流程",
-          "question": "平面线形修改后未联动怎么办？",
-          "target_type": "answer_card",
-          "target_id": "ans_ch08_0182",
-          "source": "answer_cards",
-          "pinned": false
-        },
-        {
-          "id": "ch08_qb_124",
+          "id": "ch08_qb_166",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "应用加宽到廊道如何操作？",
@@ -18507,7 +18927,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_125",
+          "id": "ch08_qb_167",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "应用点控制如何操作？",
@@ -18517,17 +18937,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_126",
+          "id": "ch08_qb_168",
           "chapter_id": "ch08",
           "category": "设计流程",
-          "question": "廊道没有生成怎么办？",
+          "question": "建立Terrain Model数字地形:PDF输出比例不对怎么办？",
           "target_type": "answer_card",
-          "target_id": "ans_ch08_0191",
+          "target_id": "ans_ch08_0187",
           "source": "answer_cards",
           "pinned": false
         },
         {
-          "id": "ch08_qb_127",
+          "id": "ch08_qb_169",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "建立Terrain Model数字地形:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0188",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_170",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "建立Terrain Model数字地形如何操作？",
@@ -18537,7 +18967,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_128",
+          "id": "ch08_qb_171",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "打开模板编辑器:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0233",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_172",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "打开模板编辑器:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0234",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_173",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "打开模板编辑器如何操作？",
@@ -18547,7 +18997,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_129",
+          "id": "ch08_qb_174",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "投影高程控制点到纵断面:模型不显示怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0219",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_175",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "投影高程控制点到纵断面:超高横坡不正确怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0220",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_176",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "投影高程控制点到纵断面如何操作？",
@@ -18557,7 +19027,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_130",
+          "id": "ch08_qb_177",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "指定廊道基线与纵断面:加宽未应用怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0257",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_178",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "指定廊道基线与纵断面:模型不显示怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0258",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_179",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "指定廊道基线与纵断面如何操作？",
@@ -18567,7 +19057,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_131",
+          "id": "ch08_qb_180",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "提交模型与成果文件如何操作？",
@@ -18577,7 +19067,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_132",
+          "id": "ch08_qb_181",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "放置平面图命名边界如何操作？",
@@ -18587,7 +19077,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_133",
+          "id": "ch08_qb_182",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "放置纵断面图命名边界如何操作？",
@@ -18597,7 +19087,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_134",
+          "id": "ch08_qb_183",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "更新廊道模型如何操作？",
@@ -18607,7 +19097,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_135",
+          "id": "ch08_qb_184",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "检查土石方与材料数量如何操作？",
@@ -18617,7 +19107,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_136",
+          "id": "ch08_qb_185",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "检查地形模型质量:模型不显示怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0198",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_186",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "检查地形模型质量:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0197",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_187",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "检查地形模型质量如何操作？",
@@ -18627,7 +19137,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_137",
+          "id": "ch08_qb_188",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "检查廊道横断面如何操作？",
@@ -18637,7 +19147,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_138",
+          "id": "ch08_qb_189",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "检查挡墙与边坡生成效果如何操作？",
@@ -18647,27 +19157,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_139",
+          "id": "ch08_qb_190",
           "chapter_id": "ch08",
           "category": "设计流程",
-          "question": "模型不显示怎么办？",
+          "question": "测试横断面模板:命名边界出图缺失怎么办？",
           "target_type": "answer_card",
-          "target_id": "ans_ch08_0180",
+          "target_id": "ans_ch08_0254",
           "source": "answer_cards",
           "pinned": false
         },
         {
-          "id": "ch08_qb_140",
+          "id": "ch08_qb_191",
           "chapter_id": "ch08",
           "category": "设计流程",
-          "question": "模板结构变形异常怎么办？",
+          "question": "测试横断面模板:工程量统计不完整怎么办？",
           "target_type": "answer_card",
-          "target_id": "ans_ch08_0174",
+          "target_id": "ans_ch08_0253",
           "source": "answer_cards",
           "pinned": false
         },
         {
-          "id": "ch08_qb_141",
+          "id": "ch08_qb_192",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "测试横断面模板如何操作？",
@@ -18677,7 +19187,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_142",
+          "id": "ch08_qb_193",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "生成平面设计图如何操作？",
@@ -18687,7 +19197,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_143",
+          "id": "ch08_qb_194",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "生成纵断面设计图如何操作？",
@@ -18697,27 +19207,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_144",
-          "chapter_id": "ch08",
-          "category": "设计流程",
-          "question": "纵断面图标注缺失怎么办？",
-          "target_type": "answer_card",
-          "target_id": "ans_ch08_0178",
-          "source": "answer_cards",
-          "pinned": false
-        },
-        {
-          "id": "ch08_qb_145",
-          "chapter_id": "ch08",
-          "category": "设计流程",
-          "question": "纵断面地面线不更新怎么办？",
-          "target_type": "answer_card",
-          "target_id": "ans_ch08_0176",
-          "source": "answer_cards",
-          "pinned": false
-        },
-        {
-          "id": "ch08_qb_146",
+          "id": "ch08_qb_195",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "编辑加宽表如何操作？",
@@ -18727,7 +19217,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_147",
+          "id": "ch08_qb_196",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "编辑地形边界:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0189",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_197",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "编辑地形边界:模板结构变形异常怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0190",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_198",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "编辑地形边界如何操作？",
@@ -18737,7 +19247,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_148",
+          "id": "ch08_qb_199",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "编辑平面标注组如何操作？",
@@ -18747,7 +19257,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_149",
+          "id": "ch08_qb_200",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "编辑平面线形:工程量统计不完整怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0209",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_201",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "编辑平面线形:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0210",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_202",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "编辑平面线形如何操作？",
@@ -18757,7 +19287,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_150",
+          "id": "ch08_qb_203",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "编辑纵断面标注组如何操作？",
@@ -18767,7 +19297,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_151",
+          "id": "ch08_qb_204",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "编辑纵断面线形:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0228",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_205",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "编辑纵断面线形:超高横坡不正确怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0227",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_206",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "编辑纵断面线形如何操作？",
@@ -18777,7 +19327,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_152",
+          "id": "ch08_qb_207",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置ChinaCivil Metric工作空间:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0176",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_208",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置ChinaCivil Metric工作空间:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0175",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_209",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设置ChinaCivil Metric工作空间如何操作？",
@@ -18787,7 +19357,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_153",
+          "id": "ch08_qb_210",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置末端条件优先级:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0252",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_211",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置末端条件优先级:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0251",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_212",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设置末端条件优先级如何操作？",
@@ -18797,7 +19387,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_154",
+          "id": "ch08_qb_213",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置模板投放范围与间距:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0259",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_214",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置模板投放范围与间距:边坡不能连接地形怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0260",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_215",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设置模板投放范围与间距如何操作？",
@@ -18807,7 +19417,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_155",
+          "id": "ch08_qb_216",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置水平、垂直、坡度和矢量偏移约束:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0243",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_217",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置水平、垂直、坡度和矢量偏移约束:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0244",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_218",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设置水平、垂直、坡度和矢量偏移约束如何操作？",
@@ -18817,7 +19447,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_156",
+          "id": "ch08_qb_219",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置竖曲线参数:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0225",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_220",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置竖曲线参数:纵断面图标注缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0226",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_221",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设置竖曲线参数如何操作？",
@@ -18827,7 +19477,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_157",
+          "id": "ch08_qb_222",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设置绘图种子与比例如何操作？",
@@ -18837,7 +19487,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_158",
+          "id": "ch08_qb_223",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置路线桩号:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0214",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_224",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "设置路线桩号:超高横坡不正确怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0213",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_225",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设置路线桩号如何操作？",
@@ -18847,7 +19517,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_159",
+          "id": "ch08_qb_226",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "设计阶段是什么？",
@@ -18857,17 +19527,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_160",
+          "id": "ch08_qb_227",
           "chapter_id": "ch08",
           "category": "设计流程",
-          "question": "超高横坡不正确怎么办？",
+          "question": "输出平面线形报表:工程量统计不完整怎么办？",
           "target_type": "answer_card",
-          "target_id": "ans_ch08_0195",
+          "target_id": "ans_ch08_0216",
           "source": "answer_cards",
           "pinned": false
         },
         {
-          "id": "ch08_qb_161",
+          "id": "ch08_qb_228",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "输出平面线形报表:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0215",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_229",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "输出平面线形报表如何操作？",
@@ -18877,7 +19557,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_162",
+          "id": "ch08_qb_230",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "输出纵断面报表:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0231",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_231",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "输出纵断面报表:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0232",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_232",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "输出纵断面报表如何操作？",
@@ -18887,7 +19587,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_163",
+          "id": "ch08_qb_233",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "输出组件数量报表如何操作？",
@@ -18897,17 +19597,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_164",
+          "id": "ch08_qb_234",
           "chapter_id": "ch08",
           "category": "设计流程",
-          "question": "边坡不能连接地形怎么办？",
+          "question": "进行可视性分析:加宽未应用怎么办？",
           "target_type": "answer_card",
-          "target_id": "ans_ch08_0175",
+          "target_id": "ans_ch08_0196",
           "source": "answer_cards",
           "pinned": false
         },
         {
-          "id": "ch08_qb_165",
+          "id": "ch08_qb_235",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "进行可视性分析:超高横坡不正确怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0195",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_236",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "进行可视性分析如何操作？",
@@ -18917,7 +19627,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_166",
+          "id": "ch08_qb_237",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "进行坡度分析:PDF输出比例不对怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0193",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_238",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "进行坡度分析:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0194",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_239",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "进行坡度分析如何操作？",
@@ -18927,7 +19657,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_167",
+          "id": "ch08_qb_240",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "进行廊道目标映射:工程量统计不完整怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0261",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_241",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "进行廊道目标映射:纵断面地面线不更新怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0262",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_242",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "进行廊道目标映射如何操作？",
@@ -18937,7 +19687,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_168",
+          "id": "ch08_qb_243",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "进行影像覆盖显示:命名边界出图缺失怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0192",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_244",
+          "chapter_id": "ch08",
+          "category": "设计流程",
+          "question": "进行影像覆盖显示:廊道没有生成怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0191",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_245",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "进行影像覆盖显示如何操作？",
@@ -18947,7 +19717,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_169",
+          "id": "ch08_qb_246",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "通过廊道法生成超高车道如何操作？",
@@ -18957,7 +19727,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_170",
+          "id": "ch08_qb_247",
           "chapter_id": "ch08",
           "category": "设计流程",
           "question": "通过线形法生成超高车道如何操作？",
@@ -18967,7 +19737,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_171",
+          "id": "ch08_qb_248",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "Geometry、Template与Feature有什么区别？",
@@ -18977,7 +19747,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_172",
+          "id": "ch08_qb_249",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "ORD几何与CAD图形有什么区别？",
@@ -18987,7 +19757,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_173",
+          "id": "ch08_qb_250",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "交点法与积木法有什么区别？",
@@ -18997,7 +19767,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_174",
+          "id": "ch08_qb_251",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "命名边界与普通裁剪框有什么区别？",
@@ -19007,7 +19777,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_175",
+          "id": "ch08_qb_252",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "常规点与空点有什么区别？",
@@ -19017,7 +19787,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_176",
+          "id": "ch08_qb_253",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "平面线形与纵断面线形有什么区别？",
@@ -19027,7 +19797,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_177",
+          "id": "ch08_qb_254",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "廊道法与线形法生成超高车道有什么区别？",
@@ -19037,7 +19807,27 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_178",
+          "id": "ch08_qb_255",
+          "chapter_id": "ch08",
+          "category": "易混辨析",
+          "question": "检查Civil Rules和依赖关系:平面线形修改后未联动怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0182",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_256",
+          "chapter_id": "ch08",
+          "category": "易混辨析",
+          "question": "检查Civil Rules和依赖关系:模型不显示怎么办？",
+          "target_type": "answer_card",
+          "target_id": "ans_ch08_0181",
+          "source": "answer_cards",
+          "pinned": false
+        },
+        {
+          "id": "ch08_qb_257",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "检查Civil Rules和依赖关系如何操作？",
@@ -19047,7 +19837,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_179",
+          "id": "ch08_qb_258",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "检查Civil Rules和依赖关系是什么？",
@@ -19057,7 +19847,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_180",
+          "id": "ch08_qb_259",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "模板投放与点控制有什么区别？",
@@ -19067,7 +19857,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_181",
+          "id": "ch08_qb_260",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "父子依赖关系是什么？",
@@ -19077,7 +19867,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_182",
+          "id": "ch08_qb_261",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "约束与末端条件有什么区别？",
@@ -19087,7 +19877,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_183",
+          "id": "ch08_qb_262",
           "chapter_id": "ch08",
           "category": "易混辨析",
           "question": "自然边坡与挡墙末端条件有什么区别？",
@@ -19097,7 +19887,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_184",
+          "id": "ch08_qb_263",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看8.1OpenRoads Designer参数化架构。",
@@ -19107,7 +19897,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_185",
+          "id": "ch08_qb_264",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看8.2ORD软件功能总览与道路设计流程。",
@@ -19117,7 +19907,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_186",
+          "id": "ch08_qb_265",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看DWG地形导入、图形过滤器与Terrain Model建立。",
@@ -19127,7 +19917,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_187",
+          "id": "ch08_qb_266",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看ORD工作空间、项目文件与Feature Definition配置。",
@@ -19137,7 +19927,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_188",
+          "id": "ch08_qb_267",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看ORD常见问题排查与质量检查。",
@@ -19147,7 +19937,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_189",
+          "id": "ch08_qb_268",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看三维漫游、模型检查与组件数量报表。",
@@ -19157,7 +19947,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_190",
+          "id": "ch08_qb_269",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看保存项目并进行基础显示检查 截图。",
@@ -19167,7 +19957,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_191",
+          "id": "ch08_qb_270",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看修改上游控制对象观察更新 截图。",
@@ -19177,7 +19967,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_192",
+          "id": "ch08_qb_271",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看准备DWG地形和图层信息 截图。",
@@ -19187,7 +19977,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_193",
+          "id": "ch08_qb_272",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看准备起终点、交点或控制线 截图。",
@@ -19197,7 +19987,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_194",
+          "id": "ch08_qb_273",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看分配Feature Definition并设置桩号 截图。",
@@ -19207,7 +19997,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_195",
+          "id": "ch08_qb_274",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看创建或选择图形过滤器 截图。",
@@ -19217,7 +20007,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_196",
+          "id": "ch08_qb_275",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看导入或参考地形图文件 截图。",
@@ -19227,7 +20017,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_197",
+          "id": "ch08_qb_276",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看局部加宽、超高区间与廊道关联。",
@@ -19237,7 +20027,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_198",
+          "id": "ch08_qb_277",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看山区二级公路BIM正向设计综合实训。",
@@ -19247,7 +20037,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_199",
+          "id": "ch08_qb_278",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看廊道创建、模板投放与目标映射。",
@@ -19257,7 +20047,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_200",
+          "id": "ch08_qb_279",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看打开属性或规则查看窗口 截图。",
@@ -19267,7 +20057,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_201",
+          "id": "ch08_qb_280",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看新建或打开DGN项目文件 截图。",
@@ -19277,7 +20067,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_202",
+          "id": "ch08_qb_281",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看查看父子依赖和规则关系 截图。",
@@ -19287,7 +20077,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_203",
+          "id": "ch08_qb_282",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看标注样式、命名边界与平面图出图。",
@@ -19297,7 +20087,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_204",
+          "id": "ch08_qb_283",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看检查Feature Definition与设计标准 截图。",
@@ -19307,7 +20097,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_205",
+          "id": "ch08_qb_284",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看检查地形显示、边界和高程异常 截图。",
@@ -19317,7 +20107,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_206",
+          "id": "ch08_qb_285",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看检查线形连续性和规范适配 截图。",
@@ -19327,7 +20117,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_207",
+          "id": "ch08_qb_286",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看检查软件工作空间与项目目录 截图。",
@@ -19337,7 +20127,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_208",
+          "id": "ch08_qb_287",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看横断面模板编辑器：点、组件、约束与末端条件。",
@@ -19347,7 +20137,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_209",
+          "id": "ch08_qb_288",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看生成或更新Terrain Model 截图。",
@@ -19357,7 +20147,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_210",
+          "id": "ch08_qb_289",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看纵断面图出图与PDF成果输出。",
@@ -19367,7 +20157,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_211",
+          "id": "ch08_qb_290",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看记录规则驱动带来的联动效果 截图。",
@@ -19377,7 +20167,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_212",
+          "id": "ch08_qb_291",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看设置单位、坐标和参考文件 截图。",
@@ -19387,7 +20177,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_213",
+          "id": "ch08_qb_292",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看路线平面设计：交点法与积木法。",
@@ -19397,7 +20187,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_214",
+          "id": "ch08_qb_293",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看路线纵断面设计：Profile View、投影与拉坡。",
@@ -19407,7 +20197,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_215",
+          "id": "ch08_qb_294",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看输入半径、缓和曲线或线元参数 截图。",
@@ -19417,7 +20207,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_216",
+          "id": "ch08_qb_295",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看选择一个已创建的土木几何对象 截图。",
@@ -19427,7 +20217,7 @@
           "pinned": false
         },
         {
-          "id": "ch08_qb_217",
+          "id": "ch08_qb_296",
           "chapter_id": "ch08",
           "category": "资源学习",
           "question": "我想看选择交点法或积木法工具 截图。",

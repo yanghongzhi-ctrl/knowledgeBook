@@ -57,7 +57,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "新建纬地项目",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_002",
@@ -115,7 +127,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "新建纬地项目",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_003",
@@ -174,7 +198,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "新建纬地项目",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_004",
@@ -233,7 +269,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "查看与维护项目管理器",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_005",
@@ -290,7 +338,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "查看与维护项目管理器",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "图框模板",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_006",
@@ -348,7 +408,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "查看与维护项目管理器",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_007",
@@ -407,7 +479,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "导入DWG/DXF高程数据",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_008",
@@ -464,7 +548,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "导入DWG/DXF高程数据",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_009",
@@ -526,7 +622,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "导入DWG/DXF高程数据",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_010",
@@ -584,7 +692,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置等高线与高程点类型",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_011",
@@ -640,7 +760,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置等高线与高程点类型",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "设置类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_012",
@@ -701,7 +833,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置等高线与高程点类型",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_013",
@@ -759,7 +903,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "三角构网并保存数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_014",
@@ -815,7 +971,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "三角构网并保存数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_015",
@@ -876,7 +1044,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "三角构网并保存数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_016",
@@ -935,7 +1115,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "优化数模边界和三角网",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_017",
@@ -992,7 +1184,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "优化数模边界和三角网",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_018",
@@ -1054,7 +1258,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "优化数模边界和三角网",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_019",
@@ -1113,7 +1329,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "新建EICAD项目",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_020",
@@ -1170,7 +1398,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "新建EICAD项目",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "项目路径",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_021",
@@ -1228,7 +1468,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "新建EICAD项目",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_022",
@@ -1286,7 +1538,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "导入或打开项目数据",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_023",
@@ -1342,7 +1606,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "导入或打开项目数据",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "设计数据",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_024",
@@ -1399,7 +1675,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "导入或打开项目数据",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_025",
@@ -1459,7 +1747,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "点选方式建立数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_026",
@@ -1517,7 +1817,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "点选方式建立数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_027",
@@ -1580,7 +1892,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "点选方式建立数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_028",
@@ -1638,7 +1962,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "排除高程异常并优化数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_029",
@@ -1694,7 +2030,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "排除高程异常并优化数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "数模范围",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_030",
@@ -1755,7 +2103,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "排除高程异常并优化数模",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_031",
@@ -1814,7 +2174,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "直线型交点法平面定线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_032",
@@ -1871,7 +2243,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "直线型交点法平面定线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "圆曲线半径",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_033",
@@ -1933,7 +2317,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "直线型交点法平面定线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_034",
@@ -1992,7 +2388,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "修改平曲线参数",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_035",
@@ -2049,7 +2457,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "修改平曲线参数",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "缓和曲线长度",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_036",
@@ -2111,7 +2531,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "修改平曲线参数",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_037",
@@ -2170,7 +2602,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计S型曲线组合",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_038",
@@ -2227,7 +2671,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计S型曲线组合",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "缓和曲线",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_039",
@@ -2289,7 +2745,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计S型曲线组合",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_040",
@@ -2348,7 +2816,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计卵形曲线组合",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_041",
@@ -2405,7 +2885,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计卵形曲线组合",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_042",
@@ -2467,7 +2959,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计卵形曲线组合",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_043",
@@ -2526,7 +3030,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计C型曲线与回头曲线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_044",
@@ -2583,7 +3099,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计C型曲线与回头曲线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_045",
@@ -2645,7 +3173,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设计C型曲线与回头曲线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_046",
@@ -2704,7 +3244,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "互通匝道文件控制接线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_047",
@@ -2761,7 +3313,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "互通匝道文件控制接线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_048",
@@ -2823,7 +3387,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "互通匝道文件控制接线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_049",
@@ -2882,7 +3458,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "互通匝道圆+缓+直接线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_050",
@@ -2939,7 +3527,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "互通匝道圆+缓+直接线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "缓和曲线长度",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_051",
@@ -3001,7 +3601,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "互通匝道圆+缓+直接线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_052",
@@ -3060,7 +3672,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "积木法构造匝道线形",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_053",
@@ -3117,7 +3741,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "积木法构造匝道线形",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "圆曲线单元",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_054",
@@ -3179,7 +3815,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "积木法构造匝道线形",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_055",
@@ -3238,7 +3886,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD直线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_056",
@@ -3295,7 +3955,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD直线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "终点",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_057",
@@ -3357,7 +4029,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD直线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_058",
@@ -3416,7 +4100,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD圆曲线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_059",
@@ -3473,7 +4169,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD圆曲线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_060",
@@ -3535,7 +4243,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD圆曲线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_061",
@@ -3594,7 +4314,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD缓和曲线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_062",
@@ -3651,7 +4383,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD缓和曲线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_063",
@@ -3713,7 +4457,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "EICAD缓和曲线单元设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_064",
@@ -3770,7 +4526,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "连接两缓和曲线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_065",
@@ -3825,7 +4593,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "连接两缓和曲线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_066",
@@ -3885,7 +4665,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "连接两缓和曲线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_067",
@@ -3944,7 +4736,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "基本模式法圆圆模式设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_068",
@@ -4001,7 +4805,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "基本模式法圆圆模式设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "圆心距",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_069",
@@ -4063,7 +4879,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "基本模式法圆圆模式设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_070",
@@ -4122,7 +4950,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "扩展模式法立交匝道设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_071",
@@ -4179,7 +5019,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "扩展模式法立交匝道设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_072",
@@ -4241,7 +5093,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "扩展模式法立交匝道设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_073",
@@ -4300,7 +5164,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成桩号文件",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_074",
@@ -4357,7 +5233,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成桩号文件",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_075",
@@ -4419,7 +5307,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成桩号文件",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_076",
@@ -4478,7 +5378,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "数模内插纵断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_077",
@@ -4535,7 +5447,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "数模内插纵断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_078",
@@ -4597,7 +5521,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "数模内插纵断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_079",
@@ -4655,7 +5591,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "手工输入或修改纵断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_080",
@@ -4711,7 +5659,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "手工输入或修改纵断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "高程",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_081",
@@ -4772,7 +5732,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "手工输入或修改纵断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_082",
@@ -4831,7 +5803,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入桥梁涵洞通道控制点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_083",
@@ -4888,7 +5872,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入桥梁涵洞通道控制点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "控制高程",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_084",
@@ -4950,7 +5946,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入桥梁涵洞通道控制点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_085",
@@ -5009,7 +6017,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建纵断面拉坡图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_086",
@@ -5066,7 +6086,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建纵断面拉坡图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_087",
@@ -5128,7 +6160,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建纵断面拉坡图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_088",
@@ -5187,7 +6231,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "交互式设置变坡点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_089",
@@ -5244,7 +6300,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "交互式设置变坡点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "高程",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_090",
@@ -5306,7 +6374,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "交互式设置变坡点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_091",
@@ -5365,7 +6445,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "修改变坡点与竖曲线半径",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_092",
@@ -5422,7 +6514,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "修改变坡点与竖曲线半径",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "高程",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_093",
@@ -5484,7 +6588,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "修改变坡点与竖曲线半径",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_094",
@@ -5543,7 +6659,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输出纵横地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_095",
@@ -5600,7 +6728,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输出纵横地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "桩号间距",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_096",
@@ -5662,7 +6802,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输出纵横地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_097",
@@ -5720,7 +6872,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建拉坡图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_098",
@@ -5776,7 +6940,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建拉坡图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "桩号范围",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_099",
@@ -5837,7 +7013,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建拉坡图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_100",
@@ -5896,7 +7084,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入拉坡控制点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_101",
@@ -5953,7 +7153,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入拉坡控制点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "桩号",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_102",
@@ -6015,7 +7227,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入拉坡控制点",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_103",
@@ -6074,7 +7298,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "自动拉坡设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_104",
@@ -6131,7 +7367,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "自动拉坡设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "竖曲线参数",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_105",
@@ -6193,7 +7441,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "自动拉坡设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_106",
@@ -6252,7 +7512,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "手工拉坡与夹点调整",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_107",
@@ -6309,7 +7581,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "手工拉坡与夹点调整",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "高程",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_108",
@@ -6371,7 +7655,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "手工拉坡与夹点调整",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_109",
@@ -6430,7 +7726,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入横断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_110",
@@ -6487,7 +7795,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入横断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_111",
@@ -6549,7 +7869,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输入横断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_112",
@@ -6608,7 +7940,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "数模内插横断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_113",
@@ -6665,7 +8009,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "数模内插横断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_114",
@@ -6727,7 +8083,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "数模内插横断面地面线",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_115",
@@ -6788,7 +8156,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "运行设计向导定义标准横断面",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_116",
@@ -6847,7 +8227,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "运行设计向导定义标准横断面",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "设计速度",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_117",
@@ -6911,7 +8303,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "运行设计向导定义标准横断面",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_118",
@@ -6971,7 +8375,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "自动计算超高加宽",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_119",
@@ -7029,7 +8445,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "自动计算超高加宽",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_120",
@@ -7092,7 +8520,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "自动计算超高加宽",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_121",
@@ -7150,7 +8590,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "路基设计计算",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_122",
@@ -7206,7 +8658,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "路基设计计算",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_123",
@@ -7267,7 +8731,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "路基设计计算",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_124",
@@ -7327,7 +8803,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "录入支挡防护工程",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_125",
@@ -7385,7 +8873,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "录入支挡防护工程",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "左右侧",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_126",
@@ -7448,7 +8948,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "录入支挡防护工程",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_127",
@@ -7507,7 +9019,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "横断面设计绘图与戴帽",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_128",
@@ -7564,7 +9088,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "横断面设计绘图与戴帽",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "土方控制",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_129",
@@ -7626,7 +9162,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "横断面设计绘图与戴帽",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_130",
@@ -7685,7 +9233,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "横断面交互修改",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_131",
@@ -7742,7 +9302,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "横断面交互修改",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_132",
@@ -7804,7 +9376,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "横断面交互修改",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_133",
@@ -7863,7 +9447,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建路基模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_134",
@@ -7920,7 +9516,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建路基模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "路肩",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_135",
@@ -7982,7 +9590,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建路基模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_136",
@@ -8041,7 +9661,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建边坡模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_137",
@@ -8098,7 +9730,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建边坡模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "平台宽度",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_138",
@@ -8160,7 +9804,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建边坡模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_139",
@@ -8219,7 +9875,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建边沟与截水沟模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_140",
@@ -8276,7 +9944,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建边沟与截水沟模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "尺寸",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_141",
@@ -8338,7 +10018,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "创建边沟与截水沟模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_142",
@@ -8397,7 +10089,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成和修改超高渐变图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_143",
@@ -8454,7 +10158,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成和修改超高渐变图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_144",
@@ -8516,7 +10232,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成和修改超高渐变图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_145",
@@ -8575,7 +10303,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "执行横断面戴帽设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_146",
@@ -8632,7 +10372,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "执行横断面戴帽设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "桩号范围",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_147",
@@ -8694,7 +10446,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "执行横断面戴帽设计",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_148",
@@ -8753,7 +10517,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "查看与绘制横断面成果",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_149",
@@ -8810,7 +10586,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "查看与绘制横断面成果",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_150",
@@ -8872,7 +10660,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "查看与绘制横断面成果",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_151",
@@ -8930,7 +10730,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "土石方调配数据预处理",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_152",
@@ -8986,7 +10798,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "土石方调配数据预处理",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "利用方式",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_153",
@@ -9047,7 +10871,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "土石方调配数据预处理",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_154",
@@ -9106,7 +10942,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置构造物运距",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_155",
@@ -9163,7 +11011,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置构造物运距",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "是否通行",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_156",
@@ -9225,7 +11085,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置构造物运距",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_157",
@@ -9284,7 +11156,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "绘制土石方调配成果",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_158",
@@ -9341,7 +11225,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "绘制土石方调配成果",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "运输路径",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_159",
@@ -9403,7 +11299,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "绘制土石方调配成果",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_160",
@@ -9463,7 +11371,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "管理图框和表格模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_161",
@@ -9521,7 +11441,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "管理图框和表格模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_162",
@@ -9584,7 +11516,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "管理图框和表格模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_163",
@@ -9643,7 +11587,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成路线平面图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_164",
@@ -9700,7 +11656,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成路线平面图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "图框",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_165",
@@ -9762,7 +11730,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成路线平面图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_166",
@@ -9821,7 +11801,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成纵断面设计图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_167",
@@ -9878,7 +11870,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成纵断面设计图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_168",
@@ -9940,7 +11944,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成纵断面设计图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_169",
@@ -9999,7 +12015,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成横断面设计图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_170",
@@ -10056,7 +12084,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成横断面设计图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "比例",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_171",
@@ -10118,7 +12158,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "生成横断面设计图",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_172",
@@ -10176,7 +12228,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输出设计表格",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_173",
@@ -10232,7 +12296,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输出设计表格",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_174",
@@ -10293,7 +12369,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "输出设计表格",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_175",
@@ -10352,7 +12440,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置EICAD成果输出模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_176",
@@ -10409,7 +12509,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置EICAD成果输出模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "表格模板",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_177",
@@ -10471,7 +12583,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "设置EICAD成果输出模板",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_178",
@@ -10531,7 +12655,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "批量输出图纸和表格",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_179",
@@ -10589,7 +12725,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "批量输出图纸和表格",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "比例",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_180",
@@ -10652,7 +12800,19 @@
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "retrieval_context": "批量输出图纸和表格",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_181",
@@ -10702,7 +12862,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_182",
@@ -10752,7 +12924,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_183",
@@ -10802,7 +12986,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_184",
@@ -10852,7 +13048,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_185",
@@ -10902,7 +13110,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_186",
@@ -10952,7 +13172,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_187",
@@ -11002,7 +13234,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_188",
@@ -11052,7 +13296,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_189",
@@ -11102,7 +13358,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_190",
@@ -11152,7 +13420,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_191",
@@ -11202,7 +13482,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_192",
@@ -11252,7 +13544,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_193",
@@ -11302,7 +13606,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_194",
@@ -11352,7 +13668,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_195",
@@ -11402,7 +13730,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_196",
@@ -11452,7 +13792,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_197",
@@ -11502,7 +13854,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_198",
@@ -11552,7 +13916,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_199",
@@ -11602,7 +13978,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_200",
@@ -11652,7 +14040,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_201",
@@ -11702,7 +14102,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_202",
@@ -11752,7 +14164,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_203",
@@ -11802,7 +14226,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_204",
@@ -11852,7 +14288,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_205",
@@ -11902,7 +14350,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_206",
@@ -11952,7 +14412,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_207",
@@ -12002,7 +14474,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_208",
@@ -12052,7 +14536,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_209",
@@ -12102,7 +14598,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_210",
@@ -12152,7 +14660,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_211",
@@ -12202,7 +14722,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_212",
@@ -12252,7 +14784,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_213",
@@ -12302,7 +14846,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_214",
@@ -12352,7 +14908,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_215",
@@ -12402,7 +14970,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_216",
@@ -12452,7 +15032,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_217",
@@ -12502,7 +15094,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_218",
@@ -12552,7 +15156,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_219",
@@ -12602,7 +15218,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_220",
@@ -12652,7 +15280,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_221",
@@ -12702,7 +15342,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_222",
@@ -12752,7 +15404,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_223",
@@ -12802,7 +15466,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_224",
@@ -12852,7 +15528,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_225",
@@ -12902,7 +15590,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_226",
@@ -12952,7 +15652,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_227",
@@ -13002,7 +15714,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_228",
@@ -13052,7 +15776,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_229",
@@ -13102,7 +15838,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_230",
@@ -13152,7 +15900,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_231",
@@ -13202,7 +15962,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_232",
@@ -13252,7 +16024,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_233",
@@ -13302,7 +16086,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_234",
@@ -13352,7 +16148,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_235",
@@ -13402,7 +16210,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_236",
@@ -13452,7 +16272,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_237",
@@ -13502,7 +16334,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_238",
@@ -13552,7 +16396,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_239",
@@ -13602,7 +16458,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_240",
@@ -13652,7 +16520,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_241",
@@ -13702,7 +16582,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_242",
@@ -13752,7 +16644,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_243",
@@ -13802,7 +16706,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_244",
@@ -13852,7 +16768,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_245",
@@ -13902,7 +16830,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_246",
@@ -13952,7 +16892,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_247",
@@ -14002,7 +16954,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_248",
@@ -14052,7 +17016,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_249",
@@ -14102,7 +17078,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_250",
@@ -14152,7 +17140,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_251",
@@ -14202,7 +17202,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_252",
@@ -14252,7 +17264,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_253",
@@ -14302,7 +17326,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_254",
@@ -14352,7 +17388,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_255",
@@ -14402,7 +17450,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_256",
@@ -14452,7 +17512,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_257",
@@ -14502,7 +17574,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_258",
@@ -14552,7 +17636,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_259",
@@ -14602,7 +17698,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_260",
@@ -14652,7 +17760,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_261",
@@ -14698,7 +17818,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": true,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_262",
@@ -14744,7 +17876,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": true,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_263",
@@ -14790,7 +17934,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": true,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_264",
@@ -14836,7 +17992,19 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": true,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch07_265",
@@ -14880,6 +18048,18 @@
     "answer_boundary": "以第七章纬地和EICAD典型操作为准，具体界面名称可随软件版本略有差异。",
     "confidence_rule": "若问题匹配操作任务或软件对象，优先调用本答案卡；如无匹配，再检索操作步骤和证据摘要。",
     "recommended_resources": [],
-    "status": "checked"
+    "status": "checked",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "参数设置",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": false,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   }
 ]

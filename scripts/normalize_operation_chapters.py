@@ -11,6 +11,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 DESKTOP_KNOWLEDGE = Path(r"C:\Users\Michael\Desktop\knowledge")
 SOURCE_ASSET_ROOT = Path(r"F:\编书\道路工程数字设计方法\05脚本及图片素材")
+WORD_ALIGNMENT_PATH = ROOT / "output" / "word_alignment_ch06_ch09_2026-06-04.json"
 
 CHAPTERS = {
     "ch07": {
@@ -52,16 +53,17 @@ def main() -> int:
     parser.add_argument("--chapters", nargs="+", default=["ch07", "ch08", "ch09"], choices=sorted(CHAPTERS))
     parser.add_argument("--source-dir", type=Path, default=DESKTOP_KNOWLEDGE)
     parser.add_argument("--asset-root", type=Path, default=SOURCE_ASSET_ROOT)
+    parser.add_argument("--word-alignment", type=Path, default=WORD_ALIGNMENT_PATH)
     args = parser.parse_args()
 
     summaries = []
     for chapter_id in args.chapters:
-        summaries.append(normalize_chapter(chapter_id, args.source_dir, args.asset_root))
+        summaries.append(normalize_chapter(chapter_id, args.source_dir, args.asset_root, args.word_alignment))
     print(json.dumps(summaries, ensure_ascii=False, indent=2))
     return 0
 
 
-def normalize_chapter(chapter_id: str, source_dir: Path, asset_root: Path) -> dict[str, Any]:
+def normalize_chapter(chapter_id: str, source_dir: Path, asset_root: Path, word_alignment_path: Path) -> dict[str, Any]:
     config = CHAPTERS[chapter_id]
     source_json = find_by_size(source_dir, int(config["json_size"]), ".json")
     source_jsonl = find_by_size(source_dir, int(config["jsonl_size"]), ".jsonl")
@@ -71,7 +73,7 @@ def normalize_chapter(chapter_id: str, source_dir: Path, asset_root: Path) -> di
     if isinstance(raw.get("metadata"), dict):
         data["metadata"] = raw["metadata"]
 
-    normalize_package(chapter_id, data, config, asset_root)
+    normalize_package(chapter_id, data, config, asset_root, word_alignment_path)
 
     output_dir = ROOT / "data/raw" / chapter_id
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -101,7 +103,7 @@ def find_by_size(source_dir: Path, size: int, suffix: str) -> Path:
     return matches[0]
 
 
-def normalize_package(chapter_id: str, data: dict[str, Any], config: dict[str, Any], asset_root: Path) -> None:
+def normalize_package(chapter_id: str, data: dict[str, Any], config: dict[str, Any], asset_root: Path, word_alignment_path: Path) -> None:
     ensure_list_tables(data)
     normalize_chapter_structure(data.get("Chapter_Structure", []))
     normalize_source_chunks(data.get("Source_Chunks", []))
@@ -124,6 +126,7 @@ def normalize_package(chapter_id: str, data: dict[str, Any], config: dict[str, A
     normalize_quality_checklist(data.get("Quality_Checklist", []), chapter_id)
     bind_interactive_scripts(data, chapter_id, config, asset_root)
     add_resource_eval_cases(data, chapter_id)
+    apply_word_alignment_enrichment(data, chapter_id, word_alignment_path)
     add_metadata(data, chapter_id, config)
 
 
@@ -262,8 +265,12 @@ def enrich_duplicate_answer_contexts(data: dict[str, Any]) -> None:
                 continue
             card["retrieval_context"] = context
             patterns = split_values(card.get("student_question_patterns"))
-            patterns.extend([f"{context}:{canonical}", f"{context}{canonical}"])
+            patterns.extend([canonical, f"{context}:{canonical}", f"{context}{canonical}"])
             card["student_question_patterns"] = dedupe(patterns)
+            card.setdefault("canonical_question_original", canonical)
+            scoped = f"{context}:{canonical}"
+            if compact_text(card.get("canonical_question")) != compact_text(scoped):
+                card["canonical_question"] = scoped
 
 
 def duplicate_answer_context(card: dict[str, Any]) -> str:
@@ -773,6 +780,227 @@ def add_resource_eval_cases(data: dict[str, Any], chapter_id: str) -> None:
                 }
             )
     data["Resource_Evaluation_Testset"] = cases
+
+
+def apply_word_alignment_enrichment(data: dict[str, Any], chapter_id: str, word_alignment_path: Path) -> None:
+    chapter = load_word_alignment_chapter(word_alignment_path, chapter_id)
+    if not chapter:
+        return
+
+    source_applied = apply_source_chunk_word_alignment(data, chapter)
+    answer_applied = apply_answer_card_word_alignment(data, chapter)
+    data.setdefault("metadata", {})
+    if isinstance(data["metadata"], dict):
+        data["metadata"]["word_alignment"] = {
+            "source": str(word_alignment_path),
+            "word_range": chapter.get("word_range") or {},
+            "source_chunk_alignment": chapter.get("source_chunk_alignment") or {},
+            "knowledge_point_alignment": chapter.get("knowledge_point_alignment") or {},
+            "operation_task_alignment": chapter.get("operation_task_alignment") or {},
+            "answer_card_alignment": chapter.get("answer_card_alignment") or {},
+            "heading_coverage": chapter.get("heading_coverage") or {},
+            "source_chunks_enriched": source_applied,
+            "answer_cards_enriched": answer_applied,
+            "policy": "Word alignment is used as automated textbook evidence grading for stable operation chapters. Source_Chunks remain evidence-only and are not treated as verbatim textbook quotes.",
+        }
+
+
+def load_word_alignment_chapter(path: Path, chapter_id: str) -> dict[str, Any]:
+    if not path.exists():
+        return {}
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    chapters = payload.get("chapters") or []
+    if isinstance(chapters, dict):
+        chapters = list(chapters.values())
+    for chapter in chapters:
+        if isinstance(chapter, dict) and chapter.get("chapter_id") == chapter_id:
+            return chapter
+    return {}
+
+
+def apply_source_chunk_word_alignment(data: dict[str, Any], chapter: dict[str, Any]) -> int:
+    source_by_id = {
+        str(row.get("chunk_id")): row
+        for row in data.get("Source_Chunks", [])
+        if isinstance(row, dict) and row.get("chunk_id")
+    }
+    applied = 0
+    for item in chapter.get("source_rows") or []:
+        if not isinstance(item, dict):
+            continue
+        chunk = source_by_id.get(str(item.get("chunk_id") or ""))
+        if chunk is None:
+            continue
+        profile = operation_source_evidence_profile(str(item.get("status") or ""), item.get("support_terms") or [])
+        chunk["word_alignment"] = {
+            "status": item.get("status") or "",
+            "classification": profile["classification"],
+            "heading_path": item.get("heading_path") or "",
+            "support_terms": item.get("support_terms") or [],
+        }
+        chunk["word_correspondence"] = {
+            "source": "word_alignment_ch06_ch09_2026-06-04",
+            "status": item.get("status") or "",
+            "classification": profile["classification"],
+            "excerpt_preview": item.get("excerpt_preview") or "",
+            "not_verbatim_quote": True,
+        }
+        chunk["evidence_quality_profile"] = {
+            "mode": "automated_operation_textbook_evidence_grading",
+            "evidence_confidence": profile["evidence_confidence"],
+            "evidence_boundary_type": profile["evidence_boundary_type"],
+            "source_excerpt_role": profile["source_excerpt_role"],
+            "review_status": profile["review_status"],
+            "answer_use": profile["answer_use"],
+            "usable_for_answer": "no_direct_output",
+            "needs_textbook_anchor_review": profile["needs_textbook_anchor_review"],
+            "not_verbatim_quote": True,
+        }
+        chunk["review_status"] = profile["review_status"]
+        chunk["source_excerpt_role"] = profile["source_excerpt_role"]
+        chunk["word_verification"] = profile["word_verification"]
+        chunk["answer_use"] = profile["answer_use"]
+        chunk["usable_for_answer"] = "no_direct_output"
+        applied += 1
+    return applied
+
+
+def operation_source_evidence_profile(status: str, support_terms: list[Any]) -> dict[str, Any]:
+    normalized = str(status or "").strip()
+    has_terms = bool(support_terms)
+    if normalized == "exact":
+        return {
+            "classification": "direct_text_evidence",
+            "evidence_confidence": "high",
+            "evidence_boundary_type": "direct_text_or_heading",
+            "source_excerpt_role": "auto_direct_text_evidence_not_verbatim",
+            "word_verification": "auto_direct_text_supported",
+            "review_status": "auto_evidence_graded",
+            "answer_use": "教材证据层：Word 正文或标题直接支撑，可辅助答案核验；不直接整段输出。",
+            "needs_textbook_anchor_review": False,
+        }
+    if normalized == "partial":
+        return {
+            "classification": "partial_text_evidence",
+            "evidence_confidence": "medium",
+            "evidence_boundary_type": "partial_text_or_heading",
+            "source_excerpt_role": "auto_partial_text_evidence_not_verbatim",
+            "word_verification": "auto_partial_text_supported",
+            "review_status": "auto_evidence_graded",
+            "answer_use": "教材证据层：Word 局部内容支撑，可辅助答案核验；不作为完整原句引用。",
+            "needs_textbook_anchor_review": False,
+        }
+    if normalized == "concept_supported":
+        return {
+            "classification": "concept_or_operation_anchor",
+            "evidence_confidence": "medium",
+            "evidence_boundary_type": "concept_supported_summary",
+            "source_excerpt_role": "auto_concept_operation_anchor_not_verbatim",
+            "word_verification": "auto_concept_operation_supported",
+            "review_status": "auto_evidence_graded",
+            "answer_use": "教材证据层：概念或操作主题在 Word 中可支撑，Source_Chunk 为教学化摘要。",
+            "needs_textbook_anchor_review": False,
+        }
+    return {
+        "classification": "operation_summary_with_term_support" if has_terms else "operation_summary_not_verbatim",
+        "evidence_confidence": "low" if not has_terms else "medium",
+        "evidence_boundary_type": "operation_teaching_summary",
+        "source_excerpt_role": "auto_operation_summary_not_verbatim",
+        "word_verification": "auto_operation_summary_not_direct_quote",
+        "review_status": "auto_evidence_downgraded" if not has_terms else "auto_evidence_graded",
+        "answer_use": "辅助证据：操作型结构化摘要用于支撑任务/知识点检索，不作为教材原句或RAG主回答内容。",
+        "needs_textbook_anchor_review": not has_terms,
+    }
+
+
+def apply_answer_card_word_alignment(data: dict[str, Any], chapter: dict[str, Any]) -> int:
+    cards = {
+        str(row.get("answer_id")): row
+        for row in data.get("Answer_Cards", [])
+        if isinstance(row, dict) and row.get("answer_id")
+    }
+    hit_tasks = {
+        str(row.get("id"))
+        for row in chapter.get("operation_task_rows") or []
+        if isinstance(row, dict) and row.get("word_hit")
+    }
+    hit_kps = {
+        str(row.get("id"))
+        for row in chapter.get("knowledge_point_rows") or []
+        if isinstance(row, dict) and row.get("word_hit")
+    }
+    comparison_index = [
+        {
+            "comparison_id": row.get("comparison_id") or "",
+            "terms": [
+                str(row.get(field) or "").strip()
+                for field in ("title", "object_a", "object_b")
+                if str(row.get(field) or "").strip()
+            ],
+        }
+        for row in data.get("Concept_Comparison", [])
+        if isinstance(row, dict)
+    ]
+    applied = 0
+    for item in chapter.get("answer_card_rows") or []:
+        if not isinstance(item, dict):
+            continue
+        card = cards.get(str(item.get("answer_id") or ""))
+        if card is None:
+            continue
+        related_task = str(card.get("related_task") or "")
+        related_kps = split_values(card.get("related_kps"))
+        direct_hit = bool(item.get("word_hit"))
+        task_supported = related_task in hit_tasks if related_task else False
+        kp_supported = any(kp in hit_kps for kp in related_kps)
+        comparison_supported = answer_supported_by_comparison(card, comparison_index)
+        if direct_hit:
+            support_type = "direct_word_question_hit"
+            confidence_value = "high"
+            needs_review = False
+        elif task_supported or kp_supported:
+            support_type = "teaching_rewrite_supported_by_task_or_kp"
+            confidence_value = "medium"
+            needs_review = False
+        elif comparison_supported:
+            support_type = "teaching_rewrite_supported_by_concept_comparison"
+            confidence_value = "medium"
+            needs_review = False
+        else:
+            support_type = "word_direct_question_missing"
+            confidence_value = "low"
+            needs_review = True
+        card["word_alignment"] = {
+            "source": "word_alignment_ch06_ch09_2026-06-04",
+            "word_hit": direct_hit,
+            "matched_term": item.get("matched_term") or "",
+            "support_type": support_type,
+            "evidence_confidence": confidence_value,
+            "related_task_word_hit": task_supported,
+            "related_kp_word_hit": kp_supported,
+            "concept_comparison_supported": comparison_supported,
+            "needs_textbook_anchor_review": needs_review,
+            "not_verbatim_quote": True,
+        }
+        applied += 1
+    return applied
+
+
+def answer_supported_by_comparison(card: dict[str, Any], comparison_index: list[dict[str, Any]]) -> bool:
+    question = compact_text(card.get("canonical_question"))
+    points = compact_text(" ".join(split_values(card.get("answer_points"))))
+    haystack = f"{question} {points}"
+    if "区别" not in str(card.get("canonical_question") or "") and "比较" not in str(card.get("canonical_question") or ""):
+        return False
+    for comparison in comparison_index:
+        terms: list[str] = []
+        for raw_term in comparison.get("terms") or []:
+            terms.append(compact_text(raw_term))
+            terms.extend(compact_text(part) for part in re.split(r"与|和|/|、|vs|VS", str(raw_term)) if part.strip())
+        strong_terms = [term for term in terms if len(term) >= 3]
+        if strong_terms and sum(1 for term in strong_terms if term in haystack) >= 2:
+            return True
+    return False
 
 
 def add_metadata(data: dict[str, Any], chapter_id: str, config: dict[str, Any]) -> None:

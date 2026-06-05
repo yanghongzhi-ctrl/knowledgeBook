@@ -2,9 +2,9 @@
   "chapter_id": "ch07",
   "version_id": "ch07_kb_v1.0",
   "package_path": "D:\\knowledgebase\\data\\raw\\ch07\\第7章_道路CAD软件的使用_知识库_v1.0操作完备版.json",
-  "source_checksum": "b0c62de31acb8feaae47b2258ffc987032504e00642f42926da2ac84aa1263bc",
-  "started_at": "2026-06-04T15:30:44",
-  "finished_at": "2026-06-04T15:31:59",
+  "source_checksum": "d448a4d93df44a8ba3db5e1bef158fff8f386d5f49d0e4026084adf9fe792791",
+  "started_at": "2026-06-05T19:09:10",
+  "finished_at": "2026-06-05T19:18:47",
   "status": "released",
   "table_counts": {
     "README": 1,
@@ -19,7 +19,7 @@
     "Common_Errors": 176,
     "Video_Resources": 10,
     "Video_Segments": 60,
-    "Screenshot_Resources": 120,
+    "Screenshot_Resources": 300,
     "Resource_Relations": 300,
     "Concept_Comparison": 10,
     "Synonyms": 240,
@@ -60,7 +60,7 @@
           "Common_Errors": 176,
           "Video_Resources": 10,
           "Video_Segments": 60,
-          "Screenshot_Resources": 120,
+          "Screenshot_Resources": 300,
           "Resource_Relations": 300,
           "Concept_Comparison": 10,
           "Synonyms": 240,
@@ -124,7 +124,7 @@
           "common_errors.json": 176,
           "video_resources.json": 10,
           "video_segments.json": 60,
-          "screenshot_resources.json": 120,
+          "screenshot_resources.json": 300,
           "resource_relations.json": 300,
           "question_routing_rules.json": 5,
           "answer_guardrails.json": 6
@@ -134,7 +134,7 @@
     {
       "name": "sql_export",
       "status": "passed",
-      "summary": "seed_sql_bytes=4985626",
+      "summary": "seed_sql_bytes=5266967",
       "details": {
         "seed_sql": "D:\\knowledgebase\\output\\ch07_rag_engine\\db_load\\ch07_seed.sql"
       }
@@ -168,11 +168,23 @@
     },
     {
       "name": "embeddings",
-      "status": "skipped",
-      "summary": "embedding generation not requested",
+      "status": "passed",
+      "summary": "generated=466/466, dimensions=[1024]",
       "details": {
-        "existing_jsonl": "D:\\knowledgebase\\output\\ch07_rag_engine\\embeddings\\ch07_embedding_vectors.jsonl",
-        "existing_sql": "D:\\knowledgebase\\output\\ch07_rag_engine\\db_load\\ch07_embedding_updates.sql"
+        "jsonl": "D:\\knowledgebase\\output\\ch07_rag_engine\\embeddings\\ch07_embedding_vectors.jsonl",
+        "sql": "D:\\knowledgebase\\output\\ch07_rag_engine\\db_load\\ch07_embedding_updates.sql",
+        "count": 466,
+        "dimensions": [
+          1024
+        ],
+        "models": [
+          "bge-m3"
+        ],
+        "by_source_type": {
+          "knowledge_point": 141,
+          "operation_task": 60,
+          "answer_card": 265
+        }
       }
     },
     {

@@ -1438,5 +1438,1625 @@
     "file_path": "chapter_07/screenshots/ch07_shot_060_02.png",
     "description": "用于说明批量输出图纸和表格操作过程中的关键界面。",
     "status": "placeholder"
+  },
+  {
+    "screenshot_id": "ch07_shot_001_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_001",
+    "step_id": "ch07_task_001_step_03",
+    "title": "新建纬地项目-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_001_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_001_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_001",
+    "step_id": "ch07_task_001_step_04",
+    "title": "新建纬地项目-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_001_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_001_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_001",
+    "step_id": "ch07_task_001_step_05",
+    "title": "新建纬地项目-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_001_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_002_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_002",
+    "step_id": "ch07_task_002_step_03",
+    "title": "查看与维护项目管理器-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_002_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_002_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_002",
+    "step_id": "ch07_task_002_step_04",
+    "title": "查看与维护项目管理器-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_002_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_002_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_002",
+    "step_id": "ch07_task_002_step_05",
+    "title": "查看与维护项目管理器-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_002_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_003_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_003",
+    "step_id": "ch07_task_003_step_03",
+    "title": "导入DWG/DXF高程数据-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_003_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_003_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_003",
+    "step_id": "ch07_task_003_step_04",
+    "title": "导入DWG/DXF高程数据-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_003_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_003_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_003",
+    "step_id": "ch07_task_003_step_05",
+    "title": "导入DWG/DXF高程数据-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_003_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_004_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_004",
+    "step_id": "ch07_task_004_step_03",
+    "title": "设置等高线与高程点类型-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_004_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_004_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_004",
+    "step_id": "ch07_task_004_step_04",
+    "title": "设置等高线与高程点类型-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_004_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_004_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_004",
+    "step_id": "ch07_task_004_step_05",
+    "title": "设置等高线与高程点类型-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_004_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_005_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_005",
+    "step_id": "ch07_task_005_step_03",
+    "title": "三角构网并保存数模-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_005_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_005_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_005",
+    "step_id": "ch07_task_005_step_04",
+    "title": "三角构网并保存数模-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_005_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_005_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_005",
+    "step_id": "ch07_task_005_step_05",
+    "title": "三角构网并保存数模-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_005_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_006_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_006",
+    "step_id": "ch07_task_006_step_03",
+    "title": "优化数模边界和三角网-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_006_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_006_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_006",
+    "step_id": "ch07_task_006_step_04",
+    "title": "优化数模边界和三角网-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_006_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_006_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_006",
+    "step_id": "ch07_task_006_step_05",
+    "title": "优化数模边界和三角网-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_006_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_007_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_007",
+    "step_id": "ch07_task_007_step_03",
+    "title": "新建EICAD项目-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_007_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_007_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_007",
+    "step_id": "ch07_task_007_step_04",
+    "title": "新建EICAD项目-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_007_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_007_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_007",
+    "step_id": "ch07_task_007_step_05",
+    "title": "新建EICAD项目-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_007_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_008_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_008",
+    "step_id": "ch07_task_008_step_03",
+    "title": "导入或打开项目数据-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_008_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_008_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_008",
+    "step_id": "ch07_task_008_step_04",
+    "title": "导入或打开项目数据-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_008_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_008_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_008",
+    "step_id": "ch07_task_008_step_05",
+    "title": "导入或打开项目数据-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_008_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_009_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_009",
+    "step_id": "ch07_task_009_step_03",
+    "title": "点选方式建立数模-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_009_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_009_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_009",
+    "step_id": "ch07_task_009_step_04",
+    "title": "点选方式建立数模-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_009_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_009_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_009",
+    "step_id": "ch07_task_009_step_05",
+    "title": "点选方式建立数模-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_009_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_010_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_010",
+    "step_id": "ch07_task_010_step_03",
+    "title": "排除高程异常并优化数模-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_010_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_010_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_010",
+    "step_id": "ch07_task_010_step_04",
+    "title": "排除高程异常并优化数模-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_010_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_010_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_010",
+    "step_id": "ch07_task_010_step_05",
+    "title": "排除高程异常并优化数模-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_010_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_011_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_011",
+    "step_id": "ch07_task_011_step_03",
+    "title": "直线型交点法平面定线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_011_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_011_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_011",
+    "step_id": "ch07_task_011_step_04",
+    "title": "直线型交点法平面定线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_011_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_011_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_011",
+    "step_id": "ch07_task_011_step_05",
+    "title": "直线型交点法平面定线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_011_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_012_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_012",
+    "step_id": "ch07_task_012_step_03",
+    "title": "修改平曲线参数-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_012_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_012_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_012",
+    "step_id": "ch07_task_012_step_04",
+    "title": "修改平曲线参数-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_012_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_012_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_012",
+    "step_id": "ch07_task_012_step_05",
+    "title": "修改平曲线参数-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_012_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_013_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_013",
+    "step_id": "ch07_task_013_step_03",
+    "title": "设计S型曲线组合-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_013_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_013_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_013",
+    "step_id": "ch07_task_013_step_04",
+    "title": "设计S型曲线组合-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_013_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_013_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_013",
+    "step_id": "ch07_task_013_step_05",
+    "title": "设计S型曲线组合-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_013_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_014_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_014",
+    "step_id": "ch07_task_014_step_03",
+    "title": "设计卵形曲线组合-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_014_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_014_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_014",
+    "step_id": "ch07_task_014_step_04",
+    "title": "设计卵形曲线组合-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_014_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_014_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_014",
+    "step_id": "ch07_task_014_step_05",
+    "title": "设计卵形曲线组合-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_014_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_015_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_015",
+    "step_id": "ch07_task_015_step_03",
+    "title": "设计C型曲线与回头曲线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_015_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_015_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_015",
+    "step_id": "ch07_task_015_step_04",
+    "title": "设计C型曲线与回头曲线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_015_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_015_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_015",
+    "step_id": "ch07_task_015_step_05",
+    "title": "设计C型曲线与回头曲线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_015_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_016_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_016",
+    "step_id": "ch07_task_016_step_03",
+    "title": "互通匝道文件控制接线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_016_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_016_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_016",
+    "step_id": "ch07_task_016_step_04",
+    "title": "互通匝道文件控制接线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_016_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_016_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_016",
+    "step_id": "ch07_task_016_step_05",
+    "title": "互通匝道文件控制接线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_016_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_017_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_017",
+    "step_id": "ch07_task_017_step_03",
+    "title": "互通匝道圆+缓+直接线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_017_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_017_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_017",
+    "step_id": "ch07_task_017_step_04",
+    "title": "互通匝道圆+缓+直接线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_017_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_017_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_017",
+    "step_id": "ch07_task_017_step_05",
+    "title": "互通匝道圆+缓+直接线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_017_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_018_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_018",
+    "step_id": "ch07_task_018_step_03",
+    "title": "积木法构造匝道线形-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_018_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_018_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_018",
+    "step_id": "ch07_task_018_step_04",
+    "title": "积木法构造匝道线形-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_018_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_018_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_018",
+    "step_id": "ch07_task_018_step_05",
+    "title": "积木法构造匝道线形-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_018_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_019_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_019",
+    "step_id": "ch07_task_019_step_03",
+    "title": "EICAD直线单元设计-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_019_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_019_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_019",
+    "step_id": "ch07_task_019_step_04",
+    "title": "EICAD直线单元设计-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_019_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_019_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_019",
+    "step_id": "ch07_task_019_step_05",
+    "title": "EICAD直线单元设计-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_019_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_020_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_020",
+    "step_id": "ch07_task_020_step_03",
+    "title": "EICAD圆曲线单元设计-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_020_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_020_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_020",
+    "step_id": "ch07_task_020_step_04",
+    "title": "EICAD圆曲线单元设计-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_020_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_020_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_020",
+    "step_id": "ch07_task_020_step_05",
+    "title": "EICAD圆曲线单元设计-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_020_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_021_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_021",
+    "step_id": "ch07_task_021_step_03",
+    "title": "EICAD缓和曲线单元设计-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_021_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_021_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_021",
+    "step_id": "ch07_task_021_step_04",
+    "title": "EICAD缓和曲线单元设计-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_021_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_021_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_021",
+    "step_id": "ch07_task_021_step_05",
+    "title": "EICAD缓和曲线单元设计-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_021_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_022_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_022",
+    "step_id": "ch07_task_022_step_03",
+    "title": "连接两缓和曲线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_022_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_022_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_022",
+    "step_id": "ch07_task_022_step_04",
+    "title": "连接两缓和曲线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_022_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_022_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_022",
+    "step_id": "ch07_task_022_step_05",
+    "title": "连接两缓和曲线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_022_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_023_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_023",
+    "step_id": "ch07_task_023_step_03",
+    "title": "基本模式法圆圆模式设计-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_023_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_023_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_023",
+    "step_id": "ch07_task_023_step_04",
+    "title": "基本模式法圆圆模式设计-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_023_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_023_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_023",
+    "step_id": "ch07_task_023_step_05",
+    "title": "基本模式法圆圆模式设计-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_023_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_024_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_024",
+    "step_id": "ch07_task_024_step_03",
+    "title": "扩展模式法立交匝道设计-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_024_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_024_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_024",
+    "step_id": "ch07_task_024_step_04",
+    "title": "扩展模式法立交匝道设计-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_024_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_024_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_024",
+    "step_id": "ch07_task_024_step_05",
+    "title": "扩展模式法立交匝道设计-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_024_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_025_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_025",
+    "step_id": "ch07_task_025_step_03",
+    "title": "生成桩号文件-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_025_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_025_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_025",
+    "step_id": "ch07_task_025_step_04",
+    "title": "生成桩号文件-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_025_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_025_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_025",
+    "step_id": "ch07_task_025_step_05",
+    "title": "生成桩号文件-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_025_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_026_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_026",
+    "step_id": "ch07_task_026_step_03",
+    "title": "数模内插纵断面地面线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_026_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_026_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_026",
+    "step_id": "ch07_task_026_step_04",
+    "title": "数模内插纵断面地面线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_026_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_026_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_026",
+    "step_id": "ch07_task_026_step_05",
+    "title": "数模内插纵断面地面线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_026_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_027_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_027",
+    "step_id": "ch07_task_027_step_03",
+    "title": "手工输入或修改纵断面地面线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_027_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_027_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_027",
+    "step_id": "ch07_task_027_step_04",
+    "title": "手工输入或修改纵断面地面线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_027_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_027_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_027",
+    "step_id": "ch07_task_027_step_05",
+    "title": "手工输入或修改纵断面地面线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_027_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_028_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_028",
+    "step_id": "ch07_task_028_step_03",
+    "title": "输入桥梁涵洞通道控制点-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_028_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_028_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_028",
+    "step_id": "ch07_task_028_step_04",
+    "title": "输入桥梁涵洞通道控制点-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_028_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_028_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_028",
+    "step_id": "ch07_task_028_step_05",
+    "title": "输入桥梁涵洞通道控制点-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_028_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_029_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_029",
+    "step_id": "ch07_task_029_step_03",
+    "title": "创建纵断面拉坡图-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_029_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_029_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_029",
+    "step_id": "ch07_task_029_step_04",
+    "title": "创建纵断面拉坡图-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_029_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_029_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_029",
+    "step_id": "ch07_task_029_step_05",
+    "title": "创建纵断面拉坡图-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_029_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_030_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_030",
+    "step_id": "ch07_task_030_step_03",
+    "title": "交互式设置变坡点-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_030_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_030_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_030",
+    "step_id": "ch07_task_030_step_04",
+    "title": "交互式设置变坡点-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_030_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_030_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_030",
+    "step_id": "ch07_task_030_step_05",
+    "title": "交互式设置变坡点-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_030_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_031_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_031",
+    "step_id": "ch07_task_031_step_03",
+    "title": "修改变坡点与竖曲线半径-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_031_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_031_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_031",
+    "step_id": "ch07_task_031_step_04",
+    "title": "修改变坡点与竖曲线半径-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_031_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_031_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_031",
+    "step_id": "ch07_task_031_step_05",
+    "title": "修改变坡点与竖曲线半径-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_031_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_032_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_032",
+    "step_id": "ch07_task_032_step_03",
+    "title": "输出纵横地面线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_032_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_032_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_032",
+    "step_id": "ch07_task_032_step_04",
+    "title": "输出纵横地面线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_032_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_032_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_032",
+    "step_id": "ch07_task_032_step_05",
+    "title": "输出纵横地面线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_032_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_033_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_033",
+    "step_id": "ch07_task_033_step_03",
+    "title": "创建拉坡图-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_033_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_033_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_033",
+    "step_id": "ch07_task_033_step_04",
+    "title": "创建拉坡图-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_033_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_033_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_033",
+    "step_id": "ch07_task_033_step_05",
+    "title": "创建拉坡图-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_033_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_034_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_034",
+    "step_id": "ch07_task_034_step_03",
+    "title": "输入拉坡控制点-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_034_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_034_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_034",
+    "step_id": "ch07_task_034_step_04",
+    "title": "输入拉坡控制点-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_034_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_034_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_034",
+    "step_id": "ch07_task_034_step_05",
+    "title": "输入拉坡控制点-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_034_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_035_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_035",
+    "step_id": "ch07_task_035_step_03",
+    "title": "自动拉坡设计-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_035_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_035_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_035",
+    "step_id": "ch07_task_035_step_04",
+    "title": "自动拉坡设计-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_035_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_035_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_035",
+    "step_id": "ch07_task_035_step_05",
+    "title": "自动拉坡设计-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_035_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_036_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_036",
+    "step_id": "ch07_task_036_step_03",
+    "title": "手工拉坡与夹点调整-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_036_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_036_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_036",
+    "step_id": "ch07_task_036_step_04",
+    "title": "手工拉坡与夹点调整-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_036_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_036_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_036",
+    "step_id": "ch07_task_036_step_05",
+    "title": "手工拉坡与夹点调整-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_036_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_037_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_037",
+    "step_id": "ch07_task_037_step_03",
+    "title": "输入横断面地面线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_037_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_037_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_037",
+    "step_id": "ch07_task_037_step_04",
+    "title": "输入横断面地面线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_037_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_037_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_037",
+    "step_id": "ch07_task_037_step_05",
+    "title": "输入横断面地面线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_037_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_038_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_038",
+    "step_id": "ch07_task_038_step_03",
+    "title": "数模内插横断面地面线-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_038_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_038_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_038",
+    "step_id": "ch07_task_038_step_04",
+    "title": "数模内插横断面地面线-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_038_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_038_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_038",
+    "step_id": "ch07_task_038_step_05",
+    "title": "数模内插横断面地面线-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_038_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_039_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_039",
+    "step_id": "ch07_task_039_step_03",
+    "title": "运行设计向导定义标准横断面-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_039_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_039_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_039",
+    "step_id": "ch07_task_039_step_04",
+    "title": "运行设计向导定义标准横断面-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_039_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_039_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_039",
+    "step_id": "ch07_task_039_step_05",
+    "title": "运行设计向导定义标准横断面-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_039_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_040_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_040",
+    "step_id": "ch07_task_040_step_03",
+    "title": "自动计算超高加宽-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_040_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_040_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_040",
+    "step_id": "ch07_task_040_step_04",
+    "title": "自动计算超高加宽-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_040_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_040_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_040",
+    "step_id": "ch07_task_040_step_05",
+    "title": "自动计算超高加宽-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_040_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_041_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_041",
+    "step_id": "ch07_task_041_step_03",
+    "title": "路基设计计算-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_041_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_041_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_041",
+    "step_id": "ch07_task_041_step_04",
+    "title": "路基设计计算-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_041_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_041_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_041",
+    "step_id": "ch07_task_041_step_05",
+    "title": "路基设计计算-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_041_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_042_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_042",
+    "step_id": "ch07_task_042_step_03",
+    "title": "录入支挡防护工程-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_042_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_042_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_042",
+    "step_id": "ch07_task_042_step_04",
+    "title": "录入支挡防护工程-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_042_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_042_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_042",
+    "step_id": "ch07_task_042_step_05",
+    "title": "录入支挡防护工程-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_042_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_043_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_043",
+    "step_id": "ch07_task_043_step_03",
+    "title": "横断面设计绘图与戴帽-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_043_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_043_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_043",
+    "step_id": "ch07_task_043_step_04",
+    "title": "横断面设计绘图与戴帽-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_043_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_043_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_043",
+    "step_id": "ch07_task_043_step_05",
+    "title": "横断面设计绘图与戴帽-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_043_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_044_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_044",
+    "step_id": "ch07_task_044_step_03",
+    "title": "横断面交互修改-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_044_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_044_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_044",
+    "step_id": "ch07_task_044_step_04",
+    "title": "横断面交互修改-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_044_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_044_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_044",
+    "step_id": "ch07_task_044_step_05",
+    "title": "横断面交互修改-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_044_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_045_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_045",
+    "step_id": "ch07_task_045_step_03",
+    "title": "创建路基模板-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_045_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_045_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_045",
+    "step_id": "ch07_task_045_step_04",
+    "title": "创建路基模板-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_045_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_045_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_045",
+    "step_id": "ch07_task_045_step_05",
+    "title": "创建路基模板-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_045_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_046_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_046",
+    "step_id": "ch07_task_046_step_03",
+    "title": "创建边坡模板-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_046_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_046_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_046",
+    "step_id": "ch07_task_046_step_04",
+    "title": "创建边坡模板-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_046_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_046_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_046",
+    "step_id": "ch07_task_046_step_05",
+    "title": "创建边坡模板-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_046_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_047_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_047",
+    "step_id": "ch07_task_047_step_03",
+    "title": "创建边沟与截水沟模板-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_047_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_047_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_047",
+    "step_id": "ch07_task_047_step_04",
+    "title": "创建边沟与截水沟模板-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_047_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_047_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_047",
+    "step_id": "ch07_task_047_step_05",
+    "title": "创建边沟与截水沟模板-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_047_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_048_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_048",
+    "step_id": "ch07_task_048_step_03",
+    "title": "生成和修改超高渐变图-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_048_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_048_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_048",
+    "step_id": "ch07_task_048_step_04",
+    "title": "生成和修改超高渐变图-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_048_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_048_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_048",
+    "step_id": "ch07_task_048_step_05",
+    "title": "生成和修改超高渐变图-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_048_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_049_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_049",
+    "step_id": "ch07_task_049_step_03",
+    "title": "执行横断面戴帽设计-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_049_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_049_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_049",
+    "step_id": "ch07_task_049_step_04",
+    "title": "执行横断面戴帽设计-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_049_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_049_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_049",
+    "step_id": "ch07_task_049_step_05",
+    "title": "执行横断面戴帽设计-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_049_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_050_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_050",
+    "step_id": "ch07_task_050_step_03",
+    "title": "查看与绘制横断面成果-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_050_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_050_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_050",
+    "step_id": "ch07_task_050_step_04",
+    "title": "查看与绘制横断面成果-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_050_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_050_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_050",
+    "step_id": "ch07_task_050_step_05",
+    "title": "查看与绘制横断面成果-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_050_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_051_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_051",
+    "step_id": "ch07_task_051_step_03",
+    "title": "土石方调配数据预处理-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_051_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_051_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_051",
+    "step_id": "ch07_task_051_step_04",
+    "title": "土石方调配数据预处理-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_051_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_051_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_051",
+    "step_id": "ch07_task_051_step_05",
+    "title": "土石方调配数据预处理-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_051_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_052_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_052",
+    "step_id": "ch07_task_052_step_03",
+    "title": "设置构造物运距-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_052_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_052_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_052",
+    "step_id": "ch07_task_052_step_04",
+    "title": "设置构造物运距-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_052_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_052_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_052",
+    "step_id": "ch07_task_052_step_05",
+    "title": "设置构造物运距-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_052_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_053_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_053",
+    "step_id": "ch07_task_053_step_03",
+    "title": "绘制土石方调配成果-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_053_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_053_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_053",
+    "step_id": "ch07_task_053_step_04",
+    "title": "绘制土石方调配成果-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_053_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_053_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_053",
+    "step_id": "ch07_task_053_step_05",
+    "title": "绘制土石方调配成果-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_053_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_054_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_054",
+    "step_id": "ch07_task_054_step_03",
+    "title": "管理图框和表格模板-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_054_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_054_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_054",
+    "step_id": "ch07_task_054_step_04",
+    "title": "管理图框和表格模板-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_054_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_054_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_054",
+    "step_id": "ch07_task_054_step_05",
+    "title": "管理图框和表格模板-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_054_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_055_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_055",
+    "step_id": "ch07_task_055_step_03",
+    "title": "生成路线平面图-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_055_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_055_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_055",
+    "step_id": "ch07_task_055_step_04",
+    "title": "生成路线平面图-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_055_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_055_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_055",
+    "step_id": "ch07_task_055_step_05",
+    "title": "生成路线平面图-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_055_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_056_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_056",
+    "step_id": "ch07_task_056_step_03",
+    "title": "生成纵断面设计图-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_056_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_056_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_056",
+    "step_id": "ch07_task_056_step_04",
+    "title": "生成纵断面设计图-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_056_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_056_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_056",
+    "step_id": "ch07_task_056_step_05",
+    "title": "生成纵断面设计图-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_056_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_057_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_057",
+    "step_id": "ch07_task_057_step_03",
+    "title": "生成横断面设计图-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_057_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_057_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_057",
+    "step_id": "ch07_task_057_step_04",
+    "title": "生成横断面设计图-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_057_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_057_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_057",
+    "step_id": "ch07_task_057_step_05",
+    "title": "生成横断面设计图-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_057_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_058_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_058",
+    "step_id": "ch07_task_058_step_03",
+    "title": "输出设计表格-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_058_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_058_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_058",
+    "step_id": "ch07_task_058_step_04",
+    "title": "输出设计表格-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_058_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_058_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_058",
+    "step_id": "ch07_task_058_step_05",
+    "title": "输出设计表格-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_058_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_059_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_059",
+    "step_id": "ch07_task_059_step_03",
+    "title": "设置EICAD成果输出模板-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_059_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_059_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_059",
+    "step_id": "ch07_task_059_step_04",
+    "title": "设置EICAD成果输出模板-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_059_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_059_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_059",
+    "step_id": "ch07_task_059_step_05",
+    "title": "设置EICAD成果输出模板-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_059_05.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_060_03",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_060",
+    "step_id": "ch07_task_060_step_03",
+    "title": "批量输出图纸和表格-输入或选择数据截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_060_03.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_060_04",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_060",
+    "step_id": "ch07_task_060_step_04",
+    "title": "批量输出图纸和表格-设置关键参数并执行截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_060_04.png",
+    "status": "placeholder_metadata"
+  },
+  {
+    "screenshot_id": "ch07_shot_060_05",
+    "chapter_id": "ch07",
+    "task_id": "ch07_task_060",
+    "step_id": "ch07_task_060_step_05",
+    "title": "批量输出图纸和表格-保存成果并复核截图占位",
+    "file_path": "chapter_07/screenshots/ch07_shot_060_05.png",
+    "status": "placeholder_metadata"
   }
 ]
