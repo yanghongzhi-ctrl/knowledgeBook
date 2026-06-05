@@ -1,0 +1,26 @@
+# Chapter 1 v1.2 Selective Integration Report
+
+- Current package: `D:\knowledgebase\data\raw\ch01\第1章_道路工程数字化设计概述_知识库_v1.0完备版.json`
+- v1.2 package: `C:\Users\Michael\Downloads\第1章_道路工程数字化设计概述_知识库_v1.2精准问答校准版.json`
+- Policy: Selective integration: preserve released resources/scripts, merge v1.2 retrieval calibration and teaching-answer metadata.
+
+## Summary
+
+- `answer_cards`: 112
+- `knowledge_points`: 79
+- `synonyms_questions`: 1217
+- `resources`: 14
+- `interactive_scripts`: 10
+- `duplicate_canonical`: 0
+- `duplicate_student_patterns`: 0
+- `duplicate_student_pattern_samples`: []
+- `actions`: ["merge_new_knowledge_points", "merge_answer_card_calibration", "merge_canonical_qa_as_synonyms", "merge_rag_embedding_for_new_kps", "merge_negative_constraints", "copy_v12_extra_tables"]
+
+## Actions
+
+- `merge_new_knowledge_points`: {"count": 5, "ids": ["kp_ch01_075", "kp_ch01_076", "kp_ch01_077", "kp_ch01_078", "kp_ch01_079"]}
+- `merge_answer_card_calibration`: {"cards_touched": 112, "pattern_added_net": 147, "pattern_removed_net": 0, "core_cards_marked": 30}
+- `merge_canonical_qa_as_synonyms`: {"added": 291, "skipped_conflict": 8, "conflict_samples": [{"question": "构件化理念怎么理解？", "answer_id": "ans_ch01_016", "owner": "ans_ch01_065"}, {"question": "参数化理念怎么理解？", "answer_id": "ans_ch01_017", "owner": "ans_ch01_068"}, {"question": "协同化理念怎么理解？", "answer_id": "ans_ch01_018", "owner": "ans_ch01_071"}, {"question": "生命周期化理念怎么理解？", "answer_id": "ans_ch01_019", "owner": "ans_ch01_074"}, {"question": "规则—模型—数据路径是什么？", "answer_id": "ans_ch01_025", "owner": "ans_ch01_085"}, {"question": "传统道路设计流程短板是什么？", "answer_id": "ans_ch01_026", "owner": "ans_ch01_087"}, {"question": "传统道路设计流程短板怎么理解？", "answer_id": "ans_ch01_026", "owner": "ans_ch01_087"}, {"question": "模型驱动成果输出是什么？", "answer_id": "ans_ch01_031", "owner": "ans_ch01_095"}]}
+- `merge_rag_embedding_for_new_kps`: {"rag_added": 5, "embedding_added": 5, "rag_ids": ["kp_ch01_075", "kp_ch01_076", "kp_ch01_077", "kp_ch01_078", "kp_ch01_079"], "embedding_ids": ["emb_kp_ch01_075", "emb_kp_ch01_076", "emb_kp_ch01_077", "emb_kp_ch01_078", "emb_kp_ch01_079"]}
+- `merge_negative_constraints`: {"negative_constraints": 7, "answer_guardrails_added": 7}
+- `copy_v12_extra_tables`: {"copied": ["README_v1.2", "Core_Answer_Cards_30", "Canonical_QA_Pairs", "Negative_Constraints", "Routing_Config", "QA_Retrieval_Testset_v1.2", "Retrieval_Test_Results", "Answer_Quality_Check", "QA_Failure_Revision_v1.2", "OpenSource_Index_Input_v1.2", "RAG_Config_v1.2", "Embedding_Corpus_v1.2", "Pipeline_Status_v1.2", "Validation_Summary_v1.2"], "count": 14, "preserved": ["Interactive_Scripts", "Resource_Evaluation_Testset", "Resources"]}

@@ -1300,5 +1300,45 @@
     "source_id": "kp_ch01_074",
     "embedding_text": "图纸交付与模型交付区别。定义：图纸交付强调二维成果表达，模型交付强调构件对象、属性数据、规则关系和可复用接口。。要点：图纸便于审查和施工阅读，但数据结构弱；模型可支持统计、查询、联动和跨阶段复用；现代流程不是取消图纸，而是让图纸由模型驱动生成。关键词：图纸交付、模型交付、成果差异",
     "metadata": "concept_explain"
+  },
+  {
+    "embedding_id": "emb_kp_ch01_075",
+    "source_type": "Knowledge_Points",
+    "source_id": "kp_ch01_075",
+    "embedding_text": "CAD在数字化设计体系中仍然重要。它承担二维图形表达、标注排版、图纸深化和成果交付功能。BIM不是取消CAD，而是让CAD出图服务于模型驱动流程。",
+    "metadata": "{\"chapter_id\": \"ch01\", \"section_id\": \"ch01_sec01\", \"version\": \"v1.1\"}",
+    "source": "ch01_v12_integration"
+  },
+  {
+    "embedding_id": "emb_kp_ch01_076",
+    "source_type": "Knowledge_Points",
+    "source_id": "kp_ch01_076",
+    "embedding_text": "前期空间分析软件如GIS平台用于组织空间数据，进行缓冲区、叠加分析、敏感区避让、路线走廊识别和方案比选。",
+    "metadata": "{\"chapter_id\": \"ch01\", \"section_id\": \"ch01_sec03\", \"version\": \"v1.1\"}",
+    "source": "ch01_v12_integration"
+  },
+  {
+    "embedding_id": "emb_kp_ch01_077",
+    "source_type": "Knowledge_Points",
+    "source_id": "kp_ch01_077",
+    "embedding_text": "BIM建模软件在道路数字化设计中用于三维构件建模、参数化规则、模型协同、工程量统计和图模一致输出。",
+    "metadata": "{\"chapter_id\": \"ch01\", \"section_id\": \"ch01_sec03\", \"version\": \"v1.1\"}",
+    "source": "ch01_v12_integration"
+  },
+  {
+    "embedding_id": "emb_kp_ch01_078",
+    "source_type": "Knowledge_Points",
+    "source_id": "kp_ch01_078",
+    "embedding_text": "CAD出图与成果深化软件如AutoCAD、纬地、EICAD负责二维图纸编辑、标准图表输出、标注排版和施工图成果整理。",
+    "metadata": "{\"chapter_id\": \"ch01\", \"section_id\": \"ch01_sec03\", \"version\": \"v1.1\"}",
+    "source": "ch01_v12_integration"
+  },
+  {
+    "embedding_id": "emb_kp_ch01_079",
+    "source_type": "Knowledge_Points",
+    "source_id": "kp_ch01_079",
+    "embedding_text": "数字化设计不是简单的软件升级，而是设计对象从图纸图元转向构件模型和数据对象，数据组织、协同方式和交付目标发生系统性变化。",
+    "metadata": "{\"chapter_id\": \"ch01\", \"section_id\": \"ch01_sec01\", \"version\": \"v1.1\"}",
+    "source": "ch01_v12_integration"
   }
 ]

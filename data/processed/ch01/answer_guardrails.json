@@ -1,0 +1,79 @@
+[
+  {
+    "guardrail_id": "guardrail_neg_ch01_001",
+    "chapter_id": "ch01",
+    "title": "全章",
+    "rule": "Source_Chunks只能作为证据层，不能作为主回答层。",
+    "trigger": "所有问题",
+    "enforcement": "RAG路由中禁止Source_Chunks优先检索",
+    "severity": "medium",
+    "source": "Negative_Constraints_v1.2",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "guardrail_neg_ch01_002",
+    "chapter_id": "ch01",
+    "title": "BIM相关",
+    "rule": "不要把BIM简单解释为三维模型。",
+    "trigger": "BIM、三维模型、构件模型",
+    "enforcement": "若回答出现“BIM就是三维模型”，判为失败",
+    "severity": "medium",
+    "source": "Negative_Constraints_v1.2",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "guardrail_neg_ch01_003",
+    "chapter_id": "ch01",
+    "title": "GIS相关",
+    "rule": "不要把GIS仅解释为电子地图。",
+    "trigger": "GIS、地图、空间数据",
+    "enforcement": "必须包含空间数据组织或空间分析作用",
+    "severity": "medium",
+    "source": "Negative_Constraints_v1.2",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "guardrail_neg_ch01_004",
+    "chapter_id": "ch01",
+    "title": "数字孪生相关",
+    "rule": "不要把数字孪生等同于BIM模型。",
+    "trigger": "数字孪生、BIM区别、虚实闭环",
+    "enforcement": "必须区分实时感知、动态映射和反馈控制",
+    "severity": "medium",
+    "source": "Negative_Constraints_v1.2",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "guardrail_neg_ch01_005",
+    "chapter_id": "ch01",
+    "title": "CAD相关",
+    "rule": "不要说CAD已经被BIM完全取代。",
+    "trigger": "CAD作用、CAD与BIM",
+    "enforcement": "必须说明CAD仍承担图纸表达和成果输出",
+    "severity": "medium",
+    "source": "Negative_Constraints_v1.2",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "guardrail_neg_ch01_006",
+    "chapter_id": "ch01",
+    "title": "全章",
+    "rule": "不要加入教材未涉及的软件厂商历史或行业新闻。",
+    "trigger": "发展历程、技术趋势",
+    "enforcement": "只允许教材范围内的概念性扩展",
+    "severity": "medium",
+    "source": "Negative_Constraints_v1.2",
+    "status": "checked"
+  },
+  {
+    "guardrail_id": "guardrail_neg_ch01_007",
+    "chapter_id": "ch01",
+    "title": "答案格式",
+    "rule": "“包括哪些/有哪些/流程/区别”类问题必须条目化。",
+    "trigger": "包括、有哪些、流程、区别、阶段",
+    "enforcement": "answer_mode必须为bullet/table/steps之一",
+    "severity": "medium",
+    "source": "Negative_Constraints_v1.2",
+    "status": "checked"
+  }
+]

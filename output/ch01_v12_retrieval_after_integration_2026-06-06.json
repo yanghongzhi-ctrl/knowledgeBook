@@ -1,0 +1,388 @@
+{
+  "package_path": "D:\\knowledgebase\\data\\raw\\ch01\\第1章_道路工程数字化设计概述_知识库_v1.0完备版.json",
+  "testset_path": "C:\\Users\\Michael\\Downloads\\第1章_QA检索测试集_v1.2.json",
+  "total": 150,
+  "top1_hits": 142,
+  "top3_hits": 150,
+  "top1_rate": 0.9467,
+  "top3_rate": 1.0,
+  "failed_top1": [
+    {
+      "test_id": "rt_ch01_0113",
+      "question": "构件化理念是什么？",
+      "expected_answer_card": "ans_ch01_016",
+      "top_ids": [
+        "ans_ch01_065",
+        "ans_ch01_016",
+        "ans_ch01_015",
+        "ans_ch01_068",
+        "ans_ch01_071"
+      ],
+      "top_scores": [
+        380.0,
+        220.5,
+        117.5,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:19",
+          "body_token_overlap:19"
+        ],
+        [
+          "synonym",
+          "focused_token_overlap:19",
+          "body_token_overlap:9"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:7",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:13"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:12"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    },
+    {
+      "test_id": "rt_ch01_0118",
+      "question": "构件化理念怎么理解？",
+      "expected_answer_card": "ans_ch01_016",
+      "top_ids": [
+        "ans_ch01_065",
+        "ans_ch01_016",
+        "ans_ch01_015",
+        "ans_ch01_068",
+        "ans_ch01_071"
+      ],
+      "top_scores": [
+        380.0,
+        177.0,
+        125.0,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:22",
+          "body_token_overlap:22"
+        ],
+        [
+          "partial_pattern",
+          "focused_token_overlap:21",
+          "body_token_overlap:10"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:15",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:16"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:15"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    },
+    {
+      "test_id": "rt_ch01_0123",
+      "question": "参数化理念是什么？",
+      "expected_answer_card": "ans_ch01_017",
+      "top_ids": [
+        "ans_ch01_068",
+        "ans_ch01_017",
+        "ans_ch01_015",
+        "ans_ch01_065",
+        "ans_ch01_071"
+      ],
+      "top_scores": [
+        380.0,
+        220.5,
+        117.5,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:19",
+          "body_token_overlap:19"
+        ],
+        [
+          "synonym",
+          "focused_token_overlap:19",
+          "body_token_overlap:9"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:7",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:15"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:13"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    },
+    {
+      "test_id": "rt_ch01_0128",
+      "question": "参数化理念怎么理解？",
+      "expected_answer_card": "ans_ch01_017",
+      "top_ids": [
+        "ans_ch01_068",
+        "ans_ch01_017",
+        "ans_ch01_015",
+        "ans_ch01_065",
+        "ans_ch01_071"
+      ],
+      "top_scores": [
+        380.0,
+        177.0,
+        125.0,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:22",
+          "body_token_overlap:22"
+        ],
+        [
+          "partial_pattern",
+          "focused_token_overlap:21",
+          "body_token_overlap:10"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:15",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:18"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:16"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    },
+    {
+      "test_id": "rt_ch01_0133",
+      "question": "协同化理念是什么？",
+      "expected_answer_card": "ans_ch01_018",
+      "top_ids": [
+        "ans_ch01_071",
+        "ans_ch01_018",
+        "ans_ch01_015",
+        "ans_ch01_065",
+        "ans_ch01_068"
+      ],
+      "top_scores": [
+        380.0,
+        220.5,
+        117.5,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:19",
+          "body_token_overlap:19"
+        ],
+        [
+          "synonym",
+          "focused_token_overlap:19",
+          "body_token_overlap:9"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:7",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:15"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:12"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    },
+    {
+      "test_id": "rt_ch01_0138",
+      "question": "协同化理念怎么理解？",
+      "expected_answer_card": "ans_ch01_018",
+      "top_ids": [
+        "ans_ch01_071",
+        "ans_ch01_018",
+        "ans_ch01_015",
+        "ans_ch01_065",
+        "ans_ch01_068"
+      ],
+      "top_scores": [
+        380.0,
+        177.0,
+        125.0,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:22",
+          "body_token_overlap:22"
+        ],
+        [
+          "partial_pattern",
+          "focused_token_overlap:21",
+          "body_token_overlap:10"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:15",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:18"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:15"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    },
+    {
+      "test_id": "rt_ch01_0143",
+      "question": "生命周期化理念是什么？",
+      "expected_answer_card": "ans_ch01_019",
+      "top_ids": [
+        "ans_ch01_074",
+        "ans_ch01_019",
+        "ans_ch01_015",
+        "ans_ch01_016",
+        "ans_ch01_065"
+      ],
+      "top_scores": [
+        380.0,
+        225.0,
+        125.0,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:25",
+          "body_token_overlap:25"
+        ],
+        [
+          "synonym",
+          "focused_token_overlap:25",
+          "body_token_overlap:15"
+        ],
+        [
+          "focused_token_overlap:18",
+          "body_token_overlap:13",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:12"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:18"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    },
+    {
+      "test_id": "rt_ch01_0148",
+      "question": "生命周期化理念怎么理解？",
+      "expected_answer_card": "ans_ch01_019",
+      "top_ids": [
+        "ans_ch01_074",
+        "ans_ch01_019",
+        "ans_ch01_015",
+        "ans_ch01_016",
+        "ans_ch01_062"
+      ],
+      "top_scores": [
+        380.0,
+        180.0,
+        125.0,
+        105.0,
+        105.0
+      ],
+      "top_reasons": [
+        [
+          "exact_pattern",
+          "synonym",
+          "focused_token_overlap:27",
+          "body_token_overlap:27"
+        ],
+        [
+          "partial_pattern",
+          "focused_token_overlap:27",
+          "body_token_overlap:16"
+        ],
+        [
+          "focused_token_overlap:21",
+          "body_token_overlap:21",
+          "must_include_match"
+        ],
+        [
+          "focused_token_overlap:15",
+          "body_token_overlap:13"
+        ],
+        [
+          "focused_token_overlap:12",
+          "body_token_overlap:12"
+        ]
+      ],
+      "top1_hit": false,
+      "top3_hit": true
+    }
+  ],
+  "failed_top3": []
+}

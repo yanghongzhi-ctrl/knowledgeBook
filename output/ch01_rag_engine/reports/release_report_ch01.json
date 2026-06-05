@@ -2,28 +2,44 @@
   "chapter_id": "ch01",
   "version_id": "ch01_kb_v1.0",
   "package_path": "D:\\knowledgebase\\data\\raw\\ch01\\第1章_道路工程数字化设计概述_知识库_v1.0完备版.json",
-  "source_checksum": "1d91ada1bce30e12c11a17538329f039e8bfd4da5bbb3145903458a0c8bf09b2",
-  "started_at": "2026-06-03T20:06:54",
-  "finished_at": "2026-06-03T20:11:34",
+  "source_checksum": "c7e6834ce1f27a1f59c80eb5f81a2ea3a9090f348946487116e7fd1f74d78963",
+  "started_at": "2026-06-06T06:39:36",
+  "finished_at": "2026-06-06T06:44:01",
   "status": "released",
   "table_counts": {
     "README": 5,
     "Chapter_Structure": 15,
     "Source_Chunks": 31,
-    "Knowledge_Points": 74,
+    "Knowledge_Points": 79,
     "Answer_Cards": 112,
     "Concept_Comparison": 4,
-    "Synonyms_Questions": 926,
+    "Synonyms_Questions": 1217,
     "Knowledge_Relations": 185,
     "Resources": 14,
     "Exercises": 5,
     "QA_Evaluation_Testset": 443,
-    "RAG_Config": 217,
-    "Embedding_Corpus": 186,
+    "RAG_Config": 222,
+    "Embedding_Corpus": 191,
     "Prompt_Templates": 5,
     "Quality_Checklist": 6,
     "Interactive_Scripts": 10,
-    "Resource_Evaluation_Testset": 65
+    "Resource_Evaluation_Testset": 65,
+    "Negative_Constraints": 7,
+    "Answer_Guardrails": 7,
+    "README_v1.2": 5,
+    "Core_Answer_Cards_30": 30,
+    "Canonical_QA_Pairs": 382,
+    "Routing_Config": 6,
+    "QA_Retrieval_Testset_v1.2": 150,
+    "Retrieval_Test_Results": 120,
+    "Answer_Quality_Check": 112,
+    "QA_Failure_Revision_v1.2": 7,
+    "OpenSource_Index_Input_v1.2": 573,
+    "RAG_Config_v1.2": 312,
+    "Embedding_Corpus_v1.2": 573,
+    "Pipeline_Status_v1.2": 8,
+    "Validation_Summary_v1.2": 7,
+    "metadata": 1
   },
   "steps": [
     {
@@ -35,20 +51,36 @@
           "README": 5,
           "Chapter_Structure": 15,
           "Source_Chunks": 31,
-          "Knowledge_Points": 74,
+          "Knowledge_Points": 79,
           "Answer_Cards": 112,
           "Concept_Comparison": 4,
-          "Synonyms_Questions": 926,
+          "Synonyms_Questions": 1217,
           "Knowledge_Relations": 185,
           "Resources": 14,
           "Exercises": 5,
           "QA_Evaluation_Testset": 443,
-          "RAG_Config": 217,
-          "Embedding_Corpus": 186,
+          "RAG_Config": 222,
+          "Embedding_Corpus": 191,
           "Prompt_Templates": 5,
           "Quality_Checklist": 6,
           "Interactive_Scripts": 10,
-          "Resource_Evaluation_Testset": 65
+          "Resource_Evaluation_Testset": 65,
+          "Negative_Constraints": 7,
+          "Answer_Guardrails": 7,
+          "README_v1.2": 5,
+          "Core_Answer_Cards_30": 30,
+          "Canonical_QA_Pairs": 382,
+          "Routing_Config": 6,
+          "QA_Retrieval_Testset_v1.2": 150,
+          "Retrieval_Test_Results": 120,
+          "Answer_Quality_Check": 112,
+          "QA_Failure_Revision_v1.2": 7,
+          "OpenSource_Index_Input_v1.2": 573,
+          "RAG_Config_v1.2": 312,
+          "Embedding_Corpus_v1.2": 573,
+          "Pipeline_Status_v1.2": 8,
+          "Validation_Summary_v1.2": 7,
+          "metadata": 1
         },
         "errors": [],
         "warnings": []
@@ -67,30 +99,42 @@
     {
       "name": "export",
       "status": "passed",
-      "summary": "exported_files=13",
+      "summary": "exported_files=25",
       "details": {
         "output_dir": "D:\\knowledgebase\\data\\processed\\ch01",
         "counts": {
           "answer_cards.json": 112,
-          "knowledge_points.json": 74,
+          "knowledge_points.json": 79,
           "source_chunks.json": 31,
           "qa_evaluation_testset.json": 443,
           "resource_evaluation_testset.json": 65,
-          "rag_config.json": 217,
+          "rag_config.json": 222,
           "resource_index.json": 14,
           "interactive_scripts.json": 10,
-          "embedding_corpus.json": 186,
-          "synonym_questions.json": 926,
+          "embedding_corpus.json": 191,
+          "synonym_questions.json": 1217,
           "knowledge_relations.json": 185,
           "concept_comparisons.json": 4,
-          "exercises.json": 5
+          "exercises.json": 5,
+          "operation_tasks.json": 0,
+          "operation_steps.json": 0,
+          "command_cards.json": 0,
+          "software_objects.json": 0,
+          "parameter_settings.json": 0,
+          "common_errors.json": 0,
+          "video_resources.json": 0,
+          "video_segments.json": 0,
+          "screenshot_resources.json": 0,
+          "resource_relations.json": 0,
+          "question_routing_rules.json": 0,
+          "answer_guardrails.json": 7
         }
       }
     },
     {
       "name": "sql_export",
       "status": "passed",
-      "summary": "seed_sql_bytes=3588410",
+      "summary": "seed_sql_bytes=4012360",
       "details": {
         "seed_sql": "D:\\knowledgebase\\output\\ch01_rag_engine\\db_load\\ch01_seed.sql"
       }
@@ -125,11 +169,11 @@
     {
       "name": "embeddings",
       "status": "passed",
-      "summary": "generated=186/186, dimensions=[1024]",
+      "summary": "generated=191/191, dimensions=[1024]",
       "details": {
         "jsonl": "D:\\knowledgebase\\output\\ch01_rag_engine\\embeddings\\ch01_embedding_vectors.jsonl",
         "sql": "D:\\knowledgebase\\output\\ch01_rag_engine\\db_load\\ch01_embedding_updates.sql",
-        "count": 186,
+        "count": 191,
         "dimensions": [
           1024
         ],
@@ -138,36 +182,37 @@
         ],
         "by_source_type": {
           "answer_card": 112,
-          "knowledge_point": 74
+          "knowledge_point": 74,
+          "Knowledge_Points": 5
         }
       }
     },
     {
       "name": "db_import",
       "status": "passed",
-      "summary": "counts_ok=True, embedded_vectors=186",
+      "summary": "counts_ok=True, embedded_vectors=191",
       "details": {
         "version_id": "ch01_kb_v1.0",
         "counts": {
           "answer_cards": 112,
-          "knowledge_points": 74,
+          "knowledge_points": 79,
           "source_chunks": 31,
           "qa_evaluation_testset": 443,
           "resources": 14,
           "interactive_scripts": 10,
           "resource_evaluation_testset": 65,
-          "embedding_corpus": 186,
-          "embedded_vectors": 186
+          "embedding_corpus": 191,
+          "embedded_vectors": 191
         },
         "expected_counts": {
           "answer_cards": 112,
-          "knowledge_points": 74,
+          "knowledge_points": 79,
           "source_chunks": 31,
           "qa_evaluation_testset": 443,
           "resources": 14,
           "interactive_scripts": 10,
           "resource_evaluation_testset": 65,
-          "embedding_corpus": 186
+          "embedding_corpus": 191
         },
         "mismatches": {}
       }

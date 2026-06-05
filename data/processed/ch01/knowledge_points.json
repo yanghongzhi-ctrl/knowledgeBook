@@ -3113,5 +3113,276 @@
     "source_hint": "道路工程数字化设计流程",
     "embedding_text": "图纸交付与模型交付区别。定义：图纸交付强调二维成果表达，模型交付强调构件对象、属性数据、规则关系和可复用接口。。要点：图纸便于审查和施工阅读，但数据结构弱；模型可支持统计、查询、联动和跨阶段复用；现代流程不是取消图纸，而是让图纸由模型驱动生成。关键词：图纸交付、模型交付、成果差异",
     "status": "checked"
+  },
+  {
+    "kp_id": "kp_ch01_075",
+    "chapter_id": "ch01",
+    "section_id": "ch01_sec01",
+    "title": "CAD在数字化设计体系中的持续作用",
+    "knowledge_type": "concept",
+    "importance": "重要",
+    "difficulty": "基础",
+    "definition": "CAD在现代道路数字化设计中仍承担二维图形表达、图纸深化、标注排版和成果交付等基础作用。",
+    "core_explanation": "BIM、GIS和数字孪生并不意味着CAD被取消。CAD的核心价值在于标准化图纸表达、细部图形编辑、标注与出图，许多模型化设计成果仍需转化为图纸成果供审查、施工和归档使用。",
+    "plain_explanation": "CAD仍然是工程图纸表达的基础工具，只是它在新体系中更多服务于模型成果输出，而不是独立承担全部设计逻辑。",
+    "engineering_meaning": "帮助学生理解CAD与BIM不是简单替代关系，而是成果表达与模型驱动之间的协同关系。",
+    "application_scenario": "平面图、纵断面图、横断面图、构造详图、成果审查图纸、施工交底图等场景。",
+    "key_points": [
+      "CAD仍服务标准化出图",
+      "CAD适合细部编辑和标注排版",
+      "BIM成果常需衔接CAD图纸",
+      "现代数字化流程强调模型驱动下的CAD出图"
+    ],
+    "keywords": [
+      "CAD",
+      "二维图纸",
+      "图纸深化",
+      "成果出图",
+      "模型成果输出"
+    ],
+    "aliases": [
+      "CAD为什么还重要",
+      "CAD会不会被BIM取代",
+      "二维图纸还有什么作用"
+    ],
+    "related_kps": [
+      "kp_ch01_002",
+      "kp_ch01_003",
+      "kp_ch01_050"
+    ],
+    "common_mistakes": [
+      "认为BIM出现后CAD完全不需要",
+      "把CAD仅理解为落后软件"
+    ],
+    "correction_explanation": "应把CAD理解为成果表达工具和图纸交付环节，而不是与BIM互相排斥的技术路线。",
+    "answer_strategy": "回答时先说明CAD仍有图纸表达价值，再说明其在模型化流程中的位置。",
+    "answer_boundary": "不展开具体AutoCAD命令细节，具体操作归第六章。",
+    "source_hint": "依据第一章对CAD阶段、BIM阶段和图纸成果输出的论述。",
+    "embedding_text": "CAD在数字化设计体系中仍然重要。它承担二维图形表达、标注排版、图纸深化和成果交付功能。BIM不是取消CAD，而是让CAD出图服务于模型驱动流程。",
+    "status": "added_v1.1",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false
+    }
+  },
+  {
+    "kp_id": "kp_ch01_076",
+    "chapter_id": "ch01",
+    "section_id": "ch01_sec03",
+    "title": "前期空间分析软件的功能分工",
+    "knowledge_type": "software_role",
+    "importance": "补充",
+    "difficulty": "基础",
+    "definition": "前期空间分析软件主要承担地形、生态、用地、灾害等空间约束数据组织与路线走廊分析任务。",
+    "core_explanation": "在道路数字化设计早期阶段，GIS平台可用于组织DEM、遥感影像、土地利用、生态红线和地质灾害等数据，并进行缓冲区、叠加分析、适宜性评价和方案比选。",
+    "plain_explanation": "做路线方案前，需要先看地形、环境和风险，GIS类软件主要负责这些空间分析工作。",
+    "engineering_meaning": "支撑路线方案从经验判断向空间数据约束和多因素比选转变。",
+    "application_scenario": "路线走廊识别、敏感区避让、灾害风险评价、用地冲突检查、方案比选。",
+    "key_points": [
+      "GIS平台组织空间数据",
+      "支持缓冲区和叠加分析",
+      "服务走廊优化与方案比选"
+    ],
+    "keywords": [
+      "GIS",
+      "空间分析",
+      "ArcGIS",
+      "QGIS",
+      "SuperMap",
+      "MapGIS",
+      "路线走廊"
+    ],
+    "aliases": [
+      "前期分析软件",
+      "空间分析平台",
+      "GIS软件分工"
+    ],
+    "related_kps": [
+      "kp_ch01_031",
+      "kp_ch01_032",
+      "kp_ch01_033"
+    ],
+    "common_mistakes": [
+      "把GIS只理解为地图显示"
+    ],
+    "correction_explanation": "GIS不仅显示地图，还负责空间数据组织、空间约束分析和方案决策支持。",
+    "answer_strategy": "回答软件分工时，将其放在前期选线和空间约束分析环节说明。",
+    "answer_boundary": "不展开具体GIS操作步骤，操作内容归第五章和第九章。",
+    "source_hint": "依据第一章对BIM+GIS融合和典型软件工具的论述。",
+    "embedding_text": "前期空间分析软件如GIS平台用于组织空间数据，进行缓冲区、叠加分析、敏感区避让、路线走廊识别和方案比选。",
+    "status": "added_v1.1",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false
+    }
+  },
+  {
+    "kp_id": "kp_ch01_077",
+    "chapter_id": "ch01",
+    "section_id": "ch01_sec03",
+    "title": "BIM建模软件的功能分工",
+    "knowledge_type": "software_role",
+    "importance": "补充",
+    "difficulty": "基础",
+    "definition": "BIM建模软件主要承担道路构件建模、参数化建模、模型协同、工程量统计和图模一致成果输出等任务。",
+    "core_explanation": "在道路数字化设计中，OpenRoads、Civil 3D、CNCCBIM、同豪RoadBIM等平台可用于路线、路基、桥涵、隧道等构件的三维建模与参数化管理。",
+    "plain_explanation": "BIM软件主要负责把道路设计对象从线和图纸变成带属性、带规则、可联动的三维模型。",
+    "engineering_meaning": "支撑道路设计从图纸成果转向模型成果和数据资产。",
+    "application_scenario": "道路三维建模、廊道模型、构件建模、工程量统计、图纸联动输出、模型交付。",
+    "key_points": [
+      "三维构件模型",
+      "参数化规则",
+      "模型协同",
+      "图模一致",
+      "工程量统计"
+    ],
+    "keywords": [
+      "BIM软件",
+      "OpenRoads",
+      "Civil 3D",
+      "CNCCBIM",
+      "同豪RoadBIM",
+      "参数化建模"
+    ],
+    "aliases": [
+      "道路BIM平台",
+      "模型设计软件",
+      "BIM建模工具"
+    ],
+    "related_kps": [
+      "kp_ch01_006",
+      "kp_ch01_007",
+      "kp_ch01_029"
+    ],
+    "common_mistakes": [
+      "把BIM软件只理解为三维可视化工具"
+    ],
+    "correction_explanation": "BIM软件的关键不只是三维显示，而是构件语义、参数关系和工程属性管理。",
+    "answer_strategy": "回答软件分工时突出BIM软件承担模型设计和成果数据化任务。",
+    "answer_boundary": "不展开具体OpenRoads操作，操作内容归第八章。",
+    "source_hint": "依据第一章道路BIM阶段和典型工具软件内容。",
+    "embedding_text": "BIM建模软件在道路数字化设计中用于三维构件建模、参数化规则、模型协同、工程量统计和图模一致输出。",
+    "status": "added_v1.1",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false
+    }
+  },
+  {
+    "kp_id": "kp_ch01_078",
+    "chapter_id": "ch01",
+    "section_id": "ch01_sec03",
+    "title": "CAD出图与成果深化软件的功能分工",
+    "knowledge_type": "software_role",
+    "importance": "补充",
+    "difficulty": "基础",
+    "definition": "CAD出图与成果深化软件主要服务于二维图纸编辑、标准图表输出、标注排版和施工图成果整理。",
+    "core_explanation": "AutoCAD、纬地、EICAD等软件在数字化设计体系中主要承担标准图纸绘制、设计成果整理、图表输出和传统成果交付接口等功能。",
+    "plain_explanation": "即使设计越来越模型化，最终很多成果仍需要图纸表达，CAD类软件负责图纸深化和规范化输出。",
+    "engineering_meaning": "保证模型化设计成果能够满足审查、施工和归档对图纸成果的需求。",
+    "application_scenario": "平纵横图纸输出、工程图表整理、施工图标注、图框排版、CAD成果交付。",
+    "key_points": [
+      "二维出图",
+      "图表输出",
+      "标注排版",
+      "施工图整理",
+      "CAD成果交付"
+    ],
+    "keywords": [
+      "AutoCAD",
+      "纬地",
+      "EICAD",
+      "出图",
+      "图纸深化",
+      "成果交付"
+    ],
+    "aliases": [
+      "CAD出图软件",
+      "道路CAD软件",
+      "施工图输出工具"
+    ],
+    "related_kps": [
+      "kp_ch01_003",
+      "kp_ch01_005",
+      "kp_ch01_075"
+    ],
+    "common_mistakes": [
+      "认为CAD出图只是低层次绘图工作"
+    ],
+    "correction_explanation": "在工程交付体系中，图纸仍是重要成果形式，CAD出图是数字化设计链条的一部分。",
+    "answer_strategy": "回答时说明CAD出图是模型化成果交付的延伸，而不是与BIM对立。",
+    "answer_boundary": "不讨论具体出图命令，具体操作归第六、七章。",
+    "source_hint": "依据第一章关于CAD阶段和软件工具分工的内容。",
+    "embedding_text": "CAD出图与成果深化软件如AutoCAD、纬地、EICAD负责二维图纸编辑、标准图表输出、标注排版和施工图成果整理。",
+    "status": "added_v1.1",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false
+    }
+  },
+  {
+    "kp_id": "kp_ch01_079",
+    "chapter_id": "ch01",
+    "section_id": "ch01_sec01",
+    "title": "数字化设计不是简单的软件升级",
+    "knowledge_type": "concept",
+    "importance": "核心",
+    "difficulty": "基础",
+    "definition": "道路工程数字化设计的本质不是换用新软件，而是设计对象、数据组织、协同方式和交付目标的系统性转变。",
+    "core_explanation": "从CAD到BIM、BIM+GIS和数字孪生，变化的核心不只是工具界面，而是从图纸图元走向构件模型、空间数据、规则约束和全生命周期数据资产。",
+    "plain_explanation": "数字化设计不是把画图软件换成建模软件，而是让设计成果变成可计算、可联动、可共享、可服务施工运维的数据模型。",
+    "engineering_meaning": "帮助学生理解数字化转型的深层逻辑，避免把数字化等同于软件应用培训。",
+    "application_scenario": "课程导入、技术体系讲解、CAD/BIM/GIS/数字孪生关系辨析。",
+    "key_points": [
+      "设计对象变化",
+      "数据组织变化",
+      "协同方式变化",
+      "交付目标变化"
+    ],
+    "keywords": [
+      "数字化设计",
+      "软件升级",
+      "设计范式",
+      "模型驱动",
+      "数据资产"
+    ],
+    "aliases": [
+      "数字化是不是换软件",
+      "数字化设计的本质",
+      "软件升级和数字化转型区别"
+    ],
+    "related_kps": [
+      "kp_ch01_001",
+      "kp_ch01_002",
+      "kp_ch01_031"
+    ],
+    "common_mistakes": [
+      "把数字化设计理解为单纯学习软件操作"
+    ],
+    "correction_explanation": "软件是工具，数字化设计的关键在于模型、数据、规则和协同机制的重构。",
+    "answer_strategy": "按设计对象、数据组织、协同方式、交付目标四个维度条目化回答。",
+    "answer_boundary": "不展开具体软件操作细节。",
+    "source_hint": "依据第一章发展历程、理念和技术体系的综合内容。",
+    "embedding_text": "数字化设计不是简单的软件升级，而是设计对象从图纸图元转向构件模型和数据对象，数据组织、协同方式和交付目标发生系统性变化。",
+    "status": "added_v1.1",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false
+    }
   }
 ]

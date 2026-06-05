@@ -8,7 +8,13 @@
     "student_question_patterns": [
       "道路数字化设计经历了哪些阶段？",
       "CAD到BIM再到数字孪生怎么演进？",
-      "第一章讲的数字化发展历程是什么？"
+      "第一章讲的数字化发展历程是什么？",
+      "道路工程数字化设计经历了哪些主要阶段？",
+      "道路工程数字化设计的发展阶段是什么？",
+      "道路工程数字化设计的发展阶段包括哪些内容？",
+      "请按条目说明道路工程数字化设计的发展阶段",
+      "教材中如何解释道路工程数字化设计的发展阶段？",
+      "第一章中道路工程数字化设计的发展阶段怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_001",
@@ -35,7 +41,13 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
@@ -45,7 +57,31 @@
       "ch01_script_timeline"
     ],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "主要经历CAD、BIM、BIM+GIS、数字孪生与智能化四个阶段。",
+    "standard_answer": "1. CAD辅助设计阶段：以二维电子制图、参数计算和标准图纸输出为主。\n2. BIM正向设计阶段：以三维构件模型、参数化建模和信息集成为主。\n3. BIM+GIS协同设计阶段：将道路模型与地理空间数据、环境约束和方案评价结合。\n4. 数字孪生与智能化阶段：引入实时感知、仿真预测和反馈控制，形成虚实闭环。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_002",
@@ -89,7 +125,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "软件变化背后是设计对象变化：从图纸图元走向构件模型和数据对象。；数据组织方式变化：从分散文件走向统一模型、属性和规则。；协同方式变化：从人工传递图纸走向模型共享、版本控制和联动更新。；交付目标变化：从单纯出图走向服务施工、运维和数字孪生的数",
+    "standard_answer": "1. 软件变化背后是设计对象变化：从图纸图元走向构件模型和数据对象。\n2. 数据组织方式变化：从分散文件走向统一模型、属性和规则。\n3. 协同方式变化：从人工传递图纸走向模型共享、版本控制和联动更新。\n4. 交付目标变化：从单纯出图走向服务施工、运维和数字孪生的数据资产。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_003",
@@ -100,7 +152,11 @@
     "student_question_patterns": [
       "CAD阶段的主要技术特征是什么",
       "CAD阶段的主要技术特征是什么？",
-      "CAD阶段的主要技术特征是什么？"
+      "CAD阶段的技术特征是什么？",
+      "CAD阶段的技术特征包括哪些内容？",
+      "请按条目说明CAD阶段的技术特征",
+      "教材中如何解释CAD阶段的技术特征？",
+      "第一章中CAD阶段的技术特征怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_003",
@@ -126,14 +182,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CAD阶段以二维电子制图和标准图纸输出为主要特征。",
+    "standard_answer": "1. 以二维图纸、图元、标注和制图标准为主要表达对象。\n2. 主要提升绘图效率、参数计算效率和成果出图规范性。\n3. 典型成果包括平面图、纵断面图、横断面图、表格和DWG/DXF文件。\n4. 局限是缺少构件语义、模型联动和全生命周期数据承接。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_004",
@@ -144,7 +230,11 @@
     "student_question_patterns": [
       "CAD阶段主要解决了什么问题，又存在哪些局限",
       "CAD阶段主要解决了什么问题，又存在哪些局限？",
-      "CAD阶段主要解决了什么问题，又存在哪些局限？"
+      "CAD阶段的价值与局限是什么？",
+      "CAD阶段的价值与局限包括哪些内容？",
+      "请按条目说明CAD阶段的价值与局限",
+      "教材中如何解释CAD阶段的价值与局限？",
+      "第一章中CAD阶段的价值与局限怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_003",
@@ -169,14 +259,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CAD提高了制图效率，但难以支撑语义化模型和联动式设计。",
+    "standard_answer": "1. 价值：提高道路设计制图、计算和成果输出效率。\n2. 价值：推动手工绘图向电子图形文件和标准化成果转变。\n3. 局限：图元主要表达几何形状，缺少工程语义和属性。\n4. 局限：设计变更依赖人工同步，难以支撑模型联动和全生命周期交付。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_005",
@@ -186,7 +306,6 @@
     "question_type": "比较辨析",
     "student_question_patterns": [
       "CAD图元和BIM构件有什么本质区别",
-      "CAD图元和BIM构件有什么本质区别？",
       "CAD图元和BIM构件有什么本质区别？"
     ],
     "related_kps": [
@@ -219,7 +338,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "表达对象不同：CAD图元主要表达几何形状，BIM构件表达工程对象。；信息内容不同：CAD图元通常缺少材料、功能、工程量等属性，BIM构件包含属性和语义。；联动能力不同：CAD变更多依赖人工修改，BIM可通过参数和规则联动更新。；交付价值不同",
+    "standard_answer": "1. 表达对象不同：CAD图元主要表达几何形状，BIM构件表达工程对象。\n2. 信息内容不同：CAD图元通常缺少材料、功能、工程量等属性，BIM构件包含属性和语义。\n3. 联动能力不同：CAD变更多依赖人工修改，BIM可通过参数和规则联动更新。\n4. 交付价值不同：CAD偏图纸成果，BIM可作为后续施工、运维和数字孪生的数据基础。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_006",
@@ -230,7 +365,10 @@
     "student_question_patterns": [
       "BIM阶段的核心变化是什么",
       "BIM阶段的核心变化是什么？",
-      "BIM阶段的核心变化是什么？"
+      "BIM阶段的核心变化包括哪些内容？",
+      "请按条目说明BIM阶段的核心变化",
+      "教材中如何解释BIM阶段的核心变化？",
+      "第一章中BIM阶段的核心变化怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_010",
@@ -255,14 +393,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM阶段的核心是从图纸表达转向工程对象模型与信息集成。",
+    "standard_answer": "1. 设计对象从二维图纸转向带属性、语义和关系的三维构件模型。\n2. 设计逻辑从人工绘图转向参数化建模、规则约束和模型联动。\n3. 成果表达从单一图纸扩展为模型、图纸、工程量、属性和交付数据。\n4. 协同方式从文件传递转向模型共享和多专业协同。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_007",
@@ -273,7 +441,11 @@
     "student_question_patterns": [
       "为什么说BIM不是简单的三维模型",
       "为什么说BIM不是简单的三维模型？",
-      "为什么说BIM不是简单的三维模型？"
+      "BIM不是简单三维模型是什么？",
+      "BIM不是简单三维模型包括哪些内容？",
+      "请按条目说明BIM不是简单三维模型",
+      "教材中如何解释BIM不是简单三维模型？",
+      "第一章中BIM不是简单三维模型怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_011",
@@ -298,14 +470,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM不仅是三维外观模型，而是带语义、属性和规则的工程信息模型。",
+    "standard_answer": "1. 三维模型主要表达几何形态，BIM还表达工程语义和属性信息。\n2. BIM模型包含构件、参数、规则、工程量、阶段信息和协同关系。\n3. BIM强调模型与图纸、清单、施工和运维数据之间的联动。\n4. 因此，BIM的价值在于信息集成和过程协同，而不仅是可视化。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_008",
@@ -315,7 +517,6 @@
     "question_type": "条目列举",
     "student_question_patterns": [
       "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点",
-      "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？",
       "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？"
     ],
     "related_kps": [
@@ -348,7 +549,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "道路工程具有明显的线性延展特征。；道路模型高度依赖地形、桩号和路线几何。；路基、路面、桥隧、交叉口等构件沿线变化频繁。；道路BIM需要适应多专业、长线路和复杂环境约束。",
+    "standard_answer": "1. 道路工程具有明显的线性延展特征。\n2. 道路模型高度依赖地形、桩号和路线几何。\n3. 路基、路面、桥隧、交叉口等构件沿线变化频繁。\n4. 道路BIM需要适应多专业、长线路和复杂环境约束。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_009",
@@ -358,7 +575,6 @@
     "question_type": "条目列举",
     "student_question_patterns": [
       "道路BIM推广面临哪些主要挑战",
-      "道路BIM推广面临哪些主要挑战？",
       "道路BIM推广面临哪些主要挑战？"
     ],
     "related_kps": [
@@ -389,7 +605,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "构件编码、语义和模板标准尚不完全统一。；不同软件平台和数据格式之间存在互通障碍。；BIM建模和参数化设计对人员能力要求较高。；BIM与GIS、施工系统和运维平台的贯通仍需加强。",
+    "standard_answer": "1. 构件编码、语义和模板标准尚不完全统一。\n2. 不同软件平台和数据格式之间存在互通障碍。\n3. BIM建模和参数化设计对人员能力要求较高。\n4. BIM与GIS、施工系统和运维平台的贯通仍需加强。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_010",
@@ -400,7 +632,11 @@
     "student_question_patterns": [
       "GIS在现代道路设计中的主要作用是什么",
       "GIS在现代道路设计中的主要作用是什么？",
-      "GIS在现代道路设计中的主要作用是什么？"
+      "GIS在道路设计中的作用是什么？",
+      "GIS在道路设计中的作用包括哪些内容？",
+      "请按条目说明GIS在道路设计中的作用",
+      "教材中如何解释GIS在道路设计中的作用？",
+      "第一章中GIS在道路设计中的作用怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_017",
@@ -426,14 +662,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "GIS主要承担空间数据组织、环境约束分析和路线方案决策支持。",
+    "standard_answer": "1. 组织地形、地质、水文、生态、土地利用和交通等空间数据。\n2. 开展约束识别、缓冲区分析、叠加分析、适宜性评价和路径优化。\n3. 支撑路线走廊选择、方案比选、环境影响分析和风险识别。\n4. 为BIM模型提供真实空间背景和区域尺度决策依据。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_011",
@@ -444,7 +710,11 @@
     "student_question_patterns": [
       "BIM+GIS融合主要体现在哪些层次",
       "BIM+GIS融合主要体现在哪些层次？",
-      "BIM+GIS融合主要体现在哪些层次？"
+      "BIM+GIS融合层次是什么？",
+      "BIM+GIS融合层次包括哪些内容？",
+      "请按条目说明BIM+GIS融合层次",
+      "教材中如何解释BIM+GIS融合层次？",
+      "第一章中BIM+GIS融合层次怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_021",
@@ -468,14 +738,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM+GIS融合可从数据、模型、流程和决策四个层次理解。",
+    "standard_answer": "1. 数据融合：实现BIM模型与GIS空间数据的坐标、属性和格式互通。\n2. 模型融合：把精细道路构件模型嵌入真实地形和区域空间环境。\n3. 流程融合：在选线、设计、施工、运维中实现空间分析与构件建模协同。\n4. 决策融合：联合工程模型与环境约束开展方案评价和风险管控。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_012",
@@ -486,7 +786,11 @@
     "student_question_patterns": [
       "数字孪生与BIM有什么区别",
       "数字孪生与BIM有什么区别？",
-      "数字孪生与BIM有什么区别？"
+      "数字孪生与BIM的区别是什么？",
+      "数字孪生与BIM的区别包括哪些内容？",
+      "请按条目说明数字孪生与BIM的区别",
+      "教材中如何解释数字孪生与BIM的区别？",
+      "第一章中数字孪生与BIM的区别怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_025",
@@ -512,14 +816,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM是数字孪生的重要基础，但数字孪生更强调实时同步和虚实闭环。",
+    "standard_answer": "1. BIM偏重工程模型、构件属性和设计施工交付信息。\n2. 数字孪生在BIM基础上引入实时感知、运行状态和动态更新。\n3. BIM更多服务设计建造表达，数字孪生强调物理实体与虚拟模型同步。\n4. 数字孪生通过仿真预测和反馈控制支撑施工运维和全生命周期管控。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_013",
@@ -530,7 +864,11 @@
     "student_question_patterns": [
       "数字孪生的虚实闭环包括哪些环节",
       "数字孪生的虚实闭环包括哪些环节？",
-      "数字孪生的虚实闭环包括哪些环节？"
+      "数字孪生虚实闭环是什么？",
+      "数字孪生虚实闭环包括哪些内容？",
+      "请按条目说明数字孪生虚实闭环",
+      "教材中如何解释数字孪生虚实闭环？",
+      "第一章中数字孪生虚实闭环怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_027",
@@ -555,14 +893,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "虚实闭环包括感知采集、模型更新、状态识别、仿真预测和反馈控制。",
+    "standard_answer": "1. 物理道路设施通过传感器、监测设备和业务系统采集状态数据。\n2. 感知数据接入虚拟模型，推动BIM+GIS模型动态更新。\n3. 系统利用仿真、预测和AI识别风险、评估状态、推演趋势。\n4. 分析结果反向形成预警、调度、养护或管控建议，反馈到实体道路。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_014",
@@ -573,7 +941,13 @@
     "student_question_patterns": [
       "什么是道路工程数字化设计",
       "什么是道路数字化设计？",
-      "什么是道路工程数字设计？"
+      "什么是道路工程数字设计？",
+      "什么是道路工程数字化设计？",
+      "道路工程数字化设计的定义是什么？",
+      "道路工程数字化设计的定义包括哪些内容？",
+      "请按条目说明道路工程数字化设计的定义",
+      "教材中如何解释道路工程数字化设计的定义？",
+      "第一章中道路工程数字化设计的定义怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_031",
@@ -597,14 +971,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "道路工程数字化设计是以模型、数据和规则为核心的道路设计方式。",
+    "standard_answer": "1. 以数字模型、工程数据和设计规则为核心组织道路设计全过程。\n2. 通过CAD、BIM、GIS、AI、数字孪生等技术提高表达、分析、协同和交付能力。\n3. 其目标不是单纯电子制图，而是形成可计算、可协同、可复用的数据资产。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_015",
@@ -615,7 +1019,13 @@
     "student_question_patterns": [
       "数字化设计理念有哪些？",
       "构件化参数化协同化生命周期化分别是什么？",
-      "四大理念怎么理解？"
+      "四大理念怎么理解？",
+      "道路工程数字化设计的四大核心理念包括哪些？",
+      "四大数字化设计理念是什么？",
+      "四大数字化设计理念包括哪些内容？",
+      "请按条目说明四大数字化设计理念",
+      "教材中如何解释四大数字化设计理念？",
+      "第一章中四大数字化设计理念怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_033",
@@ -642,14 +1052,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "四大理念是构件化、参数化、协同化和生命周期化。",
+    "standard_answer": "1. 构件化：把道路工程对象拆解为具有语义和属性的数字构件。\n2. 参数化：通过参数、规则和约束驱动模型生成与更新。\n3. 协同化：通过统一模型、标准接口和共享环境支持多专业协作。\n4. 生命周期化：让设计数据贯通施工、运维和资产管理全过程。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_016",
@@ -660,7 +1100,10 @@
     "student_question_patterns": [
       "如何理解构件化理念",
       "如何理解构件化理念？",
-      "如何理解构件化理念？"
+      "构件化理念包括哪些内容？",
+      "请按条目说明构件化理念",
+      "教材中如何解释构件化理念？",
+      "第一章中构件化理念怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_033",
@@ -685,14 +1128,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "构件化是将道路工程对象表达为具有属性和语义的数字构件。",
+    "standard_answer": "1. 构件化把道路工程从抽象线条转化为路基、路面、桥梁、隧道等工程对象。\n2. 每类构件应包含几何、属性、材料、编码、桩号和工程语义。\n3. 构件化是BIM建模、工程量统计、规则检查和数据交付的基础。\n4. 没有构件化，模型难以承载道路工程专业含义。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_017",
@@ -703,7 +1176,10 @@
     "student_question_patterns": [
       "如何理解参数化理念",
       "如何理解参数化理念？",
-      "如何理解参数化理念？"
+      "参数化理念包括哪些内容？",
+      "请按条目说明参数化理念",
+      "教材中如何解释参数化理念？",
+      "第一章中参数化理念怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_038",
@@ -728,14 +1204,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "参数化是用参数和规则驱动道路模型自动生成与联动更新。",
+    "standard_answer": "1. 参数化通过宽度、坡率、半径、高程、超高等变量控制模型形态。\n2. 参数之间通过规范、模板和约束规则建立关联关系。\n3. 参数变化后，相关模型、图纸、工程量和属性可联动更新。\n4. 参数化提高设计变更效率，也减少重复绘图和人工同步错误。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_018",
@@ -746,7 +1252,10 @@
     "student_question_patterns": [
       "如何理解协同化理念",
       "如何理解协同化理念？",
-      "如何理解协同化理念？"
+      "协同化理念包括哪些内容？",
+      "请按条目说明协同化理念",
+      "教材中如何解释协同化理念？",
+      "第一章中协同化理念怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_042",
@@ -771,14 +1280,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "协同化是通过统一模型和数据环境支撑多专业协同设计。",
+    "standard_answer": "1. 协同化强调路线、路基、桥隧、交通、地质、环境等多专业共享信息。\n2. 协同基础包括统一数据标准、公共数据环境、模型版本和接口机制。\n3. 协同目标是减少信息孤岛、重复录入和专业冲突。\n4. 协同化使道路设计从单专业串行工作转向多专业联动工作。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_019",
@@ -789,7 +1328,10 @@
     "student_question_patterns": [
       "如何理解生命周期化理念",
       "如何理解生命周期化理念？",
-      "如何理解生命周期化理念？"
+      "生命周期化理念包括哪些内容？",
+      "请按条目说明生命周期化理念",
+      "教材中如何解释生命周期化理念？",
+      "第一章中生命周期化理念怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_046",
@@ -813,14 +1355,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "生命周期化强调设计数据贯通建设、运营和维护全过程。",
+    "standard_answer": "1. 生命周期化要求设计数据不只服务出图，也服务施工、运维和资产管理。\n2. 设计阶段应形成可继承的模型、属性、编码、工程量和交付数据。\n3. 施工阶段可利用模型进行进度、质量、成本和现场协同管理。\n4. 运维阶段可结合监测数据和数字孪生开展状态评估与养护决策。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_020",
@@ -831,7 +1403,11 @@
     "student_question_patterns": [
       "CAD、BIM、GIS和数字孪生的功能定位有什么不同",
       "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
-      "CAD、BIM、GIS和数字孪生的功能定位有什么不同？"
+      "四类平台功能定位是什么？",
+      "四类平台功能定位包括哪些内容？",
+      "请按条目说明四类平台功能定位",
+      "教材中如何解释四类平台功能定位？",
+      "第一章中四类平台功能定位怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_050",
@@ -857,14 +1433,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CAD、BIM、GIS、数字孪生分别侧重绘图表达、模型建构、空间决策和虚实闭环。",
+    "standard_answer": "1. CAD主要承担二维绘图、成果表达和标准图纸输出。\n2. BIM主要承担三维构件建模、属性集成、工程量统计和协同交付。\n3. GIS主要承担空间数据组织、环境约束分析和路线方案决策支持。\n4. 数字孪生主要承担实时感知、动态映射、仿真预测和运行反馈。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_021",
@@ -906,7 +1512,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "工程审查和交付中仍大量需要标准化二维图纸。；CAD适合细部图形表达、标注和图纸排版。；许多BIM平台仍需向CAD成果或CAD标准衔接。；现代流程不是取消CAD，而是让CAD出图服务于模型驱动成果输出。",
+    "standard_answer": "1. 工程审查和交付中仍大量需要标准化二维图纸。\n2. CAD适合细部图形表达、标注和图纸排版。\n3. 许多BIM平台仍需向CAD成果或CAD标准衔接。\n4. 现代流程不是取消CAD，而是让CAD出图服务于模型驱动成果输出。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_022",
@@ -947,7 +1569,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "AI是嵌入CAD、BIM、GIS和数字孪生流程中的增强工具。；AI可用于路线推荐、规则校核、风险预测和智能反馈。；AI需要依赖工程数据、模型语义和空间环境发挥作用。；不应把AI理解为独立替代所有设计平台的系统。",
+    "standard_answer": "1. AI是嵌入CAD、BIM、GIS和数字孪生流程中的增强工具。\n2. AI可用于路线推荐、规则校核、风险预测和智能反馈。\n3. AI需要依赖工程数据、模型语义和空间环境发挥作用。\n4. 不应把AI理解为独立替代所有设计平台的系统。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_023",
@@ -957,7 +1595,6 @@
     "question_type": "概念解释",
     "student_question_patterns": [
       "什么是空间—构件协同",
-      "什么是空间—构件协同？",
       "什么是空间—构件协同？"
     ],
     "related_kps": [
@@ -988,7 +1625,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "空间—构件协同连接GIS宏观空间数据与BIM微观构件模型。；GIS提供地形、地质、生态和区域约束。；BIM提供路基、桥梁、隧道、排水等工程构件。；协同关键在于坐标统一、属性映射和语义绑定。",
+    "standard_answer": "1. 空间—构件协同连接GIS宏观空间数据与BIM微观构件模型。\n2. GIS提供地形、地质、生态和区域约束。\n3. BIM提供路基、桥梁、隧道、排水等工程构件。\n4. 协同关键在于坐标统一、属性映射和语义绑定。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_024",
@@ -998,7 +1651,6 @@
     "question_type": "比较辨析",
     "student_question_patterns": [
       "二维、三维和全息表达分别指什么",
-      "二维、三维和全息表达分别指什么？",
       "二维、三维和全息表达分别指什么？"
     ],
     "related_kps": [
@@ -1029,7 +1681,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "二维表达：主要指CAD图纸、平纵横图和细部标注。；三维表达：主要指BIM构件模型、空间关系和属性信息。；全息表达：在三维模型基础上加入时间、状态、感知数据和运行反馈。；三者不是替代关系，而是面向不同用途的联动表达。",
+    "standard_answer": "1. 二维表达：主要指CAD图纸、平纵横图和细部标注。\n2. 三维表达：主要指BIM构件模型、空间关系和属性信息。\n3. 全息表达：在三维模型基础上加入时间、状态、感知数据和运行反馈。\n4. 三者不是替代关系，而是面向不同用途的联动表达。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_025",
@@ -1040,7 +1708,10 @@
     "student_question_patterns": [
       "规则—模型—数据路径如何理解",
       "规则—模型—数据路径如何理解？",
-      "规则—模型—数据路径如何理解？"
+      "规则—模型—数据路径包括哪些内容？",
+      "请按条目说明规则—模型—数据路径",
+      "教材中如何解释规则—模型—数据路径？",
+      "第一章中规则—模型—数据路径怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_059",
@@ -1064,14 +1735,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "规则—模型—数据路径体现了数字化设计从规范约束到模型生成再到数据服务的过程。",
+    "standard_answer": "1. 规则是设计规范、参数约束、构件模板和质量控制要求的数字化表达。\n2. 模型是规则作用下形成的道路几何、构件、属性和空间关系载体。\n3. 数据是模型在设计、施工、运维中持续产生和传递的信息资产。\n4. 三者共同支撑从经验驱动向规则化、模型化、数据化设计转变。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_026",
@@ -1082,7 +1783,10 @@
     "student_question_patterns": [
       "传统道路设计流程有哪些短板",
       "传统道路设计流程有哪些短板？",
-      "传统道路设计流程有哪些短板？"
+      "传统道路设计流程短板包括哪些内容？",
+      "请按条目说明传统道路设计流程短板",
+      "教材中如何解释传统道路设计流程短板？",
+      "第一章中传统道路设计流程短板怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_061"
@@ -1105,14 +1809,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "传统流程的主要短板是信息分散、联动不足、三维表达弱和数据延续性差。",
+    "standard_answer": "1. 以图纸文件为主要成果，信息分散在不同图纸、表格和专业文件中。\n2. 设计变更需要人工同步多个成果，容易出现不一致。\n3. 二维表达难以完整反映三维空间关系和复杂工程对象。\n4. 数据难以持续服务施工、运维和全生命周期管理。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_027",
@@ -1123,7 +1857,12 @@
     "student_question_patterns": [
       "以模型为核心的数字化设计流程包括哪些步骤",
       "以模型为核心的数字化设计流程包括哪些步骤？",
-      "以模型为核心的数字设计流程包括哪些步骤？"
+      "以模型为核心的数字设计流程包括哪些步骤？",
+      "以模型为核心的数字化流程是什么？",
+      "以模型为核心的数字化流程包括哪些内容？",
+      "请按条目说明以模型为核心的数字化流程",
+      "教材中如何解释以模型为核心的数字化流程？",
+      "第一章中以模型为核心的数字化流程怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_062",
@@ -1152,14 +1891,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "以模型为核心的流程包括GIS空间选线、BIM建模、模型协同、成果输出和施工运维延伸。",
+    "standard_answer": "1. 前期通过GIS整合地形、地质、生态、用地等空间数据，辅助选线和方案比选。\n2. 中期通过BIM进行路线、路基、桥隧、附属设施等参数化建模。\n3. 协同阶段通过统一模型开展多专业协同、冲突检查和规则校核。\n4. 交付阶段由模型驱动图纸、工程量、清单和标准化数据成果输出。\n5. 后续模型可继续服务施工组织、运维管理和数字孪生。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_028",
@@ -1169,7 +1938,6 @@
     "question_type": "条目列举",
     "student_question_patterns": [
       "GIS空间选线阶段需要整合哪些数据",
-      "GIS空间选线阶段需要整合哪些数据？",
       "GIS空间选线阶段需要整合哪些数据？"
     ],
     "related_kps": [
@@ -1200,7 +1968,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "数字高程模型、遥感影像和地形地貌数据。；土地利用、城镇建设、交通网络和用地边界数据。；生态红线、保护区、敏感区和环境约束数据。；地质、水文、灾害风险和工程控制条件数据。",
+    "standard_answer": "1. 数字高程模型、遥感影像和地形地貌数据。\n2. 土地利用、城镇建设、交通网络和用地边界数据。\n3. 生态红线、保护区、敏感区和环境约束数据。\n4. 地质、水文、灾害风险和工程控制条件数据。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_029",
@@ -1210,7 +1994,6 @@
     "question_type": "条目列举",
     "student_question_patterns": [
       "BIM参数化建模阶段主要做什么",
-      "BIM参数化建模阶段主要做什么？",
       "BIM参数化建模阶段主要做什么？"
     ],
     "related_kps": [
@@ -1242,7 +2025,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "以路线平纵信息作为道路模型的空间骨架。；通过横断面模板生成路基、路面、边坡和排水构件。；建立桥梁、隧道、交叉口等三维构件模型。；将构件属性、编码和工程量信息写入模型。",
+    "standard_answer": "1. 以路线平纵信息作为道路模型的空间骨架。\n2. 通过横断面模板生成路基、路面、边坡和排水构件。\n3. 建立桥梁、隧道、交叉口等三维构件模型。\n4. 将构件属性、编码和工程量信息写入模型。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_030",
@@ -1253,7 +2052,11 @@
     "student_question_patterns": [
       "为什么模型协同能提高设计质量",
       "为什么模型协同能提高设计质量？",
-      "为什么模型协同能提高设计质量？"
+      "模型协同提高设计质量是什么？",
+      "模型协同提高设计质量包括哪些内容？",
+      "请按条目说明模型协同提高设计质量",
+      "教材中如何解释模型协同提高设计质量？",
+      "第一章中模型协同提高设计质量怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_069",
@@ -1277,14 +2080,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "模型协同通过共享模型、联动更新、冲突检查和规则校核提高设计质量。",
+    "standard_answer": "1. 统一模型可以减少不同专业之间的信息重复录入和版本冲突。\n2. 模型联动能及时反映路线、纵断面、横断面和构件属性变化。\n3. 冲突检查和规则校核有助于发现空间碰撞、约束不满足和成果不一致。\n4. 协同环境能提升多专业沟通效率和设计成果一致性。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_031",
@@ -1295,7 +2128,9 @@
     "student_question_patterns": [
       "模型驱动成果输出包括哪些内容",
       "模型驱动成果输出包括哪些内容？",
-      "模型驱动成果输出包括哪些内容？"
+      "请按条目说明模型驱动成果输出",
+      "教材中如何解释模型驱动成果输出？",
+      "第一章中模型驱动成果输出怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_070",
@@ -1319,14 +2154,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "模型驱动成果输出是由BIM模型生成图纸、工程量、清单和交付数据。",
+    "standard_answer": "1. 由模型自动或半自动生成平面、纵断面、横断面等图纸成果。\n2. 由模型属性和构件信息提取工程量、清单和统计表。\n3. 通过统一模型保证图纸、表格和工程数据之间的一致性。\n4. 输出成果不仅面向审查和施工，也可作为后续管理的数据基础。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_032",
@@ -1337,7 +2202,11 @@
     "student_question_patterns": [
       "数据驱动的设计控制机制包括哪些方面",
       "数据驱动的设计控制机制包括哪些方面？",
-      "数据驱动的设计控制机制包括哪些方面？"
+      "数据驱动设计控制机制是什么？",
+      "数据驱动设计控制机制包括哪些内容？",
+      "请按条目说明数据驱动设计控制机制",
+      "教材中如何解释数据驱动设计控制机制？",
+      "第一章中数据驱动设计控制机制怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_072",
@@ -1362,14 +2231,44 @@
     "avoid_content": [
       "不要直接复制Word原文长段落",
       "不要加入教材未涉及的扩展内容",
-      "不要回答与第一章无关的软件操作细节"
+      "不要回答与第一章无关的软件操作细节",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "数据驱动设计控制机制是用标准化数据、参数规则和模型校核控制设计过程与成果。",
+    "standard_answer": "1. 把规范、标准、约束条件转化为可检查、可计算的数据规则。\n2. 把构件属性、空间位置、参数关系统一纳入模型数据管理。\n3. 通过模型联动和规则校核控制设计质量与成果一致性。\n4. 通过数据交付支撑施工、运维和数字孪生阶段的信息延续。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_033",
@@ -1379,7 +2278,6 @@
     "question_type": "比较辨析",
     "student_question_patterns": [
       "第一章中典型软件工具如何分工",
-      "第一章中典型软件工具如何分工？",
       "第一章中典型软件工具如何分工？"
     ],
     "related_kps": [
@@ -1412,7 +2310,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "前期分析：GIS平台如ArcGIS、QGIS、SuperMap、MapGIS等用于空间分析与选线。；模型设计：OpenRoads、Civil 3D、CNCCBIM、同豪RoadBIM等用于BIM建模。；图纸输出：AutoCAD、纬地、EIC",
+    "standard_answer": "1. 前期分析：GIS平台如ArcGIS、QGIS、SuperMap、MapGIS等用于空间分析与选线。\n2. 模型设计：OpenRoads、Civil 3D、CNCCBIM、同豪RoadBIM等用于BIM建模。\n3. 图纸输出：AutoCAD、纬地、EICAD等用于标准图纸深化和出图。\n4. 施工运维准备：Navisworks、Synchro、iTwin等用于模型审查、施工协同和运维衔接。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_034",
@@ -1423,7 +2337,13 @@
     "student_question_patterns": [
       "道路工程数字化设计的发展主线是什么？",
       "道路工程数字化设计的发展主线怎么理解？",
-      "请解释道路工程数字化设计的发展主线"
+      "请解释道路工程数字化设计的发展主线",
+      "如何理解道路工程数字化设计的发展主线？",
+      "道路数字化设计发展主线是什么？",
+      "道路数字化设计发展主线包括哪些内容？",
+      "请按条目说明道路数字化设计发展主线",
+      "教材中如何解释道路数字化设计发展主线？",
+      "第一章中道路数字化设计发展主线怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_001"
@@ -1444,14 +2364,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "发展主线是从图纸表达走向模型驱动、数据协同和全生命周期智能化。",
+    "standard_answer": "1. 表达对象从二维图纸转向三维构件模型，再转向模型与数据共同驱动。\n2. 技术支撑从CAD绘图扩展到BIM建模、GIS空间分析、AI预测和数字孪生。\n3. 成果交付从图纸文件扩展为模型、属性、工程量、规则和数据资产。\n4. 应用范围从设计阶段延伸到施工、运维和全生命周期管理。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_035",
@@ -1462,7 +2413,13 @@
     "student_question_patterns": [
       "设计范式转变是什么？",
       "设计范式转变怎么理解？",
-      "请解释设计范式转变"
+      "请解释设计范式转变",
+      "如何理解设计范式转变？",
+      "图纸中心到模型核心的范式转变是什么？",
+      "图纸中心到模型核心的范式转变包括哪些内容？",
+      "请按条目说明图纸中心到模型核心的范式转变",
+      "教材中如何解释图纸中心到模型核心的范式转变？",
+      "第一章中图纸中心到模型核心的范式转变怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_002"
@@ -1483,14 +2440,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "范式转变的本质是从二维图纸成果转向可计算、可协同的工程模型与数据。",
+    "standard_answer": "1. 图纸中心强调二维表达和成果出图，模型核心强调对象、属性和关系。\n2. 图纸中心依赖人工维护一致性，模型核心通过参数和规则实现联动。\n3. 图纸中心成果主要服务设计审查和施工图交付，模型核心成果可服务全生命周期。\n4. 范式转变的本质是从静态表达转向可计算、可协同、可更新的数据载体。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_036",
@@ -1529,7 +2517,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "以二维图元、标注和图纸文件为核心；提高绘图效率、图纸标准化和参数计算效率；缺少工程语义、参数联动和生命周期数据支撑",
+    "standard_answer": "1. 以二维图元、标注和图纸文件为核心\n2. 提高绘图效率、图纸标准化和参数计算效率\n3. 缺少工程语义、参数联动和生命周期数据支撑",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_037",
@@ -1568,7 +2572,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "设计对象主要表现为线、面、文字和标注；设计变更依赖人工修改多张图纸；适合标准出图，但不适合模型联动和跨阶段数据传递",
+    "standard_answer": "1. 设计对象主要表现为线、面、文字和标注\n2. 设计变更依赖人工修改多张图纸\n3. 适合标准出图，但不适合模型联动和跨阶段数据传递",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_038",
@@ -1607,7 +2627,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CAD线段本身只是几何线，不天然知道是中线、边线还是构件边界；工程语义需要额外标注、图层或人工解释；BIM阶段将几何、属性和工程含义封装为构件对象",
+    "standard_answer": "1. CAD线段本身只是几何线，不天然知道是中线、边线还是构件边界\n2. 工程语义需要额外标注、图层或人工解释\n3. BIM阶段将几何、属性和工程含义封装为构件对象",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_039",
@@ -1646,7 +2682,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "图形绘制包括平纵横图、桥隧结构图和标注；参数计算包括平曲线、竖曲线、超高、横断面和土石方；成果输出包括平面图、纵断面图、横断面图和DWG/DXF文件",
+    "standard_answer": "1. 图形绘制包括平纵横图、桥隧结构图和标注\n2. 参数计算包括平曲线、竖曲线、超高、横断面和土石方\n3. 成果输出包括平面图、纵断面图、横断面图和DWG/DXF文件",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_040",
@@ -1685,7 +2737,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "图形对象缺少工程属性和逻辑关系；设计变更需要人工同步多类图纸和表格；难以支撑施工、运维和数字孪生所需的数据贯通",
+    "standard_answer": "1. 图形对象缺少工程属性和逻辑关系\n2. 设计变更需要人工同步多类图纸和表格\n3. 难以支撑施工、运维和数字孪生所需的数据贯通",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_041",
@@ -1724,7 +2792,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "典型软件包括纬地、EICAD、同豪及相关国外软件；其价值在于把道路专业计算与图纸绘制集成；仍以图纸成果和参数计算为主要工作对象",
+    "standard_answer": "1. 典型软件包括纬地、EICAD、同豪及相关国外软件\n2. 其价值在于把道路专业计算与图纸绘制集成\n3. 仍以图纸成果和参数计算为主要工作对象",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_042",
@@ -1763,7 +2847,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "例如智能立交选型、规则校核和模板驱动推荐；它提升CAD的自动化程度，但仍不等同于完整BIM模型；是CAD向知识化和模型化演进的过渡",
+    "standard_answer": "1. 例如智能立交选型、规则校核和模板驱动推荐\n2. 它提升CAD的自动化程度，但仍不等同于完整BIM模型\n3. 是CAD向知识化和模型化演进的过渡",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_043",
@@ -1802,7 +2902,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "设计对象从图元转向构件模型；构件同时包含几何、属性、语义和设计逻辑；支持图模一致、协同设计和工程量提取",
+    "standard_answer": "1. 设计对象从图元转向构件模型\n2. 构件同时包含几何、属性、语义和设计逻辑\n3. 支持图模一致、协同设计和工程量提取",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_044",
@@ -1841,7 +2957,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "三维模型主要表达形态，BIM还表达工程对象含义；BIM构件具有材料、尺寸、编码、工程量等属性；BIM可支撑协同、变更联动、交付和运维",
+    "standard_answer": "1. 三维模型主要表达形态，BIM还表达工程对象含义\n2. BIM构件具有材料、尺寸、编码、工程量等属性\n3. BIM可支撑协同、变更联动、交付和运维",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_045",
@@ -1880,7 +3012,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "构件不只是几何体，而是具有工程身份的对象；构件语义支撑规则校核、工程量统计和交付管理；道路BIM需要适应线性工程和复杂地形",
+    "standard_answer": "1. 构件不只是几何体，而是具有工程身份的对象\n2. 构件语义支撑规则校核、工程量统计和交付管理\n3. 道路BIM需要适应线性工程和复杂地形",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_046",
@@ -1919,7 +3067,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "道路工程沿线延伸，模型需随路线、地形和桩号组织；路基、桥隧、交叉口等构件变化频繁；不能简单套用建筑BIM的固定空间逻辑",
+    "standard_answer": "1. 道路工程沿线延伸，模型需随路线、地形和桩号组织\n2. 路基、桥隧、交叉口等构件变化频繁\n3. 不能简单套用建筑BIM的固定空间逻辑",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_047",
@@ -1958,7 +3122,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "OpenRoads强调Corridor和Template；Civil 3D强调Assembly和Subassembly；两者都体现了横断面模板随路线生成模型的思路",
+    "standard_answer": "1. OpenRoads强调Corridor和Template\n2. Civil 3D强调Assembly和Subassembly\n3. 两者都体现了横断面模板随路线生成模型的思路",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_048",
@@ -1997,7 +3177,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "将设计几何、属性和工程量集成在模型中；支持多专业共享模型和变更联动；通过参数和模板提高设计调整效率",
+    "standard_answer": "1. 将设计几何、属性和工程量集成在模型中\n2. 支持多专业共享模型和变更联动\n3. 通过参数和模板提高设计调整效率",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_049",
@@ -2036,7 +3232,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "构件编码、语义和模板体系尚需统一；不同平台的数据格式和接口存在差异；BIM与GIS、施工和运维系统的贯通仍需加强",
+    "standard_answer": "1. 构件编码、语义和模板体系尚需统一\n2. 不同平台的数据格式和接口存在差异\n3. BIM与GIS、施工和运维系统的贯通仍需加强",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_050",
@@ -2075,7 +3287,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "GIS提供空间数据组织、分析和可视化能力；支持路线方案比选、敏感区避让和环境影响评价；是从单一模型驱动走向空间数据决策的重要阶段",
+    "standard_answer": "1. GIS提供空间数据组织、分析和可视化能力\n2. 支持路线方案比选、敏感区避让和环境影响评价\n3. 是从单一模型驱动走向空间数据决策的重要阶段",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_051",
@@ -2114,7 +3342,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "输入数据包括DEM、土地利用、生态红线、地质和水文资料；分析结果可形成适宜性分区或约束图层；用于辅助路线走廊选择和方案优化",
+    "standard_answer": "1. 输入数据包括DEM、土地利用、生态红线、地质和水文资料\n2. 分析结果可形成适宜性分区或约束图层\n3. 用于辅助路线走廊选择和方案优化",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_052",
@@ -2153,7 +3397,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "成本可综合地形坡度、工程造价、生态敏感性和通行条件；算法结果不是最终路线，而是辅助决策依据；需要与工程经验和规范要求结合",
+    "standard_answer": "1. 成本可综合地形坡度、工程造价、生态敏感性和通行条件\n2. 算法结果不是最终路线，而是辅助决策依据\n3. 需要与工程经验和规范要求结合",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_053",
@@ -2192,7 +3452,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "敏感区包括生态红线、滑坡区、河流湿地、保护区和城镇用地；GIS可进行缓冲、叠加和空间查询；该能力提升路线方案的环境适应性和风险控制能力",
+    "standard_answer": "1. 敏感区包括生态红线、滑坡区、河流湿地、保护区和城镇用地\n2. GIS可进行缓冲、叠加和空间查询\n3. 该能力提升路线方案的环境适应性和风险控制能力",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_054",
@@ -2231,7 +3507,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM擅长表达构件和工程属性；GIS擅长组织空间环境和区域约束；二者结合可实现“空间选线—模型设计—综合评价”的闭环",
+    "standard_answer": "1. BIM擅长表达构件和工程属性\n2. GIS擅长组织空间环境和区域约束\n3. 二者结合可实现“空间选线—模型设计—综合评价”的闭环",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_055",
@@ -2270,7 +3562,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "常见接口和格式包括LandXML、CityGML、GDAL等；关键问题包括坐标系统、几何层级和属性字段映射；数据互通是平台融合和流程协同的基础",
+    "standard_answer": "1. 常见接口和格式包括LandXML、CityGML、GDAL等\n2. 关键问题包括坐标系统、几何层级和属性字段映射\n3. 数据互通是平台融合和流程协同的基础",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_056",
@@ -2309,7 +3617,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "典型思路包括InfraWorks、Map 3D、BIM平台与GIS平台集成；平台集成提高方案展示、空间分析和模型审查效率；但仍需要统一数据标准和接口规则",
+    "standard_answer": "1. 典型思路包括InfraWorks、Map 3D、BIM平台与GIS平台集成\n2. 平台集成提高方案展示、空间分析和模型审查效率\n3. 但仍需要统一数据标准和接口规则",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_057",
@@ -2348,7 +3672,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "形成“选线—建模—评估—优化”的工作链；可以减少设计前后环节的数据断裂；支撑方案比选、生态评价和风险预测",
+    "standard_answer": "1. 形成“选线—建模—评估—优化”的工作链\n2. 可以减少设计前后环节的数据断裂\n3. 支撑方案比选、生态评价和风险预测",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_058",
@@ -2387,7 +3727,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "从静态模型走向动态运行状态表达；融合BIM、GIS、IoT、AI等技术；强调虚实映射、实时更新和闭环反馈",
+    "standard_answer": "1. 从静态模型走向动态运行状态表达\n2. 融合BIM、GIS、IoT、AI等技术\n3. 强调虚实映射、实时更新和闭环反馈",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_059",
@@ -2426,7 +3782,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "物理道路通过传感器和运行数据反映状态；虚拟模型基于数据更新并进行仿真预测；预测和诊断结果反向服务实体设施管理",
+    "standard_answer": "1. 物理道路通过传感器和运行数据反映状态\n2. 虚拟模型基于数据更新并进行仿真预测\n3. 预测和诊断结果反向服务实体设施管理",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_060",
@@ -2465,7 +3837,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "实体道路产生感知数据；数据驱动虚拟模型更新和状态识别；虚拟模型推演结果反向指导预警、养护或交通管控",
+    "standard_answer": "1. 实体道路产生感知数据\n2. 数据驱动虚拟模型更新和状态识别\n3. 虚拟模型推演结果反向指导预警、养护或交通管控",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_061",
@@ -2504,7 +3892,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM提供工程构件和属性语义；GIS提供地理空间位置和环境约束；IoT与AI提供实时感知、状态识别和预测决策",
+    "standard_answer": "1. BIM提供工程构件和属性语义\n2. GIS提供地理空间位置和环境约束\n3. IoT与AI提供实时感知、状态识别和预测决策",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_062",
@@ -2543,7 +3947,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "设计阶段支持方案比选和敏感性分析；施工阶段支持进度仿真和场地布置；运维阶段支持结构健康监测和风险预警",
+    "standard_answer": "1. 设计阶段支持方案比选和敏感性分析\n2. 施工阶段支持进度仿真和场地布置\n3. 运维阶段支持结构健康监测和风险预警",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_063",
@@ -2582,7 +4002,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "核心对象是数字构件和模型数据，而不是单纯图纸；强调空间数据、工程属性、参数规则和协同流程统一组织；目标是服务设计、施工、运维和交付全过程",
+    "standard_answer": "1. 核心对象是数字构件和模型数据，而不是单纯图纸\n2. 强调空间数据、工程属性、参数规则和协同流程统一组织\n3. 目标是服务设计、施工、运维和交付全过程",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_064",
@@ -2621,7 +4057,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "图纸仍然重要，但不再是唯一成果；模型、属性、规则和接口数据成为新的交付对象；设计成果应能支撑施工组织、工程量统计和运维管理",
+    "standard_answer": "1. 图纸仍然重要，但不再是唯一成果\n2. 模型、属性、规则和接口数据成为新的交付对象\n3. 设计成果应能支撑施工组织、工程量统计和运维管理",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_065",
@@ -2661,7 +4113,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "构件是连接几何模型和工程语义的基本单元；道路可按设施、子设施、构件逐级组织；构件化是参数化、协同化和生命周期管理的基础",
+    "standard_answer": "1. 构件是连接几何模型和工程语义的基本单元\n2. 道路可按设施、子设施、构件逐级组织\n3. 构件化是参数化、协同化和生命周期管理的基础",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_066",
@@ -2700,7 +4168,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "设施可对应道路、桥梁、隧道等整体对象；子设施对应路基、路面、排水、交通工程等系统；构件是可编码、可建模、可管理的最小工程对象",
+    "standard_answer": "1. 设施可对应道路、桥梁、隧道等整体对象\n2. 子设施对应路基、路面、排水、交通工程等系统\n3. 构件是可编码、可建模、可管理的最小工程对象",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_067",
@@ -2739,7 +4223,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "几何属性描述形状和尺寸；工程属性描述材料、功能和施工信息；管理属性支持编码、追踪和后续运维",
+    "standard_answer": "1. 几何属性描述形状和尺寸\n2. 工程属性描述材料、功能和施工信息\n3. 管理属性支持编码、追踪和后续运维",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_068",
@@ -2779,7 +4279,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "参数控制构件尺寸、坡度、宽度和位置；约束关系保证参数变化后的模型合理性；规则嵌入使设计符合规范和工程逻辑",
+    "standard_answer": "1. 参数控制构件尺寸、坡度、宽度和位置\n2. 约束关系保证参数变化后的模型合理性\n3. 规则嵌入使设计符合规范和工程逻辑",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_069",
@@ -2818,7 +4334,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "模板把横断面结构转化为可复用参数规则；路线或地形变化后，模板可驱动模型重构；它体现参数化和规则驱动设计思想",
+    "standard_answer": "1. 模板把横断面结构转化为可复用参数规则\n2. 路线或地形变化后，模板可驱动模型重构\n3. 它体现参数化和规则驱动设计思想",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_070",
@@ -2857,7 +4389,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "规则可包括最小曲线半径、坡度、横坡、构造约束等；规则可用于自动校核、提示和生成建议；它使设计从人工经验判断走向规则辅助决策",
+    "standard_answer": "1. 规则可包括最小曲线半径、坡度、横坡、构造约束等\n2. 规则可用于自动校核、提示和生成建议\n3. 它使设计从人工经验判断走向规则辅助决策",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_071",
@@ -2897,7 +4445,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "多专业共享同一模型或数据源；设计变更可通过模型参数联动传递；协同化提高一致性、透明度和审查效率",
+    "standard_answer": "1. 多专业共享同一模型或数据源\n2. 设计变更可通过模型参数联动传递\n3. 协同化提高一致性、透明度和审查效率",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_072",
@@ -2936,7 +4500,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "统一模型减少文件反复转换和版本混乱；各专业围绕模型对象进行修改和审查；模型对象成为设计协同和成果交付的中心",
+    "standard_answer": "1. 统一模型减少文件反复转换和版本混乱\n2. 各专业围绕模型对象进行修改和审查\n3. 模型对象成为设计协同和成果交付的中心",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_073",
@@ -2975,7 +4555,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CDE支持权限控制、版本管理和流程审批；适合多专业团队在同一数据环境中协同；它是模型级协同的重要基础设施",
+    "standard_answer": "1. CDE支持权限控制、版本管理和流程审批\n2. 适合多专业团队在同一数据环境中协同\n3. 它是模型级协同的重要基础设施",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_074",
@@ -3015,7 +4611,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "设计成果不仅服务出图，还应服务后续阶段；构件编码和属性为施工运维提供数据基础；生命周期化强调信息连续性和可扩展性",
+    "standard_answer": "1. 设计成果不仅服务出图，还应服务后续阶段\n2. 构件编码和属性为施工运维提供数据基础\n3. 生命周期化强调信息连续性和可扩展性",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_075",
@@ -3054,7 +4666,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "唯一ID连接模型、图纸、工程量、施工记录和养护记录；它是跨阶段数据贯通的重要条件；可支撑问题追踪、资产管理和运维反馈",
+    "standard_answer": "1. 唯一ID连接模型、图纸、工程量、施工记录和养护记录\n2. 它是跨阶段数据贯通的重要条件\n3. 可支撑问题追踪、资产管理和运维反馈",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_076",
@@ -3065,7 +4693,13 @@
     "student_question_patterns": [
       "四大理念的关系是什么？",
       "四大理念的关系怎么理解？",
-      "请解释四大理念的关系"
+      "请解释四大理念的关系",
+      "如何理解四大理念的关系？",
+      "四大理念之间的关系是什么？",
+      "四大理念之间的关系包括哪些内容？",
+      "请按条目说明四大理念之间的关系",
+      "教材中如何解释四大理念之间的关系？",
+      "第一章中四大理念之间的关系怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_043"
@@ -3088,14 +4722,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "四大理念是递进关系：构件化是基础，参数化是机制，协同化是组织，生命周期化是目标。",
+    "standard_answer": "1. 构件化提供工程对象基础，解决“设计什么”的问题。\n2. 参数化提供生成和联动机制，解决“如何自动变化”的问题。\n3. 协同化提供多专业共享环境，解决“如何共同工作”的问题。\n4. 生命周期化提供数据延续目标，解决“数据如何持续发挥价值”的问题。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_077",
@@ -3106,7 +4771,12 @@
     "student_question_patterns": [
       "CAD平台功能定位是什么？",
       "CAD平台功能定位怎么理解？",
-      "请解释CAD平台功能定位"
+      "请解释CAD平台功能定位",
+      "如何理解CAD平台功能定位？",
+      "CAD平台功能定位包括哪些内容？",
+      "请按条目说明CAD平台功能定位",
+      "教材中如何解释CAD平台功能定位？",
+      "第一章中CAD平台功能定位怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_044"
@@ -3127,14 +4797,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CAD平台主要定位为二维绘图、成果表达和标准图纸输出工具。",
+    "standard_answer": "1. CAD平台用于二维工程图形绘制、编辑、标注和排版出图。\n2. 在道路工程中主要服务平面图、纵断面图、横断面图和表格成果。\n3. CAD适合标准化制图和成果表达，但不宜承担全生命周期数据管理主任务。\n4. 在数字化体系中，CAD仍是图纸交付和工程表达的重要基础工具。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_078",
@@ -3145,7 +4846,12 @@
     "student_question_patterns": [
       "BIM平台功能定位是什么？",
       "BIM平台功能定位怎么理解？",
-      "请解释BIM平台功能定位"
+      "请解释BIM平台功能定位",
+      "如何理解BIM平台功能定位？",
+      "BIM平台功能定位包括哪些内容？",
+      "请按条目说明BIM平台功能定位",
+      "教材中如何解释BIM平台功能定位？",
+      "第一章中BIM平台功能定位怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_045"
@@ -3166,14 +4872,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM平台主要定位为三维构件建模、信息集成和模型协同交付平台。",
+    "standard_answer": "1. BIM平台用于构建带几何、属性和语义的道路三维模型。\n2. 支持参数化建模、构件关联、工程量统计、冲突检查和图模一致。\n3. BIM模型可为施工组织、运维管理和数字孪生提供基础数据。\n4. BIM平台是从图纸导向转向模型驱动的核心支撑。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_079",
@@ -3184,7 +4921,12 @@
     "student_question_patterns": [
       "GIS平台功能定位是什么？",
       "GIS平台功能定位怎么理解？",
-      "请解释GIS平台功能定位"
+      "请解释GIS平台功能定位",
+      "如何理解GIS平台功能定位？",
+      "GIS平台功能定位包括哪些内容？",
+      "请按条目说明GIS平台功能定位",
+      "教材中如何解释GIS平台功能定位？",
+      "第一章中GIS平台功能定位怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_046"
@@ -3205,14 +4947,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "GIS平台主要定位为空间数据管理、环境约束分析和方案决策支持工具。",
+    "standard_answer": "1. GIS平台用于管理和分析地形、地质、水文、生态、用地和交通等空间数据。\n2. 支持缓冲区、叠加、适宜性、路径和风险等空间分析。\n3. GIS为道路选线、方案比选和环境约束识别提供区域尺度依据。\n4. GIS与BIM融合后，可实现宏观空间分析与微观工程模型协同。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_080",
@@ -3223,7 +4996,12 @@
     "student_question_patterns": [
       "数字孪生平台功能定位是什么？",
       "数字孪生平台功能定位怎么理解？",
-      "请解释数字孪生平台功能定位"
+      "请解释数字孪生平台功能定位",
+      "如何理解数字孪生平台功能定位？",
+      "数字孪生平台功能定位包括哪些内容？",
+      "请按条目说明数字孪生平台功能定位",
+      "教材中如何解释数字孪生平台功能定位？",
+      "第一章中数字孪生平台功能定位怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_047"
@@ -3244,14 +5022,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "数字孪生平台主要定位为实时感知、动态映射、仿真预测和闭环管控平台。",
+    "standard_answer": "1. 数字孪生平台以BIM+GIS模型为基础，接入实时监测和运行数据。\n2. 通过动态映射反映实体道路设施的状态变化。\n3. 结合AI和仿真模型开展风险识别、状态预测和运行推演。\n4. 将分析结果反馈给施工、养护、交通管理和应急决策。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_081",
@@ -3290,7 +5099,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "AI可用于选线优化、规则校核、风险预测和智能推荐；AI需要依托BIM/GIS/数字孪生的数据环境发挥作用；不能把AI理解为脱离工程数据的万能替代方案",
+    "standard_answer": "1. AI可用于选线优化、规则校核、风险预测和智能推荐\n2. AI需要依托BIM/GIS/数字孪生的数据环境发挥作用\n3. 不能把AI理解为脱离工程数据的万能替代方案",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_082",
@@ -3329,7 +5154,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "GIS负责空间分析和路线走廊决策；BIM负责参数化建模和信息集成；CAD承担必要的标准图纸输出",
+    "standard_answer": "1. GIS负责空间分析和路线走廊决策\n2. BIM负责参数化建模和信息集成\n3. CAD承担必要的标准图纸输出",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_083",
@@ -3368,7 +5209,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "GIS提供地形、地质、生态和区域约束；BIM提供路基、桥隧、排水等构件对象；协同关键是坐标统一、属性映射和语义绑定",
+    "standard_answer": "1. GIS提供地形、地质、生态和区域约束\n2. BIM提供路基、桥隧、排水等构件对象\n3. 协同关键是坐标统一、属性映射和语义绑定",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_084",
@@ -3407,7 +5264,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "二维图纸用于审查、出图和细部表达；三维模型用于构件、参数和空间关系表达；全息表达加入时间、状态和运行反馈",
+    "standard_answer": "1. 二维图纸用于审查、出图和细部表达\n2. 三维模型用于构件、参数和空间关系表达\n3. 全息表达加入时间、状态和运行反馈",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_085",
@@ -3446,7 +5319,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "规则约束模型生成和校核；模型承载构件、属性和工程量；数据通过接口进入GIS、施工或孪生平台",
+    "standard_answer": "1. 规则约束模型生成和校核\n2. 模型承载构件、属性和工程量\n3. 数据通过接口进入GIS、施工或孪生平台",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_086",
@@ -3457,7 +5346,12 @@
     "student_question_patterns": [
       "接口与数据标准体系是什么？",
       "接口与数据标准体系怎么理解？",
-      "请解释接口与数据标准体系"
+      "请解释接口与数据标准体系",
+      "如何理解接口与数据标准体系？",
+      "接口与数据标准体系包括哪些内容？",
+      "请按条目说明接口与数据标准体系",
+      "教材中如何解释接口与数据标准体系？",
+      "第一章中接口与数据标准体系怎么理解？"
     ],
     "related_kps": [
       "kp_ch01_053"
@@ -3478,14 +5372,45 @@
     "avoid_content": [
       "不要直接输出Word原文",
       "不要扩展到其他章节的细节",
-      "回答应围绕第一章学习目标"
+      "回答应围绕第一章学习目标",
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
     ],
     "evidence_chunks": "按section_id检索Source_Chunks中的教材依据",
     "source_excerpt": "使用Source_Chunks作为依据，不直接输出长段原文。",
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "接口与数据标准是多平台协同、模型交付和数据复用的基础。",
+    "standard_answer": "1. 接口和标准规定不同平台之间的数据格式、属性字段和交换规则。\n2. 它们支撑CAD、BIM、GIS和数字孪生平台之间的信息流转。\n3. 统一标准可减少模型转换丢失、语义不一致和重复建模问题。\n4. 没有标准体系，多平台协同容易形成新的数据孤岛。",
+    "card_level": "A_标准教材答案",
+    "retrieval_weight_v1_2": 100,
+    "priority_v1_2": "highest",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_core_refined",
+    "teaching_rewrite_supported": true,
+    "word_alignment": {
+      "support_type": "teaching_rewrite_supported_by_word_theme",
+      "evidence_confidence": "medium",
+      "not_verbatim_quote": true,
+      "needs_textbook_anchor_review": false,
+      "source": "ch01_v12_core_answer_cards"
+    }
   },
   {
     "answer_id": "ans_ch01_087",
@@ -3524,7 +5449,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "各专业成果以文件形式分散保存；设计变更难以及时同步到相关图表和模型；成果难以直接服务施工与运维",
+    "standard_answer": "1. 各专业成果以文件形式分散保存\n2. 设计变更难以及时同步到相关图表和模型\n3. 成果难以直接服务施工与运维",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_088",
@@ -3565,7 +5506,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "先用GIS整合空间数据和路线约束；再用BIM进行参数建模和构件表达；然后基于模型协同审查并自动输出成果；最终将模型数据交付施工和运维",
+    "standard_answer": "1. 先用GIS整合空间数据和路线约束\n2. 再用BIM进行参数建模和构件表达\n3. 然后基于模型协同审查并自动输出成果\n4. 最终将模型数据交付施工和运维",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_089",
@@ -3604,7 +5561,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "多源空间数据是路线设计的前置条件；GIS分析可识别适宜区、限制区和敏感区；分析结果为BIM建模提供空间控制边界",
+    "standard_answer": "1. 多源空间数据是路线设计的前置条件\n2. GIS分析可识别适宜区、限制区和敏感区\n3. 分析结果为BIM建模提供空间控制边界",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_090",
@@ -3643,7 +5616,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "AI可用于识别约束、预测风险和优化路径；GIS提供空间数据和分析环境；结果应作为辅助决策，需结合规范和工程经验复核",
+    "standard_answer": "1. AI可用于识别约束、预测风险和优化路径\n2. GIS提供空间数据和分析环境\n3. 结果应作为辅助决策，需结合规范和工程经验复核",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_091",
@@ -3682,7 +5671,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "路线几何驱动模型空间位置；横断面模板驱动路基、路面和边坡生成；构件属性支撑统计、校核和交付",
+    "standard_answer": "1. 路线几何驱动模型空间位置\n2. 横断面模板驱动路基、路面和边坡生成\n3. 构件属性支撑统计、校核和交付",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_092",
@@ -3721,7 +5726,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "道路模型沿路线展开，桩号是重要组织线索；路线调整会影响横断面、构件位置和工程量；体现了道路BIM与建筑BIM的关键差异",
+    "standard_answer": "1. 道路模型沿路线展开，桩号是重要组织线索\n2. 路线调整会影响横断面、构件位置和工程量\n3. 体现了道路BIM与建筑BIM的关键差异",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_093",
@@ -3760,7 +5781,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "例如路线变更影响横断面、边坡、工程量和图纸；关联逻辑减少人工重复修改；需通过参数、约束和规则维护一致性",
+    "standard_answer": "1. 例如路线变更影响横断面、边坡、工程量和图纸\n2. 关联逻辑减少人工重复修改\n3. 需通过参数、约束和规则维护一致性",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_094",
@@ -3799,7 +5836,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "多专业围绕统一模型协同工作；冲突预警可提前发现空间碰撞或设计矛盾；协同过程需要权限、版本和审批管理",
+    "standard_answer": "1. 多专业围绕统一模型协同工作\n2. 冲突预警可提前发现空间碰撞或设计矛盾\n3. 协同过程需要权限、版本和审批管理",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_095",
@@ -3838,7 +5891,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "成果来自同一模型，减少图表不一致；图纸、工程量和属性可联动更新；输出内容包括几何模型、属性、图纸、清单和接口文件",
+    "standard_answer": "1. 成果来自同一模型，减少图表不一致\n2. 图纸、工程量和属性可联动更新\n3. 输出内容包括几何模型、属性、图纸、清单和接口文件",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_096",
@@ -3877,7 +5946,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "交付内容不只是图纸，还包括构件模型、属性信息和接口数据；常用格式可能包括IFC、LandXML、CityGML等；标准化交付为施工、运维和数字孪生打基础",
+    "standard_answer": "1. 交付内容不只是图纸，还包括构件模型、属性信息和接口数据\n2. 常用格式可能包括IFC、LandXML、CityGML等\n3. 标准化交付为施工、运维和数字孪生打基础",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_097",
@@ -3916,7 +6001,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "设计模型提供施工放样、进度仿真和工程量依据；运维阶段可继承构件编码和属性信息；这是生命周期化理念的重要体现",
+    "standard_answer": "1. 设计模型提供施工放样、进度仿真和工程量依据\n2. 运维阶段可继承构件编码和属性信息\n3. 这是生命周期化理念的重要体现",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_098",
@@ -3957,7 +6058,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "设计标准转化为可执行规则；构件属性按统一字段管理；过程状态可视化并可追踪；交付成果结构化、标准化",
+    "standard_answer": "1. 设计标准转化为可执行规则\n2. 构件属性按统一字段管理\n3. 过程状态可视化并可追踪\n4. 交付成果结构化、标准化",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_099",
@@ -3996,7 +6113,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "有利于自动检查设计是否满足规范；可减少完全依赖人工经验的遗漏；是AI和规则引擎参与设计的重要前提",
+    "standard_answer": "1. 有利于自动检查设计是否满足规范\n2. 可减少完全依赖人工经验的遗漏\n3. 是AI和规则引擎参与设计的重要前提",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_100",
@@ -4035,7 +6168,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "可保证不同模型和平台之间属性含义一致；支撑工程量统计、查询、交付和后续运维；是知识库、BIM模型和数字孪生平台共同需要的基础",
+    "standard_answer": "1. 可保证不同模型和平台之间属性含义一致\n2. 支撑工程量统计、查询、交付和后续运维\n3. 是知识库、BIM模型和数字孪生平台共同需要的基础",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_101",
@@ -4074,7 +6223,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "使项目状态更易被设计人员和管理者理解；提高审查、沟通和决策效率；有助于形成可追踪的设计过程记录",
+    "standard_answer": "1. 使项目状态更易被设计人员和管理者理解\n2. 提高审查、沟通和决策效率\n3. 有助于形成可追踪的设计过程记录",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_102",
@@ -4113,7 +6278,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "典型工具包括ArcGIS、QGIS、SuperMap、MapGIS、紫云GIS等；Civil 3D、Map 3D、纬地和BIM平台可辅助衔接建模；工具选择应服务数据流程和工程目标",
+    "standard_answer": "1. 典型工具包括ArcGIS、QGIS、SuperMap、MapGIS、紫云GIS等\n2. Civil 3D、Map 3D、纬地和BIM平台可辅助衔接建模\n3. 工具选择应服务数据流程和工程目标",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_103",
@@ -4152,7 +6333,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "平台通常支持路线、纵断面、横断面模板和廊道建模；不同平台数据接口和构件标准不同；需要围绕交付要求选择平台组合",
+    "standard_answer": "1. 平台通常支持路线、纵断面、横断面模板和廊道建模\n2. 不同平台数据接口和构件标准不同\n3. 需要围绕交付要求选择平台组合",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_104",
@@ -4191,7 +6388,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "BIM模型可驱动图纸输出，但最终仍常需CAD格式成果；CAD适合精细标注和图纸排版；应避免把CAD出图等同于完整数字化设计",
+    "standard_answer": "1. BIM模型可驱动图纸输出，但最终仍常需CAD格式成果\n2. CAD适合精细标注和图纸排版\n3. 应避免把CAD出图等同于完整数字化设计",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_105",
@@ -4230,7 +6443,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "如Navisworks、Synchro、iTwin等平台可用于模型审查和施工运维衔接；关键在于模型数据能被下游平台识别和复用；体现设计交付从文档向数据资产转变",
+    "standard_answer": "1. 如Navisworks、Synchro、iTwin等平台可用于模型审查和施工运维衔接\n2. 关键在于模型数据能被下游平台识别和复用\n3. 体现设计交付从文档向数据资产转变",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_106",
@@ -4269,7 +6498,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "包含模型、属性、图纸、工程量、接口和元数据；有助于施工、养护、运营和数字孪生复用；是数字化设计价值的重要体现",
+    "standard_answer": "1. 包含模型、属性、图纸、工程量、接口和元数据\n2. 有助于施工、养护、运营和数字孪生复用\n3. 是数字化设计价值的重要体现",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_107",
@@ -4308,7 +6553,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "图纸便于审查和施工阅读，但数据结构弱；模型可支持统计、查询、联动和跨阶段复用；现代流程不是取消图纸，而是让图纸由模型驱动生成",
+    "standard_answer": "1. 图纸便于审查和施工阅读，但数据结构弱\n2. 模型可支持统计、查询、联动和跨阶段复用\n3. 现代流程不是取消图纸，而是让图纸由模型驱动生成",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_108",
@@ -4346,7 +6607,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "发展历程包括CAD、BIM、BIM+GIS、数字孪生四个阶段。；演进逻辑是从图纸表达到模型表达，再到空间数据协同和虚实闭环。；各阶段分别解决制图效率、模型信息集成、空间约束决策和动态反馈问题。",
+    "standard_answer": "1. 发展历程包括CAD、BIM、BIM+GIS、数字孪生四个阶段。\n2. 演进逻辑是从图纸表达到模型表达，再到空间数据协同和虚实闭环。\n3. 各阶段分别解决制图效率、模型信息集成、空间约束决策和动态反馈问题。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_109",
@@ -4385,7 +6662,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "图纸中心以二维图纸为主要成果和组织对象。；模型核心以构件模型、属性数据和参数规则为组织对象。；这种转变使设计协同、变更联动和成果交付都围绕模型展开。",
+    "standard_answer": "1. 图纸中心以二维图纸为主要成果和组织对象。\n2. 模型核心以构件模型、属性数据和参数规则为组织对象。\n3. 这种转变使设计协同、变更联动和成果交付都围绕模型展开。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_110",
@@ -4428,7 +6721,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CAD主要承担二维绘图和标准出图。；BIM主要承担三维构件建模、信息集成和参数化协同。；GIS主要承担空间数据组织、环境约束分析和路线方案评价。；数字孪生主要承担实时感知、仿真预测和动态反馈。",
+    "standard_answer": "1. CAD主要承担二维绘图和标准出图。\n2. BIM主要承担三维构件建模、信息集成和参数化协同。\n3. GIS主要承担空间数据组织、环境约束分析和路线方案评价。\n4. 数字孪生主要承担实时感知、仿真预测和动态反馈。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_111",
@@ -4467,7 +6776,23 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "CAD主要组织图元和图纸，BIM组织构件和工程信息。；CAD侧重二维表达，BIM侧重三维构件、属性和语义集成。；CAD变更多依赖人工同步，BIM可通过参数和规则联动。",
+    "standard_answer": "1. CAD主要组织图元和图纸，BIM组织构件和工程信息。\n2. CAD侧重二维表达，BIM侧重三维构件、属性和语义集成。\n3. CAD变更多依赖人工同步，BIM可通过参数和规则联动。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   },
   {
     "answer_id": "ans_ch01_112",
@@ -4507,6 +6832,22 @@
     "answer_boundary": "必须优先使用本答案卡的answer_points；需要展开时再补充Knowledge_Points；Source_Chunks只作为证据。",
     "recommended_resources": [],
     "confidence_rule": "命中canonical_question或student_question_patterns且覆盖must_include≥70%为高置信度",
-    "status": "checked"
+    "status": "checked",
+    "short_answer": "GIS用于空间数据组织、适宜性分析、敏感区识别和路线方案评价。；GIS与BIM融合体现在数据互通、平台集成和流程协同三个层次。；融合后的流程可形成GIS选线、BIM建模、GIS评价和方案优化的工作链。",
+    "standard_answer": "1. GIS用于空间数据组织、适宜性分析、敏感区识别和路线方案评价。\n2. GIS与BIM融合体现在数据互通、平台集成和流程协同三个层次。\n3. 融合后的流程可形成GIS选线、BIM建模、GIS评价和方案优化的工作链。",
+    "card_level": "B_理解解释",
+    "retrieval_weight_v1_2": 70,
+    "priority_v1_2": "checked",
+    "source_chunks_role": "evidence_only",
+    "negative_constraints": [
+      "不要直接复制Word原文长段落",
+      "不要把BIM简单解释为三维模型",
+      "不要把GIS仅解释为电子地图",
+      "不要把数字孪生等同于BIM模型",
+      "不要说CAD已经被BIM完全取代",
+      "不要加入教材未涉及的软件厂商历史或行业新闻",
+      "不要回答与第一章无关的软件具体操作步骤"
+    ],
+    "calibration_status": "v1.2_inherited_checked"
   }
 ]
