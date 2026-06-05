@@ -1,0 +1,2375 @@
+{
+  "word_source": "F:/编书/道路工程数字设计方法/修订稿-2026年1月/第一章/第一章 道路工程数字化设计概述.docx",
+  "word_paragraphs": 198,
+  "word_characters": 13445,
+  "current_package": "data/raw/ch01/第1章_道路工程数字化设计概述_知识库_v1.0完备版.json",
+  "v12_package": "C:/Users/Michael/Downloads/第1章_道路工程数字化设计概述_知识库_v1.2精准问答校准版.json",
+  "core_cards": {
+    "count": 30,
+    "score_buckets": {
+      "low": 21,
+      "medium": 7,
+      "high": 2
+    },
+    "items": [
+      {
+        "answer_id": "ans_ch01_014",
+        "question": "什么是道路工程数字化设计？",
+        "score": 0.367,
+        "statuses": {
+          "weak": 1,
+          "term_supported": 1,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "以数字模型、工程数据和设计规则为核心组织道路设计全过程。",
+            "status": "weak",
+            "term_hits": [
+              "以数字模型"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "通过CAD、BIM、GIS、AI、数字孪生等技术提高表达、分析、协同和交付能力。",
+            "status": "term_supported",
+            "term_hits": [
+              "通过",
+              "CAD",
+              "BIM",
+              "GIS",
+              "AI",
+              "分析"
+            ],
+            "term_count": 8,
+            "hit_count": 6,
+            "ratio": 0.75
+          },
+          {
+            "item": "其目标不是单纯电子制图，而是形成可计算、可协同、可复用的数据资产。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 4,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_001",
+        "question": "道路工程数字化设计经历了哪些主要阶段？",
+        "score": 0.562,
+        "statuses": {
+          "term_supported": 3,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "CAD辅助设计阶段",
+            "status": "term_supported",
+            "term_hits": [
+              "CAD"
+            ],
+            "term_count": 2,
+            "hit_count": 1,
+            "ratio": 0.5
+          },
+          {
+            "item": "BIM正向设计阶段",
+            "status": "term_supported",
+            "term_hits": [
+              "BIM"
+            ],
+            "term_count": 2,
+            "hit_count": 1,
+            "ratio": 0.5
+          },
+          {
+            "item": "BIM+GIS协同设计阶段",
+            "status": "term_supported",
+            "term_hits": [
+              "BIM+GIS"
+            ],
+            "term_count": 2,
+            "hit_count": 1,
+            "ratio": 0.5
+          },
+          {
+            "item": "数字孪生与智能化阶段",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 1,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_003",
+        "question": "CAD阶段的主要技术特征是什么？",
+        "score": 0.362,
+        "statuses": {
+          "term_supported": 1,
+          "missing": 1,
+          "weak": 2
+        },
+        "support": [
+          {
+            "item": "以二维图纸、图元、标注和制图标准为主要表达对象。",
+            "status": "term_supported",
+            "term_hits": [
+              "以二维图纸",
+              "图元",
+              "对象"
+            ],
+            "term_count": 4,
+            "hit_count": 3,
+            "ratio": 0.75
+          },
+          {
+            "item": "主要提升绘图效率、参数计算效率和成果出图规范性。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "典型成果包括平面图、纵断面图、横断面图、表格和DWG/DXF文件。",
+            "status": "weak",
+            "term_hits": [
+              "文件"
+            ],
+            "term_count": 6,
+            "hit_count": 1,
+            "ratio": 0.167
+          },
+          {
+            "item": "局限是缺少构件语义、模型联动和全生命周期数据承接。",
+            "status": "weak",
+            "term_hits": [
+              "承接"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_004",
+        "question": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+        "score": 0.75,
+        "statuses": {
+          "term_supported": 4
+        },
+        "support": [
+          {
+            "item": "价值",
+            "status": "term_supported",
+            "term_hits": [
+              "价值"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          },
+          {
+            "item": "价值",
+            "status": "term_supported",
+            "term_hits": [
+              "价值"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          },
+          {
+            "item": "局限",
+            "status": "term_supported",
+            "term_hits": [
+              "局限"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          },
+          {
+            "item": "局限",
+            "status": "term_supported",
+            "term_hits": [
+              "局限"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_006",
+        "question": "BIM阶段的核心变化是什么？",
+        "score": 0.362,
+        "statuses": {
+          "weak": 2,
+          "term_supported": 1,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "设计对象从二维图纸转向带属性、语义和关系的三维构件模型。",
+            "status": "weak",
+            "term_hits": [
+              "属性"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "设计逻辑从人工绘图转向参数化建模、规则约束和模型联动。",
+            "status": "weak",
+            "term_hits": [
+              "数化建模"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "成果表达从单一图纸扩展为模型、图纸、工程量、属性和交付数据。",
+            "status": "term_supported",
+            "term_hits": [
+              "模型",
+              "图纸",
+              "工程量"
+            ],
+            "term_count": 5,
+            "hit_count": 3,
+            "ratio": 0.6
+          },
+          {
+            "item": "协同方式从文件传递转向模型共享和多专业协同。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_007",
+        "question": "为什么说BIM不是简单的三维模型？",
+        "score": 0.65,
+        "statuses": {
+          "weak": 1,
+          "term_supported": 3
+        },
+        "support": [
+          {
+            "item": "三维模型主要表达几何形态，BIM还表达工程语义和属性信息。",
+            "status": "weak",
+            "term_hits": [
+              "BIM"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "BIM模型包含构件、参数、规则、工程量、阶段信息和协同关系。",
+            "status": "term_supported",
+            "term_hits": [
+              "BIM",
+              "参数",
+              "规则",
+              "工程量"
+            ],
+            "term_count": 6,
+            "hit_count": 4,
+            "ratio": 0.667
+          },
+          {
+            "item": "BIM强调模型与图纸、清单、施工和运维数据之间的联动。",
+            "status": "term_supported",
+            "term_hits": [
+              "BIM",
+              "清单"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "因此，BIM的价值在于信息集成和过程协同，而不仅是可视化。",
+            "status": "term_supported",
+            "term_hits": [
+              "因此",
+              "BIM",
+              "协同"
+            ],
+            "term_count": 5,
+            "hit_count": 3,
+            "ratio": 0.6
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_010",
+        "question": "GIS在现代道路设计中的主要作用是什么？",
+        "score": 0.55,
+        "statuses": {
+          "term_supported": 2,
+          "weak": 2
+        },
+        "support": [
+          {
+            "item": "组织地形、地质、水文、生态、土地利用和交通等空间数据。",
+            "status": "term_supported",
+            "term_hits": [
+              "组织地形",
+              "地质",
+              "水文",
+              "生态"
+            ],
+            "term_count": 5,
+            "hit_count": 4,
+            "ratio": 0.8
+          },
+          {
+            "item": "开展约束识别、缓冲区分析、叠加分析、适宜性评价和路径优化。",
+            "status": "term_supported",
+            "term_hits": [
+              "缓冲区分析",
+              "叠加分析"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "支撑路线走廊选择、方案比选、环境影响分析和风险识别。",
+            "status": "weak",
+            "term_hits": [
+              "方案比选"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "为BIM模型提供真实空间背景和区域尺度决策依据。",
+            "status": "weak",
+            "term_hits": [
+              "BIM"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_011",
+        "question": "BIM+GIS融合主要体现在哪些层次？",
+        "score": 0.188,
+        "statuses": {
+          "term_supported": 1,
+          "missing": 3
+        },
+        "support": [
+          {
+            "item": "数据融合",
+            "status": "term_supported",
+            "term_hits": [
+              "数据融合"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          },
+          {
+            "item": "模型融合",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 1,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "流程融合",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 1,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "决策融合",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 1,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_012",
+        "question": "数字孪生与BIM有什么区别？",
+        "score": 0.362,
+        "statuses": {
+          "weak": 2,
+          "term_supported": 1,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "BIM偏重工程模型、构件属性和设计施工交付信息。",
+            "status": "weak",
+            "term_hits": [
+              "BIM"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "数字孪生在BIM基础上引入实时感知、运行状态和动态更新。",
+            "status": "term_supported",
+            "term_hits": [
+              "数字孪生在",
+              "BIM"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "BIM更多服务设计建造表达，数字孪生强调物理实体与虚拟模型同步。",
+            "status": "weak",
+            "term_hits": [
+              "BIM"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "数字孪生通过仿真预测和反馈控制支撑施工运维和全生命周期管控。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_013",
+        "question": "数字孪生的虚实闭环包括哪些环节？",
+        "score": 0.275,
+        "statuses": {
+          "missing": 2,
+          "term_supported": 1,
+          "weak": 1
+        },
+        "support": [
+          {
+            "item": "物理道路设施通过传感器、监测设备和业务系统采集状态数据。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "感知数据接入虚拟模型，推动BIM+GIS模型动态更新。",
+            "status": "term_supported",
+            "term_hits": [
+              "推动",
+              "BIM+GIS"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "系统利用仿真、预测和AI识别风险、评估状态、推演趋势。",
+            "status": "weak",
+            "term_hits": [
+              "AI"
+            ],
+            "term_count": 6,
+            "hit_count": 1,
+            "ratio": 0.167
+          },
+          {
+            "item": "分析结果反向形成预警、调度、养护或管控建议，反馈到实体道路。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 4,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_015",
+        "question": "道路工程数字化设计的四大核心理念包括哪些？",
+        "score": 0.75,
+        "statuses": {
+          "term_supported": 4
+        },
+        "support": [
+          {
+            "item": "构件化",
+            "status": "term_supported",
+            "term_hits": [
+              "构件化"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          },
+          {
+            "item": "参数化",
+            "status": "term_supported",
+            "term_hits": [
+              "参数化"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          },
+          {
+            "item": "协同化",
+            "status": "term_supported",
+            "term_hits": [
+              "协同化"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          },
+          {
+            "item": "生命周期化",
+            "status": "term_supported",
+            "term_hits": [
+              "生命周期化"
+            ],
+            "term_count": 1,
+            "hit_count": 1,
+            "ratio": 1.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_016",
+        "question": "如何理解构件化理念？",
+        "score": 0.362,
+        "statuses": {
+          "weak": 2,
+          "term_supported": 1,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "构件化把道路工程从抽象线条转化为路基、路面、桥梁、隧道等工程对象。",
+            "status": "weak",
+            "term_hits": [
+              "路面",
+              "桥梁"
+            ],
+            "term_count": 5,
+            "hit_count": 2,
+            "ratio": 0.4
+          },
+          {
+            "item": "每类构件应包含几何、属性、材料、编码、桩号和工程语义。",
+            "status": "term_supported",
+            "term_hits": [
+              "属性",
+              "材料",
+              "编码"
+            ],
+            "term_count": 5,
+            "hit_count": 3,
+            "ratio": 0.6
+          },
+          {
+            "item": "构件化是BIM建模、工程量统计、规则检查和数据交付的基础。",
+            "status": "weak",
+            "term_hits": [
+              "BIM",
+              "建模"
+            ],
+            "term_count": 5,
+            "hit_count": 2,
+            "ratio": 0.4
+          },
+          {
+            "item": "没有构件化，模型难以承载道路工程专业含义。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_017",
+        "question": "如何理解参数化理念？",
+        "score": 0.175,
+        "statuses": {
+          "weak": 2,
+          "missing": 2
+        },
+        "support": [
+          {
+            "item": "参数化通过宽度、坡率、半径、高程、超高等变量控制模型形态。",
+            "status": "weak",
+            "term_hits": [
+              "半径"
+            ],
+            "term_count": 5,
+            "hit_count": 1,
+            "ratio": 0.2
+          },
+          {
+            "item": "参数之间通过规范、模板和约束规则建立关联关系。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "参数变化后，相关模型、图纸、工程量和属性可联动更新。",
+            "status": "weak",
+            "term_hits": [
+              "图纸"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "参数化提高设计变更效率，也减少重复绘图和人工同步错误。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_018",
+        "question": "如何理解协同化理念？",
+        "score": 0.275,
+        "statuses": {
+          "term_supported": 1,
+          "weak": 1,
+          "missing": 2
+        },
+        "support": [
+          {
+            "item": "协同化强调路线、路基、桥隧、交通、地质、环境等多专业共享信息。",
+            "status": "term_supported",
+            "term_hits": [
+              "路基",
+              "桥隧",
+              "交通",
+              "地质"
+            ],
+            "term_count": 6,
+            "hit_count": 4,
+            "ratio": 0.667
+          },
+          {
+            "item": "协同基础包括统一数据标准、公共数据环境、模型版本和接口机制。",
+            "status": "weak",
+            "term_hits": [
+              "公共数据环境"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "协同目标是减少信息孤岛、重复录入和专业冲突。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "协同化使道路设计从单专业串行工作转向多专业联动工作。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_019",
+        "question": "如何理解生命周期化理念？",
+        "score": 0.188,
+        "statuses": {
+          "missing": 3,
+          "term_supported": 1
+        },
+        "support": [
+          {
+            "item": "生命周期化要求设计数据不只服务出图，也服务施工、运维和资产管理。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 4,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "设计阶段应形成可继承的模型、属性、编码、工程量和交付数据。",
+            "status": "term_supported",
+            "term_hits": [
+              "属性",
+              "编码"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "施工阶段可利用模型进行进度、质量、成本和现场协同管理。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "运维阶段可结合监测数据和数字孪生开展状态评估与养护决策。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_076",
+        "question": "如何理解四大理念的关系？",
+        "score": 0.35,
+        "statuses": {
+          "weak": 4
+        },
+        "support": [
+          {
+            "item": "构件化提供工程对象基础，解决“设计什么”的问题。",
+            "status": "weak",
+            "term_hits": [
+              "解决"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "参数化提供生成和联动机制，解决“如何自动变化”的问题。",
+            "status": "weak",
+            "term_hits": [
+              "解决"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "协同化提供多专业共享环境，解决“如何共同工作”的问题。",
+            "status": "weak",
+            "term_hits": [
+              "解决"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "生命周期化提供数据延续目标，解决“数据如何持续发挥价值”的问题。",
+            "status": "weak",
+            "term_hits": [
+              "解决"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
+        "score": 0.362,
+        "statuses": {
+          "weak": 2,
+          "term_supported": 1,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "CAD主要承担二维绘图、成果表达和标准图纸输出。",
+            "status": "weak",
+            "term_hits": [
+              "CAD"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "BIM主要承担三维构件建模、属性集成、工程量统计和协同交付。",
+            "status": "term_supported",
+            "term_hits": [
+              "BIM",
+              "属性集成"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "GIS主要承担空间数据组织、环境约束分析和路线方案决策支持。",
+            "status": "weak",
+            "term_hits": [
+              "GIS"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "数字孪生主要承担实时感知、动态映射、仿真预测和运行反馈。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_077",
+        "question": "如何理解CAD平台功能定位？",
+        "score": 0.362,
+        "statuses": {
+          "term_supported": 1,
+          "missing": 1,
+          "weak": 2
+        },
+        "support": [
+          {
+            "item": "CAD平台用于二维工程图形绘制、编辑、标注和排版出图。",
+            "status": "term_supported",
+            "term_hits": [
+              "CAD",
+              "编辑"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "在道路工程中主要服务平面图、纵断面图、横断面图和表格成果。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "CAD适合标准化制图和成果表达，但不宜承担全生命周期数据管理主任务。",
+            "status": "weak",
+            "term_hits": [
+              "CAD"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "在数字化体系中，CAD仍是图纸交付和工程表达的重要基础工具。",
+            "status": "weak",
+            "term_hits": [
+              "CAD"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_078",
+        "question": "如何理解BIM平台功能定位？",
+        "score": 0.45,
+        "statuses": {
+          "weak": 3,
+          "term_supported": 1
+        },
+        "support": [
+          {
+            "item": "BIM平台用于构建带几何、属性和语义的道路三维模型。",
+            "status": "weak",
+            "term_hits": [
+              "BIM"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "支持参数化建模、构件关联、工程量统计、冲突检查和图模一致。",
+            "status": "weak",
+            "term_hits": [
+              "构件关联"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "BIM模型可为施工组织、运维管理和数字孪生提供基础数据。",
+            "status": "term_supported",
+            "term_hits": [
+              "BIM",
+              "础数据"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "BIM平台是从图纸导向转向模型驱动的核心支撑。",
+            "status": "weak",
+            "term_hits": [
+              "BIM"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_079",
+        "question": "如何理解GIS平台功能定位？",
+        "score": 0.55,
+        "statuses": {
+          "term_supported": 2,
+          "weak": 2
+        },
+        "support": [
+          {
+            "item": "GIS平台用于管理和分析地形、地质、水文、生态、用地和交通等空间数据。",
+            "status": "term_supported",
+            "term_hits": [
+              "GIS",
+              "地质",
+              "水文",
+              "生态"
+            ],
+            "term_count": 6,
+            "hit_count": 4,
+            "ratio": 0.667
+          },
+          {
+            "item": "支持缓冲区、叠加、适宜性、路径和风险等空间分析。",
+            "status": "term_supported",
+            "term_hits": [
+              "叠加",
+              "适宜性"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "GIS为道路选线、方案比选和环境约束识别提供区域尺度依据。",
+            "status": "weak",
+            "term_hits": [
+              "GIS"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "GIS与BIM融合后，可实现宏观空间分析与微观工程模型协同。",
+            "status": "weak",
+            "term_hits": [
+              "GIS",
+              "BIM"
+            ],
+            "term_count": 5,
+            "hit_count": 2,
+            "ratio": 0.4
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_080",
+        "question": "如何理解数字孪生平台功能定位？",
+        "score": 0.275,
+        "statuses": {
+          "weak": 1,
+          "missing": 2,
+          "term_supported": 1
+        },
+        "support": [
+          {
+            "item": "数字孪生平台以BIM+GIS模型为基础，接入实时监测和运行数据。",
+            "status": "weak",
+            "term_hits": [
+              "BIM+GIS"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "通过动态映射反映实体道路设施的状态变化。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "结合AI和仿真模型开展风险识别、状态预测和运行推演。",
+            "status": "term_supported",
+            "term_hits": [
+              "结合",
+              "AI"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          },
+          {
+            "item": "将分析结果反馈给施工、养护、交通管理和应急决策。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_025",
+        "question": "规则—模型—数据路径如何理解？",
+        "score": 0.362,
+        "statuses": {
+          "missing": 1,
+          "weak": 2,
+          "term_supported": 1
+        },
+        "support": [
+          {
+            "item": "规则是设计规范、参数约束、构件模板和质量控制要求的数字化表达。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 4,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "模型是规则作用下形成的道路几何、构件、属性和空间关系载体。",
+            "status": "weak",
+            "term_hits": [
+              "构件"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "数据是模型在设计、施工、运维中持续产生和传递的信息资产。",
+            "status": "weak",
+            "term_hits": [
+              "施工"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "三者共同支撑从经验驱动向规则化、模型化、数据化设计转变。",
+            "status": "term_supported",
+            "term_hits": [
+              "规则化",
+              "模型化"
+            ],
+            "term_count": 4,
+            "hit_count": 2,
+            "ratio": 0.5
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_027",
+        "question": "以模型为核心的数字化设计流程包括哪些步骤？",
+        "score": 0.55,
+        "statuses": {
+          "term_supported": 2,
+          "weak": 2
+        },
+        "support": [
+          {
+            "item": "前期通过GIS整合地形、地质、生态、用地等空间数据，辅助选线和方案比选。",
+            "status": "term_supported",
+            "term_hits": [
+              "GIS",
+              "整合地形",
+              "地质",
+              "生态"
+            ],
+            "term_count": 7,
+            "hit_count": 4,
+            "ratio": 0.571
+          },
+          {
+            "item": "中期通过BIM进行路线、路基、桥隧、附属设施等参数化建模。",
+            "status": "term_supported",
+            "term_hits": [
+              "BIM",
+              "进行路线",
+              "路基",
+              "桥隧"
+            ],
+            "term_count": 6,
+            "hit_count": 4,
+            "ratio": 0.667
+          },
+          {
+            "item": "协同阶段通过统一模型开展多专业协同、冲突检查和规则校核。",
+            "status": "weak",
+            "term_hits": [
+              "多专业协同"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "交付阶段由模型驱动图纸、工程量、清单和标准化数据成果输出。",
+            "status": "weak",
+            "term_hits": [
+              "工程量"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_032",
+        "question": "数据驱动的设计控制机制包括哪些方面？",
+        "score": 0.262,
+        "statuses": {
+          "weak": 3,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "把规范、标准、约束条件转化为可检查、可计算的数据规则。",
+            "status": "weak",
+            "term_hits": [
+              "标准"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "把构件属性、空间位置、参数关系统一纳入模型数据管理。",
+            "status": "weak",
+            "term_hits": [
+              "管理"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "通过模型联动和规则校核控制设计质量与成果一致性。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "通过数据交付支撑施工、运维和数字孪生阶段的信息延续。",
+            "status": "weak",
+            "term_hits": [
+              "延续"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_026",
+        "question": "传统道路设计流程有哪些短板？",
+        "score": 0.087,
+        "statuses": {
+          "missing": 3,
+          "weak": 1
+        },
+        "support": [
+          {
+            "item": "以图纸文件为主要成果，信息分散在不同图纸、表格和专业文件中。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "设计变更需要人工同步多个成果，容易出现不一致。",
+            "status": "weak",
+            "term_hits": [
+              "成果"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "二维表达难以完整反映三维空间关系和复杂工程对象。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "数据难以持续服务施工、运维和全生命周期管理。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_031",
+        "question": "模型驱动成果输出包括哪些内容？",
+        "score": 0.087,
+        "statuses": {
+          "missing": 3,
+          "weak": 1
+        },
+        "support": [
+          {
+            "item": "由模型自动或半自动生成平面、纵断面、横断面等图纸成果。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "由模型属性和构件信息提取工程量、清单和统计表。",
+            "status": "weak",
+            "term_hits": [
+              "工程量"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "通过统一模型保证图纸、表格和工程数据之间的一致性。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "输出成果不仅面向审查和施工，也可作为后续管理的数据基础。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_030",
+        "question": "为什么模型协同能提高设计质量？",
+        "score": 0.087,
+        "statuses": {
+          "weak": 1,
+          "missing": 3
+        },
+        "support": [
+          {
+            "item": "统一模型可以减少不同专业之间的信息重复录入和版本冲突。",
+            "status": "weak",
+            "term_hits": [
+              "冲突"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "模型联动能及时反映路线、纵断面、横断面和构件属性变化。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "冲突检查和规则校核有助于发现空间碰撞、约束不满足和成果不一致。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "协同环境能提升多专业沟通效率和设计成果一致性。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_086",
+        "question": "如何理解接口与数据标准体系？",
+        "score": 0.188,
+        "statuses": {
+          "missing": 3,
+          "term_supported": 1
+        },
+        "support": [
+          {
+            "item": "接口和标准规定不同平台之间的数据格式、属性字段和交换规则。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "它们支撑CAD、BIM、GIS和数字孪生平台之间的信息流转。",
+            "status": "term_supported",
+            "term_hits": [
+              "CAD",
+              "BIM",
+              "GIS",
+              "流转"
+            ],
+            "term_count": 6,
+            "hit_count": 4,
+            "ratio": 0.667
+          },
+          {
+            "item": "统一标准可减少模型转换丢失、语义不一致和重复建模问题。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 2,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "没有标准体系，多平台协同容易形成新的数据孤岛。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_034",
+        "question": "如何理解道路工程数字化设计的发展主线？",
+        "score": 0.463,
+        "statuses": {
+          "missing": 1,
+          "term_supported": 2,
+          "weak": 1
+        },
+        "support": [
+          {
+            "item": "表达对象从二维图纸转向三维构件模型，再转向模型与数据共同驱动。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 3,
+            "hit_count": 0,
+            "ratio": 0.0
+          },
+          {
+            "item": "技术支撑从CAD绘图扩展到BIM建模、GIS空间分析、AI预测和数字孪生。",
+            "status": "term_supported",
+            "term_hits": [
+              "CAD",
+              "BIM",
+              "建模",
+              "GIS",
+              "空间分析",
+              "AI"
+            ],
+            "term_count": 9,
+            "hit_count": 6,
+            "ratio": 0.667
+          },
+          {
+            "item": "成果交付从图纸文件扩展为模型、属性、工程量、规则和数据资产。",
+            "status": "term_supported",
+            "term_hits": [
+              "模型",
+              "属性",
+              "工程量"
+            ],
+            "term_count": 5,
+            "hit_count": 3,
+            "ratio": 0.6
+          },
+          {
+            "item": "应用范围从设计阶段延伸到施工、运维和全生命周期管理。",
+            "status": "weak",
+            "term_hits": [
+              "施工"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          }
+        ]
+      },
+      {
+        "answer_id": "ans_ch01_035",
+        "question": "如何理解设计范式转变？",
+        "score": 0.262,
+        "statuses": {
+          "weak": 3,
+          "missing": 1
+        },
+        "support": [
+          {
+            "item": "图纸中心强调二维表达和成果出图，模型核心强调对象、属性和关系。",
+            "status": "weak",
+            "term_hits": [
+              "果出图"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "图纸中心依赖人工维护一致性，模型核心通过参数和规则实现联动。",
+            "status": "weak",
+            "term_hits": [
+              "现联动"
+            ],
+            "term_count": 3,
+            "hit_count": 1,
+            "ratio": 0.333
+          },
+          {
+            "item": "图纸中心成果主要服务设计审查和施工图交付，模型核心成果可服务全生命周期。",
+            "status": "weak",
+            "term_hits": [
+              "周期"
+            ],
+            "term_count": 4,
+            "hit_count": 1,
+            "ratio": 0.25
+          },
+          {
+            "item": "范式转变的本质是从静态表达转向可计算、可协同、可更新的数据载体。",
+            "status": "missing",
+            "term_hits": [],
+            "term_count": 4,
+            "hit_count": 0,
+            "ratio": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "new_kps": [
+    {
+      "kp_id": "kp_ch01_075",
+      "title": "CAD在数字化设计体系中的持续作用",
+      "statuses": {
+        "term_supported": 1,
+        "weak": 3
+      },
+      "support": [
+        {
+          "item": "CAD在数字化设计体系中的持续作用",
+          "status": "term_supported",
+          "term_hits": [
+            "CAD",
+            "作用"
+          ],
+          "term_count": 3,
+          "hit_count": 2,
+          "ratio": 0.667
+        },
+        {
+          "item": "CAD在现代道路数字化设计中仍承担二维图形表达、图纸深化、标注排版和成果交付等基础作用。",
+          "status": "weak",
+          "term_hits": [
+            "CAD",
+            "作用"
+          ],
+          "term_count": 6,
+          "hit_count": 2,
+          "ratio": 0.333
+        },
+        {
+          "item": "BIM、GIS和数字孪生并不意味着CAD被取消。CAD的核心价值在于标准化图纸表达、细部图形编辑、标注与出图，许多模型化设计成果仍需转化为图纸成果供审查、施工和归档使用。",
+          "status": "weak",
+          "term_hits": [
+            "BIM",
+            "GIS",
+            "CAD",
+            "CAD",
+            "表达"
+          ],
+          "term_count": 13,
+          "hit_count": 5,
+          "ratio": 0.385
+        },
+        {
+          "item": "帮助学生理解CAD与BIM不是简单替代关系，而是成果表达与模型驱动之间的协同关系。",
+          "status": "weak",
+          "term_hits": [
+            "CAD",
+            "BIM"
+          ],
+          "term_count": 6,
+          "hit_count": 2,
+          "ratio": 0.333
+        }
+      ]
+    },
+    {
+      "kp_id": "kp_ch01_076",
+      "title": "前期空间分析软件的功能分工",
+      "statuses": {
+        "missing": 1,
+        "term_supported": 2,
+        "weak": 1
+      },
+      "support": [
+        {
+          "item": "前期空间分析软件的功能分工",
+          "status": "missing",
+          "term_hits": [],
+          "term_count": 1,
+          "hit_count": 0,
+          "ratio": 0.0
+        },
+        {
+          "item": "前期空间分析软件主要承担地形、生态、用地、灾害等空间约束数据组织与路线走廊分析任务。",
+          "status": "term_supported",
+          "term_hits": [
+            "地形",
+            "生态",
+            "用地"
+          ],
+          "term_count": 6,
+          "hit_count": 3,
+          "ratio": 0.5
+        },
+        {
+          "item": "在道路数字化设计早期阶段，GIS平台可用于组织DEM、遥感影像、土地利用、生态红线和地质灾害等数据，并进行缓冲区、叠加分析、适宜性评价和方案比选。",
+          "status": "term_supported",
+          "term_hits": [
+            "GIS",
+            "DEM",
+            "遥感影像",
+            "土地利用",
+            "叠加分析"
+          ],
+          "term_count": 10,
+          "hit_count": 5,
+          "ratio": 0.5
+        },
+        {
+          "item": "支撑路线方案从经验判断向空间数据约束和多因素比选转变。",
+          "status": "weak",
+          "term_hits": [
+            "转变"
+          ],
+          "term_count": 3,
+          "hit_count": 1,
+          "ratio": 0.333
+        }
+      ]
+    },
+    {
+      "kp_id": "kp_ch01_077",
+      "title": "BIM建模软件的功能分工",
+      "statuses": {
+        "term_supported": 3,
+        "missing": 1
+      },
+      "support": [
+        {
+          "item": "BIM建模软件的功能分工",
+          "status": "term_supported",
+          "term_hits": [
+            "BIM"
+          ],
+          "term_count": 2,
+          "hit_count": 1,
+          "ratio": 0.5
+        },
+        {
+          "item": "BIM建模软件主要承担道路构件建模、参数化建模、模型协同、工程量统计和图模一致成果输出等任务。",
+          "status": "term_supported",
+          "term_hits": [
+            "BIM",
+            "建模",
+            "参数化建模",
+            "模型协同"
+          ],
+          "term_count": 7,
+          "hit_count": 4,
+          "ratio": 0.571
+        },
+        {
+          "item": "在道路数字化设计中，OpenRoads、Civil 3D、CNCCBIM、同豪RoadBIM等平台可用于路线、路基、桥涵、隧道等构件的三维建模与参数化管理。",
+          "status": "term_supported",
+          "term_hits": [
+            "OpenRoads",
+            "Civil",
+            "CNCCBIM",
+            "同豪",
+            "RoadBIM",
+            "路基",
+            "桥涵"
+          ],
+          "term_count": 11,
+          "hit_count": 7,
+          "ratio": 0.636
+        },
+        {
+          "item": "支撑道路设计从图纸成果转向模型成果和数据资产。",
+          "status": "missing",
+          "term_hits": [],
+          "term_count": 2,
+          "hit_count": 0,
+          "ratio": 0.0
+        }
+      ]
+    },
+    {
+      "kp_id": "kp_ch01_078",
+      "title": "CAD出图与成果深化软件的功能分工",
+      "statuses": {
+        "term_supported": 1,
+        "weak": 2,
+        "missing": 1
+      },
+      "support": [
+        {
+          "item": "CAD出图与成果深化软件的功能分工",
+          "status": "term_supported",
+          "term_hits": [
+            "CAD",
+            "分工"
+          ],
+          "term_count": 3,
+          "hit_count": 2,
+          "ratio": 0.667
+        },
+        {
+          "item": "CAD出图与成果深化软件主要服务于二维图纸编辑、标准图表输出、标注排版和施工图成果整理。",
+          "status": "weak",
+          "term_hits": [
+            "CAD"
+          ],
+          "term_count": 5,
+          "hit_count": 1,
+          "ratio": 0.2
+        },
+        {
+          "item": "AutoCAD、纬地、EICAD等软件在数字化设计体系中主要承担标准图纸绘制、设计成果整理、图表输出和传统成果交付接口等功能。",
+          "status": "weak",
+          "term_hits": [
+            "AutoCAD",
+            "纬地",
+            "EICAD"
+          ],
+          "term_count": 8,
+          "hit_count": 3,
+          "ratio": 0.375
+        },
+        {
+          "item": "保证模型化设计成果能够满足审查、施工和归档对图纸成果的需求。",
+          "status": "missing",
+          "term_hits": [],
+          "term_count": 3,
+          "hit_count": 0,
+          "ratio": 0.0
+        }
+      ]
+    },
+    {
+      "kp_id": "kp_ch01_079",
+      "title": "数字化设计不是简单的软件升级",
+      "statuses": {
+        "term_supported": 2,
+        "weak": 1,
+        "missing": 1
+      },
+      "support": [
+        {
+          "item": "数字化设计不是简单的软件升级",
+          "status": "term_supported",
+          "term_hits": [
+            "升级"
+          ],
+          "term_count": 2,
+          "hit_count": 1,
+          "ratio": 0.5
+        },
+        {
+          "item": "道路工程数字化设计的本质不是换用新软件，而是设计对象、数据组织、协同方式和交付目标的系统性转变。",
+          "status": "weak",
+          "term_hits": [
+            "数据组织"
+          ],
+          "term_count": 6,
+          "hit_count": 1,
+          "ratio": 0.167
+        },
+        {
+          "item": "从CAD到BIM、BIM+GIS和数字孪生，变化的核心不只是工具界面，而是从图纸图元走向构件模型、空间数据、规则约束和全生命周期数据资产。",
+          "status": "term_supported",
+          "term_hits": [
+            "CAD",
+            "BIM",
+            "BIM+GIS",
+            "和数字孪生",
+            "空间数据",
+            "资产"
+          ],
+          "term_count": 9,
+          "hit_count": 6,
+          "ratio": 0.667
+        },
+        {
+          "item": "帮助学生理解数字化转型的深层逻辑，避免把数字化等同于软件应用培训。",
+          "status": "missing",
+          "term_hits": [],
+          "term_count": 4,
+          "hit_count": 0,
+          "ratio": 0.0
+        }
+      ]
+    }
+  ],
+  "canonical_qa_pairs": {
+    "count": 382,
+    "answers_covered": 112,
+    "top_answers": [
+      [
+        "ans_ch01_014",
+        10
+      ],
+      [
+        "ans_ch01_001",
+        10
+      ],
+      [
+        "ans_ch01_003",
+        10
+      ],
+      [
+        "ans_ch01_004",
+        10
+      ],
+      [
+        "ans_ch01_006",
+        10
+      ],
+      [
+        "ans_ch01_007",
+        10
+      ],
+      [
+        "ans_ch01_010",
+        10
+      ],
+      [
+        "ans_ch01_011",
+        10
+      ],
+      [
+        "ans_ch01_012",
+        10
+      ],
+      [
+        "ans_ch01_013",
+        10
+      ],
+      [
+        "ans_ch01_015",
+        10
+      ],
+      [
+        "ans_ch01_016",
+        10
+      ],
+      [
+        "ans_ch01_017",
+        10
+      ],
+      [
+        "ans_ch01_018",
+        10
+      ],
+      [
+        "ans_ch01_019",
+        10
+      ]
+    ]
+  },
+  "answer_card_changes": {
+    "count": 112,
+    "samples": [
+      {
+        "answer_id": "ans_ch01_001",
+        "question": "道路工程数字化设计经历了哪些主要阶段？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 6,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_002",
+        "question": "为什么说道路数字化设计不是简单的软件升级？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_003",
+        "question": "CAD阶段的主要技术特征是什么？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_004",
+        "question": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_005",
+        "question": "CAD图元和BIM构件有什么本质区别？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_006",
+        "question": "BIM阶段的核心变化是什么？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 3,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_007",
+        "question": "为什么说BIM不是简单的三维模型？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_008",
+        "question": "道路BIM与一般建筑BIM相比需要特别适应哪些工程特点？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_009",
+        "question": "道路BIM推广面临哪些主要挑战？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_010",
+        "question": "GIS在现代道路设计中的主要作用是什么？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_011",
+        "question": "BIM+GIS融合主要体现在哪些层次？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_012",
+        "question": "数字孪生与BIM有什么区别？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_013",
+        "question": "数字孪生的虚实闭环包括哪些环节？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_014",
+        "question": "什么是道路工程数字化设计？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 6,
+        "answer_points_count": 3
+      },
+      {
+        "answer_id": "ans_ch01_015",
+        "question": "道路工程数字化设计的四大核心理念包括哪些？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 6,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_016",
+        "question": "如何理解构件化理念？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_017",
+        "question": "如何理解参数化理念？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_018",
+        "question": "如何理解协同化理念？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_019",
+        "question": "如何理解生命周期化理念？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_020",
+        "question": "CAD、BIM、GIS和数字孪生的功能定位有什么不同？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_021",
+        "question": "为什么CAD在数字化设计体系中仍然重要？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_022",
+        "question": "AI在道路工程数字化设计体系中的角色是什么？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_023",
+        "question": "什么是空间—构件协同？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_024",
+        "question": "二维、三维和全息表达分别指什么？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_025",
+        "question": "规则—模型—数据路径如何理解？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_026",
+        "question": "传统道路设计流程有哪些短板？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_027",
+        "question": "以模型为核心的数字化设计流程包括哪些步骤？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 5,
+        "answer_points_count": 5
+      },
+      {
+        "answer_id": "ans_ch01_028",
+        "question": "GIS空间选线阶段需要整合哪些数据？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_029",
+        "question": "BIM参数化建模阶段主要做什么？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_030",
+        "question": "为什么模型协同能提高设计质量？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_031",
+        "question": "模型驱动成果输出包括哪些内容？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 3,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_032",
+        "question": "数据驱动的设计控制机制包括哪些方面？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 4,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_033",
+        "question": "第一章中典型软件工具如何分工？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_034",
+        "question": "如何理解道路工程数字化设计的发展主线？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 6,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_035",
+        "question": "如何理解设计范式转变？",
+        "fields": [
+          "student_question_patterns",
+          "answer_points",
+          "concise_answer",
+          "expanded_answer",
+          "must_include",
+          "avoid_content",
+          "evidence_chunks"
+        ],
+        "patterns_delta": 6,
+        "answer_points_count": 4
+      },
+      {
+        "answer_id": "ans_ch01_036",
+        "question": "如何理解CAD辅助设计阶段？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 3
+      },
+      {
+        "answer_id": "ans_ch01_037",
+        "question": "如何理解CAD图纸中心设计？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 3
+      },
+      {
+        "answer_id": "ans_ch01_038",
+        "question": "如何理解CAD图元与工程语义差异？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 3
+      },
+      {
+        "answer_id": "ans_ch01_039",
+        "question": "如何理解CAD阶段的主要任务？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 3
+      },
+      {
+        "answer_id": "ans_ch01_040",
+        "question": "如何理解CAD阶段的局限性？",
+        "fields": [
+          "evidence_chunks"
+        ],
+        "patterns_delta": 0,
+        "answer_points_count": 3
+      }
+    ]
+  }
+}

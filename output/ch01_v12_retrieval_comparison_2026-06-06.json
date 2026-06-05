@@ -1,0 +1,5411 @@
+{
+  "qa_path": "C:\\Users\\Michael\\Downloads\\第1章_QA检索测试集_v1.2.json",
+  "current_package": "data\\raw\\ch01\\第1章_道路工程数字化设计概述_知识库_v1.0完备版.json",
+  "v12_package": "C:\\Users\\Michael\\Downloads\\第1章_道路工程数字化设计概述_知识库_v1.2精准问答校准版.json",
+  "results": {
+    "current_v1_0": [
+      {
+        "test_id": "rt_ch01_0001",
+        "question": "什么是道路工程数字化设计？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0002",
+        "question": "什么是道路工程数字化设计",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0003",
+        "question": "什么是道路数字化设计？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0004",
+        "question": "什么是道路工程数字设计？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0005",
+        "question": "道路工程数字化设计的定义是什么？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0006",
+        "question": "道路工程数字化设计的定义包括哪些内容？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0007",
+        "question": "请按条目说明道路工程数字化设计的定义",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0008",
+        "question": "教材中如何解释道路工程数字化设计的定义？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0009",
+        "question": "第一章中道路工程数字化设计的定义怎么理解？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0010",
+        "question": "道路工程数字化设计的定义怎么理解？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0011",
+        "question": "道路工程数字化设计经历了哪些主要阶段？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          225.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0012",
+        "question": "道路数字化设计经历了哪些阶段？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_002",
+          "ans_ch01_014"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0013",
+        "question": "CAD到BIM再到数字孪生怎么演进？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_020",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          95.0,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0014",
+        "question": "第一章讲的数字化发展历程是什么？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_088",
+          "ans_ch01_108"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0015",
+        "question": "道路工程数字化设计的发展阶段是什么？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0016",
+        "question": "道路工程数字化设计的发展阶段包括哪些内容？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0017",
+        "question": "请按条目说明道路工程数字化设计的发展阶段",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0018",
+        "question": "教材中如何解释道路工程数字化设计的发展阶段？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0019",
+        "question": "第一章中道路工程数字化设计的发展阶段怎么理解？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0020",
+        "question": "道路工程数字化设计的发展阶段怎么理解？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0021",
+        "question": "CAD阶段的主要技术特征是什么？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_039",
+          "ans_ch01_108"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0022",
+        "question": "CAD阶段的主要技术特征是什么",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_039",
+          "ans_ch01_108"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0023",
+        "question": "CAD阶段的技术特征是什么？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          84.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0024",
+        "question": "CAD阶段的技术特征包括哪些内容？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_031",
+        "top3": [
+          "ans_ch01_031",
+          "ans_ch01_003",
+          "ans_ch01_108"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          90.0,
+          85.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0025",
+        "question": "请按条目说明CAD阶段的技术特征",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          90.0,
+          84.0,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0026",
+        "question": "教材中如何解释CAD阶段的技术特征？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          90.0,
+          84.0,
+          60.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0027",
+        "question": "第一章中CAD阶段的技术特征怎么理解？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_108",
+        "top3": [
+          "ans_ch01_108",
+          "ans_ch01_003",
+          "ans_ch01_039"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          91.5,
+          90.0,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0028",
+        "question": "CAD阶段的技术特征怎么理解？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_108",
+        "top3": [
+          "ans_ch01_108",
+          "ans_ch01_003",
+          "ans_ch01_039"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          91.5,
+          90.0,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0029",
+        "question": "CAD阶段的技术特征的要点是什么？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          84.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0030",
+        "question": "请用教材观点说明CAD阶段的技术特征。",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          90.0,
+          84.0,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0031",
+        "question": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_029",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          67.5,
+          53.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0032",
+        "question": "CAD阶段主要解决了什么问题，又存在哪些局限",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_029",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          67.5,
+          53.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0033",
+        "question": "CAD阶段的价值与局限是什么？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_048",
+        "top3": [
+          "ans_ch01_048",
+          "ans_ch01_040",
+          "ans_ch01_003"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          105.0,
+          75.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0034",
+        "question": "CAD阶段的价值与局限包括哪些内容？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_031",
+        "top3": [
+          "ans_ch01_031",
+          "ans_ch01_048",
+          "ans_ch01_013"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          105.0,
+          82.5,
+          60.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0035",
+        "question": "请按条目说明CAD阶段的价值与局限",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_048",
+        "top3": [
+          "ans_ch01_048",
+          "ans_ch01_040",
+          "ans_ch01_003"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          82.5,
+          52.5,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0036",
+        "question": "教材中如何解释CAD阶段的价值与局限？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_048",
+        "top3": [
+          "ans_ch01_048",
+          "ans_ch01_040",
+          "ans_ch01_039"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          97.5,
+          67.5,
+          60.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0037",
+        "question": "第一章中CAD阶段的价值与局限怎么理解？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_048",
+        "top3": [
+          "ans_ch01_048",
+          "ans_ch01_040",
+          "ans_ch01_039"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          105.0,
+          97.5,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0038",
+        "question": "CAD阶段的价值与局限怎么理解？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_048",
+        "top3": [
+          "ans_ch01_048",
+          "ans_ch01_040",
+          "ans_ch01_039"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          105.0,
+          97.5,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0039",
+        "question": "CAD阶段的价值与局限的要点是什么？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_048",
+        "top3": [
+          "ans_ch01_048",
+          "ans_ch01_040",
+          "ans_ch01_003"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          105.0,
+          75.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0040",
+        "question": "请用教材观点说明CAD阶段的价值与局限。",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_048",
+        "top3": [
+          "ans_ch01_048",
+          "ans_ch01_040",
+          "ans_ch01_003"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          82.5,
+          52.5,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0041",
+        "question": "BIM阶段的核心变化是什么？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_100"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0042",
+        "question": "BIM阶段的核心变化是什么",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_100"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0043",
+        "question": "BIM阶段的核心变化包括哪些内容？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_031",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          69.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0044",
+        "question": "请按条目说明BIM阶段的核心变化",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          45.0,
+          44.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0045",
+        "question": "教材中如何解释BIM阶段的核心变化？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          60.0,
+          52.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0046",
+        "question": "第一章中BIM阶段的核心变化怎么理解？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_100"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          90.0,
+          84.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0047",
+        "question": "BIM阶段的核心变化怎么理解？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_100"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          355.0,
+          90.0,
+          84.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0048",
+        "question": "BIM阶段的核心变化的要点是什么？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_003"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          67.5,
+          60.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0049",
+        "question": "请用教材观点说明BIM阶段的核心变化。",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          45.0,
+          44.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0050",
+        "question": "关于BIM阶段的核心变化，考试应该怎么答？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_108",
+          "ans_ch01_048"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          61.5,
+          52.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0051",
+        "question": "为什么说BIM不是简单的三维模型？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_002",
+          "ans_ch01_044"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0052",
+        "question": "为什么说BIM不是简单的三维模型",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_002",
+          "ans_ch01_044"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0053",
+        "question": "BIM不是简单三维模型是什么？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_072"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          90.0,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0054",
+        "question": "BIM不是简单三维模型包括哪些内容？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_031",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          69.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0055",
+        "question": "请按条目说明BIM不是简单三维模型",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0056",
+        "question": "教材中如何解释BIM不是简单三维模型？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          82.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0057",
+        "question": "第一章中BIM不是简单三维模型怎么理解？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_072"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0058",
+        "question": "BIM不是简单三维模型怎么理解？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_072"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0059",
+        "question": "BIM不是简单三维模型的要点是什么？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          69.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0060",
+        "question": "请用教材观点说明BIM不是简单三维模型。",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0061",
+        "question": "GIS在现代道路设计中的主要作用是什么？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0062",
+        "question": "GIS在现代道路设计中的主要作用是什么",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0063",
+        "question": "GIS在道路设计中的作用是什么？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0064",
+        "question": "GIS在道路设计中的作用包括哪些内容？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0065",
+        "question": "请按条目说明GIS在道路设计中的作用",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0066",
+        "question": "教材中如何解释GIS在道路设计中的作用？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0067",
+        "question": "第一章中GIS在道路设计中的作用怎么理解？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_087"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0068",
+        "question": "GIS在道路设计中的作用怎么理解？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_087"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0069",
+        "question": "GIS在道路设计中的作用的要点是什么？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0070",
+        "question": "请用教材观点说明GIS在道路设计中的作用。",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0071",
+        "question": "BIM+GIS融合主要体现在哪些层次？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_112",
+          "ans_ch01_004"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          99.0,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0072",
+        "question": "BIM+GIS融合主要体现在哪些层次",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_112",
+          "ans_ch01_004"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          99.0,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0073",
+        "question": "BIM+GIS融合层次是什么？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_054",
+        "top3": [
+          "ans_ch01_054",
+          "ans_ch01_112",
+          "ans_ch01_050"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          52.5,
+          46.5,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0074",
+        "question": "BIM+GIS融合层次包括哪些内容？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_031",
+        "top3": [
+          "ans_ch01_031",
+          "ans_ch01_013",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          105.0,
+          60.0,
+          60.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0075",
+        "question": "请按条目说明BIM+GIS融合层次",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_020",
+          "ans_ch01_054"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          37.5,
+          35.0,
+          30.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0076",
+        "question": "教材中如何解释BIM+GIS融合层次？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_054",
+        "top3": [
+          "ans_ch01_054",
+          "ans_ch01_011",
+          "ans_ch01_050"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          45.0,
+          37.5,
+          37.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0077",
+        "question": "第一章中BIM+GIS融合层次怎么理解？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_054",
+        "top3": [
+          "ans_ch01_054",
+          "ans_ch01_050",
+          "ans_ch01_055"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          75.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0078",
+        "question": "BIM+GIS融合层次怎么理解？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_054",
+        "top3": [
+          "ans_ch01_054",
+          "ans_ch01_050",
+          "ans_ch01_055"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          75.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0079",
+        "question": "BIM+GIS融合层次的要点是什么？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_054",
+        "top3": [
+          "ans_ch01_054",
+          "ans_ch01_112",
+          "ans_ch01_050"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          52.5,
+          46.5,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0080",
+        "question": "请用教材观点说明BIM+GIS融合层次。",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_020",
+          "ans_ch01_054"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          37.5,
+          35.0,
+          30.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0081",
+        "question": "数字孪生与BIM有什么区别？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_020",
+          "ans_ch01_005"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          110.0,
+          91.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0082",
+        "question": "数字孪生与BIM有什么区别",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_020",
+          "ans_ch01_005"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          110.0,
+          91.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0083",
+        "question": "数字孪生与BIM的区别是什么？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_044",
+          "ans_ch01_107"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          112.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0084",
+        "question": "数字孪生与BIM的区别包括哪些内容？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_013",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0085",
+        "question": "请按条目说明数字孪生与BIM的区别",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_020",
+          "ans_ch01_044"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          127.5,
+          87.5,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0086",
+        "question": "教材中如何解释数字孪生与BIM的区别？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_058",
+          "ans_ch01_059"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          127.5,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0087",
+        "question": "第一章中数字孪生与BIM的区别怎么理解？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_044",
+        "top3": [
+          "ans_ch01_044",
+          "ans_ch01_107",
+          "ans_ch01_012"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          127.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0088",
+        "question": "数字孪生与BIM的区别怎么理解？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_044",
+          "ans_ch01_107"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          135.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0089",
+        "question": "数字孪生与BIM的区别的要点是什么？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_044",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          97.5,
+          95.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0090",
+        "question": "请用教材观点说明数字孪生与BIM的区别。",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_020",
+          "ans_ch01_044"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          127.5,
+          87.5,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0091",
+        "question": "数字孪生的虚实闭环包括哪些环节？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_020",
+          "ans_ch01_059"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          102.5,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0092",
+        "question": "数字孪生的虚实闭环包括哪些环节",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_020",
+          "ans_ch01_059"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          102.5,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0093",
+        "question": "数字孪生虚实闭环是什么？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_020",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          87.5,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0094",
+        "question": "数字孪生虚实闭环包括哪些内容？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_031",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          80.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0095",
+        "question": "请按条目说明数字孪生虚实闭环",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_020",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          80.0,
+          69.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0096",
+        "question": "教材中如何解释数字孪生虚实闭环？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_058",
+          "ans_ch01_059"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0097",
+        "question": "第一章中数字孪生虚实闭环怎么理解？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_058",
+          "ans_ch01_059"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0098",
+        "question": "数字孪生虚实闭环怎么理解？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_058",
+          "ans_ch01_059"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0099",
+        "question": "数字孪生虚实闭环的要点是什么？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_020",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          87.5,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0100",
+        "question": "请用教材观点说明数字孪生虚实闭环。",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_020",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          80.0,
+          69.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0101",
+        "question": "道路工程数字化设计的四大核心理念包括哪些？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_014"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          225.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0102",
+        "question": "数字化设计理念有哪些？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          90.0,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0103",
+        "question": "构件化参数化协同化生命周期化分别是什么？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_074",
+          "ans_ch01_019"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          400.0,
+          105.0,
+          84.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0104",
+        "question": "四大理念怎么理解？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_065",
+          "ans_ch01_068"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0105",
+        "question": "四大数字化设计理念是什么？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_015",
+          "ans_ch01_022"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0106",
+        "question": "四大数字化设计理念包括哪些内容？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_027",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0107",
+        "question": "请按条目说明四大数字化设计理念",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          82.5,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0108",
+        "question": "教材中如何解释四大数字化设计理念？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_034",
+          "ans_ch01_063"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          97.5,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0109",
+        "question": "第一章中四大数字化设计理念怎么理解？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_015",
+          "ans_ch01_034"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0110",
+        "question": "四大数字化设计理念怎么理解？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_034",
+          "ans_ch01_063"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0111",
+        "question": "如何理解构件化理念？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_075"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0112",
+        "question": "如何理解构件化理念",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_075"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0113",
+        "question": "构件化理念是什么？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_068",
+          "ans_ch01_071"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0114",
+        "question": "构件化理念包括哪些内容？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_031",
+          "ans_ch01_016"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          125.0,
+          105.0,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0115",
+        "question": "请按条目说明构件化理念",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          82.5,
+          82.5,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0116",
+        "question": "教材中如何解释构件化理念？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_016",
+          "ans_ch01_075"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          90.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0117",
+        "question": "第一章中构件化理念怎么理解？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_015",
+          "ans_ch01_068"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          180.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0118",
+        "question": "构件化理念怎么理解？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_015",
+          "ans_ch01_068"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          380.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0119",
+        "question": "构件化理念的要点是什么？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_015",
+          "ans_ch01_016"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          87.5,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0120",
+        "question": "请用教材观点说明构件化理念。",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          82.5,
+          82.5,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0121",
+        "question": "如何理解参数化理念？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0122",
+        "question": "如何理解参数化理念",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0123",
+        "question": "参数化理念是什么？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_065",
+          "ans_ch01_071"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0124",
+        "question": "参数化理念包括哪些内容？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_031",
+          "ans_ch01_017"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          125.0,
+          105.0,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0125",
+        "question": "请按条目说明参数化理念",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          82.5,
+          82.5,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0126",
+        "question": "教材中如何解释参数化理念？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_017",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          90.0,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0127",
+        "question": "第一章中参数化理念怎么理解？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_015",
+          "ans_ch01_065"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          180.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0128",
+        "question": "参数化理念怎么理解？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_015",
+          "ans_ch01_065"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          380.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0129",
+        "question": "参数化理念的要点是什么？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_015",
+          "ans_ch01_017"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          87.5,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0130",
+        "question": "请用教材观点说明参数化理念。",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          82.5,
+          82.5,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0131",
+        "question": "如何理解协同化理念？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0132",
+        "question": "如何理解协同化理念",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0133",
+        "question": "协同化理念是什么？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_065",
+          "ans_ch01_068"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0134",
+        "question": "协同化理念包括哪些内容？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_031",
+          "ans_ch01_018"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          125.0,
+          105.0,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0135",
+        "question": "请按条目说明协同化理念",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          82.5,
+          82.5,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0136",
+        "question": "教材中如何解释协同化理念？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_018",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          90.0,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0137",
+        "question": "第一章中协同化理念怎么理解？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_015",
+          "ans_ch01_065"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          180.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0138",
+        "question": "协同化理念怎么理解？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_015",
+          "ans_ch01_065"
+        ],
+        "top1_ok": false,
+        "top3_ok": false,
+        "scores": [
+          380.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0139",
+        "question": "协同化理念的要点是什么？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_015",
+          "ans_ch01_018"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          87.5,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0140",
+        "question": "请用教材观点说明协同化理念。",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          82.5,
+          82.5,
+          65.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0141",
+        "question": "如何理解生命周期化理念？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_074",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          117.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0142",
+        "question": "如何理解生命周期化理念",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_074",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          265.0,
+          117.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0143",
+        "question": "生命周期化理念是什么？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_074",
+        "top3": [
+          "ans_ch01_074",
+          "ans_ch01_015",
+          "ans_ch01_019"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0144",
+        "question": "生命周期化理念包括哪些内容？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_019",
+          "ans_ch01_031"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          125.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0145",
+        "question": "请按条目说明生命周期化理念",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_019",
+          "ans_ch01_074"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          110.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0146",
+        "question": "教材中如何解释生命周期化理念？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_019",
+          "ans_ch01_074"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          110.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0147",
+        "question": "第一章中生命周期化理念怎么理解？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_074",
+        "top3": [
+          "ans_ch01_074",
+          "ans_ch01_015",
+          "ans_ch01_019"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          180.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0148",
+        "question": "生命周期化理念怎么理解？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_074",
+        "top3": [
+          "ans_ch01_074",
+          "ans_ch01_015",
+          "ans_ch01_019"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0149",
+        "question": "生命周期化理念的要点是什么？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_019",
+          "ans_ch01_074"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          125.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0150",
+        "question": "请用教材观点说明生命周期化理念。",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_019",
+          "ans_ch01_074"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          110.0,
+          105.0,
+          105.0
+        ]
+      }
+    ],
+    "uploaded_v1_2": [
+      {
+        "test_id": "rt_ch01_0001",
+        "question": "什么是道路工程数字化设计？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0002",
+        "question": "什么是道路工程数字化设计",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0003",
+        "question": "什么是道路数字化设计？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0004",
+        "question": "什么是道路工程数字设计？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0005",
+        "question": "道路工程数字化设计的定义是什么？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0006",
+        "question": "道路工程数字化设计的定义包括哪些内容？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0007",
+        "question": "请按条目说明道路工程数字化设计的定义",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0008",
+        "question": "教材中如何解释道路工程数字化设计的定义？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0009",
+        "question": "第一章中道路工程数字化设计的定义怎么理解？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0010",
+        "question": "道路工程数字化设计的定义怎么理解？",
+        "expected": "ans_ch01_014",
+        "top1": "ans_ch01_014",
+        "top3": [
+          "ans_ch01_014",
+          "ans_ch01_001",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          180.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0011",
+        "question": "道路工程数字化设计经历了哪些主要阶段？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          405.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0012",
+        "question": "道路数字化设计经历了哪些阶段？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_002",
+          "ans_ch01_014"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0013",
+        "question": "CAD到BIM再到数字孪生怎么演进？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_110",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          82.5,
+          81.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0014",
+        "question": "第一章讲的数字化发展历程是什么？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_088",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          96.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0015",
+        "question": "道路工程数字化设计的发展阶段是什么？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0016",
+        "question": "道路工程数字化设计的发展阶段包括哪些内容？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0017",
+        "question": "请按条目说明道路工程数字化设计的发展阶段",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0018",
+        "question": "教材中如何解释道路工程数字化设计的发展阶段？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0019",
+        "question": "第一章中道路工程数字化设计的发展阶段怎么理解？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0020",
+        "question": "道路工程数字化设计的发展阶段怎么理解？",
+        "expected": "ans_ch01_001",
+        "top1": "ans_ch01_001",
+        "top3": [
+          "ans_ch01_001",
+          "ans_ch01_014",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          180.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0021",
+        "question": "CAD阶段的主要技术特征是什么？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_039",
+          "ans_ch01_108"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0022",
+        "question": "CAD阶段的主要技术特征是什么",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_039",
+          "ans_ch01_108"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0023",
+        "question": "CAD阶段的技术特征是什么？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          84.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0024",
+        "question": "CAD阶段的技术特征包括哪些内容？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_031",
+          "ans_ch01_032"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          283.5,
+          105.0,
+          100.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0025",
+        "question": "请按条目说明CAD阶段的技术特征",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_001",
+          "ans_ch01_006"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          91.5,
+          91.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0026",
+        "question": "教材中如何解释CAD阶段的技术特征？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_034",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          94.5,
+          91.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0027",
+        "question": "第一章中CAD阶段的技术特征怎么理解？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_034",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          100.5,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0028",
+        "question": "CAD阶段的技术特征怎么理解？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          177.0,
+          91.5,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0029",
+        "question": "CAD阶段的技术特征的要点是什么？",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_039"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          84.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0030",
+        "question": "请用教材观点说明CAD阶段的技术特征。",
+        "expected": "ans_ch01_003",
+        "top1": "ans_ch01_003",
+        "top3": [
+          "ans_ch01_003",
+          "ans_ch01_108",
+          "ans_ch01_004"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          102.0,
+          84.0,
+          54.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0031",
+        "question": "CAD阶段主要解决了什么问题，又存在哪些局限？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_029",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          520.0,
+          67.5,
+          52.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0032",
+        "question": "CAD阶段主要解决了什么问题，又存在哪些局限",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_029",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          520.0,
+          67.5,
+          52.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0033",
+        "question": "CAD阶段的价值与局限是什么？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_048",
+          "ans_ch01_040"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          294.5,
+          105.0,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0034",
+        "question": "CAD阶段的价值与局限包括哪些内容？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_031",
+          "ans_ch01_032"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          294.5,
+          105.0,
+          100.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0035",
+        "question": "请按条目说明CAD阶段的价值与局限",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_003",
+          "ans_ch01_007"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          293.0,
+          94.5,
+          93.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0036",
+        "question": "教材中如何解释CAD阶段的价值与局限？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_048",
+          "ans_ch01_003"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          293.0,
+          97.5,
+          94.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0037",
+        "question": "第一章中CAD阶段的价值与局限怎么理解？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_048",
+          "ans_ch01_034"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          293.0,
+          105.0,
+          99.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0038",
+        "question": "CAD阶段的价值与局限怎么理解？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_048",
+          "ans_ch01_040"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          188.0,
+          105.0,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0039",
+        "question": "CAD阶段的价值与局限的要点是什么？",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_048",
+          "ans_ch01_040"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          114.5,
+          105.0,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0040",
+        "question": "请用教材观点说明CAD阶段的价值与局限。",
+        "expected": "ans_ch01_004",
+        "top1": "ans_ch01_004",
+        "top3": [
+          "ans_ch01_004",
+          "ans_ch01_048",
+          "ans_ch01_003"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          113.0,
+          82.5,
+          58.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0041",
+        "question": "BIM阶段的核心变化是什么？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_100"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0042",
+        "question": "BIM阶段的核心变化是什么",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_100"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0043",
+        "question": "BIM阶段的核心变化包括哪些内容？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_031",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          100.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0044",
+        "question": "请按条目说明BIM阶段的核心变化",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_012",
+          "ans_ch01_078"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          93.0,
+          93.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0045",
+        "question": "教材中如何解释BIM阶段的核心变化？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_078",
+          "ans_ch01_034"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          96.0,
+          94.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0046",
+        "question": "第一章中BIM阶段的核心变化怎么理解？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_078",
+          "ans_ch01_034"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          102.0,
+          100.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0047",
+        "question": "BIM阶段的核心变化怎么理解？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_100"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          290.0,
+          90.0,
+          84.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0048",
+        "question": "BIM阶段的核心变化的要点是什么？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_048",
+          "ans_ch01_003"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          67.5,
+          60.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0049",
+        "question": "请用教材观点说明BIM阶段的核心变化。",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_003",
+          "ans_ch01_004"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          49.5,
+          46.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0050",
+        "question": "关于BIM阶段的核心变化，考试应该怎么答？",
+        "expected": "ans_ch01_006",
+        "top1": "ans_ch01_006",
+        "top3": [
+          "ans_ch01_006",
+          "ans_ch01_108",
+          "ans_ch01_048"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          61.5,
+          52.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0051",
+        "question": "为什么说BIM不是简单的三维模型？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_002",
+          "ans_ch01_044"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0052",
+        "question": "为什么说BIM不是简单的三维模型",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_002",
+          "ans_ch01_044"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          75.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0053",
+        "question": "BIM不是简单三维模型是什么？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_072"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          90.0,
+          82.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0054",
+        "question": "BIM不是简单三维模型包括哪些内容？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_031",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          99.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0055",
+        "question": "请按条目说明BIM不是简单三维模型",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_012",
+          "ans_ch01_078"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          97.5,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0056",
+        "question": "教材中如何解释BIM不是简单三维模型？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_078",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          100.5,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0057",
+        "question": "第一章中BIM不是简单三维模型怎么理解？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_072"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0058",
+        "question": "BIM不是简单三维模型怎么理解？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_072"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          180.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0059",
+        "question": "BIM不是简单三维模型的要点是什么？",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          69.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0060",
+        "question": "请用教材观点说明BIM不是简单三维模型。",
+        "expected": "ans_ch01_007",
+        "top1": "ans_ch01_007",
+        "top3": [
+          "ans_ch01_007",
+          "ans_ch01_044",
+          "ans_ch01_002"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          67.5,
+          61.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0061",
+        "question": "GIS在现代道路设计中的主要作用是什么？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0062",
+        "question": "GIS在现代道路设计中的主要作用是什么",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0063",
+        "question": "GIS在道路设计中的作用是什么？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          315.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0064",
+        "question": "GIS在道路设计中的作用包括哪些内容？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          315.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0065",
+        "question": "请按条目说明GIS在道路设计中的作用",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          315.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0066",
+        "question": "教材中如何解释GIS在道路设计中的作用？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          315.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0067",
+        "question": "第一章中GIS在道路设计中的作用怎么理解？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_087"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          315.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0068",
+        "question": "GIS在道路设计中的作用怎么理解？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_087"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          210.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0069",
+        "question": "GIS在道路设计中的作用的要点是什么？",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0070",
+        "question": "请用教材观点说明GIS在道路设计中的作用。",
+        "expected": "ans_ch01_010",
+        "top1": "ans_ch01_010",
+        "top3": [
+          "ans_ch01_010",
+          "ans_ch01_112",
+          "ans_ch01_110"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          135.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0071",
+        "question": "BIM+GIS融合主要体现在哪些层次？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_112",
+          "ans_ch01_004"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          99.0,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0072",
+        "question": "BIM+GIS融合主要体现在哪些层次",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_112",
+          "ans_ch01_004"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          99.0,
+          45.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0073",
+        "question": "BIM+GIS融合层次是什么？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_054",
+          "ans_ch01_112"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          271.5,
+          52.5,
+          46.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0074",
+        "question": "BIM+GIS融合层次包括哪些内容？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_031",
+          "ans_ch01_013"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          273.0,
+          105.0,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0075",
+        "question": "请按条目说明BIM+GIS融合层次",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_001",
+          "ans_ch01_013"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          271.5,
+          88.5,
+          88.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0076",
+        "question": "教材中如何解释BIM+GIS融合层次？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_079",
+          "ans_ch01_080"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          271.5,
+          91.5,
+          91.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0077",
+        "question": "第一章中BIM+GIS融合层次怎么理解？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_079",
+          "ans_ch01_080"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          271.5,
+          97.5,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0078",
+        "question": "BIM+GIS融合层次怎么理解？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_054",
+          "ans_ch01_050"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          166.5,
+          75.0,
+          67.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0079",
+        "question": "BIM+GIS融合层次的要点是什么？",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_054",
+          "ans_ch01_112"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          79.5,
+          52.5,
+          46.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0080",
+        "question": "请用教材观点说明BIM+GIS融合层次。",
+        "expected": "ans_ch01_011",
+        "top1": "ans_ch01_011",
+        "top3": [
+          "ans_ch01_011",
+          "ans_ch01_054",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          73.5,
+          30.0,
+          28.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0081",
+        "question": "数字孪生与BIM有什么区别？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_005",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          91.5,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0082",
+        "question": "数字孪生与BIM有什么区别",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_005",
+          "ans_ch01_020"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          530.0,
+          91.5,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0083",
+        "question": "数字孪生与BIM的区别是什么？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_044",
+          "ans_ch01_107"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          315.0,
+          135.0,
+          112.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0084",
+        "question": "数字孪生与BIM的区别包括哪些内容？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_013",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          315.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0085",
+        "question": "请按条目说明数字孪生与BIM的区别",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_001",
+          "ans_ch01_014"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          313.5,
+          102.0,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0086",
+        "question": "教材中如何解释数字孪生与BIM的区别？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_058",
+          "ans_ch01_059"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          313.5,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0087",
+        "question": "第一章中数字孪生与BIM的区别怎么理解？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_044",
+          "ans_ch01_107"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          313.5,
+          135.0,
+          135.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0088",
+        "question": "数字孪生与BIM的区别怎么理解？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_044",
+          "ans_ch01_107"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          210.0,
+          135.0,
+          135.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0089",
+        "question": "数字孪生与BIM的区别的要点是什么？",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_044",
+          "ans_ch01_001"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          135.0,
+          97.5,
+          93.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0090",
+        "question": "请用教材观点说明数字孪生与BIM的区别。",
+        "expected": "ans_ch01_012",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_080",
+          "ans_ch01_013"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          133.5,
+          97.5,
+          96.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0091",
+        "question": "数字孪生的虚实闭环包括哪些环节？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0092",
+        "question": "数字孪生的虚实闭环包括哪些环节",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0093",
+        "question": "数字孪生虚实闭环是什么？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          87.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0094",
+        "question": "数字孪生虚实闭环包括哪些内容？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0095",
+        "question": "请按条目说明数字孪生虚实闭环",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0096",
+        "question": "教材中如何解释数字孪生虚实闭环？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0097",
+        "question": "第一章中数字孪生虚实闭环怎么理解？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0098",
+        "question": "数字孪生虚实闭环怎么理解？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          180.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0099",
+        "question": "数字孪生虚实闭环的要点是什么？",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_013",
+        "top3": [
+          "ans_ch01_013",
+          "ans_ch01_001",
+          "ans_ch01_012"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          87.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0100",
+        "question": "请用教材观点说明数字孪生虚实闭环。",
+        "expected": "ans_ch01_013",
+        "top1": "ans_ch01_012",
+        "top3": [
+          "ans_ch01_012",
+          "ans_ch01_013",
+          "ans_ch01_080"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          105.0,
+          97.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0101",
+        "question": "道路工程数字化设计的四大核心理念包括哪些？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_014"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          405.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0102",
+        "question": "数字化设计理念有哪些？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_027"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          90.0,
+          90.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0103",
+        "question": "构件化参数化协同化生命周期化分别是什么？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_074",
+          "ans_ch01_019"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          400.0,
+          105.0,
+          103.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0104",
+        "question": "四大理念怎么理解？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_065",
+          "ans_ch01_068"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0105",
+        "question": "四大数字化设计理念是什么？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_022"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0106",
+        "question": "四大数字化设计理念包括哪些内容？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_027",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0107",
+        "question": "请按条目说明四大数字化设计理念",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_014"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          100.5,
+          100.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0108",
+        "question": "教材中如何解释四大数字化设计理念？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_034",
+          "ans_ch01_078"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          103.5,
+          103.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0109",
+        "question": "第一章中四大数字化设计理念怎么理解？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_001",
+          "ans_ch01_034"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0110",
+        "question": "四大数字化设计理念怎么理解？",
+        "expected": "ans_ch01_015",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_034",
+          "ans_ch01_063"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          180.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0111",
+        "question": "如何理解构件化理念？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_075"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0112",
+        "question": "如何理解构件化理念",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_075"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0113",
+        "question": "构件化理念是什么？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_016",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          280.5,
+          117.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0114",
+        "question": "构件化理念包括哪些内容？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_015",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          280.5,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0115",
+        "question": "请按条目说明构件化理念",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_015",
+          "ans_ch01_017"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          280.5,
+          113.0,
+          93.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0116",
+        "question": "教材中如何解释构件化理念？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_015",
+          "ans_ch01_065"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          113.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0117",
+        "question": "第一章中构件化理念怎么理解？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          180.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0118",
+        "question": "构件化理念怎么理解？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_016",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          177.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0119",
+        "question": "构件化理念的要点是什么？",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_065",
+        "top3": [
+          "ans_ch01_065",
+          "ans_ch01_016",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          100.5,
+          87.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0120",
+        "question": "请用教材观点说明构件化理念。",
+        "expected": "ans_ch01_016",
+        "top1": "ans_ch01_016",
+        "top3": [
+          "ans_ch01_016",
+          "ans_ch01_065",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          100.5,
+          82.5,
+          77.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0121",
+        "question": "如何理解参数化理念？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0122",
+        "question": "如何理解参数化理念",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0123",
+        "question": "参数化理念是什么？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_017",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          280.5,
+          117.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0124",
+        "question": "参数化理念包括哪些内容？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_015",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          280.5,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0125",
+        "question": "请按条目说明参数化理念",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_015",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          280.5,
+          113.0,
+          96.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0126",
+        "question": "教材中如何解释参数化理念？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_015",
+          "ans_ch01_068"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          113.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0127",
+        "question": "第一章中参数化理念怎么理解？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          180.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0128",
+        "question": "参数化理念怎么理解？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_017",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          177.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0129",
+        "question": "参数化理念的要点是什么？",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_068",
+        "top3": [
+          "ans_ch01_068",
+          "ans_ch01_017",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          100.5,
+          87.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0130",
+        "question": "请用教材观点说明参数化理念。",
+        "expected": "ans_ch01_017",
+        "top1": "ans_ch01_017",
+        "top3": [
+          "ans_ch01_017",
+          "ans_ch01_068",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          100.5,
+          82.5,
+          77.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0131",
+        "question": "如何理解协同化理念？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0132",
+        "question": "如何理解协同化理念",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          87.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0133",
+        "question": "协同化理念是什么？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_018",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          280.5,
+          117.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0134",
+        "question": "协同化理念包括哪些内容？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_015",
+          "ans_ch01_031"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0135",
+        "question": "请按条目说明协同化理念",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_015",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          280.5,
+          113.0,
+          96.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0136",
+        "question": "教材中如何解释协同化理念？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_015",
+          "ans_ch01_071"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          113.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0137",
+        "question": "第一章中协同化理念怎么理解？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          282.0,
+          180.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0138",
+        "question": "协同化理念怎么理解？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_018",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          177.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0139",
+        "question": "协同化理念的要点是什么？",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_071",
+        "top3": [
+          "ans_ch01_071",
+          "ans_ch01_018",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          105.0,
+          100.5,
+          87.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0140",
+        "question": "请用教材观点说明协同化理念。",
+        "expected": "ans_ch01_018",
+        "top1": "ans_ch01_018",
+        "top3": [
+          "ans_ch01_018",
+          "ans_ch01_071",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          100.5,
+          82.5,
+          77.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0141",
+        "question": "如何理解生命周期化理念？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_074",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          123.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0142",
+        "question": "如何理解生命周期化理念",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_074",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          500.0,
+          225.0,
+          123.5
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0143",
+        "question": "生命周期化理念是什么？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_074",
+        "top3": [
+          "ans_ch01_074",
+          "ans_ch01_019",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          285.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0144",
+        "question": "生命周期化理念包括哪些内容？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_015",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          125.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0145",
+        "question": "请按条目说明生命周期化理念",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_015",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          122.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0146",
+        "question": "教材中如何解释生命周期化理念？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_015",
+          "ans_ch01_016"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          122.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0147",
+        "question": "第一章中生命周期化理念怎么理解？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_019",
+        "top3": [
+          "ans_ch01_019",
+          "ans_ch01_074",
+          "ans_ch01_015"
+        ],
+        "top1_ok": true,
+        "top3_ok": true,
+        "scores": [
+          285.0,
+          180.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0148",
+        "question": "生命周期化理念怎么理解？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_074",
+        "top3": [
+          "ans_ch01_074",
+          "ans_ch01_019",
+          "ans_ch01_015"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          380.0,
+          180.0,
+          125.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0149",
+        "question": "生命周期化理念的要点是什么？",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_019",
+          "ans_ch01_074"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          125.0,
+          105.0,
+          105.0
+        ]
+      },
+      {
+        "test_id": "rt_ch01_0150",
+        "question": "请用教材观点说明生命周期化理念。",
+        "expected": "ans_ch01_019",
+        "top1": "ans_ch01_015",
+        "top3": [
+          "ans_ch01_015",
+          "ans_ch01_019",
+          "ans_ch01_074"
+        ],
+        "top1_ok": false,
+        "top3_ok": true,
+        "scores": [
+          122.0,
+          105.0,
+          105.0
+        ]
+      }
+    ]
+  }
+}
