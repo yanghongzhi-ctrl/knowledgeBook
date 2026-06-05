@@ -45,6 +45,11 @@ button:hover {
   border-color: var(--blue);
 }
 
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
 .review-shell {
   display: grid;
   grid-template-columns: 360px minmax(560px, 1fr);
@@ -130,6 +135,56 @@ textarea {
 .summary {
   display: grid;
   gap: 7px;
+}
+
+.scene-progress {
+  display: grid;
+  gap: 8px;
+}
+
+.scene-row {
+  display: grid;
+  gap: 8px;
+  width: 100%;
+  border: 1px solid var(--line);
+  background: var(--surface-soft);
+  padding: 9px;
+  text-align: left;
+}
+
+.scene-row.active {
+  border-color: var(--blue);
+  box-shadow: inset 3px 0 0 var(--blue);
+}
+
+.scene-row span:first-child {
+  display: grid;
+  gap: 3px;
+}
+
+.scene-row strong {
+  font-size: 13px;
+}
+
+.scene-row small,
+.empty-progress {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.progress-track {
+  display: block;
+  height: 6px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #e5eaf1;
+}
+
+.progress-track span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--teal);
 }
 
 .summary-row {

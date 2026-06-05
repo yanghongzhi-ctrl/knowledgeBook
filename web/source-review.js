@@ -5,6 +5,7 @@ const els = {
   sceneFilter: document.querySelector("#sceneFilter"),
   searchInput: document.querySelector("#searchInput"),
   summary: document.querySelector("#summary"),
+  sceneProgress: document.querySelector("#sceneProgress"),
   itemList: document.querySelector("#itemList"),
   detailTitle: document.querySelector("#detailTitle"),
   detailMeta: document.querySelector("#detailMeta"),
@@ -21,6 +22,8 @@ const els = {
   downloadJson: document.querySelector("#downloadJson"),
   downloadFilledJson: document.querySelector("#downloadFilledJson"),
   applySuggested: document.querySelector("#applySuggested"),
+  applySceneSuggested: document.querySelector("#applySceneSuggested"),
+  downloadSceneJson: document.querySelector("#downloadSceneJson"),
   clearFiltered: document.querySelector("#clearFiltered")
 };
 
@@ -92,6 +95,8 @@ function bindEvents() {
   els.downloadJson.addEventListener("click", downloadApprovalJson);
   els.downloadFilledJson.addEventListener("click", () => downloadApprovalJson(true));
   els.applySuggested.addEventListener("click", applySuggestedToFiltered);
+  els.applySceneSuggested.addEventListener("click", applySuggestedToCurrentScene);
+  els.downloadSceneJson.addEventListener("click", downloadCurrentSceneJson);
   els.clearFiltered.addEventListener("click", clearFilteredEdits);
 }
 
@@ -112,6 +117,7 @@ function render() {
     state.selectedId = itemKey(state.filtered[0] || {});
   }
   renderSummary();
+  renderSceneProgress();
   renderList();
   renderDetail();
   renderValidation();
@@ -128,6 +134,55 @@ function renderSummary() {
     ["应用场景", unique(state.filtered.map((item) => item.scene_title)).length]
   ];
   els.summary.innerHTML = rows.map(([label, value]) => `<div class="summary-row"><span>${escapeHtml(label)}</span><strong>${value}</strong></div>`).join("");
+}
+
+function renderSceneProgress() {
+  const rows = sceneProgressRows();
+  if (!rows.length) {
+    els.sceneProgress.innerHTML = `<div class="empty-progress">无应用场景分组。</div>`;
+    els.applySceneSuggested.disabled = true;
+    els.downloadSceneJson.disabled = true;
+    return;
+  }
+  const activeScene = els.sceneFilter.value;
+  els.sceneProgress.innerHTML = rows
+    .map((row) => {
+      const active = row.scene === activeScene ? " active" : "";
+      const percent = row.total ? Math.round((row.filled / row.total) * 100) : 0;
+      return `<button class="scene-row${active}" type="button" data-scene="${escapeHtml(row.scene)}">
+        <span>
+          <strong>${escapeHtml(row.scene)}</strong>
+          <small>${row.filled}/${row.total} 已填 · ${row.open} 未填</small>
+        </span>
+        <span class="progress-track"><span style="width:${percent}%"></span></span>
+      </button>`;
+    })
+    .join("");
+  els.sceneProgress.querySelectorAll("[data-scene]").forEach((button) => {
+    button.addEventListener("click", () => {
+      els.sceneFilter.value = button.dataset.scene || "";
+      render();
+    });
+  });
+  const hasSelectedScene = Boolean(activeScene);
+  els.applySceneSuggested.disabled = !hasSelectedScene;
+  els.downloadSceneJson.disabled = !hasSelectedScene;
+}
+
+function sceneProgressRows() {
+  const grouped = new Map();
+  for (const item of state.items) {
+    if (!item.scene_title) continue;
+    const key = item.scene_title;
+    const edit = state.edits.get(itemKey(item)) || {};
+    const decision = edit.decision ?? item.decision ?? "";
+    const row = grouped.get(key) || { scene: key, total: 0, filled: 0, open: 0 };
+    row.total += 1;
+    if (decision) row.filled += 1;
+    else row.open += 1;
+    grouped.set(key, row);
+  }
+  return [...grouped.values()].sort((a, b) => a.scene.localeCompare(b.scene, "zh-CN"));
 }
 
 function renderList() {
@@ -252,6 +307,23 @@ function applySuggestedToFiltered() {
   render();
 }
 
+function applySuggestedToCurrentScene() {
+  const scene = els.sceneFilter.value;
+  if (!scene) {
+    showStatus("请先选择一个应用场景。", "error");
+    return;
+  }
+  const items = state.items.filter((item) => item.scene_title === scene);
+  for (const item of items) {
+    state.edits.set(itemKey(item), {
+      decision: item.suggested_decision || "",
+      reviewer_notes: suggestedNote(item)
+    });
+  }
+  render();
+  showStatus(`已为“${scene}”填入 ${items.length} 条建议。`, "ok");
+}
+
 function clearFilteredEdits() {
   for (const item of state.filtered) {
     state.edits.delete(itemKey(item));
@@ -279,7 +351,7 @@ function selectedItem() {
   return state.items.find((item) => itemKey(item) === state.selectedId) || null;
 }
 
-function approvalPayload(filledOnly = false) {
+function approvalPayload(filledOnly = false, predicate = null) {
   const decisions = state.items.map((item) => {
     const edit = state.edits.get(itemKey(item)) || {};
     return {
@@ -287,7 +359,7 @@ function approvalPayload(filledOnly = false) {
       decision: edit.decision ?? item.decision ?? "",
       reviewer_notes: edit.reviewer_notes ?? item.reviewer_notes ?? ""
     };
-  }).filter((item) => !filledOnly || item.decision);
+  }).filter((item) => (!predicate || predicate(item)) && (!filledOnly || item.decision));
   return {
     generated_at: new Date().toISOString(),
     source_boundary_review: "output/ch10_ch11_source_boundary_review_2026-06-05.json",
@@ -304,12 +376,31 @@ async function copyApprovalJson() {
 }
 
 function downloadApprovalJson(filledOnly = false) {
-  const text = JSON.stringify(approvalPayload(filledOnly), null, 2);
+  downloadPayload(
+    approvalPayload(filledOnly),
+    filledOnly ? "ch10_ch11_source_boundary_manual_approvals.filled.json" : "ch10_ch11_source_boundary_manual_approvals.json"
+  );
+}
+
+function downloadCurrentSceneJson() {
+  const scene = els.sceneFilter.value;
+  if (!scene) {
+    showStatus("请先选择一个应用场景。", "error");
+    return;
+  }
+  downloadPayload(
+    approvalPayload(false, (item) => item.scene_title === scene),
+    `ch10_ch11_source_boundary_manual_approvals.${slugify(scene)}.json`
+  );
+}
+
+function downloadPayload(payload, filename) {
+  const text = JSON.stringify(payload, null, 2);
   const blob = new Blob([text], { type: "application/json;charset=utf-8" });
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
   link.href = url;
-  link.download = filledOnly ? "ch10_ch11_source_boundary_manual_approvals.filled.json" : "ch10_ch11_source_boundary_manual_approvals.json";
+  link.download = filename;
   link.click();
   URL.revokeObjectURL(url);
 }
@@ -439,6 +530,14 @@ function itemKey(item) {
 
 function unique(values) {
   return [...new Set(values.filter(Boolean))].sort();
+}
+
+function slugify(value) {
+  return String(value || "scene")
+    .trim()
+    .replace(/[\\/:*?"<>|]+/g, "-")
+    .replace(/\s+/g, "-")
+    .slice(0, 60) || "scene";
 }
 
 function escapeHtml(value) {

@@ -357,3 +357,26 @@ P1 专项包统计：
 | 场景包访问 | `http://127.0.0.1:5174/output/ch11_application_scene_review_packet_2026-06-05.json` 返回 200 |
 | 场景索引 | 29 条 ch11 应用场景条目完成索引，`ch11_src_160` 归入“智慧交通治理与韧性服务” |
 | JS 初始化 | 在最小 DOM/fetch stub 下动态导入执行通过 |
+
+## 复核工作台场景批处理
+
+本轮继续增强复核工作台，围绕“按场景成组处理 ch11 P3 条目”的工作流增加进度卡和批处理按钮。该功能仍只操作 draft/导出 JSON，不自动写 formal。
+
+新增能力：
+
+| 功能 | 说明 |
+|---|---|
+| 场景进度卡 | 左侧显示每个应用场景的已填/未填数量和进度条 |
+| 场景快速筛选 | 点击场景进度卡即可切换到该场景 |
+| 填入当前场景建议 | 仅对当前选中应用场景批量写入 `suggested_decision` 与建议 notes |
+| 只下载当前场景 | 导出当前场景对应的审批 JSON 子集，便于分组复核流转 |
+| 禁用态保护 | 未选择场景时，场景批处理按钮不可用 |
+
+验证结果：
+
+| 检查项 | 结果 |
+|---|---|
+| 静态 HTML | `source-review.html?fresh=20260605e` 含 `sceneProgress`、`applySceneSuggested`、`downloadSceneJson` |
+| 静态 JS | 含 `renderSceneProgress`、`applySuggestedToCurrentScene`、`downloadCurrentSceneJson` 和按 predicate 导出逻辑 |
+| 静态 CSS | 含场景进度、进度条和按钮禁用态样式 |
+| JS 初始化 | 在含场景包的最小 DOM/fetch stub 下动态导入执行通过 |
