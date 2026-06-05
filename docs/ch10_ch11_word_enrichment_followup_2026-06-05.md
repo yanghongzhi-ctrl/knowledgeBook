@@ -380,3 +380,32 @@ P1 专项包统计：
 | 静态 JS | 含 `renderSceneProgress`、`applySuggestedToCurrentScene`、`downloadCurrentSceneJson` 和按 predicate 导出逻辑 |
 | 静态 CSS | 含场景进度、进度条和按钮禁用态样式 |
 | JS 初始化 | 在含场景包的最小 DOM/fetch stub 下动态导入执行通过 |
+
+## 复核进度命令行报告
+
+本轮新增命令行进度报告脚本，用于不打开网页时快速查看 draft 审批进展、优先级剩余量、场景剩余量和下一批处理清单。该脚本只读 draft 和场景包，不修改审批文件。
+
+新增文件：
+
+| 文件 | 用途 |
+|---|---|
+| `scripts/report_ch10_ch11_source_review_progress.py` | 生成第10、11章 Source_Chunks 人工复核进度报告 |
+| `output/ch10_ch11_source_review_progress_2026-06-05.json` | 结构化进度报告 |
+| `output/ch10_ch11_source_review_progress_2026-06-05.md` | 人工阅读版进度报告 |
+
+当前进度：
+
+| 项目 | 结果 |
+|---|---:|
+| 总条目 | 51 |
+| 已填写 | 5 |
+| 未填写 | 46 |
+| 完成率 | 9.8% |
+| P1 ch10 quick confirm | 4/4 |
+| P1 ch10 formula gap | 1/1 |
+| P2 ch10 boundary/summary | 0/8 |
+| P2 ch11 quick confirm | 0/1 |
+| P3 ch11 application scene | 0/29 |
+| P4 ch11 boundary/summary | 0/8 |
+
+下一批建议优先处理 `P2_ch10_boundary_summary` 的 8 条，然后处理 `P2_ch11_quick_confirm` 1 条，再进入 ch11 场景分组批处理。

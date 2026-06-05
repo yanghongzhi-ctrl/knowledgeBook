@@ -1,0 +1,278 @@
+{
+  "generated_at": "2026-06-05T12:13:44",
+  "source_approvals": "D:\\knowledgebase\\data\\review\\ch10_ch11_source_boundary_manual_approvals.draft.json",
+  "source_scene_packet": "D:\\knowledgebase\\output\\ch11_application_scene_review_packet_2026-06-05.json",
+  "summary": {
+    "total": 51,
+    "filled": 5,
+    "open": 46,
+    "completion_percent": 9.8,
+    "decisions": {
+      "(empty)": 46,
+      "confirm_candidate_anchor": 4,
+      "manual_anchor_pending": 1
+    }
+  },
+  "by_chapter": [
+    {
+      "name": "ch10",
+      "total": 13,
+      "filled": 5,
+      "open": 8,
+      "completion_percent": 38.46
+    },
+    {
+      "name": "ch11",
+      "total": 38,
+      "filled": 0,
+      "open": 38,
+      "completion_percent": 0.0
+    }
+  ],
+  "by_priority": [
+    {
+      "name": "P1_ch10_quick_confirm",
+      "total": 4,
+      "filled": 4,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "P1_ch10_formula_gap",
+      "total": 1,
+      "filled": 1,
+      "open": 0,
+      "completion_percent": 100.0
+    },
+    {
+      "name": "P2_ch10_boundary_summary",
+      "total": 8,
+      "filled": 0,
+      "open": 8,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "P2_ch11_quick_confirm",
+      "total": 1,
+      "filled": 0,
+      "open": 1,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "P3_ch11_application_scene_manual",
+      "total": 29,
+      "filled": 0,
+      "open": 29,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "P4_ch11_boundary_summary",
+      "total": 8,
+      "filled": 0,
+      "open": 8,
+      "completion_percent": 0.0
+    }
+  ],
+  "by_scene": [
+    {
+      "name": "全生命周期资产管理与价值评估",
+      "total": 3,
+      "filled": 0,
+      "open": 3,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "基于数字主线的数字化交付",
+      "total": 4,
+      "filled": 0,
+      "open": 4,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "数字化设计与多物理场仿真",
+      "total": 9,
+      "filled": 0,
+      "open": 9,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "智慧交通治理与韧性服务",
+      "total": 1,
+      "filled": 0,
+      "open": 1,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "智能化施工与质量闭环控制",
+      "total": 5,
+      "filled": 0,
+      "open": 5,
+      "completion_percent": 0.0
+    },
+    {
+      "name": "预测性养护与结构健康监测",
+      "total": 7,
+      "filled": 0,
+      "open": 7,
+      "completion_percent": 0.0
+    }
+  ],
+  "next_items": [
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_002",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "candidate_span": [
+        4781,
+        4781
+      ],
+      "source_excerpt": "4.了解监督学习（分类/回归）、无监督学习（聚类）及深度学习（CNN/RNN/GAN）在处理多源异构道路数据（遥感、地形、文本）中的作用。撂跤利用遥感与历史数据，通过机器学习模型（如SVM、神经网络）进行模式识别，自动生成地质灾害风险地图以辅助选线 。理解协同过滤与基于内容的推荐原理及其应用。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_096",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "candidate_span": [
+        4794,
+        4794
+      ],
+      "source_excerpt": "2.执行：跨平台调用 GIS 分析、优化库、Civil 3D 建模与模拟评估工具，自动传递数据与参数；"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_018",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "candidate_span": [
+        4815,
+        4815
+      ],
+      "source_excerpt": "知识驱动型设计系统可分为如下三个核心功能模块（如图10.6所示）："
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_031",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "term_supported_summary_review",
+      "suggested_decision": "confirm_teaching_summary",
+      "candidate_span": [
+        4912,
+        4912
+      ],
+      "source_excerpt": "设路线为线要素A，地质体为面要素B，DEM-9IM拓扑谓词。在“坐标分区”模型下，令地质体内部关键分区边界集合为(如滑坡前缘、后缘、泥石流形成区-流通区-堆积扇边界)。"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_034",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "candidate_span": [
+        4926,
+        4926
+      ],
+      "source_excerpt": "（1）目标案例构建：语义一致的属性向量表示"
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_060",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "candidate_span": [
+        5024,
+        5026
+      ],
+      "source_excerpt": "在多目标优化中，解支配解表示在所有目标上都不劣于，并且在至少一个目标上优于："
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_075",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "candidate_span": [
+        5081,
+        5083
+      ],
+      "source_excerpt": "从时刻  起的折扣回报与优化目标为："
+    },
+    {
+      "chapter_id": "ch10",
+      "chunk_id": "ch10_src_087",
+      "priority_group": "P2_ch10_boundary_summary",
+      "scene_title": "",
+      "review_status": "boundary_fragment_review",
+      "suggested_decision": "confirm_boundary_fragment",
+      "candidate_span": [
+        5133,
+        5133
+      ],
+      "source_excerpt": "（5）计算梯度并更新Q网络参数；每隔固定步数，将当前网络参数软更新或拷贝至目标网络，以保持训练稳定。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_046",
+      "priority_group": "P2_ch11_quick_confirm",
+      "scene_title": "",
+      "review_status": "candidate_anchor_review",
+      "suggested_decision": "confirm_candidate_anchor",
+      "candidate_span": [
+        5362,
+        5364
+      ],
+      "source_excerpt": "3.环境边界与路面效应感知 环境边界条件是评价道路运行安全与环境效应的重要依据。 （1）路面状态感知"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_155",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "scene_title": "全生命周期资产管理与价值评估",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "candidate_span": [
+        5557,
+        5558
+      ],
+      "source_excerpt": "在数字孪生环境中，系统可模拟不同养护方案（如预防性养护、局部修补、结构性重建）在未来时段内的实施效果。 （1）全生命周期成本（LCC）分析 综合计算各方案在规划期内的检测费用、维修费用及用户延误成本，形成完整的成本评估结果。"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_156",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "scene_title": "全生命周期资产管理与价值评估",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "candidate_span": [
+        5596,
+        5597
+      ],
+      "source_excerpt": "（2）效能与性价比比选 评估不同方案对路面性能提升幅度（Performance Jump）及使用寿命延长年限的影响，辅助决策者确定技术效果与经济投入之间的合理平衡，避免“过度养护”或“失养”风险。 2. 数字化台账与资产价值动态评估"
+    },
+    {
+      "chapter_id": "ch11",
+      "chunk_id": "ch11_src_158",
+      "priority_group": "P3_ch11_application_scene_manual",
+      "scene_title": "全生命周期资产管理与价值评估",
+      "review_status": "manual_anchor_required",
+      "suggested_decision": "manual_anchor_pending",
+      "candidate_span": [
+        5597,
+        5599
+      ],
+      "source_excerpt": "（2）资产价值评估与决策支撑 基于设施当前健康状态与剩余使用寿命，系统动态评估资产折旧水平与剩余价值，为交通主管部门在资产盘点、更新改造及特许经营管理等方面提供可靠的数据支持。 四、智慧交通治理与韧性服务"
+    }
+  ]
+}
