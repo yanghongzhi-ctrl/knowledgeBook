@@ -3,6 +3,7 @@ const els = {
   priorityFilter: document.querySelector("#priorityFilter"),
   decisionFilter: document.querySelector("#decisionFilter"),
   sceneFilter: document.querySelector("#sceneFilter"),
+  riskFilter: document.querySelector("#riskFilter"),
   searchInput: document.querySelector("#searchInput"),
   summary: document.querySelector("#summary"),
   handoffSummary: document.querySelector("#handoffSummary"),
@@ -26,6 +27,7 @@ const els = {
   applySuggested: document.querySelector("#applySuggested"),
   applySceneSuggested: document.querySelector("#applySceneSuggested"),
   downloadSceneJson: document.querySelector("#downloadSceneJson"),
+  downloadRiskJson: document.querySelector("#downloadRiskJson"),
   clearFiltered: document.querySelector("#clearFiltered")
 };
 
@@ -76,6 +78,11 @@ function populateFilters() {
   fillSelect(els.priorityFilter, unique(state.items.map((item) => item.priority_group)));
   fillSelect(els.decisionFilter, unique(state.items.map((item) => item.suggested_decision)), decisionLabels);
   fillSelect(els.sceneFilter, unique(state.items.map((item) => item.scene_title)));
+  fillSelect(els.riskFilter, unique(state.items.map((item) => item.risk_level)), {
+    high: "high - 需补锚点",
+    medium: "medium - 边界/摘要",
+    low: "low - 候选锚点"
+  });
 }
 
 function fillSelect(select, values, labels = {}) {
@@ -88,7 +95,7 @@ function fillSelect(select, values, labels = {}) {
 }
 
 function bindEvents() {
-  [els.chapterFilter, els.priorityFilter, els.decisionFilter, els.sceneFilter, els.searchInput].forEach((control) => {
+  [els.chapterFilter, els.priorityFilter, els.decisionFilter, els.sceneFilter, els.riskFilter, els.searchInput].forEach((control) => {
     control.addEventListener("input", render);
   });
   els.decisionInput.addEventListener("input", updateCurrentEdit);
@@ -103,6 +110,7 @@ function bindEvents() {
   els.applySuggested.addEventListener("click", applySuggestedToFiltered);
   els.applySceneSuggested.addEventListener("click", applySuggestedToCurrentScene);
   els.downloadSceneJson.addEventListener("click", downloadCurrentSceneJson);
+  els.downloadRiskJson.addEventListener("click", downloadCurrentRiskJson);
   els.clearFiltered.addEventListener("click", clearFilteredEdits);
 }
 
@@ -113,8 +121,9 @@ function render() {
     if (els.priorityFilter.value && item.priority_group !== els.priorityFilter.value) return false;
     if (els.decisionFilter.value && item.suggested_decision !== els.decisionFilter.value) return false;
     if (els.sceneFilter.value && item.scene_title !== els.sceneFilter.value) return false;
+    if (els.riskFilter.value && item.risk_level !== els.riskFilter.value) return false;
     if (!query) return true;
-    return [item.chunk_id, item.source_excerpt, item.candidate_text, item.priority_group, item.review_status, item.scene_title]
+    return [item.chunk_id, item.source_excerpt, item.candidate_text, item.priority_group, item.review_status, item.scene_title, item.risk_level, item.manual_review_required]
       .join("\n")
       .toLowerCase()
       .includes(query);
@@ -160,7 +169,8 @@ function renderSummary() {
     ["P1", state.filtered.filter((item) => String(item.priority_group).startsWith("P1")).length],
     ["P2", state.filtered.filter((item) => String(item.priority_group).startsWith("P2")).length],
     ["P3/P4", state.filtered.filter((item) => /^P[34]/.test(String(item.priority_group))).length],
-    ["应用场景", unique(state.filtered.map((item) => item.scene_title)).length]
+    ["应用场景", unique(state.filtered.map((item) => item.scene_title)).length],
+    ["High risk", state.filtered.filter((item) => item.risk_level === "high").length]
   ];
   els.summary.innerHTML = rows.map(([label, value]) => `<div class="summary-row"><span>${escapeHtml(label)}</span><strong>${value}</strong></div>`).join("");
 }
@@ -171,6 +181,7 @@ function renderSceneProgress() {
     els.sceneProgress.innerHTML = `<div class="empty-progress">无应用场景分组。</div>`;
     els.applySceneSuggested.disabled = true;
     els.downloadSceneJson.disabled = true;
+    els.downloadRiskJson.disabled = !els.riskFilter.value;
     return;
   }
   const activeScene = els.sceneFilter.value;
@@ -196,6 +207,7 @@ function renderSceneProgress() {
   const hasSelectedScene = Boolean(activeScene);
   els.applySceneSuggested.disabled = !hasSelectedScene;
   els.downloadSceneJson.disabled = !hasSelectedScene;
+  els.downloadRiskJson.disabled = !els.riskFilter.value;
 }
 
 function sceneProgressRows() {
@@ -450,6 +462,18 @@ function downloadCurrentSceneJson() {
   downloadPayload(
     approvalPayload(false, (item) => item.scene_title === scene),
     `ch10_ch11_source_boundary_manual_approvals.${slugify(scene)}.json`
+  );
+}
+
+function downloadCurrentRiskJson() {
+  const risk = els.riskFilter.value;
+  if (!risk) {
+    showStatus("请先选择一个风险等级。", "error");
+    return;
+  }
+  downloadPayload(
+    approvalPayload(false, (item) => item.risk_level === risk),
+    `ch10_ch11_source_boundary_manual_approvals.risk-${slugify(risk)}.json`
   );
 }
 

@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>第10、11章证据边界复核</title>
-    <link rel="stylesheet" href="./source-review.css?v=20260605f" />
+    <link rel="stylesheet" href="./source-review.css?v=20260605g" />
   </head>
   <body>
     <main class="review-shell">
@@ -39,6 +39,12 @@
           <label>
             应用场景
             <select id="sceneFilter">
+              <option value="">全部</option>
+            </select>
+          </label>
+          <label>
+            风险等级
+            <select id="riskFilter">
               <option value="">全部</option>
             </select>
           </label>
@@ -89,6 +95,7 @@
             <button id="applySuggested" type="button">填入当前建议</button>
             <button id="applySceneSuggested" type="button">填入当前场景建议</button>
             <button id="downloadSceneJson" type="button">只下载当前场景</button>
+            <button id="downloadRiskJson" type="button">只下载当前风险</button>
             <button id="clearFiltered" type="button">清空当前填写</button>
           </div>
         </header>
@@ -130,6 +137,6 @@
       </section>
     </main>
 
-    <script src="./source-review.js?v=20260605f"></script>
+    <script src="./source-review.js?v=20260605g"></script>
   </body>
 </html>

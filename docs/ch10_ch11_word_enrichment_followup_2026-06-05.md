@@ -640,3 +640,25 @@ P4 分级结果：
 | JS 初始化 stub | handoff 摘要加载成功，High risk=30，列表与统计渲染成功 |
 | full proposed 按钮 stub | 成功导入 51 条，状态提示“已加载 full proposed：51 条” |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
+
+## 复核工作台风险筛选与子集导出
+
+本轮继续增强 `web/source-review.html` 工作台，在 handoff 风险分层基础上新增风险等级筛选与风险子集导出。人工复核时可以先筛选 `high` 风险的 30 条 `manual_anchor_pending` 项，集中补教材锚点；也可以单独导出 high/medium/low 风险子集，便于分批审定和流转。
+
+新增/更新能力：
+| 能力 | 说明 |
+|---|---|
+| 风险筛选 | 左侧筛选区新增 `riskFilter`，支持 high/medium/low |
+| 风险统计联动 | 统计卡增加当前筛选结果中的 High risk 数量 |
+| 风险子集导出 | 顶部新增“只下载当前风险”按钮 |
+| 搜索范围扩展 | 搜索同时覆盖 risk level 与建议人工动作 |
+| 缓存版本 | `source-review.html` 引用版本更新到 `20260605g` |
+
+验证结果：
+| 检查项 | 结果 |
+|---|---|
+| 静态页面 | `http://127.0.0.1:5174/web/source-review.html?fresh=20260605g` 返回 200 |
+| JS 交互 stub | 设置 `riskFilter=high` 后，当前筛选显示 30 条 |
+| 风险 badge | high 风险条目显示 `risk-high` badge |
+| 风险导出 | 导出文件名为 `ch10_ch11_source_boundary_manual_approvals.risk-high.json` |
+| 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
