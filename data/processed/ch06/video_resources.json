@@ -158,5 +158,291 @@
       "简易道路标准横断面综合绘图演示",
       "ch06_vid_008"
     ]
+  },
+  {
+    "video_id": "ch06_vid_009",
+    "chapter_id": "ch06",
+    "title": "旋转与镜像对象操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_009.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "旋转与镜像对象操作视频占位",
+      "ch06_vid_009"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_010",
+    "chapter_id": "ch06",
+    "title": "修剪、延伸与圆角处理操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_010.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "修剪、延伸与圆角处理操作视频占位",
+      "ch06_vid_010"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_011",
+    "chapter_id": "ch06",
+    "title": "阵列、定距与定数分布操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_011.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "阵列、定距与定数分布操作视频占位",
+      "ch06_vid_011"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_012",
+    "chapter_id": "ch06",
+    "title": "设置并使用精确定位工具操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_012.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "设置并使用精确定位工具操作视频占位",
+      "ch06_vid_012"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_013",
+    "chapter_id": "ch06",
+    "title": "创建文字样式并输入单行文字操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_013.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建文字样式并输入单行文字操作视频占位",
+      "ch06_vid_013"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_014",
+    "chapter_id": "ch06",
+    "title": "创建多行文字说明操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_014.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建多行文字说明操作视频占位",
+      "ch06_vid_014"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_015",
+    "chapter_id": "ch06",
+    "title": "创建道路设计标注样式操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_015.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建道路设计标注样式操作视频占位",
+      "ch06_vid_015"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_016",
+    "chapter_id": "ch06",
+    "title": "创建线性、半径、直径与角度标注操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_016.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建线性、半径、直径与角度标注操作视频占位",
+      "ch06_vid_016"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_017",
+    "chapter_id": "ch06",
+    "title": "修改标注样式与标注文字操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_017.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "修改标注样式与标注文字操作视频占位",
+      "ch06_vid_017"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_018",
+    "chapter_id": "ch06",
+    "title": "创建图层并设置颜色线型线宽操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_018.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建图层并设置颜色线型线宽操作视频占位",
+      "ch06_vid_018"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_019",
+    "chapter_id": "ch06",
+    "title": "管理图层开关、冻结、隔离和锁定操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_019.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "管理图层开关、冻结、隔离和锁定操作视频占位",
+      "ch06_vid_019"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_020",
+    "chapter_id": "ch06",
+    "title": "定义并插入图块操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_020.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "定义并插入图块操作视频占位",
+      "ch06_vid_020"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_021",
+    "chapter_id": "ch06",
+    "title": "使用WBLOCK输出共享块操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_021.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "使用WBLOCK输出共享块操作视频占位",
+      "ch06_vid_021"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_022",
+    "chapter_id": "ch06",
+    "title": "定义和管理带属性块操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_022.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "定义和管理带属性块操作视频占位",
+      "ch06_vid_022"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_023",
+    "chapter_id": "ch06",
+    "title": "设置三维工作空间与视觉样式操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_023.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "设置三维工作空间与视觉样式操作视频占位",
+      "ch06_vid_023"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_024",
+    "chapter_id": "ch06",
+    "title": "创建网格或空间平面操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_024.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建网格或空间平面操作视频占位",
+      "ch06_vid_024"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_025",
+    "chapter_id": "ch06",
+    "title": "创建平移曲面与旋转曲面操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_025.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建平移曲面与旋转曲面操作视频占位",
+      "ch06_vid_025"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_026",
+    "chapter_id": "ch06",
+    "title": "创建边界曲面并设置标高厚度操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_026.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建边界曲面并设置标高厚度操作视频占位",
+      "ch06_vid_026"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_027",
+    "chapter_id": "ch06",
+    "title": "创建长方体与圆柱体操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_027.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "创建长方体与圆柱体操作视频占位",
+      "ch06_vid_027"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_028",
+    "chapter_id": "ch06",
+    "title": "拉伸或旋转二维轮廓生成实体操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_028.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "拉伸或旋转二维轮廓生成实体操作视频占位",
+      "ch06_vid_028"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_029",
+    "chapter_id": "ch06",
+    "title": "使用并集、差集、交集构建组合实体操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_029.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "使用并集、差集、交集构建组合实体操作视频占位",
+      "ch06_vid_029"
+    ]
+  },
+  {
+    "video_id": "ch06_vid_030",
+    "chapter_id": "ch06",
+    "title": "绘制简易道路标准横断面图操作视频占位",
+    "file_path": "chapter_06/videos/ch06_vid_030.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata",
+    "related_kps": [],
+    "reference_aliases": [
+      "绘制简易道路标准横断面图操作视频占位",
+      "ch06_vid_030"
+    ]
   }
 ]

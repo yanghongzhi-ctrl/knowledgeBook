@@ -208,5 +208,21 @@
     "teaching_use": "用于软件操作演示和课后复习。",
     "qa_use": "学生询问对应操作时推荐到具体视频片段。",
     "status": "placeholder"
+  },
+  {
+    "video_id": "video_ch09_015",
+    "chapter_id": "ch09",
+    "title": "编辑部件与装配属性操作视频占位",
+    "file_path": "chapter_09/videos/video_ch09_015.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata"
+  },
+  {
+    "video_id": "video_ch09_016",
+    "chapter_id": "ch09",
+    "title": "创建道路廊道操作视频占位",
+    "file_path": "chapter_09/videos/video_ch09_016.mp4",
+    "teaching_use": "由操作步骤引用自动补齐，等待正式视频文件和片段标注。",
+    "status": "placeholder_metadata"
   }
 ]

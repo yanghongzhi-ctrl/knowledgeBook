@@ -61,7 +61,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "设置AutoCAD绘图环境的目标是：设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。",
-    "expanded_answer": "操作目标：设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。\n前置条件：新建DWG或打开模板文件\n预期结果：规范化绘图环境\n操作要点：确认本任务目标为“设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。”，检查是否满足前置条件：新建DWG或打开模板文件。；通过功能区、菜单、命令行或快捷别名启动与“设置AutoCAD绘图环境”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“设置AutoCAD绘图环境”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“规范化绘图环境”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。\n前置条件：新建DWG或打开模板文件\n预期结果：规范化绘图环境\n操作要点：确认本任务目标为“设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。”，检查是否满足前置条件：新建DWG或打开模板文件。；通过功能区、菜单、命令行或快捷别名启动与“设置AutoCAD绘图环境”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“设置AutoCAD绘图环境”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“规范化绘图环境”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_001_error",
@@ -125,7 +137,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "设置AutoCAD绘图环境的目标是：设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。",
-    "expanded_answer": "操作目标：设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。\n前置条件：新建DWG或打开模板文件\n预期结果：规范化绘图环境\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：设置单位、图层、捕捉、栅格、正交和模板，建立适合道路制图的工作环境。\n前置条件：新建DWG或打开模板文件\n预期结果：规范化绘图环境\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_002_howto",
@@ -189,7 +213,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "使用坐标精确绘制线段的目标是：利用绝对直角、相对直角和极坐标输入绘制精确图形。",
-    "expanded_answer": "操作目标：利用绝对直角、相对直角和极坐标输入绘制精确图形。\n前置条件：明确基准点和坐标值\n预期结果：精确线段或闭合图形\n操作要点：确认本任务目标为“利用绝对直角、相对直角和极坐标输入绘制精确图形。”，检查是否满足前置条件：明确基准点和坐标值。；通过功能区、菜单、命令行或快捷别名启动与“使用坐标精确绘制线段”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“使用坐标精确绘制线段”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“精确线段或闭合图形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：利用绝对直角、相对直角和极坐标输入绘制精确图形。\n前置条件：明确基准点和坐标值\n预期结果：精确线段或闭合图形\n操作要点：确认本任务目标为“利用绝对直角、相对直角和极坐标输入绘制精确图形。”，检查是否满足前置条件：明确基准点和坐标值。；通过功能区、菜单、命令行或快捷别名启动与“使用坐标精确绘制线段”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“使用坐标精确绘制线段”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“精确线段或闭合图形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_002_error",
@@ -253,7 +289,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "使用坐标精确绘制线段的目标是：利用绝对直角、相对直角和极坐标输入绘制精确图形。",
-    "expanded_answer": "操作目标：利用绝对直角、相对直角和极坐标输入绘制精确图形。\n前置条件：明确基准点和坐标值\n预期结果：精确线段或闭合图形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：利用绝对直角、相对直角和极坐标输入绘制精确图形。\n前置条件：明确基准点和坐标值\n预期结果：精确线段或闭合图形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_003_howto",
@@ -317,7 +365,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "完成模型空间与图纸空间布局的目标是：在模型空间绘图，在图纸空间设置图框、视口、比例和打印。",
-    "expanded_answer": "操作目标：在模型空间绘图，在图纸空间设置图框、视口、比例和打印。\n前置条件：模型空间已完成图形\n预期结果：标准布局图纸\n操作要点：确认本任务目标为“在模型空间绘图，在图纸空间设置图框、视口、比例和打印。”，检查是否满足前置条件：模型空间已完成图形。；通过功能区、菜单、命令行或快捷别名启动与“完成模型空间与图纸空间布局”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“完成模型空间与图纸空间布局”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“标准布局图纸”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：在模型空间绘图，在图纸空间设置图框、视口、比例和打印。\n前置条件：模型空间已完成图形\n预期结果：标准布局图纸\n操作要点：确认本任务目标为“在模型空间绘图，在图纸空间设置图框、视口、比例和打印。”，检查是否满足前置条件：模型空间已完成图形。；通过功能区、菜单、命令行或快捷别名启动与“完成模型空间与图纸空间布局”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“完成模型空间与图纸空间布局”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“标准布局图纸”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_003_error",
@@ -381,7 +441,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "完成模型空间与图纸空间布局的目标是：在模型空间绘图，在图纸空间设置图框、视口、比例和打印。",
-    "expanded_answer": "操作目标：在模型空间绘图，在图纸空间设置图框、视口、比例和打印。\n前置条件：模型空间已完成图形\n预期结果：标准布局图纸\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：在模型空间绘图，在图纸空间设置图框、视口、比例和打印。\n前置条件：模型空间已完成图形\n预期结果：标准布局图纸\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_004_howto",
@@ -445,7 +517,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制道路横断面基本线形的目标是：使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。",
-    "expanded_answer": "操作目标：使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。\n前置条件：有断面尺寸参数\n预期结果：标准横断面几何图\n操作要点：确认本任务目标为“使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。”，检查是否满足前置条件：有断面尺寸参数。；通过功能区、菜单、命令行或快捷别名启动与“绘制道路横断面基本线形”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制道路横断面基本线形”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“标准横断面几何图”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。\n前置条件：有断面尺寸参数\n预期结果：标准横断面几何图\n操作要点：确认本任务目标为“使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。”，检查是否满足前置条件：有断面尺寸参数。；通过功能区、菜单、命令行或快捷别名启动与“绘制道路横断面基本线形”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制道路横断面基本线形”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“标准横断面几何图”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_004_error",
@@ -509,7 +593,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制道路横断面基本线形的目标是：使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。",
-    "expanded_answer": "操作目标：使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。\n前置条件：有断面尺寸参数\n预期结果：标准横断面几何图\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用LINE、PLINE、OFFSET等命令绘制简易道路横断面线形。\n前置条件：有断面尺寸参数\n预期结果：标准横断面几何图\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_005_howto",
@@ -573,7 +669,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制圆及内接/外切正多边形的目标是：使用CIRCLE和POLYGON命令绘制圆及正六边形。",
-    "expanded_answer": "操作目标：使用CIRCLE和POLYGON命令绘制圆及正六边形。\n前置条件：已知圆半径或多边形边数\n预期结果：圆与内外接正多边形\n操作要点：确认本任务目标为“使用CIRCLE和POLYGON命令绘制圆及正六边形。”，检查是否满足前置条件：已知圆半径或多边形边数。；通过功能区、菜单、命令行或快捷别名启动与“绘制圆及内接/外切正多边形”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制圆及内接/外切正多边形”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“圆与内外接正多边形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用CIRCLE和POLYGON命令绘制圆及正六边形。\n前置条件：已知圆半径或多边形边数\n预期结果：圆与内外接正多边形\n操作要点：确认本任务目标为“使用CIRCLE和POLYGON命令绘制圆及正六边形。”，检查是否满足前置条件：已知圆半径或多边形边数。；通过功能区、菜单、命令行或快捷别名启动与“绘制圆及内接/外切正多边形”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制圆及内接/外切正多边形”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“圆与内外接正多边形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_005_error",
@@ -637,7 +745,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制圆及内接/外切正多边形的目标是：使用CIRCLE和POLYGON命令绘制圆及正六边形。",
-    "expanded_answer": "操作目标：使用CIRCLE和POLYGON命令绘制圆及正六边形。\n前置条件：已知圆半径或多边形边数\n预期结果：圆与内外接正多边形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用CIRCLE和POLYGON命令绘制圆及正六边形。\n前置条件：已知圆半径或多边形边数\n预期结果：圆与内外接正多边形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_006_howto",
@@ -701,7 +821,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制圆弧与样条曲线的目标是：使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。",
-    "expanded_answer": "操作目标：使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。\n前置条件：明确控制点或约束对象\n预期结果：曲线对象\n操作要点：确认本任务目标为“使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。”，检查是否满足前置条件：明确控制点或约束对象。；通过功能区、菜单、命令行或快捷别名启动与“绘制圆弧与样条曲线”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制圆弧与样条曲线”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“曲线对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。\n前置条件：明确控制点或约束对象\n预期结果：曲线对象\n操作要点：确认本任务目标为“使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。”，检查是否满足前置条件：明确控制点或约束对象。；通过功能区、菜单、命令行或快捷别名启动与“绘制圆弧与样条曲线”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制圆弧与样条曲线”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“曲线对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_006_error",
@@ -765,7 +897,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制圆弧与样条曲线的目标是：使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。",
-    "expanded_answer": "操作目标：使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。\n前置条件：明确控制点或约束对象\n预期结果：曲线对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用ARC和SPLINE绘制圆弧、光滑曲线或非规则边界。\n前置条件：明确控制点或约束对象\n预期结果：曲线对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_007_howto",
@@ -829,7 +973,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "移动与复制图形对象的目标是：通过MOVE和COPY按基点、位移或目标点调整对象位置。",
-    "expanded_answer": "操作目标：通过MOVE和COPY按基点、位移或目标点调整对象位置。\n前置条件：已有对象和目标位置\n预期结果：对象移动或复制结果\n操作要点：确认本任务目标为“通过MOVE和COPY按基点、位移或目标点调整对象位置。”，检查是否满足前置条件：已有对象和目标位置。；通过功能区、菜单、命令行或快捷别名启动与“移动与复制图形对象”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“移动与复制图形对象”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“对象移动或复制结果”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：通过MOVE和COPY按基点、位移或目标点调整对象位置。\n前置条件：已有对象和目标位置\n预期结果：对象移动或复制结果\n操作要点：确认本任务目标为“通过MOVE和COPY按基点、位移或目标点调整对象位置。”，检查是否满足前置条件：已有对象和目标位置。；通过功能区、菜单、命令行或快捷别名启动与“移动与复制图形对象”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“移动与复制图形对象”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“对象移动或复制结果”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_007_error",
@@ -893,7 +1049,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "移动与复制图形对象的目标是：通过MOVE和COPY按基点、位移或目标点调整对象位置。",
-    "expanded_answer": "操作目标：通过MOVE和COPY按基点、位移或目标点调整对象位置。\n前置条件：已有对象和目标位置\n预期结果：对象移动或复制结果\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：通过MOVE和COPY按基点、位移或目标点调整对象位置。\n前置条件：已有对象和目标位置\n预期结果：对象移动或复制结果\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_008_howto",
@@ -957,7 +1125,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "拉伸与缩放图形对象的目标是：通过STRETCH局部调整形状，通过SCALE按比例缩放对象。",
-    "expanded_answer": "操作目标：通过STRETCH局部调整形状，通过SCALE按比例缩放对象。\n前置条件：已有可编辑对象\n预期结果：调整后的图形尺寸\n操作要点：确认本任务目标为“通过STRETCH局部调整形状，通过SCALE按比例缩放对象。”，检查是否满足前置条件：已有可编辑对象。；通过功能区、菜单、命令行或快捷别名启动与“拉伸与缩放图形对象”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“拉伸与缩放图形对象”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“调整后的图形尺寸”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：通过STRETCH局部调整形状，通过SCALE按比例缩放对象。\n前置条件：已有可编辑对象\n预期结果：调整后的图形尺寸\n操作要点：确认本任务目标为“通过STRETCH局部调整形状，通过SCALE按比例缩放对象。”，检查是否满足前置条件：已有可编辑对象。；通过功能区、菜单、命令行或快捷别名启动与“拉伸与缩放图形对象”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“拉伸与缩放图形对象”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“调整后的图形尺寸”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_008_error",
@@ -1021,7 +1201,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "拉伸与缩放图形对象的目标是：通过STRETCH局部调整形状，通过SCALE按比例缩放对象。",
-    "expanded_answer": "操作目标：通过STRETCH局部调整形状，通过SCALE按比例缩放对象。\n前置条件：已有可编辑对象\n预期结果：调整后的图形尺寸\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：通过STRETCH局部调整形状，通过SCALE按比例缩放对象。\n前置条件：已有可编辑对象\n预期结果：调整后的图形尺寸\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_009_howto",
@@ -1085,7 +1277,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "旋转与镜像对象的目标是：利用ROTATE和MIRROR生成方向调整或对称图形。",
-    "expanded_answer": "操作目标：利用ROTATE和MIRROR生成方向调整或对称图形。\n前置条件：已有对象和基准线/基点\n预期结果：旋转或镜像后的图形\n操作要点：确认本任务目标为“利用ROTATE和MIRROR生成方向调整或对称图形。”，检查是否满足前置条件：已有对象和基准线/基点。；通过功能区、菜单、命令行或快捷别名启动与“旋转与镜像对象”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“旋转与镜像对象”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“旋转或镜像后的图形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：利用ROTATE和MIRROR生成方向调整或对称图形。\n前置条件：已有对象和基准线/基点\n预期结果：旋转或镜像后的图形\n操作要点：确认本任务目标为“利用ROTATE和MIRROR生成方向调整或对称图形。”，检查是否满足前置条件：已有对象和基准线/基点。；通过功能区、菜单、命令行或快捷别名启动与“旋转与镜像对象”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“旋转与镜像对象”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“旋转或镜像后的图形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_009_error",
@@ -1149,7 +1353,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "旋转与镜像对象的目标是：利用ROTATE和MIRROR生成方向调整或对称图形。",
-    "expanded_answer": "操作目标：利用ROTATE和MIRROR生成方向调整或对称图形。\n前置条件：已有对象和基准线/基点\n预期结果：旋转或镜像后的图形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：利用ROTATE和MIRROR生成方向调整或对称图形。\n前置条件：已有对象和基准线/基点\n预期结果：旋转或镜像后的图形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_010_howto",
@@ -1213,7 +1429,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "修剪、延伸与圆角处理的目标是：用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。",
-    "expanded_answer": "操作目标：用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。\n前置条件：有边界对象或待连接对象\n预期结果：整洁连续的构造线\n操作要点：确认本任务目标为“用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。”，检查是否满足前置条件：有边界对象或待连接对象。；通过功能区、菜单、命令行或快捷别名启动与“修剪、延伸与圆角处理”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“修剪、延伸与圆角处理”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“整洁连续的构造线”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。\n前置条件：有边界对象或待连接对象\n预期结果：整洁连续的构造线\n操作要点：确认本任务目标为“用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。”，检查是否满足前置条件：有边界对象或待连接对象。；通过功能区、菜单、命令行或快捷别名启动与“修剪、延伸与圆角处理”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“修剪、延伸与圆角处理”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“整洁连续的构造线”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_010_error",
@@ -1277,7 +1505,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "修剪、延伸与圆角处理的目标是：用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。",
-    "expanded_answer": "操作目标：用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。\n前置条件：有边界对象或待连接对象\n预期结果：整洁连续的构造线\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：用TRIM、EXTEND和FILLET处理相交线、边界连接与圆角。\n前置条件：有边界对象或待连接对象\n预期结果：整洁连续的构造线\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_011_howto",
@@ -1341,7 +1581,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "阵列、定距与定数分布的目标是：用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。",
-    "expanded_answer": "操作目标：用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。\n前置条件：已有路径或对象\n预期结果：等距或等数分布对象\n操作要点：确认本任务目标为“用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。”，检查是否满足前置条件：已有路径或对象。；通过功能区、菜单、命令行或快捷别名启动与“阵列、定距与定数分布”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“阵列、定距与定数分布”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“等距或等数分布对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。\n前置条件：已有路径或对象\n预期结果：等距或等数分布对象\n操作要点：确认本任务目标为“用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。”，检查是否满足前置条件：已有路径或对象。；通过功能区、菜单、命令行或快捷别名启动与“阵列、定距与定数分布”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“阵列、定距与定数分布”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“等距或等数分布对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_011_error",
@@ -1405,7 +1657,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "阵列、定距与定数分布的目标是：用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。",
-    "expanded_answer": "操作目标：用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。\n前置条件：已有路径或对象\n预期结果：等距或等数分布对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：用ARRAY、MEASURE、DIVIDE实现对象批量分布或标记。\n前置条件：已有路径或对象\n预期结果：等距或等数分布对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_012_howto",
@@ -1469,7 +1733,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "设置并使用精确定位工具的目标是：配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。",
-    "expanded_answer": "操作目标：配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。\n前置条件：需要精确定位的图形任务\n预期结果：准确捕捉和对齐的图形\n操作要点：确认本任务目标为“配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。”，检查是否满足前置条件：需要精确定位的图形任务。；通过功能区、菜单、命令行或快捷别名启动与“设置并使用精确定位工具”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“设置并使用精确定位工具”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“准确捕捉和对齐的图形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。\n前置条件：需要精确定位的图形任务\n预期结果：准确捕捉和对齐的图形\n操作要点：确认本任务目标为“配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。”，检查是否满足前置条件：需要精确定位的图形任务。；通过功能区、菜单、命令行或快捷别名启动与“设置并使用精确定位工具”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“设置并使用精确定位工具”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“准确捕捉和对齐的图形”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_012_error",
@@ -1533,7 +1809,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "设置并使用精确定位工具的目标是：配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。",
-    "expanded_answer": "操作目标：配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。\n前置条件：需要精确定位的图形任务\n预期结果：准确捕捉和对齐的图形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：配置捕捉、栅格、正交、极轴和对象捕捉，提高绘图准确性。\n前置条件：需要精确定位的图形任务\n预期结果：准确捕捉和对齐的图形\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_013_howto",
@@ -1597,7 +1885,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建文字样式并输入单行文字的目标是：设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。",
-    "expanded_answer": "操作目标：设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。\n前置条件：已确定文字规范\n预期结果：规范短文字标注\n操作要点：确认本任务目标为“设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。”，检查是否满足前置条件：已确定文字规范。；通过功能区、菜单、命令行或快捷别名启动与“创建文字样式并输入单行文字”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建文字样式并输入单行文字”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“规范短文字标注”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。\n前置条件：已确定文字规范\n预期结果：规范短文字标注\n操作要点：确认本任务目标为“设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。”，检查是否满足前置条件：已确定文字规范。；通过功能区、菜单、命令行或快捷别名启动与“创建文字样式并输入单行文字”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建文字样式并输入单行文字”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“规范短文字标注”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_013_error",
@@ -1661,7 +1961,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建文字样式并输入单行文字的目标是：设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。",
-    "expanded_answer": "操作目标：设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。\n前置条件：已确定文字规范\n预期结果：规范短文字标注\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：设置字体、高度、宽度因子和倾斜角，使用TEXT输入短标签。\n前置条件：已确定文字规范\n预期结果：规范短文字标注\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_014_howto",
@@ -1725,7 +2037,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建多行文字说明的目标是：使用MTEXT创建具有边界和格式的长说明。",
-    "expanded_answer": "操作目标：使用MTEXT创建具有边界和格式的长说明。\n前置条件：需要图纸说明或备注\n预期结果：多行文字对象\n操作要点：确认本任务目标为“使用MTEXT创建具有边界和格式的长说明。”，检查是否满足前置条件：需要图纸说明或备注。；通过功能区、菜单、命令行或快捷别名启动与“创建多行文字说明”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建多行文字说明”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“多行文字对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用MTEXT创建具有边界和格式的长说明。\n前置条件：需要图纸说明或备注\n预期结果：多行文字对象\n操作要点：确认本任务目标为“使用MTEXT创建具有边界和格式的长说明。”，检查是否满足前置条件：需要图纸说明或备注。；通过功能区、菜单、命令行或快捷别名启动与“创建多行文字说明”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建多行文字说明”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“多行文字对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_014_error",
@@ -1789,7 +2113,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建多行文字说明的目标是：使用MTEXT创建具有边界和格式的长说明。",
-    "expanded_answer": "操作目标：使用MTEXT创建具有边界和格式的长说明。\n前置条件：需要图纸说明或备注\n预期结果：多行文字对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用MTEXT创建具有边界和格式的长说明。\n前置条件：需要图纸说明或备注\n预期结果：多行文字对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_015_howto",
@@ -1853,7 +2189,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建道路设计标注样式的目标是：通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。",
-    "expanded_answer": "操作目标：通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。\n前置条件：有项目标注规范\n预期结果：当前标注样式\n操作要点：确认本任务目标为“通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。”，检查是否满足前置条件：有项目标注规范。；通过功能区、菜单、命令行或快捷别名启动与“创建道路设计标注样式”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建道路设计标注样式”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“当前标注样式”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。\n前置条件：有项目标注规范\n预期结果：当前标注样式\n操作要点：确认本任务目标为“通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。”，检查是否满足前置条件：有项目标注规范。；通过功能区、菜单、命令行或快捷别名启动与“创建道路设计标注样式”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建道路设计标注样式”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“当前标注样式”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_015_error",
@@ -1917,7 +2265,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建道路设计标注样式的目标是：通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。",
-    "expanded_answer": "操作目标：通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。\n前置条件：有项目标注规范\n预期结果：当前标注样式\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：通过DIMSTYLE设置文字、箭头、单位、精度和尺寸线等。\n前置条件：有项目标注规范\n预期结果：当前标注样式\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_016_howto",
@@ -1981,7 +2341,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建线性、半径、直径与角度标注的目标是：使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。",
-    "expanded_answer": "操作目标：使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。\n前置条件：已有图形对象\n预期结果：完整尺寸标注\n操作要点：确认本任务目标为“使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。”，检查是否满足前置条件：已有图形对象。；通过功能区、菜单、命令行或快捷别名启动与“创建线性、半径、直径与角度标注”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建线性、半径、直径与角度标注”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“完整尺寸标注”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。\n前置条件：已有图形对象\n预期结果：完整尺寸标注\n操作要点：确认本任务目标为“使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。”，检查是否满足前置条件：已有图形对象。；通过功能区、菜单、命令行或快捷别名启动与“创建线性、半径、直径与角度标注”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建线性、半径、直径与角度标注”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“完整尺寸标注”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_016_error",
@@ -2045,7 +2417,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建线性、半径、直径与角度标注的目标是：使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。",
-    "expanded_answer": "操作目标：使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。\n前置条件：已有图形对象\n预期结果：完整尺寸标注\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用DIMLINEAR、DIMRADIUS、DIMDIAMETER、DIMANGULAR等命令完成尺寸表达。\n前置条件：已有图形对象\n预期结果：完整尺寸标注\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_017_howto",
@@ -2109,7 +2493,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "修改标注样式与标注文字的目标是：将样式应用到现有标注并调整文字角度、位置或内容。",
-    "expanded_answer": "操作目标：将样式应用到现有标注并调整文字角度、位置或内容。\n前置条件：已有标注对象\n预期结果：更新后的标注\n操作要点：确认本任务目标为“将样式应用到现有标注并调整文字角度、位置或内容。”，检查是否满足前置条件：已有标注对象。；通过功能区、菜单、命令行或快捷别名启动与“修改标注样式与标注文字”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“修改标注样式与标注文字”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“更新后的标注”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：将样式应用到现有标注并调整文字角度、位置或内容。\n前置条件：已有标注对象\n预期结果：更新后的标注\n操作要点：确认本任务目标为“将样式应用到现有标注并调整文字角度、位置或内容。”，检查是否满足前置条件：已有标注对象。；通过功能区、菜单、命令行或快捷别名启动与“修改标注样式与标注文字”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“修改标注样式与标注文字”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“更新后的标注”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_017_error",
@@ -2173,7 +2569,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "修改标注样式与标注文字的目标是：将样式应用到现有标注并调整文字角度、位置或内容。",
-    "expanded_answer": "操作目标：将样式应用到现有标注并调整文字角度、位置或内容。\n前置条件：已有标注对象\n预期结果：更新后的标注\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：将样式应用到现有标注并调整文字角度、位置或内容。\n前置条件：已有标注对象\n预期结果：更新后的标注\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_018_howto",
@@ -2237,7 +2645,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建图层并设置颜色线型线宽的目标是：创建地面线、设计线、标注等图层并设置属性。",
-    "expanded_answer": "操作目标：创建地面线、设计线、标注等图层并设置属性。\n前置条件：有图纸分类规则\n预期结果：规范图层体系\n操作要点：确认本任务目标为“创建地面线、设计线、标注等图层并设置属性。”，检查是否满足前置条件：有图纸分类规则。；通过功能区、菜单、命令行或快捷别名启动与“创建图层并设置颜色线型线宽”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建图层并设置颜色线型线宽”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“规范图层体系”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：创建地面线、设计线、标注等图层并设置属性。\n前置条件：有图纸分类规则\n预期结果：规范图层体系\n操作要点：确认本任务目标为“创建地面线、设计线、标注等图层并设置属性。”，检查是否满足前置条件：有图纸分类规则。；通过功能区、菜单、命令行或快捷别名启动与“创建图层并设置颜色线型线宽”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建图层并设置颜色线型线宽”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“规范图层体系”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_018_error",
@@ -2301,7 +2721,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建图层并设置颜色线型线宽的目标是：创建地面线、设计线、标注等图层并设置属性。",
-    "expanded_answer": "操作目标：创建地面线、设计线、标注等图层并设置属性。\n前置条件：有图纸分类规则\n预期结果：规范图层体系\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：创建地面线、设计线、标注等图层并设置属性。\n前置条件：有图纸分类规则\n预期结果：规范图层体系\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_019_howto",
@@ -2365,7 +2797,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "管理图层开关、冻结、隔离和锁定的目标是：控制图层可见性、编辑状态和显示性能。",
-    "expanded_answer": "操作目标：控制图层可见性、编辑状态和显示性能。\n前置条件：图形含多个图层\n预期结果：清晰有序的绘图环境\n操作要点：确认本任务目标为“控制图层可见性、编辑状态和显示性能。”，检查是否满足前置条件：图形含多个图层。；通过功能区、菜单、命令行或快捷别名启动与“管理图层开关、冻结、隔离和锁定”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“管理图层开关、冻结、隔离和锁定”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“清晰有序的绘图环境”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：控制图层可见性、编辑状态和显示性能。\n前置条件：图形含多个图层\n预期结果：清晰有序的绘图环境\n操作要点：确认本任务目标为“控制图层可见性、编辑状态和显示性能。”，检查是否满足前置条件：图形含多个图层。；通过功能区、菜单、命令行或快捷别名启动与“管理图层开关、冻结、隔离和锁定”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“管理图层开关、冻结、隔离和锁定”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“清晰有序的绘图环境”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_019_error",
@@ -2429,7 +2873,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "管理图层开关、冻结、隔离和锁定的目标是：控制图层可见性、编辑状态和显示性能。",
-    "expanded_answer": "操作目标：控制图层可见性、编辑状态和显示性能。\n前置条件：图形含多个图层\n预期结果：清晰有序的绘图环境\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：控制图层可见性、编辑状态和显示性能。\n前置条件：图形含多个图层\n预期结果：清晰有序的绘图环境\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_020_howto",
@@ -2493,7 +2949,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "定义并插入图块的目标是：使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。",
-    "expanded_answer": "操作目标：使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。\n前置条件：已有构件图形\n预期结果：可复用图块实例\n操作要点：确认本任务目标为“使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。”，检查是否满足前置条件：已有构件图形。；通过功能区、菜单、命令行或快捷别名启动与“定义并插入图块”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“定义并插入图块”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“可复用图块实例”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。\n前置条件：已有构件图形\n预期结果：可复用图块实例\n操作要点：确认本任务目标为“使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。”，检查是否满足前置条件：已有构件图形。；通过功能区、菜单、命令行或快捷别名启动与“定义并插入图块”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“定义并插入图块”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“可复用图块实例”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_020_error",
@@ -2557,7 +3025,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "定义并插入图块的目标是：使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。",
-    "expanded_answer": "操作目标：使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。\n前置条件：已有构件图形\n预期结果：可复用图块实例\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用BLOCK定义块，用INSERT按插入点、比例和旋转插入。\n前置条件：已有构件图形\n预期结果：可复用图块实例\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_021_howto",
@@ -2621,7 +3101,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "使用WBLOCK输出共享块的目标是：将内部块或对象写出为独立DWG以便跨图复用。",
-    "expanded_answer": "操作目标：将内部块或对象写出为独立DWG以便跨图复用。\n前置条件：已有块或对象\n预期结果：外部图块文件\n操作要点：确认本任务目标为“将内部块或对象写出为独立DWG以便跨图复用。”，检查是否满足前置条件：已有块或对象。；通过功能区、菜单、命令行或快捷别名启动与“使用WBLOCK输出共享块”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“使用WBLOCK输出共享块”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“外部图块文件”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：将内部块或对象写出为独立DWG以便跨图复用。\n前置条件：已有块或对象\n预期结果：外部图块文件\n操作要点：确认本任务目标为“将内部块或对象写出为独立DWG以便跨图复用。”，检查是否满足前置条件：已有块或对象。；通过功能区、菜单、命令行或快捷别名启动与“使用WBLOCK输出共享块”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“使用WBLOCK输出共享块”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“外部图块文件”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_021_error",
@@ -2685,7 +3177,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "使用WBLOCK输出共享块的目标是：将内部块或对象写出为独立DWG以便跨图复用。",
-    "expanded_answer": "操作目标：将内部块或对象写出为独立DWG以便跨图复用。\n前置条件：已有块或对象\n预期结果：外部图块文件\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：将内部块或对象写出为独立DWG以便跨图复用。\n前置条件：已有块或对象\n预期结果：外部图块文件\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_022_howto",
@@ -2749,7 +3253,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "定义和管理带属性块的目标是：使用属性定义和块属性管理器为块附加编号、规格等信息。",
-    "expanded_answer": "操作目标：使用属性定义和块属性管理器为块附加编号、规格等信息。\n前置条件：已有标准图块\n预期结果：带属性图块\n操作要点：确认本任务目标为“使用属性定义和块属性管理器为块附加编号、规格等信息。”，检查是否满足前置条件：已有标准图块。；通过功能区、菜单、命令行或快捷别名启动与“定义和管理带属性块”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“定义和管理带属性块”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“带属性图块”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用属性定义和块属性管理器为块附加编号、规格等信息。\n前置条件：已有标准图块\n预期结果：带属性图块\n操作要点：确认本任务目标为“使用属性定义和块属性管理器为块附加编号、规格等信息。”，检查是否满足前置条件：已有标准图块。；通过功能区、菜单、命令行或快捷别名启动与“定义和管理带属性块”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“定义和管理带属性块”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“带属性图块”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_022_error",
@@ -2813,7 +3329,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "定义和管理带属性块的目标是：使用属性定义和块属性管理器为块附加编号、规格等信息。",
-    "expanded_answer": "操作目标：使用属性定义和块属性管理器为块附加编号、规格等信息。\n前置条件：已有标准图块\n预期结果：带属性图块\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用属性定义和块属性管理器为块附加编号、规格等信息。\n前置条件：已有标准图块\n预期结果：带属性图块\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_023_howto",
@@ -2874,7 +3402,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "设置三维工作空间与视觉样式的目标是：切换三维建模工作空间，设置视觉样式并观察三维对象。",
-    "expanded_answer": "操作目标：切换三维建模工作空间，设置视觉样式并观察三维对象。\n前置条件：打开三维模型或准备建模\n预期结果：可观察的三维环境\n操作要点：确认本任务目标为“切换三维建模工作空间，设置视觉样式并观察三维对象。”，检查是否满足前置条件：打开三维模型或准备建模。；通过功能区、菜单、命令行或快捷别名启动与“设置三维工作空间与视觉样式”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“设置三维工作空间与视觉样式”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“可观察的三维环境”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：切换三维建模工作空间，设置视觉样式并观察三维对象。\n前置条件：打开三维模型或准备建模\n预期结果：可观察的三维环境\n操作要点：确认本任务目标为“切换三维建模工作空间，设置视觉样式并观察三维对象。”，检查是否满足前置条件：打开三维模型或准备建模。；通过功能区、菜单、命令行或快捷别名启动与“设置三维工作空间与视觉样式”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“设置三维工作空间与视觉样式”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“可观察的三维环境”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_023_error",
@@ -2935,7 +3475,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "设置三维工作空间与视觉样式的目标是：切换三维建模工作空间，设置视觉样式并观察三维对象。",
-    "expanded_answer": "操作目标：切换三维建模工作空间，设置视觉样式并观察三维对象。\n前置条件：打开三维模型或准备建模\n预期结果：可观察的三维环境\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：切换三维建模工作空间，设置视觉样式并观察三维对象。\n前置条件：打开三维模型或准备建模\n预期结果：可观察的三维环境\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_024_howto",
@@ -2996,7 +3548,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建网格或空间平面的目标是：使用3DMESH和3DFACE创建网格或空间平面。",
-    "expanded_answer": "操作目标：使用3DMESH和3DFACE创建网格或空间平面。\n前置条件：有顶点或边界数据\n预期结果：三维网格/面片\n操作要点：确认本任务目标为“使用3DMESH和3DFACE创建网格或空间平面。”，检查是否满足前置条件：有顶点或边界数据。；通过功能区、菜单、命令行或快捷别名启动与“创建网格或空间平面”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建网格或空间平面”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“三维网格/面片”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用3DMESH和3DFACE创建网格或空间平面。\n前置条件：有顶点或边界数据\n预期结果：三维网格/面片\n操作要点：确认本任务目标为“使用3DMESH和3DFACE创建网格或空间平面。”，检查是否满足前置条件：有顶点或边界数据。；通过功能区、菜单、命令行或快捷别名启动与“创建网格或空间平面”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建网格或空间平面”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“三维网格/面片”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_024_error",
@@ -3057,7 +3621,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建网格或空间平面的目标是：使用3DMESH和3DFACE创建网格或空间平面。",
-    "expanded_answer": "操作目标：使用3DMESH和3DFACE创建网格或空间平面。\n前置条件：有顶点或边界数据\n预期结果：三维网格/面片\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用3DMESH和3DFACE创建网格或空间平面。\n前置条件：有顶点或边界数据\n预期结果：三维网格/面片\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_025_howto",
@@ -3118,7 +3694,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建平移曲面与旋转曲面的目标是：使用TABSURF或REVSURF由轮廓曲线生成曲面。",
-    "expanded_answer": "操作目标：使用TABSURF或REVSURF由轮廓曲线生成曲面。\n前置条件：预先绘制轮廓和方向/轴线\n预期结果：曲面网格模型\n操作要点：确认本任务目标为“使用TABSURF或REVSURF由轮廓曲线生成曲面。”，检查是否满足前置条件：预先绘制轮廓和方向/轴线。；通过功能区、菜单、命令行或快捷别名启动与“创建平移曲面与旋转曲面”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建平移曲面与旋转曲面”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“曲面网格模型”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用TABSURF或REVSURF由轮廓曲线生成曲面。\n前置条件：预先绘制轮廓和方向/轴线\n预期结果：曲面网格模型\n操作要点：确认本任务目标为“使用TABSURF或REVSURF由轮廓曲线生成曲面。”，检查是否满足前置条件：预先绘制轮廓和方向/轴线。；通过功能区、菜单、命令行或快捷别名启动与“创建平移曲面与旋转曲面”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建平移曲面与旋转曲面”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“曲面网格模型”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_025_error",
@@ -3179,7 +3767,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建平移曲面与旋转曲面的目标是：使用TABSURF或REVSURF由轮廓曲线生成曲面。",
-    "expanded_answer": "操作目标：使用TABSURF或REVSURF由轮廓曲线生成曲面。\n前置条件：预先绘制轮廓和方向/轴线\n预期结果：曲面网格模型\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用TABSURF或REVSURF由轮廓曲线生成曲面。\n前置条件：预先绘制轮廓和方向/轴线\n预期结果：曲面网格模型\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_026_howto",
@@ -3240,7 +3840,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建边界曲面并设置标高厚度的目标是：使用EDGESURF和ELEV生成边界曲面或有厚度对象。",
-    "expanded_answer": "操作目标：使用EDGESURF和ELEV生成边界曲面或有厚度对象。\n前置条件：有四条边界或对象\n预期结果：三维曲面或厚度对象\n操作要点：确认本任务目标为“使用EDGESURF和ELEV生成边界曲面或有厚度对象。”，检查是否满足前置条件：有四条边界或对象。；通过功能区、菜单、命令行或快捷别名启动与“创建边界曲面并设置标高厚度”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建边界曲面并设置标高厚度”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“三维曲面或厚度对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用EDGESURF和ELEV生成边界曲面或有厚度对象。\n前置条件：有四条边界或对象\n预期结果：三维曲面或厚度对象\n操作要点：确认本任务目标为“使用EDGESURF和ELEV生成边界曲面或有厚度对象。”，检查是否满足前置条件：有四条边界或对象。；通过功能区、菜单、命令行或快捷别名启动与“创建边界曲面并设置标高厚度”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建边界曲面并设置标高厚度”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“三维曲面或厚度对象”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_026_error",
@@ -3301,7 +3913,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建边界曲面并设置标高厚度的目标是：使用EDGESURF和ELEV生成边界曲面或有厚度对象。",
-    "expanded_answer": "操作目标：使用EDGESURF和ELEV生成边界曲面或有厚度对象。\n前置条件：有四条边界或对象\n预期结果：三维曲面或厚度对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用EDGESURF和ELEV生成边界曲面或有厚度对象。\n前置条件：有四条边界或对象\n预期结果：三维曲面或厚度对象\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_027_howto",
@@ -3362,7 +3986,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建长方体与圆柱体的目标是：使用BOX和CYLINDER创建基本实体。",
-    "expanded_answer": "操作目标：使用BOX和CYLINDER创建基本实体。\n前置条件：有尺寸和定位点\n预期结果：基本三维实体\n操作要点：确认本任务目标为“使用BOX和CYLINDER创建基本实体。”，检查是否满足前置条件：有尺寸和定位点。；通过功能区、菜单、命令行或快捷别名启动与“创建长方体与圆柱体”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建长方体与圆柱体”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“基本三维实体”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用BOX和CYLINDER创建基本实体。\n前置条件：有尺寸和定位点\n预期结果：基本三维实体\n操作要点：确认本任务目标为“使用BOX和CYLINDER创建基本实体。”，检查是否满足前置条件：有尺寸和定位点。；通过功能区、菜单、命令行或快捷别名启动与“创建长方体与圆柱体”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“创建长方体与圆柱体”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“基本三维实体”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_027_error",
@@ -3423,7 +4059,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "创建长方体与圆柱体的目标是：使用BOX和CYLINDER创建基本实体。",
-    "expanded_answer": "操作目标：使用BOX和CYLINDER创建基本实体。\n前置条件：有尺寸和定位点\n预期结果：基本三维实体\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用BOX和CYLINDER创建基本实体。\n前置条件：有尺寸和定位点\n预期结果：基本三维实体\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_028_howto",
@@ -3484,7 +4132,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "拉伸或旋转二维轮廓生成实体的目标是：使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。",
-    "expanded_answer": "操作目标：使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。\n前置条件：闭合二维轮廓和高度/旋转轴\n预期结果：实体模型\n操作要点：确认本任务目标为“使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。”，检查是否满足前置条件：闭合二维轮廓和高度/旋转轴。；通过功能区、菜单、命令行或快捷别名启动与“拉伸或旋转二维轮廓生成实体”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“拉伸或旋转二维轮廓生成实体”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“实体模型”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。\n前置条件：闭合二维轮廓和高度/旋转轴\n预期结果：实体模型\n操作要点：确认本任务目标为“使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。”，检查是否满足前置条件：闭合二维轮廓和高度/旋转轴。；通过功能区、菜单、命令行或快捷别名启动与“拉伸或旋转二维轮廓生成实体”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“拉伸或旋转二维轮廓生成实体”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“实体模型”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_028_error",
@@ -3545,7 +4205,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "拉伸或旋转二维轮廓生成实体的目标是：使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。",
-    "expanded_answer": "操作目标：使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。\n前置条件：闭合二维轮廓和高度/旋转轴\n预期结果：实体模型\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用EXTRUDE或REVOLVE从二维闭合轮廓生成三维实体。\n前置条件：闭合二维轮廓和高度/旋转轴\n预期结果：实体模型\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_029_howto",
@@ -3606,7 +4278,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "使用并集、差集、交集构建组合实体的目标是：使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。",
-    "expanded_answer": "操作目标：使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。\n前置条件：已有实体对象\n预期结果：组合实体或开孔相贯结果\n操作要点：确认本任务目标为“使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。”，检查是否满足前置条件：已有实体对象。；通过功能区、菜单、命令行或快捷别名启动与“使用并集、差集、交集构建组合实体”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“使用并集、差集、交集构建组合实体”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“组合实体或开孔相贯结果”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。\n前置条件：已有实体对象\n预期结果：组合实体或开孔相贯结果\n操作要点：确认本任务目标为“使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。”，检查是否满足前置条件：已有实体对象。；通过功能区、菜单、命令行或快捷别名启动与“使用并集、差集、交集构建组合实体”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“使用并集、差集、交集构建组合实体”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“组合实体或开孔相贯结果”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_029_error",
@@ -3667,7 +4351,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "使用并集、差集、交集构建组合实体的目标是：使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。",
-    "expanded_answer": "操作目标：使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。\n前置条件：已有实体对象\n预期结果：组合实体或开孔相贯结果\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：使用UNION、SUBTRACT、INTERSECT进行复杂实体构造。\n前置条件：已有实体对象\n预期结果：组合实体或开孔相贯结果\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_030_howto",
@@ -3728,7 +4424,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制简易道路标准横断面图的目标是：综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。",
-    "expanded_answer": "操作目标：综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。\n前置条件：掌握基本绘图、图层、标注和块命令\n预期结果：标准横断面图\n操作要点：确认本任务目标为“综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。”，检查是否满足前置条件：掌握基本绘图、图层、标注和块命令。；通过功能区、菜单、命令行或快捷别名启动与“绘制简易道路标准横断面图”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制简易道路标准横断面图”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“标准横断面图”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示"
+    "expanded_answer": "操作目标：综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。\n前置条件：掌握基本绘图、图层、标注和块命令\n预期结果：标准横断面图\n操作要点：确认本任务目标为“综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。”，检查是否满足前置条件：掌握基本绘图、图层、标注和块命令。；通过功能区、菜单、命令行或快捷别名启动与“绘制简易道路标准横断面图”相关的AutoCAD工具。；根据命令提示选择对象、指定基点、输入坐标、选择边界或设置参数。；输入与“绘制简易道路标准横断面图”相关的距离、半径、高度、比例、角度、图层属性或其他参数。；检查输出结果是否符合“标准横断面图”要求，必要时使用UNDO、属性面板或相关编辑命令修正。；当前图层；对象选择；基点/坐标；参数单位；结果显示\n结果检查：当前图层；对象选择；基点/坐标；参数单位；结果显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "当前图层",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_task_030_error",
@@ -3789,7 +4497,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "绘制简易道路标准横断面图的目标是：综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。",
-    "expanded_answer": "操作目标：综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。\n前置条件：掌握基本绘图、图层、标注和块命令\n预期结果：标准横断面图\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示"
+    "expanded_answer": "操作目标：综合应用单位、图层、绘图、标注、图块和边坡绘制完成道路横断面。\n前置条件：掌握基本绘图、图层、标注和块命令\n预期结果：标准横断面图\n操作要点：检查命令是否正确；检查对象是否可选；检查图层状态；检查基点/坐标/参数；必要时撤销后重做；命令状态；图层锁定/冻结；对象类型；参数值；视图显示\n结果检查：命令状态；图层锁定/冻结；对象类型；参数值；视图显示",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "对象类型",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": true,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_001",
@@ -3841,7 +4561,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_002",
@@ -3892,7 +4624,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_003",
@@ -3944,7 +4688,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_004",
@@ -3995,7 +4751,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_005",
@@ -4047,7 +4815,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_006",
@@ -4098,7 +4878,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_007",
@@ -4150,7 +4942,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_008",
@@ -4201,7 +5005,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_009",
@@ -4253,7 +5069,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_010",
@@ -4304,7 +5132,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_011",
@@ -4356,7 +5196,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_012",
@@ -4407,7 +5259,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_013",
@@ -4459,7 +5323,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_014",
@@ -4510,7 +5386,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_015",
@@ -4562,7 +5450,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_016",
@@ -4613,7 +5513,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_017",
@@ -4665,7 +5577,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_018",
@@ -4716,7 +5640,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_019",
@@ -4768,7 +5704,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_020",
@@ -4819,7 +5767,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_021",
@@ -4871,7 +5831,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_022",
@@ -4922,7 +5894,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_023",
@@ -4974,7 +5958,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_024",
@@ -5025,7 +6021,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_025",
@@ -5077,7 +6085,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_026",
@@ -5128,7 +6148,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_027",
@@ -5180,7 +6212,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_028",
@@ -5231,7 +6275,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_029",
@@ -5283,7 +6339,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_030",
@@ -5334,7 +6402,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_031",
@@ -5386,7 +6466,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_032",
@@ -5437,7 +6529,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_033",
@@ -5489,7 +6593,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_034",
@@ -5540,7 +6656,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_035",
@@ -5592,7 +6720,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_036",
@@ -5643,7 +6783,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_037",
@@ -5695,7 +6847,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_038",
@@ -5746,7 +6910,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_039",
@@ -5798,7 +6974,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_040",
@@ -5849,7 +7037,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_041",
@@ -5899,7 +7099,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "命令: SPLINE下拉“绘图”工具栏点击工具 当前设置: 方式=拟合 节点=弦 指定第一个点或 [方式(M)/阶数(K)/对象(O)]: 输入下一个点或 [起",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_042",
@@ -5948,7 +7160,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "命令: SPLINE下拉“绘图”工具栏点击工具 当前设置: 方式=拟合 节点=弦 指定第一个点或 [方式(M)/阶数(K)/对象(O)]: 输入下一个点或 [起",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_043",
@@ -6000,7 +7224,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）在指定样条曲线的第一个点后，系统会依次提示输入更多点以确定曲线形状。用户可连续添加多个点，也可用Undo撤销最后输入的点。若选择闭合选项，首尾点将重合并在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_044",
@@ -6051,7 +7287,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）在指定样条曲线的第一个点后，系统会依次提示输入更多点以确定曲线形状。用户可连续添加多个点，也可用Undo撤销最后输入的点。若选择闭合选项，首尾点将重合并在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_045",
@@ -6099,7 +7347,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_046",
@@ -6146,7 +7406,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_047",
@@ -6198,7 +7470,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_048",
@@ -6249,7 +7533,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_049",
@@ -6301,7 +7597,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_050",
@@ -6352,7 +7660,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_051",
@@ -6404,7 +7724,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（一）模型空间与图纸空间的概念 在 AutoCAD 中，绘图环境分为模型空间（Model Space）与图纸空间（Paper Space）两种，它们分别承担建模",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_052",
@@ -6455,7 +7787,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（一）模型空间与图纸空间的概念 在 AutoCAD 中，绘图环境分为模型空间（Model Space）与图纸空间（Paper Space）两种，它们分别承担建模",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_053",
@@ -6505,7 +7849,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_054",
@@ -6554,7 +7910,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_055",
@@ -6606,7 +7974,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_056",
@@ -6657,7 +8037,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_057",
@@ -6709,7 +8101,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "命令: ROTATE或点击“修改”工具栏的工具 UCS 当前的正角方向: ANGDIR=逆时针 ANGBASE=0 选择对象: （选择要旋转的物体） 选择对象:",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_058",
@@ -6760,7 +8164,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "命令: ROTATE或点击“修改”工具栏的工具 UCS 当前的正角方向: ANGDIR=逆时针 ANGBASE=0 选择对象: （选择要旋转的物体） 选择对象:",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_059",
@@ -6812,7 +8228,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "②输入end（端点对象捕捉），选择被旋转的对象的端点3，完成参考角的定义； ③再次输入end，选择与之对齐的对象的端点4，即完成旋转。 （六）镜像对象 镜像可以",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_060",
@@ -6863,7 +8291,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "②输入end（端点对象捕捉），选择被旋转的对象的端点3，完成参考角的定义； ③再次输入end，选择与之对齐的对象的端点4，即完成旋转。 （六）镜像对象 镜像可以",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_061",
@@ -6915,7 +8355,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_062",
@@ -6966,7 +8418,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_063",
@@ -7018,7 +8482,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）3P选项通过依次指定圆周上的三个点创建圆。三点不得共线，否则系统报错。输入前两点后，视图中会出现预览圆并随鼠标移动，便于在确定第三点前直观判断圆的大小与位",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_064",
@@ -7069,7 +8545,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）3P选项通过依次指定圆周上的三个点创建圆。三点不得共线，否则系统报错。输入前两点后，视图中会出现预览圆并随鼠标移动，便于在确定第三点前直观判断圆的大小与位",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_065",
@@ -7121,7 +8609,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_066",
@@ -7172,7 +8672,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）当绘制两条以上直线后，输入 C 选项可将当前端点与首点相连，形成闭合图形并结束命令。 （2）在提示输入下一点时输入 U 选项，可撤销刚绘制的最后一段；连续",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_067",
@@ -7224,7 +8736,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_068",
@@ -7275,7 +8799,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_069",
@@ -7327,7 +8863,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_070",
@@ -7378,7 +8926,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_071",
@@ -7430,7 +8990,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "命令: LINE（或L）或点击“绘图”工具栏的工具 指定第一点: 指定下一点或 [放弃(U)]: 指定下一点或 [闭合(C)/放弃(U)]:",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_072",
@@ -7481,7 +9053,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "命令: LINE（或L）或点击“绘图”工具栏的工具 指定第一点: 指定下一点或 [放弃(U)]: 指定下一点或 [闭合(C)/放弃(U)]:",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_073",
@@ -7533,7 +9117,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_074",
@@ -7584,7 +9180,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_075",
@@ -7636,7 +9244,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_076",
@@ -7687,7 +9307,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_077",
@@ -7738,7 +9370,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_078",
@@ -7788,7 +9432,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在“指定第二个打断点 或 [第一点(F)]:”提示符下： （1）若直接点取实体上的另一点，则将实体上所点取的两个点之间的那部分实体删除。若输入“@”，则将实体在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_079",
@@ -7840,7 +9496,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_080",
@@ -7891,7 +9559,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_081",
@@ -7943,7 +9623,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_082",
@@ -7994,7 +9686,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_083",
@@ -8046,7 +9750,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_084",
@@ -8097,7 +9813,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_085",
@@ -8149,7 +9877,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_086",
@@ -8200,7 +9940,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_087",
@@ -8251,7 +10003,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_088",
@@ -8301,7 +10065,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "用于控制在空间受限时文字与箭头的自动排布逻辑（如是否强制将文字置于尺寸线外），适用于密集标注场景。 （6）公差与换算单位 对于涉及尺寸公差或单位换算的工程，可在",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_089",
@@ -8349,7 +10125,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_090",
@@ -8396,7 +10184,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_091",
@@ -8447,7 +10247,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_092",
@@ -8497,7 +10309,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_093",
@@ -8548,7 +10372,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "基线标注是自同一基线处测量的多个标注，连续标注是首尾相连的多个标注，如图 6-29所示。在创建基线或连续标注之前，必须创建线性、对齐或角度标注。基线标注和连续标",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_094",
@@ -8598,7 +10434,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "基线标注是自同一基线处测量的多个标注，连续标注是首尾相连的多个标注，如图 6-29所示。在创建基线或连续标注之前，必须创建线性、对齐或角度标注。基线标注和连续标",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_095",
@@ -8650,7 +10498,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_096",
@@ -8701,7 +10561,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_097",
@@ -8751,7 +10623,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）选中不再使用的图层，点击“删除图层”按钮； （2）若需一次性清除所有未使用图层，可使用 PURGE 命令； （3）注意：系统保留图层（如图层 0、Defp",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_098",
@@ -8800,7 +10684,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "（1）选中不再使用的图层，点击“删除图层”按钮； （2）若需一次性清除所有未使用图层，可使用 PURGE 命令； （3）注意：系统保留图层（如图层 0、Defp",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_099",
@@ -8852,7 +10748,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_100",
@@ -8903,7 +10811,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_101",
@@ -8955,7 +10875,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_102",
@@ -9006,7 +10938,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_103",
@@ -9058,7 +11002,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_104",
@@ -9109,7 +11065,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_105",
@@ -9159,7 +11127,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_106",
@@ -9208,7 +11188,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": true,
+      "matched_term": "在AutoCAD中，当创建文字、属性和属性定义的镜像时，如果仍然按照轴对称规则进行，结果为被反转或倒置的图像。要避免如此，可设置系统变量MIRRTEXT为0（关",
+      "support_type": "direct_word_question_hit",
+      "evidence_confidence": "high",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_107",
@@ -9256,7 +11248,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_108",
@@ -9303,7 +11307,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_109",
@@ -9355,7 +11371,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_110",
@@ -9406,7 +11434,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_111",
@@ -9454,7 +11494,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_112",
@@ -9501,7 +11553,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_113",
@@ -9549,7 +11613,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_114",
@@ -9596,7 +11672,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_115",
@@ -9644,7 +11732,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_116",
@@ -9691,7 +11791,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_117",
@@ -9739,7 +11851,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_118",
@@ -9786,7 +11910,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_119",
@@ -9834,7 +11970,19 @@
     ],
     "recommended_resources": [],
     "concise_answer": "概念定义；作用说明；典型应用",
-    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：概念定义；作用说明；典型应用；常见误区；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   },
   {
     "answer_id": "ans_ch06_concept_120",
@@ -9881,6 +12029,18 @@
     ],
     "recommended_resources": [],
     "concise_answer": "应用场景；工程意义；检查方法",
-    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景"
+    "expanded_answer": "操作要点：应用场景；工程意义；检查方法；术语定义；操作作用；适用场景\n结果检查：术语定义；操作作用；适用场景",
+    "word_alignment": {
+      "source": "word_alignment_ch06_ch09_2026-06-04",
+      "word_hit": false,
+      "matched_term": "",
+      "support_type": "teaching_rewrite_supported_by_task_or_kp",
+      "evidence_confidence": "medium",
+      "related_task_word_hit": false,
+      "related_kp_word_hit": true,
+      "concept_comparison_supported": false,
+      "needs_textbook_anchor_review": false,
+      "not_verbatim_quote": true
+    }
   }
 ]

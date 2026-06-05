@@ -7,6 +7,8 @@ import shutil
 from pathlib import Path
 from typing import Any
 
+from normalize_operation_chapters import WORD_ALIGNMENT_PATH, apply_word_alignment_enrichment
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DESKTOP_KNOWLEDGE = Path(r"C:\Users\Michael\Desktop\knowledge")
@@ -19,6 +21,7 @@ def main() -> int:
     parser.add_argument("--source-json", type=Path, default=None)
     parser.add_argument("--source-jsonl", type=Path, default=None)
     parser.add_argument("--asset-root", type=Path, default=SOURCE_ASSET_ROOT)
+    parser.add_argument("--word-alignment", type=Path, default=WORD_ALIGNMENT_PATH)
     parser.add_argument("--output-dir", type=Path, default=ROOT / "data/raw/ch06")
     args = parser.parse_args()
 
@@ -29,12 +32,13 @@ def main() -> int:
     output_path = output_dir / source_json.name.replace(" (1)", "")
 
     data = json.loads(source_json.read_text(encoding="utf-8"))
-    normalize_package(data, args.asset_root)
+    normalize_package(data, args.asset_root, args.word_alignment)
     output_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     if source_jsonl and source_jsonl.exists():
         archive = output_dir / source_jsonl.name
-        shutil.copy2(source_jsonl, archive)
+        if source_jsonl.resolve() != archive.resolve():
+            shutil.copy2(source_jsonl, archive)
 
     summary = {
         "source_json": str(source_json),
@@ -90,7 +94,7 @@ def find_ch06_jsonl() -> Path | None:
     return matches[0] if matches else None
 
 
-def normalize_package(data: dict[str, Any], asset_root: Path) -> None:
+def normalize_package(data: dict[str, Any], asset_root: Path, word_alignment_path: Path) -> None:
     data["Synonyms_Questions"] = normalize_synonyms(data.get("Synonyms", []))
     data["Question_Routing_Rules"] = normalize_routing_rules(data.get("Routing_Rules", []))
     data["Answer_Guardrails"] = normalize_answer_guardrails(data.get("Answer_Policies", []))
@@ -108,6 +112,7 @@ def normalize_package(data: dict[str, Any], asset_root: Path) -> None:
     ensure_operation_media_metadata(data)
     bind_interactive_script(data, asset_root)
     add_resource_eval_cases(data)
+    apply_word_alignment_enrichment(data, "ch06", word_alignment_path)
     add_metadata(data)
 
 
@@ -518,7 +523,9 @@ def add_resource_eval_cases(data: dict[str, Any]) -> None:
 
 
 def add_metadata(data: dict[str, Any]) -> None:
+    existing = data.get("metadata") if isinstance(data.get("metadata"), dict) else {}
     data["metadata"] = {
+        **existing,
         "chapter_id": "ch06",
         "chapter_title": "第6章 AutoCAD平台功能与使用方法",
         "version": "v1.0操作完备版",

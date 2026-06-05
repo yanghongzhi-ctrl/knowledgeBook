@@ -978,5 +978,105 @@
     "transcript_text": "待从操作视频转写或人工整理。",
     "keyframe_path": "chapter_09/videos/keyframes/video_ch09_014_seg05.png",
     "qa_trigger": "学生询问GDAL—Map 3D—Civil 3D协同闭环相关操作时推荐。"
+  },
+  {
+    "segment_id": "vidseg_ch09_015_01",
+    "video_id": "video_ch09_015",
+    "title": "准备数据与前置条件视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_015",
+    "related_step": "step_ch09_015_01",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_015_02",
+    "video_id": "video_ch09_015",
+    "title": "启动对应工具或命令视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_015",
+    "related_step": "step_ch09_015_02",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_015_03",
+    "video_id": "video_ch09_015",
+    "title": "设置关键参数视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_015",
+    "related_step": "step_ch09_015_03",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_015_04",
+    "video_id": "video_ch09_015",
+    "title": "执行处理并检查结果视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_015",
+    "related_step": "step_ch09_015_04",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_015_05",
+    "video_id": "video_ch09_015",
+    "title": "保存成果并建立关联视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_015",
+    "related_step": "step_ch09_015_05",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_016_01",
+    "video_id": "video_ch09_016",
+    "title": "准备数据与前置条件视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_016",
+    "related_step": "step_ch09_016_01",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_016_02",
+    "video_id": "video_ch09_016",
+    "title": "启动对应工具或命令视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_016",
+    "related_step": "step_ch09_016_02",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_016_03",
+    "video_id": "video_ch09_016",
+    "title": "设置关键参数视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_016",
+    "related_step": "step_ch09_016_03",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_016_04",
+    "video_id": "video_ch09_016",
+    "title": "执行处理并检查结果视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_016",
+    "related_step": "step_ch09_016_04",
+    "status": "placeholder_metadata"
+  },
+  {
+    "segment_id": "vidseg_ch09_016_05",
+    "video_id": "video_ch09_016",
+    "title": "保存成果并建立关联视频片段占位",
+    "start_time": "待标注",
+    "end_time": "待标注",
+    "related_task": "task_ch09_016",
+    "related_step": "step_ch09_016_05",
+    "status": "placeholder_metadata"
   }
 ]
