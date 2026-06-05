@@ -574,3 +574,46 @@ P4 分级结果：
 | full proposed 校验 | `py scripts/validate_ch10_ch11_source_manual_approvals.py --approvals data/review/ch10_ch11_full_source_boundary_manual_approvals.proposed.json` 返回 `ok=true`，errors=0，warnings=0 |
 | 进度预览 | 51 条 proposed 全覆盖，预览完成度 100.0% |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
+
+## Source_Chunks 全量 proposed 人工复核交接包
+
+本轮在 51 条全覆盖 proposed 草案基础上，新增人工复核交接包生成脚本。该交接包把 P1/P2/P3/P4 的分散产物汇总为统一索引，输出逐项 CSV、Markdown 摘要、风险分层、场景分布和晋级前剩余人工动作。同步对 full proposed 运行 dry-run 晋级预检，确认校验通过但不会写入正式审批文件。
+
+新增文件：
+| 文件 | 用途 |
+|---|---|
+| `scripts/build_ch10_ch11_source_review_handoff.py` | 生成第10、11章 Source_Chunks 人工复核交接包 |
+| `output/ch10_ch11_source_review_handoff_2026-06-05.json` | 结构化交接包，含 51 条逐项记录、风险分层和输入包摘要 |
+| `output/ch10_ch11_source_review_handoff_2026-06-05.md` | 人工阅读版交接包 |
+| `output/ch10_ch11_source_review_handoff_2026-06-05.csv` | 逐项复核 CSV 清单 |
+| `output/ch10_ch11_full_proposed_promotion_preview_2026-06-05.json` | full proposed 晋级 dry-run 预检 |
+| `output/ch10_ch11_full_proposed_promotion_preview_2026-06-05.md` | full proposed 晋级 dry-run 预检报告 |
+
+交接包统计：
+| 项目 | 数量 |
+|---|---:|
+| 复核项总数 | 51 |
+| 校验 errors | 0 |
+| 校验 warnings | 0 |
+| 低风险候选锚点 | 5 |
+| 中风险边界/摘要项 | 16 |
+| 高风险仍需补锚点项 | 30 |
+| 场景分组覆盖 | 6 组 |
+
+人工审定重点：
+| 类型 | 数量 | 处理原则 |
+|---|---:|---|
+| `manual_anchor_pending` | 30 | 回看 Word，补更精确教材锚点或保留待定说明 |
+| `confirm_teaching_summary` | 9 | 只作为教学摘要/术语支撑，不标注为教材逐字引用 |
+| `confirm_boundary_fragment` | 7 | 确认是否保留片段，必要时改为拆分或补上下文 |
+| `confirm_candidate_anchor` | 5 | 确认候选段落与 Source_Chunk 表达同一概念 |
+
+验证结果：
+| 检查项 | 结果 |
+|---|---|
+| 脚本编译 | `py -m py_compile scripts/build_ch10_ch11_source_review_handoff.py` 通过 |
+| 交接包生成 | JSON/Markdown/CSV 均生成，51 条复核项全进入清单 |
+| full proposed 校验 | validation_ok=true，errors=0，warnings=0 |
+| 晋级 dry-run | 非空 decision=51，open=0，但 formal_written=false |
+| 写入保护 | dry-run blocker 为 `Dry run only. Add --write-formal --confirm-reviewed to write the formal approval file.` |
+| 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍未创建 |
