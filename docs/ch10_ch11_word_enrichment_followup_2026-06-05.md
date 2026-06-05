@@ -302,3 +302,35 @@ P1 专项包统计：
 | 缺少 `--confirm-reviewed` 的写入测试 | 被拒绝，退出码 1 |
 | formal 元数据 | 真正晋级时会写入 `status=manual_review_formal`、`promoted_from`、`promoted_at` |
 | 正式审批文件 | `data/review/ch10_ch11_source_boundary_manual_approvals.json` 仍不存在 |
+
+## ch11 应用场景分组复核包
+
+本轮继续推进第11章人工复核材料准备，针对 `P3_ch11_application_scene_manual` 的 29 条待复核 Source_Chunks 新增分组复核包。该脚本只生成辅助材料，不写审批文件；场景归类只依据 Source_Chunk 文本，不使用不稳定候选段落，避免错误候选小标题干扰分组。
+
+新增文件：
+
+| 文件 | 用途 |
+|---|---|
+| `scripts/build_ch11_application_scene_review_packet.py` | 生成第11章应用场景分组复核包 |
+| `output/ch11_application_scene_review_packet_2026-06-05.json` | 结构化分组包，含上下文段落 |
+| `output/ch11_application_scene_review_packet_2026-06-05.md` | 人工阅读版复核报告 |
+| `output/ch11_application_scene_review_packet_2026-06-05.csv` | 表格版复核清单 |
+
+分组结果：
+
+| 场景组 | 数量 |
+|---|---:|
+| 数字化设计与多物理场仿真 | 9 |
+| 智能化施工与质量闭环控制 | 5 |
+| 基于数字主线的数字化交付 | 4 |
+| 预测性养护与结构健康监测 | 7 |
+| 全生命周期资产管理与价值评估 | 3 |
+| 智慧交通治理与韧性服务 | 1 |
+
+验证结果：
+
+| 检查项 | 结果 |
+|---|---|
+| 脚本编译 | `py -m py_compile scripts/build_ch11_application_scene_review_packet.py` 通过 |
+| 包生成 | 29 条 P3 ch11 应用场景复核项全部进入分组包 |
+| 场景抽查 | 视距/车辆动力学归入设计仿真；压实/摊铺/预制构件归入施工控制；降阶模型/损伤识别归入预测性养护；车道级数字车流归入交通治理 |
