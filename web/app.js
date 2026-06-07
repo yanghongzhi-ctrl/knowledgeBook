@@ -154,6 +154,7 @@ const els = {
   confidence: document.querySelector("#confidence"),
   answerPanel: document.querySelector("#answerPanel"),
   answerBody: document.querySelector("#answerBody"),
+  learningSupport: document.querySelector("#learningSupport"),
   resources: document.querySelector("#resources"),
   resourceCount: document.querySelector("#resourceCount"),
   resourceTabs: document.querySelector("#resourceTabs"),
@@ -688,6 +689,7 @@ function renderTrace(trace) {
 
 async function loadAnswerCard(answerId) {
   if (!answerId || String(answerId).startsWith("resource:")) {
+    renderLearningSupport(null);
     els.detailId.textContent = answerId || "-";
     els.cardDetail.className = "detail-box empty";
     els.cardDetail.textContent = "资源型回答暂无答案卡详情，可直接打开推荐资源查看。";
@@ -700,10 +702,88 @@ async function loadAnswerCard(answerId) {
     const response = await fetch(`${apiBase()}/answer-card?id=${encodeURIComponent(answerId)}&chapter_id=${encodeURIComponent(state.chapterId)}`);
     const data = await response.json();
     if (!response.ok) throw new Error(data.error || `HTTP ${response.status}`);
+    renderLearningSupport(data.learning_support);
     renderAnswerCardDetail(data);
   } catch (error) {
+    renderLearningSupport(null);
     els.cardDetail.innerHTML = `<p>${escapeHtml(error.message)}</p>`;
   }
+}
+
+function renderLearningSupport(data) {
+  if (!els.learningSupport) return;
+  if (!data) {
+    els.learningSupport.hidden = true;
+    els.learningSupport.innerHTML = "";
+    return;
+  }
+
+  const path = data.study_path || [];
+  const checks = data.self_check || [];
+  const next = data.next_learning || [];
+  const navigation = data.navigation || null;
+  const scenarios = data.scenarios || [];
+  const stage = [data.card_type, data.learning_stage].filter(Boolean).join(" · ");
+
+  els.learningSupport.hidden = false;
+  els.learningSupport.innerHTML = `
+    <div class="learning-support-head">
+      <div>
+        <span>继续学习</span>
+        <h3>${escapeHtml(data.learning_objective || "巩固本题并完成一次自我检查")}</h3>
+      </div>
+      ${stage ? `<small>${escapeHtml(stage)}</small>` : ""}
+    </div>
+    ${data.one_sentence_takeaway ? `<p class="learning-takeaway">${escapeHtml(data.one_sentence_takeaway)}</p>` : ""}
+    <div class="learning-columns">
+      ${learningList("学习路径", path)}
+      ${selfCheckHtml(checks)}
+      ${learningList("下一步", next)}
+    </div>
+    ${navigation ? navigationHtml(navigation) : ""}
+    ${scenarios.length ? scenarioHtml(scenarios[0]) : ""}
+    ${data.misconception ? `<p class="learning-warning"><strong>注意：</strong>${escapeHtml(String(data.misconception).replace(/^注意[:：]\s*/, ""))}</p>` : ""}
+  `;
+}
+
+function learningList(title, items) {
+  if (!items.length) return "";
+  return `<section class="learning-block">
+    <h4>${escapeHtml(title)}</h4>
+    <ol>${items.slice(0, 4).map((item) => `<li>${escapeHtml(typeof item === "string" ? item : item.instruction || "")}</li>`).join("")}</ol>
+  </section>`;
+}
+
+function selfCheckHtml(items) {
+  if (!items.length) return "";
+  return `<section class="learning-block">
+    <h4>自我检查</h4>
+    ${items.slice(0, 3).map((item) => {
+      const question = typeof item === "string" ? item : item.question || "";
+      const answer = typeof item === "string" ? "" : item.answer_hint || item.answer || item.reference_answer || "";
+      return `<details class="self-check-item">
+        <summary>${escapeHtml(question)}</summary>
+        ${answer ? `<p>${escapeHtml(answer)}</p>` : ""}
+      </details>`;
+    }).join("")}
+  </section>`;
+}
+
+function navigationHtml(item) {
+  const sequence = item.learning_sequence || [];
+  if (!sequence.length) return "";
+  return `<section class="learning-flow">
+    <h4>${escapeHtml(item.title || "本章学习路线")}</h4>
+    <div>${sequence.map((step, index) => `<span><b>${index + 1}</b>${escapeHtml(step)}</span>`).join("")}</div>
+  </section>`;
+}
+
+function scenarioHtml(item) {
+  return `<details class="learning-scenario">
+    <summary>情境练习：${escapeHtml(item.scenario_description || item.scenario_title || "")}</summary>
+    <p>${escapeHtml(item.student_task || "")}</p>
+    ${learningList("完成步骤", item.task_steps || [])}
+  </details>`;
 }
 
 function renderAnswerCardDetail(data) {
