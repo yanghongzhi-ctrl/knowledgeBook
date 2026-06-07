@@ -204,6 +204,18 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
+function resolveUrl(url) {
+  if (!url || url === "#") return "#";
+  if (url.startsWith("http://") || url.startsWith("https://") || !url.startsWith("/")) {
+    return url;
+  }
+  if (window.location.hostname.endsWith("github.io")) {
+    const repoName = window.location.pathname.split("/")[1] || "knowledgeBook";
+    return `/${repoName}${url}`;
+  }
+  return url;
+}
+
 function renderMarkdown(markdown) {
   const lines = String(markdown || "").split(/\r?\n/);
   const blocks = [];
@@ -384,7 +396,7 @@ function renderResources(resources) {
 
 function resourceCardHtml(item, includeMatch = false) {
   const path = item.file_path || "";
-  const href = item.url_path || (path ? `../${path}` : "#");
+  const href = item.url_path ? resolveUrl(item.url_path) : (path ? resolveUrl(`/${path}`) : "#");
   const status = resourceStatus(item);
   const title = item.title || item.resource_id;
   const script = item.interactive_script || {};
@@ -628,14 +640,14 @@ function operationMediaHtml(step) {
     const label = video.available ? "视频可用" : "视频待补充";
     const text = `${label}${video.start_time ? ` · ${video.start_time}-${video.end_time || ""}` : ""}`;
     items.push(video.available && video.url_path
-      ? `<a class="media-chip ok" href="${escapeHtml(video.url_path)}" target="_blank" rel="noreferrer">${escapeHtml(text)}</a>`
+      ? `<a class="media-chip ok" href="${escapeHtml(resolveUrl(video.url_path))}" target="_blank" rel="noreferrer">${escapeHtml(text)}</a>`
       : `<span class="media-chip pending">${escapeHtml(text)}</span>`);
   }
   if (step.screenshot) {
     const shot = step.screenshot;
     const label = shot.available ? "截图可用" : "截图待补充";
     items.push(shot.available && shot.url_path
-      ? `<a class="media-chip ok" href="${escapeHtml(shot.url_path)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`
+      ? `<a class="media-chip ok" href="${escapeHtml(resolveUrl(shot.url_path))}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`
       : `<span class="media-chip pending">${escapeHtml(label)}</span>`);
   }
   return items.length ? `<div class="operation-media">${items.join("")}</div>` : "";
