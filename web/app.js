@@ -384,7 +384,7 @@ function renderResources(resources) {
 
 function resourceCardHtml(item, includeMatch = false) {
   const path = item.file_path || "";
-  const href = item.url_path || (path ? `/${path}` : "#");
+  const href = item.url_path || (path ? `../${path}` : "#");
   const status = resourceStatus(item);
   const title = item.title || item.resource_id;
   const script = item.interactive_script || {};
